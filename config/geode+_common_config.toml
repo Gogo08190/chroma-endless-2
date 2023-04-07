@@ -1,0 +1,22 @@
+
+#Geode+ Mod configuration settings
+["Configs for Geode+ Mod"]
+	#This control Nether Quartz Geode spawn minimal height!
+	"Nether Geodes Minimal Height" = 6
+	#This control Nether Quartz Geode spawn maximal height!
+	"Nether Geodes Maximal Height" = 30
+	#This control Nether Basalt Quartz Geode spawn minimal height!
+	"Nether Basalt Geodes Minimal Height" = 6
+	#This control Nether Basalt Quartz Geode spawn maximal height!
+	"Nether Basalt Geodes Maximal Height" = 30
+	#This control Wrappist Geode spawn minimal height!
+	"Wrappsit Geodes Minimal Height" = 0
+	#This control Wrappist Geode spawn maximal height!
+	"Wrappist Geodes Maximal Height" = 32
+	#This control Nether Quartz Geode spawn per chunk!
+	"Nether Geodes Per Chunk" = 16
+	#This control Nether Basalt Quartz Geode spawn per chunk!
+	"Nether Basalt Geodes Per Chunk" = 16
+	#This control Wrappist Geode spawn per chunk!
+	"Wrappist Geodes Per Chunk" = 32
+
