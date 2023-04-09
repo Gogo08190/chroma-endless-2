@@ -457,3 +457,4 @@
 		#Number of blocks to extend up and down when placing a vein of salt.
 		#Range: 0 ~ 2031
 		halfHeight = 1
+
