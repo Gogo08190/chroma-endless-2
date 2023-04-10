@@ -32,7 +32,7 @@
 #Configurations related to item selection.
 [itemSelection]
 	#List of mods that are preferred when selecting items in recipes.
-	preferredMods = ["minecraft"]
+	preferredMods = ["minecraft", "thermal", "immersiveengineering", "mekanism", "kubejs", "pneumaticcraft", "create", "industrialforegoing", "tconstruct", "botania", "quark", "mythicbotany", "undergarden", "chipped"]
 
 #Configurations related to block tags.
 [blockTags]
@@ -97,4 +97,3 @@
 	checkL10nUpdates = true
 	#The update interval of localization files in days.
 	updateInterval = 3.0
-

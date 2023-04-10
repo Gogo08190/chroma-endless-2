@@ -24,7 +24,7 @@ artifact_rarity = 1.0
 	#You don't need this unless you want to make campsites rarer than 1 attempt per chunk
 	#Each attempt to generate a campsite will succeed with a chance of 1/rarity
 	#Range: > 1
-	rarity = 1
+	rarity = 5
 	#The minimum y-level campsites can spawn at
 	#Range: -2048 ~ 2048
 	min_y = -60
@@ -46,4 +46,3 @@ artifact_rarity = 1.0
 	#End and nether biomes are excluded by default and do not have to be in this list
 	#To blacklist all biomes from a single mod, use "modid:*"
 	biome_blacklist = ["minecraft:void", "undergarden:*", "the_bumblezone:*", "twilightforest:*"]
-
