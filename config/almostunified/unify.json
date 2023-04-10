@@ -38,7 +38,8 @@
     "forge:storage_blocks/{material}",
     "forge:storage_blocks/raw_{material}",
     "forge:coal_coke",
-    "forge:slag"
+    "forge:slag",
+    "forge:bitumen"
   ],
   "materials": [
     "aeternium",
