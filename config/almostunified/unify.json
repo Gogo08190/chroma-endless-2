@@ -3,6 +3,8 @@
     "minecraft",
     "kubejs",
     "crafttweaker",
+    "pizzacraft",
+    "farmersdelight",
     "thermal",
     "create",
     "immersiveengineering",
@@ -39,7 +41,11 @@
     "forge:storage_blocks/raw_{material}",
     "forge:coal_coke",
     "forge:slag",
-    "forge:bitumen"
+    "forge:bitumen",
+    "forge:dusts/wood",
+    "forge:flour",
+    "forge:cooked_eggs",
+    "forge:dough"
   ],
   "materials": [
     "aeternium",
