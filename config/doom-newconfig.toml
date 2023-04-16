@@ -354,7 +354,7 @@
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Blood Maykr Max Health" = 100.0
 	#Range: > 1
-	"Blood Maykr Spawn Weight" = 6
+	"Blood Maykr Spawn Weight" = 1
 	#Range: > 1
 	"Blood Maykr Max Group" = 1
 	#Range: 1.0 ~ 1.7976931348623157E308
@@ -408,7 +408,7 @@
 	#Range: > 1
 	"Maykr Drone Min Group" = 1
 	#Range: > 1
-	"Maykr Drone Spawn Weight" = 15
+	"Maykr Drone Spawn Weight" = 1
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Maykr Drone Max Health" = 50.0
 	#Supports Biome Registry Names (minecraft:desert) or Biomes Tag with #
@@ -416,7 +416,7 @@
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Maykr Drone Ranged Damage" = 5.0
 	#Range: > 1
-	"Maykr Drone Max Group" = 2
+	"Maykr Drone Max Group" = 1
 
 ["Mob Settings:Whiplash"]
 	#Range: 1.0 ~ 1.7976931348623157E308
@@ -661,4 +661,3 @@
 	"Gorenest Biomes" = ["#nether"]
 	#Range: > 1
 	"Gorenest Max Group" = 1
-
