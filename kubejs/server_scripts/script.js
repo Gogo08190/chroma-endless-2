@@ -16,5 +16,5 @@ onEvent('item.tags', event => {
 	// event.get('forge:cobblestone').add('minecraft:diamond_ore')
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
-    // event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone') testgit
+    // event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
 })
