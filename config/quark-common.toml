@@ -112,14 +112,14 @@
 	"Celebratory Lamps" = true
 
 	[building.vertical_planks]
-		#This feature disables itself if any of the following mods are loaded: 
+		#This feature disables itself if any of the following mods are loaded:
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
 
 	[building.variant_ladders]
-		#This feature disables itself if any of the following mods are loaded: 
+		#This feature disables itself if any of the following mods are loaded:
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -127,7 +127,7 @@
 		"Change Names" = true
 
 	[building.variant_chests]
-		#This feature disables itself if any of the following mods are loaded: 
+		#This feature disables itself if any of the following mods are loaded:
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -138,7 +138,7 @@
 		"Structure Chests" = ["minecraft:village_plains=quark:oak_chest", "minecraft:igloo=quark:spruce_chest", "minecraft:village_snowy=quark:spruce_chest", "minecraft:village_taiga=quark:spruce_chest", "minecraft:desert_pyramid=quark:birch_chest", "minecraft:jungle_pyramid=quark:jungle_chest", "minecraft:village_desert=quark:jungle_chest", "minecraft:village_savanna=quark:acacia_chest", "minecraft:mansion=quark:dark_oak_chest", "minecraft:pillager_outpost=quark:dark_oak_chest", "minecraft:ruined_portal=quark:crimson_chest", "minecraft:bastion_remnant=quark:crimson_chest", "minecraft:fortress=quark:nether_brick_chest", "minecraft:end_city=quark:purpur_chest"]
 
 	[building.variant_bookshelves]
-		#This feature disables itself if any of the following mods are loaded: 
+		#This feature disables itself if any of the following mods are loaded:
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -179,7 +179,7 @@
 		"Enable Netherrack Bricks" = true
 
 	[building.leaf_carpet]
-		#This feature disables itself if any of the following mods are loaded: 
+		#This feature disables itself if any of the following mods are loaded:
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -233,7 +233,7 @@
 [management]
 	"Quick Armor Swapping" = true
 	"Item Sharing" = true
-	"Inventory Sorting" = true
+	"Inventory Sorting" = false
 	"Hotbar Changer" = true
 	"Expanded Item Interactions" = true
 	"Easy Transfering" = true
@@ -246,9 +246,9 @@
 		"Render Items In Chat" = true
 
 	[management.inventory_sorting]
-		"Enable Player Inventory" = true
-		"Enable Player Inventory In Chests" = true
-		"Enable Chests" = true
+		"Enable Player Inventory" = false
+		"Enable Player Inventory In Chests" = false
+		"Enable Chests" = false
 		#Play a click when sorting inventories using keybindings
 		"Satisfying Click" = true
 
@@ -1174,7 +1174,7 @@
 				"Is Blacklist" = true
 
 	[world.azalea_wood]
-		#This feature disables itself if any of the following mods are loaded: 
+		#This feature disables itself if any of the following mods are loaded:
 		# - caverns_and_chasms
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -1570,7 +1570,7 @@
 		"Enable Soul Compass" = true
 
 	[oddities.tiny_potato]
-		#This feature disables itself if any of the following mods are loaded: 
+		#This feature disables itself if any of the following mods are loaded:
 		# - botania
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -1654,4 +1654,3 @@
 		"Items In Backpack Tick" = true
 		"Base Ravager Hide Drop" = 1
 		"Extra Chance Per Looting" = 0.5
-
