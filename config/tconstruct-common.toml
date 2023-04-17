@@ -10,11 +10,11 @@
 	#If empty, all materials will show
 	showOnlyPartMaterial = ""
 	#If true, tables such as the part builder and tinker station will show all variants. If false shows only a variant with a default texture.
-	showAllTableVariants = true
+	showAllTableVariants = false
 	#If true, anvils will show all metal variants. If false, shows only a variant with the default texture
-	showAllAnvilVariants = true
+	showAllAnvilVariants = false
 	#If true, smeltery and foundry controllers, drains, ducts, and chutes will show all variants
-	showAllSmelteryVariants = true
+	showAllSmelteryVariants = false
 
 	#Tweaks to vanilla damage sources to better work with armor
 	[gameplay.damageTweaks]
