@@ -3,6 +3,7 @@
 onEvent('recipes', (event) => {
     const idRemovals = [
       'tconstruct:tables/tinkers_anvil',
+      'tconstruct:tables/scorched_anvil',
       'tconstruct:smeltery/seared/drain_retextured',
       'tconstruct:smeltery/seared/duct_retextured',
       'tconstruct:smeltery/seared/chute_retextured',
