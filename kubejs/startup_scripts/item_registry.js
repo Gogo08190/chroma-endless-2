@@ -1,7 +1,9 @@
 onEvent('item.registry', (event) => {
-    const items = [];
+    const items = [
+      'mana_diamond_plate'
+    ];
 
     items.forEach((item) => {
-        event.create('chroma:' + item).texture(`kubejs:item/${item}`);
+        event.create('chroma:' + item).texture(`chroma:item/${item}`);
     });
 });
