@@ -14,7 +14,7 @@
 	#1: Hidden unless holding a mana consuming/restoring item.
 	#2: Always hidden.
 	#Range: 0 ~ 2
-	hudMode = 0
+	hudMode = 1
 	#0: Top Left
 	#1: Top Center
 	#2: Top Right
@@ -24,7 +24,7 @@
 	#6: Bottom Left
 	#7: Middle Left
 	#Range: 0 ~ 7
-	hudPosition = 0
+	hudPosition = 6
 	#Change the size of pinned recipes.
 	#Range: 1 ~ 3
 	pinnedRecipeSize = 1
@@ -43,4 +43,3 @@
 	ma_multiblock_tip = false
 	ma_prettyblocks_tip = true
 	ma_bindwounds_tip = false
-
