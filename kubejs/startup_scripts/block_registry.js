@@ -1,6 +1,6 @@
 onEvent('block.registry', (event) => {
     const blocks = [
-      {name: 'andesite_alloy_block', displayName: 'Block of Andesite Alloy', material: 'stone', hardness: '5'},
+      {name: 'andesite_alloy_block', displayName: 'Block of Andesite Alloy', material: 'stone', hardness: '1'},
     ];
 
     blocks.forEach((block) => {
