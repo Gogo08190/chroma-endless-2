@@ -1,0 +1,10 @@
+[
+  {
+    "dimension": "minecraft:overworld",
+    "mob": [
+      "blue_skies:gatekeeper"
+    ],
+    "onjoin": true,
+    "result": "deny"
+  }
+ ]
