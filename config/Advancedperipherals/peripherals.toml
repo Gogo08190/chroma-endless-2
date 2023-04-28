@@ -49,7 +49,7 @@
 
 	[Peripherals.RS_Bridge]
 		#Enable the Rs Bridge or not.
-		enableRsBridge = true
+		enableRsBridge = false
 		#Power consumption per tick.
 		#Range: > 0
 		rsPowerConsumption = 10
