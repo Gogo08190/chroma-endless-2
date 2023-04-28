@@ -8,8 +8,8 @@ onEvent("morejs.player.start_trading", (event) => { //Enlève les premiers trade
     };
 });
 
-onEvent("morejs.villager.trades", (event) => { //Enlève n'importe quel trade (voir tous) 
-	event.removeTrades("immersiveengineering:machinist")
-	event.removeTrades("immersiveengineering:electrician")
+onEvent("morejs.villager.trades", (event) => { //Enlève n'importe quel trade  
+	event.removeTrades("immersiveengineering:machinist",1)
+	event.removeTrades("immersiveengineering:electrician",1)
 	}
 )
