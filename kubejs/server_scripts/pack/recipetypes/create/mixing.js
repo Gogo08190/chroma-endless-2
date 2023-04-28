@@ -27,13 +27,13 @@ onEvent('recipes', (event) => {
             inputs: [Item.of('minecraft:soul_sand', 4), Item.of('#forge:gravel', 4), 'minecraft:magma_block'],
             output: Item.of('tconstruct:nether_grout', 8),
             heated: true,
-            id: 'tconstruct:smeltery/seared/nether_grout_multiple'
+            id: 'tconstruct:smeltery/scorched/nether_grout_multiple'
         },
         {
             inputs: ['minecraft:soul_sand', '#forge:gravel', 'minecraft:magma_block'],
             output: Item.of('tconstruct:nether_grout', 2),
             heated: true,
-            id: 'tconstruct:smeltery/seared/nether_grout'
+            id: 'tconstruct:smeltery/scorched/nether_grout'
         },
     ];
 

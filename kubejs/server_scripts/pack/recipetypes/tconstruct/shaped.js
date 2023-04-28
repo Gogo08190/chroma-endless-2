@@ -34,7 +34,7 @@ onEvent('recipes', (event) => {
             pattern: ['S S', 'P P', 'S S'],
             key: {
                 S: 'tconstruct:scorched_brick',
-                P: 'tconstruct:scorched_duct'
+                P: Item.of('tconstruct:large_plate', '{Material:"tconstruct:cobalt"}')
             },
             id: 'tconstruct:smeltery/scorched/duct'
         },

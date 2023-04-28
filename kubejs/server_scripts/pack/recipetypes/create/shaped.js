@@ -198,6 +198,17 @@ onEvent('recipes', (event) => {
             id: 'create:crafting/kinetics/mechanical_saw'
         },
         {
+            output: 'create:mechanical_drill',
+            pattern: [' D ','CSC' ,'CEC'],
+            key: {
+                C: 'create:andesite_casing',
+                S: 'create:cogwheel',
+                E: 'create:encased_chain_drive',
+                D: 'createoreexcavation:drill'
+            },
+            id: 'create:crafting/kinetics/mechanical_drill'
+        },
+        {
             output: 'create:mechanical_piston',
             pattern: ['EPE'],
             key: {

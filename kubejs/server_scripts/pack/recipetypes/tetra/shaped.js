@@ -60,7 +60,7 @@ onEvent('recipes', (event) => {
                 T: 'tetra:forged_bolt',
                 B: 'tetra:forged_beam'
             },
-            id: 'tetra:temp/chthonic_extractor'
+            id: 'tetra:temp/chtonic_extractor'
         }
     ];
 
