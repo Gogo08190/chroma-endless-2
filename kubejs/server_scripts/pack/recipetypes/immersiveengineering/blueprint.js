@@ -12,6 +12,34 @@ onEvent('recipes', (event) => {
                 count: 1
             },
             id: 'immersiveengineering:blueprint/light_bulb'
+        },
+        {
+            inputs: [
+                { item: 'compactmachines:wall' },
+                { item: 'immersiveengineering:component_steel' },
+                { tag: 'forge:rods/steel' },
+                { item: 'create:electron_tube' }
+            ],
+            category: 'components',
+            output: {
+                item: 'compactcrafting:base',
+                count: 1
+            },
+            id: 'compactcrafting:base'
+        },
+        {
+            inputs: [
+                { item: 'compactmachines:wall' },
+                { item: 'immersiveengineering:component_steel' },
+                { tag: 'forge:rods/steel' },
+                { item: 'create:electron_tube' }
+            ],
+            category: 'components',
+            output: {
+                item: 'compactcrafting:projector_dish',
+                count: 1
+            },
+            id: 'compactcrafting:projector_dish'
         }
     ];
 

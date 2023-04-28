@@ -49,7 +49,22 @@ onEvent('recipes', (event) => {
           tier: 1,
           output: 'immersiveengineering:screwdriver',
           id: 'immersiveengineering:crafting/screwdriver'
-      }
+      },
+      {
+          items: [
+            'compactcrafting:base',
+            'compactcrafting:projector_dish'
+          ],
+          patterns: [
+            'mna:square',
+            'mna:slash',
+            'mna:triangle',
+            'mna:circle'
+          ],
+          tier: 1,
+          output: 'compactcrafting:field_projector',
+          id: 'compactcrafting:field_projector'
+      },
     ];
 
     recipes.forEach((recipe) => {
