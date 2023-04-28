@@ -189,7 +189,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'create:mechanical_saw',
-            pattern: [' S ', 'CEC'],
+            pattern: ['C  ', 'ES ', 'C  '],
             key: {
                 C: 'create:andesite_casing',
                 S: 'thermal:saw_blade',
@@ -199,7 +199,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'create:mechanical_drill',
-            pattern: [' D ','CSC' ,'CEC'],
+            pattern: ['CC ','ESD' ,'CC '],
             key: {
                 C: 'create:andesite_casing',
                 S: 'create:cogwheel',

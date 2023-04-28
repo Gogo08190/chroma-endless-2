@@ -47,6 +47,46 @@ onEvent('recipes', (event) => {
             },
             id: 'createoreexcavation:extractor'
         },
+        {
+            output: Item.of('immersiveengineering:cokebrick', 3),
+            pattern: ['CSC', 'SBS', 'CSC'],
+            key: {
+                C: 'minecraft:clay',
+                S: 'tconstruct:seared_brick',
+                B: '#forge:sandstone'
+            },
+            id: 'immersiveengineering:crafting/cokebrick'
+        },
+        {
+            output: Item.of('immersiveengineering:blastbrick', 3),
+            pattern: ['CSC', 'SBS', 'CSC'],
+            key: {
+                C: 'minecraft:nether_bricks',
+                S: 'tconstruct:scorched_brick',
+                B: 'minecraft:magma_block'
+            },
+            id: 'immersiveengineering:crafting/blastbrick'
+        },
+        {
+            output: Item.of('immersiveengineering:alloybrick', 2),
+            pattern: ['AB', 'BA'],
+            key: {
+                A: 'tconstruct:blazewood',
+                B: 'tconstruct:seared_brick'
+            },
+            id: 'immersiveengineering:crafting/alloybrick'
+        },
+        {
+            output: 'immersiveengineering:thermoelectric_generator',
+            pattern: ['SCCCS', 'CEEEC', 'CENEC', 'CEEEC', 'SCCCS'],
+            key: {
+                S: '#forge:sheetmetals/steel',
+                C: 'immersiveengineering:coil_lv',
+                E: '#forge:plates/constantan',
+                N: '#forge:ingots/netherite'
+            },
+            id: 'immersiveengineering:crafting/thermoelectric_generator'
+        },
     ];
 
     recipes.forEach((recipe) => {
