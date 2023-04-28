@@ -6,7 +6,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:seared_stone',
               fluid_amount: 1000,
-              casts: [{ item: 'ironfurnaces:copper_furnace' }],
+              cast: [{ item: 'ironfurnaces:copper_furnace' }],
               cast_consumed: true,
               output: 'tconstruct:smeltery_controller',
               cooling_time: 10,
@@ -15,7 +15,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:scorched_stone',
               fluid_amount: 1000,
-              casts: [{ item: 'ironfurnaces:obsidian_furnace' }],
+              cast: [{ item: 'ironfurnaces:obsidian_furnace' }],
               cast_consumed: true,
               output: 'tconstruct:foundry_controller',
               cooling_time: 10,
@@ -24,7 +24,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:seared_stone',
               fluid_amount: 1000,
-              casts: [{ item: 'create:fluid_tank' }],
+              cast: [{ item: 'create:fluid_tank' }],
               cast_consumed: true,
               output: 'tconstruct:seared_fuel_tank',
               cooling_time: 10,
@@ -33,7 +33,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:scorched_stone',
               fluid_amount: 1000,
-              casts: [{ item: 'create:fluid_tank' }],
+              cast: [{ item: 'create:fluid_tank' }],
               cast_consumed: true,
               output: 'tconstruct:scorched_fuel_tank',
               cooling_time: 10,
@@ -42,7 +42,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:seared_stone',
               fluid_amount: 1000,
-              casts: [{ item: 'create:fluid_pipe' }],
+              cast: [{ item: 'create:fluid_pipe' }],
               cast_consumed: true,
               output: 'tconstruct:seared_drain',
               cooling_time: 10,
@@ -51,7 +51,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:seared_stone',
               fluid_amount: 1000,
-              casts: [{ item: 'create:item_drain' }],
+              cast: [{ item: 'create:item_drain' }],
               cast_consumed: true,
               output: 'tconstruct:seared_chute',
               cooling_time: 10,
@@ -60,7 +60,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:molten_cobalt',
               fluid_amount: 1000,
-              casts: [{ item: 'tconstruct:seared_drain' }],
+              cast: [{ item: 'tconstruct:seared_drain' }],
               cast_consumed: true,
               output: 'tconstruct:seared_duct',
               cooling_time: 10,
@@ -76,17 +76,11 @@ onEvent('recipes', (event) => {
                 name: recipe.fluid,
                 amount: recipe.fluid_amount
             },
+            cast: recipe.cast,
+            cast_consumed: recipe.cast_consumed,
             result: recipe.output,
             cooling_time: recipe.cooling_time
         };
-
-        if (recipe.casts) {
-            constructed_recipe.cast = {
-                type: 'mantle:intersection',
-                ingredients: recipe.casts
-            };
-            constructed_recipe.cast_consumed = recipe.cast_consumed;
-        }
 
         const re = event.custom(constructed_recipe);
         if (recipe.id) {

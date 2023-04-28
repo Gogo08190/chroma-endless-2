@@ -40,7 +40,7 @@ onEvent('recipes', (event) => {
             pattern: ['SS', 'IS'],
             key: {
                 S: 'tetra:forged_mesh',
-                B: '#forge:ingots/iron'
+                I: '#forge:ingots/iron'
             },
             id: 'tetra:temp/earthpiercer'
         },

@@ -4,7 +4,7 @@ onEvent('recipes', (event) => {
         {
             outputs: [
                 'create:andesite_alloy',
-                Item.of('create:andesite_alloy').chance(0.5)
+                Item.of('create:andesite_alloy').withChance(0.5)
             ],
             input: 'chroma:andesite_with_zinc',
             id: `${id_prefix}andesite_alloy_from_andesite_with_zinc`
@@ -12,13 +12,13 @@ onEvent('recipes', (event) => {
         {
             outputs: [
                 'create:andesite_alloy',
-                Item.of('create:andesite_alloy').chance(0.5)
+                Item.of('create:andesite_alloy').withChance(0.5)
             ],
             input: 'chroma:andesite_with_iron',
             id: `${id_prefix}andesite_alloy_from_andesite_with_iron`
         }
     ];
-    
+
     const rusty_items = [
         'quark:rusty_iron_plate_slab',
         'quark:rusty_iron_plate_stairs',
