@@ -1,13 +1,4 @@
 onEvent('recipes', (event) => {
-    /*
-        ,
-        {
-            output: '',
-            inputs: [''],
-            id: ''
-        }
-    */
-
     const recipes = [
         {
             output: '6x immersiveengineering:sawdust',
