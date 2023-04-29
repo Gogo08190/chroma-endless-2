@@ -452,7 +452,7 @@
 		#List of allowed pets that can be killed with Caliburn to create Morgan
 		MORGAN_TRANSFORM_ENTITY_WHITELIST = ["minecraft:wandering_trader"]
 		#All pet wolves are allowed for transformation to Morgan
-		MORGAN_TRANSFORM_WOLFS_ALLOWED = true
+		MORGAN_TRANSFORM_WOLFS_ALLOWED = false
 		#How much damage Morgan gains from killing children
 		#Range: 0.0 ~ 1.0E8
 		MORGAN_CHILD_INCREASE = 1.0
