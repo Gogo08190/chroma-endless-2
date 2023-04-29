@@ -30,9 +30,8 @@ onEvent('recipes', (event) => {
         {
             inputs: [
                 { item: 'compactmachines:wall' },
-                { item: 'immersiveengineering:component_steel' },
-                { tag: 'forge:rods/steel' },
-                { item: 'create:electron_tube' }
+                { item: 'create:display_board' },
+                { item: 'immersiveengineering:component_electronic' }
             ],
             category: 'components',
             output: {
