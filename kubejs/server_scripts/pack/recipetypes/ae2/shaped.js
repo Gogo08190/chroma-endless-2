@@ -68,7 +68,7 @@ onEvent('recipes', (event) => {
             id: 'ae2:network/blocks/interfaces_interface'
         },
         {
-            output: 'ae2:interface',
+            output: 'ae2:semi_dark_monitor',
             pattern: [' DG', 'BRG', ' DG'],
             key: {
                 D: '#forge:dusts/glowstone',
@@ -76,7 +76,7 @@ onEvent('recipes', (event) => {
                 B: '#forge:ingots/brass',
                 R: '#forge:dusts/redstone'
             },
-            id: 'ae2:network/blocks/interfaces_interface'
+            id: 'ae2:network/parts/panels_semi_dark_monitor'
         },
         {
             output: 'ae2:formation_core',
