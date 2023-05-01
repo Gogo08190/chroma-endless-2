@@ -2,7 +2,8 @@ onEvent('item.registry', (event) => {
     const items = [
       'mana_diamond_plate',
       'andesite_with_iron',
-      'andesite_with_zinc'
+      'andesite_with_zinc',
+      'black_bone_meal'
     ];
 
     items.forEach((item) => {
