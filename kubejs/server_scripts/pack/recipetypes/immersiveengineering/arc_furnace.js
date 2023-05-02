@@ -17,7 +17,7 @@ onEvent('recipes', (event) => {
             input: 'ae2:printed_engineering_processor',
             secondaries: ['ae2:printed_silicon','minecraft:redstone'],
             outputs: [Item.of('ae2:engineering_processor')],
-            id: `${id_prefix}calculation_processor`
+            id: `${id_prefix}engineering_processor`
         },
     ];
 
