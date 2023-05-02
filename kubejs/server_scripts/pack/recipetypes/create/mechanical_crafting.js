@@ -87,6 +87,19 @@ onEvent('recipes', (event) => {
             },
             id: 'immersiveengineering:crafting/thermoelectric_generator'
         },
+        {
+            output: 'tiab:time_in_a_bottle',
+            pattern: ['    B    ', '   BAB   ', '   GGG   ', '   GGG   ', '  SGCGS  ', ' SGGGGGS ', ' SGGTGGS ', ' SGGGGGS ', '  SSSSS  '],
+            key: {
+                S: '#forge:sheetmetals/steel',
+                B: '#forge:ingots/brass',
+                A: 'immersiveengineering:light_bulb',
+                T: 'forbidden_arcanus:aureal_bottle',
+                G: 'tconstruct:clear_glass',
+                C: 'create:cuckoo_clock'
+            },
+            id: 'tiab:time_in_a_bottle'
+        },
     ];
 
     recipes.forEach((recipe) => {
