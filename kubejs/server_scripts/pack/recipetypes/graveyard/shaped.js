@@ -1,4 +1,5 @@
 onEvent('recipes', (event) => {
+    const id_prefix = 'chroma:pack/graveyard/shaped/';
     const recipes = [
       {
           output: 'graveyard:skull_with_rib_cage',
