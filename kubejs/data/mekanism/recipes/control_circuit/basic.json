@@ -1,0 +1,1 @@
+{"type":"mekanism:metallurgic_infusing","itemInput":{"ingredient":{"item":"ae2:logic_processor"}},"chemicalInput":{"amount":20,"tag":"mekanism:redstone"},"output":{"item":"mekanism:basic_control_circuit"}}
