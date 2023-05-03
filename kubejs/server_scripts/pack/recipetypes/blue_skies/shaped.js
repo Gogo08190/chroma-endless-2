@@ -16,7 +16,7 @@ onEvent('recipes', (event) => {
             key: {
                 B: '#forge:bookshelves',
                 S: 'minecraft:stonecutter',
-                A: '#forge:storage_blocks/amethyst'
+                A: '#blue_skies:storage_blocks/falsite'
             },
             id: `${id_prefix}alchemy_table`
         },
