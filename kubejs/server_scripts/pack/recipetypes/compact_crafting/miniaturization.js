@@ -122,6 +122,55 @@ onEvent('recipes', (event) => {
         }],
         id: 'mekanism:steel_casing'
       },
+
+      {
+        recipeSize: 3,
+        layers: [
+          {
+            type: "compactcrafting:filled",
+            component: "S"
+          },
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["G", "B", "G"],
+              ["B", "A", "B"],
+              ["G", "B", "G"],
+            ]
+          },
+          {
+            type: "compactcrafting:filled",
+            component: "S"
+          }
+        ],
+        catalyst: {
+          id: 'blue_skies:lunar_stone_pickaxe',
+          Count: 1
+        },
+        components: {
+          'S': {
+            type: "compactcrafting:block",
+            block: 'ae2:smooth_sky_stone_block'
+          },
+          'G': {
+            type: "compactcrafting:block",
+            block: 'botania:glimmering_livingwood'
+          },
+          'B': {
+            type: "compactcrafting:block",
+            block: 'blue_skies:aquite_block'
+          },
+          'A': {
+            type: "compactcrafting:block",
+            block: 'chroma:gaia_spirit_block'
+          },
+        },
+        outputs: [{
+          id: 'jamd:mine_portal_block',
+          Count: 1
+        }],
+        id: 'jamd:mine_portal_block'
+      },
     ];
 
     recipes.forEach((recipe) => {
