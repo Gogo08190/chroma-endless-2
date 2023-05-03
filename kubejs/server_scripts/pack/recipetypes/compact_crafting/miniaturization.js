@@ -101,7 +101,7 @@ onEvent('recipes', (event) => {
           },
           'Q': {
             type: "compactcrafting:block",
-            block: 'immersiveengineering:storage_steel'
+            block: 'immersiveengineering:sheetmetal_steel'
           },
           'A': {
             type: "compactcrafting:block",
