@@ -117,7 +117,7 @@ onEvent('recipes', (event) => {
           output: 'graveyard:wither_torso_pile',
           pattern: [' B ', 'BBB', ' B '],
           key: {
-              B: 'architects_palette:withered_bone'
+              B: 'chroma:black_bone_meal'
           },
           id: `${id_prefix}wither_torso_pile`
       },
