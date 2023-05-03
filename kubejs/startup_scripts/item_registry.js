@@ -4,7 +4,12 @@ onEvent('item.registry', (event) => {
       'andesite_with_iron',
       'andesite_with_zinc',
       'black_bone_meal',
-      'silicon_paste'
+      'silicon_paste',
+      'raw_zirconium',
+      'raw_feranicalumite',
+      'raw_leadurosmate',
+      'raw_cuperargentite',
+      'raw_cobalrite'
     ];
 
     items.forEach((item) => {
