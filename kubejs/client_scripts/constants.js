@@ -55,6 +55,7 @@ const itemsToHide = [
 
     /theoneprobe:/,
     /chiselsandbits:block_bit$/,
+    /powah:\w+_starter/,
 ];
 
 const recipesToHide = [
