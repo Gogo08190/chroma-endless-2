@@ -13,7 +13,11 @@ onEvent('item.registry', (event) => {
       'absolute_control_circuit',
       'cosmic_control_circuit',
       'infinite_control_circuit',
-      'supreme_control_circuit'
+      'supreme_control_circuit',
+      'supreme_alloy',
+      'infinite_alloy',
+      'cosmic_alloy',
+      'absolute_alloy'
     ];
 
     items.forEach((item) => {
