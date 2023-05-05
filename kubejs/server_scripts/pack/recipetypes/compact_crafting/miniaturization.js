@@ -76,9 +76,9 @@ onEvent('recipes', (event) => {
           {
             type: 'compactcrafting:mixed',
             pattern: [
-              ["S", "G", "S"],
+              ["Q", "G", "Q"],
               ["G", "H", "G"],
-              ["S", "G", "S"],
+              ["Q", "G", "Q"],
             ]
           },
           {
