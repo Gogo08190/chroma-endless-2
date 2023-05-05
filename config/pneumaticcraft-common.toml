@@ -1,7 +1,7 @@
 
 [General]
 	#Enable mod dungeon loot generation
-	enable_dungeon_loot = true
+	enable_dungeon_loot = false
 	#Efficiency of fuel buckets as furnace fuel (default 0.05 means 1 bucket of LPG smelts 450 items in a vanilla furnace)
 	#Range: 0.0 ~ 1.7976931348623157E308
 	fuel_bucket_efficiency = 0.05
@@ -358,4 +358,3 @@
 	#If a Drone has found a path, but gets stuck on a block along that path, it will teleport to its destination after this many ticks of being stuck. Set this to 0 to disable teleporting, which will likely leave the drone waiting there forever (or until it runs out of air). Note that getting stuck on a block is usually the fault of the mod that added the block (especially if the block has a non-full-cube shape), but if you encounter this behaviour, please report it as a PneumaticCraft: Repressurized issue so it can be investigated.
 	#Range: > 0
 	stuck_drone_teleport_ticks = 20
-
