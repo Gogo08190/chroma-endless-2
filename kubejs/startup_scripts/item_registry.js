@@ -17,7 +17,11 @@ onEvent('item.registry', (event) => {
       'supreme_alloy',
       'infinite_alloy',
       'cosmic_alloy',
-      'absolute_alloy'
+      'absolute_alloy',
+      'elven_spreader_core',
+      'gaia_spreader_core',
+      'mana_spreader_core',
+      'redstone_spreader_core'
     ];
 
     items.forEach((item) => {
