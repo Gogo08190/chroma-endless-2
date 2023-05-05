@@ -2,19 +2,6 @@ onEvent('recipes', (event) => {
     const id_prefix = 'chroma:pack/lychee/item_inside/';
     const recipes = [
         {
-            input: 'mna:ornate_table',
-            block_in: {
-                blocks: ['chroma:molten_mana']
-            },
-            post: [
-                {
-                    type: 'drop_item',
-                    item: 'mna:occulus'
-                }
-            ],
-            id: 'mna:occulus'
-        },
-        {
             input: 'ae2:fluix_pearl',
             block_in: {
                 blocks: ['chroma:molten_mana']
@@ -44,7 +31,7 @@ onEvent('recipes', (event) => {
                         type: 'time',
                         value: { min: 16000, max: 20000 },
                         period: 24000,
-                        description: 'recipes.lychee.item_inside.moonstone.condition.description' 
+                        description: 'recipes.lychee.item_inside.moonstone.condition.description'
                       }
                     ]
                 },
