@@ -9,7 +9,11 @@ onEvent('item.registry', (event) => {
       'raw_feranicalumite',
       'raw_leadurosmate',
       'raw_cuperargentite',
-      'raw_cobalrite'
+      'raw_cobalrite',
+      'absolute_control_circuit',
+      'cosmic_control_circuit',
+      'infinite_control_circuit',
+      'supreme_control_circuit'
     ];
 
     items.forEach((item) => {
