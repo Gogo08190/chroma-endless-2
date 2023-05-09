@@ -49,7 +49,7 @@
       "parent": "working"
     }
   },
-  "recipeMap": "empty",
+  "recipeMap": "basic_sieving_machine",
   "basePattern": {
     "structureDir": [
       "RIGHT",
