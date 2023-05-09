@@ -5,7 +5,7 @@
   "recipes": [
     {
       "uid": "basic_zirconium_sieving",
-      "duration": 1,
+      "duration": 20,
       "inputs": {
         "item": [
           {
@@ -13,8 +13,23 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "chroma:raw_zirconium"
+                "item": "minecraft:raw_gold"
               }
+            },
+            "chance": 1.0
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 64.0,
+            "chance": 1.0
+          }
+        ],
+        "fluid": [
+          {
+            "content": {
+              "fluid": "minecraft:water",
+              "amount": 500
             },
             "chance": 1.0
           }
@@ -41,6 +56,75 @@
               }
             },
             "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "thermal:slag"
+              }
+            },
+            "chance": 0.5
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 32.0,
+            "chance": 1.0
+          },
+          {
+            "content": 64.0,
+            "chance": 1.0
+          },
+          {
+            "content": 64.0,
+            "chance": 1.0
+          },
+          {
+            "content": 64.0,
+            "chance": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "uid": "basic_feranicalumite_sieving",
+      "duration": 20,
+      "inputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:raw_iron"
+              }
+            },
+            "chance": 1.0
+          }
+        ],
+        "fluid": [
+          {
+            "content": {
+              "fluid": "minecraft:water",
+              "amount": 500
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_iron_ore"
+              }
+            },
+            "chance": 0.4
           },
           {
             "content": {

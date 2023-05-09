@@ -5,34 +5,34 @@
     "background": "multiblocked:textures/gui/4_slot.png",
     "item": [
       {
-        "cIO": 0,
-        "gIO": 3,
-        "mIO": 0,
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
         "x": 70,
         "y": 62,
         "autoIO": false
       },
       {
-        "cIO": 0,
-        "gIO": 3,
-        "mIO": 0,
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
         "x": 88,
         "y": 62,
         "autoIO": false
       },
       {
-        "cIO": 0,
-        "gIO": 3,
-        "mIO": 0,
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
         "x": 70,
         "y": 80,
         "autoIO": false
       },
       {
-        "cIO": 0,
-        "gIO": 3,
-        "mIO": 0,
-        "x": 88,
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 89,
         "y": 80,
         "autoIO": false
       }
