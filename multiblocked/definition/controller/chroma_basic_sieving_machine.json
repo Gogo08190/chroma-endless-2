@@ -1,0 +1,329 @@
+{
+  "version": 3,
+  "location": "chroma:basic_sieving_machine",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasDynamicShape": false,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "friction": 0.6,
+    "harvestLevel": 0,
+    "stackSize": 64,
+    "tabGroup": "multiblocked.all"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "baseTexture": "multiblocked:casing/brass_casing",
+        "frontTexture": "multiblocked:overlay/sieve",
+        "type": "gregtech",
+        "postRenderer": false
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "baseTexture": "multiblocked:casing/brass_casing",
+        "frontTexture": "multiblocked:overlay/sieve_active",
+        "type": "gregtech",
+        "postRenderer": false
+      },
+      "parent": "idle",
+      "sound": {
+        "sound": "create:cogs",
+        "loop": false,
+        "delay": 0,
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "empty",
+  "basePattern": {
+    "structureDir": [
+      "RIGHT",
+      "UP",
+      "FRONT"
+    ],
+    "pattern": [
+      [
+        " AAA ",
+        " BCB ",
+        "     ",
+        "     ",
+        "     "
+      ],
+      [
+        " AAA ",
+        " BDB ",
+        "     ",
+        "     ",
+        "     "
+      ],
+      [
+        " AAA ",
+        " BEB ",
+        "     ",
+        "     ",
+        "     "
+      ],
+      [
+        " AAA ",
+        "FGDGF",
+        "  D  ",
+        "     ",
+        "     "
+      ],
+      [
+        " AAA ",
+        " HAH ",
+        " BIB ",
+        "     ",
+        "     "
+      ],
+      [
+        " AAA ",
+        " HAH ",
+        " BDB ",
+        "  D  ",
+        "     "
+      ],
+      [
+        " AAA ",
+        " HAH ",
+        " BAB ",
+        " BJB ",
+        "     "
+      ],
+      [
+        " AAA ",
+        " HAH ",
+        " HAH ",
+        "FGDGF",
+        "     "
+      ],
+      [
+        " KLA ",
+        " K@A ",
+        " KMA ",
+        " KAA ",
+        "     "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "blocks": [
+          {
+            "id": "create:brass_casing"
+          }
+        ],
+        "type": "blocks"
+      },
+      "controller": {
+        "location": "chroma:basic_sieving_machine",
+        "type": "component"
+      },
+      "B": {
+        "blocks": [
+          {
+            "id": "create:andesite_casing"
+          }
+        ],
+        "type": "blocks"
+      },
+      "C": {
+        "blocks": [
+          {
+            "id": "chroma:create_item_output"
+          }
+        ],
+        "type": "blocks"
+      },
+      "D": {
+        "blocks": [
+          {
+            "id": "minecraft:water"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "createdeco:netherite_mesh_fence"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "create:flywheel"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "chroma:brass_create_output"
+          }
+        ],
+        "type": "blocks"
+      },
+      "H": {
+        "blocks": [
+          {
+            "id": "createdeco:brass_sheet_metal"
+          }
+        ],
+        "type": "blocks"
+      },
+      "I": {
+        "blocks": [
+          {
+            "id": "createdeco:zinc_mesh_fence"
+          }
+        ],
+        "type": "blocks"
+      },
+      "J": {
+        "blocks": [
+          {
+            "id": "createdeco:iron_mesh_fence"
+          }
+        ],
+        "type": "blocks"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "blocks": [
+          {
+            "id": "create:fluid_tank"
+          }
+        ],
+        "type": "blocks"
+      },
+      "L": {
+        "blocks": [
+          {
+            "id": "chroma:brass_create_input"
+          }
+        ],
+        "type": "blocks"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "blocks": [
+          {
+            "id": "chroma:create_item_input"
+          }
+        ],
+        "type": "blocks"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
+      ],
+      "-": [
+        "air"
+      ]
+    }
+  }
+}
