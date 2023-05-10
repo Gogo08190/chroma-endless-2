@@ -14,6 +14,13 @@ onEvent('recipes', (event) => {
             results : {tag: '#forge:ingots/compressed_iron'},
             loss_rate : 20,
             id : `${id_prefix}compressed_iron_ingot`
+        },
+        //Compressed Iron Block
+        {
+            input : {tag: '#forge:storage_blocks/steel'},
+            results : {tag: '#forge:storage_blocks/compressed_iron'},
+            loss_rate : 20,
+            id : `${id_prefix}compressed_iron_block`
         }
           
     ];
