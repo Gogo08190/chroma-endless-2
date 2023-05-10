@@ -17,8 +17,6 @@ onEvent('recipes', (event) => {
             ingredients: [
                 { item: 'immersiveengineering:plate_steel' },
                 { item: 'immersiveengineering:plate_steel' },
-                { item: 'immersiveengineering:plate_steel' },
-                { item: 'immersiveengineering:plate_steel' },
                 { item: 'powah:dielectric_rod' },
                 { item: 'powah:dielectric_rod' },
                 { item: 'powah:dielectric_rod_horizontal' },
