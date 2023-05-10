@@ -27,11 +27,23 @@ pack_edit_mode = true
 			#Use 'server_entry.description' key for the Description.
 			use_language_files = false
 
-		#User Configs
-		[modules.server_creator_banner.user]
-			#Should the banner be displayed.
-			display_banner = true
-
 	[modules.public_server_list]
-		enabled = true
+		enabled = false
 
+		#Modpack Configs
+		[modules.public_server_list.pack]
+
+			#Open Public Screen List Button
+			[modules.public_server_list.pack.open_screen_button]
+				#The position of the button from the left of the screen.
+				#Set to -1 to default.
+				#Range: > -1
+				x = -1
+				#The position of the button from the top of the screen.
+				#Set to -1 to default.
+				#Range: > -1
+				y = -1
+				#The width of the button.
+				#Set to 0 to default.
+				#Range: 0 ~ 400
+				width = 0
