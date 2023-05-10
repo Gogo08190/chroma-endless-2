@@ -61,7 +61,7 @@ onEvent('recipes', (event) => {
             id: 'powah:crafting/furnator_basic'
         },
         {
-            output: 'powah:capacitor_basic',
+            output: Item.of('powah:capacitor_basic', 4),
             pattern: [' SD', 'SIS', 'DS '],
             key: {
                 S: 'immersiveengineering:ingot_steel',
@@ -71,7 +71,7 @@ onEvent('recipes', (event) => {
             id: 'powah:crafting/capacitor_basic'
         },
         {
-            output: 'powah:dielectric_rod_horizontal',
+            output: Item.of('powah:dielectric_rod_horizontal', 3),
             pattern: ['DDD', 'RRR', 'DDD'],
             key: {
                 D: 'powah:dielectric_paste',
@@ -80,7 +80,7 @@ onEvent('recipes', (event) => {
             id: 'powah:crafting/dielectric_rod_h'
         },
         {
-            output: 'powah:dielectric_rod',
+            output: Item.of('powah:dielectric_rod', 3),
             pattern: ['DRD', 'DRD', 'DRD'],
             key: {
                 D: 'powah:dielectric_paste',
@@ -89,7 +89,7 @@ onEvent('recipes', (event) => {
             id: 'powah:crafting/dielectric_rod'
         },
         {
-            output: 'powah:ender_gate_basic',
+            output: Item.of('powah:ender_gate_basic', 4),
             pattern: ['ACA', 'CEC', 'ACA'],
             key: {
                 A: 'mekanism:alloy_infused',
@@ -99,7 +99,7 @@ onEvent('recipes', (event) => {
             id: 'powah:crafting/ender_gate_basic'
         },
         {
-            output: 'powah:energy_cable_basic',
+            output: Item.of('powah:energy_cable_basic', 6),
             pattern: ['DDD', 'ECE', 'DDD'],
             key: {
                 D: 'powah:dielectric_rod_horizontal',
@@ -201,7 +201,7 @@ onEvent('recipes', (event) => {
             id: 'powah:crafting/energy_discharger_basic'
         },
         {
-            output: 'powah:reactor_basic',
+            output: Item.of('powah:reactor_basic', 4),
             pattern: ['PBP', 'CDC', 'PBP'],
             key: {
                 C: 'powah:capacitor_basic_large',
@@ -235,6 +235,118 @@ onEvent('recipes', (event) => {
                 P: 'powah:thermoelectric_plate'
             },
             id: 'powah:crafting/thermo_generator_hardened'
+        },
+        {
+            output: 'powah:magmator_hardened',
+            pattern: ['III', 'CTC', 'IRI'],
+            key: {
+                C: 'powah:capacitor_hardened',
+                T: Item.of('powah:magmator_basic').ignoreNBT(),
+                R: 'mob_grinding_utils:tank',
+                I: '#forge:ingots/steel',
+                A: 'mekanism:alloy_infused'
+            },
+            id: 'powah:crafting/magmator_hardened'
+        },
+        {
+            output: 'powah:furnator_hardened',
+            pattern: ['IMI', 'CTC', 'IRI'],
+            key: {
+                C: 'powah:capacitor_hardened',
+                T: Item.of('powah:furnator_basic').ignoreNBT(),
+                R: 'ironfurnaces:gold_furnace',
+                I: '#forge:ingots/steel',
+                M: 'mekanism:basic_control_circuit'
+            },
+            id: 'powah:crafting/furnator_hardened'
+        },
+        {
+            output: Item.of('powah:ender_gate_hardened', 4),
+            pattern: ['ACA', 'CEC', 'ACA'],
+            key: {
+                A: 'mekanism:alloy_infused',
+                C: Item.of('powah:energy_cable_hardened').ignoreNBT(),
+                E: 'powah:ender_core'
+            },
+            id: 'powah:crafting/ender_gate_hardened'
+        },
+        {
+            output: 'powah:energy_cell_hardened',
+            pattern: ['SMS', 'CDC', 'SMS'],
+            key: {
+                S: '#forge:plates/steel',
+                C: 'powah:capacitor_hardened',
+                D: Item.of('powah:energy_cell_basic').ignoreNBT(),
+                M: 'mekanism:basic_control_circuit'
+            },
+            id: 'powah:crafting/energy_cell_hardened'
+        },
+        {
+            output: 'powah:ender_cell_hardened',
+            pattern: ['SFS', 'CEC', 'SFS'],
+            key: {
+                S: '#forge:plates/steel',
+                C: 'powah:capacitor_hardened',
+                E: Item.of('powah:ender_cell_basic').ignoreNBT(),
+                F: 'ae2:fluix_pearl'
+            },
+            id: 'powah:crafting/ender_cell_hardened'
+        },
+        {
+            output: Item.of('powah:reactor_hardened', 4),
+            pattern: ['PBP', 'CDC', 'PBP'],
+            key: {
+                C: 'powah:capacitor_hardened',
+                D: 'powah:dielectric_casing',
+                P: Item.of('powah:reactor_basic').ignoreNBT(),
+                B: 'mekanism:basic_control_circuit'
+            },
+            id: 'powah:crafting/reactor_hardened'
+        },
+        {
+            output: 'powah:energy_discharger_hardened',
+            pattern: ['RBR', 'CDC', 'RHR'],
+            key: {
+                C: 'powah:capacitor_hardened',
+                D: Item.of('powah:energy_discharger_basic').ignoreNBT(),
+                R: 'powah:dielectric_rod',
+                H: Item.of('powah:energy_hopper_hardened').ignoreNBT(),
+                B: Item.of('powah:battery_hardened').weakNBT()
+            },
+            id: 'powah:crafting/energy_discharger_hardened'
+        },
+        {
+            output: 'powah:energy_hopper_hardened',
+            pattern: ['RBR', 'CDC', 'RHR'],
+            key: {
+                C: 'powah:capacitor_hardened',
+                D: Item.of('powah:energy_hopper_basic').ignoreNBT(),
+                R: 'powah:dielectric_rod',
+                H: 'immersiveengineering:coil_hv',
+                B: Item.of('powah:battery_hardened').weakNBT()
+            },
+            id: 'powah:crafting/energy_hopper_hardened'
+        },
+        {
+            output: 'powah:player_transmitter_hardened',
+            pattern: [' A ', 'CDC', 'CPC'],
+            key: {
+                A: 'powah:aerial_pearl',
+                C: 'powah:capacitor_hardened',
+                D: Item.of('powah:player_transmitter_basic').ignoreNBT(),
+                P: 'chroma:dielectric_paste_block'
+            },
+            id: 'powah:crafting/player_tranmitter_hardened'
+        },
+        {
+            output: 'powah:photoelectric_pane',
+            pattern: ['DAD', 'AGA', 'DAD'],
+            key: {
+                A: 'mekanism:alloy_infused',
+                D: 'powah:dielectric_paste',
+                G: '#forge:glass_panes'
+            },
+            id: 'powah:crafting/photoelectric_pane'
         },
     ];
 
