@@ -1,0 +1,209 @@
+{
+  "version": 3,
+  "location": "chroma:improved_coke_oven",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasDynamicShape": false,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "friction": 0.6,
+    "harvestLevel": 0,
+    "stackSize": 64,
+    "tabGroup": "multiblocked.all"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "baseTexture": "multiblocked:casing/cokebrick",
+        "frontTexture": "multiblocked:overlay/coker",
+        "type": "gregtech",
+        "postRenderer": false
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "baseTexture": "multiblocked:casing/cokebrick",
+        "frontTexture": "multiblocked:overlay/coker_active",
+        "type": "gregtech",
+        "postRenderer": false
+      },
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "improved_coke_oven",
+  "basePattern": {
+    "structureDir": [
+      "LEFT",
+      "UP",
+      "BACK"
+    ],
+    "pattern": [
+      [
+        " AAA ",
+        "ABACA",
+        "AA@AA",
+        " ADA ",
+        "  A  ",
+        "     ",
+        "     "
+      ],
+      [
+        " AAA ",
+        "EAAAE",
+        "EAAAE",
+        "DAAAD",
+        "FAAAF",
+        "F A F",
+        "F   F"
+      ],
+      [
+        " AAA ",
+        "AAAAA",
+        "AAAAA",
+        " AAA ",
+        "  A  ",
+        "     ",
+        "     "
+      ],
+      [
+        "     ",
+        " AGA ",
+        " AEA ",
+        "  D  ",
+        "  F  ",
+        "  F  ",
+        "  F  "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "blocks": [
+          {
+            "id": "immersiveengineering:cokebrick"
+          }
+        ],
+        "type": "blocks"
+      },
+      "controller": {
+        "location": "chroma:improved_coke_oven",
+        "type": "component"
+      },
+      "B": {
+        "blocks": [
+          {
+            "id": "chroma:coke_item_input"
+          }
+        ],
+        "type": "blocks"
+      },
+      "C": {
+        "blocks": [
+          {
+            "id": "chroma:coke_item_output"
+          }
+        ],
+        "type": "blocks"
+      },
+      "D": {
+        "blocks": [
+          {
+            "id": "chipped:shroomlight_12"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "immersiveengineering:blastfurnace_preheater"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "ae2:sky_stone_tank"
+          }
+        ],
+        "type": "blocks"
+      },
+      "air": {
+        "type": "air"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "-": [
+        "air"
+      ]
+    }
+  }
+}
