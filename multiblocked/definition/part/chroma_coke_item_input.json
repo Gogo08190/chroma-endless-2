@@ -1,37 +1,37 @@
 {
   "version": 3,
-  "location": "chroma:create_item_output",
+  "location": "chroma:coke_item_input",
   "traits": {
     "background": "multiblocked:textures/gui/4_slot.png",
     "item": [
       {
-        "cIO": 1,
-        "gIO": 1,
-        "mIO": 1,
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
         "x": 70,
         "y": 62,
         "autoIO": false
       },
       {
-        "cIO": 1,
-        "gIO": 1,
-        "mIO": 1,
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
         "x": 88,
         "y": 62,
         "autoIO": false
       },
       {
-        "cIO": 1,
-        "gIO": 1,
-        "mIO": 1,
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
         "x": 70,
         "y": 80,
         "autoIO": false
       },
       {
-        "cIO": 1,
-        "gIO": 1,
-        "mIO": 1,
+        "cIO": 0,
+        "gIO": 2,
+        "mIO": 0,
         "x": 88,
         "y": 80,
         "autoIO": false
@@ -56,8 +56,8 @@
   "status": {
     "unformed": {
       "renderer": {
-        "baseTexture": "multiblocked:casing/brass_casing",
-        "frontTexture": "multiblocked:overlay/item_out",
+        "baseTexture": "multiblocked:casing/cokebrick",
+        "frontTexture": "multiblocked:overlay/item_in",
         "type": "gregtech",
         "postRenderer": false
       }
