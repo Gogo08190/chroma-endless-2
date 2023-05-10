@@ -10,17 +10,25 @@ onEvent('recipes', (event) => {
     const recipes = [
         //Compressed Iron Ingot
         {
-            input : {tag: 'forge:ingots/steel'},
-            results : {tag: 'forge:ingots/compressed_iron'},
+            input : [
+                {tag: 'forge:ingots/steel'}
+            ],
+            results : [
+                {tag: 'forge:ingots/compressed_iron'}
+            ],
             loss_rate : 20,
-            id : `${id_prefix}compressed_iron_ingot`
+            id : `pneumaticcraft/explosion_crafting/compressed_iron_ingot`
         },
         //Compressed Iron Block
         {
-            input : {tag: 'forge:storage_blocks/steel'},
-            results : {tag: 'forge:storage_blocks/compressed_iron'},
+            input : [
+                {tag: 'forge:storage_blocks/steel'}
+            ],
+            results : [
+                {tag: 'forge:storage_blocks/compressed_iron'}
+            ],
             loss_rate : 20,
-            id : `${id_prefix}compressed_iron_block`
+            id : `pneumaticcraft/explosion_crafting/compressed_iron_block`
         }
 
     ];
