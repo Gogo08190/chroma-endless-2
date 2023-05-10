@@ -88,6 +88,48 @@ onEvent('recipes', (event) => {
             },
             id: 'powah:crafting/dielectric_rod'
         },
+        {
+            output: 'powah:ender_gate_basic',
+            pattern: ['ACA', 'CEC', 'ACA'],
+            key: {
+                A: 'mekanism:alloy_infused',
+                C: Item.of('powah:energy_cable_basic').ignoreNBT(),
+                E: 'powah:ender_core'
+            },
+            id: 'powah:crafting/ender_gate_basic'
+        },
+        {
+            output: 'powah:energy_cable_basic',
+            pattern: ['DDD', 'ECE', 'DDD'],
+            key: {
+                D: 'powah:dielectric_rod_horizontal',
+                C: 'powah:capacitor_basic',
+                E: '#forge:ingots/electrum'
+            },
+            id: 'powah:crafting/energy_cable_basic'
+        },
+        {
+            output: 'powah:ender_cell_basic',
+            pattern: ['SFS', 'CEC', 'SFS'],
+            key: {
+                S: '#forge:plates/steel',
+                C: 'powah:capacitor_basic_large',
+                E: 'powah:ender_core',
+                F: 'ae2:fluix_pearl'
+            },
+            id: 'powah:crafting/ender_cell_basic'
+        },
+        {
+            output: 'powah:energy_cell_basic',
+            pattern: ['SMS', 'CDC', 'SMS'],
+            key: {
+                S: '#forge:plates/steel',
+                C: 'powah:capacitor_basic_large',
+                D: 'powah:dielectric_casing',
+                M: 'mekanism:basic_control_circuit'
+            },
+            id: 'powah:crafting/energy_cell_basic'
+        },
     ];
 
     recipes.forEach((recipe) => {
