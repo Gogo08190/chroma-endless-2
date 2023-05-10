@@ -78,6 +78,24 @@ onEvent('recipes', (event) => {
             },
             id: 'powah:crafting/capacitor_basic'
         },
+        {
+            output: 'powah:dielectric_rod_horizontal',
+            pattern: ['DDD', 'RRR', 'DDD'],
+            key: {
+                D: 'powah:dielectric_paste',
+                R: 'immersiveengineering:stick_steel'
+            },
+            id: 'powah:crafting/dielectric_rod_h'
+        },
+        {
+            output: 'powah:dielectric_rod',
+            pattern: ['DRD', 'DRD', 'DRD'],
+            key: {
+                D: 'powah:dielectric_paste',
+                R: 'immersiveengineering:stick_steel'
+            },
+            id: 'powah:crafting/dielectric_rod'
+        },
     ];
 
     recipes.forEach((recipe) => {
