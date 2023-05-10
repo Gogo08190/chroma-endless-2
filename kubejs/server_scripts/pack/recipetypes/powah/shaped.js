@@ -60,6 +60,24 @@ onEvent('recipes', (event) => {
             },
             id: 'powah:crafting/furnator_basic'
         },
+        {
+            output: 'chroma:dielectric_paste_block',
+            pattern: ['DDD', 'DDD', 'DDD'],
+            key: {
+                D: 'powah:dielectric_paste',
+            },
+            id: 'chroma:crafting/dielectric_paste_block'
+        },
+        {
+            output: 'powah:capacitor_basic',
+            pattern: [' SD', 'SIS', 'DS '],
+            key: {
+                S: 'immersiveengineering:ingot_steel',
+                D: 'powah:dielectric_paste',
+                I: 'mekanism:alloy_infused'
+            },
+            id: 'powah:crafting/capacitor_basic'
+        },
     ];
 
     recipes.forEach((recipe) => {
