@@ -171,6 +171,100 @@ onEvent('recipes', (event) => {
         }],
         id: 'jamd:mine_portal_block'
       },
+      {
+        recipeSize: 5,
+        layers: [
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+            ]
+          },
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+              ["M", "M", "M", "M", "M"],
+            ]
+          },
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["M", "M", "S", "M", "M"],
+              ["M", "H", "H", "H", "M"],
+              ["S", "H", "E", "H", "S"],
+              ["M", "H", "H", "H", "M"],
+              ["M", "M", "S", "M", "M"],
+            ]
+          },
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["D", "D", "G", "D", "D"],
+              ["D", "U", "U", "U", "D"],
+              ["G", "U", "U", "U", "G"],
+              ["D", "U", "U", "U", "D"],
+              ["D", "D", "G", "D", "D"],
+            ]
+          },
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["D", "D", "G", "D", "D"],
+              ["D", "D", "D", "D", "D"],
+              ["G", "D", "D", "D", "G"],
+              ["D", "D", "D", "D", "D"],
+              ["D", "D", "G", "D", "D"],
+            ]
+          }
+        ],
+        catalyst: {
+          id: 'powah:dielectric_casing',
+          Count: 1
+        },
+        components: {
+          'M': {
+            type: "compactcrafting:block",
+            block: 'botania:mana_glass'
+          },
+          'S': {
+            type: "compactcrafting:block",
+            block: 'immersiveengineering:storage_steel'
+          },
+          'D': {
+            type: "compactcrafting:block",
+            block: 'chroma:dielectric_paste_block'
+          },
+          'G': {
+            type: "compactcrafting:block",
+            block: 'immersiveengineering:heavy_engineering'
+          },
+          'U': {
+            type: "compactcrafting:block",
+            block: 'powah:uraninite_block'
+          },
+          'E': {
+            type: "compactcrafting:block",
+            block: 'immersiveengineering:coil_mv'
+          },
+          'H': {
+            type: "compactcrafting:block",
+            block: 'immersiveengineering:coil_hv'
+          }
+        },
+        outputs: [{
+          id: 'powah:energizing_orb',
+          Count: 1
+        }],
+        id: 'powah:crafting/energizing_orb'
+      },
     ];
 
     recipes.forEach((recipe) => {
