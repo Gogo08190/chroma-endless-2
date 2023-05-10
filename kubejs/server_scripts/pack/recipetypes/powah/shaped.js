@@ -176,6 +176,66 @@ onEvent('recipes', (event) => {
             },
             id: 'powah:crafting/energizing_rod_basic'
         },
+        {
+            output: 'powah:energy_hopper_basic',
+            pattern: ['RBR', 'CDC', 'RHR'],
+            key: {
+                C: 'powah:capacitor_basic_large',
+                D: 'powah:dielectric_casing',
+                R: 'powah:dielectric_rod',
+                H: 'immersiveengineering:coil_hv',
+                B: Item.of('powah:battery_basic').weakNBT()
+            },
+            id: 'powah:crafting/energy_hopper_basic'
+        },
+        {
+            output: 'powah:energy_discharger_basic',
+            pattern: ['RBR', 'CDC', 'RHR'],
+            key: {
+                C: 'powah:capacitor_basic_large',
+                D: 'powah:dielectric_casing',
+                R: 'powah:dielectric_rod',
+                H: Item.of('powah:energy_hopper_basic').ignoreNBT(),
+                B: Item.of('powah:battery_basic').weakNBT()
+            },
+            id: 'powah:crafting/energy_discharger_basic'
+        },
+        {
+            output: 'powah:reactor_basic',
+            pattern: ['PBP', 'CDC', 'PBP'],
+            key: {
+                C: 'powah:capacitor_basic_large',
+                D: 'powah:dielectric_casing',
+                P: 'chroma:dielectric_paste_block',
+                B: 'mekanism:basic_control_circuit'
+            },
+            id: 'powah:crafting/reactor_basic'
+        },
+        {
+            output: 'powah:solar_panel_hardened',
+            pattern: ['PPP', 'CSC', 'IBI'],
+            key: {
+                C: 'powah:capacitor_hardened',
+                S: Item.of('powah:solar_panel_basic').ignoreNBT(),
+                P: 'powah:photoelectric_pane',
+                B: 'mekanism:basic_control_circuit',
+                I: '#forge:ingots/steel'
+            },
+            id: 'powah:crafting/solar_panel_hardened'
+        },
+        {
+            output: 'powah:thermo_generator_hardened',
+            pattern: ['IAI', 'CTC', 'PRP'],
+            key: {
+                C: 'powah:capacitor_hardened',
+                T: Item.of('powah:thermo_generator_basic').ignoreNBT(),
+                R: 'immersiveengineering:radiator',
+                I: '#forge:ingots/steel',
+                A: 'mekanism:alloy_infused',
+                P: 'powah:thermoelectric_plate'
+            },
+            id: 'powah:crafting/thermo_generator_hardened'
+        },
     ];
 
     recipes.forEach((recipe) => {
