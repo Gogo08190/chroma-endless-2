@@ -10,11 +10,11 @@ onEvent('recipes', (event) => {
                 D: 'powah:dielectric_casing',
                 P: 'chroma:dielectric_paste_block'
             },
-            id: 'powah:player_transmitter_basic'
+            id: 'powah:crafting/player_tranmitter_basic'
         },
         {
             output: 'powah:solar_panel_basic',
-            pattern: ['PPP', 'BDB', 'S S'],
+            pattern: ['PPP', 'BDB', 'SCS'],
             key: {
                 P: 'powah:photoelectric_pane',
                 B: 'powah:capacitor_basic',
@@ -22,7 +22,7 @@ onEvent('recipes', (event) => {
                 S: '#forge:ingots/steel',
                 C: 'mekanism:basic_control_circuit'
             },
-            id: 'powah:solar_panel_basic'
+            id: 'powah:crafting/solar_panel_basic'
         },
         {
             output: 'powah:thermo_generator_basic',
@@ -35,7 +35,7 @@ onEvent('recipes', (event) => {
                 T: 'powah:thermoelectric_plate',
                 R: 'immersiveengineering:radiator'
             },
-            id: 'powah:thermo_generator_basic'
+            id: 'powah:crafting/thermo_generator_basic'
         },
         {
             output: 'powah:magmator_basic',
@@ -46,7 +46,7 @@ onEvent('recipes', (event) => {
                 D: 'powah:dielectric_casing',
                 T: 'mob_grinding_utils:tank'
             },
-            id: 'powah:magmator_basic'
+            id: 'powah:crafting/magmator_basic'
         },
         {
             output: 'powah:furnator_basic',
@@ -58,7 +58,7 @@ onEvent('recipes', (event) => {
                 C: 'mekanism:basic_control_circuit',
                 I: 'ironfurnaces:iron_furnace'
             },
-            id: 'powah:furnator_basic'
+            id: 'powah:crafting/furnator_basic'
         },
     ];
 
