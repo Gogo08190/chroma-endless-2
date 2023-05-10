@@ -11,7 +11,7 @@ onEvent('recipes', (event) => {
               C: 'forge:chests/wooden',
               Q: 'create:polished_rose_quartz'
           },
-          id: `${id_prefix}ender_chest`
+          id: 'enderstorage:ender_chest'
       },
       {
         output: 'enderstorage:ender_tank',
@@ -23,7 +23,7 @@ onEvent('recipes', (event) => {
               C: 'create:fluid_tank',
               Q: 'create:polished_rose_quartz'
           },
-          id: `${id_prefix}ender_tank`
+          id: 'enderstorage:ender_tank'
       },
       {
         output: 'enderstorage:ender_pouch',
@@ -34,7 +34,7 @@ onEvent('recipes', (event) => {
               E: 'minecraft:ender_eye',
               W: 'forge:wool'
           },
-          id: `${id_prefix}ender_pouch`
+          id: 'enderstorage:ender_pouch'
       }
       
     ];
