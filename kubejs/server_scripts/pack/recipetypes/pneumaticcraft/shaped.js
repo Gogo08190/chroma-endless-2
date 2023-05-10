@@ -11,23 +11,23 @@ onEvent('recipes', (event) => {
             id: 'pneumaticcraft:pressure_chamber_interface'
         },
         {
-            output: 'pneumaticcraft:pressure_chamber_interface',
+            output: 'pneumaticcraft:heat_frame',
             pattern: ['CCC', 'RHR', 'CDC'],
             key: {
-                C: 'pneumaticcraft:ingot_iron_compressed',
+                C: '#forge:ingots/compressed_iron',
                 R: 'powah:dielectric_rod',
                 H: 'pneumaticcraft:heat_sink',
                 D: 'powah:dielectric_paste'
 
             },
-            id: 'pneumaticcraft:pressure_chamber_interface'
+            id: 'pneumaticcraft:heat_frame'
         },
         {
             output: 'pneumaticcraft:heat_sink',
             pattern: ['  ', 'BBB', 'CEC'],
             key: {
                 B: 'minecraft:iron_bars',
-                C: 'pneumaticcraft:ingot_iron_compressed',
+                C: '#forge:ingots/compressed_iron',
                 E: 'powah:steel_energized'
 
             },
