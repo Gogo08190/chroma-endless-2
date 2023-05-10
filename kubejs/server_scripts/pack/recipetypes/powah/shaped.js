@@ -130,6 +130,52 @@ onEvent('recipes', (event) => {
             },
             id: 'powah:crafting/energy_cell_basic'
         },
+        {
+            output: 'powah:battery_hardened',
+            pattern: ['DED', 'CBC', 'DMD'],
+            key: {
+                D: 'powah:dielectric_paste',
+                C: 'powah:capacitor_hardened',
+                B: Item.of('powah:battery_basic').weakNBT(),
+                M: 'mekanism:basic_control_circuit',
+                E: 'powah:steel_energized'
+            },
+            id: 'powah:crafting/battery_hardened'
+        },
+        {
+            output: 'powah:battery_basic',
+            pattern: ['DSD', 'CIC', 'DMD'],
+            key: {
+                D: 'powah:dielectric_paste',
+                C: 'powah:capacitor_basic_large',
+                I: Item.of('immersiveengineering:capacitor_mv').ignoreNBT(),
+                M: 'mekanism:basic_control_circuit',
+                S: '#forge:ingots/steel'
+            },
+            id: 'powah:crafting/battery_basic'
+        },
+        {
+            output: 'powah:energizing_rod_hardened',
+            pattern: [' B ', 'CDC', ' R '],
+            key: {
+                C: 'powah:capacitor_hardened',
+                D: 'powah:dielectric_casing',
+                R: Item.of('powah:energizing_rod_basic').ignoreNBT(),
+                B: Item.of('powah:battery_hardened').weakNBT()
+            },
+            id: 'powah:crafting/energizing_rod_hardened'
+        },
+        {
+            output: 'powah:energizing_rod_basic',
+            pattern: [' B ', 'CDC', ' P '],
+            key: {
+                C: 'powah:capacitor_basic_large',
+                D: 'powah:dielectric_casing',
+                P: 'chroma:dielectric_paste_block',
+                B: Item.of('powah:battery_basic').weakNBT()
+            },
+            id: 'powah:crafting/energizing_rod_basic'
+        },
     ];
 
     recipes.forEach((recipe) => {
