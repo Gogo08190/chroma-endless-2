@@ -76,6 +76,42 @@ onEvent('recipes', (event) => {
             },
             id: 'pneumaticcraft:thermopneumatic_processing_plant'
         },
+        {
+            output: 'pneumaticcraft:fluid_mixer',
+            pattern: ['CSC', 'SRS', 'CTC'],
+            key: {
+                T: 'pneumaticcraft:pressure_tube',
+                C: '#forge:ingots/compressed_iron',
+                R: 'pneumaticcraft:turbine_rotor',
+                S: 'pneumaticcraft:small_tank',
+            },
+            id: 'pneumaticcraft:fluid_mixer'
+        },
+        {
+            output: 'pneumaticcraft:air_compressor',
+            pattern: ['CCC', 'CDT', 'BFB'],
+            key: {
+                T: 'pneumaticcraft:pressure_tube',
+                C: '#forge:ingots/compressed_iron',
+                D: 'powah:dielectric_casing',
+                F: 'ironfurnaces:iron_furnace',
+                B: 'pneumaticcraft:reinforced_bricks'
+            },
+            id: 'pneumaticcraft:air_compressor'
+        },
+        {
+            output: 'pneumaticcraft:liquid_compressor',
+            pattern: ['CSC', 'TIT', 'DAD'],
+            key: {
+                T: 'pneumaticcraft:pressure_tube',
+                C: '#forge:ingots/compressed_iron',
+                D: 'powah:dielectric_rod',
+                I: 'mekanism:alloy_infused',
+                A: 'pneumaticcraft:air_compressor',
+                S: 'pneumaticcraft:small_tank'
+            },
+            id: 'pneumaticcraft:liquid_compressor'
+        },
     ];
 
     recipes.forEach((recipe) => {
