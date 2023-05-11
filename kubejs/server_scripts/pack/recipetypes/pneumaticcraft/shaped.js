@@ -23,7 +23,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'pneumaticcraft:heat_sink',
-            pattern: ['  ', 'BBB', 'CEC'],
+            pattern: ['BBB', 'CEC'],
             key: {
                 B: 'minecraft:iron_bars',
                 C: '#forge:ingots/compressed_iron',
@@ -49,7 +49,7 @@ onEvent('recipes', (event) => {
                 C: '#forge:ingots/compressed_iron',
                 I: 'mekanism:alloy_infused',
                 S: 'pneumaticcraft:small_tank',
-                H: 'powah:capacitor_hardened'         
+                H: 'powah:capacitor_hardened'
             },
             id: 'pneumaticcraft:refinery'
         },
@@ -72,7 +72,7 @@ onEvent('recipes', (event) => {
                 C: '#forge:ingots/compressed_iron',
                 P: 'powah:thermoelectric_plate',
                 S: 'pneumaticcraft:small_tank',
-                H: 'powah:capacitor_hardened' 
+                H: 'powah:capacitor_hardened'
             },
             id: 'pneumaticcraft:thermopneumatic_processing_plant'
         },

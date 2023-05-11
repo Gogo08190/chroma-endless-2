@@ -19,7 +19,7 @@ onEvent('recipes', (event) => {
     const recipes = [
         ///Transistor
         {
-            inputs : [ 
+            inputs : [
                 {
                     item : 'pneumaticcraft:plastic'
                 },
@@ -42,7 +42,7 @@ onEvent('recipes', (event) => {
         },
         //Capacitor
         {
-            inputs : [ 
+            inputs : [
                 {
                     item : 'pneumaticcraft:plastic'
                 },
@@ -62,7 +62,24 @@ onEvent('recipes', (event) => {
             ],
             pressure : 1.0,
             id : `pneumaticcraft:pressure_chamber/capacitor`
-        }
+        },
+
+        {
+            inputs: [
+                { item: 'immersiveengineering:ingot_steel', count: 1 }
+            ],
+            pressure: 2.0,
+            results: [{ item: 'pneumaticcraft:ingot_iron_compressed', count: 1 }],
+            id: 'pneumaticcraft:pressure_chamber/compressed_iron_ingot'
+        },
+        {
+            inputs: [
+                { item: 'immersiveengineering:storage_steel', count: 1 }
+            ],
+            pressure: 2.0,
+            results: [{ item: 'pneumaticcraft:compressed_iron_block', count: 1 }],
+            id: 'pneumaticcraft:pressure_chamber/compressed_iron_block'
+        },
 
     ];
 
