@@ -17,7 +17,9 @@ onEvent('item.registry', (event) => {
       'elven_spreader_core',
       'gaia_spreader_core',
       'mana_spreader_core',
-      'redstone_spreader_core'
+      'redstone_spreader_core',
+      'inert_luminescence',
+      'essence_of_darkness'
     ];
 
     items.forEach((item) => {

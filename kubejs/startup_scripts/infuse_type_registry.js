@@ -1,6 +1,7 @@
 onEvent('mekanism.infuse_type.registry', (event) => {
     const infuse_type = [
-      {name: 'refined_glowstone', color: 0xFFD966}
+      {name: 'refined_glowstone', color: 0xFFD966},
+      {name: 'essence_of_darkness', color: 0x27024B}
     ];
 
     infuse_type.forEach((infuse) => {
