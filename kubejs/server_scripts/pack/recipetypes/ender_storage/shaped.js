@@ -27,7 +27,7 @@ onEvent('recipes', (event) => {
       },
       {
         output: 'enderstorage:ender_pouch',
-          pattern: ['BLB', 'LEL', 'BwB'],
+          pattern: ['BLB', 'LEL', 'BWB'],
           key: {
               B: '#forge:rods/blaze',
               L: '#forge:leather',
