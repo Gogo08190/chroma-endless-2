@@ -106,7 +106,7 @@ onEvent('recipes', (event) => {
                 C: 'powah:capacitor_basic',
                 E: '#forge:ingots/electrum'
             },
-            id: 'powah:crafting/energy_cable_basic'
+            id: 'powah:crafting/cable_basic'
         },
         {
             output: 'powah:ender_cell_basic',
@@ -219,7 +219,7 @@ onEvent('recipes', (event) => {
                 S: Item.of('powah:solar_panel_basic').ignoreNBT(),
                 P: 'powah:photoelectric_pane',
                 B: 'mekanism:basic_control_circuit',
-                I: '#forge:ingots/steel'
+                I: 'powah:steel_energized'
             },
             id: 'powah:crafting/solar_panel_hardened'
         },
@@ -230,7 +230,7 @@ onEvent('recipes', (event) => {
                 C: 'powah:capacitor_hardened',
                 T: Item.of('powah:thermo_generator_basic').ignoreNBT(),
                 R: 'immersiveengineering:radiator',
-                I: '#forge:ingots/steel',
+                I: 'powah:steel_energized',
                 A: 'mekanism:alloy_infused',
                 P: 'powah:thermoelectric_plate'
             },
@@ -243,7 +243,7 @@ onEvent('recipes', (event) => {
                 C: 'powah:capacitor_hardened',
                 T: Item.of('powah:magmator_basic').ignoreNBT(),
                 R: 'mob_grinding_utils:tank',
-                I: '#forge:ingots/steel',
+                I: 'powah:steel_energized',
                 A: 'mekanism:alloy_infused'
             },
             id: 'powah:crafting/magmator_hardened'
@@ -255,7 +255,7 @@ onEvent('recipes', (event) => {
                 C: 'powah:capacitor_hardened',
                 T: Item.of('powah:furnator_basic').ignoreNBT(),
                 R: 'ironfurnaces:gold_furnace',
-                I: '#forge:ingots/steel',
+                I: 'powah:steel_energized',
                 M: 'mekanism:basic_control_circuit'
             },
             id: 'powah:crafting/furnator_hardened'
