@@ -238,11 +238,11 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'powah:magmator_hardened',
-            pattern: ['III', 'CTC', 'IRI'],
+            pattern: ['III', 'CRC', 'ATA'],
             key: {
                 C: 'powah:capacitor_hardened',
                 T: Item.of('powah:magmator_basic').ignoreNBT(),
-                R: 'mob_grinding_utils:tank',
+                R: 'powah:dielectric_casing',
                 I: 'powah:steel_energized',
                 A: 'mekanism:alloy_infused'
             },
