@@ -35,6 +35,12 @@ onEvent('recipes', (event) => {
             heated: true,
             id: 'tconstruct:smeltery/scorched/nether_grout'
         },
+        {
+            inputs: ['pneumaticcraft:ingot_iron_compressed', Item.of('blue_skies:lunar_stone', 8)],
+            output: Item.of('pneumaticcraft:reinforced_stone', 8),
+            heated: true,
+            id: 'pneumaticcraft:reinforced_stone'
+        },
     ];
 
     recipes.forEach((recipe) => {
