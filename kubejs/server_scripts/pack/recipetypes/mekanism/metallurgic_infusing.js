@@ -16,6 +16,27 @@ onEvent('recipes', (event) => {
         infusionAmount: 40,
         id: 'powah:crafting/thermoelectric_plate'
       },
+      {
+        output: 'extendedcrafting:luminessence',
+        input: 'chroma:inert_luminessence',
+        infusionInput: 'chroma:refined_glowstone',
+        infusionAmount: 10,
+        id: 'extendedcrafting:luminessence'
+      },
+      {
+        output: 'extendedcrafting:black_iron_ingot',
+        input: 'immersiveengineering:ingot_steel',
+        infusionInput: 'chroma:essence_of_darkness',
+        infusionAmount: 10,
+        id: 'extendedcrafting:black_iron_ingot'
+      },
+      {
+        output: 'extendedcrafting:redstone_ingot',
+        input: 'pneumaticcraft:ingot_iron_compressed',
+        infusionInput: 'mekanism:redstone',
+        infusionAmount: 20,
+        id: 'extendedcrafting:redstone_ingot'
+      },
 
     ];
 

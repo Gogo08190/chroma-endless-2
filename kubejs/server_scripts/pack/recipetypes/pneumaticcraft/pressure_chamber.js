@@ -37,7 +37,7 @@ onEvent('recipes', (event) => {
             inputs: [
                 { item: 'pneumaticcraft:plastic', count: 1 },
                 { item: 'mekanism:alloy_infused', count: 1 },
-                { item: 'emendatusenigmatica:electrum_nugget', count: 3 },
+                { item: 'thermal:electrum_nugget', count: 3 },
             ],
             pressure: 1.0,
             results: [{ item: 'pneumaticcraft:transistor', count: 1 }],
@@ -47,11 +47,38 @@ onEvent('recipes', (event) => {
             inputs: [
                 { item: 'pneumaticcraft:plastic', count: 1 },
                 { item: 'powah:capacitor_basic', count: 1 },
-                { item: 'emendatusenigmatica:electrum_nugget', count: 3 },
+                { item: 'thermal:electrum_nugget', count: 3 },
             ],
             pressure: 1.0,
             results: [{ item: 'pneumaticcraft:capacitor', count: 1 }],
             id: 'pneumaticcraft:pressure_chamber/capacitor'
+        },
+        {
+            inputs: [
+                { item: 'extendedcrafting:basic_component', count: 4 },
+                { item: 'powah:capacitor_basic_large', count: 1 }
+            ],
+            pressure: 3.0,
+            results: [{ item: 'extendedcrafting:basic_catalyst', count: 1 }],
+            id: 'extendedcrafting:basic_catalyst'
+        },
+        {
+            inputs: [
+                { item: 'extendedcrafting:advanced_component', count: 4 },
+                { item: 'powah:capacitor_hardened', count: 1 }
+            ],
+            pressure: 3.0,
+            results: [{ item: 'extendedcrafting:advanced_catalyst', count: 1 }],
+            id: 'extendedcrafting:advanced_catalyst'
+        },
+        {
+            inputs: [
+                { item: 'extendedcrafting:redstone_component', count: 4 },
+                { item: 'pneumaticcraft:capacitor', count: 1 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'extendedcrafting:redstone_catalyst', count: 1 }],
+            id: 'extendedcrafting:redstone_catalyst'
         },
 
     ];
