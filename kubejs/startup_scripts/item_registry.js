@@ -19,7 +19,9 @@ onEvent('item.registry', (event) => {
       'mana_spreader_core',
       'redstone_spreader_core',
       'inert_luminessence',
-      'essence_of_darkness'
+      'essence_of_darkness',
+      'excitation_coil',
+      'base_augment'
     ];
 
     items.forEach((item) => {
