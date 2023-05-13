@@ -16,6 +16,7 @@
     "quark",
     "mythicbotany",
     "undergarden",
+    "chemlib",
     "jaopca",
     "chipped"
   ],
@@ -95,7 +96,8 @@
     "tin",
     "tungsten",
     "uranium",
-    "zinc"
+    "zinc",
+    "mana_diamond"
   ],
   "priorityOverrides": {},
   "ignoredTags": [],
