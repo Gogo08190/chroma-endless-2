@@ -4,10 +4,6 @@ onEvent('recipes', (event) => {
     const idRemovals = [
       'blue_skies:furnace_compat',
       'tconstruct:common/basalt_blast_furnace',
-      'quark:building/crafting/furnaces/blackstone_blast_furnace',
-      'quark:building/crafting/furnaces/deepslate_blast_furnace',
-      'quark:building/crafting/furnaces/deepslate_smoker',
-      'quark:building/crafting/furnaces/blackstone_smoker',
       'blue_skies:enchanting_table_compat',
       'blue_skies:stonecutter_compat',
       'tconstruct:common/glass/vanilla/beacon'

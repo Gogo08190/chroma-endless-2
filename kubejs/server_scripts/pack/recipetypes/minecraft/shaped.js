@@ -11,6 +11,26 @@ onEvent('recipes', (event) => {
             id: 'quark:building/crafting/furnaces/cobblestone_furnace'
         },
         {
+            output: 'quark:deepslate_furnace',
+            pattern: ['CCC', 'CBC', 'CFC'],
+            key: {
+                C: '#forge:deepslate',
+                B: '#forge:storage_blocks/coal',
+                F: 'minecraft:campfire'
+            },
+            id: 'quark:building/crafting/furnaces/deepslate_blast_furnace'
+        },
+        {
+            output: 'quark:blackstone_furnace',
+            pattern: ['CCC', 'CBC', 'CFC'],
+            key: {
+                C: '#forge:blackstone',
+                B: '#forge:storage_blocks/coal',
+                F: 'minecraft:campfire'
+            },
+            id: 'quark:building/crafting/furnaces/blackstone_blast_furnace'
+        },
+        {
             output: 'minecraft:blast_furnace',
             pattern: ['DDD', 'IFB', 'SSS'],
             key: {
@@ -28,11 +48,35 @@ onEvent('recipes', (event) => {
             key: {
                 W: '#minecraft:logs',
                 T: 'dustrial_decor:iron_bar_trapdoor',
-                C: '#chipped:cobblestone',
+                C: '#forge:cobblestone',
                 F: 'minecraft:furnace',
                 P: 'minecraft:campfire'
             },
             id: 'minecraft:smoker'
+        },
+        {
+            output: 'minecraft:smoker',
+            pattern: ['WTW', 'CFC', 'WPW'],
+            key: {
+                W: '#minecraft:logs',
+                T: 'dustrial_decor:iron_bar_trapdoor',
+                C: '#forge:deepslate',
+                F: 'minecraft:furnace',
+                P: 'minecraft:campfire'
+            },
+            id: 'quark:building/crafting/furnaces/deepslate_smoker'
+        },
+        {
+            output: 'minecraft:smoker',
+            pattern: ['WTW', 'CFC', 'WPW'],
+            key: {
+                W: '#minecraft:logs',
+                T: 'dustrial_decor:iron_bar_trapdoor',
+                C: '#forge:blackstone',
+                F: 'minecraft:furnace',
+                P: 'minecraft:campfire'
+            },
+            id: 'quark:building/crafting/furnaces/blackstone_smoker'
         },
         {
             output: 'minecraft:piston',
