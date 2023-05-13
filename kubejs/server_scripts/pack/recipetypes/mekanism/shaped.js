@@ -49,6 +49,56 @@ onEvent('recipes', (event) => {
             },
             id: 'mekanism:combiner'
         },
+        {
+            output: Item.of('mekanism:basic_universal_cable', 8),
+            pattern: ['QQQ', 'STS', 'QQQ'],
+            key: {
+                Q: 'ae2:quartz_fiber',
+                S: '#forge:ingots/steel',
+                T: 'create:electron_tube'
+            },
+            id: 'mekanism:transmitter/universal_cable/basic'
+        },
+        {
+            output: Item.of('mekanism:basic_thermodynamic_conductor', 8),
+            pattern: ['QQQ', 'STS', 'QQQ'],
+            key: {
+                Q: 'ae2:quartz_fiber',
+                S: '#forge:ingots/steel',
+                T: '#forge:plates/copper'
+            },
+            id: 'mekanism:transmitter/thermodynamic_conductor/basic'
+        },
+        {
+            output: Item.of('mekanism:basic_pressurized_tube', 8),
+            pattern: ['QQQ', 'STS', 'QQQ'],
+            key: {
+                Q: 'ae2:quartz_fiber',
+                S: '#forge:ingots/steel',
+                T: 'mekanism:alloy_infused'
+            },
+            id: 'mekanism:transmitter/pressurized_tube/basic'
+        },
+        {
+            output: Item.of('mekanism:basic_logistical_transporter', 8),
+            pattern: ['QQQ', 'STS', 'QQQ'],
+            key: {
+                Q: 'ae2:quartz_fiber',
+                S: '#forge:ingots/steel',
+                T: 'mekanism:basic_control_circuit'
+            },
+            id: 'mekanism:transmitter/logistical_transporter/basic'
+        },
+        {
+            output: Item.of('mekanism:basic_mechanical_pipe', 8),
+            pattern: ['QQQ', 'STS', 'QQQ'],
+            key: {
+                Q: 'ae2:quartz_fiber',
+                S: '#forge:ingots/steel',
+                T: 'mekanism:basic_control_circuit'
+            },
+            id: 'mekanism:transmitter/mechanical_pipe/basic'
+        },
     ];
 
     recipes.forEach((recipe) => {

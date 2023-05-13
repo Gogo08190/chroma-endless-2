@@ -37,6 +37,13 @@ onEvent('recipes', (event) => {
         infusionAmount: 20,
         id: 'extendedcrafting:redstone_ingot'
       },
+      {
+        output: 'mekanism:advanced_control_circuit',
+        input: 'mekanism:basic_control_circuit',
+        infusionInput: 'mekanism:redstone',
+        infusionAmount: 40,
+        id: 'mekanism:control_circuit/advanced'
+      },
 
     ];
 

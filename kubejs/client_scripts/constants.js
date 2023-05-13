@@ -71,6 +71,7 @@ const disabledItems = [
     'create:dough',
 
     'mekanism:sawdust',
+    'mekanism:dimensional_stabilizer',
 
     'pneumaticcraft:wheat_flour',
 
