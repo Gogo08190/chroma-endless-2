@@ -21,7 +21,9 @@ onEvent('item.registry', (event) => {
       'inert_luminessence',
       'essence_of_darkness',
       'excitation_coil',
-      'base_augment'
+      'base_augment',
+      'enriched_refined_glowstone',
+      'enriched_essence_of_darkness'
     ];
 
     items.forEach((item) => {
