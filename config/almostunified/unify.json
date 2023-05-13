@@ -3,6 +3,7 @@
     "minecraft",
     "kubejs",
     "crafttweaker",
+    "ae2",
     "pizzacraft",
     "farmersdelight",
     "thermal",
@@ -16,6 +17,7 @@
     "quark",
     "mythicbotany",
     "undergarden",
+    "bigreactors",
     "chemlib",
     "jaopca",
     "chipped"
@@ -97,7 +99,7 @@
     "tungsten",
     "uranium",
     "zinc",
-    "mana_diamond"
+    "ender_pearl"
   ],
   "priorityOverrides": {},
   "ignoredTags": [],
