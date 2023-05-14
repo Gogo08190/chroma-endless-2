@@ -6,7 +6,11 @@ const TAGS_ITEMS = [
     ["forge:plates/mana_diamond", "chroma:mana_diamond_plate"],
     // Waxes / Honeycomb
     ["forge:wax", "forbidden_arcanus:wax"],
-    ["forge:wax", "minecraft:honeycomb"]
+    ["forge:wax", "minecraft:honeycomb"],
+
+    ["forge:storage_blocks/mana_diamond", "botania:mana_diamond_block"],
+    ["forge:storage_blocks/dragonstone", "botania:dragonstone_block"],
+    ["forge:storage_blocks/andesite_alloy", "chroma:andesite_alloy_block"],
 ]
 
 onEvent('item.tags', (event) => {
