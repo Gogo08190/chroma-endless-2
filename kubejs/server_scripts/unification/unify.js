@@ -5,8 +5,8 @@ onEvent('recipes', (event) => {
   });
 
   gearMaterials.forEach((gear) => {
-    event.remove({ id: 'thermal:parts/' + material + '_gear' });
-    event.remove({ id: 'industrialforegoing:' + material + '_gear' });
-    event.remove({ id: 'pneumaticcraft:' + material + '_gear' });
+    event.remove({ id: 'thermal:parts/' + gear + '_gear' });
+    event.remove({ id: 'industrialforegoing:' + gear + '_gear' });
+    event.remove({ id: 'pneumaticcraft:' + gear + '_gear' });
   });
 });
