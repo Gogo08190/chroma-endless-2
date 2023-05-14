@@ -31,7 +31,8 @@ onEvent('item.registry', (event) => {
       'manasteel_flux_coil',
       'magnetic_rode',
       'empty_mana_pearl',
-      'device_frame'
+      'device_frame',
+      'wooden_frame'
     ];
 
     items.forEach((item) => {
