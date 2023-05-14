@@ -24,7 +24,9 @@ onEvent('item.registry', (event) => {
       'base_augment',
       'enriched_refined_glowstone',
       'enriched_essence_of_darkness',
-      'electrum_rod'
+      'electrum_rod',
+      'netherite_rod',
+      'netherite_flux_coil',
     ];
 
     items.forEach((item) => {
