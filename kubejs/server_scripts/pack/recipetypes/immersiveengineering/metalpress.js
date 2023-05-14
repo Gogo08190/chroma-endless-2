@@ -29,6 +29,34 @@ onEvent('recipes', (event) => {
           energy : 2400,
           id: `${id_prefix}printed_silicon`
       },
+      {
+          input: Item.of('minecraft:diamond', 4),
+          output: 'thermal:diamond_gear',
+          mold : 'immersiveengineering:mold_gear',
+          energy : 2400,
+          id: `${id_prefix}diamond_gear`
+      },
+      {
+          input: Item.of('minecraft:emerald', 4),
+          output: 'thermal:emerald_gear',
+          mold : 'immersiveengineering:mold_gear',
+          energy : 2400,
+          id: `${id_prefix}emerald_gear`
+      },
+      {
+          input: Item.of('minecraft:quartz', 4),
+          output: 'thermal:quartz_gear',
+          mold : 'immersiveengineering:mold_gear',
+          energy : 2400,
+          id: `${id_prefix}quartz_gear`
+      },
+      {
+          input: Item.of('minecraft:lapis_lazuli', 4),
+          output: 'thermal:lapis_gear',
+          mold : 'immersiveengineering:mold_gear',
+          energy : 2400,
+          id: `${id_prefix}lapis_gear`
+      },
     ];
 
     recipes.forEach((recipe) => {

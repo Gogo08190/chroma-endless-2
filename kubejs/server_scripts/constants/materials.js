@@ -77,3 +77,26 @@ const materialsToUnify = [
     'brass',
     'zinc',
 ];
+
+const gearMaterials = [
+  'compressed_iron',
+  'iron',
+  'gold',
+  'copper',
+  'netherite',
+  'lapis',
+  'diamond',
+  'emerald',
+  'quartz',
+  'tin',
+  'lead',
+  'silver',
+  'nickel',
+  'bronze',
+  'electrum',
+  'invar',
+  'constantan',
+  'signalum',
+  'lumium',
+  'enderium',
+];

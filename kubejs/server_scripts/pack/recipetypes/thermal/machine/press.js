@@ -7,7 +7,31 @@ onEvent('recipes', (event) => {
         output: 'extendedcrafting:black_iron_slate',
         energy: '2400',
         id: 'extendedcrafting:black_iron_slate'
-      }
+      },
+      {
+        inputs: [Item.of('#forge:gems/diamond', 4), Ingredient.of('immersiveengineering:mold_gear')],
+        output: 'thermal:diamond_gear',
+        energy: '2400',
+        id: `${id_prefix}diamond_gear`
+      },
+      {
+        inputs: [Item.of('#forge:gems/emerald', 4), Ingredient.of('immersiveengineering:mold_gear')],
+        output: 'thermal:emerald_gear',
+        energy: '2400',
+        id: `${id_prefix}emerald_gear`
+      },
+      {
+        inputs: [Item.of('#forge:gems/quartz', 4), Ingredient.of('immersiveengineering:mold_gear')],
+        output: 'thermal:quartz_gear',
+        energy: '2400',
+        id: `${id_prefix}quartz_gear`
+      },
+      {
+        inputs: [Item.of('#forge:gems/lapis', 4), Ingredient.of('immersiveengineering:mold_gear')],
+        output: 'thermal:lapis_gear',
+        energy: '2400',
+        id: `${id_prefix}lapis_gear`
+      },
     ];
 
     recipes.forEach((recipe) => {
