@@ -100,7 +100,9 @@
     "tungsten",
     "uranium",
     "zinc",
-    "ender_pearl"
+    "ender_pearl",
+    "mana_diamond",
+    "dragonstone"
   ],
   "priorityOverrides": {},
   "ignoredTags": [],
