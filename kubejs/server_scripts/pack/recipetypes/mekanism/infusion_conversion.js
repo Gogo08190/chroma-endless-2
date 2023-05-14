@@ -26,6 +26,16 @@ onEvent('recipes', (event) => {
         output: { amount: 80, infuse_type: 'chroma:refined_glowstone' },
         id: `${id_prefix}refined_glowstone_from_enriched`
       },
+      {
+        input: { ingredient: { item: 'chroma:essence_of_darkness' } },
+        output: { amount: 10, infuse_type: 'chroma:essence_of_darkness' },
+        id: `${id_prefix}essence_of_darkness`
+      },
+      {
+        input: { ingredient: { item: 'chroma:essence_of_darkness' } },
+        output: { amount: 80, infuse_type: 'chroma:essence_of_darkness' },
+        id: `${id_prefix}essence_of_darkness_from_enriched`
+      },
     ]
 
     recipes.forEach((recipe) => {
