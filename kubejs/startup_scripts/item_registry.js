@@ -23,7 +23,8 @@ onEvent('item.registry', (event) => {
       'excitation_coil',
       'base_augment',
       'enriched_refined_glowstone',
-      'enriched_essence_of_darkness'
+      'enriched_essence_of_darkness',
+      'electrum_rod'
     ];
 
     items.forEach((item) => {

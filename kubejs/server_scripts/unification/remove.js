@@ -5,7 +5,8 @@ onEvent('recipes', (event) => {
     ];
 
     var idRemovals = [
-
+      'jaopca:storage_blocks.to_storage_block.mana_diamond',
+      'jaopca:storage_blocks.to_storage_block.dragonstone',
     ];
 
     outputRemovals.forEach((removal) => {
