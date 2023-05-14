@@ -32,7 +32,8 @@ onEvent('item.registry', (event) => {
       'magnetic_rode',
       'empty_mana_pearl',
       'device_frame',
-      'wooden_frame'
+      'wooden_frame',
+      'runic_core'
     ];
 
     items.forEach((item) => {
