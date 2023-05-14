@@ -33,7 +33,8 @@ onEvent('item.registry', (event) => {
       'empty_mana_pearl',
       'device_frame',
       'wooden_frame',
-      'runic_core'
+      'runic_core',
+      'blank_integral_components'
     ];
 
     items.forEach((item) => {
