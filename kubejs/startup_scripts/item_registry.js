@@ -27,6 +27,7 @@ onEvent('item.registry', (event) => {
       'electrum_rod',
       'netherite_rod',
       'netherite_flux_coil',
+      'magnetic_rode'
     ];
 
     items.forEach((item) => {
