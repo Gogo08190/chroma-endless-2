@@ -34,7 +34,10 @@ onEvent('item.registry', (event) => {
       'device_frame',
       'wooden_frame',
       'runic_core',
-      'blank_integral_components'
+      'blank_integral_components',
+      'blank_integral_components',
+      'fluxo_core',
+      'magnet_core'
     ];
 
     items.forEach((item) => {
