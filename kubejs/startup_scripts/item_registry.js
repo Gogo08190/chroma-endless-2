@@ -27,8 +27,11 @@ onEvent('item.registry', (event) => {
       'electrum_rod',
       'netherite_rod',
       'netherite_flux_coil',
+      'manasteel_rod',
+      'manasteel_flux_coil',
       'magnetic_rode',
-      'empty_mana_pearl'
+      'empty_mana_pearl',
+      'device_frame'
     ];
 
     items.forEach((item) => {
