@@ -80,7 +80,26 @@ onEvent('recipes', (event) => {
             results: [{ item: 'extendedcrafting:redstone_catalyst', count: 1 }],
             id: 'extendedcrafting:redstone_catalyst'
         },
-
+        {
+            inputs: [
+                { item: 'ae2:cell_component_4k', count: 3 },
+                { item: 'ae2:calculation_processor', count: 1 },
+                { item: 'pneumaticcraft:transistor', count: 2 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'ae2:cell_component_16k', count: 1 }],
+            id: 'ae2:network/cels/item_storage_components_cell_16k_part'
+        },
+        {
+            inputs: [
+                { item: 'ae2:spatial_cell_component_2', count: 4 },
+                { item: 'ae2:engineering_processor', count: 1 },
+                { item: 'powah:capacitor_blazing', count: 4 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'ae2:spatial_cell_component_16', count: 1 }],
+            id: 'ae2:network/cels/spatial_components_0'
+        },
     ];
 
     recipes.forEach((recipe) => {

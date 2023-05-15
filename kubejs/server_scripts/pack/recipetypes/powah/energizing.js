@@ -115,6 +115,22 @@ onEvent('recipes', (event) => {
             },
             id: 'extendedcrafting:advanced_table'
         },
+        {
+            ingredients: [
+                { item: 'ae2:cell_component_1k' },
+                { item: 'ae2:cell_component_1k' },
+                { item: 'ae2:cell_component_1k' },
+                { item: 'ae2:calculation_processor' },
+                { item: 'powah:capacitor_basic_large' },
+                { item: 'powah:capacitor_basic_large' }
+            ],
+            energy: 30000,
+            result: {
+                item: 'ae2:cell_component_4k',
+                count: 1
+            },
+            id: 'ae2:network/cels/item_storage_components_cell_4k_part'
+        },
     ];
 
     recipes.forEach((recipe) => {
