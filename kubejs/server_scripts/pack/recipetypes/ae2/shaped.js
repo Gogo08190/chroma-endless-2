@@ -239,7 +239,7 @@ onEvent('recipes', (event) => {
             output: 'megacells:mega_fluid_cell_housing',
             pattern: ['GRG', 'R R', 'SSS'],
             key: {
-                G: 'ae2:quartz_glass',
+                G: 'ae2:quartz_vibrant_glass',
                 R: 'lazierae2:carbonic_fluix_dust',
                 S: '#forge:plates/copper'
             },
@@ -249,7 +249,7 @@ onEvent('recipes', (event) => {
             output: 'megacells:mega_item_cell_housing',
             pattern: ['GRG', 'R R', 'SSS'],
             key: {
-                G: 'ae2:quartz_glass',
+                G: 'ae2:quartz_vibrant_glass',
                 R: 'lazierae2:carbonic_fluix_dust',
                 S: '#forge:plates/steel'
             },
@@ -283,7 +283,7 @@ onEvent('recipes', (event) => {
                 Q: 'ae2:certus_quartz_crystal',
                 P: 'ae2:logic_processor'
             },
-            id: 'ae2:network/cels/item_storage_components_cell_1k_part'
+            id: 'ae2:network/cells/item_storage_components_cell_1k_part'
         },
         {
             output: 'ae2:spatial_cell_component_2',
@@ -293,7 +293,7 @@ onEvent('recipes', (event) => {
                 Q: 'ae2:fluix_pearl',
                 P: '#lazierae2:processors'
             },
-            id: 'ae2:network/cels/spatial_components'
+            id: 'ae2:network/cells/spatial_components'
         },
         {
             output: 'ae2:item_storage_cell_1k',

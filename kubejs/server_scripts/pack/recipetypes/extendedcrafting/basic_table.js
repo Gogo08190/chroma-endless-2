@@ -52,7 +52,7 @@ onEvent("recipes", (event) => {
         "item": "ae2:cell_component_64k"
       }
     }
-  ).id('ae2:network/cels/item_storage_components_cell_64k_part')
+  ).id('ae2:network/cells/item_storage_components_cell_64k_part')
 
   event.custom(
     {
@@ -77,5 +77,5 @@ onEvent("recipes", (event) => {
         "item": "ae2:spatial_cell_component_128"
       }
     }
-  ).id('ae2:network/cels/spatial_components_1')
+  ).id('ae2:network/cells/spatial_components_1')
 });
