@@ -99,6 +99,70 @@ onEvent('recipes', (event) => {
             },
             id: 'mekanism:transmitter/mechanical_pipe/basic'
         },
+        {
+            output: 'mekanism:basic_tier_installer',
+            pattern: ['RCR', 'HIH', 'RCR'],
+            key: {
+                R: '#forge:dusts/redstone',
+                C: 'mekanism:basic_control_circuit',
+                H: '#forge:ingots/hop_graphite',
+                I: '#forge:storage_blocks/iron'
+            },
+            id: 'mekanism:tier_installer/basic'
+        },
+        {
+            output: 'mekanism:advanced_tier_installer',
+            pattern: ['RCR', 'HIH', 'RCR'],
+            key: {
+                R: 'mekanism:alloy_infused',
+                C: 'mekanism:alloy_infused',
+                H: '#blue_skies:ingots/ventium',
+                I: '#forge:storage_blocks/iron'
+            },
+            id: 'mekanism:tier_installer/advanced'
+        },
+        {
+            output: 'mekanism:elite_tier_installer',
+            pattern: ['RCR', 'HIH', 'RCR'],
+            key: {
+                R: 'mekanism:alloy_reinforced',
+                C: 'mekanism:elite_control_circuit',
+                H: '#forge:ingots/scandium',
+                I: '#forge:storage_blocks/iron'
+            },
+            id: 'mekanism:tier_installer/elite'
+        },
+        {
+            output: 'mekanism:upgrade_energy',
+            pattern: [' G ', 'AQA', ' G '],
+            key: {
+                G: '#thermal:glass/hardened',
+                A: 'mekanism:alloy_infused',
+                Q: 'ae2:charged_certus_quartz_crystal'
+            },
+            id: 'mekanism:upgrade/energy'
+        },
+        {
+            output: 'mekanism:upgrade_speed',
+            pattern: [' G ', 'AQA', ' G '],
+            key: {
+                G: '#thermal:glass/hardened',
+                A: 'mekanism:alloy_infused',
+                Q: 'extendedcrafting:luminessence'
+            },
+            id: 'mekanism:upgrade/speed'
+        },
+        {
+            output: 'solarpanels:improved_energy_tablet',
+            pattern: ['EGE', 'ATA', 'EGE'],
+            key: {
+                E: 'chroma:enriched_essence_of_darkness',
+                G: 'chroma:enriched_refined_glowstone',
+                A: 'mekanism:alloy_reinforced',
+                T: 'mekanism:energy_tablet'
+            },
+            id: 'solarpanels:improved_energy_tabled'
+        },
     ];
 
     recipes.forEach((recipe) => {
