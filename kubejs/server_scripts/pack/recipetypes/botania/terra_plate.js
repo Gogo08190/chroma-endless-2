@@ -18,6 +18,31 @@ onEvent('recipes', (event) => {
           mana: 25000,
           id: 'extendedcrafting:ender_crafter'
       },
+      {
+        inputs: [
+            { item: 'botania:glimmering_livingwood' },
+            { item: 'botania:glimmering_livingwood' },
+            { item: 'botania:glimmering_livingwood' },
+            { item: 'botania:glimmering_livingwood' },
+            { item: 'botania:mana_pylon' },
+            { item: 'botania:terrasteel_ingot' }
+        ],
+        output: { item: 'botania:natura_pylon' },
+        mana: 500000,
+        id: 'botania:natura_pylon'
+    },
+    {
+        inputs: [
+            { item: 'botania:life_essence' },
+            { item: 'botania:life_essence' },
+            { item: 'botania:life_essence' },
+            { item: 'chroma:gaia_spreader_core' },
+            { item: 'botania:elven_spreader' }
+        ],
+        output: { item: 'botania:gaia_spreader' },
+        mana: 25000,
+        id: 'botania:gaia_spreader'
+    },
 
     ];
 

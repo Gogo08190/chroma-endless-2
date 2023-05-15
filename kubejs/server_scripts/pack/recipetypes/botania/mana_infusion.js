@@ -38,6 +38,20 @@ onEvent('recipes', (event) => {
         mana: 3000,
         id: 'botania:mana_infusion/manasteel'
       },
+      {
+        input: 'evilcraft:golden_string',
+        output: 'botania:mana_string',
+        count: 1,
+        mana: 5000,
+        id: 'botania:mana_infusion/mana_string'
+      },
+      {
+        input: 'minecraft:redstone',
+        output: 'botania:mana_powder',
+        count: 1,
+        mana: 5000,
+        id: 'botania:mana_infusion/mana_powder_dust'
+      },
 
   ];
   recipes.forEach((recipe) => {
