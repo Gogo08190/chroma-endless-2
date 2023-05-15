@@ -1,5 +1,5 @@
 onEvent('recipes', (event) => {
-    const id_prefix = 'chroma:pack/mythic_botany/mythicbotany_infusion/';
+    const id_prefix = 'chroma:pack/mythic_botany/infusion/';
 
     const recipes = [
       {
@@ -11,6 +11,8 @@ onEvent('recipes', (event) => {
               { item: 'botania:natura_pylon' }
           ],
           output: { item: 'mythicbotany:alfsteel_pylon' },
+          fromColor: 3276592,
+          toColor: 16750080,
           mana: 30000,
           id: 'mythicbotany:alfsteel_pylon'
       },
@@ -19,7 +21,10 @@ onEvent('recipes', (event) => {
 
     recipes.forEach((recipe) => {
         const re = event.custom({
-            type: 'mythicbotany:mana_infuser',
+            type: 'mythicbotany:infusion',
+            group: 'infuser',
+            fromColor: recipe.fromColor,
+            toColor: recipe.toColor,
             ingredients: recipe.inputs.map((input) => Ingredient.of(input).toJson()),
             result: Item.of(recipe.output).toJson(),
             mana: recipe.mana
