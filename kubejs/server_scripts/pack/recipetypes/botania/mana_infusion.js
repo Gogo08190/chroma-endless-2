@@ -15,8 +15,29 @@ onEvent('recipes', (event) => {
       count: 1,
       mana: 250,
       catalyst: 'botania:alchemy_catalyst',
-      id: 'botania:mana_infusion/manasteel'
+      id: 'chroma:silicon_paste'
     },
+    {
+        input: 'chroma:empty_mana_pearl',
+        output: 'botania:mana_pearl',
+        count: 1,
+        mana: 6000,
+        id: 'botania:mana_infusion/mana_pearl'
+      },
+      {
+        input: 'evilcraft:dark_gem',
+        output: 'botania:mana_diamond',
+        count: 1,
+        mana: 10000,
+        id: 'botania:mana_infusion/mana_diamond'
+      },
+      {
+        input: 'spirit:soul_steel_ingot',
+        output: 'botania:manasteel_ingot',
+        count: 1,
+        mana: 3000,
+        id: 'botania:mana_infusion/manasteel'
+      },
 
   ];
   recipes.forEach((recipe) => {
