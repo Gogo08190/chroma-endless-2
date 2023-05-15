@@ -100,6 +100,20 @@ onEvent('recipes', (event) => {
             },
             id: 'tiab:time_in_a_bottle'
         },
+        {
+            output: Item.of('botania:terra_plate', 1),
+            pattern: ['LLL', 'WBF', 'EMA'],
+            key: {
+                B: 'botania:manasteel_block',
+                L: 'minecraft:lapis_block',
+                F: 'botania:rune_fire',
+                A: 'botania:rune_air',
+                M: 'botania:rune_mana',
+                E: 'botania:rune_earth',
+                W: 'botania:rune_water'
+            },
+            id: 'botania:terra_plate'
+        },
     ];
 
     recipes.forEach((recipe) => {
