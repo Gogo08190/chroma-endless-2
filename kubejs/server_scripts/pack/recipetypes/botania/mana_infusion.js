@@ -15,7 +15,7 @@ onEvent('recipes', (event) => {
       count: 1,
       mana: 250,
       catalyst: 'botania:alchemy_catalyst',
-      id: 'chroma:silicon_paste'
+      id: `${id_prefix}silicon_paste`
     },
     {
         input: 'chroma:empty_mana_pearl',
