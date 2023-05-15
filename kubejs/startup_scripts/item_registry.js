@@ -35,7 +35,6 @@ onEvent('item.registry', (event) => {
       'wooden_frame',
       'runic_core',
       'blank_integral_components',
-      'blank_integral_components',
       'fluxo_core',
       'magnet_core'
     ];
