@@ -88,7 +88,7 @@ onEvent('recipes', (event) => {
             ],
             pressure: 3.5,
             results: [{ item: 'ae2:cell_component_16k', count: 1 }],
-            id: 'ae2:network/cels/item_storage_components_cell_16k_part'
+            id: 'ae2:network/cells/item_storage_components_cell_16k_part'
         },
         {
             inputs: [
@@ -98,7 +98,7 @@ onEvent('recipes', (event) => {
             ],
             pressure: 3.5,
             results: [{ item: 'ae2:spatial_cell_component_16', count: 1 }],
-            id: 'ae2:network/cels/spatial_components_0'
+            id: 'ae2:network/cells/spatial_components_0'
         },
     ];
 

@@ -129,7 +129,7 @@ onEvent('recipes', (event) => {
                 item: 'ae2:cell_component_4k',
                 count: 1
             },
-            id: 'ae2:network/cels/item_storage_components_cell_4k_part'
+            id: 'ae2:network/cells/item_storage_components_cell_4k_part'
         },
     ];
 
