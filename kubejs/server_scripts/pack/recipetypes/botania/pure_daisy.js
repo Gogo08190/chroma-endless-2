@@ -6,6 +6,11 @@ onEvent('recipes', (event) => {
         output: 'botania:livingrock',
         id: 'botania:pure_daisy/livingrock'
       },
+      {
+        input: 'blue_skies:maple_log',
+        output: 'botania:livingwood_log',
+        id: 'botania:pure_daisy/livingwood'
+      },
 
     ];
 
