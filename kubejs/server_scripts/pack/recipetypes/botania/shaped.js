@@ -12,7 +12,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'botania:apothecary_mossy',
-            pattern: ['MPM', ' S ', 'MMM'],
+            pattern: ['MPM', ' M ', 'MMM'],
             key: {
                 M: 'blue_skies:mossy_lunar_stonebrick',
                 P: '#botania:petals'
@@ -40,10 +40,10 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'botania:alchemy_catalyst',
-            pattern: ['   ', 'SMS', 'SSS'],
+            pattern: ['LGL', 'BRB', 'LGL'],
             key: {
                 L: 'botania:livingrock',
-                G: 'thermal:gold_plate',
+                G: '#forge:plates/gold',
                 B: 'botania:brewery',
                 R: 'botania:rune_autumn'
             },
@@ -70,7 +70,7 @@ onEvent('recipes', (event) => {
                 E: 'botania:rune_earth',
                 Q: 'blue_skies:aquite'
             },
-            id: 'chroma:runic_core'
+            id: `${id_prefix}runic_core`
         },
         {
             output: 'botania:runic_altar',
@@ -85,7 +85,7 @@ onEvent('recipes', (event) => {
             output: 'botania:mana_pylon',
             pattern: [' G ', 'IDI', ' G '],
             key: {
-                G: 'thermal:gold_plate',
+                G: '#forge:plates/gold',
                 I: 'botania:manasteel_ingot',
                 D: 'botania:mana_diamond'
             },
@@ -95,7 +95,7 @@ onEvent('recipes', (event) => {
             output: 'botania:hourglass',
             pattern: ['GAG', 'RMR', 'GAG'],
             key: {
-                G: 'thermal:gold_plate',
+                G: '#forge:plates/gold',
                 A: 'botania:elf_glass',
                 R: 'minecraft:redstone',
                 M: 'botania:manasteel_ingot'
@@ -118,15 +118,7 @@ onEvent('recipes', (event) => {
                 M: 'botania:mana_glass',
                 E: 'evilcraft:blood_orb_empty'
             },
-            id: 'chroma:empty_mana_pearl'
-        },
-        {
-            output: 'chroma:gaia_spirit_block',
-            pattern: ['GGG', 'GGG', 'GGG'],
-            key: {
-                G: 'botania:gaia_ingot',
-            },
-            id: 'chroma:gaia_spirit_block'
+            id: `${id_prefix}empty_mana_pearl`
         },
         {
             output: 'chroma:redstone_spreader_core',
@@ -135,7 +127,7 @@ onEvent('recipes', (event) => {
                 R: 'minecraft:redstone',
                 B: 'create:brass_ingot'
             },
-            id: 'chroma:redstone_spreader_core'
+            id: `${id_prefix}redstone_spreader_core`
         },
         {
             output: 'chroma:mana_spreader_core',
@@ -144,7 +136,7 @@ onEvent('recipes', (event) => {
                 E: 'minecraft:emerald',
                 B: 'create:brass_ingot'
             },
-            id: 'chroma:mana_spreader_core'
+            id: `${id_prefix}mana_spreader_core`
         },
         {
             output: 'chroma:gaia_spreader_core',
@@ -153,7 +145,7 @@ onEvent('recipes', (event) => {
                 P: 'botania:pixie_dust',
                 S: 'mna:superheated_vinteum_ingot'
             },
-            id: 'chroma:gaia_spreader_core'
+            id: `${id_prefix}gaia_spreader_core`
         },
         {
             output: 'chroma:elven_spreader_core',
@@ -162,7 +154,7 @@ onEvent('recipes', (event) => {
                 D: 'botania:dragonstone',
                 E: 'botania:elementium_ingot'
             },
-            id: 'chroma:elven_spreader_core'
+            id: `${id_prefix}elven_spreader_core`
         },
         {
             output: 'botania:mana_spreader',

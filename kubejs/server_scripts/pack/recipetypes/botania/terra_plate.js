@@ -28,7 +28,7 @@ onEvent('recipes', (event) => {
             { item: 'botania:terrasteel_ingot' }
         ],
         output: { item: 'botania:natura_pylon' },
-        mana: 500000,
+        mana: 50000,
         id: 'botania:natura_pylon'
     },
     {
