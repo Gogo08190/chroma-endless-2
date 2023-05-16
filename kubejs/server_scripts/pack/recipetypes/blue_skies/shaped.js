@@ -10,16 +10,16 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}blue_journal`
         },
-        {
-            output: 'blue_skies:alchemy_table',
-            pattern: ['BS ', 'AAA'],
-            key: {
-                B: '#forge:bookshelves',
-                S: 'minecraft:stonecutter',
-                A: '#blue_skies:storage_blocks/falsite'
-            },
-            id: `${id_prefix}alchemy_table`
-        },
+        // {
+        //     output: 'blue_skies:alchemy_table',
+        //     pattern: ['BS ', 'AAA'],
+        //     key: {
+        //         B: '#forge:bookshelves',
+        //         S: 'minecraft:stonecutter',
+        //         A: '#blue_skies:storage_blocks/falsite'
+        //     },
+        //     id: `${id_prefix}alchemy_table`
+        // },
     ];
 
     recipes.forEach((recipe) => {
