@@ -163,6 +163,94 @@ onEvent('recipes', (event) => {
             },
             id: 'solarpanels:improved_energy_tablet'
         },
+        {
+            output: 'mekanism:energy_tablet',
+            pattern: ['RER', 'CEC', 'RER'],
+            key: {
+                R: 'extendedcrafting:redstone_ingot',
+                E: 'powah:steel_energized',
+                C: 'mekanism:alloy_infused'
+            },
+            id: 'mekanism:energy_tablet'
+        },
+        {
+            output: 'mekanismgenerators:solar_panel',
+            pattern: ['GGG', 'RAR', 'CCC'],
+            key: {
+                R: 'extendedcrafting:redstone_ingot',
+                G: 'botania:mana_glass_pane',
+                A: 'mekanism:alloy_infused',
+                C: '#forge:ingots/compressed_iron'
+            },
+            id: 'mekanismgenerators:solar_panel'
+        },
+        {
+            output: 'mekanism:electric_pump',
+            pattern: [' P ', 'ASA', 'OOO'],
+            key: {
+                P: 'pneumaticcraft:vacuum_pump',
+                A: 'mekanism:alloy_infused',
+                S: 'mekanism:steel_casing',
+                O: '#forge:ingots/osmium'
+            },
+            id: 'mekanism:electric_pump'
+        },
+        {
+            output: 'mekanismgenerators:heat_generator',
+            pattern: ['RRR', 'ESE', 'ICI'],
+            key: {
+                S: 'mekanism:steel_casing',
+                R: 'pneumaticcraft:heat_sink',
+                E: 'immersiveengineering:furnace_heater',
+                I: '#forge:ingots/steel',
+                C: 'mekanism:advanced_control_circuit'
+            },
+            id: 'mekanismgenerators:generator/heat'
+        },
+        {
+            output: 'mekanism:fuelwood_heater',
+            pattern: ['ICI', 'RSR', 'III'],
+            key: {
+                S: 'mekanism:steel_casing',
+                R: 'pneumaticcraft:heat_sink',
+                I: '#forge:ingots/steel',
+                C: 'mekanism:advanced_control_circuit'
+            },
+            id: 'mekanism:fuelwood_heater'
+        },
+        {
+            output: 'mekanism:osmium_compressor',
+            pattern: ['ACA', 'BSB', 'ACA'],
+            key: {
+                S: 'mekanism:steel_casing',
+                A: 'pneumaticcraft:capacitor',
+                C: 'mekanism:advanced_control_circuit',
+                B: '#forge:storage_blocks/osmium'
+            },
+            id: 'mekanism:osmium_compressor'
+        },
+        {
+            output: 'mekanism:enrichment_chamber',
+            pattern: ['RCR', 'HSH', 'RCR'],
+            key: {
+                R: 'extendedcrafting:redstone_ingot',
+                H: 'powah:capacitor_hardened',
+                C: 'mekanism:advanced_control_circuit',
+                S: 'mekanism:crusher'
+            },
+            id: 'mekanism:enrichment_chamber'
+        },
+        {
+            output: 'mekanism:precision_sawmill',
+            pattern: ['RCR', 'HSH', 'RCR'],
+            key: {
+                R: '#forge:ingots/steel',
+                H: Item.of('immersiveengineering:sawblade', '{Damage:0}').ignoreNBT(),
+                C: 'mekanism:advanced_control_circuit',
+                S: 'mekanism:steel_casing'
+            },
+            id: 'mekanism:precision_sawmill'
+        },
     ];
 
     recipes.forEach((recipe) => {
