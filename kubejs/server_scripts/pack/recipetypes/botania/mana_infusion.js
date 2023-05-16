@@ -32,7 +32,7 @@ onEvent('recipes', (event) => {
         id: 'botania:mana_infusion/mana_diamond'
       },
       {
-        input: 'spirit:soul_steel_ingot',
+        input: 'immersiveengineering:ingot_steel',
         output: 'botania:manasteel_ingot',
         count: 1,
         mana: 3000,
