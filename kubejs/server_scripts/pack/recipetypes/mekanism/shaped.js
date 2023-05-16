@@ -115,7 +115,7 @@ onEvent('recipes', (event) => {
             pattern: ['RCR', 'HIH', 'RCR'],
             key: {
                 R: 'mekanism:alloy_infused',
-                C: 'mekanism:alloy_infused',
+                C: 'mekanism:advanced_control_circuit',
                 H: '#blue_skies:ingots/ventium',
                 I: '#forge:storage_blocks/iron'
             },
@@ -161,7 +161,7 @@ onEvent('recipes', (event) => {
                 A: 'mekanism:alloy_reinforced',
                 T: 'mekanism:energy_tablet'
             },
-            id: 'solarpanels:improved_energy_tabled'
+            id: 'solarpanels:improved_energy_tablet'
         },
     ];
 
