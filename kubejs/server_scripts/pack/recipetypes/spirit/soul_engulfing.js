@@ -4,7 +4,7 @@ onEvent("recipes", (event) => {
       {
           ingredient: { item: 'minecraft:deepslate' },
           block: 'blue_skies:mossy_lunar_stonebrick',
-          duration: 40,
+          duration: 5,
           destroysStructure: false,
           outputItem: 'blue_skies:lunar_stone',
           id: `${id_prefix}lunar_stone`
