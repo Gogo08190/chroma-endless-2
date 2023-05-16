@@ -10,7 +10,7 @@ onEvent('recipes', (event) => {
               { item: 'mythicbotany:alfsteel_nugget' },
               { item: 'botania:natura_pylon' }
           ],
-          output: { item: 'mythicbotany:alfsteel_pylon' },
+          output: { item: 'mythicbotany:alfsteel_pylon', count: 1 },
           fromColor: 3276592,
           toColor: 16750080,
           mana: 30000,
@@ -26,7 +26,7 @@ onEvent('recipes', (event) => {
             fromColor: recipe.fromColor,
             toColor: recipe.toColor,
             ingredients: recipe.inputs.map((input) => Ingredient.of(input).toJson()),
-            result: Item.of(recipe.output).toJson(),
+            output: recipe.output,
             mana: recipe.mana
         });
         if (recipe.id) {
