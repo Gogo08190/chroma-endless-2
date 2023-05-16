@@ -44,7 +44,13 @@ onEvent('recipes', (event) => {
         infusionAmount: 40,
         id: 'mekanism:control_circuit/advanced'
       },
-
+      {
+        output: 'mekanism:elite_control_circuit',
+        input: 'mekanism:advanced_control_circuit',
+        infusionInput: 'mekanism:diamond',
+        infusionAmount: 40,
+        id: 'mekanism:control_circuit/elite'
+      },
     ];
 
     recipes.forEach((recipe) => {
