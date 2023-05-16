@@ -32,7 +32,7 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}essence_of_darkness`
       },
       {
-        input: { ingredient: { item: 'chroma:essence_of_darkness' } },
+        input: { ingredient: { item: 'chroma:enriched_essence_of_darkness' } },
         output: { amount: 80, infuse_type: 'chroma:essence_of_darkness' },
         id: `${id_prefix}essence_of_darkness_from_enriched`
       },
