@@ -9,6 +9,14 @@ onEvent("recipes", (event) => {
           outputItem: 'blue_skies:lunar_stone',
           id: `${id_prefix}lunar_stone`
       },
+      {
+        ingredient: { item: 'minecraft:cauldron' },
+        block: 'botania:livingrock',
+        duration: 5,
+        destroysStructure: false,
+        outputItem: 'botania:diluted_pool',
+        id: `${id_prefix}botania:diluted_pool`
+    },
     ];
 
     recipes.forEach((recipe) => {
