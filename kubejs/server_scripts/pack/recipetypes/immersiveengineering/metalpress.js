@@ -64,6 +64,20 @@ onEvent('recipes', (event) => {
           energy : 2400,
           id: `${id_prefix}mana_diamond_plate`
       },
+      {
+          input: 'minecraft:netherite_ingot',
+          output: Item.of('chroma:netherite_rod', 2),
+          mold : 'immersiveengineering:mold_rod',
+          energy : 2400,
+          id: `${id_prefix}netherite_rod`
+      },
+      {
+          input: 'botania:manasteel_ingot',
+          output: Item.of('chroma:manasteel_rod', 2),
+          mold : 'immersiveengineering:mold_rod',
+          energy : 2400,
+          id: `${id_prefix}manasteel_rod`
+      },
     ];
 
     recipes.forEach((recipe) => {
