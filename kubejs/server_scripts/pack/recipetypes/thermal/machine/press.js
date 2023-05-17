@@ -32,6 +32,12 @@ onEvent('recipes', (event) => {
         energy: '2400',
         id: `${id_prefix}lapis_gear`
       },
+      {
+        inputs: ['botania:mana_diamond'],
+        output: 'chroma:mana_diamond_plate',
+        energy: '2400',
+        id: `${id_prefix}mana_diamond_plate`
+      },
     ];
 
     recipes.forEach((recipe) => {

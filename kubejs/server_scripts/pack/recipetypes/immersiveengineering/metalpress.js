@@ -57,6 +57,13 @@ onEvent('recipes', (event) => {
           energy : 2400,
           id: `${id_prefix}lapis_gear`
       },
+      {
+          input: 'botania:mana_diamond',
+          output: 'chroma:mana_diamond_plate',
+          mold : 'immersiveengineering:mold_plate',
+          energy : 2400,
+          id: `${id_prefix}mana_diamond_plate`
+      },
     ];
 
     recipes.forEach((recipe) => {
