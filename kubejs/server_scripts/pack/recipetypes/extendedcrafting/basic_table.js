@@ -182,13 +182,13 @@ onEvent("recipes", (event) => {
       ],
       "key": {
         "A": {
-          "item": "chemlib:chromium_ingot"
+          "item": "create:mechanical_press"
         },
         "B": {
           "item": "mekanism:alloy_reinforced"
         },
         "C": {
-          "item": "mekanism:basic_fluid_tank"
+          "item": "extendedcrafting:advanced_catalyst"
         },
         "D": {
           "item": "thermal:redstone_servo"
