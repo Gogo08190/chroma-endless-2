@@ -40,37 +40,37 @@ onEvent('recipes', (event) => {
       },
       {
         inputs: ['#forge:ingots/manasteel', Ingredient.of('immersiveengineering:mold_rod')],
-        output: 'chroma:manasteel_rod',
+        output: Item.of('chroma:manasteel_rod', 2),
         energy: '2400',
         id: `${id_prefix}manasteel_rod`
       },
       {
         inputs: ['#forge:ingots/netherite', Ingredient.of('immersiveengineering:mold_rod')],
-        output: 'chroma:netherite_rod',
+        output: Item.of('chroma:netherite_rod', 2),
         energy: '2400',
         id: `${id_prefix}netherite_rod`
       },
       {
         inputs: ['#forge:ingots/electrum', Ingredient.of('immersiveengineering:mold_rod')],
-        output: 'chroma:electrum_rod',
+        output: Item.of('chroma:electrum_rod', 2),
         energy: '2400',
         id: `${id_prefix}electrum_rod`
       },
       {
         inputs: ['#forge:ingots/aluminum', Ingredient.of('immersiveengineering:mold_rod')],
-        output: 'immersiveengineering:stick_aluminum',
+        output: Item.of('immersiveengineering:stick_aluminum', 2),
         energy: '2400',
         id: `${id_prefix}aluminum_rod`
       },
       {
         inputs: ['#forge:ingots/steel', Ingredient.of('immersiveengineering:mold_rod')],
-        output: 'immersiveengineering:stick_steel',
+        output: Item.of('immersiveengineering:stick_steel', 2),
         energy: '2400',
         id: `${id_prefix}steel_rod`
       },
       {
         inputs: ['#forge:ingots/iron', Ingredient.of('immersiveengineering:mold_rod')],
-        output: 'immersiveengineering:stick_iron',
+        output: Item.of('immersiveengineering:stick_iron', 2),
         energy: '2400',
         id: `${id_prefix}iron_rod`
       },
