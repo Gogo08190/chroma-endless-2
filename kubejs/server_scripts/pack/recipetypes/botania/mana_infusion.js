@@ -39,6 +39,13 @@ onEvent('recipes', (event) => {
         id: 'botania:mana_infusion/manasteel'
       },
       {
+        input: 'immersiveengineering:storage_steel',
+        output: 'botania:manasteel_block',
+        count: 1,
+        mana: 27000,
+        id: 'botania:mana_infusion/manasteel_block'
+      },
+      {
         input: 'evilcraft:golden_string',
         output: 'botania:mana_string',
         count: 1,
