@@ -3,6 +3,7 @@ onEvent('recipes', (event) => {
       'botania:mana_infusion/mana_powder_dye',
       'botanicalmachinery:mana_tablet',
       'botanicalmachinery:runic_altar',
+      'botania:diluted_pool',
     ];
 
     const outputRemovals = [
