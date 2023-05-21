@@ -85,5 +85,6 @@ const disabledItems = [
     'thermal:potato_block',
     'thermal:sugar_cane_block',
     'thermal:apple_block',
+    'thermal:dynamo_magmatic',
 
 ];
