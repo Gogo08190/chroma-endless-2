@@ -279,7 +279,7 @@ onEvent('recipes', (event) => {
             output: 'ae2:cell_component_1k',
             pattern: ['RQR', 'QPQ', 'RQR'],
             key: {
-                R: 'extendedcrafting:redstone_nugget',
+                R: 'extendedcrafting:redstone_ingot',
                 Q: 'ae2:certus_quartz_crystal',
                 P: 'ae2:logic_processor'
             },
