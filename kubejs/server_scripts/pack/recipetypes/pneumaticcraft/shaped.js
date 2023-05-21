@@ -112,6 +112,16 @@ onEvent('recipes', (event) => {
             },
             id: 'pneumaticcraft:liquid_compressor'
         },
+        {
+            output: 'pneumaticcraft:spawner_agitator',
+            pattern: ['DDD', 'TIT', 'DDD'],
+            key: {
+                D: 'powah:dielectric_rod_horizontal',
+                T: '#forge:rods/iron',
+                I: 'minecraft:ghast_tear'
+            },
+            id: 'pneumaticcraft:spawner_agitator'
+        },
     ];
 
     recipes.forEach((recipe) => {
