@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LXL",
+    "XCX",
+    "LXL"
+  ],
+  "key": {
+    "L": {
+      "item": "pneumaticcraft:upgrade_matrix"
+    },
+    "X": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "type": "pneumaticcraft:fluid",
+      "tag": "forge:lubricant",
+      "amount": 1000
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:speed_upgrade"
+  }
+}

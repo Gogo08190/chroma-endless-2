@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LXL",
+    "XCX",
+    "LXL"
+  ],
+  "key": {
+    "L": {
+      "item": "pneumaticcraft:upgrade_matrix"
+    },
+    "X": {
+      "item": "minecraft:redstone_torch"
+    },
+    "C": {
+      "tag": "minecraft:beds"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:standby_upgrade"
+  }
+}

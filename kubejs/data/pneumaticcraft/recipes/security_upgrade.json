@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LXL",
+    "XCX",
+    "LXL"
+  ],
+  "key": {
+    "L": {
+      "item": "pneumaticcraft:upgrade_matrix"
+    },
+    "X": {
+      "tag": "forge:obsidian"
+    },
+    "C": {
+      "item": "pneumaticcraft:safety_tube_module"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:security_upgrade"
+  }
+}
