@@ -149,7 +149,25 @@ onEvent('recipes', (event) => {
                 O: 'forbidden_arcanus:processed_obsidian_block'
             },
             id: 'minecraft:beacon'
-        }
+        },
+        {
+            output: 'minecraft:compass',
+            pattern: [' P ', 'PRP', ' P '],
+            key: {
+                P: '#forge:plates/iron',
+                R: 'minecraft:redstone'
+            },
+            id: 'minecraft:compass'
+        },
+        {
+            output: 'minecraft:clock',
+            pattern: [' P ', 'PRP', ' P '],
+            key: {
+                P: '#forge:plates/gold',
+                R: 'minecraft:redstone'
+            },
+            id: 'minecraft:clock'
+        },
     ];
 
     recipes.forEach((recipe) => {
