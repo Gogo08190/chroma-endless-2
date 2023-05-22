@@ -10,6 +10,14 @@ onEvent('recipes', (event) => {
           speed: 0.8,
           id: `${id_prefix}inert_luminessence`
       },
+      {
+          fluid_input: { type: 'pneumaticcraft:fluid', fluid: 'thermal:redstone', amount: 100 },
+          item_input: { item: 'pneumaticcraft:reinforced_stone', count: 4 },
+          item_output: { item: 'rftoolsbase:machine_base', count: 1 },
+          pressure: 2.0,
+          speed: 0.8,
+          id: 'rftoolsbase:machine_base'
+      },
     ];
 
     recipes.forEach((recipe) => {
