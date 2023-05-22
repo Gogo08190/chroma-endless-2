@@ -155,7 +155,7 @@ onEvent('recipes', (event) => {
             pattern: [' P ', 'PRP', ' P '],
             key: {
                 P: '#forge:plates/iron',
-                R: 'minecraft:redstone'
+                R: '#forge:dusts/redstone'
             },
             id: 'minecraft:compass'
         },
@@ -164,7 +164,7 @@ onEvent('recipes', (event) => {
             pattern: [' P ', 'PRP', ' P '],
             key: {
                 P: '#forge:plates/gold',
-                R: 'minecraft:redstone'
+                R: '#forge:dusts/redstone'
             },
             id: 'minecraft:clock'
         },
