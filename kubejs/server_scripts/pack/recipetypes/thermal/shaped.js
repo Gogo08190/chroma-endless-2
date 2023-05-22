@@ -21,7 +21,7 @@ onEvent('recipes', (event) => {
                 D: 'thermal:sawdust',
                 G: 'thermal:signalum_gear',
                 M: 'thermal:machine_frame',
-                S: Item.of('immersiveengineering:sawblade',).ignoreNBT(),
+                S: Item.of('immersiveengineering:sawblade').ignoreNBT(),
                 R: 'thermal:rf_coil'
             },
             id: 'thermal:machine_sawmill'
@@ -151,6 +151,15 @@ onEvent('recipes', (event) => {
 
             },
             id: 'thermal:machine_bottler'
+        },
+        {
+            output: 'thermal:slot_seal',
+            pattern: ['S S', ' P ', 'S S'],
+            key: {
+                P: '#forge:plates/steel',
+                S: 'immersiveengineering:nugget_steel'
+            },
+            id: 'thermal:slot_seal'
         }
     ];
 

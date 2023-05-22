@@ -78,6 +78,62 @@ onEvent('recipes', (event) => {
           energy : 2400,
           id: `${id_prefix}manasteel_rod`
       },
+      {
+          input: 'chroma:base_augment',
+          output: 'thermal:press_coin_die',
+          mold : 'ae2:matter_ball',
+          energy : 2400,
+          id: 'thermal:press_coin_die'
+      },
+      {
+          input: 'chroma:base_augment',
+          output: 'thermal:press_gear_die',
+          mold : 'immersiveengineering:mold_gear',
+          energy : 2400,
+          id: 'thermal:press_gear_die'
+      },
+      {
+          input: 'chroma:base_augment',
+          output: 'thermal:press_packing_2x2_die',
+          mold : 'immersiveengineering:mold_packing_4',
+          energy : 2400,
+          id: 'thermal:press_packing_2x2_die'
+      },
+      {
+          input: 'chroma:base_augment',
+          output: 'thermal:press_packing_3x3_die',
+          mold : 'immersiveengineering:mold_packing_9',
+          energy : 2400,
+          id: 'thermal:press_packing_3x3_die'
+      },
+      {
+          input: 'chroma:base_augment',
+          output: 'thermal:press_unpacking_die',
+          mold : 'immersiveengineering:mold_unpacking',
+          energy : 2400,
+          id: 'thermal:press_unpacking_die'
+      },
+      {
+          input: 'create:brass_sheet',
+          output: 'thermal:chiller_ball_cast',
+          mold : 'tconstruct:gem_cast',
+          energy : 2400,
+          id: 'thermal:chiller_ball_cast'
+      },
+      {
+          input: 'create:brass_sheet',
+          output: 'thermal:chiller_ingot_cast',
+          mold : 'tconstruct:ingot_cast',
+          energy : 2400,
+          id: 'thermal:chiller_ingot_cast'
+      },
+      {
+          input: 'create:brass_sheet',
+          output: 'thermal:chiller_rod_cast',
+          mold : 'tconstruct:rod_cast',
+          energy : 2400,
+          id: 'thermal:chiller_rod_cast'
+      }
     ];
 
     recipes.forEach((recipe) => {
