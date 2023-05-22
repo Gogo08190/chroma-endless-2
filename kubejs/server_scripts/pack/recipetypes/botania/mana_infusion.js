@@ -32,6 +32,13 @@ onEvent('recipes', (event) => {
         id: 'botania:mana_infusion/mana_diamond'
       },
       {
+        input: 'evilcraft:dark_block',
+        output: 'botania:mana_diamond_block',
+        count: 1,
+        mana: 27000,
+        id: 'botania:mana_infusion/mana_diamond_block'
+      },
+      {
         input: 'immersiveengineering:ingot_steel',
         output: 'botania:manasteel_ingot',
         count: 1,
