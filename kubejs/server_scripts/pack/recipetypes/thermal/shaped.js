@@ -9,7 +9,7 @@ onEvent('recipes', (event) => {
                 T: 'thermal:redstone_servo',
                 F: 'ironfurnaces:crystal_furnace',
                 M: 'thermal:machine_frame',
-                I: 'immersiveengineering:sheetmetal_iron'
+                I: '#forge:sheetmetals/iron'
             },
             id: 'thermal:machine_furnace'
         },
@@ -17,7 +17,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_sawmill',
             pattern: ['ISI', 'DMD', 'GRG'],
             key: {
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 D: 'thermal:sawdust',
                 G: 'thermal:signalum_gear',
                 M: 'thermal:machine_frame',
@@ -34,7 +34,7 @@ onEvent('recipes', (event) => {
                 R: 'thermal:rf_coil',
                 W: 'create:crushing_wheel',
                 M: 'thermal:machine_frame',
-                I: 'immersiveengineering:sheetmetal_iron'
+                I: '#forge:sheetmetals/iron'
             },
             id: 'thermal:machine_pulverizer'
         },
@@ -46,7 +46,7 @@ onEvent('recipes', (event) => {
                 R: 'thermal:rf_coil',
                 X: 'create:mechanical_mixer',
                 M: 'thermal:machine_frame',
-                I: 'immersiveengineering:sheetmetal_iron'
+                I: '#forge:sheetmetals/iron'
             },
             id: 'thermal:machine_smelter'
         },
@@ -58,7 +58,7 @@ onEvent('recipes', (event) => {
                 R: 'thermal:redstone_servo',
                 Y: 'ae2:yellow_lumen_paint_ball',
                 M: 'thermal:machine_frame',
-                I: 'immersiveengineering:sheetmetal_iron'
+                I: '#forge:sheetmetals/iron'
             },
             id: 'thermal:machine_insolator'
         },
@@ -70,7 +70,7 @@ onEvent('recipes', (event) => {
                 T: 'pneumaticcraft:transistor',
                 S: 'thermal:signalum_gear',
                 M: 'thermal:machine_frame',
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 R: 'thermal:rf_coil'
             },
             id: 'thermal:machine_centrifuge'
@@ -83,7 +83,7 @@ onEvent('recipes', (event) => {
                 T: 'pneumaticcraft:transistor',
                 P: 'create:mechanical_press',
                 M: 'thermal:machine_frame',
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 R: 'thermal:rf_coil'
             },
             id: 'thermal:machine_press'
@@ -93,7 +93,7 @@ onEvent('recipes', (event) => {
             pattern: ['CIP', 'CMP', 'CTP'],
             key: {
                 C: 'create:fluid_tank',
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 P: 'pneumaticcraft:small_tank',
                 M: 'thermal:machine_frame',
                 T: 'pneumaticcraft:transistor'
@@ -104,7 +104,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_chiller',
             pattern: ['III', 'GMG', 'CTC'],
             key: {
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 G: 'thermal:chiller_ingot_cast',
                 C: 'pneumaticcraft:capacitor',
                 T: 'pneumaticcraft:transistor',
@@ -117,7 +117,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_refinery',
             pattern: ['III', 'BMR', 'LCL'],
             key: {
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 B: 'immersivepetroleum:crudeoil_bucket',
                 M: 'thermal:machine_frame',
                 R: 'thermal:resin_bucket',
@@ -131,7 +131,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_pyrolyzer',
             pattern: ['IRI', 'CMC', 'CRC'],
             key: {
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 R: 'thermal:redstone_servo',
                 C: '#forge:storage_blocks/coal',
                 M: 'thermal:machine_frame'
@@ -143,7 +143,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_bottler',
             pattern: ['III', 'SMS', 'NTN'],
             key: {
-                I: 'immersiveengineering:sheetmetal_iron',
+                I: '#forge:sheetmetals/iron',
                 S: 'create:spout',
                 M: 'thermal:machine_frame',
                 N: '#forge:gears/netherite',
