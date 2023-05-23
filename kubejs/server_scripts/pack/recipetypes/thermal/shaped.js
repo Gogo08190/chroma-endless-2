@@ -375,6 +375,382 @@ onEvent('recipes', (event) => {
             },
             id: 'thermal:augments/fluid_tank_augment'
         },
+        {
+            output: 'thermal:machine_brewer',
+            pattern: ['III', 'HMH', 'RBG'],
+            key: {
+                I: '#forge:sheetmetals/iron',
+                H: Item.of('minecraft:potion', '{Potion:"minecraft:healing"}'),
+                M: 'thermal:machine_frame',
+                R: 'thermal:rf_coil',
+                B: 'minecraft:brewing_stand',
+                G: 'thermal:lapis_gear'
+            },
+            id: 'thermal:machine_brewer'
+        },
+        {
+            output: 'thermal:machine_crystallizer',
+            pattern: ['III', 'EME', 'CRC'],
+            key: {
+                I: '#forge:sheetmetals/iron',
+                E: '#forge:dusts/emerald',
+                M: 'thermal:machine_frame',
+                C: 'pneumaticcraft:capacitor',
+                R: 'thermal:redstone_servo'
+            },
+            id: 'thermal:machine_crystallizer'
+        },
+        {
+            output: 'thermal:machine_crafter',
+            pattern: ['IAI', 'IMI', 'CRC'],
+            key: {
+                I: '#forge:sheetmetals/iron',
+                A: 'thermal:item_filter_augment',
+                M: 'thermal:machine_frame',
+                C: 'pneumaticcraft:capacitor',
+                R: 'create:mechanical_crafter'
+            },
+            id: 'thermal:machine_crafter'
+        },
+        {
+            output: 'thermal:dynamo_stirling',
+            pattern: [' C ', 'TMT', 'SDS'],
+            key: {
+                C: 'chroma:excitation_coil',
+                T: '#forge:storage_blocks/coal_coke',
+                M: 'chroma:manasteel_flux_coil',
+                S: '#forge:sheetmetals/steel',
+                D: 'immersiveengineering:dynamo'
+
+            },
+            id: 'thermal:dynamo_stirling'
+        },
+        {
+            output: 'thermal:dynamo_compression',
+            pattern: [' C ', 'TMT', 'SDS'],
+            key: {
+                C: 'chroma:excitation_coil',
+                T: 'immersiveengineering:creosote_bucket',
+                M: 'chroma:manasteel_flux_coil',
+                S: '#forge:sheetmetals/steel',
+                D: 'immersiveengineering:dynamo'
+
+            },
+            id: 'thermal:dynamo_compression'
+        },
+        {
+            output: 'thermal:dynamo_numismatic',
+            pattern: [' C ', 'TMT', 'SDS'],
+            key: {
+                C: 'chroma:excitation_coil',
+                T: 'createdeco:netherite_coin',
+                M: 'chroma:manasteel_flux_coil',
+                S: '#forge:sheetmetals/steel',
+                D: 'immersiveengineering:dynamo'
+
+            },
+            id: 'thermal:dynamo_numismatic'
+        },
+        {
+            output: 'thermal:dynamo_lapidary',
+            pattern: [' C ', 'TMT', 'SDS'],
+            key: {
+                C: 'chroma:excitation_coil',
+                T: '#forge:gems/mana_diamond',
+                M: 'chroma:manasteel_flux_coil',
+                S: '#forge:sheetmetals/steel',
+                D: 'immersiveengineering:dynamo'
+
+            },
+            id: 'thermal:dynamo_lapidary'
+        },
+        {
+            output: 'thermal:dynamo_disenchantment',
+            pattern: [' C ', 'EMG', 'SDS'],
+            key: {
+                C: 'chroma:excitation_coil',
+                E: 'minecraft:enchanting_table',
+                G: 'minecraft:grindstone',
+                M: 'chroma:manasteel_flux_coil',
+                S: '#forge:sheetmetals/steel',
+                D: 'immersiveengineering:dynamo'
+
+            },
+            id: 'thermal:dynamo_disenchantment'
+        },
+        {
+            output: 'thermal:dynamo_gourmand',
+            pattern: [' C ', 'PMP', 'SDS'],
+            key: {
+                C: 'chroma:excitation_coil',
+                P: 'farmersdelight:stuffed_pumpkin_block',
+                M: 'chroma:manasteel_flux_coil',
+                S: '#forge:sheetmetals/steel',
+                D: 'immersiveengineering:dynamo'
+
+            },
+            id: 'thermal:dynamo_gourmand'
+        },
+        {
+            output: 'thermal:flux_drill',
+            pattern: ['DB ', ' CP', 'F B'],
+            key: {
+                D: 'thermal:drill_head',
+                B: '#forge:dyes/black',
+                C: 'create:cogwheel',
+                P: '#forge:plates/iron',
+                F: 'thermal:flux_capacitor'
+
+            },
+            id: 'thermal:flux_drill'
+        },
+        {
+            output: 'thermal:flux_saw',
+            pattern: ['DB ', ' CP', 'F B'],
+            key: {
+                D: 'thermal:saw_blade',
+                B: '#forge:dyes/black',
+                C: 'create:cogwheel',
+                P: '#forge:plates/iron',
+                F: 'thermal:flux_capacitor'
+
+            },
+            id: 'thermal:flux_saw'
+        },
+        {
+            output: 'thermal:flux_capacitor',
+            pattern: ['RPC', 'PMP', 'PRP'],
+            key: {
+                R: 'extendedcrafting:redstone_ingot',
+                P: '#forge:plates/lead',
+                C: '#minecraft:coals',
+                M: '#forge:circuits/basic'
+
+            },
+            id: 'thermal:flux_capacitor'
+        },
+        {
+            output: 'thermal:fluid_reservoir',
+            pattern: ['PCP', 'GBG', ' R '],
+            key: {
+                P: '#forge:plates/bronze',
+                C: 'thermal:cured_rubber',
+                G: '#forge:glass',
+                B: 'minecraft:bucket',
+                R: 'thermal:redstone_servo'
+            },
+            id: 'thermal:fluid_reservoir'
+        },
+        {
+            output: 'thermal:potion_infuser',
+            pattern: ['CBC', 'PGP', ' P '],
+            key: {
+                P: '#forge:plates/bronze',
+                C: 'thermal:cured_rubber',
+                G: '#forge:gears/silver',
+                B: 'minecraft:glass_bottle'
+            },
+            id: 'thermal:potion_infuser'
+        },
+        {
+            output: 'thermal:potion_infuser',
+            pattern: ['P P', 'BGM', 'CPC'],
+            key: {
+                P: '#forge:plates/bronze',
+                C: 'thermal:cured_rubber',
+                G: '#forge:gears/silver',
+                B: 'minecraft:glass_bottle',
+                M: 'botania:mana_string'
+            },
+            id: 'thermal:potion_infuser'
+        },
+        {
+            output: 'thermal:potion_quiver',
+            pattern: ['P P', 'BGM', 'CPC'],
+            key: {
+                P: '#forge:plates/bronze',
+                C: 'thermal:cured_rubber',
+                G: '#forge:gears/silver',
+                B: 'minecraft:glass_bottle',
+                M: 'botania:mana_string'
+            },
+            id: 'thermal:potion_quiver'
+        },
+        {
+            output: 'thermal:device_hive_extractor',
+            pattern: ['HSH', 'GWG', 'HRH'],
+            key: {
+                H: 'minecraft:honeycomb_block',
+                S: Item.of('blue_skies:ventium_shears').ignoreNBT(),
+                G: '#forge:gears/iron',
+                R: 'thermal:redstone_servo',
+                W: 'chroma:wooden_frame'
+            },
+            id: 'thermal:device_hive_extractor'
+        },
+        {
+            output: 'thermal:device_fisher',
+            pattern: ['BFB', 'GWG', 'BRB'],
+            key: {
+                G: '#forge:gears/iron',
+                R: 'thermal:redstone_servo',
+                W: 'chroma:wooden_frame',
+                B: 'botania:livingwood_log',
+                F: Item.of('aquaculture:neptunium_fishing_rod').ignoreNBT()
+            },
+            id: 'thermal:device_fisher'
+        },
+        {
+            output: 'thermal:device_composter',
+            pattern: ['OCO', 'GWG', 'ORO'],
+            key: {
+                G: '#forge:gears/iron',
+                R: 'thermal:redstone_servo',
+                W: 'chroma:wooden_frame',
+                O: 'farmersdelight:organic_compost',
+                C: 'minecraft:composter'
+            },
+            id: 'thermal:device_composter'
+        },
+        {
+            output: 'thermal:device_soil_infuser',
+            pattern: ['TTT', 'GWG', 'TRT'],
+            key: {
+                G: '#forge:gears/iron',
+                R: 'thermal:rf_coil',
+                W: 'chroma:wooden_frame',
+                T: 'thermal:phytosoil',
+            },
+            id: 'thermal:device_soil_infuser'
+        },
+        {
+            output: 'thermal:device_water_gen',
+            pattern: ['PBP', 'SDS', 'PRP'],
+            key: {
+                P: '#forge:plates/iron',
+                B: 'minecraft:water_bucket',
+                S: 'ae2:sky_stone_tank',
+                D: 'chroma:device_frame',
+                R: 'thermal:redstone_servo'
+            },
+            id: 'thermal:device_water_gen'
+        },
+        {
+            output: 'thermal:device_collector',
+            pattern: ['PCP', 'LDL', 'PRP'],
+            key: {
+                P: '#forge:plates/tin',
+                D: 'chroma:device_frame',
+                R: 'thermal:redstone_servo',
+                L: '#forge:sheetmetals/lead',
+                C: 'create:chute'
+            },
+            id: 'thermal:device_collector'
+        },
+        {
+            output: 'thermal:machine_catalyst_augment',
+            pattern: [' P ', 'PBP', ' N '],
+            key: {
+                P: '#forge:plates/lead',
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil'
+            },
+            id: 'thermal:machine_catalyst_augment'
+        },
+        {
+            output: 'chroma:excitation_coil',
+            pattern: ['RRR', 'RHR', 'TET'],
+            key: {
+                R: 'extendedcrafting:redstone_ingot',
+                H: 'immersiveengineering:coil_hv',
+                T: 'pneumaticcraft:transistor',
+                E: 'immersiveengineering:component_electronic'
+            },
+            id: `${id_prefix}chroma:excitation_coil`
+        },
+        {
+            output: 'thermal:machine_cycle_augment',
+            pattern: [' G ', 'GBG', ' N '],
+            key: {
+                G: 'thermal:lead_gear',
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil'
+            },
+            id: 'thermal:machine_cycle_augment'
+        },
+        {
+            output: 'thermal:machine_null_augment',
+            pattern: [' C ', 'CBC', ' C '],
+            key: {
+                C: 'minecraft:cactus',
+                B: 'chroma:base_augment'
+            },
+            id: 'thermal:machine_null_augment'
+        },
+        {
+            output: 'thermal:dynamo_output_augment',
+            pattern: [' C ', 'CBC', ' N '],
+            key: {
+                C: 'powah:charged_snowball',
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil'
+            },
+            id: 'thermal:dynamo_output_augment'
+        },
+        {
+            output: 'thermal:dynamo_fuel_augment',
+            pattern: [' C ', 'CBC', ' N '],
+            key: {
+                C: '#forge:storage_blocks/coal_coke',
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil'
+            },
+            id: 'thermal:dynamo_fuel_augment'
+        },
+        {
+            output: 'thermal:dynamo_throttle_augment',
+            pattern: [' R ', 'GBG', ' N '],
+            key: {
+                G: '#forge:gears/iron',
+                R: 'thermal:rf_coil_storage_augment',
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil'
+            },
+            id: 'thermal:dynamo_throttle_augment'
+        },
+        {
+            output: 'thermal:area_radius_augment',
+            pattern: ['G P', ' B ', 'PNG'],
+            key: {
+                G: '#forge:gears/iron',
+                P: '#forge:plates/tin',
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil'
+            },
+            id: 'thermal:area_radius_augment'
+        },
+        {
+            output: 'thermal:potion_amplifier_augment',
+            pattern: [' I ', 'PBP', ' N '],
+            key: {
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil',
+                P: Item.of('minecraft:potion', '{Potion:"minecraft:strength"}'),
+                I: 'thermal:potion_infuser'
+            },
+            id: 'thermal:potion_amplifier_augment'
+        },
+        {
+            output: 'thermal:potion_duration_augment',
+            pattern: [' I ', 'PBP', ' N '],
+            key: {
+                B: 'chroma:base_augment',
+                N: 'chroma:netherite_flux_coil',
+                P: Item.of('minecraft:potion', '{Potion:"minecraft:strong_strength"}'),
+                I: 'thermal:potion_infuser'
+            },
+            id: 'thermal:potion_duration_augment'
+        },
     ];
 
     recipes.forEach((recipe) => {
