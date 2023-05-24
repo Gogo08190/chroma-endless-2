@@ -87,4 +87,5 @@ const disabledItems = [
     'thermal:apple_block',
     'thermal:dynamo_magmatic',
 
+    'advancedperipherals:chunk_controller',
 ];
