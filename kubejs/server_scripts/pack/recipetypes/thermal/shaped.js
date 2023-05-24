@@ -5,7 +5,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_furnace',
             pattern: ['III', 'FMF', 'STS'],
             key: {
-                S: 'thermal:signalum_gear',
+                S: '#forge:gears/signalum',
                 T: 'thermal:redstone_servo',
                 F: 'ironfurnaces:crystal_furnace',
                 M: 'thermal:machine_frame',
@@ -19,7 +19,7 @@ onEvent('recipes', (event) => {
             key: {
                 I: '#forge:sheetmetals/iron',
                 D: 'thermal:sawdust',
-                G: 'thermal:signalum_gear',
+                G: '#forge:gears/signalum',
                 M: 'thermal:machine_frame',
                 S: Item.of('immersiveengineering:sawblade').ignoreNBT(),
                 R: 'thermal:rf_coil'
@@ -30,7 +30,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_pulverizer',
             pattern: ['III', 'WMW', 'SRS'],
             key: {
-                S: 'thermal:signalum_gear',
+                S: '#forge:gears/signalum',
                 R: 'thermal:rf_coil',
                 W: 'create:crushing_wheel',
                 M: 'thermal:machine_frame',
@@ -42,7 +42,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_smelter',
             pattern: ['III', 'XMX', 'SRS'],
             key: {
-                S: 'thermal:signalum_gear',
+                S: '#forge:gears/signalum',
                 R: 'thermal:rf_coil',
                 X: 'create:mechanical_mixer',
                 M: 'thermal:machine_frame',
@@ -54,7 +54,7 @@ onEvent('recipes', (event) => {
             output: 'thermal:machine_insolator',
             pattern: ['III', 'YMY', 'SRS'],
             key: {
-                S: 'thermal:signalum_gear',
+                S: '#forge:gears/signalum',
                 R: 'thermal:redstone_servo',
                 Y: 'ae2:yellow_lumen_paint_ball',
                 M: 'thermal:machine_frame',
@@ -68,7 +68,7 @@ onEvent('recipes', (event) => {
             key: {
                 C: 'pneumaticcraft:capacitor',
                 T: 'pneumaticcraft:transistor',
-                S: 'thermal:signalum_gear',
+                S: '#forge:gears/signalum',
                 M: 'thermal:machine_frame',
                 I: '#forge:sheetmetals/iron',
                 R: 'thermal:rf_coil'
@@ -384,7 +384,7 @@ onEvent('recipes', (event) => {
                 M: 'thermal:machine_frame',
                 R: 'thermal:rf_coil',
                 B: 'minecraft:brewing_stand',
-                G: 'thermal:lapis_gear'
+                G: '#forge:gears/lapis'
             },
             id: 'thermal:machine_brewer'
         },
@@ -553,18 +553,6 @@ onEvent('recipes', (event) => {
             id: 'thermal:potion_infuser'
         },
         {
-            output: 'thermal:potion_infuser',
-            pattern: ['P P', 'BGM', 'CPC'],
-            key: {
-                P: '#forge:plates/bronze',
-                C: 'thermal:cured_rubber',
-                G: '#forge:gears/silver',
-                B: 'minecraft:glass_bottle',
-                M: 'botania:mana_string'
-            },
-            id: 'thermal:potion_infuser'
-        },
-        {
             output: 'thermal:potion_quiver',
             pattern: ['P P', 'BGM', 'CPC'],
             key: {
@@ -587,6 +575,18 @@ onEvent('recipes', (event) => {
                 W: 'chroma:wooden_frame'
             },
             id: 'thermal:device_hive_extractor'
+        },
+        {
+            output: 'thermal:device_tree_extractor',
+            pattern: ['HSH', 'GWG', 'HRH'],
+            key: {
+                H: 'blue_skies:maple_log',
+                S: 'ae2:sky_stone_tank',
+                G: '#forge:gears/iron',
+                R: 'thermal:redstone_servo',
+                W: 'chroma:wooden_frame'
+            },
+            id: 'thermal:device_tree_extractor'
         },
         {
             output: 'thermal:device_fisher',
@@ -624,6 +624,19 @@ onEvent('recipes', (event) => {
             id: 'thermal:device_soil_infuser'
         },
         {
+            output: 'thermal:device_rock_gen',
+            pattern: ['PBP', 'SDL', 'PRP'],
+            key: {
+                P: '#forge:plates/iron',
+                B: '#forge:gears/constantan',
+                S: 'minecraft:water_bucket',
+                L: 'minecraft:lava_bucket',
+                D: 'chroma:device_frame',
+                R: 'thermal:redstone_servo'
+            },
+            id: 'thermal:device_rock_gen'
+        },
+        {
             output: 'thermal:device_water_gen',
             pattern: ['PBP', 'SDS', 'PRP'],
             key: {
@@ -655,7 +668,7 @@ onEvent('recipes', (event) => {
                 B: 'chroma:base_augment',
                 N: 'chroma:netherite_flux_coil'
             },
-            id: 'thermal:machine_catalyst_augment'
+            id: 'thermal:augments/machine_catalyst_augment'
         },
         {
             output: 'chroma:excitation_coil',
@@ -666,17 +679,17 @@ onEvent('recipes', (event) => {
                 T: 'pneumaticcraft:transistor',
                 E: 'immersiveengineering:component_electronic'
             },
-            id: `${id_prefix}chroma:excitation_coil`
+            id: `${id_prefix}excitation_coil`
         },
         {
             output: 'thermal:machine_cycle_augment',
             pattern: [' G ', 'GBG', ' N '],
             key: {
-                G: 'thermal:lead_gear',
+                G: '#forge:gears/lead',
                 B: 'chroma:base_augment',
                 N: 'chroma:netherite_flux_coil'
             },
-            id: 'thermal:machine_cycle_augment'
+            id: 'thermal:augments/machine_cycle_augment'
         },
         {
             output: 'thermal:machine_null_augment',
@@ -685,7 +698,7 @@ onEvent('recipes', (event) => {
                 C: 'minecraft:cactus',
                 B: 'chroma:base_augment'
             },
-            id: 'thermal:machine_null_augment'
+            id: 'thermal:augments/machine_null_augment'
         },
         {
             output: 'thermal:dynamo_output_augment',
@@ -695,7 +708,7 @@ onEvent('recipes', (event) => {
                 B: 'chroma:base_augment',
                 N: 'chroma:netherite_flux_coil'
             },
-            id: 'thermal:dynamo_output_augment'
+            id: 'thermal:augments/dynamo_output_augment'
         },
         {
             output: 'thermal:dynamo_fuel_augment',
@@ -705,7 +718,7 @@ onEvent('recipes', (event) => {
                 B: 'chroma:base_augment',
                 N: 'chroma:netherite_flux_coil'
             },
-            id: 'thermal:dynamo_fuel_augment'
+            id: 'thermal:augments/dynamo_fuel_augment'
         },
         {
             output: 'thermal:dynamo_throttle_augment',
@@ -716,7 +729,7 @@ onEvent('recipes', (event) => {
                 B: 'chroma:base_augment',
                 N: 'chroma:netherite_flux_coil'
             },
-            id: 'thermal:dynamo_throttle_augment'
+            id: 'thermal:augments/dynamo_throttle_augment'
         },
         {
             output: 'thermal:area_radius_augment',
@@ -727,7 +740,7 @@ onEvent('recipes', (event) => {
                 B: 'chroma:base_augment',
                 N: 'chroma:netherite_flux_coil'
             },
-            id: 'thermal:area_radius_augment'
+            id: 'thermal:augments/area_radius_augment'
         },
         {
             output: 'thermal:potion_amplifier_augment',
@@ -738,7 +751,7 @@ onEvent('recipes', (event) => {
                 P: Item.of('minecraft:potion', '{Potion:"minecraft:strength"}'),
                 I: 'thermal:potion_infuser'
             },
-            id: 'thermal:potion_amplifier_augment'
+            id: 'thermal:augments/potion_amplifier_augment'
         },
         {
             output: 'thermal:potion_duration_augment',
@@ -749,7 +762,7 @@ onEvent('recipes', (event) => {
                 P: Item.of('minecraft:potion', '{Potion:"minecraft:strong_strength"}'),
                 I: 'thermal:potion_infuser'
             },
-            id: 'thermal:potion_duration_augment'
+            id: 'thermal:augments/potion_duration_augment'
         },
     ];
 

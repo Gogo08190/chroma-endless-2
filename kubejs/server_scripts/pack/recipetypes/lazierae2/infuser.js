@@ -13,9 +13,9 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'thermal:machine_frame', count: 1 },
         inputs: [
-          { tag: 'forge:gears/tin', count: 2 },
+          { item: 'thermal:tin_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { tag: 'forge:plates/steel', count: 4 },
+          { item: 'immersiveengineering:plate_steel', count: 4 },
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -24,9 +24,9 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'thermal:energy_cell_frame', count: 1 },
         inputs: [
-          { tag: 'forge:gears/electrum', count: 2 },
+          { item: 'thermal:electrum_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { tag: 'forge:plates/lead', count: 4 },
+          { item: 'thermal:lead_plate', count: 4 },
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -35,9 +35,9 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'thermal:fluid_cell_frame', count: 1 },
         inputs: [
-          { tag: 'forge:gears/iron', count: 2 },
+          { item: 'thermal:iron_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { tag: 'forge:plates/copper', count: 4 },
+          { item: 'thermal:copper_plate', count: 4 },
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -46,9 +46,9 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'chroma:device_frame', count: 1 },
         inputs: [
-          { tag: 'forge:gears/lead', count: 2 },
+          { item: 'thermal:lead_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { tag: 'forge:plates/aluminum', count: 4 },
+          { item: 'immersiveengineering:plate_aluminum', count: 4 },
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -57,9 +57,9 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'chroma:wooden_frame', count: 1 },
         inputs: [
-          { tag: 'forge:treated_wood', count: 4 },
+          { item: 'immersiveengineering:treated_wood_horizontal', count: 4 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { tag: 'forge:plates/lead', count: 4 },
+          { item: 'thermal:lead_plate', count: 4 },
         ],
         process_time: 80,
         energy_cost: 1500,
