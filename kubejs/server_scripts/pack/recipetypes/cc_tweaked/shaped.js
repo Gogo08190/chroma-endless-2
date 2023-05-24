@@ -15,7 +15,7 @@ onEvent('recipes', (event) => {
             output: 'computercraft:computer_normal',
             pattern: ['SSS', 'SES', 'SPS'],
             key: {
-                S: 'minecraft:stone',
+                S: '#forge:stone',
                 P: '#forge:glass_panes',
                 E: 'create:electron_tube'
             },

@@ -18,4 +18,7 @@ const disabledItems = [
   'thermal:sugar_cane_block',
   'thermal:apple_block',
   'thermal:dynamo_magmatic',
+
+  'computercraft:computer_advanced_upgrade',
+  'computercraft:turtle_advanced_upgrade',
 ];
