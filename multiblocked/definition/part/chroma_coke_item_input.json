@@ -56,7 +56,7 @@
   "status": {
     "unformed": {
       "renderer": {
-        "baseTexture": "multiblocked:casing/cokebrick",
+        "baseTexture": "multiblocked:casing/radiator",
         "frontTexture": "multiblocked:overlay/item_in",
         "type": "gregtech",
         "postRenderer": false
