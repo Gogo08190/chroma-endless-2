@@ -3,5 +3,9 @@
   "block.chroma.brass_create_output": "Basic Create Stress Output Box",
   "block.chroma.create_item_input": "Create Item Input",
   "block.chroma.create_item_output": "Create Item Output",
-  "block.chroma.basic_sieving_machine": "Basic Sieving Machine Controller"
+  "block.chroma.basic_sieving_machine": "Basic Sieving Machine Controller",
+  "block.chroma.coke_item_input": "Coke Oven Item Input",
+  "block.chroma.coke_item_output": "Coke Oven Item Output",
+  "block.chroma.coke": "Improved Coke Oven Controller",
+  "block.multiblocked.energy_coke_input": "Coke Oven Energy Input"
 }
