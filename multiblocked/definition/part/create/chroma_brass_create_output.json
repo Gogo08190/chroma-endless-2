@@ -20,7 +20,7 @@
   "status": {
     "unformed": {
       "renderer": {
-        "baseTexture": "multiblocked:casing/andesite_casing",
+        "baseTexture": "multiblocked:casing/brass_sheet_metal",
         "frontTexture": "multiblocked:overlay/overlay_stress_out",
         "type": "gregtech",
         "postRenderer": false
