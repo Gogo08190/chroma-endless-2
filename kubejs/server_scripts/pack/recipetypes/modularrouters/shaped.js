@@ -75,13 +75,13 @@ onEvent('recipes', (event) => {
             id: 'modularrouters:blast_upgrade'
         },
         {
-            output: 'modularrouters:blast_upgrade',
+            output: 'modularrouters:camouflage_upgrade',
             pattern: [' F ', 'FBF', ' F '],
             key: {
                 F: 'xnet:facade',
                 B: 'modularrouters:blank_upgrade'
             },
-            id: 'modularrouters:blast_upgrade'
+            id: 'modularrouters:camouflage_upgrade'
         },
         {
             output: Item.of('modularrouters:fluid_upgrade', 3),
