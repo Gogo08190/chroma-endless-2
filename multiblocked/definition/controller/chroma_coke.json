@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "location": "chroma:improved_coke_oven",
+  "location": "chroma:coke",
   "traits": {},
   "properties": {
     "rotationState": "ALL",
@@ -45,46 +45,38 @@
   "recipeMap": "improved_coke_oven",
   "basePattern": {
     "structureDir": [
-      "LEFT",
+      "RIGHT",
       "UP",
-      "BACK"
+      "FRONT"
     ],
     "pattern": [
       [
+        "     ",
+        " ABA ",
+        " ACA ",
+        "  D  ",
+        "     "
+      ],
+      [
         " AAA ",
-        "ABACA",
+        "AAAAA",
+        "AAAAA",
+        " AAA ",
+        "  A  "
+      ],
+      [
+        " AAA ",
+        "CAAAC",
+        "CAAAC",
+        "DAAAD",
+        " AEA "
+      ],
+      [
+        " AAA ",
+        "AFAGA",
         "AA@AA",
         " ADA ",
-        "  A  ",
-        "     ",
-        "     "
-      ],
-      [
-        " AAA ",
-        "EAAAE",
-        "EAAAE",
-        "DAAAD",
-        " AFA ",
-        "     ",
-        "     "
-      ],
-      [
-        " AAA ",
-        "AAAAA",
-        "AAAAA",
-        " AAA ",
-        "  A  ",
-        "     ",
-        "     "
-      ],
-      [
-        "     ",
-        " AGA ",
-        " AEA ",
-        "  D  ",
-        "     ",
-        "     ",
-        "     "
+        "  A  "
       ]
     ],
     "aisleRepetitions": [
@@ -115,13 +107,13 @@
         "type": "blocks"
       },
       "controller": {
-        "location": "chroma:improved_coke_oven",
+        "location": "chroma:coke",
         "type": "component"
       },
       "B": {
         "blocks": [
           {
-            "id": "chroma:coke_item_input"
+            "id": "ae2:sky_stone_tank"
           }
         ],
         "type": "blocks"
@@ -129,7 +121,7 @@
       "C": {
         "blocks": [
           {
-            "id": "chroma:coke_item_output"
+            "id": "immersiveengineering:heavy_engineering"
           }
         ],
         "type": "blocks"
@@ -145,7 +137,7 @@
       "E": {
         "blocks": [
           {
-            "id": "immersiveengineering:heavy_engineering"
+            "id": "multiblocked:energy_coke_input"
           }
         ],
         "type": "blocks"
@@ -153,7 +145,7 @@
       "F": {
         "blocks": [
           {
-            "id": "multiblocked:energy_coke_input"
+            "id": "chroma:coke_item_output"
           }
         ],
         "type": "blocks"
@@ -161,7 +153,7 @@
       "G": {
         "blocks": [
           {
-            "id": "ae2:sky_stone_tank"
+            "id": "chroma:coke_item_input"
           }
         ],
         "type": "blocks"

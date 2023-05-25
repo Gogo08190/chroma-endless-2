@@ -36,14 +36,7 @@
         "type": "gregtech",
         "postRenderer": false
       },
-      "parent": "idle",
-      "sound": {
-        "sound": "create:cogs",
-        "loop": false,
-        "delay": 0,
-        "volume": 0.5,
-        "pitch": 1.0
-      }
+      "parent": "idle"
     },
     "suspend": {
       "parent": "working"
@@ -80,14 +73,14 @@
       ],
       [
         " AAA ",
-        "FGDGF",
+        " BDB ",
         "  D  ",
         "     ",
         "     "
       ],
       [
         " AAA ",
-        " HAH ",
+        " FGH ",
         " BIB ",
         "     ",
         "     "
@@ -102,7 +95,7 @@
       [
         " AAA ",
         " HAH ",
-        " BAB ",
+        " BDB ",
         " BJB ",
         "     "
       ],
@@ -110,7 +103,7 @@
         " AAA ",
         " HAH ",
         " HAH ",
-        "FGDGF",
+        " BDB ",
         "     "
       ],
       [
@@ -207,7 +200,7 @@
       "F": {
         "blocks": [
           {
-            "id": "create:flywheel"
+            "id": "chroma:brass_create_output"
           }
         ],
         "type": "blocks"
@@ -215,7 +208,7 @@
       "G": {
         "blocks": [
           {
-            "id": "chroma:brass_create_output"
+            "id": "create:flywheel"
           }
         ],
         "type": "blocks"
