@@ -29,6 +29,13 @@ onEvent('recipes', (event) => {
             energy: 2000,
             id: `${id_prefix}manasteel_flux_coil`
         },
+        {
+            input: 'modularrouters:blank_module',
+            fluid: Fluid.of('minecraft:water', 1000),
+            output: 'modularrouters:fluid_module',
+            energy: 1000,
+            id: 'modularrouters:fluid_module'
+        },
     ];
 
     recipes.forEach((recipe) => {
