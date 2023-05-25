@@ -5,7 +5,7 @@ onEvent('recipes', (event) => {
             input: 'minecraft:coal',
             outputs: ['thermal:coal_coke', 'thermal:tar', Fluid.of('immersiveengineering:creosote', 250)],
             energy: 12000,
-            id: 'thermal:machine/pyrolyzer/pyrolyzer_coal'
+            id: 'thermal:machines/pyrolyzer/pyrolyzer_coal'
         },
         {
             input: 'minecraft:coal_block',
@@ -21,13 +21,13 @@ onEvent('recipes', (event) => {
             input: '#minecraft:logs',
             outputs: ['minecraft:charcoal', Fluid.of('immersiveengineering:creosote', 125)],
             energy: 6000,
-            id: 'thermal:machine/pyrolyzer/pyrolyzer_logs'
+            id: 'thermal:machines/pyrolyzer/pyrolyzer_logs'
         },
         {
-            input: '#forge:gems/bitumen',
+            input: 'thermal:bitumen',
             outputs: ['thermal:coal_coke', 'thermal:tar', Fluid.of('thermal:heavy_oil', 50)],
             energy: 12000,
-            id: 'thermal:machine/pyrolyzer/pyrolyzer_bitumen'
+            id: 'thermal:machines/pyrolyzer/pyrolyzer_bitumen'
         }
     ];
 
