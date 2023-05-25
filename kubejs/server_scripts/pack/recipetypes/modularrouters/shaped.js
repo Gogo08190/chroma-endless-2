@@ -87,7 +87,7 @@ onEvent('recipes', (event) => {
             output: Item.of('modularrouters:fluid_upgrade', 3),
             pattern: [' F ', 'FBF', ' P '],
             key: {
-                F: 'xnet:facade',
+                F: 'create:fluid_pipe',
                 P: 'create:fluid_tank',
                 B: 'modularrouters:blank_upgrade'
             },
