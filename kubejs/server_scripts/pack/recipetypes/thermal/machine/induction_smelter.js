@@ -12,7 +12,7 @@ onEvent('recipes', (event) => {
           id: 'thermal:augments/upgrade_augment_1'
       },
       {
-          inputs: ['thermal:upgrade_augment_1', Item.of('#forge:plates/electrum', 4), 'chroma:manasteel_flux_coil'],
+          inputs: ['thermal:upgrade_augment_1', Item.of('thermal:electrum_plate', 4), 'chroma:manasteel_flux_coil'],
           outputs: ['thermal:upgrade_augment_2'],
           id: 'thermal:augments/upgrade_augment_2'
       },
