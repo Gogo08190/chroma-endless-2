@@ -75,8 +75,8 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}iron_rod`
       },
       {
-        inputs: ['chroma:base_augment'],
-        output: '#forge:sheetmetals/lead',
+        inputs: ['#forge:sheetmetals/lead'],
+        output: 'chroma:base_augment',
         energy: '2400',
         id: `${id_prefix}base_augment`
       },
