@@ -36,8 +36,7 @@ onEvent('item.registry', (event) => {
       'runic_core',
       'blank_integral_components',
       'fluxo_core',
-      'magnet_core',
-      'unassembled_pity_machine_frame'
+      'magnet_core'
     ];
 
     items.forEach((item) => {
