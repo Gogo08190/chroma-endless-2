@@ -56,6 +56,8 @@ const itemsToHide = [
     /theoneprobe:/,
     /chiselsandbits:block_bit$/,
     /powah:\w+_starter/,
+    'immersivepetroleum:crudeoil_bucket',
+    'thermal:crude_oil_bucket'
 ];
 
 const recipesToHide = [
