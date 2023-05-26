@@ -110,7 +110,7 @@ onEvent('recipes', (event) => {
                 R: '#forge:rods/aluminum',
                 B: 'modularrouters:augment_core'
             },
-            id: 'modularrouters:fast_pickup_augment'
+            id: 'modularrouters:range_down_augment'
         },
         {
             output: Item.of('modularrouters:range_up_augment', 2),
