@@ -4,7 +4,6 @@ onEvent('recipes', (event) => {
             {
                 ores: [
                     { chance: 0.4, output: { item: 'minecraft:gravel' } },
-                    { chance: 0.1, output: { item: 'byg:quartzite_sand' } },
                     { chance: 0.4, output: { item: 'minecraft:ancient_debris' } }
                 ],
                 dimensions: ['minecraft:the_nether'],
