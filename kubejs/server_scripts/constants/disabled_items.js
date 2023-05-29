@@ -7,6 +7,8 @@ const disabledItems = [
 
   'pneumaticcraft:wheat_flour',
 
+  'powah:capacitor_basic_tiny',
+
   'quark:pipe',
   'quark:potato_crate',
   'quark:beetroot_crate',

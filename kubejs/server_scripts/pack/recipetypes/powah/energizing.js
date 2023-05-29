@@ -15,6 +15,19 @@ onEvent('recipes', (event) => {
         },
         {
             ingredients: [
+                { item: 'minecraft:ender_eye' },
+                { item: 'powah:dielectric_casing' },
+                { item: 'powah:capacitor_basic_large' }
+            ],
+            energy: 50000,
+            result: {
+                item: 'powah:ender_core',
+                count: 1
+            },
+            id: 'powah:energizing/ender_core'
+        },
+        {
+            ingredients: [
                 { item: 'immersiveengineering:plate_steel' },
                 { item: 'immersiveengineering:plate_steel' },
                 { item: 'powah:dielectric_rod' },
