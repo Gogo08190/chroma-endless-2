@@ -124,19 +124,7 @@ onEvent('jei.information', (event) => {
         {
             items: ['quark:slime_in_a_bucket'],
             text: [`Scoop up a small slime in an empty bucket.`]
-        },
-        {
-            items: ['create:chromatic_compound', 'create:refined_radiance'],
-            text: [
-                `Chromatic Compound absorbs light when dropped in the world, transforming into Refined Radiance. Charges slowly from ambient light, faster by consuming nearby light emitting blocks, and instantly when dropped onto an active beacon.`
-            ]
-        },
-        {
-            items: ['create:chromatic_compound', 'create:shadow_steel'],
-            text: [
-                `Chromatic Compound absorbs darkness when dropped into the void, returning as Shadow Steel, floating back up out of the void shortly after falling into the depths.`
-            ]
-        },
+        }
     ];
 
     recipes.forEach((recipe) => {
