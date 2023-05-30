@@ -36,7 +36,9 @@ onEvent('item.registry', (event) => {
       'runic_core',
       'blank_integral_components',
       'fluxo_core',
-      'magnet_core'
+      'magnet_core',
+      'supra_component',
+      'supra_catalyst'
     ];
 
     items.forEach((item) => {
