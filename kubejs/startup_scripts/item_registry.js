@@ -39,7 +39,8 @@ onEvent('item.registry', (event) => {
       'magnet_core',
       'supra_component',
       'supra_catalyst',
-      'carbon_fiber'
+      'carbon_fiber',
+      'miner_core'
     ];
 
     items.forEach((item) => {
