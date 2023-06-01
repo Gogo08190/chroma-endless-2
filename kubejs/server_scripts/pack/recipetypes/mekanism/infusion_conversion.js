@@ -36,6 +36,16 @@ onEvent('recipes', (event) => {
         output: { amount: 80, infuse_type: 'chroma:essence_of_darkness' },
         id: `${id_prefix}essence_of_darkness_from_enriched`
       },
+      {
+        input: { ingredient: { item: 'chroma:lunaris_nova' } },
+        output: { amount: 10, infuse_type: 'chroma:lunaris_nova' },
+        id: `${id_prefix}lunaris_nova`
+      },
+      {
+        input: { ingredient: { item: 'chroma:enriched_lunaris_nova' } },
+        output: { amount: 80, infuse_type: 'chroma:lunaris_nova' },
+        id: `${id_prefix}lunaris_nova_from_enriched`
+      },
     ]
 
     recipes.forEach((recipe) => {

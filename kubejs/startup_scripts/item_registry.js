@@ -40,7 +40,8 @@ onEvent('item.registry', (event) => {
       'supra_component',
       'supra_catalyst',
       'carbon_fiber',
-      'miner_core'
+      'miner_core',
+      'lunaris_nova'
     ];
 
     items.forEach((item) => {
