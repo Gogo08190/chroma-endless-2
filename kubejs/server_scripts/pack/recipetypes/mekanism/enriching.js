@@ -16,6 +16,11 @@ onEvent('recipes', (event) => {
         output: 'chroma:enriched_essence_of_darkness',
         id: `${id_prefix}enriched_essence_of_darkness`
       },
+      {
+        input: 'chroma:lunaris_nova',
+        output: 'chroma:enriched_lunaris_nova',
+        id: `${id_prefix}enriched_lunaris_nova`
+      },
 
     ];
     recipes.forEach((recipe) => {
