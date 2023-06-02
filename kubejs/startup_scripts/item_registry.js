@@ -5,7 +5,7 @@ onEvent('item.registry', (event) => {
       'andesite_with_zinc',
       'black_bone_meal',
       'silicon_paste',
-      'raw_zirconium',
+      'raw_aurizincite',
       'raw_feranicalumite',
       'raw_leadurosmate',
       'raw_cuperargentite',
