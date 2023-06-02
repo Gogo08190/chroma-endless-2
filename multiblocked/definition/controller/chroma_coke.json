@@ -137,7 +137,7 @@
       "E": {
         "blocks": [
           {
-            "id": "multiblocked:energy_coke_input"
+            "id": "chroma:energy_coke_input"
           }
         ],
         "type": "blocks"

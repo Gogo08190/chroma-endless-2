@@ -7,5 +7,5 @@
   "block.chroma.coke_item_input": "Coke Oven Item Input",
   "block.chroma.coke_item_output": "Coke Oven Item Output",
   "block.chroma.coke": "Improved Coke Oven Controller",
-  "block.multiblocked.energy_coke_input": "Coke Oven Energy Input"
+  "block.chroma.energy_coke_input": "Coke Oven Energy Input"
 }

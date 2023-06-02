@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "location": "multiblocked:energy_coke_input",
+  "location": "chroma:energy_coke_input",
   "traits": {
     "forge_energy": {
       "cIO": 0,
