@@ -21,5 +21,7 @@ const disabledItems = [
   'thermal:apple_block',
   'thermal:dynamo_magmatic',
 
+  'tconstruct:honey_bucket',
+
   'advancedperipherals:chunk_controller',
 ];

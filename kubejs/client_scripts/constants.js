@@ -58,7 +58,8 @@ const itemsToHide = [
     /powah:\w+_starter/,
     'immersivepetroleum:crudeoil_bucket',
     'thermal:crude_oil_bucket',
-    'powah:capacitor_basic_tiny'
+    'powah:capacitor_basic_tiny',
+    'tconstruct:honey_bucket'
 ];
 
 const recipesToHide = [
