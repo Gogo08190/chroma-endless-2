@@ -1,0 +1,292 @@
+{
+	"pools": [
+		{
+			"rolls": {
+        		"min": 1,
+        		"max": 5
+      		},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:torn_journal_page"
+				}
+			],
+			"functions": [
+				{
+					"function": "mna:random_journal_page"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:strange_record"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.05
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:mithions_magnificent_mbag"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:fluid_jug_infinite_lava"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:runic_malus"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:astro_blade"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.05
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:wand_clone"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.05
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 0,
+				"max": 3
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "mna:staff_a",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_spell_staff"
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.75
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 0,
+				"max": 4
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_construct_part"
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.25
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 0,
+				"max": 6
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_manaweave_recipe"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_runescribe_recipe"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone",
+					"weight": 2,
+					"functions": [
+						{
+							"function": "mna:random_thaumaturgic_link"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 1,
+				"max": 4
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 3,
+					"name": "mna:chimerite_gem",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 3
+							}
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.5
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"name": "mna:vinteum_dust",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.5
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"name": "mna:rune_clay_plate",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 3
+							}
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.5
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"name": "mna:rune_pattern",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 3
+							}
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.5
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 4,
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mna:minor_mana_potion\"}"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 3,
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mna:light_mana_potion\"}"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mna:mana_potion\"}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
