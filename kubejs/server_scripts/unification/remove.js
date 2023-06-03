@@ -7,6 +7,8 @@ onEvent('recipes', (event) => {
     var idRemovals = [
       'jaopca:storage_blocks.to_storage_block.mana_diamond',
       'jaopca:storage_blocks.to_storage_block.dragonstone',
+      'beyond_earth:iron_plate',
+      'beyond_earth:desh_plate',
     ];
 
     outputRemovals.forEach((removal) => {
