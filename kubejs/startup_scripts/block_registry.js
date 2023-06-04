@@ -7,8 +7,8 @@ onEvent('block.registry', (event) => {
     ];
 
     const parts = [
-      {name: 'nebula_extractor_t1_laser_support', displayName: 'Nebula Extractor Laser Support'},
-      {name: 'nebula_extractor_t1_laser_top', displayName: 'Nebula Extractor Laser'}
+      {name: 'nebula_extractor_t1_laser_support', displayName: 'Nebula Extractor Laser Support Tier 1'},
+      {name: 'nebula_extractor_t1_laser_top', displayName: 'Nebula Extractor Laser Tier 1'}
     ];
 
     blocks.forEach((block) => {
