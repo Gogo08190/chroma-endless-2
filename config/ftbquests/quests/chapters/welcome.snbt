@@ -1,0 +1,279 @@
+{
+	id: "0E5AAACAEB8F0BAE"
+	group: ""
+	order_index: 0
+	filename: "welcome"
+	title: "Welcome!"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: -1.0d
+			shape: "gear"
+			size: 2.0d
+			id: "51B5C098A8CFF70E"
+			tasks: [{
+				id: "22CCC233665C2319"
+				type: "checkmark"
+				title: "Welcome to Chroma Endless 2!"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "ftblibrary:textures/icons/map.png"
+				}
+			}
+			x: -1.5d
+			y: 0.5d
+			description: [
+				"FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory."
+				""
+				"&6Right-click&r anywhere in map to create a waypoint."
+				""
+				"&6Right-click&r on waypoints and death points to edit or delete them."
+				""
+				"Click on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
+			id: "32B741DFB9A6F739"
+			tasks: [{
+				id: "72085EA74DEEF9B9"
+				type: "checkmark"
+				title: "Chunks Claiming / Loading"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "ftbteams:textures/teams.png"
+				}
+			}
+			x: 1.5d
+			y: 0.5d
+			description: [
+				"To share your quests with your friends, you need to create a team."
+				""
+				"To do this, execute this command :"
+				"&a/ftbteams party create"
+				""
+				"To invite your friends, execute this command :"
+				"&b/ftbteams party invite &dName"
+				""
+				"Your friends just have to accept, and you are now in a team."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
+			id: "7FA7DCAC1F35D3DF"
+			tasks: [{
+				id: "2844E340CC86B532"
+				type: "checkmark"
+				title: "Teams"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "ftbultimine:textures/item/ultiminer.png"
+				}
+			}
+			x: 2.0d
+			y: -1.0d
+			description: [
+				"&6&lUltimine&r is a very useful mod for mining."
+				""
+				"Indeed, with the ² key (by default) you will see a &nwhite outline&r that we will call the &c&lUltimine Zone&r which represents what you will mine. "
+				""
+				"This &c&lUltimine Zone&r can be changed. In fact you can see that, if you keep pressing the ² key, you can change the shape of this zone and find the one that suits you best."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
+			id: "4B995094164615B0"
+			tasks: [{
+				id: "04F2B43CE1362F73"
+				type: "checkmark"
+				title: "Ultimine"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "bhmenu:textures/gui/serverlistbanner/icon.png"
+				}
+			}
+			x: 0.0d
+			y: -3.0d
+			subtitle: "Promo code : &l&aCHROMATECH&r   "
+			description: [
+				"BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use."
+				""
+				"Use the code \"&l&bCHROMATECH&r\" to get 25% off your first month as a new customer for one of their game servers."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
+			id: "3AB854AD67477F95"
+			tasks: [{
+				id: "4EF02E63B04C57B5"
+				type: "checkmark"
+				title: "Get a server!"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "supplementaries:textures/gui/book/icon/discord.png"
+				}
+			}
+			x: -1.5d
+			y: -2.5d
+			subtitle: "Gogo08's Discord server."
+			description: [
+				"On Gogo08's Discord server, you will find support channels for Chroma Endless."
+				""
+				"It's a french community server, but you can also speak english, the community and staff will most certainly try to help you."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
+			id: "12F7479DB81863FE"
+			tasks: [{
+				id: "6E6F293D65902733"
+				type: "checkmark"
+				title: "Discord"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "ftbquests:textures/item/book.png"
+				}
+			}
+			x: 0.0d
+			y: 1.0d
+			description: [
+				"In fact a &8quest&r by default does not require a &7&ldependancy&r so you can do it right now or later, up to you to decide."
+				""
+				"As you can see, the majority of quests does need a &7&ldependancy&r. In order to unlock them, you can click on the &0&l&nGrey Arrow&r to list the needed &7&ldependancy&r or &7&ldependancies&r."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
+			id: "41329DA5F8C8A3E3"
+			tasks: [{
+				id: "2410EFF1EE5DA5A9"
+				type: "checkmark"
+				title: "Quests"
+			}]
+		}
+		{
+			icon: "solcarrot:food_book"
+			x: -2.0d
+			y: -1.0d
+			description: ["&aSpice of Life: Carrot Edition&r keeps track of how many unique foods a player has eaten. As they pass certain milestone amounts of unique foods, they permanently gain new hearts, increasing their max health! In order to max out their HP bars, players will have to quest for and craft exotic foods."]
+			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
+			id: "3179B9A387543ED7"
+			tasks: [{
+				id: "0FB15D02838D398E"
+				type: "checkmark"
+				title: "Feeding"
+			}]
+			rewards: [{
+				id: "740D53B9149B9BE7"
+				type: "item"
+				item: "solcarrot:food_book"
+			}]
+		}
+		{
+			icon: {
+				id: "numismaticoverhaul:gold_coin"
+				Count: 1
+				tag: { }
+			}
+			x: 0.0d
+			y: 2.5d
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "47477B53A919BFEE"
+			tasks: [{
+				id: "3210A8F7D430A1C7"
+				type: "checkmark"
+				title: "Shop"
+			}]
+			rewards: [
+				{
+					id: "17AAE5E91E8E572A"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:bronze_coin"
+						Count: 1
+						tag: { }
+					}
+				}
+				{
+					id: "68FB3CE808F61CF7"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:silver_coin"
+						Count: 1
+						tag: { }
+					}
+				}
+				{
+					id: "2A787B40E711116E"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "apotheosis:textures/items/prismatic_web.png"
+				}
+			}
+			x: 1.5d
+			y: -2.5d
+			subtitle: "Chroma Team's website."
+			description: [
+				"On this website you will find more informations about Chroma Endless, the Chroma Team and our other modpacks."
+				""
+				"Here is a list of what can be found:"
+				"→ Who developped this modpack and their descriptions."
+				"→ The other packs developped by the Chroma Team."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "01E66ADE4784AF98"
+			tasks: [{
+				id: "586FF051DBF56368"
+				type: "checkmark"
+				title: "Website"
+			}]
+			rewards: [{
+				id: "554D37C1CF828807"
+				type: "command"
+				title: "Chroma Team's website"
+				command: "/tellraw @p [\"\",{\"text\":\"Chroma Team's website: \",\"color\":\"aqua\"},{\"text\":\"https://chromatech.fr/\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://chromatech.fr/\"}}]"
+				player_command: false
+			}]
+		}
+	]
+	quest_links: [ ]
+}
