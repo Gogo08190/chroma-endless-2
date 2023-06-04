@@ -91,5 +91,8 @@ const disabledItems = [
     'thermal:apple_block',
     'thermal:dynamo_magmatic',
 
+    'rftoolsutility:tank',
+    'rftoolspower:coalgenerator',
+
     'advancedperipherals:chunk_controller',
 ];

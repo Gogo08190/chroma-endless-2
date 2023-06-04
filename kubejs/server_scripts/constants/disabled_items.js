@@ -23,5 +23,8 @@ const disabledItems = [
 
   'tconstruct:honey_bucket',
 
+  'rftoolsutility:tank',
+  'rftoolspower:coalgenerator',
+
   'advancedperipherals:chunk_controller',
 ];
