@@ -17,6 +17,6 @@ onEvent('block.registry', (event) => {
     });
 
     parts.forEach((part) => {
-        event.create('chroma:' + part.name).displayName(part.displayName).renderType("cutout").notSolid().lightLevel(1.0).material(block.material).hardness(block.hardness);
+        event.create('chroma:' + part.name).displayName(part.displayName).renderType("cutout").notSolid().lightLevel(1.0).material(part.material).hardness(part.hardness);
     });
 });
