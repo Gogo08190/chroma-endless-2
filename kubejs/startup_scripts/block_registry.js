@@ -7,9 +7,9 @@ onEvent('block.registry', (event) => {
     ];
 
     const parts = [
-      {name: 'nebula_extractor_t1_laser_support', displayName: 'Nebula Extractor Laser Support Tier 1', material: 'metal', hardness: '0.4'},
-      {name: 'nebula_extractor_t1_laser_top', displayName: 'Nebula Extractor Laser Tier 1', material: 'metal', hardness: '0.4'},
-      {name: 'nebula_extractor_t1_frame', displayName: 'Nebula Extractor Frame Tier 1', material: 'metal', hardness: '0.4'}
+      {name: 'nebula_extractor_t1_laser_support', displayName: 'Nebula Extractor Laser Support Tier 1'},
+      {name: 'nebula_extractor_t1_laser_top', displayName: 'Nebula Extractor Laser Tier 1'},
+      {name: 'nebula_extractor_t1_frame', displayName: 'Nebula Extractor Frame Tier 1'}
     ];
 
     blocks.forEach((block) => {
@@ -17,6 +17,6 @@ onEvent('block.registry', (event) => {
     });
 
     parts.forEach((part) => {
-        event.create('chroma:' + part.name).displayName(part.displayName).renderType("cutout").notSolid().lightLevel(1.0).material(part.material).hardness(part.hardness);
+        event.create('chroma:' + part.name).displayName(part.displayName).renderType("cutout").lightLevel(1.0);
     });
 });
