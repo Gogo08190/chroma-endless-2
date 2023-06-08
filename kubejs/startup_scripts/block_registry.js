@@ -12,7 +12,8 @@ onEvent('block.registry', (event) => {
       {name: 'nebula_extractor_t1_frame', displayName: '§6Nebula Extractor Frame Tier 1'},
       {name: 'void_miner_frame_tier1', displayName: '§aStructure Frame Tier 1'},
       {name: 'void_miner_frame_tier2', displayName: '§5Structure Frame Tier 2'},
-      {name: 'void_miner_frame_tier3', displayName: '§dStructure Frame Tier 3'}
+      {name: 'void_miner_frame_tier3', displayName: '§dStructure Frame Tier 3'},
+      {name: 'void_miner_frame_tier3', displayName: '§dStructure Frame Tier 4'}
     ];
 
     const cores = [
