@@ -1,15 +1,22 @@
 onEvent('block.registry', (event) => {
     const blocks = [
       {name: 'andesite_alloy_block', displayName: 'Block of Andesite Alloy', material: 'stone', hardness: '0.4'},
-      {name: 'gaia_spirit_block', displayName: 'Block of Gaia Spirit Ingot', material: 'stone', hardness: '0.4'},
+      {name: 'gaia_spirit_block', displayName: '§bBlock of Gaia Spirit Ingot', material: 'stone', hardness: '0.4'},
       {name: 'dielectric_paste_block', displayName: 'Block of Dielectric Paste', material: 'stone', hardness: '0.4'},
-      {name: 'unassembled_pity_machine_frame', displayName: 'Unassembled Pity Machine Frame', material: 'stone', hardness: '0.4'},
+      {name: 'unassembled_pity_machine_frame', displayName: '§aUnassembled Pity Machine Frame', material: 'stone', hardness: '0.4'},
     ];
 
     const parts = [
-      {name: 'nebula_extractor_t1_laser_support', displayName: 'Nebula Extractor Laser Support Tier 1'},
-      {name: 'nebula_extractor_t1_laser_top', displayName: 'Nebula Extractor Laser Tier 1'},
-      {name: 'nebula_extractor_t1_frame', displayName: 'Nebula Extractor Frame Tier 1'}
+      {name: 'nebula_extractor_t1_laser_support', displayName: '§6Nebula Extractor Laser Support Tier 1'},
+      {name: 'nebula_extractor_t1_laser_top', displayName: '§6Nebula Extractor Laser Tier 1'},
+      {name: 'nebula_extractor_t1_frame', displayName: '§6Nebula Extractor Frame Tier 1'},
+      {name: 'void_miner_frame_tier1', displayName: '§aStructure Frame Tier 1'},
+      {name: 'void_miner_frame_tier2', displayName: '§5Structure Frame Tier 2'},
+      {name: 'void_miner_frame_tier3', displayName: '§dStructure Frame Tier 3'}
+    ];
+
+    const cores = [
+      {name: 'void_miner_laser_core_t1', displayName: '§aLaser Core Tier 1'}
     ];
 
     blocks.forEach((block) => {
@@ -18,5 +25,9 @@ onEvent('block.registry', (event) => {
 
     parts.forEach((part) => {
         event.create('chroma:' + part.name).displayName(part.displayName).renderType("cutout").lightLevel(1.0);
+    });
+
+    cores.forEach((core) => {
+        event.create('chroma:' + core.name).displayName(core.displayName).renderType("cutout").lightLevel(1.0).notSolid();
     });
 });
