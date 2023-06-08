@@ -11,13 +11,17 @@ onEvent('block.registry', (event) => {
       {name: 'nebula_extractor_t1_laser_top', displayName: '§6Nebula Extractor Laser Tier 1'},
       {name: 'nebula_extractor_t1_frame', displayName: '§6Nebula Extractor Frame Tier 1'},
       {name: 'void_miner_frame_tier1', displayName: '§aStructure Frame Tier 1'},
-      {name: 'void_miner_frame_tier2', displayName: '§5Structure Frame Tier 2'},
-      {name: 'void_miner_frame_tier3', displayName: '§dStructure Frame Tier 3'},
-      {name: 'void_miner_frame_tier3', displayName: '§dStructure Frame Tier 4'}
+      {name: 'void_miner_frame_tier2', displayName: '§6Structure Frame Tier 2'},
+      {name: 'void_miner_frame_tier3', displayName: '§5Structure Frame Tier 3'},
+      {name: 'void_miner_frame_tier4', displayName: '§dStructure Frame Tier 4'},
+      {name: 'structure_frame', displayName: '§7Structure Panel'}
     ];
 
     const cores = [
-      {name: 'void_miner_laser_core_t1', displayName: '§aLaser Core Tier 1'}
+      {name: 'void_miner_laser_core_t1', displayName: '§aLaser Core Tier 1'},
+      {name: 'void_miner_laser_core_t2', displayName: '§6Laser Core Tier 2'},
+      {name: 'void_miner_laser_core_t3', displayName: '§5Laser Core Tier 3'},
+      {name: 'void_miner_laser_core_t4', displayName: '§dLaser Core Tier 4'}
     ];
 
     blocks.forEach((block) => {
