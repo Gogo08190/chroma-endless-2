@@ -4,7 +4,7 @@
 ["Mob Spawn Weights"]
 	#Snail spawn weight
 	#Range: 0 ~ 1000
-	snailSpawnWeight = 5
+	snailSpawnWeight = 0
 	#Snake spawn weight
 	#Range: 0 ~ 1000
 	snakeSpawnWeight = 4
@@ -70,4 +70,3 @@
 	boarSpawnWeight = 15
 	#Remove farm animals from savanna biomes (sheep, pig, chicken, cow)
 	removeSavannaFarmAnimals = true
-
