@@ -7,5 +7,13 @@
   "block.chroma.coke_item_input": "Coke Oven Item Input",
   "block.chroma.coke_item_output": "Coke Oven Item Output",
   "block.chroma.coke": "Improved Coke Oven Controller",
-  "block.chroma.energy_coke_input": "Coke Oven Energy Input"
+  "block.chroma.energy_coke_input": "Coke Oven Energy Input",
+  "block.chroma.energy_input_tier_1": "Void Miner Energy Input Tier 1",
+  "block.chroma.energy_input_tier_2": "Void Miner Energy Input Tier 2",
+  "block.chroma.energy_input_tier_3": "Void Miner Energy Input Tier 3",
+  "block.chroma.energy_input_tier_4": "Void Miner Energy Input Tier 4",
+  "block.chroma.item_output_tier_1": "Void Miner Item Output Tier 1",
+  "block.chroma.item_output_tier_2": "Void Miner Item Output Tier 2",
+  "block.chroma.item_output_tier_3": "Void Miner Item Output Tier 3",
+  "block.chroma.item_output_tier_4": "Void Miner Item Output Tier 4"
 }
