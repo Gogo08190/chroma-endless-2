@@ -97,7 +97,7 @@
     "unformed": {
       "renderer": {
         "baseTexture": "multiblocked:casing/void_miner_frame_tier4",
-        "frontTexture": "multiblocked:overlay/void_energy_in",
+        "frontTexture": "multiblocked:overlay/void_item_out",
         "formedAsController": true,
         "type": "gregtech",
         "postRenderer": false
