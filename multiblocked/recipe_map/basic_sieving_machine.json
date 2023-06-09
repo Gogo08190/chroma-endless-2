@@ -4,8 +4,8 @@
   "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
   "recipes": [
     {
-      "uid": "basic_zirconium_sieving",
-      "duration": 20,
+      "uid": "basic_leadurosmate_sieving",
+      "duration": 1,
       "inputs": {
         "item": [
           {
@@ -13,7 +13,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "chroma:raw_aurizincite"
+                "item": "chroma:raw_leadurosmate"
               }
             },
             "chance": 1.0
@@ -42,20 +42,30 @@
               "type": "multiblocked:sized",
               "count": 2,
               "ingredient": {
-                "item": "create:crushed_gold_ore"
+                "item": "create:crushed_lead_ore"
               }
             },
-            "chance": 0.4
+            "chance": 0.6
           },
           {
             "content": {
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "create:crushed_zinc_ore"
+                "item": "create:crushed_uranium_ore"
               }
             },
-            "chance": 0.2
+            "chance": 0.25
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_osmium_ore"
+              }
+            },
+            "chance": 0.15
           },
           {
             "content": {
@@ -77,7 +87,7 @@
       }
     },
     {
-      "uid": "644a2387-9f2a-439d-810e-d2a084b4e0f2",
+      "uid": "basic_feranicalumite_sieving",
       "duration": 1,
       "inputs": {
         "item": [
@@ -160,8 +170,8 @@
       }
     },
     {
-      "uid": "0b3c9eb3-3335-4476-97d6-fce742de31c6",
-      "duration": 1,
+      "uid": "basic_aurizincite_sieving",
+      "duration": 20,
       "inputs": {
         "item": [
           {
@@ -169,7 +179,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "chroma:raw_leadurosmate"
+                "item": "chroma:raw_aurizincite"
               }
             },
             "chance": 1.0
@@ -198,30 +208,20 @@
               "type": "multiblocked:sized",
               "count": 2,
               "ingredient": {
-                "item": "create:crushed_lead_ore"
+                "item": "create:crushed_gold_ore"
               }
             },
-            "chance": 0.6
+            "chance": 0.4
           },
           {
             "content": {
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "create:crushed_uranium_ore"
+                "item": "create:crushed_zinc_ore"
               }
             },
-            "chance": 0.25
-          },
-          {
-            "content": {
-              "type": "multiblocked:sized",
-              "count": 1,
-              "ingredient": {
-                "item": "create:crushed_osmium_ore"
-              }
-            },
-            "chance": 0.15
+            "chance": 0.2
           },
           {
             "content": {
