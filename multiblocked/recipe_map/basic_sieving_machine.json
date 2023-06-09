@@ -13,7 +13,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "minecraft:raw_gold"
+                "item": "chroma:raw_aurizincite"
               }
             },
             "chance": 1.0
@@ -77,8 +77,8 @@
       }
     },
     {
-      "uid": "basic_feranicalumite_sieving",
-      "duration": 20,
+      "uid": "644a2387-9f2a-439d-810e-d2a084b4e0f2",
+      "duration": 1,
       "inputs": {
         "item": [
           {
@@ -86,9 +86,15 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "minecraft:raw_iron"
+                "item": "chroma:raw_feranicalumite"
               }
             },
+            "chance": 1.0
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 64.0,
             "chance": 1.0
           }
         ],
@@ -107,12 +113,32 @@
           {
             "content": {
               "type": "multiblocked:sized",
-              "count": 1,
+              "count": 2,
               "ingredient": {
                 "item": "create:crushed_iron_ore"
               }
             },
-            "chance": 0.4
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_aluminum_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_nickel_ore"
+              }
+            },
+            "chance": 0.15
           },
           {
             "content": {
@@ -123,6 +149,95 @@
               }
             },
             "chance": 0.5
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 32.0,
+            "chance": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "uid": "0b3c9eb3-3335-4476-97d6-fce742de31c6",
+      "duration": 1,
+      "inputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "chroma:raw_leadurosmate"
+              }
+            },
+            "chance": 1.0
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 64.0,
+            "chance": 1.0
+          }
+        ],
+        "fluid": [
+          {
+            "content": {
+              "fluid": "minecraft:water",
+              "amount": 500
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 2,
+              "ingredient": {
+                "item": "create:crushed_lead_ore"
+              }
+            },
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_uranium_ore"
+              }
+            },
+            "chance": 0.25
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_osmium_ore"
+              }
+            },
+            "chance": 0.15
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "thermal:slag"
+              }
+            },
+            "chance": 0.5
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 32.0,
+            "chance": 1.0
           }
         ]
       }
