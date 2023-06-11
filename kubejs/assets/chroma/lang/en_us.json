@@ -16,5 +16,8 @@
   "block.chroma.void_item_output_tier_2": "Void Miner Item Output Tier 2",
   "block.chroma.void_item_output_tier_3": "Void Miner Item Output Tier 3",
   "block.chroma.void_item_output_tier_4": "Void Miner Item Output Tier 4",
-  "block.chroma.void_miner_tier_1": "Void Miner Controller Tier 1"
+  "block.chroma.void_miner_tier_1": "Void Miner Controller Tier 1",
+  "block.chroma.void_miner_tier_2": "Void Miner Controller Tier 2",
+  "block.chroma.void_miner_tier_3": "Void Miner Controller Tier 3",
+  "block.chroma.void_miner_tier_4": "Void Miner Controller Tier 4"
 }
