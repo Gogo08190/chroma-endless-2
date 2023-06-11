@@ -1,0 +1,103 @@
+{
+  "name": "void_miner_tier_1",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "overworld_tier_1",
+      "duration": 200,
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:coal_ore"
+              }
+            },
+            "chance": 0.5
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:iron_ore"
+              }
+            },
+            "chance": 0.3
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:copper_ore"
+              }
+            },
+            "chance": 0.3
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:gold_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:redstone_ore"
+              }
+            },
+            "chance": 0.1
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:emerald_ore"
+              }
+            },
+            "chance": 0.05
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:lapis_ore"
+              }
+            },
+            "chance": 0.15
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:diamond_ore"
+              }
+            },
+            "chance": 0.06
+          }
+        ]
+      },
+      "tickInputs": {
+        "forge_energy": [
+          {
+            "content": 1000,
+            "chance": 1.0
+          }
+        ]
+      }
+    }
+  ]
+}

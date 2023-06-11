@@ -12,8 +12,9 @@
   "block.chroma.energy_input_tier_2": "Void Miner Energy Input Tier 2",
   "block.chroma.energy_input_tier_3": "Void Miner Energy Input Tier 3",
   "block.chroma.energy_input_tier_4": "Void Miner Energy Input Tier 4",
-  "block.chroma.item_output_tier_1": "Void Miner Item Output Tier 1",
-  "block.chroma.item_output_tier_2": "Void Miner Item Output Tier 2",
-  "block.chroma.item_output_tier_3": "Void Miner Item Output Tier 3",
-  "block.chroma.item_output_tier_4": "Void Miner Item Output Tier 4"
+  "block.chroma.void_item_output_tier_1": "Void Miner Item Output Tier 1",
+  "block.chroma.void_item_output_tier_2": "Void Miner Item Output Tier 2",
+  "block.chroma.void_item_output_tier_3": "Void Miner Item Output Tier 3",
+  "block.chroma.void_item_output_tier_4": "Void Miner Item Output Tier 4",
+  "block.chroma.void_miner_tier_1": "Void Miner Controller Tier 1"
 }

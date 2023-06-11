@@ -1,0 +1,204 @@
+{
+  "version": 3,
+  "location": "chroma:void_miner_tier_1",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasDynamicShape": false,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "friction": 0.6,
+    "harvestLevel": 0,
+    "stackSize": 64,
+    "tabGroup": "multiblocked.all"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "modelLocation": "multiblocked:void_controller_tier_1",
+        "type": "imodel",
+        "postRenderer": false
+      }
+    },
+    "idle": {
+      "renderer": {
+        "modelLocation": "multiblocked:void_controller_tier_1_idle",
+        "type": "imodel",
+        "postRenderer": false
+      },
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "modelLocation": "multiblocked:void_controller_tier_1_working",
+        "type": "imodel",
+        "postRenderer": false
+      },
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "void_miner_tier_1",
+  "basePattern": {
+    "structureDir": [
+      "LEFT",
+      "UP",
+      "BACK"
+    ],
+    "pattern": [
+      [
+        "  ABA  ",
+        "   A   ",
+        "       ",
+        "       ",
+        "       "
+      ],
+      [
+        " ACCCA ",
+        "       ",
+        "   A   ",
+        "       ",
+        "       "
+      ],
+      [
+        "ACCCCCA",
+        "       ",
+        "       ",
+        "   A   ",
+        "       "
+      ],
+      [
+        "BCCCCCB",
+        "A  D  A",
+        " A D A ",
+        "  ADA  ",
+        "   @   "
+      ],
+      [
+        "ACCCCCA",
+        "       ",
+        "       ",
+        "   A   ",
+        "       "
+      ],
+      [
+        " ACCCA ",
+        "       ",
+        "   A   ",
+        "       ",
+        "       "
+      ],
+      [
+        "  ABA  ",
+        "   A   ",
+        "       ",
+        "       ",
+        "       "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "blocks": [
+          {
+            "id": "chroma:void_miner_frame_tier1"
+          }
+        ],
+        "type": "blocks"
+      },
+      "controller": {
+        "location": "chroma:void_miner_tier_1",
+        "type": "component"
+      },
+      "B": {
+        "blocks": [
+          {
+            "id": "chroma:void_miner_frame_tier1"
+          },
+          {
+            "id": "chroma:void_item_output_tier_1"
+          },
+          {
+            "id": "chroma:energy_input_tier_1"
+          }
+        ],
+        "type": "blocks"
+      },
+      "C": {
+        "blocks": [
+          {
+            "id": "chroma:structure_frame"
+          }
+        ],
+        "type": "blocks"
+      },
+      "D": {
+        "blocks": [
+          {
+            "id": "chroma:void_miner_laser_core_t1"
+          }
+        ],
+        "type": "blocks"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ]
+    }
+  }
+}
