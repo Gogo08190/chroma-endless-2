@@ -91,6 +91,42 @@ onEvent('recipes', (event) => {
           energy: 555,
           id: `${id_prefix}regalium_nugget`
       },
+      {
+          output: Fluid.of('tconstruct:molten_copper', 1296),
+          input: '#forge:storage_blocks/copper',
+          energy: 40000,
+          id: `${id_prefix}copper_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_copper', 144),
+          input: '#forge:ingots/copper',
+          energy: 5000,
+          id: `${id_prefix}copper_ingot`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_copper', 16),
+          input: '#forge:nuggets/copper',
+          energy: 555,
+          id: `${id_prefix}copper_nugget`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_netherite', 1296),
+          input: '#forge:storage_blocks/netherite',
+          energy: 40000,
+          id: `${id_prefix}netherite_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_netherite', 144),
+          input: '#forge:ingots/netherite',
+          energy: 5000,
+          id: `${id_prefix}netherite_ingot`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_netherite', 16),
+          input: '#forge:nuggets/netherite',
+          energy: 555,
+          id: `${id_prefix}netherite_nugget`
+      },
     ];
 
     recipes.forEach((recipe) => {
