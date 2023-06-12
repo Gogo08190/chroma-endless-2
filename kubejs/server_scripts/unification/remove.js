@@ -9,6 +9,10 @@ onEvent('recipes', (event) => {
       'jaopca:storage_blocks.to_storage_block.dragonstone',
       'beyond_earth:iron_plate',
       'beyond_earth:desh_plate',
+      'beyond_earth:iron_stick',
+      'immersiveengineering:crafting/stick_iron',
+      'immersiveengineering:crafting/stick_steel',
+      'immersiveengineering:crafting/stick_aluminum',
     ];
 
     outputRemovals.forEach((removal) => {
