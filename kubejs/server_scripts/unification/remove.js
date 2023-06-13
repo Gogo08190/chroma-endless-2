@@ -13,6 +13,9 @@ onEvent('recipes', (event) => {
       'immersiveengineering:crafting/stick_iron',
       'immersiveengineering:crafting/stick_steel',
       'immersiveengineering:crafting/stick_aluminum',
+      'immersivepetroleum:hydrotreater/propylene_plastic',
+      'immersivepetroleum:hydrotreater/ethylene_plastic',
+      'immersivepetroleum:hydrotreater/lubricant_cracking',
     ];
 
     outputRemovals.forEach((removal) => {
