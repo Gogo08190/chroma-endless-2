@@ -16,6 +16,11 @@ onEvent('recipes', (event) => {
       'immersivepetroleum:hydrotreater/propylene_plastic',
       'immersivepetroleum:hydrotreater/ethylene_plastic',
       'immersivepetroleum:hydrotreater/lubricant_cracking',
+      'immersivepetroleum:hydrotreater/sulfur_recovery',
+      'immersivepetroleum:distillationtower/oil',
+      'immersivepetroleum:distillationtower/kerosene',
+      'immersivepetroleum:distillationtower/lubricant_cracking',
+      'immersivepetroleum:distillationtower/naphtha_cracking',
     ];
 
     outputRemovals.forEach((removal) => {
