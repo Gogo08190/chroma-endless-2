@@ -8,6 +8,7 @@ onEvent('block.registry', (event) => {
       {name: 'raw_aurizincite_block', displayName: 'Raw Aurizincite Block', material: 'stone', hardness: '0.4'},
       {name: 'raw_cuperargentite_block', displayName: 'Raw Cuperargentite Block', material: 'stone', hardness: '0.4'},
       {name: 'raw_feranicalumite_block', displayName: 'Raw Feranicalumite Block', material: 'stone', hardness: '0.4'},
+      {name: 'raw_leadurosmate_block', displayName: 'Raw Leadurosmate Block', material: 'stone', hardness: '0.4'},
     ];
 
     const parts = [
