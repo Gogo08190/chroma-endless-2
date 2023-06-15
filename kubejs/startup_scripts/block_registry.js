@@ -6,6 +6,7 @@ onEvent('block.registry', (event) => {
       {name: 'unassembled_pity_machine_frame', displayName: '§aUnassembled Pity Machine Frame', material: 'stone', hardness: '0.4'},
       {name: 'raw_cobalrite_block', displayName: 'Raw Cobalrite Block', material: 'stone', hardness: '0.4'},
       {name: 'raw_aurizincite_block', displayName: 'Raw Aurizincite Block', material: 'stone', hardness: '0.4'},
+      {name: 'raw_cuperargentite_block', displayName: 'Raw Cuperargentite Block', material: 'stone', hardness: '0.4'},
     ];
 
     const parts = [
