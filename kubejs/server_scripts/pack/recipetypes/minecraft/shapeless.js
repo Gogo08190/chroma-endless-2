@@ -13,11 +13,17 @@ onEvent('recipes', (event) => {
           inputs: ['9x chroma:raw_aurizincite'],
           id: `${id_prefix}raw_aurizincite_block_from_raw_aurizincite`
       },
-      //Raw cuperargentite Block
+      //Raw Cuperargentite Block
       {
           output: 'chroma:raw_cuperargentite_block',
           inputs: ['9x chroma:raw_cuperargentite'],
           id: `${id_prefix}raw_cuperargentite_block_from_raw_cuperargentite`
+      },
+      //Raw Feranicalumite Block
+      {
+          output: 'chroma:raw_feranicalumite_block',
+          inputs: ['9x chroma:raw_feranicalumite'],
+          id: `${id_prefix}raw_feranicalumite_block_from_raw_feranicalumite`
       },
     ];
 
