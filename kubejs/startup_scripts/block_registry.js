@@ -4,11 +4,11 @@ onEvent('block.registry', (event) => {
       {name: 'gaia_spirit_block', displayName: '§bBlock of Gaia Spirit Ingot', material: 'stone', hardness: '0.4'},
       {name: 'dielectric_paste_block', displayName: 'Block of Dielectric Paste', material: 'stone', hardness: '0.4'},
       {name: 'unassembled_pity_machine_frame', displayName: '§aUnassembled Pity Machine Frame', material: 'stone', hardness: '0.4'},
-      {name: 'raw_cobalrite_block', displayName: 'Raw Cobalrite Block', material: 'stone', hardness: '0.4'},
-      {name: 'raw_aurizincite_block', displayName: 'Raw Aurizincite Block', material: 'stone', hardness: '0.4'},
-      {name: 'raw_cuperargentite_block', displayName: 'Raw Cuperargentite Block', material: 'stone', hardness: '0.4'},
-      {name: 'raw_feranicalumite_block', displayName: 'Raw Feranicalumite Block', material: 'stone', hardness: '0.4'},
-      {name: 'raw_leadurosmate_block', displayName: 'Raw Leadurosmate Block', material: 'stone', hardness: '0.4'},
+      {name: 'raw_cobalrite_block', displayName: 'Block of Raw Cobalrite', material: 'stone', hardness: '0.4'},
+      {name: 'raw_aurizincite_block', displayName: 'Block of Raw Aurizincite', material: 'stone', hardness: '0.4'},
+      {name: 'raw_cuperargentite_block', displayName: 'Block of Raw Cuperargentite', material: 'stone', hardness: '0.4'},
+      {name: 'raw_feranicalumite_block', displayName: 'Block of Raw Feranicalumite', material: 'stone', hardness: '0.4'},
+      {name: 'raw_leadurosmate_block', displayName: 'Block of Raw Leadurosmate', material: 'stone', hardness: '0.4'},
     ];
 
     const parts = [
