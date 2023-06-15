@@ -4,6 +4,7 @@ onEvent('block.registry', (event) => {
       {name: 'gaia_spirit_block', displayName: '§bBlock of Gaia Spirit Ingot', material: 'stone', hardness: '0.4'},
       {name: 'dielectric_paste_block', displayName: 'Block of Dielectric Paste', material: 'stone', hardness: '0.4'},
       {name: 'unassembled_pity_machine_frame', displayName: '§aUnassembled Pity Machine Frame', material: 'stone', hardness: '0.4'},
+      {name: 'raw_cobalrite_block', displayName: 'Raw Cobalrite Block', material: 'stone', hardness: '0.4'},
     ];
 
     const parts = [
