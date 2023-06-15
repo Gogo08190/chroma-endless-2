@@ -25,6 +25,12 @@ onEvent('recipes', (event) => {
           inputs: ['9x chroma:raw_feranicalumite'],
           id: `${id_prefix}raw_feranicalumite_block_from_raw_feranicalumite`
       },
+      //Raw Leadurosmate Block
+      {
+          output: 'chroma:raw_leadurosmate_block',
+          inputs: ['9x chroma:raw_leadurosmate'],
+          id: `${id_prefix}raw_leadurosmate_block_from_raw_leadurosmate`
+      },
     ];
 
     recipes.forEach((recipe) => {
