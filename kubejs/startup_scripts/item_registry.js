@@ -42,7 +42,8 @@ onEvent('item.registry', (event) => {
       'carbon_fiber',
       'miner_core',
       'lunaris_nova',
-      'enriched_lunaris_nova'
+      'enriched_lunaris_nova',
+      'gun_table_heart'
     ];
 
     items.forEach((item) => {
