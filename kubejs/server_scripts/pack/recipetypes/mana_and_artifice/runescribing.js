@@ -15,6 +15,13 @@ onEvent('recipes', (event) => {
           output: 'minecraft:dirt',
           id: `${id_prefix}runescribing_water_rune`
       },
+      {
+          tier: 1,
+          mutex_h: 88029650487356,
+          mutex_v: 13579107518382140,
+          output: 'minecraft:dirt',
+          id: `${id_prefix}runescribing_air_rune`
+      },
     ];
 
     recipes.forEach((recipe) => {
