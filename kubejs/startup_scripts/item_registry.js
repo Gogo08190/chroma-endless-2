@@ -43,7 +43,11 @@ onEvent('item.registry', (event) => {
       'miner_core',
       'lunaris_nova',
       'enriched_lunaris_nova',
-      'gun_table_heart'
+      'gun_table_heart',
+      'rune_pattern_air_rune',
+      'rune_pattern_water_rune',
+      'rune_pattern_fire_rune',
+      'rune_pattern_earth_rune'
     ];
 
     items.forEach((item) => {
