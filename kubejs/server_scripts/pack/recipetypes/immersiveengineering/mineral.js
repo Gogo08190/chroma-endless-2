@@ -329,7 +329,50 @@ onEvent('recipes', (event) => {
                 fail_chance: 0.1,
                 sample_background: 'blue_skies:lunar_stone',
                 id: 'horimitron'
-            }
+            },
+            {
+                ores: [
+                    { chance: 0.23, output: { item: 'beyond_earth:mars_ostrum_ore' } },
+                    { chance: 0.6, output: { item: 'beyond_earth:mars_ice_shard_ore' } }
+                ],
+                dimensions: ['beyond_earth:mars'],
+                weight: 5,
+                fail_chance: 0.1,
+                sample_background: 'beyond_earth:mars_sand',
+                id: 'ostrystellarite'
+            },
+            {
+                ores: [
+                    { chance: 0.23, output: { item: 'beyond_earth:moon_desh_ore' } },
+                    { chance: 0.6, output: { item: 'beyond_earth:moon_ice_shard_ore' } },
+                    { chance: 0.7, output: { item: 'beyond_earth:moon_cheese_ore' } }
+                ],
+                dimensions: ['beyond_earth:moon'],
+                weight: 5,
+                fail_chance: 0.1,
+                sample_background: 'beyond_earth:moon_sand',
+                id: 'lunarisium'
+            },
+            {
+                ores: [
+                    { chance: 0.23, output: { item: 'beyond_earth:venus_calorite_ore' } }
+                ],
+                dimensions: ['beyond_earth:venus'],
+                weight: 5,
+                fail_chance: 0.1,
+                sample_background: 'beyond_earth:venus_sand',
+                id: 'venusium'
+            },
+            {
+                ores: [
+                    { chance: 0.6, output: { item: 'beyond_earth:glacio_ice_shard_ore' } }
+                ],
+                dimensions: ['beyond_earth:glacio'],
+                weight: 5,
+                fail_chance: 0.1,
+                sample_background: 'minecraft:snow_block',
+                id: 'glaciorite'
+            },
         ]
     };
 

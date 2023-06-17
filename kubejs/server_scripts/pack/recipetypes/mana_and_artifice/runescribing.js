@@ -23,12 +23,12 @@ onEvent('recipes', (event) => {
           id: `${id_prefix}runescribing_air_rune`
       },
       {
-        tier: 1,
-        mutex_h: 27039208339170816,
-        mutex_v: 3395584972037632,
-        output: 'chroma:rune_pattern_earth_rune',
-        id: `${id_prefix}runescribing_earth_rune`
-    },
+          tier: 1,
+          mutex_h: 27039208339170816,
+          mutex_v: 3395584972037632,
+          output: 'chroma:rune_pattern_earth_rune',
+          id: `${id_prefix}runescribing_earth_rune`
+      },
     ];
 
     recipes.forEach((recipe) => {

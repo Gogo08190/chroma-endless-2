@@ -21,6 +21,46 @@ onEvent('recipes', (event) => {
         values: undergarden_biomes
     };
 
+    const blueskiesBiomes = {
+        type: 'blue_skies:worldgen/biome',
+        values: blueskies_biomes
+    };
+
+    const mythicBiomes = {
+        type: 'mythicbotany:worldgen/biome',
+        values: mythic_biomes
+    };
+
+    const glacioBiomes = {
+        type: 'beyond_earth:worldgen/biome',
+        values: glacio_biomes
+    };
+
+    const venusBiomes = {
+        type: 'beyond_earth:worldgen/biome',
+        values: venus_biomes
+    };
+
+    const marsBiomes = {
+        type: 'beyond_earth:worldgen/biome',
+        values: mars_biomes
+    };
+
+    const mercuryBiomes = {
+        type: 'beyond_earth:worldgen/biome',
+        values: mercury_biomes
+    };
+
+    const moonBiomes = {
+        type: 'beyond_earth:worldgen/biome',
+        values: moon_biomes
+    };
+
+    const orbitBiomes = {
+        type: 'beyond_earth:worldgen/biome',
+        values: orbit_biomes
+    };
+
     const recipes = [
         {
             output: { tag: 'forge:ores/bitumen' },
@@ -650,7 +690,301 @@ onEvent('recipes', (event) => {
             ],
             catalyst: { item: industrialforegoing.laser_lens.yellow },
             id: `${id_prefix}regalium_ore`
-        }
+        },
+        {
+            output: { item: 'mythicbotany:elementium_ore' },
+            rarity: [
+                {
+                    whitelist: mythicBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 10,
+                    weight: 2
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.magenta },
+            id: `${id_prefix}elementium_ore`
+        },
+        {
+            output: { item: 'mythicbotany:dragonstone_ore' },
+            rarity: [
+                {
+                    whitelist: mythicBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 10,
+                    weight: 2
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.magenta },
+            id: `${id_prefix}dragonstone_ore`
+        },
+        {
+            output: { item: 'beyond_earth:moon_ice_shard_ore' },
+            rarity: [
+                {
+                    whitelist: moonBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 56,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.light_blue },
+            id: `${id_prefix}moon_ice_shard_ore`
+        },
+        {
+            output: { item: 'beyond_earth:moon_cheese_ore' },
+            rarity: [
+                {
+                    whitelist: moonBiomes,
+                    blacklist: {},
+                    depth_min: 20,
+                    depth_max: 200,
+                    weight: 8
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.yellow },
+            id: `${id_prefix}moon_cheese_ore`
+        },
+        {
+            output: { item: 'beyond_earth:moon_desh_ore' },
+            rarity: [
+                {
+                    whitelist: moonBiomes,
+                    blacklist: {},
+                    depth_min: 20,
+                    depth_max: 60,
+                    weight: 4
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.orange },
+            id: `${id_prefix}moon_desh_ore`
+        },
+        {
+            output: { item: 'beyond_earth:mars_ice_shard_ore' },
+            rarity: [
+                {
+                    whitelist: marsBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 56,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.light_blue },
+            id: `${id_prefix}mars_ice_shard_ore`
+        },
+        {
+            output: { item: 'beyond_earth:mars_ostrum_ore' },
+            rarity: [
+                {
+                    whitelist: marsBiomes,
+                    blacklist: {},
+                    depth_min: 20,
+                    depth_max: 60,
+                    weight: 4
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.black },
+            id: `${id_prefix}mars_ostrum_ore`
+        },
+        {
+            output: { item: 'beyond_earth:venus_calorite_ore' },
+            rarity: [
+                {
+                    whitelist: venusBiomes,
+                    blacklist: {},
+                    depth_min: 20,
+                    depth_max: 60,
+                    weight: 4
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.pink },
+            id: `${id_prefix}venus_calorite_ore`
+        },
+        {
+            output: { item: 'blue_skies:everbright_diopside_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.lime },
+            id: `${id_prefix}everbright_diopside_ore`
+        },
+        {
+            output: { item: 'blue_skies:everdawn_diopside_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.lime },
+            id: `${id_prefix}everdawn_diopside_ore`
+        },
+        {
+            output: { item: 'blue_skies:everbright_pyrope_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.red },
+            id: `${id_prefix}everbright_pyrope_ore`
+        },
+        {
+            output: { item: 'blue_skies:everdawn_pyrope_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.red },
+            id: `${id_prefix}everdawn_pyrope_ore`
+        },
+        {
+            output: { item: 'blue_skies:everbright_aquite_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.light_blue },
+            id: `${id_prefix}everbright_aquite_ore`
+        },
+        {
+            output: { item: 'blue_skies:everdawn_aquite_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.light_blue },
+            id: `${id_prefix}everdawn_aquite_ore`
+        },
+        {
+            output: { item: 'blue_skies:everbright_charoite_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.purple },
+            id: `${id_prefix}everbright_charoite_ore`
+        },
+        {
+            output: { item: 'blue_skies:everdawn_charoite_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.purple },
+            id: `${id_prefix}everdawn_charoite_ore`
+        },
+        {
+            output: { item: 'blue_skies:everbright_moonstone_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.light_blue },
+            id: `${id_prefix}everbright_moonstone_ore`
+        },
+        {
+            output: { item: 'blue_skies:everdawn_moonstone_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.light_blue },
+            id: `${id_prefix}everdawn_moonstone_ore`
+        },
+        {
+            output: { item: 'blue_skies:falsite_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 4
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.purple },
+            id: `${id_prefix}falsite_ore`
+        },
+        {
+            output: { item: 'blue_skies:ventium_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 4
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.red },
+            id: `${id_prefix}ventium_ore`
+        },
+        {
+            output: { item: 'blue_skies:horizonite_ore' },
+            rarity: [
+                {
+                    whitelist: blueskiesBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 156,
+                    weight: 4
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.orange },
+            id: `${id_prefix}horizonite_ore`
+        },
     ];
     recipes.forEach((recipe) => {
         event
