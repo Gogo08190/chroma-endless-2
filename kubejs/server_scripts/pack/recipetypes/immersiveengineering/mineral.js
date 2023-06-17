@@ -51,7 +51,7 @@ onEvent('recipes', (event) => {
                 ores: [
                     { chance: 0.7, output: { tag: 'forge:ores/coal' } },
                     { chance: 0.1, output: { tag: 'forge:dusts/sulfur' } },
-                    { chance: 0.2, output: { tag: 'forge:ores/bitumen' } }
+                    { chance: 0.2, output: { item: 'thermal:oil_sand' } }
                 ],
                 dimensions: ['minecraft:overworld', 'undergarden:undergarden'],
                 weight: 25,

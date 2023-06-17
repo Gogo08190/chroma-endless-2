@@ -720,6 +720,20 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}dragonstone_ore`
         },
         {
+            output: { item: 'beyond_earth:glacio_ice_shard_ore' },
+            rarity: [
+                {
+                    whitelist: glacioBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 56,
+                    weight: 6
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.light_blue },
+            id: `${id_prefix}glacio_ice_shard_ore`
+        },
+        {
             output: { item: 'beyond_earth:moon_ice_shard_ore' },
             rarity: [
                 {
@@ -732,20 +746,6 @@ onEvent('recipes', (event) => {
             ],
             catalyst: { item: industrialforegoing.laser_lens.light_blue },
             id: `${id_prefix}moon_ice_shard_ore`
-        },
-        {
-            output: { item: 'beyond_earth:moon_cheese_ore' },
-            rarity: [
-                {
-                    whitelist: moonBiomes,
-                    blacklist: {},
-                    depth_min: 20,
-                    depth_max: 200,
-                    weight: 8
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.yellow },
-            id: `${id_prefix}moon_cheese_ore`
         },
         {
             output: { item: 'beyond_earth:moon_desh_ore' },
