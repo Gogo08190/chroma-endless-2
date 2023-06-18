@@ -65,6 +65,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: `${id_prefix}wooden_frame`
       },
+      {
+        output: { item: 'mekanism:steel_casing', count: 1 },
+        inputs: [
+          { item: 'immersiveengineering:plate_steel', count: 4 },
+          { item: 'powah:dielectric_casing', count: 1 },
+          { item: 'mekanism:elite_control_circuit', count: 4 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: `${id_prefix}steel_casing`
+      },
     ];
 
     recipes.forEach((recipe) => {
