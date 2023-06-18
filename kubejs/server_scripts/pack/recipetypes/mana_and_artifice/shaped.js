@@ -7,7 +7,7 @@ onEvent('recipes', (event) => {
             key: {
                 V: 'mna:vellum',
                 I: '#mna:ingots/vinteum',
-                C: 'tetra:planar_stabilizer'
+                C: 'create:precision_mechanism'
             },
             id: `${id_prefix}guide_book`
         },
@@ -29,7 +29,7 @@ onEvent('recipes', (event) => {
             key: {
                 C: '#mna:gems/chimerite',
                 V: '#mna:ingots/vinteum',
-                S: 'tetra:forged_beam',
+                S: Item.of('tconstruct:large_plate', '{Material:"tconstruct:hepatizon"}'),
                 D: 'minecraft:polished_deepslate_slab'
             },
             id: 'mna:manaweaving_altar'

@@ -6,8 +6,8 @@ onEvent('recipes', (event) => {
             'create:sturdy_sheet',
             'tconstruct:hepatizon_ingot',
             'tconstruct:hepatizon_ingot',
-            'tetra:forged_beam',
-            'tetra:forged_beam'
+            'immersiveengineering:stick_iron',
+            'immersiveengineering:stick_iron'
           ],
           patterns: [
             'mna:triangle',

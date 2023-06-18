@@ -10,7 +10,7 @@
       "item": "tconstruct:pattern"
     },
     "c": {
-      "item": "tetra:planar_stabilizer"
+      "item": "create:precision_mechanism"
     },
     "w": {
       "tag": "tconstruct:planklike"
