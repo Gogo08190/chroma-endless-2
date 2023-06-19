@@ -69,7 +69,7 @@ onEvent('item.tooltip', (event) => {
         },
         {
             items: ['chroma:diglycidyl_ether_of_bisphenol_a'],
-            text: [Text.of('C21H24O4').darkAqua()]
+            text: [Text.of('C(21)H(24)O(4)').darkAqua()]
         },
     ];
 
