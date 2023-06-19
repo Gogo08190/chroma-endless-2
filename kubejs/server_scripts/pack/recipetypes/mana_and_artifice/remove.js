@@ -2,7 +2,7 @@
 
 onEvent('recipes', (event) => {
     const idRemovals = [
-
+      'mna:runeforge_alt'
     ];
 
     const outputRemovals = [

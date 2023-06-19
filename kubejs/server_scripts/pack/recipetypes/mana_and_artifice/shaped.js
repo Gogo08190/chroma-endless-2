@@ -34,6 +34,29 @@ onEvent('recipes', (event) => {
             },
             id: 'mna:manaweaving_altar'
         },
+        {
+            output: 'mna:runeforge',
+            pattern: ['S S', 'RAR', 'DBD'],
+            key: {
+                S: 'mna:transmuted_silver',
+                R: '#mna:stone_runes',
+                A: 'mna:decoration/arcane_sandstone',
+                D: 'mna:decoration/arcane_stone',
+                B: 'tconstruct:scorched_bricks'
+            },
+            id: 'mna:runeforge'
+        },
+        {
+            output: 'mna:runic_anvil',
+            pattern: ['PPP', 'RAR', 'DBD'],
+            key: {
+                D: 'mna:transmuted_silver',
+                R: '#mna:gems/chimerite',
+                A: 'minecraft:anvil',
+                B: 'create:brass_casing'
+            },
+            id: 'mna:runic_anvil'
+        },
     ];
 
     recipes.forEach((recipe) => {

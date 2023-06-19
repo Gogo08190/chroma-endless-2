@@ -80,7 +80,7 @@ onEvent('recipes', (event) => {
             output: Item.of('create:encased_chain_drive', 2),
             pattern: ['PCP', 'SCS', 'PCP'],
             key: {
-                P: '#forge:plates/iron',
+                P: 'minecraft:chain',
                 C: 'create:andesite_casing',
                 S: 'create:shaft'
             },
