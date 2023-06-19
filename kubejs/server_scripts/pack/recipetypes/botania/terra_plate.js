@@ -43,6 +43,18 @@ onEvent('recipes', (event) => {
         mana: 25000,
         id: 'botania:gaia_spreader'
     },
+    {
+        inputs: [
+            { item: 'botania:life_essence'},
+            { item: 'botania:life_essence'},
+            { item: 'botania:life_essence'},
+            { item: 'botania:life_essence'},
+            { item: 'botania:terrasteel_ingot' }
+        ],
+        output: { item: 'botania:gaia_ingot' },
+        mana: 25000,
+        id: 'botania:gaia_ingot'
+    },
 
     ];
 

@@ -144,21 +144,6 @@ onEvent('recipes', (event) => {
             },
             id: 'ae2:network/cells/item_storage_components_cell_4k_part'
         },
-        {
-            ingredients: [
-                { item: 'botania:life_essence' },
-                { item: 'botania:life_essence' },
-                { item: 'botania:life_essence' },
-                { item: 'botania:life_essence' },
-                { item: 'botania:terrasteel_ingot' }
-            ],
-            energy: 40000,
-            result: {
-                item: 'botania:gaia_ingot',
-                count: 1
-            },
-            id: 'botania:gaia_ingot'
-        },
     ];
 
     recipes.forEach((recipe) => {
