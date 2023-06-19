@@ -49,7 +49,8 @@ onEvent('item.registry', (event) => {
       'rune_pattern_fire_rune',
       'rune_pattern_earth_rune',
       'resin_plate',
-      'raw_resin'
+      'raw_resin',
+      'diglycidyl_ether_of_bisphenol_A'
     ];
 
     items.forEach((item) => {
