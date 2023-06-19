@@ -1,0 +1,527 @@
+{
+	id: "70C436E2F1C6C56D"
+	group: "17D8AA6F03B63F5E"
+	order_index: 0
+	filename: "chapitre_1"
+	title: "Chapitre 1"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -5.0d
+			y: -3.5d
+			id: "504C8320C2ACC558"
+			tasks: [{
+				id: "3E6BAE913B901206"
+				type: "item"
+				item: "minecraft:oak_log"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -3.5d
+			shape: "gear"
+			id: "2321D3D81EF06AEC"
+			tasks: [{
+				id: "6BC6AC110C8464F5"
+				type: "item"
+				item: "minecraft:crafting_table"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -3.5d
+			id: "0938F2840AFBE9CA"
+			tasks: [{
+				id: "0E5BCEC1FFAEEDD4"
+				type: "item"
+				item: "minecraft:oak_planks"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.5d
+			id: "55E386FCE0057233"
+			tasks: [{
+				id: "427E2E4F1AC7DE19"
+				type: "item"
+				title: "Any #forge:cobblestone"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:cobblestone"
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -3.5d
+			id: "4B1FA041E64B3E4C"
+			tasks: [{
+				id: "239BD78160603348"
+				type: "item"
+				item: "minecraft:furnace"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -3.5d
+			id: "39ACEF04CC421137"
+			tasks: [{
+				id: "0A6950D5BC44D8F2"
+				type: "item"
+				item: {
+					id: "minecraft:wooden_pickaxe"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -0.5d
+			id: "56004A387E1C7903"
+			tasks: [
+				{
+					id: "0DD35A45AF71747A"
+					type: "item"
+					item: "minecraft:raw_iron"
+				}
+				{
+					id: "73E74599996446C3"
+					type: "item"
+					item: "thermal:raw_tin"
+				}
+				{
+					id: "3CDBDF840DBF3BE5"
+					type: "item"
+					item: "thermal:cinnabar"
+				}
+				{
+					id: "106AEA0BF80B9AE2"
+					type: "item"
+					item: "mekanism:fluorite_gem"
+				}
+				{
+					id: "6021333C046C3242"
+					type: "item"
+					item: "minecraft:lapis_lazuli"
+				}
+				{
+					id: "16B1365346B80EEA"
+					type: "item"
+					item: "mekanism:raw_osmium"
+				}
+				{
+					id: "309BEC71D709901B"
+					type: "item"
+					item: "minecraft:raw_copper"
+				}
+				{
+					id: "12B82D26FB4B0E5E"
+					type: "item"
+					item: "mysticalagriculture:inferium_essence"
+				}
+				{
+					id: "7C251A683667A873"
+					type: "item"
+					item: "immersiveengineering:raw_uranium"
+				}
+				{
+					id: "1B46B19263E0F6F5"
+					type: "item"
+					item: "immersiveengineering:raw_aluminum"
+				}
+				{
+					id: "6DE828E55B95CC76"
+					type: "item"
+					item: "thermal:apatite"
+				}
+			]
+		}
+		{
+			x: 0.5d
+			y: -3.5d
+			id: "16C73A5CE8C5465C"
+			tasks: [{
+				id: "5BC30B74E689C10A"
+				type: "item"
+				item: {
+					id: "minecraft:iron_pickaxe"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -3.5d
+			id: "27C2F735408E0807"
+			tasks: [
+				{
+					id: "09AAD42CD14A1317"
+					type: "item"
+					item: "minecraft:diamond"
+				}
+				{
+					id: "6A957A4C1DB0F7B1"
+					type: "item"
+					item: "thermal:raw_silver"
+				}
+				{
+					id: "141DC35F1389FA94"
+					type: "item"
+					item: "create:raw_zinc"
+				}
+				{
+					id: "4AA6E5F71ADA54CD"
+					type: "item"
+					item: "thermal:raw_nickel"
+				}
+				{
+					id: "2CD8905F867DE810"
+					type: "item"
+					item: "forbidden_arcanus:arcane_crystal"
+				}
+				{
+					id: "57D6C7D73488B042"
+					type: "item"
+					item: "powah:uraninite_raw"
+				}
+				{
+					id: "474AEA0B70F053E2"
+					type: "item"
+					item: "minecraft:raw_gold"
+				}
+				{
+					id: "4DBE8522D19B0278"
+					type: "item"
+					item: "thermal:raw_lead"
+				}
+				{
+					id: "7E438665D8804238"
+					type: "item"
+					item: "minecraft:redstone"
+				}
+				{
+					id: "75FC15A11ACAE58C"
+					type: "item"
+					item: "mysticalagriculture:prosperity_shard"
+				}
+				{
+					id: "52C0B6CD344B5AEA"
+					type: "item"
+					item: "mna:vinteum_dust"
+				}
+				{
+					id: "12ED8586AF768B42"
+					type: "item"
+					item: "tconstruct:raw_cobalt"
+				}
+				{
+					id: "7F6E057FFFE959D0"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+				{
+					id: "279513A4EC921513"
+					type: "item"
+					item: "forbidden_arcanus:xpetrified_orb"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -2.5d
+			id: "74A0E147DE0AFEDE"
+			tasks: [{
+				id: "251559B0A1230C6D"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_pickaxe"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			id: "0D95F0E2FA23E09D"
+			tasks: [
+				{
+					id: "11D3D336949CADC4"
+					type: "item"
+					item: "minecraft:obsidian"
+					count: 10L
+				}
+				{
+					id: "681577C955822818"
+					type: "item"
+					item: {
+						id: "minecraft:flint_and_steel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -2.0d
+			y: -1.5d
+			id: "1BD11B9EC4A4396B"
+			tasks: [{
+				id: "6D6B7AB248EE533C"
+				type: "item"
+				item: {
+					id: "minecraft:stone_pickaxe"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -4.5d
+			id: "522D394C53F43C85"
+			tasks: [
+				{
+					id: "751E971CFBB9FB28"
+					type: "item"
+					item: "minecraft:coal"
+				}
+				{
+					id: "3DE1B534E603DA89"
+					type: "item"
+					item: "rftoolsbase:dimensionalshard"
+				}
+				{
+					id: "3FD845DEF00B3F0E"
+					type: "item"
+					item: "evilcraft:dark_gem"
+				}
+				{
+					id: "1777DBEE3B7175DF"
+					type: "item"
+					item: "thermal:sulfur"
+				}
+				{
+					id: "3A5289612EB03D06"
+					type: "item"
+					item: "thermal:niter"
+				}
+			]
+		}
+		{
+			x: -0.5d
+			y: -4.5d
+			id: "3BC5F041F388EC8C"
+			tasks: [{
+				id: "113046F33002C79E"
+				type: "item"
+				item: "minecraft:campfire"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -2.5d
+			id: "652E585E167F4311"
+			tasks: [
+				{
+					id: "62787A05DA523131"
+					type: "item"
+					item: "minecraft:netherite_scrap"
+				}
+				{
+					id: "0F4C0D3CBF2ADC70"
+					type: "item"
+					item: "forbidden_arcanus:rune"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -0.5d
+			id: "12984F9309BFC23E"
+			tasks: [{
+				id: "0046BCC42431FE28"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.0d
+			id: "2C1C6D1A26EBCA5C"
+			tasks: [{
+				id: "4D8D26149E3E71EE"
+				type: "item"
+				item: "minecraft:quartz"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.5d
+			id: "6DD83CFFE78264C9"
+			tasks: [{
+				id: "6FB5988DD2A70BAC"
+				type: "advancement"
+				advancement: "minecraft:nether/obtain_blaze_rod"
+				criterion: ""
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.0d
+			id: "29709A1EFA92FD42"
+			tasks: [{
+				id: "1BE206F7EE3471C4"
+				type: "advancement"
+				advancement: "minecraft:nether/find_fortress"
+				criterion: ""
+			}]
+		}
+		{
+			x: 3.5d
+			y: 0.0d
+			id: "15E03D1830DA9398"
+			tasks: [{
+				id: "7692A21C2D91036B"
+				type: "advancement"
+				advancement: "minecraft:nether/find_bastion"
+				criterion: ""
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			id: "049F8D161E4ED774"
+			tasks: [{
+				id: "0738FF9FB21B648A"
+				type: "item"
+				item: "minecraft:ender_eye"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.5d
+			id: "1D569BF00FED8B55"
+			tasks: [{
+				id: "1883BA532938A4D6"
+				type: "advancement"
+				advancement: "minecraft:story/follow_ender_eye"
+				criterion: ""
+			}]
+		}
+		{
+			x: 1.5d
+			y: 3.5d
+			id: "22C88395E307E2B3"
+			tasks: [{
+				id: "6684C33E41A9D528"
+				type: "dimension"
+				dimension: "minecraft:the_end"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 3.5d
+			id: "473EEE32CD82C8AE"
+			tasks: [{
+				id: "564FD6937D6E9693"
+				type: "advancement"
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+			}]
+		}
+		{
+			x: 3.5d
+			y: 3.5d
+			id: "7AD99D48684A0F69"
+			tasks: [
+				{
+					id: "407E7415A14ED5C2"
+					type: "item"
+					item: "minecraft:dragon_egg"
+				}
+				{
+					id: "07ED91B805F2EA0E"
+					type: "item"
+					item: "draconicevolution:dragon_heart"
+				}
+				{
+					id: "0CB507365EB9A0FD"
+					type: "item"
+					item: "mysticalagradditions:dragon_scale"
+				}
+				{
+					id: "61D1AF556BE7F12E"
+					type: "item"
+					item: "draconicevolution:draconium_dust"
+				}
+			]
+		}
+		{
+			x: 2.5d
+			y: 4.5d
+			id: "74C4FAF92B328D15"
+			tasks: [{
+				id: "6D5978C2616E52EA"
+				type: "advancement"
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			id: "28C2310D37E11522"
+			tasks: [{
+				id: "1E7E6A4FFF82B4D5"
+				type: "advancement"
+				advancement: "doom:kill_archmaykr"
+				criterion: ""
+			}]
+		}
+		{
+			x: 2.5d
+			y: 5.5d
+			id: "4F1B3674D6FF9121"
+			tasks: [{
+				id: "68B6F1BB451CEE16"
+				type: "advancement"
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+			}]
+		}
+		{
+			x: 2.5d
+			y: 6.5d
+			id: "7FBCE2C09B7C9251"
+			tasks: [{
+				id: "348F13E3F56D1C69"
+				type: "item"
+				item: {
+					id: "minecraft:elytra"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

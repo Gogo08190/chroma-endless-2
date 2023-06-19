@@ -1,0 +1,581 @@
+{
+	id: "506A7A584B7B548B"
+	group: ""
+	order_index: 1
+	filename: "getting_started"
+	title: "Getting Started"
+	icon: "create:mechanical_arm"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.5d
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "3263C29C09B86AF7"
+			tasks: [{
+				id: "7A205C3F68069BC8"
+				type: "item"
+				item: "minecraft:oak_log"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 2.0d
+			dependencies: ["3263C29C09B86AF7"]
+			id: "56E1AEB621CC345E"
+			tasks: [{
+				id: "5C4FB0C2BAD9CADF"
+				type: "item"
+				item: "minecraft:oak_planks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			dependencies: ["56E1AEB621CC345E"]
+			id: "4DFF0ACE2D79AF8C"
+			tasks: [{
+				id: "618D8C5AB8F51E7B"
+				type: "item"
+				item: "minecraft:crafting_table"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 4.5d
+			dependencies: ["4DFF0ACE2D79AF8C"]
+			id: "2D81545DB4A8FC40"
+			tasks: [{
+				id: "3334A64C195699E6"
+				type: "item"
+				item: "minecraft:furnace"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 5.5d
+			dependencies: ["2D81545DB4A8FC40"]
+			id: "37054C1B0D832F86"
+			tasks: [{
+				id: "6FBA23FA8147790F"
+				type: "item"
+				title: "Andesite with Iron/Zinc"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "chroma:andesite/processing"
+					}
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 5.5d
+			shape: "octagon"
+			dependencies: ["37054C1B0D832F86"]
+			id: "26D738A9D26FACB7"
+			tasks: [{
+				id: "5412B47DF2D88789"
+				type: "item"
+				item: "create:andesite_alloy"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 5.5d
+			dependencies: ["26D738A9D26FACB7"]
+			id: "3ECA4C5B9802B4D4"
+			tasks: [{
+				id: "682D4ADDB74F61E2"
+				type: "item"
+				item: "create:shaft"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 5.5d
+			dependencies: ["3ECA4C5B9802B4D4"]
+			id: "5A0730C0E09AB299"
+			tasks: [{
+				id: "7A87168AE5D29A65"
+				type: "item"
+				item: "create:cogwheel"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 5.5d
+			dependencies: ["5A0730C0E09AB299"]
+			id: "52F41B4EC55CF7E7"
+			tasks: [{
+				id: "04FBB3FE8BBC8820"
+				type: "item"
+				item: "create:large_cogwheel"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 7.0d
+			dependencies: ["52F41B4EC55CF7E7"]
+			id: "62D6EE273C67B9E6"
+			tasks: [{
+				id: "1F7B2E3A74B9FB12"
+				type: "item"
+				item: "create:water_wheel"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 7.0d
+			dependencies: ["52F41B4EC55CF7E7"]
+			id: "441CE6D625161842"
+			tasks: [
+				{
+					id: "0CBABEE0F278B7FE"
+					type: "item"
+					item: "create:windmill_bearing"
+				}
+				{
+					id: "31BDC60A74A31207"
+					type: "item"
+					item: "create:white_sail"
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 10.0d
+			dependencies: ["203C89167FF85B08"]
+			id: "76C999EEE9270FFE"
+			tasks: [
+				{
+					id: "001C6406D56B43E3"
+					type: "item"
+					item: "create:mechanical_mixer"
+				}
+				{
+					id: "1F6E4C681A16FF3F"
+					type: "item"
+					item: "create:basin"
+				}
+			]
+		}
+		{
+			x: 2.5d
+			y: 10.0d
+			dependencies: ["76C999EEE9270FFE"]
+			id: "7B33480DC2C83D14"
+			tasks: [{
+				id: "320F3FE4D0779367"
+				type: "dimension"
+				title: "Visit dimension : &cThe Nether"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "supplementaries:textures/map/nether_portal.png"
+					}
+				}
+				dimension: "minecraft:the_nether"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 10.0d
+			dependencies: ["7B33480DC2C83D14"]
+			id: "49D62AB9545659A6"
+			tasks: [{
+				id: "0EE177F478B907D3"
+				type: "item"
+				item: "create:empty_blaze_burner"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 9.0d
+			dependencies: ["49D62AB9545659A6"]
+			id: "3D0B2779AAE450DA"
+			tasks: [{
+				id: "0A7927243A0FE47B"
+				type: "item"
+				item: "create:blaze_burner"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 10.0d
+			dependencies: ["4953C0780CE9CAAC"]
+			id: "56F9FF62E8865080"
+			tasks: [{
+				id: "3FB77233FE3EF013"
+				type: "item"
+				title: "Sand Paper"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "create:sandpaper"
+					}
+				}
+			}]
+		}
+		{
+			x: 9.0d
+			y: 10.0d
+			dependencies: ["56F9FF62E8865080"]
+			id: "38FB54FF2F244D35"
+			tasks: [{
+				id: "5E4280CC884B3FFB"
+				type: "item"
+				item: "create:rose_quartz"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 11.5d
+			dependencies: ["38FB54FF2F244D35"]
+			id: "3EFB74B25D51A6E9"
+			tasks: [{
+				id: "6A7A49EA25EBC765"
+				type: "item"
+				item: "create:polished_rose_quartz"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 13.0d
+			dependencies: ["3EFB74B25D51A6E9"]
+			id: "689CA9BE25C18859"
+			tasks: [{
+				id: "5009ED2F059984AA"
+				type: "item"
+				item: "create:electron_tube"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 11.5d
+			dependencies: ["76C999EEE9270FFE"]
+			id: "764066296A108875"
+			tasks: [{
+				id: "23D51D33BB18472E"
+				type: "item"
+				item: "create:brass_ingot"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 13.0d
+			dependencies: ["764066296A108875"]
+			id: "2B0393E38834F746"
+			tasks: [{
+				id: "5E03157705A447C9"
+				type: "item"
+				item: "create:brass_casing"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 14.5d
+			shape: "gear"
+			dependencies: [
+				"2B0393E38834F746"
+				"689CA9BE25C18859"
+			]
+			id: "4AC978F915ECB43C"
+			tasks: [{
+				id: "73CDA683994E11BD"
+				type: "item"
+				item: "create:mechanical_crafter"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 13.0d
+			dependencies: ["764066296A108875"]
+			id: "311EE5DA420856A5"
+			tasks: [{
+				id: "1B014B98C46E00CC"
+				type: "item"
+				item: "create:deployer"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 14.5d
+			shape: "gear"
+			dependencies: ["311EE5DA420856A5"]
+			id: "6516060435BF41D9"
+			tasks: [{
+				id: "6564BA27E4CA881D"
+				type: "item"
+				item: "create:precision_mechanism"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 16.5d
+			dependencies: [
+				"6516060435BF41D9"
+				"4AC978F915ECB43C"
+			]
+			id: "142D6BCB3BE8D394"
+			tasks: [{
+				id: "4794037C8002B150"
+				type: "item"
+				item: "createoreexcavation:drilling_machine"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 16.5d
+			dependencies: [
+				"6516060435BF41D9"
+				"4AC978F915ECB43C"
+			]
+			id: "39130271DD00ECFB"
+			tasks: [{
+				id: "36CD235C94664C6B"
+				type: "item"
+				item: "createoreexcavation:extractor"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 17.0d
+			dependencies: [
+				"39130271DD00ECFB"
+				"142D6BCB3BE8D394"
+			]
+			dependency_requirement: "one_completed"
+			id: "1ECE1FDAB04ED9DE"
+			tasks: [{
+				id: "4C2A08F62B0BA97A"
+				type: "item"
+				item: "createoreexcavation:vein_finder"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 14.0d
+			dependencies: ["6516060435BF41D9"]
+			id: "11BF0FE3A753842C"
+			tasks: [
+				{
+					id: "102A4465F72BF1F5"
+					type: "item"
+					item: "tconstruct:tinker_station"
+				}
+				{
+					id: "015049C3B585E32B"
+					type: "item"
+					item: "tconstruct:part_builder"
+				}
+			]
+		}
+		{
+			x: -2.0d
+			y: 15.0d
+			dependencies: ["11BF0FE3A753842C"]
+			id: "1F3A1F7F18B59F04"
+			tasks: [{
+				id: "6337DC8D717DE7E9"
+				type: "item"
+				item: "tconstruct:tinkers_chest"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 13.0d
+			dependencies: ["11BF0FE3A753842C"]
+			id: "268497529712502D"
+			tasks: [{
+				id: "3CEF0875FDCD8708"
+				type: "item"
+				item: "tconstruct:part_chest"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 14.0d
+			dependencies: ["11BF0FE3A753842C"]
+			id: "5BEB8A4B960B039A"
+			tasks: [{
+				id: "48960C4B24A34724"
+				type: "item"
+				item: "tconstruct:grout"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 13.0d
+			dependencies: ["5BEB8A4B960B039A"]
+			id: "3D4738E1C70F1B3F"
+			tasks: [{
+				id: "7681F9C5CDC3BF2E"
+				type: "item"
+				item: "tconstruct:seared_brick"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 12.0d
+			dependencies: ["3D4738E1C70F1B3F"]
+			id: "0EF8F6301113033D"
+			tasks: [
+				{
+					id: "49E16022F375E502"
+					type: "item"
+					item: "tconstruct:seared_melter"
+				}
+				{
+					id: "74E2C4B426C7B948"
+					type: "item"
+					item: "tconstruct:seared_heater"
+				}
+				{
+					id: "5BB67549CD09B9D4"
+					type: "item"
+					item: "tconstruct:seared_faucet"
+				}
+				{
+					id: "5663E7CFB765D310"
+					type: "item"
+					item: "tconstruct:seared_basin"
+				}
+			]
+		}
+		{
+			x: -7.0d
+			y: 12.0d
+			dependencies: ["0EF8F6301113033D"]
+			id: "2FA3FAF0A6953783"
+			tasks: [
+				{
+					id: "539AC1691BA1BA14"
+					type: "item"
+					item: "tconstruct:smeltery_controller"
+				}
+				{
+					id: "2DD36073E7A5AADC"
+					type: "item"
+					title: "Any #tconstruct:smeltery_bricks"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1
+						tag: {
+							value: "tconstruct:smeltery_bricks"
+						}
+					}
+				}
+				{
+					id: "7E18522C66D75698"
+					type: "item"
+					item: "tconstruct:seared_table"
+				}
+				{
+					id: "284456961EEFDEDB"
+					type: "item"
+					item: "tconstruct:seared_fuel_tank"
+				}
+				{
+					id: "4D1B3D90A4A56755"
+					type: "item"
+					item: "tconstruct:seared_drain"
+				}
+			]
+		}
+		{
+			x: -9.0d
+			y: 13.0d
+			dependencies: ["2FA3FAF0A6953783"]
+			id: "6D05078596B388B7"
+			tasks: [{
+				id: "6C692164E390E917"
+				type: "item"
+				item: "mna:vellum"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 14.5d
+			dependencies: ["6D05078596B388B7"]
+			id: "48A13293AFC0DB85"
+			tasks: [{
+				id: "1D7634C9441857BB"
+				type: "item"
+				item: "mna:guide_book"
+			}]
+		}
+		{
+			x: -8.0d
+			y: 16.0d
+			dependencies: ["48A13293AFC0DB85"]
+			id: "06AB00266C840215"
+			tasks: [{
+				id: "4989335C5BAFF662"
+				type: "item"
+				item: "mna:occulus"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 17.5d
+			dependencies: ["06AB00266C840215"]
+			id: "377DB2567C732682"
+			tasks: [{
+				id: "4E4EE0CB7E8F1786"
+				type: "item"
+				item: "mna:inscription_table"
+			}]
+		}
+		{
+			x: -7.0d
+			y: 19.0d
+			shape: "gear"
+			dependencies: ["377DB2567C732682"]
+			id: "44677FAB528C2D42"
+			tasks: [{
+				id: "2B226DB52047FC73"
+				type: "item"
+				item: "mna:manaweaving_altar"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 8.5d
+			dependencies: [
+				"62D6EE273C67B9E6"
+				"441CE6D625161842"
+			]
+			dependency_requirement: "one_completed"
+			id: "4953C0780CE9CAAC"
+			tasks: [
+				{
+					id: "61B238DAAF589DF1"
+					type: "item"
+					item: "create:mechanical_press"
+				}
+				{
+					id: "06A44A7594261DBA"
+					type: "item"
+					item: "create:depot"
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: 10.0d
+			dependencies: ["4953C0780CE9CAAC"]
+			id: "203C89167FF85B08"
+			tasks: [{
+				id: "0CFCD05338782488"
+				type: "item"
+				item: "thermal:iron_plate"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
