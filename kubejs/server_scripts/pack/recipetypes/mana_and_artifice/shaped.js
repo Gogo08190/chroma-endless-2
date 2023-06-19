@@ -58,6 +58,17 @@ onEvent('recipes', (event) => {
             },
             id: 'mna:runic_anvil'
         },
+        {
+            output: 'mna:occulus',
+            pattern: [' G ', 'VQV', ' D '],
+            key: {
+                G: 'tconstruct:clear_glass',
+                V: 'mna:vinteum_dust',
+                Q: 'tconstruct:queens_slime_ingot',
+                D: 'mna:ornate_table'
+            },
+            id: 'mna:occulus'
+        },
     ];
 
     recipes.forEach((recipe) => {
