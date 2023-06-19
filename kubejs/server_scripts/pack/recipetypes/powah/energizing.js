@@ -144,6 +144,22 @@ onEvent('recipes', (event) => {
             },
             id: 'ae2:network/cells/item_storage_components_cell_4k_part'
         },
+        {
+            ingredients: [
+                { item: 'powah:dielectric_rod' },
+                { item: 'powah:dielectric_rod' },
+                { item: 'pneumaticcraft:reinforced_bricks' },
+                { item: 'pneumaticcraft:reinforced_bricks' },
+                { item: 'powah:dielectric_rod_horizontal' },
+                { item: 'powah:dielectric_rod_horizontal' }
+            ],
+            energy: 2500,
+            result: {
+                item: 'pneumaticcraft:pressure_chamber_wall',
+                count: 2
+            },
+            id: 'pneumaticcraft:pressure_chamber_wall'
+        }
     ];
 
     recipes.forEach((recipe) => {
