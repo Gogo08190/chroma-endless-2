@@ -67,6 +67,10 @@ onEvent('item.tooltip', (event) => {
             ],
             text: [Text.of('Shield Projections are immune to the Wither').color('#4F0D75')]
         },
+        {
+            items: ['chroma:diglycidyl_ether_of_bisphenol_a'],
+            text: [Text.of('C21H24O4').darkAqua()]
+        },
     ];
 
     recipes.forEach((recipe) => {
