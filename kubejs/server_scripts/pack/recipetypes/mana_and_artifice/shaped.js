@@ -56,7 +56,7 @@ onEvent('recipes', (event) => {
                 D: 'botania:manasteel_ingot',
                 B: '#botania:livingwood_logs'
             },
-            id: 'mna:runic_anvil'
+            id: 'mna:runeforging/runic_anvil'
         },
         {
             output: 'mna:occulus',
