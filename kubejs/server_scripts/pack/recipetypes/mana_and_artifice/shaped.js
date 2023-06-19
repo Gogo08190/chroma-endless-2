@@ -50,10 +50,11 @@ onEvent('recipes', (event) => {
             output: 'mna:runic_anvil',
             pattern: ['PPP', 'RAR', 'DBD'],
             key: {
-                D: 'mna:transmuted_silver',
-                R: '#mna:gems/chimerite',
+                P: 'mna:vinteum_dust',
+                R: 'mna:chimerite_gem',
                 A: 'minecraft:anvil',
-                B: 'create:brass_casing'
+                D: 'botania:manasteel_ingot',
+                B: '#botania:livingwood_logs'
             },
             id: 'mna:runic_anvil'
         },
