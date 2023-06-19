@@ -47,7 +47,9 @@ onEvent('item.registry', (event) => {
       'rune_pattern_air_rune',
       'rune_pattern_water_rune',
       'rune_pattern_fire_rune',
-      'rune_pattern_earth_rune'
+      'rune_pattern_earth_rune',
+      'resin_plate',
+      'raw_resin'
     ];
 
     items.forEach((item) => {
