@@ -55,6 +55,20 @@ onEvent('recipes', (event) => {
         mana: 25000,
         id: 'botania:gaia_ingot'
     },
+    {
+        inputs: [
+            { item: 'rftoolsbase:infused_enderpearl'},
+            { item: 'rftoolsbase:infused_enderpearl'},
+            { item: 'rftoolsbase:infused_diamond'},
+            { item: 'rftoolsbase:infused_diamond'},
+            { item: 'mekanism:alloy_reinforced' },
+            { item: 'mekanism:alloy_reinforced' },
+            { item: 'rftoolsbase:machine_frame' }
+        ],
+        output: { item: 'rftoolsbase:machine_infuser' },
+        mana: 25000,
+        id: 'rftoolsbase:machine_infuser'
+    },
 
     ];
 

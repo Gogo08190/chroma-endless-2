@@ -76,6 +76,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: `${id_prefix}steel_casing`
       },
+      {
+        output: { item: 'rftoolsbase:machine_frame', count: 1 },
+        inputs: [
+          { item: 'powah:steel_energized', count: 1 },
+          { item: 'mekanism:elite_control_circuit', count: 2 },
+          { item: 'rftoolsbase:machine_base', count: 2 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'rftoolsbase:machine_frame'
+      },
     ];
 
     recipes.forEach((recipe) => {
