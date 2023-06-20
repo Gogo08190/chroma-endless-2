@@ -26,6 +26,11 @@ onEvent('recipes', (event) => {
           outputs: ['chroma:blank_integral_components'],
           id: `${id_prefix}blank_integral_components`
       },
+      {
+        inputs: [Item.of('rftoolsbase:infused_diamond', 2), 'rftoolspower:power_core2', Item.of('mekanism:elite_control_circuit', 2)],
+        outputs: ['rftoolspower:power_core3'],
+        id: 'rftoolspower:power_core3'
+    },
 
     ];
 

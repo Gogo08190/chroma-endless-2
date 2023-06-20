@@ -79,6 +79,145 @@ onEvent('recipes', (event) => {
             },
             id: 'xnet:connector_routing'
         },
+        {
+            output: 'xnet:connector_yellow',
+            pattern: ['ICI', 'RDR', 'IRI'],
+            key: {
+                I: 'thermal:invar_ingot',
+                R: 'minecraft:redstone',
+                C: '#forge:chests/wooden',
+                D: 'minecraft:yellow_dye'
+            },
+            id: 'xnet:connector_yellow'
+        },
+        {
+            output: 'xnet:connector_blue',
+            pattern: ['ICI', 'RDR', 'IRI'],
+            key: {
+                I: 'thermal:invar_ingot',
+                R: 'minecraft:redstone',
+                C: '#forge:chests/wooden',
+                D: 'minecraft:blue_dye'
+            },
+            id: 'xnet:connector_blue'
+        },
+        {
+            output: 'xnet:connector_green',
+            pattern: ['ICI', 'RDR', 'IRI'],
+            key: {
+                I: 'thermal:invar_ingot',
+                R: 'minecraft:redstone',
+                C: '#forge:chests/wooden',
+                D: 'minecraft:green_dye'
+            },
+            id: 'xnet:connector_green'
+        },
+        {
+            output: 'xnet:connector_red',
+            pattern: ['ICI', 'RDR', 'IRI'],
+            key: {
+                I: 'thermal:invar_ingot',
+                R: 'minecraft:redstone',
+                C: '#forge:chests/wooden',
+                D: 'minecraft:red_dye'
+            },
+            id: 'xnet:connector_red'
+        },
+        {
+            output: 'xnet:advanced_connector_routing',
+            pattern: ['CE ', 'MR ', '   '],
+            key: {
+                C: 'xnet:connector_routing',
+                E: 'minecraft:ender_pearl',
+                M: 'botania:mana_diamond',
+                R: 'minecraft:redstone'
+            },
+            id: 'xnet:advanced_connector_routing'
+        },
+        {
+            output: 'xnet:advanced_connector_yellow',
+            pattern: ['CE ', 'MR ', '   '],
+            key: {
+                C: 'xnet:connector_yellow',
+                E: 'minecraft:ender_pearl',
+                M: 'botania:mana_diamond',
+                R: 'minecraft:redstone'
+            },
+            id: 'xnet:advanced_connector_yellow'
+        },
+        {
+            output: 'xnet:advanced_connector_blue',
+            pattern: ['CE ', 'MR ', '   '],
+            key: {
+                C: 'xnet:connector_blue',
+                E: 'minecraft:ender_pearl',
+                M: 'botania:mana_diamond',
+                R: 'minecraft:redstone'
+            },
+            id: 'xnet:advanced_connector_blue'
+        },
+        {
+            output: 'xnet:advanced_connector_green',
+            pattern: ['CE ', 'MR ', '   '],
+            key: {
+                C: 'xnet:connector_green',
+                E: 'minecraft:ender_pearl',
+                M: 'botania:mana_diamond',
+                R: 'minecraft:redstone'
+            },
+            id: 'xnet:advanced_connector_green'
+        },
+        {
+            output: 'xnet:advanced_connector_red',
+            pattern: ['CE ', 'MR ', '   '],
+            key: {
+                C: 'xnet:connector_red',
+                E: 'minecraft:ender_pearl',
+                M: 'botania:mana_diamond',
+                R: 'minecraft:redstone'
+            },
+            id: 'xnet:advanced_connector_red'
+        },
+        {
+            output: 'xnet:connector_upgrade',
+            pattern: ['CE ', 'MR ', '   '],
+            key: {
+                C: 'minecraft:paper',
+                E: 'minecraft:ender_pearl',
+                M: 'botania:mana_diamond',
+                R: 'minecraft:redstone'
+            },
+            id: 'xnet:connector_upgrade'
+        },
+        {
+            output: 'xnet:antenna_dish',
+            pattern: ['SSS', 'SMS', ' R '],
+            key: {
+                S: '#forge:plates/steel',
+                M: 'botania:mana_pearl',
+                R: '#forge:rods/steel'
+            },
+            id: 'xnet:antenna_dish'
+        },
+        {
+            output: 'xnet:antenna_base',
+            pattern: [' R ', ' R ', 'SIS'],
+            key: {
+                S: '#forge:plates/steel',
+                I: 'thermal:invar_block',
+                R: '#forge:rods/steel'
+            },
+            id: 'xnet:antenna_base'
+        },
+        {
+            output: 'xnet:antenna',
+            pattern: ['IRI', 'IRI', 'R'],
+            key: {
+                I: 'minecraft:iron_bars',
+                R: '#forge:rods/steel'
+            },
+            id: 'xnet:antenna'
+        },
     ];
 
     recipes.forEach((recipe) => {

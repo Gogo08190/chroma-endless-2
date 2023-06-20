@@ -159,6 +159,22 @@ onEvent('recipes', (event) => {
                 count: 2
             },
             id: 'pneumaticcraft:pressure_chamber_wall'
+        },
+        {
+            ingredients: [
+                { item: 'rftoolsbase:dimensionalshard' },
+                { item: 'rftoolsbase:dimensionalshard' },
+                { item: 'rftoolsbase:dimensionalshard' },
+                { item: 'rftoolsbase:dimensionalshard' },
+                { item: 'rftoolspower:power_core1' },
+                { item: 'powah:capacitor_hardened' }
+            ],
+            energy: 200000,
+            result: {
+                item: 'rftoolspower:power_core2',
+                count: 1
+            },
+            id: 'rftoolspower:power_core2'
         }
     ];
 

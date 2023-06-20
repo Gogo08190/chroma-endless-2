@@ -18,6 +18,14 @@ onEvent('recipes', (event) => {
           speed: 0.8,
           id: 'rftoolsbase:machine_base'
       },
+      {
+        fluid_input: { type: 'pneumaticcraft:fluid', fluid: 'thermal:redstone', amount: 100 },
+        item_input: { item: 'rftoolsbase:machine_base', count: 1 },
+        item_output: { item: 'rftoolspower:power_core1', count: 1 },
+        pressure: 2.0,
+        speed: 0.8,
+        id: 'rftoolspower:power_core1'
+    },
     ];
 
     recipes.forEach((recipe) => {
