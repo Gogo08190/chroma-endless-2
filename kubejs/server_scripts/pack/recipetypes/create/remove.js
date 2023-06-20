@@ -14,6 +14,11 @@ onEvent('recipes', (event) => {
       'jaopca:immersiveengineering.material_to_plate_press.obsidian',
       'jaopca:thermal_expansion.material_to_plate.obsidian',
       'jaopca:beyond_earth_giselle_addon.rolling.obsidian',
+
+      'createoreexcavation:drilling/gold',
+      'createoreexcavation:drilling/zinc',
+      'createoreexcavation:drilling/iron',
+      'createoreexcavation:drilling/copper',
     ];
 
     outputRemovals.forEach((removal) => {
