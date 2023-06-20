@@ -10,7 +10,7 @@
     "hasCollision": true,
     "destroyTime": 1.5,
     "explosionResistance": 6.0,
-    "speedFactor": 1.0,
+    "speedFactor": 8.0,
     "jumpFactor": 1.0,
     "friction": 0.6,
     "harvestLevel": 0,
@@ -21,8 +21,7 @@
     "unformed": {
       "renderer": {
         "baseTexture": "multiblocked:casing/brass_casing",
-        "frontTexture": "multiblocked:casing/brass_casing",
-        "upTexture": "multiblocked:overlay/overlay_stress_out",
+        "frontTexture": "multiblocked:overlay/overlay_stress_out",
         "type": "gregtech",
         "postRenderer": false
       }
@@ -46,6 +45,6 @@
   },
   "canShared": false,
   "isOutput": true,
-  "stress": 4.0,
+  "stress": 16.0,
   "type": "create_part"
 }

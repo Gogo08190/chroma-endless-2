@@ -72,22 +72,22 @@
         " AAAAAA"
       ],
       [
-        "FFFAGAA",
-        "FFFHIJC",
-        "FFF   C",
-        "FFF   C",
-        "AAAAAAA"
-      ],
-      [
-        "FFFKLA@",
-        "FFFH MC",
-        "FFF   C",
-        "FFFNNOC",
-        "AAAAAAA"
-      ],
-      [
         "FFFAAAA",
-        "FFFHIJC",
+        "FFFGHIC",
+        "FFF   C",
+        "FFF   C",
+        "AAAAAAA"
+      ],
+      [
+        "FFFAJA@",
+        "FFFGKLC",
+        "FFF   C",
+        "FFFMMNC",
+        "AAAAAAA"
+      ],
+      [
+        "FFFAOAA",
+        "FFFGHIC",
         "FFF   C",
         "FFF   C",
         "AAAAAAA"
@@ -211,7 +211,7 @@
       "G": {
         "blocks": [
           {
-            "id": "minecraft:redstone_block"
+            "id": "create:gearbox"
           }
         ],
         "type": "blocks"
@@ -219,7 +219,7 @@
       "H": {
         "blocks": [
           {
-            "id": "create:gearbox"
+            "id": "create:gearshift"
           }
         ],
         "type": "blocks"
@@ -227,7 +227,7 @@
       "I": {
         "blocks": [
           {
-            "id": "create:gearshift"
+            "id": "create:crushing_wheel"
           }
         ],
         "type": "blocks"
@@ -235,7 +235,7 @@
       "J": {
         "blocks": [
           {
-            "id": "create:crushing_wheel"
+            "id": "simplylight:illuminant_block"
           }
         ],
         "type": "blocks"
@@ -251,7 +251,7 @@
       "L": {
         "blocks": [
           {
-            "id": "simplylight:illuminant_block"
+            "id": "create:crushing_wheel_controller"
           }
         ],
         "type": "blocks"
@@ -262,7 +262,7 @@
       "M": {
         "blocks": [
           {
-            "id": "create:crushing_wheel_controller"
+            "id": "create:fluid_pipe"
           }
         ],
         "type": "blocks"
@@ -270,7 +270,7 @@
       "N": {
         "blocks": [
           {
-            "id": "create:fluid_pipe"
+            "id": "create:spout"
           }
         ],
         "type": "blocks"
@@ -278,7 +278,7 @@
       "O": {
         "blocks": [
           {
-            "id": "create:spout"
+            "id": "minecraft:redstone_block"
           }
         ],
         "type": "blocks"

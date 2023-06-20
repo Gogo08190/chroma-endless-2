@@ -5,7 +5,7 @@
   "recipes": [
     {
       "uid": "basic_leadurosmate_sieving",
-      "duration": 1,
+      "duration": 20,
       "inputs": {
         "item": [
           {
@@ -80,7 +80,7 @@
         ],
         "create_stress": [
           {
-            "content": 32.0,
+            "content": 64.0,
             "chance": 1.0
           }
         ]
@@ -88,7 +88,7 @@
     },
     {
       "uid": "basic_feranicalumite_sieving",
-      "duration": 1,
+      "duration": 20,
       "inputs": {
         "item": [
           {
@@ -163,7 +163,7 @@
         ],
         "create_stress": [
           {
-            "content": 32.0,
+            "content": 64.0,
             "chance": 1.0
           }
         ]
@@ -236,7 +236,7 @@
         ],
         "create_stress": [
           {
-            "content": 32.0,
+            "content": 64.0,
             "chance": 1.0
           }
         ]
