@@ -211,7 +211,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'xnet:antenna',
-            pattern: ['IRI', 'IRI', 'R'],
+            pattern: ['IRI', 'IRI', ' R '],
             key: {
                 I: 'minecraft:iron_bars',
                 R: '#forge:rods/steel'
