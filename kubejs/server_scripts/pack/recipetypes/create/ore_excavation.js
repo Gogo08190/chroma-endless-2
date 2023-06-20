@@ -12,39 +12,39 @@ onEvent('recipes', event => {
 	//Always finite 5x-8x base
 	event.recipes.createoreexcavation
 		.drilling([Item.of('chroma:raw_aurizincite')
-		.withChance(0.1)], '{"text": "Raw Aurizincite Vein"}', 2, 600)
-		.biomeWhitelist('minecraft:is_overworld')
+		.withChance(0.5)], '{"text": "Raw Aurizincite Vein"}', 15, 100)
+		.biomeBlacklist('minecraft:is_nether')
 		.alwaysFinite()
 		.veinSize(5, 8)
 		.id("chroma:veins/raw_aurizincite");
 
 	event.recipes.createoreexcavation
 		.drilling([Item.of('chroma:raw_leadurosmate')
-		.withChance(0.1)], '{"text": "Raw Leadurosmat Vein"}', 2, 600)
-		.biomeWhitelist('minecraft:is_overworld')
+		.withChance(0.5)], '{"text": "Raw Leadurosmat Vein"}', 15, 100)
+		.biomeBlacklist('minecraft:is_nether')
 		.alwaysFinite()
 		.veinSize(5, 8)
 		.id("chroma:veins/raw_leadurosmate");
 
 	event.recipes.createoreexcavation
 		.drilling([Item.of('chroma:raw_feranicalumite')
-		.withChance(0.1)], '{"text": "Raw Feranicalumite Vein"}', 2, 600)
-		.biomeWhitelist('minecraft:is_overworld')
+		.withChance(0.5)], '{"text": "Raw Feranicalumite Vein"}', 15, 100)
+		.biomeBlacklist('minecraft:is_nether')
 		.alwaysFinite()
 		.veinSize(5, 8)
 		.id("chroma:veins/raw_feranicalumite");
 
 	event.recipes.createoreexcavation
 		.drilling([Item.of('chroma:raw_cuperargentite')
-		.withChance(0.1)], '{"text": "Raw Cuperargentite Vein"}', 2, 600)
-		.biomeWhitelist('minecraft:is_overworld')
+		.withChance(0.5)], '{"text": "Raw Cuperargentite Vein"}', 15, 100)
+		.biomeBlacklist('minecraft:is_nether')
 		.alwaysFinite()
 		.veinSize(5, 8)
 		.id("chroma:veins/raw_cuperargentite");
 
 	event.recipes.createoreexcavation
 		.drilling([Item.of('chroma:raw_cobalrite')
-		.withChance(0.1)], '{"text": "Raw Cobalrite Vein"}', 2, 600)
+		.withChance(0.5)], '{"text": "Raw Cobalrite Vein"}', 60, 100)
 		.biomeWhitelist('minecraft:is_nether')
 		.drill('createoreexcavation:diamond_drill')
 		.alwaysFinite()
