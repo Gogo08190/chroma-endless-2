@@ -11,7 +11,15 @@ onEvent('recipes', (event) => {
         item: 'chroma:diglycidyl_ether_of_bisphenol_a'
       },
       id: `${id_prefix}diglycidyl_ether_of_bisphenol_a`
-    }
+    },
+    {
+      input: [
+        { ingredient: { item: 'chemlib:nickel_chloride' }, count: 4 },
+        { ingredient: { item: 'chroma:diglycidyl_ether_of_bisphenol_a' }, count: 4 }
+      ],
+      result: { item: 'chroma:raw_resin', count: 2 },
+      id: `${id_prefix}raw_resin`
+    },
   ];
 
   recipes.forEach((recipe) => {
