@@ -3,7 +3,7 @@
   "location": "chroma:brass_create_input",
   "traits": {},
   "properties": {
-    "rotationState": "ALL",
+    "rotationState": "NON_Y_AXIS",
     "showInJei": true,
     "isOpaque": true,
     "hasDynamicShape": false,

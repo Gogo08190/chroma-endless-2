@@ -3,7 +3,7 @@
   "location": "chroma:brass_create_output",
   "traits": {},
   "properties": {
-    "rotationState": "ALL",
+    "rotationState": "NON_Y_AXIS",
     "showInJei": true,
     "isOpaque": true,
     "hasDynamicShape": false,
@@ -20,8 +20,9 @@
   "status": {
     "unformed": {
       "renderer": {
-        "baseTexture": "multiblocked:casing/brass_sheet_metal",
-        "frontTexture": "multiblocked:overlay/overlay_stress_out",
+        "baseTexture": "multiblocked:casing/brass_casing",
+        "frontTexture": "multiblocked:casing/brass_casing",
+        "upTexture": "multiblocked:overlay/overlay_stress_out",
         "type": "gregtech",
         "postRenderer": false
       }

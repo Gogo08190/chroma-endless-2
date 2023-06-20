@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "location": "chroma:basic_sieving_machine",
+  "location": "chroma:basic_sieving_factory",
   "traits": {},
   "properties": {
     "rotationState": "ALL",
@@ -45,73 +45,73 @@
   "recipeMap": "basic_sieving_machine",
   "basePattern": {
     "structureDir": [
-      "RIGHT",
+      "FRONT",
       "UP",
-      "FRONT"
+      "LEFT"
     ],
     "pattern": [
       [
-        " AAA ",
-        " BCB ",
-        "     ",
-        "     ",
-        "     "
+        "  AABAA",
+        "  ACCCA",
+        "  ACCCA",
+        "  ACCCA",
+        "  AAAAA"
       ],
       [
-        " AAA ",
-        " BDB ",
-        "     ",
-        "     ",
-        "     "
+        "  DAAAA",
+        "  C E C",
+        "  C   C",
+        "  C   C",
+        "  AAAAA"
       ],
       [
-        " AAA ",
-        " BEB ",
-        "     ",
-        "     ",
-        "     "
+        " AAAAAA",
+        " AA   C",
+        " AA   C",
+        " AA   C",
+        " AAAAAA"
       ],
       [
-        " AAA ",
-        " BDB ",
-        "  D  ",
-        "     ",
-        "     "
+        "FFFAGAA",
+        "FFFHIJC",
+        "FFF   C",
+        "FFF   C",
+        "AAAAAAA"
       ],
       [
-        " AAA ",
-        " FGH ",
-        " BIB ",
-        "     ",
-        "     "
+        "FFFKLA@",
+        "FFFH MC",
+        "FFF   C",
+        "FFFNNOC",
+        "AAAAAAA"
       ],
       [
-        " AAA ",
-        " HAH ",
-        " BDB ",
-        "  D  ",
-        "     "
+        "FFFAAAA",
+        "FFFHIJC",
+        "FFF   C",
+        "FFF   C",
+        "AAAAAAA"
       ],
       [
-        " AAA ",
-        " HAH ",
-        " BDB ",
-        " BJB ",
-        "     "
+        " AAAAAA",
+        " AA   C",
+        " AA   C",
+        " AA   C",
+        " AAAAAA"
       ],
       [
-        " AAA ",
-        " HAH ",
-        " HAH ",
-        " BDB ",
-        "     "
+        "  DAAAA",
+        "  C E C",
+        "  C   C",
+        "  C   C",
+        "  AAAAA"
       ],
       [
-        " KLA ",
-        " K@A ",
-        " KMA ",
-        " KAA ",
-        "     "
+        "  AAPAA",
+        "  ACCCA",
+        "  ACCCA",
+        "  ACCCA",
+        "  AAAAA"
       ]
     ],
     "aisleRepetitions": [
@@ -162,13 +162,13 @@
         "type": "blocks"
       },
       "controller": {
-        "location": "chroma:basic_sieving_machine",
+        "location": "chroma:basic_sieving_factory",
         "type": "component"
       },
       "B": {
         "blocks": [
           {
-            "id": "create:andesite_casing"
+            "id": "chroma:create_item_input"
           }
         ],
         "type": "blocks"
@@ -176,7 +176,7 @@
       "C": {
         "blocks": [
           {
-            "id": "chroma:create_item_output"
+            "id": "create:framed_glass"
           }
         ],
         "type": "blocks"
@@ -184,7 +184,10 @@
       "D": {
         "blocks": [
           {
-            "id": "minecraft:water"
+            "id": "chroma:brass_create_input"
+          },
+          {
+            "id": "create:brass_casing"
           }
         ],
         "type": "blocks"
@@ -192,7 +195,7 @@
       "E": {
         "blocks": [
           {
-            "id": "createdeco:netherite_mesh_fence"
+            "id": "create:mechanical_arm"
           }
         ],
         "type": "blocks"
@@ -200,7 +203,7 @@
       "F": {
         "blocks": [
           {
-            "id": "chroma:brass_create_output"
+            "id": "create:fluid_tank"
           }
         ],
         "type": "blocks"
@@ -208,7 +211,7 @@
       "G": {
         "blocks": [
           {
-            "id": "create:flywheel"
+            "id": "minecraft:redstone_block"
           }
         ],
         "type": "blocks"
@@ -216,7 +219,7 @@
       "H": {
         "blocks": [
           {
-            "id": "createdeco:brass_sheet_metal"
+            "id": "create:gearbox"
           }
         ],
         "type": "blocks"
@@ -224,7 +227,7 @@
       "I": {
         "blocks": [
           {
-            "id": "createdeco:zinc_mesh_fence"
+            "id": "create:gearshift"
           }
         ],
         "type": "blocks"
@@ -232,18 +235,15 @@
       "J": {
         "blocks": [
           {
-            "id": "createdeco:iron_mesh_fence"
+            "id": "create:crushing_wheel"
           }
         ],
         "type": "blocks"
       },
-      "air": {
-        "type": "air"
-      },
       "K": {
         "blocks": [
           {
-            "id": "create:fluid_tank"
+            "id": "chroma:brass_create_output"
           }
         ],
         "type": "blocks"
@@ -251,7 +251,7 @@
       "L": {
         "blocks": [
           {
-            "id": "chroma:brass_create_input"
+            "id": "simplylight:illuminant_block"
           }
         ],
         "type": "blocks"
@@ -262,7 +262,31 @@
       "M": {
         "blocks": [
           {
-            "id": "chroma:create_item_input"
+            "id": "create:crushing_wheel_controller"
+          }
+        ],
+        "type": "blocks"
+      },
+      "N": {
+        "blocks": [
+          {
+            "id": "create:fluid_pipe"
+          }
+        ],
+        "type": "blocks"
+      },
+      "O": {
+        "blocks": [
+          {
+            "id": "create:spout"
+          }
+        ],
+        "type": "blocks"
+      },
+      "P": {
+        "blocks": [
+          {
+            "id": "chroma:create_item_output"
           }
         ],
         "type": "blocks"
@@ -314,8 +338,14 @@
       "M": [
         "M"
       ],
-      "-": [
-        "air"
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ],
+      "P": [
+        "P"
       ]
     }
   }
