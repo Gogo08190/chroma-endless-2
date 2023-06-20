@@ -14,8 +14,8 @@ onEvent('recipes', (event) => {
     },
     {
       input: [
-        { ingredient: { item: 'chemlib:nickel_chloride' }, count: 4 },
-        { ingredient: { item: 'chroma:diglycidyl_ether_of_bisphenol_a' }, count: 4 }
+        { ingredient: { item: 'chemlib:nickel_chloride' }, count: 8 },
+        { ingredient: { item: 'chroma:diglycidyl_ether_of_bisphenol_a' }, count: 8 }
       ],
       result: { item: 'chroma:raw_resin', count: 2 },
       id: `${id_prefix}raw_resin`
