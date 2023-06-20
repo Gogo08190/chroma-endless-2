@@ -153,6 +153,165 @@ onEvent('recipes', (event) => {
             },
             id: 'rftoolsutility:crafter3'
         },
+        {
+            output: 'rftoolsutility:matter_beamer',
+            pattern: ['ELE', 'LMS', 'ELE'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                E: 'botania:elementium_ingot',
+                L: 'extendedcrafting:luminessence',
+                S: 'botania:elven_spreader'
+            },
+            id: 'rftoolsutility:matter_beamer'
+        },
+        {
+            output: 'rftoolspower:ender_monitor',
+            pattern: [' E ', 'SMS', 'TRT'],
+            key: {
+                M: 'rftoolsbase:machine_base',
+                T: 'minecraft:redstone_torch',
+                R: 'minecraft:redstone',
+                S: 'thermal:redstone_servo',
+                E: 'rftoolsbase:infused_enderpearl'
+            },
+            id: 'rftoolspower:ender_monitor'
+        },
+        {
+            output: 'rftoolspower:pearl_injector',
+            pattern: ['HBH', 'RMR', 'HOH'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                H: 'immersiveengineering:ingot_hop_graphite',
+                R: 'mekanism:alloy_reinforced',
+                O: 'pneumaticcraft:omnidirectional_hopper',
+                B: Item.of('mekanism:basic_bin').ignoreNBT()
+            },
+            id: 'rftoolspower:pearl_injector'
+        },
+        {
+            output: 'rftoolspower:endergenic',
+            pattern: ['RER', 'IMI', 'RER'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                R: 'mekanism:alloy_reinforced',
+                I: 'rftoolsbase:infused_enderpearl',
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT()
+            },
+            id: 'rftoolspower:endergenic'
+        },
+        {
+            output: 'rftoolspower:blazing_agitator',
+            pattern: ['BBB', 'AMA', 'RER'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                R: 'mekanism:alloy_reinforced',
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                B: 'botania:blaze_block',
+                A: 'forbidden_arcanus:arcane_golden_glass'
+            },
+            id: 'rftoolspower:blazing_agitator'
+        },
+        {
+            output: 'rftoolspower:blazing_infuser',
+            pattern: ['SBS', 'DMD', 'SES'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                S: '#forge:ingots/steel',
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                D: 'rftoolsbase:infused_diamond',
+                B: 'botania:blaze_block'
+            },
+            id: 'rftoolspower:blazing_infuser'
+        },
+        {
+            output: 'rftoolspower:blazing_generator',
+            pattern: ['BDB', 'EME', 'BDB'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                D: 'rftoolsbase:infused_diamond',
+                B: 'minecraft:blaze_rod'
+            },
+            id: 'rftoolspower:blazing_generator'
+        },
+        {
+            output: 'rftoolsutility:matter_transmitter',
+            pattern: ['PWP', 'RMR', 'SES'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                S: '#forge:ingots/steel',
+                R: 'thermal:redstone_servo',
+                P: 'minecraft:ender_pearl',
+                W: Item.of('waystones:warp_stone').weakNBT()
+            },
+            id: 'rftoolsutility:matter_transmitter'
+        },
+        {
+            output: 'rftoolsutility:matter_receiver',
+            pattern: ['SES', 'RMR', 'PWP'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                S: '#forge:ingots/steel',
+                R: 'thermal:redstone_servo',
+                P: 'minecraft:ender_pearl',
+                W: Item.of('waystones:warp_stone').weakNBT()
+            },
+            id: 'rftoolsutility:matter_receiver'
+        },
+        {
+            output: 'rftoolsutility:dialing_device',
+            pattern: ['SRS', 'WMW', 'SES'],
+            key: {
+                M: 'rftoolsbase:machine_frame',
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                S: 'minecraft:redstone',
+                R: 'thermal:redstone_servo',
+                W: Item.of('waystones:warp_stone').weakNBT()
+            },
+            id: 'rftoolsutility:dialing_device'
+        },
+        {
+            output: 'rftoolsutility:charged_porter',
+            pattern: [' I ', 'IWI', 'SES'],
+            key: {
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                W: Item.of('waystones:warp_stone').weakNBT(),
+                I: 'rftoolsbase:infused_enderpearl',
+                S: '#forge:ingots/steel'
+            },
+            id: 'rftoolsutility:charged_porter'
+        },
+        {
+            output: 'rftoolsutility:advanced_charged_porter',
+            pattern: ['IRI', 'RCR', 'IEI'],
+            key: {
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                I: 'rftoolsbase:infused_diamond',
+                R: 'mekanism:alloy_reinforced',
+                C: Item.of('rftoolsutility:charged_porter').weakNBT()
+            },
+            id: 'rftoolsutility:advanced_charged_porter'
+        },
+        {
+            output: 'rftoolsbase:infused_enderpearl',
+            pattern: ['DDD', 'DPD', 'DDD'],
+            key: {
+                P: 'botania:mana_pearl',
+                D: 'rftoolsbase:dimensionalshard'
+            },
+            id: 'rftoolsbase:infused_enderpearl'
+        },
+        {
+            output: 'rftoolsbase:infused_diamond',
+            pattern: ['DDD', 'DMD', 'DDD'],
+            key: {
+                M: 'botania:mana_diamond',
+                D: 'rftoolsbase:dimensionalshard'
+            },
+            id: 'rftoolsbase:infused_diamond'
+        },
     ];
 
     recipes.forEach((recipe) => {
