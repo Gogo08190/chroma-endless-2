@@ -30,13 +30,7 @@
 			x: -1.5d
 			y: 0.5d
 			description: [
-				"FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory."
-				""
-				"&6Right-click&r anywhere in map to create a waypoint."
-				""
-				"&6Right-click&r on waypoints and death points to edit or delete them."
-				""
-				"Click on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading."
+				{chapter.welcome.quest.2.description.2}
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
