@@ -74,7 +74,7 @@ onEvent('recipes', (event) => {
             pattern: ['TRM', 'LPV', 'TAM'],
             key: {
                 T: 'mna:basic_table',
-                R: 'botania:rune_mana',
+                R: 'botania:mana_pearl',
                 M: '#forge:ingots/manasteel',
                 L: 'botania:livingwood_log',
                 P: 'mna:rune_pattern',
