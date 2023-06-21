@@ -69,6 +69,20 @@ onEvent('recipes', (event) => {
             },
             id: 'mna:occulus'
         },
+        {
+            output: 'mna:runescribing_table',
+            pattern: ['TRM', 'LPV', 'TAM'],
+            key: {
+                T: 'mna:basic_table',
+                R: 'botania:rune_mana',
+                M: '#forge:ingots/manasteel',
+                L: 'botania:livingwood_log',
+                P: 'mna:rune_pattern',
+                V: 'mna:superheated_vinteum_ingot',
+                A: 'mna:transmuted_silver'
+            },
+            id: 'mna:runescribing/runescribing_table'
+        },
     ];
 
     recipes.forEach((recipe) => {
