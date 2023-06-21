@@ -1,0 +1,1026 @@
+{
+	id: "2B780B6962F7CF7D"
+	group: ""
+	order_index: 2
+	filename: "stage_2"
+	title: "Stage 2"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 11.0d
+			y: 2.0d
+			dependencies: ["3125B28DBC36530F"]
+			id: "36A47B57CA00D3A9"
+			tasks: [{
+				id: "0AD7B9BED2950392"
+				type: "observation"
+				title: "Look at a complete &6Coke Oven"
+				icon: "immersiveengineering:coke_oven"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:coke_oven"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 1.5d
+			dependencies: ["3125B28DBC36530F"]
+			id: "62E491DE99C883DB"
+			tasks: [{
+				id: "005B4A68EDB17393"
+				type: "observation"
+				title: "Look at a complete &6Alloy Kiln"
+				icon: "immersiveengineering:alloy_smelter"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:alloy_smelter"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 3.5d
+			dependencies: ["36A47B57CA00D3A9"]
+			id: "3A8FD39A74BFEC82"
+			tasks: [{
+				id: "240F37CC63C84AC8"
+				type: "observation"
+				title: "Look at a complete &6Blast Furnace"
+				icon: "immersiveengineering:blast_furnace"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:blast_furnace"
+			}]
+		}
+		{
+			x: 14.5d
+			y: 5.0d
+			dependencies: ["3B7A75A246E2901B"]
+			id: "12F111E653EB49D7"
+			tasks: [{
+				id: "7B8CE4B2A48B4A23"
+				type: "item"
+				item: "immersiveengineering:dynamo"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 5.5d
+			shape: "hexagon"
+			dependencies: ["12F111E653EB49D7"]
+			id: "6999573AAA0BCA7E"
+			tasks: [{
+				id: "5BE581B4724E219C"
+				type: "item"
+				item: "immersiveengineering:windmill"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 4.5d
+			shape: "hexagon"
+			dependencies: ["12F111E653EB49D7"]
+			id: "169DD90F2CB9E99C"
+			tasks: [{
+				id: "38E246E53A1824E6"
+				type: "item"
+				item: "immersiveengineering:watermill"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 5.0d
+			dependencies: ["3A8FD39A74BFEC82"]
+			id: "1DF0F7DDAAFED205"
+			tasks: [{
+				id: "23A1A4540F67E01C"
+				type: "item"
+				item: "immersiveengineering:workbench"
+			}]
+		}
+		{
+			x: 20.5d
+			y: 12.0d
+			dependencies: [
+				"2E1963E47109832F"
+				"72C1D1F2706BBF55"
+				"1A5A8A30F151EAE4"
+			]
+			id: "2E90A31C97E6772E"
+			tasks: [{
+				id: "740ACD4865CA9140"
+				type: "item"
+				item: "compactmachines:wall"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 13.0d
+			shape: "gear"
+			dependencies: ["2E90A31C97E6772E"]
+			id: "4BDF9BFA4CBA1DC9"
+			tasks: [{
+				id: "0F86D2FE14E04F5B"
+				type: "item"
+				item: "compactcrafting:field_projector"
+			}]
+		}
+		{
+			x: 20.5d
+			y: 9.0d
+			shape: "gear"
+			dependencies: [
+				"47F5A21D9347D0FA"
+				"7A3D66E658CEC24D"
+				"5588AE1D76749708"
+				"01EA9408E903745F"
+			]
+			dependency_requirement: "one_completed"
+			id: "0383C24238A24FF5"
+			tasks: [{
+				id: "7268B2807D37E5A0"
+				type: "observation"
+				title: "Look at a complete &6Arc Furnace"
+				icon: "immersiveengineering:arc_furnace"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:arc_furnace"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 5.0d
+			shape: "gear"
+			dependencies: ["7379508342AA6E87"]
+			id: "5399655B3844833B"
+			tasks: [{
+				id: "7724DE7618877AD1"
+				type: "observation"
+				title: "Look at a complete &6Metal Press"
+				icon: "immersiveengineering:metal_press"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:metal_press"
+			}]
+		}
+		{
+			x: 20.5d
+			y: 5.0d
+			dependencies: ["5399655B3844833B"]
+			id: "57A247A0D095A713"
+			tasks: [{
+				id: "427AEF74E58B18DA"
+				type: "item"
+				item: "ae2:sky_compass"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 6.5d
+			shape: "hexagon"
+			dependencies: ["57A247A0D095A713"]
+			id: "4E220E0F28468E0E"
+			tasks: [{
+				id: "36D0DD2130E15500"
+				type: "item"
+				item: "ae2:calculation_processor_press"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 6.5d
+			shape: "hexagon"
+			dependencies: ["57A247A0D095A713"]
+			id: "19BEEEBF323F21CC"
+			tasks: [{
+				id: "61C71126A4438336"
+				type: "item"
+				item: "ae2:engineering_processor_press"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 6.5d
+			shape: "hexagon"
+			dependencies: ["57A247A0D095A713"]
+			id: "15C3063853827D1E"
+			tasks: [{
+				id: "780467912F8078DF"
+				type: "item"
+				item: "ae2:logic_processor_press"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 6.5d
+			shape: "hexagon"
+			dependencies: ["57A247A0D095A713"]
+			id: "1A540A83039A4BDB"
+			tasks: [{
+				id: "553374534B88C075"
+				type: "item"
+				item: "ae2:silicon_press"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 7.5d
+			shape: "hexagon"
+			dependencies: ["1A540A83039A4BDB"]
+			id: "7A3D66E658CEC24D"
+			tasks: [{
+				id: "66751F1A1749C377"
+				type: "item"
+				item: "ae2:printed_silicon"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 7.5d
+			shape: "hexagon"
+			dependencies: ["15C3063853827D1E"]
+			id: "01EA9408E903745F"
+			tasks: [{
+				id: "5A64F16403A8E822"
+				type: "item"
+				item: "ae2:printed_logic_processor"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 7.5d
+			shape: "hexagon"
+			dependencies: ["19BEEEBF323F21CC"]
+			id: "47F5A21D9347D0FA"
+			tasks: [{
+				id: "0304B37AA3C1465E"
+				type: "item"
+				item: "ae2:printed_engineering_processor"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 7.5d
+			shape: "hexagon"
+			dependencies: ["4E220E0F28468E0E"]
+			id: "5588AE1D76749708"
+			tasks: [{
+				id: "4A20AB7CB4B4C31E"
+				type: "item"
+				item: "ae2:printed_calculation_processor"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 10.5d
+			shape: "rsquare"
+			dependencies: ["0383C24238A24FF5"]
+			id: "2E1963E47109832F"
+			tasks: [{
+				id: "1886C743A8A2BC06"
+				type: "item"
+				item: "ae2:calculation_processor"
+			}]
+		}
+		{
+			x: 20.5d
+			y: 10.5d
+			shape: "rsquare"
+			dependencies: ["0383C24238A24FF5"]
+			id: "1A5A8A30F151EAE4"
+			tasks: [{
+				id: "30EF5FB576C9E267"
+				type: "item"
+				item: "ae2:engineering_processor"
+			}]
+		}
+		{
+			x: 21.5d
+			y: 10.5d
+			shape: "rsquare"
+			dependencies: ["0383C24238A24FF5"]
+			id: "72C1D1F2706BBF55"
+			tasks: [{
+				id: "74B802B3497CB8C4"
+				type: "item"
+				item: "ae2:logic_processor"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 13.0d
+			dependencies: ["4BDF9BFA4CBA1DC9"]
+			id: "3E4448B567A6C9FB"
+			tasks: [{
+				id: "71E8F1F83986F185"
+				type: "item"
+				item: "ae2:energy_acceptor"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 14.5d
+			dependencies: ["348A642859B8BA03"]
+			id: "5A24B092050F9126"
+			tasks: [{
+				id: "11A6C9C508E45D55"
+				type: "item"
+				item: "ae2:storage_bus"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 13.0d
+			dependencies: ["435075825CDEB1EA"]
+			id: "348A642859B8BA03"
+			tasks: [{
+				id: "70DF29183934B087"
+				type: "item"
+				item: "ae2:quartz_growth_accelerator"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 13.0d
+			dependencies: ["3E4448B567A6C9FB"]
+			id: "435075825CDEB1EA"
+			tasks: [{
+				id: "1F0B01FEFC273FA8"
+				type: "item"
+				item: "ae2:charger"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 15.5d
+			dependencies: ["5A24B092050F9126"]
+			id: "6D09641708449BA5"
+			tasks: [{
+				id: "78C9F1729ED476F1"
+				type: "item"
+				item: "ae2:terminal"
+			}]
+		}
+		{
+			x: 16.5d
+			y: 15.5d
+			dependencies: ["6D09641708449BA5"]
+			id: "466BD2A63BCCFB37"
+			tasks: [{
+				id: "6B15295AEF10D925"
+				type: "item"
+				item: "ae2:crafting_terminal"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 15.5d
+			shape: "gear"
+			dependencies: ["466BD2A63BCCFB37"]
+			id: "4FD497654B78F06A"
+			tasks: [{
+				id: "392E5A6724DA4ECD"
+				type: "item"
+				item: "mekanism:steel_casing"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 17.0d
+			shape: "rsquare"
+			dependencies: ["440C256F6ADDE5EB"]
+			id: "07880249468AFCF2"
+			tasks: [{
+				id: "1D0EA35225FAEC50"
+				type: "item"
+				item: "mekanism:basic_control_circuit"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 17.0d
+			shape: "rsquare"
+			dependencies: ["440C256F6ADDE5EB"]
+			id: "55D4E4CB80D386B1"
+			tasks: [{
+				id: "29CA847A9244922E"
+				type: "item"
+				item: "mekanism:alloy_infused"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 15.5d
+			dependencies: ["4FD497654B78F06A"]
+			id: "440C256F6ADDE5EB"
+			tasks: [{
+				id: "1AC96ABD3746AEF3"
+				type: "item"
+				item: "mekanism:metallurgic_infuser"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 19.0d
+			shape: "gear"
+			dependencies: [
+				"07880249468AFCF2"
+				"55D4E4CB80D386B1"
+			]
+			id: "039A029B112E4968"
+			tasks: [{
+				id: "466645FFFBFA4CD9"
+				type: "item"
+				item: "mekanism:combiner"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 18.5d
+			dependencies: [
+				"07880249468AFCF2"
+				"55D4E4CB80D386B1"
+			]
+			optional: true
+			id: "707B4706F46C74E8"
+			tasks: [{
+				id: "77EABFBBE7F2EB84"
+				type: "item"
+				item: "mekanism:crusher"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 18.5d
+			dependencies: [
+				"07880249468AFCF2"
+				"55D4E4CB80D386B1"
+			]
+			optional: true
+			id: "636DE9088F9C05CE"
+			tasks: [{
+				id: "66C70EFEF1B69126"
+				type: "item"
+				item: "mekanism:energized_smelter"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 22.0d
+			shape: "rsquare"
+			dependencies: ["61957907C7651D25"]
+			id: "2768C19463C75BA3"
+			tasks: [{
+				id: "5F07813D55C05155"
+				type: "item"
+				item: "blue_skies:charoite"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 22.0d
+			shape: "rsquare"
+			dependencies: ["61957907C7651D25"]
+			id: "6E107C64FA75362B"
+			tasks: [{
+				id: "65F643DABF86E5A7"
+				type: "item"
+				item: "blue_skies:moonstone_shard"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 23.5d
+			shape: "gear"
+			dependencies: [
+				"2768C19463C75BA3"
+				"6E107C64FA75362B"
+			]
+			id: "27323BB58AF0FE83"
+			tasks: [{
+				id: "6AB4BA7A345EB413"
+				type: "item"
+				item: {
+					id: "blue_skies:zeal_lighter"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 19.0d
+			y: 25.0d
+			dependencies: ["27323BB58AF0FE83"]
+			id: "55B4AA98A711328F"
+			tasks: [{
+				id: "6F7F91FC9757A0F9"
+				type: "dimension"
+				icon: "blue_skies:everbright_portal"
+				dimension: "blue_skies:everbright"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 25.0d
+			dependencies: ["27323BB58AF0FE83"]
+			id: "4C6F0300E6E6D3B6"
+			tasks: [{
+				id: "5C0C60777832BB48"
+				type: "dimension"
+				icon: "blue_skies:everdawn_portal"
+				dimension: "blue_skies:everdawn"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 25.0d
+			dependencies: ["4C6F0300E6E6D3B6"]
+			id: "7086ED069AC8A5B8"
+			tasks: [{
+				id: "1798517404C8C78D"
+				type: "item"
+				item: "botania:apothecary_default"
+			}]
+		}
+		{
+			x: 23.5d
+			y: 25.0d
+			dependencies: ["7086ED069AC8A5B8"]
+			id: "6546D195299D1EBD"
+			tasks: [{
+				id: "0903C07A00ADFE25"
+				type: "item"
+				item: "botania:pure_daisy"
+			}]
+		}
+		{
+			x: 25.0d
+			y: 25.5d
+			dependencies: ["6546D195299D1EBD"]
+			id: "443B482619653BF7"
+			tasks: [{
+				id: "4E7732337275369E"
+				type: "item"
+				item: "botania:livingrock"
+			}]
+		}
+		{
+			x: 25.0d
+			y: 24.5d
+			dependencies: ["6546D195299D1EBD"]
+			id: "2AEA88B0F2C05725"
+			tasks: [{
+				id: "417518C3FF13A58C"
+				type: "item"
+				item: "botania:livingwood_log"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 25.0d
+			dependencies: ["443B482619653BF7"]
+			id: "3B9A0BF812ABC8E9"
+			tasks: [{
+				id: "158FB62A930BE7C6"
+				type: "item"
+				item: "botania:diluted_pool"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 23.0d
+			dependencies: ["3B9A0BF812ABC8E9"]
+			id: "2E55C3207AF48ACF"
+			tasks: [{
+				id: "50B01063D5ACB985"
+				type: "item"
+				item: "botania:mana_pool"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 21.5d
+			dependencies: ["2E55C3207AF48ACF"]
+			id: "06854B7C766D8A73"
+			tasks: [{
+				id: "29129306A2775B83"
+				type: "item"
+				item: "botania:endoflame"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 20.0d
+			dependencies: [
+				"06854B7C766D8A73"
+				"388512CE78939690"
+			]
+			dependency_requirement: "one_completed"
+			id: "0C71EE3AAE7D6074"
+			tasks: [{
+				id: "168078BF55BB895F"
+				type: "item"
+				item: "botania:mana_spreader"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 18.5d
+			dependencies: ["0C71EE3AAE7D6074"]
+			id: "04D8E4DADAF56059"
+			tasks: [{
+				id: "20B51F35FE2238E3"
+				type: "item"
+				item: "botania:manasteel_ingot"
+			}]
+		}
+		{
+			x: 29.0d
+			y: 13.5d
+			shape: "gear"
+			dependencies: [
+				"671AE16E7E9B4E0D"
+				"6BBF7E74DA9AD1B2"
+				"630273D976A60B55"
+				"4AC826C9EEDBCFA3"
+			]
+			dependency_requirement: "one_completed"
+			id: "683DB2F4EE7ED1C3"
+			tasks: [{
+				id: "794860803B1676F0"
+				type: "item"
+				item: "mna:runic_anvil"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 17.0d
+			dependencies: ["04D8E4DADAF56059"]
+			id: "7C3DC69937715118"
+			tasks: [{
+				id: "7628FA37F9A6CD3B"
+				type: "item"
+				item: "mna:runescribing_table"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 15.5d
+			dependencies: ["7C3DC69937715118"]
+			id: "4C43B1BB7D64F61A"
+			tasks: [
+				{
+					id: "5B8552DE0AC17D65"
+					type: "item"
+					item: {
+						id: "mna:runesmith_hammer"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4854716F9DFF6C9E"
+					type: "item"
+					item: {
+						id: "mna:runesmith_chisel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "29BAC4704F77587E"
+					type: "item"
+					item: "minecraft:clay_ball"
+				}
+			]
+		}
+		{
+			x: 26.5d
+			y: 13.0d
+			shape: "square"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "6BBF7E74DA9AD1B2"
+			tasks: [{
+				id: "443E2FB2ECAEAE08"
+				type: "item"
+				item: "chroma:rune_pattern_air_rune"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 14.0d
+			shape: "square"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "4AC826C9EEDBCFA3"
+			tasks: [{
+				id: "0F12E50C8684940A"
+				type: "item"
+				item: "chroma:rune_pattern_water_rune"
+			}]
+		}
+		{
+			x: 27.5d
+			y: 14.0d
+			shape: "rsquare"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "630273D976A60B55"
+			tasks: [{
+				id: "6541155B5E638E01"
+				type: "item"
+				item: "chroma:rune_pattern_fire_rune"
+			}]
+		}
+		{
+			x: 27.5d
+			y: 13.0d
+			shape: "rsquare"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "671AE16E7E9B4E0D"
+			tasks: [{
+				id: "771710A44F73A3E7"
+				type: "item"
+				item: "chroma:rune_pattern_earth_rune"
+			}]
+		}
+		{
+			x: 30.5d
+			y: 13.0d
+			shape: "rsquare"
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "6A7CB0F130F71DB6"
+			tasks: [{
+				id: "52CF8E3E7EAD6B93"
+				type: "item"
+				item: "botania:rune_water"
+			}]
+		}
+		{
+			x: 30.5d
+			y: 14.0d
+			shape: "rsquare"
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "57412CCB6CF9D8BB"
+			tasks: [{
+				id: "7521D5E0F116CE0B"
+				type: "item"
+				item: "botania:rune_fire"
+			}]
+		}
+		{
+			x: 31.5d
+			y: 13.0d
+			shape: "rsquare"
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "3BAE5C160C37B005"
+			tasks: [{
+				id: "13E3864E418EE59F"
+				type: "item"
+				item: "botania:rune_earth"
+			}]
+		}
+		{
+			x: 31.5d
+			y: 14.0d
+			shape: "rsquare"
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "2AC94C74009F8D48"
+			tasks: [{
+				id: "30DEE32DE4983720"
+				type: "item"
+				item: "botania:rune_air"
+			}]
+		}
+		{
+			x: 33.5d
+			y: 13.5d
+			dependencies: [
+				"57412CCB6CF9D8BB"
+				"3BAE5C160C37B005"
+				"2AC94C74009F8D48"
+				"6A7CB0F130F71DB6"
+			]
+			id: "7489F01C52411506"
+			tasks: [{
+				id: "0B0D708ABE86E321"
+				type: "item"
+				item: "chroma:runic_core"
+			}]
+		}
+		{
+			x: 35.5d
+			y: 13.5d
+			shape: "gear"
+			dependencies: ["7489F01C52411506"]
+			id: "2B815DF673A39C57"
+			tasks: [{
+				id: "28E22365E0100240"
+				type: "item"
+				item: "botania:runic_altar"
+			}]
+		}
+		{
+			x: 37.0d
+			y: 14.5d
+			dependencies: ["2B815DF673A39C57"]
+			id: "22E39874F58EB90E"
+			tasks: [{
+				id: "201E63805F110550"
+				type: "item"
+				item: "botania:rune_mana"
+			}]
+		}
+		{
+			x: 39.0d
+			y: 14.5d
+			shape: "gear"
+			dependencies: ["22E39874F58EB90E"]
+			id: "50EAC087E5BAF117"
+			tasks: [{
+				id: "32DA6BA7BC606F8D"
+				type: "item"
+				item: "botania:terra_plate"
+			}]
+		}
+		{
+			x: 39.0d
+			y: 13.0d
+			dependencies: ["50EAC087E5BAF117"]
+			id: "02734B9915D7AD67"
+			tasks: [{
+				id: "59AABBC4BBEF4A00"
+				type: "item"
+				item: "botania:terrasteel_ingot"
+			}]
+		}
+		{
+			x: 39.0d
+			y: 11.5d
+			dependencies: ["02734B9915D7AD67"]
+			id: "6B63E59473EAC48E"
+			tasks: [{
+				id: "464933A1BA43B817"
+				type: "dimension"
+				icon: "minecraft:end_portal_frame"
+				dimension: "minecraft:the_end"
+			}]
+		}
+		{
+			x: 11.0d
+			y: 0.5d
+			shape: "gear"
+			id: "3125B28DBC36530F"
+			tasks: [{
+				id: "3CD7977D3545BD61"
+				type: "item"
+				item: {
+					id: "immersiveengineering:hammer"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 13.0d
+			y: 5.0d
+			dependencies: ["1DF0F7DDAAFED205"]
+			id: "3B7A75A246E2901B"
+			tasks: [{
+				id: "511D88B1CB1D4EB4"
+				type: "item"
+				item: {
+					id: "immersiveengineering:wirecutter"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 20.5d
+			dependencies: ["039A029B112E4968"]
+			id: "61957907C7651D25"
+			tasks: [{
+				id: "4AA60A285C2138C1"
+				type: "item"
+				item: "chroma:molten_mana_bucket"
+			}]
+		}
+		{
+			x: 27.5d
+			y: 21.5d
+			dependencies: ["2E55C3207AF48ACF"]
+			optional: true
+			id: "388512CE78939690"
+			tasks: [{
+				id: "4604747060117C77"
+				type: "item"
+				item: "botania:hydroangeas"
+			}]
+		}
+		{
+			x: 38.0d
+			y: 10.5d
+			dependencies: ["6B63E59473EAC48E"]
+			id: "5671138804373AE9"
+			tasks: [{
+				id: "571350701F02785E"
+				type: "item"
+				item: "botania:alfheim_portal"
+			}]
+		}
+		{
+			x: 36.5d
+			y: 10.0d
+			dependencies: ["5671138804373AE9"]
+			id: "119E0C4BAEC5B619"
+			tasks: [{
+				id: "1D59981B5CA2A63D"
+				type: "item"
+				item: "botania:gaia_pylon"
+				count: 4L
+			}]
+		}
+		{
+			x: 35.5d
+			y: 9.0d
+			dependencies: ["119E0C4BAEC5B619"]
+			id: "14E5EBEE823AD723"
+			tasks: [{
+				id: "74F6F56D247163AE"
+				type: "kill"
+				icon: "botania:gaia_head"
+				entity: "botania:doppleganger"
+				value: 1L
+			}]
+		}
+		{
+			x: 35.0d
+			y: 7.5d
+			dependencies: ["14E5EBEE823AD723"]
+			id: "2E8FE3D9F5CE8C97"
+			tasks: [{
+				id: "1C4563D67AD149E0"
+				type: "item"
+				item: "botania:gaia_ingot"
+			}]
+		}
+		{
+			x: 33.5d
+			y: 7.0d
+			shape: "gear"
+			dependencies: ["2E8FE3D9F5CE8C97"]
+			id: "259EE3C9817E98D8"
+			tasks: [{
+				id: "1C82C5C456170D22"
+				type: "item"
+				item: "jamd:mine_portal_block"
+			}]
+		}
+		{
+			x: 16.5d
+			y: 5.0d
+			dependencies: [
+				"6999573AAA0BCA7E"
+				"169DD90F2CB9E99C"
+			]
+			dependency_requirement: "one_completed"
+			id: "7379508342AA6E87"
+			tasks: [{
+				id: "6163C7F39BBE1823"
+				type: "item"
+				title: "Energy Accumulator"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "immersiveengineering:capacitor_lv"
+								Count: 1
+							}
+							{
+								id: "immersiveengineering:capacitor_mv"
+								Count: 1
+							}
+							{
+								id: "immersiveengineering:capacitor_hv"
+								Count: 1
+							}
+						]
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

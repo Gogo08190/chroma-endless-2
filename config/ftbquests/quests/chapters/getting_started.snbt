@@ -379,6 +379,7 @@
 			x: -2.0d
 			y: 15.0d
 			dependencies: ["11BF0FE3A753842C"]
+			optional: true
 			id: "1F3A1F7F18B59F04"
 			tasks: [{
 				id: "6337DC8D717DE7E9"
@@ -390,6 +391,7 @@
 			x: -2.0d
 			y: 13.0d
 			dependencies: ["11BF0FE3A753842C"]
+			optional: true
 			id: "268497529712502D"
 			tasks: [{
 				id: "3CEF0875FDCD8708"
@@ -574,6 +576,210 @@
 				id: "0CFCD05338782488"
 				type: "item"
 				item: "thermal:iron_plate"
+			}]
+		}
+		{
+			title: "Basic Sieving Factory - Part 1"
+			x: 1.5d
+			y: 20.0d
+			shape: "rsquare"
+			dependencies: [
+				"5B3DB3AD5DFE825E"
+				"1C68E87A6A482559"
+				"642157CF55D3063B"
+				"376A8009026F41C5"
+				"02484EBFC5C81FF0"
+			]
+			dependency_requirement: "one_completed"
+			id: "1588AA8B72995FCF"
+			tasks: [
+				{
+					id: "2CF5A1300C626330"
+					type: "item"
+					item: "chroma:basic_sieving_factory"
+				}
+				{
+					id: "6A7B74C492EEF126"
+					type: "item"
+					item: "chroma:brass_create_input"
+				}
+				{
+					id: "139D7955D9A8B8D6"
+					type: "item"
+					item: "chroma:brass_create_output"
+				}
+				{
+					id: "7FA04B1BCDF0FAFD"
+					type: "item"
+					item: "chroma:create_item_input"
+				}
+				{
+					id: "2DC79200635AEFC5"
+					type: "item"
+					item: "chroma:create_item_output"
+				}
+			]
+		}
+		{
+			title: "Basic Sieving Factory - Part 2"
+			x: 2.5d
+			y: 20.0d
+			shape: "rsquare"
+			dependencies: [
+				"5B3DB3AD5DFE825E"
+				"1C68E87A6A482559"
+				"642157CF55D3063B"
+				"376A8009026F41C5"
+				"02484EBFC5C81FF0"
+			]
+			dependency_requirement: "one_completed"
+			id: "45F0BA653454872B"
+			tasks: [
+				{
+					id: "4826FF750463A215"
+					type: "item"
+					item: "minecraft:redstone_block"
+				}
+				{
+					id: "07D4E10F1C2CE6FC"
+					type: "item"
+					item: "create:brass_casing"
+					count: 115L
+				}
+				{
+					id: "3F93904F47E16FA3"
+					type: "item"
+					item: "create:fluid_pipe"
+					count: 2L
+				}
+				{
+					id: "18231C447AF0B1CC"
+					type: "item"
+					item: "create:fluid_tank"
+					count: 36L
+				}
+				{
+					id: "109CF35BE5FDA8F0"
+					type: "item"
+					item: "create:framed_glass"
+					count: 45L
+				}
+				{
+					id: "0D3B68EC8A5965AC"
+					type: "item"
+					item: "create:gearbox"
+					count: 3L
+				}
+				{
+					id: "45ED6665FE966615"
+					type: "item"
+					item: "create:gearshift"
+					count: 2L
+				}
+				{
+					id: "6A2772D3E525CA1B"
+					type: "item"
+					item: "create:mechanical_arm"
+					count: 2L
+				}
+				{
+					id: "510E07FD588B2931"
+					type: "item"
+					item: "create:spout"
+				}
+				{
+					id: "6AE7DDD4631416B1"
+					type: "item"
+					item: "create:crushing_wheel"
+					count: 2L
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 21.5d
+			shape: "gear"
+			dependencies: [
+				"1588AA8B72995FCF"
+				"45F0BA653454872B"
+			]
+			id: "5C99AD007A190A5F"
+			tasks: [{
+				id: "4CCFBAB7556B8B44"
+				type: "checkmark"
+				title: "Basic Sieving Factory"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 18.0d
+			shape: "diamond"
+			dependencies: ["142D6BCB3BE8D394"]
+			id: "5B3DB3AD5DFE825E"
+			tasks: [{
+				id: "0AE2383114DB7A7D"
+				type: "item"
+				item: "chroma:raw_feranicalumite"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 18.5d
+			shape: "diamond"
+			dependencies: ["142D6BCB3BE8D394"]
+			id: "642157CF55D3063B"
+			tasks: [{
+				id: "11E00D3151930587"
+				type: "item"
+				item: "chroma:raw_cuperargentite"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 18.0d
+			shape: "diamond"
+			dependencies: ["142D6BCB3BE8D394"]
+			id: "1C68E87A6A482559"
+			tasks: [{
+				id: "39F8A9B102D4B4D0"
+				type: "item"
+				item: "chroma:raw_aurizincite"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 19.0d
+			shape: "diamond"
+			dependencies: ["142D6BCB3BE8D394"]
+			id: "376A8009026F41C5"
+			tasks: [{
+				id: "20757BAA22F086B7"
+				type: "item"
+				item: "chroma:raw_cobalrite"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 18.5d
+			shape: "diamond"
+			dependencies: ["142D6BCB3BE8D394"]
+			id: "02484EBFC5C81FF0"
+			tasks: [{
+				id: "7198287C4D74BBFF"
+				type: "item"
+				item: "chroma:raw_leadurosmate"
+			}]
+		}
+		{
+			x: -9.0d
+			y: 19.5d
+			shape: "gear"
+			dependencies: ["377DB2567C732682"]
+			id: "074364154FA6B832"
+			tasks: [{
+				id: "241BEFC9DE8B66AC"
+				type: "item"
+				item: "mna:runeforge"
 			}]
 		}
 	]
