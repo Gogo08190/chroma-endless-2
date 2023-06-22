@@ -3,6 +3,6 @@
   "recipes.lychee.item_inside.moonstone.condition.description": "Converts around Midnight (13:20 - 16:40). Reverts if left out too long...",
 
   "chapter.1.quest.1.description.1": "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n Hello This is a Test\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
-  "chapter.welcome.quest.2.description.2" : 
-  "FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory. \n &6Right-click&r anywhere in map to create a waypoint. \n &6Right-click&r on waypoints and death points to edit or delete them. \n Click on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading"
+  "chapter.welcome.quest.2.description.2" :
+  "FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory. \n\n&6Right-click&r anywhere in map to create a waypoint. \n\n&6Right-click&r on waypoints and death points to edit or delete them. \n\nClick on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading"
 }
