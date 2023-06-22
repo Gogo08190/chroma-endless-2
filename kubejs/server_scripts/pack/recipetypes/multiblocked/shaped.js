@@ -41,6 +41,38 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}create_item_input`
         },
+        {
+            output: 'chroma:energy_coke_input',
+            pattern: ['CHC', 'HAH', 'CHC'],
+            key: {
+                C: 'immersiveengineering:coil_hv',
+                H: '#forge:ingots/hop_graphite',
+                A: 'immersiveengineering:capacitor_hv'
+            },
+            id: `${id_prefix}energy_coke_input`
+        },
+        {
+            output: 'chroma:coke_item_input',
+            pattern: ['CHC', 'SAS', 'CHC'],
+            key: {
+                C: 'immersiveengineering:radiator',
+                H: '#forge:ingots/steel',
+                A: 'immersiveengineering:crate',
+                S: 'immersiveengineering:component_steel'
+            },
+            id: `${id_prefix}coke_item_input`
+        },
+        {
+            output: 'chroma:coke_item_output',
+            pattern: ['CSC', 'HAH', 'CSC'],
+            key: {
+                C: 'immersiveengineering:radiator',
+                H: '#forge:ingots/steel',
+                A: 'immersiveengineering:crate',
+                S: 'immersiveengineering:component_steel'
+            },
+            id: `${id_prefix}coke_item_output`
+        },
     ];
 
     recipes.forEach((recipe) => {
