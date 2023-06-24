@@ -101,7 +101,7 @@ onEvent('recipes', (event) => {
             id: 'tiab:time_in_a_bottle'
         },
         {
-            output: Item.of('botania:terra_plate', 1),
+            output: 'botania:terra_plate',
             pattern: ['LLL', 'WBF', 'EMA'],
             key: {
                 B: 'botania:manasteel_block',
@@ -113,6 +113,18 @@ onEvent('recipes', (event) => {
                 W: 'botania:rune_water'
             },
             id: 'botania:terra_plate'
+        },
+        {
+            output: 'chroma:coke',
+            pattern: ['CCECC', 'CSBSC', 'EBRBE', 'CSBSC', 'CCECC'],
+            key: {
+                C: 'immersiveengineering:cokebrick',
+                E: '#forge:storage_blocks/coal_coke',
+                S: '#forge:plates/steel',
+                B: 'immersiveengineering:heavy_engineering',
+                R: 'immersiveengineering:rs_engineering'
+            },
+            id: `${id_prefix}coke`
         },
     ];
 

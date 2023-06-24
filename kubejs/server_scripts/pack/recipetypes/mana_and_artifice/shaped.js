@@ -73,13 +73,13 @@ onEvent('recipes', (event) => {
             output: 'mna:runescribing_table',
             pattern: ['TRM', 'LPV', 'TAM'],
             key: {
-                T: 'mna:basic_table',
+                T: 'mna:transmuted_silver',
                 R: 'botania:mana_pearl',
                 M: '#forge:ingots/manasteel',
                 L: 'botania:livingwood_log',
                 P: 'mna:rune_pattern',
                 V: 'mna:superheated_vinteum_ingot',
-                A: 'mna:transmuted_silver'
+                A: 'mna:basic_table'
             },
             id: 'mna:runescribing/runescribing_table'
         },
