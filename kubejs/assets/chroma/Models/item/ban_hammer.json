@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "chroma:item/diamond_block",
-		"1": "chroma:item/handle",
-		"particle": "chroma:item/diamond_block"
+		"0": "chroma:item/ban_hammer/diamond_block",
+		"1": "chroma:item/ban_hammer/handle",
+		"particle": "chroma:item/ban_hammer/diamond_block"
 	},
 	"elements": [
 		{
@@ -695,8 +695,12 @@
 		},
 		"gui": {
 			"rotation": [0, 0, -38],
-			"translation": [-65, 23.75, 0],
+			"translation": [-3, -5, 0],
 			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"rotation": [0, 0, 56],
+			"translation": [20.25, 0, 0]
 		},
 		"fixed": {
 			"rotation": [0, 0, 45],
