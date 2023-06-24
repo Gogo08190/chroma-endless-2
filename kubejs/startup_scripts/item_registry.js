@@ -50,7 +50,8 @@ onEvent('item.registry', (event) => {
       'rune_pattern_earth_rune',
       'resin_plate',
       'raw_resin',
-      'diglycidyl_ether_of_bisphenol_a'
+      'diglycidyl_ether_of_bisphenol_a',
+      'ban_hammer'
     ];
 
     items.forEach((item) => {
