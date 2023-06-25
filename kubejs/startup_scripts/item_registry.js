@@ -52,7 +52,7 @@ onEvent('item.registry', (event) => {
       'raw_resin',
       'diglycidyl_ether_of_bisphenol_a',
       'ban_hammer',
-      'incomplete__basic_sieving_factory_controller'
+      'incomplete_basic_sieving_factory_controller'
     ];
 
     items.forEach((item) => {
