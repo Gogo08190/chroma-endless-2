@@ -2,7 +2,25 @@
   "recipes.lychee.item_inside.charoite.condition.description": "Converts around Noon (3:20 - 6:40). Reverts if left out too long...",
   "recipes.lychee.item_inside.moonstone.condition.description": "Converts around Midnight (13:20 - 16:40). Reverts if left out too long...",
 
-  "chapter.1.quest.1.description.1": "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n Hello This is a Test\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
-  "chapter.welcome.quest.2.description.1" :
-  "FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory. \n\n&6Right-click&r anywhere in map to create a waypoint. \n\n&6Right-click&r on waypoints and death points to edit or delete them. \n\nClick on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading"
+  "chapter.welcome.quest.1.description.1": "BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use.",
+  "chapter.welcome.quest.1.description.2": "Use the code &l&bCHROMATECH&r to get 25% off your first month as a new customer for one of their game servers.",
+  "chapter.welcome.quest.1.description.3" : "Promo code : &l&aCHROMATECH&r",
+  "chapter.welcome.quest.2.description.1" : "FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory. \n\n&6Right-click&r anywhere in map to create a waypoint. \n\n&6Right-click&r on waypoints and death points to edit or delete them. \n\nClick on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading",
+  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r is a very useful mod for mining.",
+  "chapter.welcome.quest.3.description.2" : "Indeed, with the ² key (by default) you will see a &nwhite outline&r that we will call the &c&lUltimine Zone&r which represents what you will mine.",
+  "chapter.welcome.quest.3.description.3" : "This &c&lUltimine Zone&r can be changed. In fact you can see that, if you keep pressing the ² key + mouse scrolling, you can change the shape of this zone and find the one that suits you best.",
+  "chapter.welcome.quest.4.description.1" : "To share your quests with your friends, you need to create a team.",
+  "chapter.welcome.quest.4.description.2" : "To do this, execute this command :",
+  "chapter.welcome.quest.4.description.3" : "To invite your friends, execute this command :",
+  "chapter.welcome.quest.4.description.4" : "Your friends just have to accept, and you are now in a team.",
+  "chapter.welcome.quest.5.description.1" : "In fact a &8quest&r by default does not require a &7&ldependancy&r so you can do it right now or later, up to you to decide.",
+  "chapter.welcome.quest.5.description.2" : "As you can see, the majority of quests does need a &7&ldependancy&r. In order to unlock them, you can click on the &4&l&nFlashing Red Arrow&r to list the needed &7&ldependancy&r or &7&ldependancies&r.",
+  "chapter.welcome.quest.6.description.1" : "&aSpice of Life: Carrot Edition&r keeps track of how many unique foods a player has eaten. As they pass certain milestone amounts of unique foods, they permanently gain new hearts, increasing their max health! In order to max out their HP bars, players will have to quest for and craft exotic foods.",
+  "chapter.welcome.quest.7.description.1" : "On &bGogo08's Discord server&r, you will find support channels for Chroma Endless 2.",
+  "chapter.welcome.quest.7.description.2" : "It's a french community server, but you can also speak english, the community and staff will most certainly try to help you.",
+  "chapter.welcome.quest.7.description.3" : "Gogo08's Discord server.",
+  "chapter.welcome.quest.8.description.1" : "On this website you will find more informations about &6&lChroma Endless 2&r, the Chroma Team and our other modpacks.",
+  "chapter.welcome.quest.8.description.2" : "Here is a list of what can be found:",
+  "chapter.welcome.quest.8.description.3" : "→ Who developped this modpack and their descriptions.",
+  "chapter.welcome.quest.8.description.4" : "→ The other packs developped by the Chroma Team."
 }
