@@ -31,7 +31,7 @@ onEvent('recipes', (event) => {
         output: 'industrialforegoing:fluid_extractor',
           pattern: ['BLB', 'SWS', 'BMB'],
           key: {
-              B: '#c:cobblestone',
+              B: '#forge:cobblestone',
               L: 'powah:capacitor_hardened',
               S: '#chipped:iron_bars',
               W: 'industrialforegoing:machine_frame_pity',
