@@ -1,7 +1,7 @@
 {
 	id: "506A7A584B7B548B"
-	group: ""
-	order_index: 1
+	group: "23866070F89333B0"
+	order_index: 0
 	filename: "getting_started"
 	title: "Getting Started"
 	icon: "create:mechanical_arm"
@@ -11,7 +11,9 @@
 		{
 			x: 0.0d
 			y: 0.5d
+			shape: "gear"
 			dependencies: ["51B5C098A8CFF70E"]
+			size: 1.5d
 			id: "3263C29C09B86AF7"
 			tasks: [{
 				id: "7A205C3F68069BC8"
@@ -358,6 +360,7 @@
 			}]
 		}
 		{
+			title: "Tinker Tables"
 			x: -1.0d
 			y: 14.0d
 			dependencies: ["6516060435BF41D9"]
@@ -422,6 +425,7 @@
 			}]
 		}
 		{
+			title: "Melter"
 			x: -5.5d
 			y: 12.0d
 			dependencies: ["3D4738E1C70F1B3F"]
@@ -450,6 +454,7 @@
 			]
 		}
 		{
+			title: "Smeltery"
 			x: -7.0d
 			y: 12.0d
 			dependencies: ["0EF8F6301113033D"]
@@ -523,9 +528,9 @@
 			}]
 		}
 		{
-			x: -8.5d
-			y: 17.5d
-			dependencies: ["06AB00266C840215"]
+			x: -10.5d
+			y: 19.0d
+			dependencies: ["44677FAB528C2D42"]
 			id: "377DB2567C732682"
 			tasks: [{
 				id: "4E4EE0CB7E8F1786"
@@ -534,10 +539,10 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 19.0d
+			x: -9.0d
+			y: 17.5d
 			shape: "gear"
-			dependencies: ["377DB2567C732682"]
+			dependencies: ["06AB00266C840215"]
 			id: "44677FAB528C2D42"
 			tasks: [{
 				id: "2B226DB52047FC73"
@@ -771,10 +776,10 @@
 			}]
 		}
 		{
-			x: -9.0d
-			y: 19.5d
+			x: -7.5d
+			y: 18.5d
 			shape: "gear"
-			dependencies: ["377DB2567C732682"]
+			dependencies: ["44677FAB528C2D42"]
 			id: "074364154FA6B832"
 			tasks: [{
 				id: "241BEFC9DE8B66AC"

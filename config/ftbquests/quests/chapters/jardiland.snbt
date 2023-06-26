@@ -1,0 +1,1088 @@
+{
+	id: "7B8C6C7A16413EA3"
+	group: "6E1FC0F5596E1533"
+	order_index: 2
+	filename: "jardiland"
+	title: "Jardiland(mysterBoy en cour)"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -40.0d
+			y: -32.0d
+			id: "2929FD55AACE54F0"
+			tasks: [{
+				id: "744643F9A7633F1C"
+				type: "item"
+				item: "evilcraft:undead_sapling"
+			}]
+		}
+		{
+			x: -38.5d
+			y: -32.0d
+			id: "0C6EF7451769D714"
+			tasks: [{
+				id: "0965AC94B86382B0"
+				type: "item"
+				item: "forbidden_arcanus:cherrywood_sapling"
+			}]
+		}
+		{
+			x: -38.5d
+			y: -31.0d
+			id: "1ED9304DF0F0F075"
+			tasks: [{
+				id: "44EDD6E1D9BF9A7E"
+				type: "item"
+				item: "forbidden_arcanus:mysterywood_sapling"
+			}]
+		}
+		{
+			x: -37.0d
+			y: -32.0d
+			id: "428FEBC15A1C9398"
+			tasks: [{
+				id: "1EFFA257DA1739C8"
+				type: "item"
+				item: "pizzacraft:olive_sapling"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -32.0d
+			id: "3669ED18EAA51183"
+			tasks: [{
+				id: "7E73FB0F9A90513E"
+				type: "item"
+				item: "minecraft:oak_sapling"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -31.0d
+			id: "64375E88B144CE99"
+			tasks: [{
+				id: "382D36F80D0A6B54"
+				type: "item"
+				item: "minecraft:spruce_sapling"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -30.0d
+			id: "196B0479DEEDD790"
+			tasks: [{
+				id: "228B3A75A8A0ECDE"
+				type: "item"
+				item: "minecraft:birch_sapling"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -29.0d
+			id: "24B43A3DBFB81C35"
+			tasks: [{
+				id: "73AEF44CE1623EB2"
+				type: "item"
+				item: "minecraft:jungle_sapling"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -28.0d
+			id: "60B405A0FBF66923"
+			tasks: [{
+				id: "3339F5456F279151"
+				type: "item"
+				item: "minecraft:acacia_sapling"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -27.0d
+			id: "55D5CCD2FBA6F4D8"
+			tasks: [{
+				id: "5BFF874CD69F63BC"
+				type: "item"
+				item: "minecraft:dark_oak_sapling"
+			}]
+		}
+		{
+			x: -34.0d
+			y: -32.0d
+			id: "2B393D139FE0F2C7"
+			tasks: [{
+				id: "2606F1AF53E01ECB"
+				type: "item"
+				item: "architects_palette:twisted_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -32.0d
+			id: "783038E534AE33DC"
+			tasks: [{
+				id: "6F9E1BD6F79DA6A1"
+				type: "item"
+				item: "blue_skies:bluebright_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -31.0d
+			id: "6176439042A0E7C4"
+			tasks: [{
+				id: "594C833A38CD2DAF"
+				type: "item"
+				item: "blue_skies:starlit_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -30.0d
+			id: "1A9FDD69BED2FDE7"
+			tasks: [{
+				id: "097C468465E94815"
+				type: "item"
+				item: "blue_skies:frostbright_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -29.0d
+			id: "496CE05815C62195"
+			tasks: [{
+				id: "4DF9FBAE0765671A"
+				type: "item"
+				item: "blue_skies:lunar_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -28.0d
+			id: "7145A09287CAC57E"
+			tasks: [{
+				id: "0087F602F5E970F5"
+				type: "item"
+				item: "blue_skies:dusk_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -27.0d
+			id: "4362D5AF6D07F267"
+			tasks: [{
+				id: "252D296F53551830"
+				type: "item"
+				item: "blue_skies:maple_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -26.0d
+			id: "566370282D5B32E5"
+			tasks: [{
+				id: "487FA451337ED805"
+				type: "item"
+				item: "blue_skies:cherry_sapling"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -25.0d
+			id: "0EDCBD5EC530079F"
+			tasks: [{
+				id: "5AFC174C3E07EDE0"
+				type: "item"
+				item: "blue_skies:crescent_fruit_sapling"
+			}]
+		}
+		{
+			x: -31.0d
+			y: -32.0d
+			id: "0309FB8BBA8F4E58"
+			tasks: [{
+				id: "15E4DBE6611251CD"
+				type: "item"
+				item: "tconstruct:earth_slime_sapling"
+			}]
+		}
+		{
+			x: -31.0d
+			y: -31.0d
+			id: "23980ACB3870E3AF"
+			tasks: [{
+				id: "185548E21D1649A1"
+				type: "item"
+				item: "tconstruct:sky_slime_sapling"
+			}]
+		}
+		{
+			x: -31.0d
+			y: -30.0d
+			id: "0C5A28195FC43AF8"
+			tasks: [{
+				id: "45A8705C8F3E82EB"
+				type: "item"
+				item: "tconstruct:ender_slime_sapling"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -32.0d
+			id: "4EFA647E7C9A8437"
+			tasks: [{
+				id: "2457DC55884BA067"
+				type: "item"
+				item: "quark:blue_blossom_sapling"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -31.0d
+			id: "672F578DBC90C771"
+			tasks: [{
+				id: "4BEAD8EF16B4E16B"
+				type: "item"
+				item: "quark:lavender_blossom_sapling"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -30.0d
+			id: "57B76463E616ABFA"
+			tasks: [{
+				id: "7E14CE7C48E16018"
+				type: "item"
+				item: "quark:orange_blossom_sapling"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -29.0d
+			id: "54F1D2625D26E87C"
+			tasks: [{
+				id: "3A1A87EE1FC5F642"
+				type: "item"
+				item: "quark:pink_blossom_sapling"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -28.0d
+			id: "7278CA5B44D4D83A"
+			tasks: [{
+				id: "67E8810851C2511A"
+				type: "item"
+				item: "quark:yellow_blossom_sapling"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -27.0d
+			id: "6A519CB661EA11A6"
+			tasks: [{
+				id: "794A4DB44CDFB12D"
+				type: "item"
+				item: "quark:red_blossom_sapling"
+			}]
+		}
+		{
+			x: -28.0d
+			y: -32.0d
+			id: "044D129C72A6334C"
+			tasks: [{
+				id: "787BBCA3EC116838"
+				type: "item"
+				item: "sushigocrafting:avocado_sapling"
+			}]
+		}
+		{
+			x: -26.5d
+			y: -32.0d
+			id: "7FCA1D481CF215A4"
+			tasks: [{
+				id: "7DAD8713E1EC1E6C"
+				type: "item"
+				item: "undergarden:smogstem_sapling"
+			}]
+		}
+		{
+			x: -26.5d
+			y: -31.0d
+			id: "31F14E3F5104B5AB"
+			tasks: [{
+				id: "5C73E29D01CBCE0B"
+				type: "item"
+				item: "undergarden:wigglewood_sapling"
+			}]
+		}
+		{
+			x: -26.5d
+			y: -30.0d
+			id: "5F52B2592D9A445C"
+			tasks: [{
+				id: "1DD729120DD67039"
+				type: "item"
+				item: "undergarden:grongle_sapling"
+			}]
+		}
+		{
+			x: -37.5d
+			y: -22.5d
+			id: "07C87BCFCF4CB0DA"
+			tasks: [{
+				id: "6103499D1EE6605E"
+				type: "item"
+				item: "minecraft:pumpkin_pie"
+			}]
+		}
+		{
+			x: -36.5d
+			y: -22.5d
+			id: "06E2289389898043"
+			tasks: [{
+				id: "64242B9CF2F7C68C"
+				type: "item"
+				item: "minecraft:golden_carrot"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -22.5d
+			id: "13DD61D032C022C1"
+			tasks: [{
+				id: "3B85647BE3237C7C"
+				type: "item"
+				item: "minecraft:rabbit"
+			}]
+		}
+		{
+			x: -34.5d
+			y: -22.5d
+			id: "20A013F17A87CC7C"
+			tasks: [{
+				id: "1E2D4F81AB2A90CB"
+				type: "item"
+				item: "minecraft:cooked_rabbit"
+			}]
+		}
+		{
+			x: -33.5d
+			y: -22.5d
+			id: "657C8A8EAFD187DC"
+			tasks: [{
+				id: "2BBB53D2185C36A5"
+				type: "item"
+				item: "minecraft:rabbit_stew"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -22.5d
+			id: "55CEC0D4F94AD563"
+			tasks: [{
+				id: "593845187B54C885"
+				type: "item"
+				item: "minecraft:mutton"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -22.5d
+			id: "70F322DDB4442562"
+			tasks: [{
+				id: "70C52FD0AD98E5C4"
+				type: "item"
+				item: "minecraft:cooked_mutton"
+			}]
+		}
+		{
+			x: -30.5d
+			y: -22.5d
+			id: "0341C47AC78B4165"
+			tasks: [{
+				id: "564BAE778B2D6522"
+				type: "item"
+				item: "minecraft:chorus_fruit"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -22.5d
+			id: "4A403FCCC301A70F"
+			tasks: [{
+				id: "6DD90F1BD6E23966"
+				type: "item"
+				item: "minecraft:beetroot"
+			}]
+		}
+		{
+			x: -37.5d
+			y: -21.5d
+			id: "1BD90289E0F6A56C"
+			tasks: [{
+				id: "287D5B2A8F0AC306"
+				type: "item"
+				item: "minecraft:pumpkin"
+			}]
+		}
+		{
+			x: -36.5d
+			y: -21.5d
+			id: "652AFA79FADB26A4"
+			tasks: [{
+				id: "304E495F752F7262"
+				type: "item"
+				item: "minecraft:melon"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -21.5d
+			id: "4F22BF927897312C"
+			tasks: [{
+				id: "6C5E00008FBC8931"
+				type: "item"
+				item: "minecraft:apple"
+			}]
+		}
+		{
+			x: -34.5d
+			y: -21.5d
+			id: "61944FD437D1292A"
+			tasks: [{
+				id: "1E521F4C81D816F5"
+				type: "item"
+				item: "minecraft:mushroom_stew"
+			}]
+		}
+		{
+			x: -33.5d
+			y: -21.5d
+			id: "40A919D5F286DDED"
+			tasks: [{
+				id: "56C0F21D8BA154B1"
+				type: "item"
+				item: "minecraft:bread"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -21.5d
+			id: "683E8D6149CC26EB"
+			tasks: [{
+				id: "73397DEAFAEA2E9F"
+				type: "item"
+				item: "minecraft:porkchop"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -21.5d
+			id: "5F33FACC634CCF84"
+			tasks: [{
+				id: "77CA45F9F6F7496C"
+				type: "item"
+				item: "minecraft:cooked_porkchop"
+			}]
+		}
+		{
+			x: -30.5d
+			y: -21.5d
+			id: "177E7B937A336573"
+			tasks: [{
+				id: "1CE462A065BCBBFB"
+				type: "item"
+				item: "minecraft:golden_apple"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -21.5d
+			id: "12D9684011A41C3A"
+			tasks: [{
+				id: "5E13DAF2349CC65A"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
+			}]
+		}
+		{
+			x: -37.5d
+			y: -20.5d
+			id: "5CB6BB4505A22233"
+			tasks: [{
+				id: "0D7DB7918FFAB1E8"
+				type: "item"
+				item: "minecraft:milk_bucket"
+			}]
+		}
+		{
+			x: -36.5d
+			y: -20.5d
+			id: "0755BC74A2277954"
+			tasks: [{
+				id: "7D5E53C3E4AD340B"
+				type: "item"
+				item: "minecraft:cod"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -20.5d
+			id: "134B5934BCA3DA5E"
+			tasks: [{
+				id: "1FFD94B29E6DE52C"
+				type: "item"
+				item: "minecraft:salmon"
+			}]
+		}
+		{
+			x: -34.5d
+			y: -20.5d
+			id: "4E73C39287DCFCE9"
+			tasks: [{
+				id: "40389F16C379231E"
+				type: "item"
+				item: "minecraft:tropical_fish"
+			}]
+		}
+		{
+			x: -33.5d
+			y: -20.5d
+			id: "3A3DA8CDEE9F6599"
+			tasks: [{
+				id: "27CBF957533693E3"
+				type: "item"
+				item: "minecraft:pufferfish"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -20.5d
+			id: "056C33E52D0E9C70"
+			tasks: [{
+				id: "691FF00E950C4535"
+				type: "item"
+				item: "minecraft:cooked_cod"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -20.5d
+			id: "6680F65A578C0EDD"
+			tasks: [{
+				id: "0702691A64321E06"
+				type: "item"
+				item: "minecraft:cooked_salmon"
+			}]
+		}
+		{
+			x: -30.5d
+			y: -20.5d
+			id: "04B705D5F3246BCF"
+			tasks: [{
+				id: "6424F9C14E1088A6"
+				type: "item"
+				item: "minecraft:cake"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -20.5d
+			id: "50F80CD49F6D576D"
+			tasks: [{
+				id: "425FC6DA955A3381"
+				type: "item"
+				item: "minecraft:cookie"
+			}]
+		}
+		{
+			x: -37.5d
+			y: -19.5d
+			id: "28A719B1335C5F5B"
+			tasks: [{
+				id: "4AEFD8B04A3BC756"
+				type: "item"
+				item: "minecraft:melon_slice"
+			}]
+		}
+		{
+			x: -36.5d
+			y: -19.5d
+			id: "7CBC5E87ED0EED60"
+			tasks: [{
+				id: "500B6056AB0DC499"
+				type: "item"
+				item: "minecraft:dried_kelp"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -19.5d
+			id: "40609D541083F401"
+			tasks: [{
+				id: "11A3D9A62BC75F55"
+				type: "item"
+				item: "minecraft:beef"
+			}]
+		}
+		{
+			x: -34.5d
+			y: -19.5d
+			id: "790CAECE251900EC"
+			tasks: [{
+				id: "0A02A503E5B7A9D7"
+				type: "item"
+				item: "minecraft:cooked_beef"
+			}]
+		}
+		{
+			x: -33.5d
+			y: -19.5d
+			id: "10E36687001BD6B8"
+			tasks: [{
+				id: "28E81CF3FCC8C1E4"
+				type: "item"
+				item: "minecraft:chicken"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -19.5d
+			id: "1F91735A0F781226"
+			tasks: [{
+				id: "40FA1219D91C6E05"
+				type: "item"
+				item: "minecraft:cooked_chicken"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -19.5d
+			id: "7085E36C27FDF02D"
+			tasks: [{
+				id: "20C27399C9A41DEE"
+				type: "item"
+				item: "minecraft:carrot"
+			}]
+		}
+		{
+			x: -30.5d
+			y: -19.5d
+			id: "4940F801F583F8CC"
+			tasks: [{
+				id: "6EDB451EFF75A08E"
+				type: "item"
+				item: "minecraft:potato"
+			}]
+		}
+		{
+			x: -29.5d
+			y: -19.5d
+			id: "38151FBE1B337292"
+			tasks: [{
+				id: "387C5A2CC1FCF3F6"
+				type: "item"
+				item: "minecraft:baked_potato"
+			}]
+		}
+		{
+			x: -37.5d
+			y: -18.5d
+			id: "5223D898A78D02E9"
+			tasks: [{
+				id: "4A913231E1AC71D4"
+				type: "item"
+				item: "minecraft:beetroot_soup"
+			}]
+		}
+		{
+			x: -36.5d
+			y: -18.5d
+			id: "2455359F61438725"
+			tasks: [{
+				id: "70CDD0700082DF3F"
+				type: "item"
+				item: "minecraft:sweet_berries"
+			}]
+		}
+		{
+			x: -35.5d
+			y: -18.5d
+			id: "11477B9305A00DB0"
+			tasks: [{
+				id: "16940FF2C95B9F65"
+				type: "item"
+				item: "minecraft:glow_berries"
+			}]
+		}
+		{
+			x: -34.5d
+			y: -18.5d
+			id: "7757B19447FE444D"
+			tasks: [{
+				id: "0F7DC173C5DD3A62"
+				type: "item"
+				item: "minecraft:honey_bottle"
+			}]
+		}
+		{
+			x: -27.0d
+			y: -22.5d
+			id: "020C4E34ECC3D5DC"
+			tasks: [{
+				id: "07C0FA66E385216A"
+				type: "item"
+				item: "aquaculture:atlantic_cod"
+			}]
+		}
+		{
+			x: -26.0d
+			y: -22.5d
+			id: "3A0D31C2343677ED"
+			tasks: [{
+				id: "072F9D8CCA6615FC"
+				type: "item"
+				item: "aquaculture:sushi"
+			}]
+		}
+		{
+			x: -25.0d
+			y: -22.5d
+			id: "148BC1782C520C52"
+			tasks: [{
+				id: "2E3B89783D399F83"
+				type: "item"
+				item: "aquaculture:turtle_soup"
+			}]
+		}
+		{
+			x: -24.0d
+			y: -22.5d
+			id: "1E896F68BA9503A7"
+			tasks: [{
+				id: "5C85D01E03F4A928"
+				type: "item"
+				item: "aquaculture:frog_legs_cooked"
+			}]
+		}
+		{
+			x: -23.0d
+			y: -22.5d
+			id: "25FD1237689F8713"
+			tasks: [{
+				id: "00D4163B1E10D574"
+				type: "item"
+				item: "aquaculture:frog_legs_raw"
+			}]
+		}
+		{
+			x: -22.0d
+			y: -22.5d
+			id: "64774DFDD024CAE0"
+			tasks: [{
+				id: "3419361EC24DFB3E"
+				type: "item"
+				item: "aquaculture:fish_fillet_cooked"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -22.5d
+			id: "708ABBB7ED3F2D93"
+			tasks: [{
+				id: "42EA2590C3384FA2"
+				type: "item"
+				item: "aquaculture:fish_fillet_raw"
+			}]
+		}
+		{
+			x: -20.0d
+			y: -22.5d
+			id: "1B29E34B3A2F14B9"
+			tasks: [{
+				id: "388255BFAC4C3F1F"
+				type: "item"
+				item: "aquaculture:algae"
+			}]
+		}
+		{
+			x: -19.0d
+			y: -22.5d
+			id: "1F6C931AC0F4A24F"
+			tasks: [{
+				id: "22572808C339F99E"
+				type: "item"
+				item: "aquaculture:tuna"
+			}]
+		}
+		{
+			x: -27.0d
+			y: -21.5d
+			id: "7950F1571C4BF839"
+			tasks: [{
+				id: "49BFE29CE184CF6E"
+				type: "item"
+				item: "aquaculture:red_grouper"
+			}]
+		}
+		{
+			x: -26.0d
+			y: -21.5d
+			id: "0DAB39C43E08ECFC"
+			tasks: [{
+				id: "68438C69454592B5"
+				type: "item"
+				item: "aquaculture:red_shrooma"
+			}]
+		}
+		{
+			x: -25.0d
+			y: -21.5d
+			id: "43805E696C14E1F4"
+			tasks: [{
+				id: "23B14FF7D635E637"
+				type: "item"
+				item: "aquaculture:brown_shrooma"
+			}]
+		}
+		{
+			x: -24.0d
+			y: -21.5d
+			id: "3EF904999928E6B8"
+			tasks: [{
+				id: "3026746AEE5A0412"
+				type: "item"
+				item: "aquaculture:tambaqui"
+			}]
+		}
+		{
+			x: -23.0d
+			y: -21.5d
+			id: "441DFF7EA952C677"
+			tasks: [{
+				id: "4E06DCCB9F0EB4E3"
+				type: "item"
+				item: "aquaculture:piranha"
+			}]
+		}
+		{
+			x: -22.0d
+			y: -21.5d
+			id: "2FF4D695783DD11A"
+			tasks: [{
+				id: "5D6D8C90BE4013A5"
+				type: "item"
+				item: "aquaculture:perch"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -21.5d
+			id: "20FAA7255E55C8DD"
+			tasks: [{
+				id: "7E5AF999138D4296"
+				type: "item"
+				item: "aquaculture:arapaima"
+			}]
+		}
+		{
+			x: -20.0d
+			y: -21.5d
+			id: "09B25BDF4B1CFFA4"
+			tasks: [{
+				id: "425FBAF730B273F8"
+				type: "item"
+				item: "aquaculture:muskellunge"
+			}]
+		}
+		{
+			x: -19.0d
+			y: -21.5d
+			id: "2664C08F7DF01707"
+			tasks: [{
+				id: "510A8554C28DCE2C"
+				type: "item"
+				item: {
+					id: "aquaculture:minnow"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -27.0d
+			y: -20.5d
+			id: "2D0438DF98898F5E"
+			tasks: [{
+				id: "128B963584D3EE63"
+				type: "item"
+				item: "aquaculture:gar"
+			}]
+		}
+		{
+			x: -26.0d
+			y: -20.5d
+			id: "0EAB7E76C4D968D0"
+			tasks: [{
+				id: "3C9BC5F5832FBAFB"
+				type: "item"
+				item: "aquaculture:catfish"
+			}]
+		}
+		{
+			x: -25.0d
+			y: -20.5d
+			id: "076A5B0608452551"
+			tasks: [{
+				id: "6039EF46A17AC1BA"
+				type: "item"
+				item: "aquaculture:carp"
+			}]
+		}
+		{
+			x: -24.0d
+			y: -20.5d
+			id: "29925DDEDD424176"
+			tasks: [{
+				id: "0591D0F0E1570037"
+				type: "item"
+				item: "aquaculture:brown_trout"
+			}]
+		}
+		{
+			x: -23.0d
+			y: -20.5d
+			id: "0FD99F8D1CA5EA30"
+			tasks: [{
+				id: "2D8F25EB6D000EF4"
+				type: "item"
+				item: "aquaculture:bluegill"
+			}]
+		}
+		{
+			x: -22.0d
+			y: -20.5d
+			id: "6D2BE12A8238FBB9"
+			tasks: [{
+				id: "5B31D5E0F785925C"
+				type: "item"
+				item: "aquaculture:smallmouth_bass"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -20.5d
+			id: "3269CE0C803D512B"
+			tasks: [{
+				id: "04FA609142EEBDEF"
+				type: "item"
+				item: "aquaculture:synodontis"
+			}]
+		}
+		{
+			x: -20.0d
+			y: -20.5d
+			id: "32946742C9930EAA"
+			tasks: [{
+				id: "759D53C4DC1955E4"
+				type: "item"
+				item: "aquaculture:capitaine"
+			}]
+		}
+		{
+			x: -19.0d
+			y: -20.5d
+			id: "3AE14BC2CA00391D"
+			tasks: [{
+				id: "568915B228780B9D"
+				type: "item"
+				item: "aquaculture:boulti"
+			}]
+		}
+		{
+			x: -27.0d
+			y: -19.5d
+			id: "48C062B4132E806D"
+			tasks: [{
+				id: "4B77FE9B540D7DF3"
+				type: "item"
+				item: "aquaculture:bayad"
+			}]
+		}
+		{
+			x: -26.0d
+			y: -19.5d
+			id: "794BE48F7E2C67D0"
+			tasks: [{
+				id: "5A45F4E2010C0F59"
+				type: "item"
+				item: "aquaculture:rainbow_trout"
+			}]
+		}
+		{
+			x: -25.0d
+			y: -19.5d
+			id: "654BCD2DFCE8A2FF"
+			tasks: [{
+				id: "5B45545E51017A08"
+				type: "item"
+				item: "aquaculture:pollock"
+			}]
+		}
+		{
+			x: -24.0d
+			y: -19.5d
+			id: "185B809864151A7B"
+			tasks: [{
+				id: "7755E724087E803F"
+				type: "item"
+				item: "aquaculture:pink_salmon"
+			}]
+		}
+		{
+			x: -23.0d
+			y: -19.5d
+			id: "24061F0E5C231681"
+			tasks: [{
+				id: "44BF62A699A6070D"
+				type: "item"
+				item: "aquaculture:atlantic_herring"
+			}]
+		}
+		{
+			x: -22.0d
+			y: -19.5d
+			id: "30369E572C7E561C"
+			tasks: [{
+				id: "78182941EC0F5920"
+				type: "item"
+				item: "aquaculture:atlantic_halibut"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -19.5d
+			id: "28AB2C7BCA43D65C"
+			tasks: [{
+				id: "78669E296F98F0D8"
+				type: "item"
+				item: "aquaculture:pacific_halibut"
+			}]
+		}
+		{
+			x: -20.0d
+			y: -19.5d
+			id: "46CADA1B90864BBD"
+			tasks: [{
+				id: "135444D60DD8FCE2"
+				type: "item"
+				item: "aquaculture:blackfish"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

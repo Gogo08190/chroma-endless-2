@@ -1,15 +1,22 @@
 {
 	id: "2B780B6962F7CF7D"
-	group: ""
-	order_index: 2
+	group: "23866070F89333B0"
+	order_index: 1
 	filename: "stage_2"
 	title: "Stage 2"
+	icon: {
+		id: "immersiveengineering:hammer"
+		Count: 1
+		tag: {
+			Damage: 0
+		}
+	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 11.0d
-			y: 2.0d
+			x: 9.5d
+			y: 1.5d
 			dependencies: ["3125B28DBC36530F"]
 			id: "36A47B57CA00D3A9"
 			tasks: [{
@@ -23,8 +30,8 @@
 			}]
 		}
 		{
-			x: 10.0d
-			y: 1.5d
+			x: 8.0d
+			y: 1.0d
 			dependencies: ["3125B28DBC36530F"]
 			id: "62E491DE99C883DB"
 			tasks: [{
@@ -38,8 +45,8 @@
 			}]
 		}
 		{
-			x: 11.5d
-			y: 3.5d
+			x: 10.0d
+			y: 3.0d
 			dependencies: ["36A47B57CA00D3A9"]
 			id: "3A8FD39A74BFEC82"
 			tasks: [{
@@ -53,8 +60,8 @@
 			}]
 		}
 		{
-			x: 14.5d
-			y: 5.0d
+			x: 13.0d
+			y: 4.5d
 			dependencies: ["3B7A75A246E2901B"]
 			id: "12F111E653EB49D7"
 			tasks: [{
@@ -64,8 +71,8 @@
 			}]
 		}
 		{
-			x: 15.5d
-			y: 5.5d
+			x: 14.0d
+			y: 5.0d
 			shape: "hexagon"
 			dependencies: ["12F111E653EB49D7"]
 			id: "6999573AAA0BCA7E"
@@ -76,8 +83,8 @@
 			}]
 		}
 		{
-			x: 15.5d
-			y: 4.5d
+			x: 14.0d
+			y: 4.0d
 			shape: "hexagon"
 			dependencies: ["12F111E653EB49D7"]
 			id: "169DD90F2CB9E99C"
@@ -88,8 +95,8 @@
 			}]
 		}
 		{
-			x: 11.5d
-			y: 5.0d
+			x: 10.0d
+			y: 4.5d
 			dependencies: ["3A8FD39A74BFEC82"]
 			id: "1DF0F7DDAAFED205"
 			tasks: [{
@@ -148,10 +155,14 @@
 			}]
 		}
 		{
-			x: 18.0d
+			x: 17.0d
 			y: 5.0d
 			shape: "gear"
-			dependencies: ["7379508342AA6E87"]
+			dependencies: [
+				"6999573AAA0BCA7E"
+				"169DD90F2CB9E99C"
+			]
+			dependency_requirement: "one_completed"
 			id: "5399655B3844833B"
 			tasks: [{
 				id: "7724DE7618877AD1"
@@ -329,9 +340,12 @@
 			}]
 		}
 		{
-			x: 14.0d
+			x: 15.0d
 			y: 13.0d
-			dependencies: ["435075825CDEB1EA"]
+			dependencies: [
+				"3E4448B567A6C9FB"
+				"435075825CDEB1EA"
+			]
 			id: "348A642859B8BA03"
 			tasks: [{
 				id: "70DF29183934B087"
@@ -340,9 +354,12 @@
 			}]
 		}
 		{
-			x: 15.5d
-			y: 13.0d
-			dependencies: ["3E4448B567A6C9FB"]
+			x: 14.0d
+			y: 12.0d
+			dependencies: [
+				"16EC93F4101F247F"
+				"0D9276F1C221C682"
+			]
 			id: "435075825CDEB1EA"
 			tasks: [{
 				id: "1F0B01FEFC273FA8"
@@ -545,8 +562,8 @@
 			}]
 		}
 		{
-			x: 23.5d
-			y: 25.0d
+			x: 22.5d
+			y: 23.5d
 			dependencies: ["7086ED069AC8A5B8"]
 			id: "6546D195299D1EBD"
 			tasks: [{
@@ -556,8 +573,8 @@
 			}]
 		}
 		{
-			x: 25.0d
-			y: 25.5d
+			x: 24.0d
+			y: 24.0d
 			dependencies: ["6546D195299D1EBD"]
 			id: "443B482619653BF7"
 			tasks: [{
@@ -567,8 +584,8 @@
 			}]
 		}
 		{
-			x: 25.0d
-			y: 24.5d
+			x: 24.0d
+			y: 23.0d
 			dependencies: ["6546D195299D1EBD"]
 			id: "2AEA88B0F2C05725"
 			tasks: [{
@@ -578,8 +595,8 @@
 			}]
 		}
 		{
-			x: 26.5d
-			y: 25.0d
+			x: 25.5d
+			y: 23.5d
 			dependencies: ["443B482619653BF7"]
 			id: "3B9A0BF812ABC8E9"
 			tasks: [{
@@ -871,9 +888,11 @@
 			}]
 		}
 		{
-			x: 11.0d
-			y: 0.5d
+			x: 9.5d
+			y: -0.5d
 			shape: "gear"
+			dependencies: ["44677FAB528C2D42"]
+			size: 1.5d
 			id: "3125B28DBC36530F"
 			tasks: [{
 				id: "3CD7977D3545BD61"
@@ -888,8 +907,8 @@
 			}]
 		}
 		{
-			x: 13.0d
-			y: 5.0d
+			x: 11.5d
+			y: 4.5d
 			dependencies: ["1DF0F7DDAAFED205"]
 			id: "3B7A75A246E2901B"
 			tasks: [{
@@ -987,12 +1006,9 @@
 			}]
 		}
 		{
-			x: 16.5d
-			y: 5.0d
-			dependencies: [
-				"6999573AAA0BCA7E"
-				"169DD90F2CB9E99C"
-			]
+			x: 12.5d
+			y: 8.0d
+			dependencies: ["55E7C7CB89308F66"]
 			dependency_requirement: "one_completed"
 			id: "7379508342AA6E87"
 			tasks: [{
@@ -1019,6 +1035,156 @@
 						]
 					}
 				}
+			}]
+		}
+		{
+			x: 15.5d
+			y: 8.5d
+			dependencies: ["792CF5A76F057B55"]
+			id: "4420897B0A0E24F6"
+			tasks: [{
+				id: "4486B56633B55060"
+				type: "observation"
+				title: "Look at a complete &6Refinery"
+				icon: "immersiveengineering:refinery"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:refinery"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 7.0d
+			dependencies: ["5399655B3844833B"]
+			id: "792CF5A76F057B55"
+			tasks: [{
+				id: "544DD24AAF70E387"
+				type: "observation"
+				title: "Look at a complete &6Fermenter"
+				icon: "immersiveengineering:fermenter"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:fermenter"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 10.5d
+			dependencies: ["1844BB8ABB0EB755"]
+			id: "723407EA53E21AA9"
+			tasks: [{
+				id: "06DA82B60EE2CE0F"
+				type: "observation"
+				title: "Look at a complete &6Bottling Machine"
+				icon: "immersiveengineering:bottling_machine"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:bottling_machine"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 10.5d
+			dependencies: ["723407EA53E21AA9"]
+			id: "16EC93F4101F247F"
+			tasks: [{
+				id: "551449B4EDDC8ABA"
+				type: "item"
+				item: "immersiveengineering:plate_duroplast"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 9.5d
+			dependencies: ["4420897B0A0E24F6"]
+			id: "1844BB8ABB0EB755"
+			tasks: [{
+				id: "4C564865CE2AD975"
+				type: "item"
+				item: "immersiveengineering:phenolic_resin_bucket"
+			}]
+		}
+		{
+			title: "Improved Coke Oven"
+			x: 17.5d
+			y: 3.0d
+			shape: "gear"
+			dependencies: ["5399655B3844833B"]
+			id: "3B91255318311593"
+			tasks: [
+				{
+					id: "74DEBAEA233987A6"
+					type: "item"
+					item: "chroma:coke"
+				}
+				{
+					id: "6A91B2DBEC8ABE13"
+					type: "item"
+					item: "chroma:coke_item_input"
+				}
+				{
+					id: "6540B97A50A17CC2"
+					type: "item"
+					item: "chroma:coke_item_output"
+				}
+				{
+					id: "5927186CA86EE2EC"
+					type: "item"
+					item: "chroma:energy_coke_input"
+				}
+				{
+					id: "05D4B179B3141E0B"
+					type: "item"
+					item: "immersiveengineering:cokebrick"
+					count: 48L
+				}
+				{
+					id: "74BEE1913BF6FBFE"
+					type: "item"
+					item: "immersiveengineering:heavy_engineering"
+					count: 5L
+				}
+				{
+					id: "49BE4C047FF722D5"
+					type: "item"
+					item: "chipped:shroomlight_12"
+					count: 4L
+				}
+				{
+					id: "33DAC504DA0C2AD0"
+					type: "item"
+					item: "ae2:sky_stone_tank"
+				}
+			]
+		}
+		{
+			x: 14.5d
+			y: 6.5d
+			dependencies: ["5399655B3844833B"]
+			id: "55E7C7CB89308F66"
+			tasks: [{
+				id: "6009310C36253A47"
+				type: "observation"
+				title: "Look at a complete &6Mixer"
+				icon: "immersiveengineering:mixer"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:mixer"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 10.0d
+			dependencies: ["5399655B3844833B"]
+			id: "0D9276F1C221C682"
+			tasks: [{
+				id: "118695236B013C69"
+				type: "observation"
+				title: "Look at a complete &6Industrial Squeezer"
+				icon: "immersiveengineering:squeezer"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:squeezer"
 			}]
 		}
 	]

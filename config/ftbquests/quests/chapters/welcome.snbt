@@ -30,7 +30,8 @@
 			x: -1.5d
 			y: 0.5d
 			description: [
-				{chapter.welcome.quest.2.description.2}
+				"{chapter.welcome.quest.2.description.1}"
+				""
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
@@ -52,15 +53,15 @@
 			x: 1.5d
 			y: 0.5d
 			description: [
-				"To share your quests with your friends, you need to create a team."
+				"{chapter.welcome.quest.4.description.1}"
 				""
-				"To do this, execute this command :"
+				"{chapter.welcome.quest.4.description.2}"
 				"&a/ftbteams party create"
 				""
-				"To invite your friends, execute this command :"
+				"{chapter.welcome.quest.4.description.3}"
 				"&b/ftbteams party invite &dName"
 				""
-				"Your friends just have to accept, and you are now in a team."
+				"{chapter.welcome.quest.4.description.4}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
@@ -82,11 +83,11 @@
 			x: 2.0d
 			y: -1.0d
 			description: [
-				"&6&lUltimine&r is a very useful mod for mining."
+				"{chapter.welcome.quest.3.description.1}"
 				""
-				"Indeed, with the ² key (by default) you will see a &nwhite outline&r that we will call the &c&lUltimine Zone&r which represents what you will mine. "
+				"{chapter.welcome.quest.3.description.2}"
 				""
-				"This &c&lUltimine Zone&r can be changed. In fact you can see that, if you keep pressing the ² key, you can change the shape of this zone and find the one that suits you best."
+				"{chapter.welcome.quest.3.description.3}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
@@ -107,11 +108,11 @@
 			}
 			x: 0.0d
 			y: -3.0d
-			subtitle: "Promo code : &l&aCHROMATECH&r   "
+			subtitle: "{chapter.welcome.quest.1.description.3}"
 			description: [
-				"BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use."
+				"{chapter.welcome.quest.1.description.1}"
 				""
-				"Use the code \"&l&bCHROMATECH&r\" to get 25% off your first month as a new customer for one of their game servers."
+				"{chapter.welcome.quest.1.description.2}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
@@ -132,11 +133,11 @@
 			}
 			x: -1.5d
 			y: -2.5d
-			subtitle: "Gogo08's Discord server."
+			subtitle: "{chapter.welcome.quest.7.description.3}"
 			description: [
-				"On Gogo08's Discord server, you will find support channels for Chroma Endless."
+				"{chapter.welcome.quest.7.description.1}"
 				""
-				"It's a french community server, but you can also speak english, the community and staff will most certainly try to help you."
+				"{chapter.welcome.quest.7.description.2}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
@@ -158,9 +159,9 @@
 			x: 0.0d
 			y: 1.0d
 			description: [
-				"In fact a &8quest&r by default does not require a &7&ldependancy&r so you can do it right now or later, up to you to decide."
+				"{chapter.welcome.quest.5.description.1}"
 				""
-				"As you can see, the majority of quests does need a &7&ldependancy&r. In order to unlock them, you can click on the &0&l&nGrey Arrow&r to list the needed &7&ldependancy&r or &7&ldependancies&r."
+				"{chapter.welcome.quest.5.description.2}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
@@ -175,7 +176,7 @@
 			icon: "solcarrot:food_book"
 			x: -2.0d
 			y: -1.0d
-			description: ["&aSpice of Life: Carrot Edition&r keeps track of how many unique foods a player has eaten. As they pass certain milestone amounts of unique foods, they permanently gain new hearts, increasing their max health! In order to max out their HP bars, players will have to quest for and craft exotic foods."]
+			description: ["{chapter.welcome.quest.6.description.1}"]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300
 			id: "3179B9A387543ED7"
@@ -247,13 +248,14 @@
 			y: -2.5d
 			subtitle: "Chroma Team's website."
 			description: [
-				"On this website you will find more informations about Chroma Endless, the Chroma Team and our other modpacks."
+				"{chapter.welcome.quest.8.description.1}"
 				""
-				"Here is a list of what can be found:"
-				"→ Who developped this modpack and their descriptions."
-				"→ The other packs developped by the Chroma Team."
+				"{chapter.welcome.quest.8.description.2}"
+				"{chapter.welcome.quest.8.description.3}"
+				"{chapter.welcome.quest.8.description.4}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
 			id: "01E66ADE4784AF98"
 			tasks: [{
 				id: "586FF051DBF56368"

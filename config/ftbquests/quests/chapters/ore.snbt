@@ -1,0 +1,1257 @@
+{
+	id: "4FEF37CCE2F93D53"
+	group: "6E1FC0F5596E1533"
+	order_index: 1
+	filename: "ore"
+	title: "Ore(mysterBoy en cour)"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -8.5d
+			y: -2.5d
+			id: "043F7FBBEE20ED7D"
+			tasks: [{
+				id: "49734535619F35D8"
+				type: "item"
+				title: "Any #forge:ores/niter"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/niter"
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -2.5d
+			id: "513F14E085949B41"
+			tasks: [{
+				id: "1AD3F75D57EFFAFC"
+				type: "item"
+				item: "thermal:niter"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.5d
+			id: "6AA6E3C1EEAE4E46"
+			tasks: [{
+				id: "60DEC7934DCB8F7F"
+				type: "item"
+				title: "Any #forge:ores/sulfur"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/sulfur"
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -1.5d
+			id: "2B2500846DDC3894"
+			tasks: [{
+				id: "074121763412BAD9"
+				type: "item"
+				item: "thermal:sulfur"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -2.5d
+			id: "22E1DB98DD658B8D"
+			tasks: [{
+				id: "0B6FE36E78F55990"
+				type: "item"
+				title: "Any #evilcraft:dark_ores"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "evilcraft:dark_ores"
+					}
+				}
+			}]
+		}
+		{
+			x: 12.5d
+			y: -2.5d
+			id: "460AB7DC9AA78CB6"
+			tasks: [{
+				id: "258496A597C2FE63"
+				type: "item"
+				item: "evilcraft:dark_gem"
+			}]
+		}
+		{
+			x: 14.0d
+			y: -2.5d
+			id: "6CCF3DC7B336E39C"
+			tasks: [{
+				id: "576C0077DB57E75F"
+				type: "item"
+				title: "Any #forge:ores/dimensional_shard"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/dimensional_shard"
+					}
+				}
+			}]
+		}
+		{
+			x: 15.0d
+			y: -2.5d
+			id: "00D1F81B99E34ACE"
+			tasks: [{
+				id: "333E0F0052D4BBB3"
+				type: "item"
+				item: "rftoolsbase:dimensionalshard"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -2.5d
+			id: "2631C164265766D2"
+			tasks: [{
+				id: "49D8F19C0744D78D"
+				type: "item"
+				title: "Any #forge:ores/coal"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/coal"
+					}
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: -2.5d
+			id: "49B49A156B50EF9D"
+			tasks: [{
+				id: "7011B976DB93ED0F"
+				type: "item"
+				item: "minecraft:coal"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -2.5d
+			id: "7FA51B5EE4E0720B"
+			tasks: [{
+				id: "0C02FECDC3A9A1CB"
+				type: "item"
+				title: "Any #forge:ores/certus_quartz"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/certus_quartz"
+					}
+				}
+			}]
+		}
+		{
+			x: 17.5d
+			y: -2.5d
+			id: "522855D64BE07CC4"
+			tasks: [
+				{
+					id: "7ED0E3A79A5F9EBA"
+					type: "item"
+					item: "ae2:certus_quartz_dust"
+				}
+				{
+					id: "26148D2C88B0AD15"
+					type: "item"
+					item: "ae2:certus_quartz_crystal"
+				}
+			]
+		}
+		{
+			x: 19.0d
+			y: -2.5d
+			id: "5798AE65D186265E"
+			tasks: [{
+				id: "7E9BB3BFAAA0BA79"
+				type: "item"
+				title: "Any #forge:ores/draconium"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/draconium"
+					}
+				}
+			}]
+		}
+		{
+			x: 20.0d
+			y: -2.5d
+			id: "72884FDA5AFF1E4C"
+			tasks: [{
+				id: "5D6080D50FC525A7"
+				type: "item"
+				item: "draconicevolution:draconium_dust"
+			}]
+		}
+		{
+			x: 21.0d
+			y: -2.5d
+			id: "57D95260596E5360"
+			tasks: [{
+				id: "24841DBF85E65959"
+				type: "item"
+				item: "draconicevolution:draconium_ingot"
+			}]
+		}
+		{
+			x: -17.5d
+			y: -2.5d
+			id: "369E52D283FB138C"
+			tasks: [{
+				id: "481A97F5B91B7537"
+				type: "item"
+				title: "Any #blue_skies:ores/moonstone"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "blue_skies:ores/moonstone"
+					}
+				}
+			}]
+		}
+		{
+			x: -16.5d
+			y: -2.5d
+			id: "5407B6E2C0EECE81"
+			tasks: [{
+				id: "5FFD97175DB96590"
+				type: "item"
+				item: "blue_skies:moonstone_shard"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -2.5d
+			id: "0487F920D4C88F08"
+			tasks: [{
+				id: "52FA10D28E10BDB9"
+				type: "item"
+				item: "blue_skies:moonstone"
+			}]
+		}
+		{
+			x: -17.5d
+			y: -1.5d
+			id: "265E75601DB905FD"
+			tasks: [{
+				id: "6EC107526144CD02"
+				type: "item"
+				item: "blue_skies:raw_horizonite"
+			}]
+		}
+		{
+			x: -16.5d
+			y: -1.5d
+			id: "4F486F0E3F998A8E"
+			tasks: [{
+				id: "51EFABDECF5206CA"
+				type: "item"
+				item: "blue_skies:horizonite_ingot"
+			}]
+		}
+		{
+			x: -17.5d
+			y: -0.5d
+			id: "0C6098AE2E4C4252"
+			tasks: [{
+				id: "5574D69276900467"
+				type: "item"
+				item: "blue_skies:raw_falsite"
+			}]
+		}
+		{
+			x: -16.5d
+			y: -0.5d
+			id: "636E18545D37F44B"
+			tasks: [{
+				id: "18B5D0B272FE8AA9"
+				type: "item"
+				item: "blue_skies:falsite_ingot"
+			}]
+		}
+		{
+			x: -17.5d
+			y: 0.5d
+			id: "1AEF43417BD792C3"
+			tasks: [{
+				id: "1B2F1325125C1177"
+				type: "item"
+				item: "blue_skies:raw_aquite"
+			}]
+		}
+		{
+			x: -16.5d
+			y: 0.5d
+			id: "21CF57748476BF25"
+			tasks: [{
+				id: "31A4221198312E42"
+				type: "item"
+				item: "blue_skies:aquite"
+			}]
+		}
+		{
+			x: -17.5d
+			y: 1.5d
+			id: "45E1CB28E025C719"
+			tasks: [{
+				id: "5EC66B14F9366A3F"
+				type: "item"
+				item: "blue_skies:raw_ventium"
+			}]
+		}
+		{
+			x: -16.5d
+			y: 1.5d
+			id: "391B5C66F7829C79"
+			tasks: [{
+				id: "2E26E55329B0FB1C"
+				type: "item"
+				item: "blue_skies:ventium_ingot"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 4.5d
+			id: "63E5019A700ABAFF"
+			tasks: [{
+				id: "4E3026A0E45D71EE"
+				type: "item"
+				item: "thermal:cinnabar_ore"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 4.5d
+			id: "40A4EFF75665BF54"
+			tasks: [{
+				id: "35E48C4515737599"
+				type: "item"
+				item: "thermal:cinnabar"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -1.5d
+			id: "6059EAE4DB73AC5A"
+			tasks: [{
+				id: "15830536D3E96790"
+				type: "item"
+				item: "minecraft:raw_iron"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -1.5d
+			id: "44EB5959703199B6"
+			tasks: [{
+				id: "7865BC5C86E6091D"
+				type: "item"
+				item: "minecraft:iron_ingot"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -2.5d
+			id: "222E61ED122FA6B0"
+			tasks: [{
+				id: "2BF5F4112E594B19"
+				type: "item"
+				item: "mekanism:fluorite_ore"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -2.5d
+			id: "5EE4C8C7E0831B0B"
+			tasks: [{
+				id: "35268C50EC3EE2AC"
+				type: "item"
+				item: "mekanism:fluorite_gem"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 3.5d
+			id: "30FF4A5AE6450358"
+			tasks: [{
+				id: "1032F0D81D620F23"
+				type: "item"
+				item: "thermal:raw_tin"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 3.5d
+			id: "63F53D968B399C8D"
+			tasks: [{
+				id: "5280C93D14D1D2B6"
+				type: "item"
+				item: "thermal:tin_ingot"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -0.5d
+			id: "2A83B383FC719748"
+			tasks: [{
+				id: "0C9549594E81F471"
+				type: "item"
+				item: "minecraft:lapis_ore"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -0.5d
+			id: "0DB02A4222578EA6"
+			tasks: [{
+				id: "342D9D293D768B72"
+				type: "item"
+				item: "minecraft:lapis_lazuli"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -1.5d
+			id: "668168231A60455E"
+			tasks: [{
+				id: "6AF2AF283DACBF14"
+				type: "item"
+				item: "mekanism:raw_osmium"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -1.5d
+			id: "08A0BFFBF3DB0032"
+			tasks: [{
+				id: "2ACCE0FEBA358BD8"
+				type: "item"
+				item: "mekanism:ingot_osmium"
+			}]
+		}
+		{
+			x: -11.5d
+			y: 0.5d
+			id: "4996F7AE623AB4F2"
+			tasks: [{
+				id: "29EC7CB6CE12C0C7"
+				type: "item"
+				item: "minecraft:raw_copper"
+			}]
+		}
+		{
+			x: -10.5d
+			y: 0.5d
+			id: "2512F5B08B372DF9"
+			tasks: [{
+				id: "51978B146C42B7B6"
+				type: "item"
+				item: "minecraft:copper_ingot"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.5d
+			id: "344F8DD360081A83"
+			tasks: [{
+				id: "201174D61B8C6275"
+				type: "item"
+				title: "Any #forge:ores/inferium"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/inferium"
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			id: "1B377A56F6C32063"
+			tasks: [{
+				id: "5EECF467A3FE5CF2"
+				type: "item"
+				item: "mysticalagriculture:inferium_essence"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -2.5d
+			id: "136D01A997D8EBF9"
+			tasks: [{
+				id: "59580DD45CA2A250"
+				type: "item"
+				title: "Any #forge:ores/uranium"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/uranium"
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -2.5d
+			id: "79279D7A7CC12B85"
+			tasks: [{
+				id: "71FDEEDD5C76AC4B"
+				type: "item"
+				item: "biggerreactors:uranium_ingot"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			id: "1B13338E7A8BD547"
+			tasks: [{
+				id: "7141793F6A6A59C7"
+				type: "item"
+				item: "immersiveengineering:raw_aluminum"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -1.5d
+			id: "5231E2061BF06BF7"
+			tasks: [{
+				id: "5A1A3B32B4A5B646"
+				type: "item"
+				item: "immersiveengineering:ingot_aluminum"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 2.5d
+			id: "2A7CE055A622CB29"
+			tasks: [{
+				id: "671EF48A3CE9FC83"
+				type: "item"
+				title: "Any #forge:ores/apatite"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/apatite"
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 2.5d
+			id: "134CC03D30F7EE0B"
+			tasks: [{
+				id: "70A3D0A87F27D4ED"
+				type: "item"
+				item: "thermal:apatite"
+			}]
+		}
+		{
+			x: -14.0d
+			y: 0.5d
+			id: "43B434D4ADDED8A8"
+			tasks: [{
+				id: "15901F89D6FE5A14"
+				type: "item"
+				item: "undergarden:raw_cloggrum"
+			}]
+		}
+		{
+			x: -13.0d
+			y: 0.5d
+			id: "0DD6B84A0DFC10F6"
+			tasks: [{
+				id: "03C637BB6EB38A13"
+				type: "item"
+				item: "undergarden:cloggrum_ingot"
+			}]
+		}
+		{
+			x: -17.5d
+			y: 2.5d
+			id: "6F7A515A5DF81C9B"
+			tasks: [{
+				id: "45A6E7EAA2F45ABD"
+				type: "item"
+				title: "Any #blue_skies:ores/pyrope"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "blue_skies:ores/pyrope"
+					}
+				}
+			}]
+		}
+		{
+			x: -16.5d
+			y: 2.5d
+			id: "594EB48AB2748F83"
+			tasks: [{
+				id: "3452613269E80A1A"
+				type: "item"
+				item: "blue_skies:pyrope_gem"
+			}]
+		}
+		{
+			x: -20.0d
+			y: -2.5d
+			id: "6A4BBD2EE047F722"
+			tasks: [{
+				id: "152C5F8C812BA079"
+				type: "item"
+				title: "Any #forge:ores/ice_shard"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/ice_shard"
+					}
+				}
+			}]
+		}
+		{
+			x: -19.0d
+			y: -2.5d
+			id: "5F2CFA18B9D9AE89"
+			tasks: [{
+				id: "42EDB482AE4E14A0"
+				type: "item"
+				item: "beyond_earth:ice_shard"
+			}]
+		}
+		{
+			x: -20.0d
+			y: -1.5d
+			id: "18D035E2C40498D4"
+			tasks: [{
+				id: "5D504546774C20D3"
+				type: "item"
+				title: "Any #forge:ores/cheese"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/cheese"
+					}
+				}
+			}]
+		}
+		{
+			x: -19.0d
+			y: -1.5d
+			id: "256ABBB766D10D93"
+			tasks: [{
+				id: "7DD39F6C5DB714C6"
+				type: "item"
+				item: "beyond_earth:cheese"
+			}]
+		}
+		{
+			x: -11.5d
+			y: 1.5d
+			id: "233F181C68DC6810"
+			tasks: [{
+				id: "50F1C313EAD3E166"
+				type: "item"
+				title: "Any #forge:ores/emerald"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/emerald"
+					}
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 1.5d
+			id: "191F2FD58FE0FB62"
+			tasks: [{
+				id: "0BCFEBCBDACB313B"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -2.5d
+			id: "309BE7C565BA9E75"
+			tasks: [{
+				id: "04F88E095AB46EC1"
+				type: "item"
+				item: "tconstruct:raw_cobalt"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -2.5d
+			id: "39F1A7F5036136EA"
+			tasks: [{
+				id: "6AE782DE431B6989"
+				type: "item"
+				item: "tconstruct:cobalt_ingot"
+			}]
+		}
+		{
+			x: -11.5d
+			y: 2.5d
+			id: "2D242FFA4E72670C"
+			tasks: [{
+				id: "7F667384701E2C6A"
+				type: "item"
+				title: "Any #forge:ores/diamond"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/diamond"
+					}
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 2.5d
+			id: "241A010C17325C23"
+			tasks: [{
+				id: "7FD5919BD7D2BCA4"
+				type: "item"
+				item: "minecraft:diamond"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			id: "7D4ADF3A0263D2D3"
+			tasks: [{
+				id: "3F7B54E1FC132DA0"
+				type: "item"
+				title: "Any #forge:ores/prosperity"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/prosperity"
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			id: "19A0D3D654771179"
+			tasks: [{
+				id: "703D5D9F130CC07C"
+				type: "item"
+				item: "mysticalagriculture:prosperity_shard"
+			}]
+		}
+		{
+			x: -11.5d
+			y: 3.5d
+			id: "0E391FC86E8BFACE"
+			tasks: [{
+				id: "511874F4ED82049D"
+				type: "item"
+				title: "Any #forge:ores/redstone"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/redstone"
+					}
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 3.5d
+			id: "4069A9527317624D"
+			tasks: [{
+				id: "3676B949BB38311F"
+				type: "item"
+				item: "minecraft:redstone"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 1.5d
+			id: "12EBED22EA05E15F"
+			tasks: [{
+				id: "27D303018BD109C3"
+				type: "item"
+				item: "thermal:raw_lead"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 1.5d
+			id: "0E9F3F43EF64E974"
+			tasks: [{
+				id: "53E4305212943F18"
+				type: "item"
+				item: "thermal:lead_ingot"
+			}]
+		}
+		{
+			x: -11.5d
+			y: 4.5d
+			id: "7A0E83262F4DB7DC"
+			tasks: [{
+				id: "752CA7637D880B5B"
+				type: "item"
+				item: "minecraft:raw_gold"
+			}]
+		}
+		{
+			x: -10.5d
+			y: 4.5d
+			id: "164C234F10D6344A"
+			tasks: [{
+				id: "10B4598CD80BFDDB"
+				type: "item"
+				item: "minecraft:gold_ingot"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -2.5d
+			id: "1D22C5E7665D23F6"
+			tasks: [{
+				id: "674B6609C5BB8243"
+				type: "item"
+				item: "powah:uraninite_raw"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -2.5d
+			id: "6F98499935537DB0"
+			tasks: [{
+				id: "0F559E69FEBF554D"
+				type: "item"
+				item: "powah:uraninite"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -2.5d
+			id: "1F045308A6BD1946"
+			tasks: [{
+				id: "2BB934641B15734B"
+				type: "item"
+				title: "Any #forge:ores/arcane_crystal"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/arcane_crystal"
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.5d
+			id: "3B789C8D2A8D8A8D"
+			tasks: [{
+				id: "73348D8B33D75CC6"
+				type: "item"
+				item: "forbidden_arcanus:arcane_crystal"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 0.5d
+			id: "569505AB802C2131"
+			tasks: [{
+				id: "13D001F7B67271E1"
+				type: "item"
+				item: "thermal:raw_nickel"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 0.5d
+			id: "32AB9E580E34993E"
+			tasks: [{
+				id: "1EA2FAD5F1C50CDF"
+				type: "item"
+				item: "thermal:nickel_ingot"
+			}]
+		}
+		{
+			x: 9.0d
+			y: -2.5d
+			id: "695F56165C293796"
+			tasks: [{
+				id: "327400CF91A4CFC1"
+				type: "item"
+				item: "create:raw_zinc"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -2.5d
+			id: "283655E0EE905428"
+			tasks: [{
+				id: "26FADA30521A7FA0"
+				type: "item"
+				item: "create:zinc_ingot"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -0.5d
+			id: "2FCC5FA5EBDFC393"
+			tasks: [{
+				id: "27DFB5397885CB7E"
+				type: "item"
+				item: "thermal:raw_silver"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -0.5d
+			id: "11D1AA4EFB44C740"
+			tasks: [{
+				id: "0569944884E77733"
+				type: "item"
+				item: "thermal:silver_ingot"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -0.5d
+			id: "70D2718F2AD11904"
+			tasks: [{
+				id: "65E55F26BBAB9C84"
+				type: "item"
+				title: "Any #forge:ores/xpetrified_ore"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/xpetrified_ore"
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -0.5d
+			id: "3CA8517EE14F7A7B"
+			tasks: [{
+				id: "3A02A72E140C032E"
+				type: "item"
+				item: "forbidden_arcanus:xpetrified_orb"
+			}]
+		}
+		{
+			x: -17.5d
+			y: 3.5d
+			id: "223FAE6855BD9A3C"
+			tasks: [{
+				id: "63F00E1E2778B14D"
+				type: "item"
+				item: "blue_skies:raw_charoite"
+			}]
+		}
+		{
+			x: -16.5d
+			y: 3.5d
+			id: "633EDC9527D9FE82"
+			tasks: [{
+				id: "04AE44DAC25E771C"
+				type: "item"
+				item: "blue_skies:charoite"
+			}]
+		}
+		{
+			x: -20.0d
+			y: -0.5d
+			id: "5ABD6C8035253C72"
+			tasks: [{
+				id: "48BE45E9CB883FA8"
+				type: "item"
+				item: "beyond_earth:raw_ostrum"
+			}]
+		}
+		{
+			x: -19.0d
+			y: -0.5d
+			id: "11F1416475A203CF"
+			tasks: [{
+				id: "5BE52BDCC578D849"
+				type: "item"
+				item: "beyond_earth:ostrum_ingot"
+			}]
+		}
+		{
+			x: -22.5d
+			y: -2.5d
+			id: "1170F333350C35EF"
+			tasks: [{
+				id: "032FD2883355B446"
+				type: "item"
+				item: "mythicbotany:raw_elementium"
+			}]
+		}
+		{
+			x: -21.5d
+			y: -2.5d
+			id: "698D980234B17E8F"
+			tasks: [{
+				id: "65057A5A1D470D62"
+				type: "item"
+				item: "botania:elementium_ingot"
+			}]
+		}
+		{
+			x: -22.5d
+			y: -1.5d
+			id: "272C96FE0C026ABC"
+			tasks: [{
+				id: "68DCB0A52A386188"
+				type: "item"
+				item: "mythicbotany:dragonstone_ore"
+			}]
+		}
+		{
+			x: -21.5d
+			y: -1.5d
+			id: "5F605540BA5854F2"
+			tasks: [{
+				id: "02AE2513AC96E4ED"
+				type: "item"
+				item: "botania:dragonstone"
+			}]
+		}
+		{
+			x: -20.0d
+			y: 0.5d
+			id: "267C92E0B3897D11"
+			tasks: [{
+				id: "5075EA485BDE0C30"
+				type: "item"
+				item: "beyond_earth:raw_desh"
+			}]
+		}
+		{
+			x: -19.0d
+			y: 0.5d
+			id: "53DD5CD3A8AC804E"
+			tasks: [{
+				id: "54D5EBB69C86A841"
+				type: "item"
+				item: "beyond_earth:desh_ingot"
+			}]
+		}
+		{
+			x: -20.0d
+			y: 1.5d
+			id: "3E23D4E1B4F2DFDF"
+			tasks: [{
+				id: "2F8C2E663E30F4FF"
+				type: "item"
+				item: "beyond_earth:raw_calorite"
+			}]
+		}
+		{
+			x: -19.0d
+			y: 1.5d
+			id: "33CD4C8E26304F98"
+			tasks: [{
+				id: "2351BD2AA17385AF"
+				type: "item"
+				item: "beyond_earth:calorite_ingot"
+			}]
+		}
+		{
+			x: -17.5d
+			y: 4.5d
+			id: "1CB5DA8A2BFDB948"
+			tasks: [{
+				id: "0D9122317A0566A3"
+				type: "item"
+				title: "Any #blue_skies:ores/diopside"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "blue_skies:ores/diopside"
+					}
+				}
+			}]
+		}
+		{
+			x: -16.5d
+			y: 4.5d
+			id: "0E726795263D1D0A"
+			tasks: [{
+				id: "4271A1070323654F"
+				type: "item"
+				item: "blue_skies:diopside_gem"
+			}]
+		}
+		{
+			x: -14.0d
+			y: -2.5d
+			id: "2DDF9D66695E9521"
+			tasks: [{
+				id: "7184ED0828E0748E"
+				type: "item"
+				title: "Any #forge:ores/regalium"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/regalium"
+					}
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -2.5d
+			id: "4FD5EA7B971A34D4"
+			tasks: [{
+				id: "3AF252D7E1D25F00"
+				type: "item"
+				item: "undergarden:regalium_crystal"
+			}]
+		}
+		{
+			x: -14.0d
+			y: -1.5d
+			id: "7A318F877A9AE777"
+			tasks: [{
+				id: "4655738D69419F2F"
+				type: "item"
+				title: "Any #forge:ores/utherium"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/utherium"
+					}
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -1.5d
+			id: "52E555D5A578E225"
+			tasks: [{
+				id: "077BA304FDA9CC0C"
+				type: "item"
+				item: "undergarden:utherium_crystal"
+			}]
+		}
+		{
+			x: -14.0d
+			y: -0.5d
+			id: "0D8357FDA01DA0F9"
+			tasks: [{
+				id: "1D5763B93883C851"
+				type: "item"
+				item: "undergarden:raw_froststeel"
+			}]
+		}
+		{
+			x: -13.0d
+			y: -0.5d
+			id: "595365E6AAAAB027"
+			tasks: [{
+				id: "6199B8CDD0830B57"
+				type: "item"
+				item: "undergarden:froststeel_ingot"
+			}]
+		}
+		{
+			x: -11.5d
+			y: 5.5d
+			id: "40147F7163D007C4"
+			tasks: [{
+				id: "1E5606BB00E4612E"
+				type: "item"
+				item: "minecraft:ancient_debris"
+			}]
+		}
+		{
+			x: -10.5d
+			y: 5.5d
+			id: "60DF92BDBB534035"
+			tasks: [{
+				id: "056828E0157D957A"
+				type: "item"
+				item: "minecraft:netherite_scrap"
+			}]
+		}
+		{
+			x: -9.5d
+			y: 5.5d
+			id: "4B887C70DC3D3D54"
+			tasks: [{
+				id: "3598C4374AD6EE2F"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -1.5d
+			id: "793ACFFCFDF63975"
+			tasks: [{
+				id: "679826A6EA6BC8F2"
+				type: "item"
+				title: "Any #forbidden_arcanus:runic_stones"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forbidden_arcanus:runic_stones"
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.5d
+			id: "7459EFDE696F926C"
+			tasks: [{
+				id: "560FAEF5D477BEB2"
+				type: "item"
+				item: "forbidden_arcanus:rune"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
