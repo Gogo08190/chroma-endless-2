@@ -201,4 +201,44 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('rftoolsutility:environmental_controller')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDDDB",
+        "EDFDE",
+        "BDDDB",
+        "ABGBA"
+      ],
+      "key": {
+        "A": {
+          "item": "ae2:matter_ball"
+        },
+        "B": {
+          "item": "industrialforegoing:plastic"
+        },
+        "C": {
+          "item": "industrialforegoing:common_black_hole_tank"
+        },
+        "D": {
+          "item": "create:mechanical_crafter"
+        },
+        "E": {
+          "item": "mekanism:elite_control_circuit"
+        },
+        "F": {
+          "item": "industrialforegoing:machine_frame_pity"
+        },
+        "G": {
+          "item": "solarpanels:improved_energy_tablet"
+        }
+      },
+      "result": {
+        "item": "industrialforegoing:dissolution_chamber"
+      }
+    }
+  ).id("industrialforegoing:dissolution_chamber")
+  
 });

@@ -100,6 +100,16 @@ onEvent('recipes', (event) => {
             results: [{ item: 'ae2:spatial_cell_component_16', count: 1 }],
             id: 'ae2:network/cells/spatial_components_0'
         },
+        {
+            inputs: [
+                { item: 'minecraft:oak_log', count: 4 },
+                { item: 'pneumaticcraft:reinforced_stone', count: 4 },
+                { item: 'thermal:redstone_servo', count: 1 }
+            ],
+            pressure: 5.0,
+            results: [{ item: 'chroma:unassembled_pity_machine_frame', count: 1 }],
+            id: `${id_prefix}unassembled_pity_machine_frame`
+        },
     ];
 
     recipes.forEach((recipe) => {

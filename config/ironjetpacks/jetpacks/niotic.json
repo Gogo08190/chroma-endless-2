@@ -1,11 +1,11 @@
 {
-  "name": "spirited",
+  "name": "niotic",
   "disable": false,
   "tier": 3,
   "color": "86c52d",
   "armorPoints": 2,
   "enchantability": 18,
-  "craftingMaterial": "powah:crystal_spirited",
+  "craftingMaterial": "powah:crystal_niotic",
   "creative": false,
   "rarity": 0,
   "toughness": 0.0,
