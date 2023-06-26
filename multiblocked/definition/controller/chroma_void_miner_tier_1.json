@@ -54,56 +54,123 @@
     ],
     "pattern": [
       [
-        "  ABA  ",
-        "   A   ",
-        "       ",
-        "       ",
-        "       "
+        "   ABA   ",
+        "    C    ",
+        "    C    ",
+        "    C    ",
+        "    C    ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
       ],
       [
-        " ACCCA ",
-        "       ",
-        "   A   ",
-        "       ",
-        "       "
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "    C    ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
       ],
       [
-        "ACCCCCA",
-        "       ",
-        "       ",
-        "   A   ",
-        "       "
+        "         ",
+        "         ",
+        "         ",
+        "    D    ",
+        "   CDC   ",
+        "   DDD   ",
+        "   CDC   ",
+        "    D    ",
+        "         ",
+        "         "
       ],
       [
-        "BCCCCCB",
-        "A  D  A",
-        " A D A ",
-        "  ADA  ",
-        "   @   "
+        "A       A",
+        "         ",
+        "    D    ",
+        "   C C   ",
+        "  C   C  ",
+        "  D   D  ",
+        "  C   C  ",
+        "   C C   ",
+        "    D    ",
+        "         "
       ],
       [
-        "ACCCCCA",
-        "       ",
-        "       ",
-        "   A   ",
-        "       "
+        "B   E   B",
+        "C   E   C",
+        "C  DDD  C",
+        "C D   D C",
+        "C D   D C",
+        "ACD   DCA",
+        "  D   D  ",
+        "  D   D  ",
+        "   DDD   ",
+        "    @    "
       ],
       [
-        " ACCCA ",
-        "       ",
-        "   A   ",
-        "       ",
-        "       "
+        "A       A",
+        "         ",
+        "    D    ",
+        "   C C   ",
+        "  C   C  ",
+        "  D   D  ",
+        "  C   C  ",
+        "   C C   ",
+        "    D    ",
+        "         "
       ],
       [
-        "  ABA  ",
-        "   A   ",
-        "       ",
-        "       ",
-        "       "
+        "         ",
+        "         ",
+        "         ",
+        "    D    ",
+        "   CDC   ",
+        "   DDD   ",
+        "   CDC   ",
+        "    D    ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "         ",
+        "    C    ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "   ABA   ",
+        "    C    ",
+        "    C    ",
+        "    C    ",
+        "    C    ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         ",
+        "         "
       ]
     ],
     "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
       [
         1,
         1
@@ -137,7 +204,7 @@
       "A": {
         "blocks": [
           {
-            "id": "chroma:void_miner_frame_tier1"
+            "id": "mna:decoration/arcane_stone_stairs"
           }
         ],
         "type": "blocks"
@@ -149,13 +216,13 @@
       "B": {
         "blocks": [
           {
-            "id": "chroma:void_miner_frame_tier1"
-          },
-          {
             "id": "chroma:void_item_output_tier_1"
           },
           {
             "id": "chroma:energy_input_tier_1"
+          },
+          {
+            "id": "chroma:void_miner_frame_tier1"
           }
         ],
         "type": "blocks"
@@ -169,6 +236,14 @@
         "type": "blocks"
       },
       "D": {
+        "blocks": [
+          {
+            "id": "chroma:void_miner_frame_tier1"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
         "blocks": [
           {
             "id": "chroma:void_miner_laser_core_t1"
@@ -198,6 +273,9 @@
       ],
       "D": [
         "D"
+      ],
+      "E": [
+        "E"
       ]
     }
   }

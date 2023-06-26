@@ -54,117 +54,515 @@
     ],
     "pattern": [
       [
-        "   AABAA   ",
-        "     A     ",
-        "     A     ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "          AAA          ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       "
       ],
       [
-        "  ACCCCCA  ",
-        "           ",
-        "           ",
-        "     A     ",
-        "     A     ",
-        "           ",
-        "           ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           B           ",
+        "           A           ",
+        "           A           ",
+        "          CAC          ",
+        "          C C          ",
+        "         A   A         ",
+        "          C C          ",
+        "           A           ",
+        "                       ",
+        "                       "
       ],
       [
-        " ACCCCCCCA ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "     A     ",
-        "           ",
-        "           "
+        "          BDB          ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "          BCB          ",
+        "          ACA          ",
+        "          ACA          ",
+        "         AAAAA         ",
+        "         A   A         ",
+        "         A   A         ",
+        "         A   A         ",
+        "          AAA          ",
+        "                       ",
+        "                       "
       ],
       [
-        "ACCCCCCCCCA",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "     A     ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           B           ",
+        "           A           ",
+        "           A           ",
+        "          CAC          ",
+        "          C C          ",
+        "         A   A         ",
+        "          C C          ",
+        "           A           ",
+        "                       ",
+        "                       "
       ],
       [
-        "ACCCCCCCCCA",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "     A     ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "          AAA          ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       "
       ],
       [
-        "BCCCCCCCCCB",
-        "A    D    A",
-        "A    D    A",
-        " A   D   A ",
-        " A   D   A ",
-        "  A  D  A  ",
-        "   AADAA   ",
-        "     @     "
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           F           ",
+        "          GAG          ",
+        "           F           ",
+        "                       ",
+        "                       ",
+        "                       "
       ],
       [
-        "ACCCCCCCCCA",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "     A     ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       "
       ],
       [
-        "ACCCCCCCCCA",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "     A     ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           F           ",
+        "          GAG          ",
+        "           F           ",
+        "                       ",
+        "                       ",
+        "                       "
       ],
       [
-        " ACCCCCCCA ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "     A     ",
-        "           ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "          AAA          ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       "
       ],
       [
-        "  ACCCCCA  ",
-        "           ",
-        "           ",
-        "     A     ",
-        "     A     ",
-        "           ",
-        "           ",
-        "           "
+        "                       ",
+        "                       ",
+        "                       ",
+        "          HEH          ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "  A        A        A  ",
+        "  A       C C       A  ",
+        " AAA     A   A     AAA ",
+        "  A       C C       A  ",
+        "           A           ",
+        "                       ",
+        "                       "
       ],
       [
-        "   AABAA   ",
-        "     A     ",
-        "     A     ",
-        "           ",
-        "           ",
-        "           ",
-        "           ",
-        "           "
+        "  B                 B  ",
+        "                       ",
+        "                       ",
+        "         HIIIH         ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "  B        A        B  ",
+        "  A       C C       A  ",
+        "  A       C C       A  ",
+        " CAC      C C      CAC ",
+        " C C     C   C     C C ",
+        "A   AG GA     AG GA   A",
+        " C C     C   C     C C ",
+        "  A       C C       A  ",
+        "           A           ",
+        "                       "
+      ],
+      [
+        "  D        J        D  ",
+        "  C        J        C  ",
+        "  C        J        C  ",
+        "  CEEEEEEEIKIEEEEEEEC  ",
+        "  C        L        C  ",
+        "  C        M        C  ",
+        "  C       AAA       C  ",
+        "  C       AAA       C  ",
+        " BCB      A A      BCB ",
+        " ACA     A   A     ACA ",
+        " ACA     A   A     ACA ",
+        "AAAAA    A   A    AAAAA",
+        "A   AF FA     AF FA   A",
+        "A   AAAAA     AAAAA   A",
+        "A   AF FA     AF FA   A",
+        " AAA     A   A     AAA ",
+        "          AAA          ",
+        "           @           "
+      ],
+      [
+        "  B                 B  ",
+        "                       ",
+        "                       ",
+        "         HIIIH         ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "  B        A        B  ",
+        "  A       C C       A  ",
+        "  A       C C       A  ",
+        " CAC      C C      CAC ",
+        " C C     C   C     C C ",
+        "A   AG GA     AG GA   A",
+        " C C     C   C     C C ",
+        "  A       C C       A  ",
+        "           A           ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "          HEH          ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "  A        A        A  ",
+        "  A       C C       A  ",
+        " AAA     A   A     AAA ",
+        "  A       C C       A  ",
+        "           A           ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "          AAA          ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           F           ",
+        "          GAG          ",
+        "           F           ",
+        "                       ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           F           ",
+        "          GAG          ",
+        "           F           ",
+        "                       ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "          AAA          ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "           E           ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           B           ",
+        "           A           ",
+        "           A           ",
+        "          CAC          ",
+        "          C C          ",
+        "         A   A         ",
+        "          C C          ",
+        "           A           ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "          BDB          ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "           C           ",
+        "          BCB          ",
+        "          ACA          ",
+        "          ACA          ",
+        "         AAAAA         ",
+        "         A   A         ",
+        "         A   A         ",
+        "         A   A         ",
+        "          AAA          ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           B           ",
+        "           A           ",
+        "           A           ",
+        "          CAC          ",
+        "          C C          ",
+        "         A   A         ",
+        "          C C          ",
+        "           A           ",
+        "                       ",
+        "                       "
+      ],
+      [
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "                       ",
+        "           A           ",
+        "           A           ",
+        "          AAA          ",
+        "           A           ",
+        "                       ",
+        "                       ",
+        "                       "
       ]
     ],
     "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
       [
         1,
         1
@@ -226,13 +624,7 @@
       "B": {
         "blocks": [
           {
-            "id": "chroma:void_miner_frame_tier3"
-          },
-          {
-            "id": "chroma:energy_input_tier_3"
-          },
-          {
-            "id": "chroma:void_item_output_tier_3"
+            "id": "mna:decoration/arcane_stone_stairs"
           }
         ],
         "type": "blocks"
@@ -248,13 +640,91 @@
       "D": {
         "blocks": [
           {
-            "id": "chroma:void_miner_laser_core_t3"
+            "id": "chroma:void_item_output_tier_3"
+          },
+          {
+            "id": "chroma:energy_input_tier_3"
+          },
+          {
+            "id": "chroma:void_miner_frame_tier3"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "architects_palette:onyx_slab"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "architects_palette:onyx_vertical_slab"
+          }
+        ],
+        "type": "blocks"
+      },
+      "H": {
+        "blocks": [
+          {
+            "id": "createdeco:netherite_sheet_stairs"
+          }
+        ],
+        "type": "blocks"
+      },
+      "I": {
+        "blocks": [
+          {
+            "id": "minecraft:white_stained_glass"
+          }
+        ],
+        "type": "blocks"
+      },
+      "J": {
+        "blocks": [
+          {
+            "id": "minecraft:purple_stained_glass_pane"
+          }
+        ],
+        "type": "blocks"
+      },
+      "K": {
+        "blocks": [
+          {
+            "id": "minecraft:purple_stained_glass"
+          }
+        ],
+        "type": "blocks"
+      },
+      "L": {
+        "blocks": [
+          {
+            "id": "architects_palette:oracle_tile_wall"
           }
         ],
         "type": "blocks"
       },
       "any": {
         "type": "any"
+      },
+      "M": {
+        "blocks": [
+          {
+            "id": "chroma:void_miner_laser_core_t3"
+          }
+        ],
+        "type": "blocks"
       }
     },
     "symbolMap": {
@@ -275,6 +745,33 @@
       ],
       "D": [
         "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
       ]
     }
   }

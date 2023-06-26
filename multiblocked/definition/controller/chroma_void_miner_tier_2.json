@@ -54,88 +54,293 @@
     ],
     "pattern": [
       [
-        "  AABAA  ",
-        "    A    ",
-        "    A    ",
-        "         ",
-        "         ",
-        "         ",
-        "         "
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
       ],
       [
-        " ACCCCCA ",
-        "         ",
-        "         ",
-        "    A    ",
-        "         ",
-        "         ",
-        "         "
+        "      ABA     ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
       ],
       [
-        "ACCCCCCCA",
-        "         ",
-        "         ",
-        "         ",
-        "    A    ",
-        "         ",
-        "         "
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
       ],
       [
-        "ACCCCCCCA",
-        "         ",
-        "         ",
-        "         ",
-        "         ",
-        "    A    ",
-        "         "
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
       ],
       [
-        "BCCCCCCCB",
-        "A   D   A",
-        "A   D   A",
-        " A  D  A ",
-        "  A D A  ",
-        "   ADA   ",
-        "    @    "
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "      DDD     ",
+        "       D      ",
+        "              ",
+        "              ",
+        "              "
       ],
       [
-        "ACCCCCCCA",
-        "         ",
-        "         ",
-        "         ",
-        "         ",
-        "    A    ",
-        "         "
+        "              ",
+        "              ",
+        "              ",
+        "      EEE     ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "     D   D    ",
+        "      C C     ",
+        "       D      ",
+        "              ",
+        "              "
       ],
       [
-        "ACCCCCCCA",
-        "         ",
-        "         ",
-        "         ",
-        "    A    ",
-        "         ",
-        "         "
+        " A           A",
+        "              ",
+        "              ",
+        "     EGGGE    ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "      C C     ",
+        "     C   C    ",
+        "    D     D   ",
+        "     C   C    ",
+        "      C C     ",
+        "       D      ",
+        "              "
       ],
       [
-        " ACCCCCA ",
-        "         ",
-        "         ",
-        "    A    ",
-        "         ",
-        "         ",
-        "         "
+        " B     H     B",
+        " C     H     C",
+        " C     H    AC",
+        " CA  EGIGE  CA",
+        " AC  F J F  C ",
+        "  C  F K F  C ",
+        "  C  F D F  C ",
+        "  CA FD DF AC ",
+        "  AC FD DF CA ",
+        "   C D   D C  ",
+        "   C D   D C  ",
+        "   CD     DC  ",
+        "   AD     DA  ",
+        "    D     D   ",
+        "     D   D    ",
+        "      DDD     ",
+        "       @      "
       ],
       [
-        "  AABAA  ",
-        "    A    ",
-        "    A    ",
-        "         ",
-        "         ",
-        "         ",
-        "         "
+        " A           A",
+        "              ",
+        "              ",
+        "     EGGGE    ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "      C C     ",
+        "     C   C    ",
+        "    D     D   ",
+        "     C   C    ",
+        "      C C     ",
+        "       D      ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "      EEE     ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "     D   D    ",
+        "      C C     ",
+        "       D      ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "      DDD     ",
+        "       D      ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "      ABA     ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
       ]
     ],
     "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
       [
         1,
         1
@@ -177,7 +382,7 @@
       "A": {
         "blocks": [
           {
-            "id": "chroma:void_miner_frame_tier2"
+            "id": "mna:decoration/arcane_stone_stairs"
           }
         ],
         "type": "blocks"
@@ -211,6 +416,62 @@
       "D": {
         "blocks": [
           {
+            "id": "chroma:void_miner_frame_tier2"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "createdeco:netherite_sheet_stairs"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "mna:decoration/arcane_stone_wall"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "minecraft:white_stained_glass"
+          }
+        ],
+        "type": "blocks"
+      },
+      "H": {
+        "blocks": [
+          {
+            "id": "minecraft:orange_stained_glass_pane"
+          }
+        ],
+        "type": "blocks"
+      },
+      "I": {
+        "blocks": [
+          {
+            "id": "minecraft:orange_stained_glass"
+          }
+        ],
+        "type": "blocks"
+      },
+      "J": {
+        "blocks": [
+          {
+            "id": "minecraft:red_sandstone_wall"
+          }
+        ],
+        "type": "blocks"
+      },
+      "K": {
+        "blocks": [
+          {
             "id": "chroma:void_miner_laser_core_t2"
           }
         ],
@@ -238,6 +499,27 @@
       ],
       "D": [
         "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
       ]
     }
   }
