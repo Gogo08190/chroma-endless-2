@@ -348,6 +348,50 @@ onEvent('recipes', (event) => {
             },
             id: 'powah:crafting/photoelectric_pane'
         },
+        {
+            output: 'powah:energy_cell_blazing',
+            pattern: ['PCP', 'BEB', 'PCP'],
+            key: {
+                E: Item.of('powah:energy_cell_hardened').ignoreNBT(),
+                P: 'industrialforegoing:pink_slime_ingot',
+                B: 'powah:capacitor_blazing',
+                C: 'mekanism:advanced_control_circuit'
+            },
+            id: 'powah:crafting/energy_cell_blazing'
+        },
+        {
+            output: 'powah:ender_cell_blazing',
+            pattern: ['PCP', 'BEB', 'PCP'],
+            key: {
+                E: Item.of('powah:ender_cell_hardened').ignoreNBT(),
+                P: 'industrialforegoing:pink_slime_ingot',
+                B: 'powah:capacitor_blazing',
+                C: 'ae2:fluix_pearl'
+            },
+            id: 'powah:crafting/ender_cell_blazing'
+        },
+        {
+            output: 'powah:battery_blazing',
+            pattern: ['DRD', 'PBP', 'DCD'],
+            key: {
+                B: Item.of('powah:battery_hardened').weakNBT(),
+                D: 'powah:dielectric_paste',
+                C: 'mekanism:advanced_control_circuit',
+                P: 'powah:capacitor_blazing',
+                R: 'powah:crystal_blazing'
+            },
+            id: 'powah:crafting/battery_blazing'
+        },
+        {
+            output: Item.of('powah:ender_gate_blazing', 4),
+            pattern: ['RCR', 'CEC', 'RCR'],
+            key: {
+                E: 'powah:ender_core',
+                R: 'mekanism:alloy_reinforced',
+                C: Item.of('powah:energy_cable_blazing').ignoreNBT()
+            },
+            id: 'powah:crafting/ender_gate_blazing'
+        },
     ];
 
     recipes.forEach((recipe) => {

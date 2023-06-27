@@ -190,7 +190,18 @@ onEvent('recipes', (event) => {
                 item: 'pneumaticcraft:module_expansion_card',
                 count: 2
             },
-            id: 'rftoolspower:power_core2'
+            id: 'pneumaticcraft:module_expansion_card'
+        },
+        {
+            ingredients: [
+                { item: 'undergarden:regalium_crystal' }
+            ],
+            energy: 90000,
+            result: {
+                item: 'powah:crystal_blazing',
+                count: 1
+            },
+            id: 'powah:energizing/blazing_crystal'
         }
     ];
 

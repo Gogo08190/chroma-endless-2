@@ -3,6 +3,7 @@ onEvent('recipes', (event) => {
         'powah:crafting/cable_basic_2',
         'powah:crafting/energy_cell_basic_2',
         'powah:crafting/dielectric_paste_2',
+        'powah:energizing/blazing_crystal_2',
     ];
 
     const outputRemovals = [
