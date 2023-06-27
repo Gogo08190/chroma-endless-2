@@ -22,5 +22,35 @@
   "chapter.welcome.quest.8.description.1" : "On this website you will find more informations about &6&lChroma Endless 2&r, the Chroma Team and our other modpacks.",
   "chapter.welcome.quest.8.description.2" : "Here is a list of what can be found:",
   "chapter.welcome.quest.8.description.3" : "→ Who developped this modpack and their descriptions.",
-  "chapter.welcome.quest.8.description.4" : "→ The other packs developped by the Chroma Team."
-}
+  "chapter.welcome.quest.8.description.4" : "→ The other packs developped by the Chroma Team.",
+
+  "chapter.stage.1.quest.1.description.1" : "What Minecraft would be if you don't break some wood? Let's go collect some !",
+
+  "chapter.stage.1.quest.2.description.1" : "Do I have to explain how to get planks? Really?",
+
+  "chapter.stage.1.quest.3.description.1" : "The start of all crafts !",
+
+  "chapter.stage.1.quest.4.description.1" : "Time to smelt and cook !",
+
+  "chapter.stage.1.quest.5.description.1" : "Already creating some alloy might help you get through the game.",
+  "chapter.stage.1.quest.5.description.2" : "I suggest you look how to craft this new mix.",
+  "chapter.stage.1.quest.5.description.3" : "New way of crafting this alloy are offered later in the game, don't worry.",
+
+  "chapter.stage.1.quest.6.description.1" : "Now that you have this alloy, you will be able for now to wash it to use it.",
+  "chapter.stage.1.quest.6.description.2" : "Like the mix, the ingot can be crafted easier later in the game. You can check recipes to see them.",
+
+  
+  "chapter.stage.1.quest.7.description.1" : "Rotor can be associated to pipe. They can transmit rotation and can be placed like you want.",
+
+  
+  "chapter.stage.1.quest.8.description.1" : "Cogwheels can transmit rotation to another adjacent coghweel.",
+  "chapter.stage.1.quest.8.description.2" : "If a Coghweel A is facing a coghweel B  then the B will change it's rotation sense."
+
+
+
+
+
+
+
+
+ }
