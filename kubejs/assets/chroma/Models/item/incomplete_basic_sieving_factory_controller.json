@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "chroma:item/brass_casing_screen",
-		"2": "chroma:item/brass_casing",
+		"1": "chroma:item/incomplete_basic_sieving/brass_casing_screen",
+		"2": "chroma:item/incomplete_basic_sieving/brass_casing",
 		"particle": "chroma:item/brass_casing_screen"
 	},
 	"elements": [
