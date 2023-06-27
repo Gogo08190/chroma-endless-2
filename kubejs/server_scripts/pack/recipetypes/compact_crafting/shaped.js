@@ -8,6 +8,17 @@ onEvent('recipes', (event) => {
                 S: 'ae2:smooth_sky_stone_block'
             },
             id: 'compactmachines:wall'
+        },
+        {
+            output: 'compactmachines:personal_shrinking_device',
+            pattern: [' I ', 'EWE', ' P '],
+            key: {
+                W: Item.of('waystones:warp_stone').weakNBT(),
+                E: 'mekanism:elite_control_circuit',
+                I: 'rftoolsbase:information_screen',
+                P: 'industrialforegoing:plastic'
+            },
+            id: 'compactmachines:personal_shrinking_device'
         }
     ];
 
