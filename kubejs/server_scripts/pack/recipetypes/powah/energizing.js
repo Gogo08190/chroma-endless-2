@@ -202,6 +202,17 @@ onEvent('recipes', (event) => {
                 count: 1
             },
             id: 'powah:energizing/blazing_crystal'
+        },
+        {
+            ingredients: [
+                { item: 'undergarden:forgotten_ingot' }
+            ],
+            energy: 300000,
+            result: {
+                item: 'powah:crystal_niotic',
+                count: 1
+            },
+            id: 'powah:energizing/niotic_crystal'
         }
     ];
 
