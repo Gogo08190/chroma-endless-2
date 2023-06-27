@@ -41,7 +41,7 @@ onEvent('recipes', (event) => {
             outputItem: { item: 'industrialforegoing:machine_frame_simple', count: 1 },
             outputFluid: '',
             outputFluidAmount: 0,
-            id: 'industrialforegoing:machine_frame_simple'
+            id: 'industrialforegoing:dissolution_chamber/simple_machine_frame'
         },
     ];
 

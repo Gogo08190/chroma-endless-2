@@ -5,7 +5,7 @@ onEvent('recipes', (event) => {
         {
             input: { item: 'chroma:unassembled_pity_machine_frame', count: 1 },
             output: { item: 'industrialforegoing:machine_frame_pity', count: 1 },
-            program: 'drill_laser',
+            program: 'drill',
             id: 'industrialforegoing:machine_frame_pity'
         },
     ];

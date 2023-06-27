@@ -6,7 +6,7 @@ onEvent('recipes', (event) => {
           pattern: ['BLB', 'EWS', 'BMB'],
           key: {
               B: 'pneumaticcraft:plastic',
-              L: 'ae2:annihilation_core',
+              L: 'ae2:formation_core',
               S: 'industrialforegoing:latex_bucket',
               E: 'minecraft:water_bucket',
               W: 'industrialforegoing:machine_frame_pity',
@@ -28,7 +28,7 @@ onEvent('recipes', (event) => {
           id: 'industrialforegoing:fluid_extractor'
       },
       {
-        output: 'industrialforegoing:fluid_extractor',
+        output: 'industrialforegoing:pitiful_generator',
           pattern: ['BLB', 'SWS', 'BMB'],
           key: {
               B: '#forge:cobblestone',
@@ -152,7 +152,7 @@ onEvent('recipes', (event) => {
           key: {
               B: 'industrialforegoing:plastic',
               L: 'thermal:phytosoil',
-              E: 'minecraft:brown_mushroom',
+              E: '#forge:mushrooms',
               W: 'industrialforegoing:machine_frame_pity',
               M: 'mekanism:energy_tablet',
           },
@@ -280,10 +280,10 @@ onEvent('recipes', (event) => {
         output: 'industrialforegoing:mycelial_furnace',
           pattern: ['CCC', 'CSC', 'NEN'],
           key: {
-              C:'minecraft:coal_block',
-              S:'industrialforegoing:machine_frame_simple',
-              N:'chroma:netherite_flux_coil',
-              E:'solarpanels:improved_energy_tablet'
+              C: '#forge:storage_blocks/coal',
+              S: 'industrialforegoing:machine_frame_simple',
+              N: 'chroma:netherite_flux_coil',
+              E: 'solarpanels:improved_energy_tablet'
           },
           id: 'industrialforegoing:mycelial_furnace'
       },
@@ -291,10 +291,10 @@ onEvent('recipes', (event) => {
         output: 'industrialforegoing:mycelial_culinary',
           pattern: ['CCC', 'CSC', 'NEN'],
           key: {
-              C:'thermal:spinach',
-              S:'industrialforegoing:machine_frame_simple',
-              N:'chroma:netherite_flux_coil',
-              E:'solarpanels:improved_energy_tablet'
+              C: '#forge:crops',
+              S: 'industrialforegoing:machine_frame_simple',
+              N: 'chroma:netherite_flux_coil',
+              E: 'solarpanels:improved_energy_tablet'
           },
           id: 'industrialforegoing:mycelial_culinary'
       },
@@ -302,10 +302,10 @@ onEvent('recipes', (event) => {
         output: 'industrialforegoing:mycelial_frosty',
           pattern: ['CCC', 'CSC', 'NEN'],
           key: {
-              C:'minecraft:snowball',
-              S:'industrialforegoing:machine_frame_simple',
-              N:'chroma:netherite_flux_coil',
-              E:'solarpanels:improved_energy_tablet'
+              C: 'minecraft:snowball',
+              S: 'industrialforegoing:machine_frame_simple',
+              N: 'chroma:netherite_flux_coil',
+              E: 'solarpanels:improved_energy_tablet'
           },
           id: 'industrialforegoing:mycelial_frosty'
       },
@@ -313,10 +313,10 @@ onEvent('recipes', (event) => {
         output: 'industrialforegoing:mycelial_pink',
           pattern: ['CCC', 'CSC', 'NEN'],
           key: {
-              C:'#forge:dyes/pink',
-              S:'industrialforegoing:machine_frame_simple',
-              N:'chroma:netherite_flux_coil',
-              E:'solarpanels:improved_energy_tablet'
+              C: '#forge:dyes/pink',
+              S: 'industrialforegoing:machine_frame_simple',
+              N: 'chroma:netherite_flux_coil',
+              E: 'solarpanels:improved_energy_tablet'
           },
           id: 'industrialforegoing:mycelial_pink'
       },
@@ -337,17 +337,17 @@ onEvent('recipes', (event) => {
           pattern: ['BLB', 'EWE', 'GMG'],
           key: {
               B: 'industrialforegoing:plastic',
-              L: Item.of('aquaculture:diamond_fishing_rod').IgnoreNBT(),
+              L: Item.of('aquaculture:diamond_fishing_rod', '{Damage:0}').ignoreNBT(),
               E: 'thermal:deep_aquachow',
               W: 'industrialforegoing:machine_frame_simple',
               M: 'mekanism:energy_tablet',
-              G: '#forge:gears/iron',
+              G: '#forge:gears/bronze',
           },
           id: 'industrialforegoing:marine_fisher'
       },
       {
         output: 'industrialforegoing:mob_detector',
-          pattern: ['BLB', 'EWE', 'BWB'],
+          pattern: ['BLB', 'EWC', 'BMB'],
           key: {
               B: 'industrialforegoing:plastic',
               L: 'minecraft:observer',
@@ -360,7 +360,7 @@ onEvent('recipes', (event) => {
       },
       {
         output: 'industrialforegoing:hydroponic_bed',
-          pattern: ['BLB', 'EWE', 'GWG'],
+          pattern: ['BLB', 'EWE', 'GMG'],
           key: {
               B: 'industrialforegoing:plastic',
               L: 'thermal:phytosoil',
@@ -373,7 +373,7 @@ onEvent('recipes', (event) => {
       },
       {
         output: 'industrialforegoing:fermentation_station',
-          pattern: ['BLB', 'LWL', 'GWG'],
+          pattern: ['BLB', 'LWL', 'GMG'],
           key: {
               B: 'industrialforegoing:plastic',
               L: 'industrialforegoing:common_black_hole_tank',

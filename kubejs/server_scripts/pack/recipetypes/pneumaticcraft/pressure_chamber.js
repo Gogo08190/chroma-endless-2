@@ -106,7 +106,7 @@ onEvent('recipes', (event) => {
                 { item: 'pneumaticcraft:reinforced_stone', count: 4 },
                 { item: 'thermal:redstone_servo', count: 1 }
             ],
-            pressure: 3.0,
+            pressure: 2.5,
             results: [{ item: 'chroma:unassembled_pity_machine_frame', count: 1 }],
             id: `${id_prefix}unassembled_pity_machine_frame`
         },
