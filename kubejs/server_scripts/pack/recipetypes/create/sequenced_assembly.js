@@ -5,38 +5,38 @@ onEvent('recipes', (event) => {
         {
             input: 'create:content_observer',
             outputs: ['chroma:basic_sieving_factory'],
-            transitionalItem: 'create:brass_casing',
+            transitionalItem: 'chroma:incomplete_basic_sieving_factory_controller',
             loops: 3,
             sequence: [
                 {
                     type: 'deploying',
-                    input: ['create:brass_casing', 'create:brass_casing'],
-                    output: 'create:brass_casing'
+                    input: ['chroma:incomplete_basic_sieving_factory_controller', 'create:brass_casing'],
+                    output: 'chroma:incomplete_basic_sieving_factory_controller'
                 },
                 {
                     type: 'deploying',
-                    input: ['create:brass_casing', 'create:electron_tube'],
-                    output: 'create:brass_casing'
+                    input: ['chroma:incomplete_basic_sieving_factory_controller', 'create:electron_tube'],
+                    output: 'chroma:incomplete_basic_sieving_factory_controller'
                 },
                 {
                     type: 'pressing',
-                    input: ['create:brass_casing'],
-                    output: 'create:brass_casing'
+                    input: ['chroma:incomplete_basic_sieving_factory_controller'],
+                    output: 'chroma:incomplete_basic_sieving_factory_controller'
                 },
                 {
                     type: 'deploying',
-                    input: ['create:brass_casing', 'create:precision_mechanism'],
-                    output: 'create:brass_casing'
+                    input: ['chroma:incomplete_basic_sieving_factory_controller', 'create:precision_mechanism'],
+                    output: 'chroma:incomplete_basic_sieving_factory_controller'
                 },
                 {
                     type: 'deploying',
-                    input: ['create:brass_casing', 'create:brass_casing'],
-                    output: 'create:brass_casing'
+                    input: ['chroma:incomplete_basic_sieving_factory_controller', 'create:brass_casing'],
+                    output: 'chroma:incomplete_basic_sieving_factory_controller'
                 },
                 {
                     type: 'pressing',
-                    input: ['create:brass_casing'],
-                    output: 'create:brass_casing'
+                    input: ['chroma:incomplete_basic_sieving_factory_controller'],
+                    output: 'chroma:incomplete_basic_sieving_factory_controller'
                 }
             ],
             id: `${id_prefix}basic_sieving_factory`
