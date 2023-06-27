@@ -43,6 +43,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'industrialforegoing:dissolution_chamber/simple_machine_frame'
         },
+        {
+            inputs: [
+                'chemlib:scandium_ingot',
+                'chemlib:magnesium_ingot',
+                'chemlib:scandium_ingot',
+                'chemlib:magnesium_ingot',
+                'chemlib:magnesium_ingot',
+                'chemlib:scandium_ingot',
+                'chemlib:magnesium_ingot',
+                'chemlib:scandium_ingot'
+            ],
+            inputFluid: 'chroma:molten_mana',
+            inputFluidAmount: 3000,
+            processingTime: 300,
+            outputItem: { item: 'undergarden:catalyst', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'undergarden:catalyst'
+        },
     ];
 
     recipes.forEach((recipe) => {
