@@ -265,6 +265,71 @@ onEvent('recipes', (event) => {
         }],
         id: 'powah:crafting/energizing_orb'
       },
+
+      {
+        recipeSize: 3,
+        layers: [
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["O", "P", "O"],
+              ["P", "B", "P"],
+              ["O", "P", "O"],
+            ]
+          },
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["F", "D", "F"],
+              ["D", "M", "D"],
+              ["F", "D", "F"],
+            ]
+          },
+          {
+            type: 'compactcrafting:mixed',
+            pattern: [
+              ["O", "P", "O"],
+              ["P", "B", "P"],
+              ["O", "P", "O"],
+            ]
+          }
+        ],
+        catalyst: {
+          id: 'mna:patch_void',
+          Count: 1
+        },
+        components: {
+          'O': {
+            type: "compactcrafting:block",
+            block: 'minecraft:obsidian'
+          },
+          'P': {
+            type: "compactcrafting:block",
+            block: 'forbidden_arcanus:processed_obsidian_block'
+          },
+          'B': {
+            type: "compactcrafting:block",
+            block: 'powah:blazing_crystal_block'
+          },
+          'M': {
+            type: "compactcrafting:block",
+            block: 'compactmachines:machine_maximum'
+          },
+          'F': {
+            type: "compactcrafting:block",
+            block: 'undergarden:forgotten_block'
+          },
+          'D': {
+            type: "compactcrafting:block",
+            block: 'industrialforegoing:dark_glass'
+          },
+        },
+        outputs: [{
+          id: 'javd:portal_block',
+          Count: 1
+        }],
+        id: 'javd:portal_block'
+      },
     ];
 
     recipes.forEach((recipe) => {
