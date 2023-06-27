@@ -44,7 +44,14 @@
 
   
   "chapter.stage.1.quest.8.description.1" : "Cogwheels can transmit rotation to another adjacent coghweel.",
-  "chapter.stage.1.quest.8.description.2" : "If a Coghweel A is facing a coghweel B  then the B will change it's rotation sense."
+  "chapter.stage.1.quest.8.description.2" : "If a Coghweel A is facing a coghweel B then the B will change it's rotation sense.",
+  "chapter.stage.1.quest.8.description.3" : "You can use, by default, the 'Z' key to have more info on coghweels.",
+
+
+  "chapter.stage.1.quest.9.description.1" : "Info : Big Cogwheels and Cogwheels can only be linked diagonally !",
+
+  
+  "chapter.stage.1.quest.10.description.1" : "Info : Big Cogwheels and Cogwheels can only be linked diagonally !"
 
 
 
