@@ -176,6 +176,44 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'compactmachines:machine_maximum'
         },
+        {
+            inputs: [
+                'powah:reactor_hardened',
+                'mekanism:advanced_control_circuit',
+                'powah:reactor_hardened',
+                'powah:capacitor_blazing',
+                'powah:capacitor_blazing',
+                'powah:reactor_hardened',
+                'mekanism:advanced_control_circuit',
+                'powah:reactor_hardened'
+            ],
+            inputFluid: 'industrialforegoing:pink_slime',
+            inputFluidAmount: 500,
+            processingTime: 300,
+            outputItem: { item: 'powah:reactor_blazing', count: 4 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'powah:crafting/reactor_blazing'
+        },
+        {
+            inputs: [
+                'powah:reactor_blazing',
+                'mekanism:elite_control_circuit',
+                'powah:reactor_blazing',
+                'powah:capacitor_niotic',
+                'powah:capacitor_niotic',
+                'powah:reactor_blazing',
+                'mekanism:elite_control_circuit',
+                'powah:reactor_blazing'
+            ],
+            inputFluid: 'materialis:molten_utherium',
+            inputFluidAmount: 500,
+            processingTime: 300,
+            outputItem: { item: 'powah:reactor_niotic', count: 4 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'powah:crafting/reactor_niotic'
+        },
     ];
 
     recipes.forEach((recipe) => {
