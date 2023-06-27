@@ -110,6 +110,17 @@ onEvent('recipes', (event) => {
             results: [{ item: 'chroma:unassembled_pity_machine_frame', count: 1 }],
             id: `${id_prefix}unassembled_pity_machine_frame`
         },
+        {
+            inputs: [
+                { item: 'chemlib:phosphoric_acid', count: 2 },
+                { item: 'chemlib:nitric_acid', count: 2 },
+                { item: 'chemlib:acetic_acid', count: 2 },
+                { item: 'pneumaticcraft:plastic_bucket', count: 1 }
+            ],
+            pressure: 1.0,
+            results: [{ item: 'pneumaticcraft:etching_acid_bucket', count: 1 }],
+            id: 'pneumaticcraft:pressure_chamber/etching_acid'
+        },
     ];
 
     recipes.forEach((recipe) => {

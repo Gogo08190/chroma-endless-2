@@ -307,4 +307,69 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('alchemistry:liquifier')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:plastic"
+        },
+        "B": {
+          "item": "pneumaticcraft:gps_tool"
+        },
+        "C": {
+          "item": "mekanism:elite_control_circuit"
+        },
+        "D": {
+          "item": "lazierae2:logic_unit"
+        },
+        "E": {
+          "item": "pneumaticcraft:air_canister"
+        }
+      },
+      "result": {
+        "item": "pneumaticcraft:amadron_tablet"
+      }
+    }
+  ).id('pneumaticcraft:amadron_tablet')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDC",
+        "EFE"
+      ],
+      "key": {
+        "A": {
+          "item": "powah:steel_energized"
+        },
+        "B": {
+          "item": "mekanism:elite_control_circuit"
+        },
+        "C": {
+          "item": "pneumaticcraft:reinforced_brick_wall"
+        },
+        "D": {
+          "item": "pneumaticcraft:small_tank"
+        },
+        "E": {
+          "item": "pneumaticcraft:reinforced_brick_slab"
+        },
+        "F": {
+          "item": "pneumaticcraft:heat_sink"
+        }
+      },
+      "result": {
+        "item": "pneumaticcraft:etching_tank"
+      }
+    }
+  ).id('pneumaticcraft:etching_tank')
 });

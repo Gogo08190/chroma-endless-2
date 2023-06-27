@@ -241,4 +241,45 @@ onEvent("recipes", (event) => {
     }
   ).id("industrialforegoing:dissolution_chamber")
   
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "CDEDA",
+        "FEGEH",
+        "CDEDA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        "B": {
+          "item": "solarpanels:improved_energy_tablet"
+        },
+        "C": {
+          "item": "pneumaticcraft:heat_sink"
+        },
+        "D": {
+          "item": "pneumaticcraft:printed_circuit_board"
+        },
+        "E": {
+          "item": "pneumaticcraft:compressed_iron_gear"
+        },
+        "F": {
+          "item": "mekanism:alloy_reinforced"
+        },
+        "G": {
+          "item": "pneumaticcraft:turbine_rotor"
+        },
+        "H": {
+          "item": "pneumaticcraft:advanced_pressure_tube"
+        }
+      },
+      "result": {
+        "item": "pneumaticcraft:flux_compressor"
+      }
+    }
+  ).id('pneumaticcraft:flux_compressor')
 });

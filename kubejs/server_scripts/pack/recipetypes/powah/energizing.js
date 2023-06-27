@@ -175,6 +175,22 @@ onEvent('recipes', (event) => {
                 count: 1
             },
             id: 'rftoolspower:power_core2'
+        },
+        {
+            ingredients: [
+                { item: 'pneumaticcraft:printed_circuit_board' },
+                { item: 'pneumaticcraft:plastic' },
+                { item: 'pneumaticcraft:plastic' },
+                { item: 'pneumaticcraft:plastic' },
+                { item: 'mekanism:alloy_infused' },
+                { item: 'mekanism:alloy_infused' }
+            ],
+            energy: 25000,
+            result: {
+                item: 'pneumaticcraft:module_expansion_card',
+                count: 2
+            },
+            id: 'rftoolspower:power_core2'
         }
     ];
 

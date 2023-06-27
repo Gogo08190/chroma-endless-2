@@ -122,6 +122,52 @@ onEvent('recipes', (event) => {
             },
             id: 'pneumaticcraft:spawner_agitator'
         },
+        {
+            output: 'pneumaticcraft:uv_light_box',
+            pattern: ['RLR', 'CPT', 'CCC'],
+            key: {
+                P: 'pneumaticcraft:pcb_blueprint',
+                C: '#forge:ingots/compressed_iron',
+                T: 'pneumaticcraft:reinforced_pressure_tube',
+                R: '#forge:glass/red',
+                L: 'extendedcrafting:luminessence_block'
+            },
+            id: 'pneumaticcraft:uv_light_box'
+        },
+        {
+            output: 'pneumaticcraft:assembly_controller',
+            pattern: [' I ', 'TMT', 'CEC'],
+            key: {
+                M: 'pneumaticcraft:module_expansion_card',
+                E: 'mekanism:elite_control_circuit',
+                C: '#forge:ingots/compressed_iron',
+                T: 'pneumaticcraft:reinforced_pressure_tube',
+                I: 'rftoolsbase:information_screen'
+            },
+            id: 'pneumaticcraft:assembly_controller'
+        },
+        {
+            output: 'pneumaticcraft:advanced_air_compressor',
+            pattern: ['CCC', 'CPT', 'CAC'],
+            key: {
+                P: 'pneumaticcraft:printed_circuit_board',
+                A: 'pneumaticcraft:air_compressor',
+                T: 'pneumaticcraft:advanced_pressure_tube',
+                C: '#forge:ingots/compressed_iron'
+            },
+            id: 'pneumaticcraft:advanced_air_compressor'
+        },
+        {
+            output: 'pneumaticcraft:advanced_liquid_compressor',
+            pattern: ['CCC', 'CPT', 'CLC'],
+            key: {
+                P: 'pneumaticcraft:printed_circuit_board',
+                L: 'pneumaticcraft:liquid_compressor',
+                T: 'pneumaticcraft:advanced_pressure_tube',
+                C: '#forge:ingots/compressed_iron'
+            },
+            id: 'pneumaticcraft:advanced_liquid_compressor'
+        },
     ];
 
     recipes.forEach((recipe) => {

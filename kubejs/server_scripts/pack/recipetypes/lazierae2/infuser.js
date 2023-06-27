@@ -87,6 +87,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: 'rftoolsbase:machine_frame'
       },
+      {
+        output: { item: 'pneumaticcraft:printed_circuit_board', count: 1 },
+        inputs: [
+          { item: 'pneumaticcraft:unassembled_pcb', count: 1 },
+          { item: 'pneumaticcraft:capacitor', count: 4 },
+          { item: 'pneumaticcraft:transistor', count: 4 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'pneumaticcraft:printed_circuit_board'
+      },
     ];
 
     recipes.forEach((recipe) => {
