@@ -233,6 +233,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'mekanism:dynamic_tank'
         },
+        {
+            inputs: [
+                'ae2:fluix_glass_cable',
+                'mekanism:hdpe_sheet',
+                'ae2:calculation_processor',
+                'mekanism:hdpe_sheet',
+                'mekanism:hdpe_sheet',
+                'ae2:engineering_processor',
+                'mekanism:hdpe_sheet',
+                'ae2:logic_processor'
+            ],
+            inputFluid: 'jaopca:molten.certus_quartz',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'ae2:crafting_unit', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'ae2:network/crafting/cpu_crafting_unit'
+        },
     ];
 
     recipes.forEach((recipe) => {

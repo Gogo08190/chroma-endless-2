@@ -213,6 +213,32 @@ onEvent('recipes', (event) => {
                 count: 1
             },
             id: 'powah:energizing/niotic_crystal'
+        },
+        {
+            ingredients: [
+                { item: '#ae2:illuminated_panel' },
+                { item: '#ae2:pattern_provider' },
+                { item: 'ae2:engineering_processor' }
+            ],
+            energy: 70000,
+            result: {
+                item: 'ae2:pattern_access_terminal',
+                count: 1
+            },
+            id: 'ae2:network/parts/terminals_pattern_access'
+        },
+        {
+            ingredients: [
+                { item: 'ae2:blank_pattern' },
+                { item: 'ae2:crafting_terminal' },
+                { item: 'ae2:engineering_processor' }
+            ],
+            energy: 70000,
+            result: {
+                item: 'ae2:pattern_encoding_terminal',
+                count: 1
+            },
+            id: 'ae2:network/parts/terminals_pattern_encoding'
         }
     ];
 

@@ -98,6 +98,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: 'pneumaticcraft:printed_circuit_board'
       },
+      {
+        output: { item: 'ae2:crafting_accelerator', count: 1 },
+        inputs: [
+          { item: 'ae2:calculation_processor', count: 2 },
+          { item: 'mekanism:ultimate_control_circuit', count: 4 },
+          { item: 'ae2:crafting_unit', count: 1 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'ae2:network/crafting/cpu_crafting_accelerator'
+      },
     ];
 
     recipes.forEach((recipe) => {

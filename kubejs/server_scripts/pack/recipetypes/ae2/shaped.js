@@ -470,6 +470,41 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}chemical_storage_cell_256k`
         },
+        {
+            output: 'ae2:molecular_assembler',
+            pattern: ['PUP', 'AVF', 'PUP'],
+            key: {
+                V: 'ae2:quartz_vibrant_glass',
+                P: 'mekanism:hdpe_sheet',
+                U: 'mekanism:ultimate_control_circuit',
+                A: 'ae2:annihilation_core',
+                F: 'ae2:formation_core'
+            },
+            id: 'ae2:network/crafting/molecular_assembler'
+        },
+        {
+            output: 'ae2:pattern_provider',
+            pattern: ['RAR', 'HTH', 'RFR'],
+            key: {
+                T: 'mekanism:alloy_atomic',
+                A: 'ae2:annihilation_core',
+                F: 'ae2:formation_core',
+                H: 'mekanism:hdpe_rod',
+                R: 'undergarden:regalium_crystal'
+            },
+            id: 'ae2:network/blocks/pattern_providers_interface'
+        },
+        {
+            output: Item.of('ae2:blank_pattern', 2),
+            pattern: ['VRV', 'RCR', 'HHH'],
+            key: {
+                C: 'ae2:certus_quartz_crystal',
+                H: 'mekanism:hdpe_sheet',
+                R: 'undergarden:regalium_crystal',
+                V: 'ae2:quartz_vibrant_glass'
+            },
+            id: 'ae2:network/crafting/patterns_blank'
+        },
     ];
 
     recipes.forEach((recipe) => {
