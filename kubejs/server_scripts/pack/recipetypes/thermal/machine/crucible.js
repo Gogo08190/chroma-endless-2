@@ -127,6 +127,24 @@ onEvent('recipes', (event) => {
           energy: 555,
           id: `${id_prefix}netherite_nugget`
       },
+      {
+          output: Fluid.of('jaopca:molten.certus_quartz', 100),
+          input: '#ae2:all_certus_quartz',
+          energy: 5000,
+          id: `${id_prefix}all_certus_quartz`
+      },
+      {
+          output: Fluid.of('jaopca:molten.certus_quartz', 100),
+          input: '#ae2:all_quartz_dust',
+          energy: 5000,
+          id: `${id_prefix}all_certus_quartz_dust`
+      },
+      {
+          output: Fluid.of('jaopca:molten.certus_quartz', 400),
+          input: '#forge:storage_blocks/certus_quartz',
+          energy: 20000,
+          id: `${id_prefix}certus_quartz_block`
+      },
     ];
 
     recipes.forEach((recipe) => {
