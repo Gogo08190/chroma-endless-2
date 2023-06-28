@@ -17,6 +17,11 @@ onEvent('recipes', (event) => {
           inputs: ['minecraft:red_sand'],
           id: 'create:crafting/materials/red_sand_paper'
       },
+      {
+          output: 'chroma:resin_plate',
+          inputs: ['chroma:raw_resin'],
+          id: `${id_prefix}resin_plate`
+      },
     ];
 
     recipes.forEach((recipe) => {

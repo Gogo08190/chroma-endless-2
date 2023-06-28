@@ -133,7 +133,14 @@ onEvent('recipes', (event) => {
           mold : 'tconstruct:rod_cast',
           energy : 2400,
           id: 'thermal:chiller_rod_cast'
-      }
+      },
+      {
+          input: 'chroma:raw_resin',
+          output: 'chroma:resin_plate',
+          mold : 'immersiveengineering:mold_plate',
+          energy : 2400,
+          id: `${id_prefix}resin_plate`
+      },
     ];
 
     recipes.forEach((recipe) => {

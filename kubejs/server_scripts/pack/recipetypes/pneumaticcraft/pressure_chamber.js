@@ -132,6 +132,16 @@ onEvent('recipes', (event) => {
             results: [{ item: 'mekanism:quantum_entangloporter', count: 1 }],
             id: 'mekanism:quantum_entangloporter'
         },
+        {
+            inputs: [
+                { item: 'thermal:redstone_servo', count: 1 },
+                { item: 'chroma:resin_plate', count: 1 },
+                { item: 'thermal:electrum_nugget', count: 3 }
+            ],
+            pressure: 1.5,
+            results: [{ item: 'pneumaticcraft:empty_pcb', count: 3 }],
+            id: 'pneumaticcraft:pressure_chamber/empty_pcb'
+        },
     ];
 
     recipes.forEach((recipe) => {

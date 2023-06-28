@@ -12,6 +12,17 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}mana_diamond_plate`
         },
+        {
+            input: {
+              item: 'chroma:raw_resin'
+            },
+            cookTime: 200,
+            output: {
+                item: 'chroma:resin_plate',
+                count: 1
+            },
+            id: `${id_prefix}resin_plate`
+        },
     ];
 
     recipes.forEach((recipe) => {

@@ -80,6 +80,12 @@ onEvent('recipes', (event) => {
         energy: '2400',
         id: `${id_prefix}base_augment`
       },
+      {
+        inputs: ['chroma:raw_resin'],
+        output: 'chroma:resin_plate',
+        energy: '2400',
+        id: `${id_prefix}resin_plate`
+      },
     ];
 
     recipes.forEach((recipe) => {
