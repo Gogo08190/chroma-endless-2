@@ -121,6 +121,17 @@ onEvent('recipes', (event) => {
             results: [{ item: 'pneumaticcraft:etching_acid_bucket', count: 1 }],
             id: 'pneumaticcraft:pressure_chamber/etching_acid'
         },
+        {
+            inputs: [
+                { item: 'mekanism:ingot_refined_obsidian', count: 4 },
+                { item: 'mekanism:alloy_atomic', count: 2 },
+                { item: 'mekanism:ultimate_control_circuit', count: 2 },
+                { item: 'mekanism:teleportation_core', count: 1 }
+            ],
+            pressure: 1.0,
+            results: [{ item: 'mekanism:quantum_entangloporter', count: 1 }],
+            id: 'mekanism:quantum_entangloporter'
+        },
     ];
 
     recipes.forEach((recipe) => {

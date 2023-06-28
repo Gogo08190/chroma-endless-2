@@ -282,4 +282,67 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('pneumaticcraft:flux_compressor')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        " ABA ",
+        "ACDCA",
+        "  E  ",
+        "  E  ",
+        "  E  "
+      ],
+      "key": {
+        "A": {
+          "item": "doom:argent_plate"
+        },
+        "B": {
+          "item": "undergarden:regalium_block"
+        },
+        "C": {
+          "item": "solarpanels:improved_energy_tablet"
+        },
+        "D": {
+          "item": "mekanism:alloy_atomic"
+        },
+        "E": {
+          "item": "mekanism:hdpe_stick"
+        }
+      },
+      "result": {
+        "item": "mekaevolution:plasma_pickaxe"
+      }
+    }
+  ).id('mekaevolution:plasma_pickaxe')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAA",
+        "ABCBA",
+        "ACDCA",
+        "ABCBA",
+        "AAAAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mekanism:thermal_evaporation_block"
+        },
+        "B": {
+          "item": "powah:thermoelectric_plate"
+        },
+        "C": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "D": {
+          "item": "mekanism:elite_fluid_tank"
+        }
+      },
+      "result": {
+        "item": "mekanism:thermal_evaporation_controller"
+      }
+    }
+  ).id('mekanism:thermal_evaporation/controller')
 });

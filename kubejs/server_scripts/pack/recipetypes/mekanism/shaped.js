@@ -251,6 +251,185 @@ onEvent('recipes', (event) => {
             },
             id: 'mekanism:precision_sawmill'
         },
+        {
+            output: 'mekanismgenerators:bio_generator',
+            pattern: ['RAR', 'BSB', 'ICI'],
+            key: {
+                S: 'mekanism:steel_casing',
+                I: '#forge:ingots/steel',
+                C: 'powah:capacitor_blazing',
+                B: 'mekanism:bio_fuel',
+                R: 'extendedcrafting:redstone_ingot',
+                A: 'mekanism:alloy_reinforced'
+            },
+            id: 'mekanismgenerators:generator/bio'
+        },
+        {
+            output: 'mekanismgenerators:advanced_solar_generator',
+            pattern: ['SAS', 'SES', 'ICI'],
+            key: {
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                I: '#forge:ingots/steel',
+                C: 'powah:capacitor_blazing',
+                A: 'mekanism:alloy_reinforced',
+                S: Item.of('mekanismgenerators:solar_generator').ignoreNBT()
+            },
+            id: 'mekanismgenerators:generator/advanced_solar'
+        },
+        {
+            output: 'mekanism:resistive_heater',
+            pattern: ['IAI', 'CSC', 'IEI'],
+            key: {
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                I: '#forge:ingots/steel',
+                C: 'powah:capacitor_blazing',
+                A: 'pneumaticcraft:heat_sink',
+                S: 'mekanism:steel_casing'
+            },
+            id: 'mekanism:resistive_heater'
+        },
+        {
+            output: 'mekanism:electrolytic_core',
+            pattern: ['ISI', 'LAC', 'ISI'],
+            key: {
+                A: 'ae2:annihilation_core',
+                I: 'mekanism:alloy_infused',
+                S: '#forge:ingots/steel',
+                L: 'chemlib:lutetium_ingot',
+                C: 'chemlib:iridium_ingot'
+            },
+            id: 'mekanism:electrolytic_core'
+        },
+        {
+            output: 'mekanism:electrolytic_separator',
+            pattern: ['IEI', 'RSR', 'ITI'],
+            key: {
+                S: 'mekanism:steel_casing',
+                I: '#forge:ingots/steel',
+                R: 'mekanism:alloy_reinforced',
+                E: 'mekanism:electrolytic_core',
+                T: Item.of('solarpanels:improved_energy_tablet').weakNBT()
+            },
+            id: 'mekanism:electrolytic_separator'
+        },
+        {
+            output: 'mekanism:pressurized_reaction_chamber',
+            pattern: ['IAI', 'UEU', 'CDC'],
+            key: {
+                E: Item.of('mekanism:enrichment_chamber').ignoreNBT(),
+                D: 'mekanism:dynamic_tank',
+                C: Item.of('mekanism:basic_chemical_tank').ignoreNBT(),
+                U: 'mekanism:ultimate_control_circuit',
+                I: '#forge:ingots/steel',
+                A: 'mekanism:alloy_atomic'
+            },
+            id: 'mekanism:pressurized_reaction_chamber'
+        },
+        {
+            output: 'mekanism:purification_chamber',
+            pattern: ['AUA', 'SES', 'AUA'],
+            key: {
+                E: Item.of('mekanism:enrichment_chamber').ignoreNBT(),
+                U: 'mekanism:ultimate_control_circuit',
+                A: 'mekanism:alloy_atomic',
+                S: 'mna:superheated_purified_vinteum_ingot'
+            },
+            id: 'mekanism:purification_chamber'
+        },
+        {
+            output: Item.of('mekanism:dynamic_valve', 2),
+            pattern: [' D ', 'DUD', ' D '],
+            key: {
+                D: 'mekanism:dynamic_tank',
+                U: 'mekanism:ultimate_control_circuit'
+            },
+            id: 'mekanism:dynamic_valve'
+        },
+        {
+            output: 'mekanism:basic_energy_cube',
+            pattern: ['BEB', 'CSC', 'BEB'],
+            key: {
+                S: 'mekanism:steel_casing',
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                B: 'powah:capacitor_blazing',
+                C: 'mekanism:basic_control_circuit'
+            },
+            id: 'mekanism:energy_cube/basic'
+        },
+        {
+            output: 'mekanism:advanced_energy_cube',
+            pattern: ['BEB', 'CSC', 'BEB'],
+            key: {
+                S: Item.of('mekanism:basic_energy_cube').ignoreNBT(),
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                B: 'mekanism:alloy_infused',
+                C: 'mekanism:advanced_control_circuit'
+            },
+            id: 'mekanism:energy_cube/advanced'
+        },
+        {
+            output: 'mekanism:elite_energy_cube',
+            pattern: ['BEB', 'CSC', 'BEB'],
+            key: {
+                S: Item.of('mekanism:advanced_energy_cube').ignoreNBT(),
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                B: 'mekanism:alloy_reinforced',
+                C: 'mekanism:elite_control_circuit'
+            },
+            id: 'mekanism:energy_cube/elite'
+        },
+        {
+            output: 'mekanism:ultimate_energy_cube',
+            pattern: ['BEB', 'CSC', 'BEB'],
+            key: {
+                S: Item.of('mekanism:elite_energy_cube').ignoreNBT(),
+                E: Item.of('solarpanels:quantum_energy_tablet').weakNBT(),
+                B: 'mekanism:alloy_atomic',
+                C: 'mekanism:ultimate_control_circuit'
+            },
+            id: 'mekanism:energy_cube/ultimate'
+        },
+        {
+            output: 'mekanism:teleportation_core',
+            pattern: ['DAI', 'BEB', 'IAD'],
+            key: {
+                E: 'powah:ender_core',
+                B: 'powah:crystal_blazing',
+                A: 'mekanism:alloy_atomic',
+                D: 'rftoolsbase:infused_diamond',
+                I: 'rftoolsbase:infused_enderpearl'
+            },
+            id: 'mekanism:teleportation_core'
+        },
+        {
+            output: 'solarpanels:quantum_energy_tablet',
+            pattern: ['URU', 'AEA', 'URU'],
+            key: {
+                E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                U: 'mekanism:ultimate_control_circuit',
+                A: 'mekanism:alloy_atomic',
+                R: 'mekanism:enriched_refined_obsidian'
+            },
+            id: 'solarpanels:quantum_energy_tablet'
+        },
+        {
+            output: Item.of('mekanism:thermal_evaporation_block', 4),
+            pattern: [' S ', 'SCS', ' S '],
+            key: {
+                S: 'immersiveengineering:plate_steel',
+                C: '#forge:plates/copper'
+            },
+            id: 'mekanism:thermal_evaporation/block'
+        },
+        {
+            output: 'mekanism:thermal_evaporation_valve',
+            pattern: [' S ', 'SCS', ' S '],
+            key: {
+                S: 'mekanism:thermal_evaporation_block',
+                C: 'mekanism:ultimate_control_circuit'
+            },
+            id: 'mekanism:thermal_evaporation/valve'
+        },
     ];
 
     recipes.forEach((recipe) => {

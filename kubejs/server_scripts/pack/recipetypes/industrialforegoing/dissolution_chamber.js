@@ -214,6 +214,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'powah:crafting/reactor_niotic'
         },
+        {
+            inputs: [
+                'pneumaticcraft:plastic',
+                '#forge:ingots/steel',
+                'pneumaticcraft:plastic',
+                '#forge:ingots/steel',
+                '#forge:ingots/steel',
+                'pneumaticcraft:plastic',
+                '#forge:ingots/steel',
+                'pneumaticcraft:plastic'
+            ],
+            inputFluid: 'tconstruct:molten_copper',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'mekanism:dynamic_tank', count: 4 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'mekanism:dynamic_tank'
+        },
     ];
 
     recipes.forEach((recipe) => {

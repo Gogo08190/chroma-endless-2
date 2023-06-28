@@ -51,6 +51,13 @@ onEvent('recipes', (event) => {
         infusionAmount: 40,
         id: 'mekanism:control_circuit/elite'
       },
+      {
+        output: 'mekanism:ultimate_control_circuit',
+        input: 'mekanism:elite_control_circuit',
+        infusionInput: 'mekanism:refined_obsidian',
+        infusionAmount: 40,
+        id: 'mekanism:control_circuit/ultimate'
+      },
     ];
 
     recipes.forEach((recipe) => {

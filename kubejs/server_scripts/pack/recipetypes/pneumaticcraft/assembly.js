@@ -8,6 +8,12 @@ onEvent('recipes', (event) => {
             program: 'drill',
             id: 'industrialforegoing:machine_frame_pity'
         },
+        {
+            input: { item: 'minecraft:obsidian', count: 1 },
+            output: { item: 'mekanism:dust_obsidian', count: 1 },
+            program: 'drill',
+            id: 'mekanism:enriching/conversion/obsidian_to_obsidian_dust'
+        },
     ];
 
     recipes.forEach((recipe) => {
