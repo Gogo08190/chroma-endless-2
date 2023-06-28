@@ -345,4 +345,139 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mekanism:thermal_evaporation/controller')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FEGEF",
+        "BHEHB",
+        "ABIBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:compressed_desh"
+        },
+        "B": {
+          "item": "lazierae2:fluix_steel_ingot"
+        },
+        "C": {
+          "item": "ae2:charger"
+        },
+        "D": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "E": {
+          "item": "lazierae2:logic_unit"
+        },
+        "F": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_simple"
+        },
+        "H": {
+          "item": "ae2:dense_energy_cell"
+        },
+        "I": {
+          "item": "lazierae2:growth_core"
+        }
+      },
+      "result": {
+        "item": "lazierae2:aggregator"
+      }
+    }
+  ).id('lazierae2:aggregator')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FEGEH",
+        "BDIDB",
+        "ABJBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:compressed_desh"
+        },
+        "B": {
+          "item": "lazierae2:fluix_steel_ingot"
+        },
+        "C": {
+          "item": "ae2:logic_processor"
+        },
+        "D": {
+          "item": "lazierae2:logic_unit"
+        },
+        "E": {
+          "item": "ae2:inscriber"
+        },
+        "F": {
+          "item": "ae2:calculation_processor"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_simple"
+        },
+        "H": {
+          "item": "ae2:engineering_processor"
+        },
+        "I": {
+          "item": "lazierae2:universal_press"
+        },
+        "J": {
+          "item": "lazierae2:parallel_processor"
+        }
+      },
+      "result": {
+        "item": "lazierae2:etcher"
+      }
+    }
+  ).id('lazierae2:etcher')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "CFGFC",
+        "BDEDB",
+        "ABHBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:compressed_desh"
+        },
+        "B": {
+          "item": "lazierae2:fluix_steel_ingot"
+        },
+        "C": {
+          "item": "minecraft:amethyst_shard"
+        },
+        "D": {
+          "item": "lazierae2:logic_unit"
+        },
+        "E": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "F": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_simple"
+        },
+        "H": {
+          "item": "mekanism:crusher"
+        }
+      },
+      "result": {
+        "item": "lazierae2:grinder"
+      }
+    }
+  ).id('lazierae2:grinder')
 });

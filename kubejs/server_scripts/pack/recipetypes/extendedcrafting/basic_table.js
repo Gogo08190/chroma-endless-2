@@ -372,4 +372,38 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('pneumaticcraft:etching_tank')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDE",
+        "AFA"
+      ],
+      "key": {
+        "A": {
+          "item": "lazierae2:fluix_steel_ingot"
+        },
+        "B": {
+          "item": "ae2:silicon_press"
+        },
+        "C": {
+          "item": "ae2:calculation_processor_press"
+        },
+        "D": {
+          "item": "ae2:singularity"
+        },
+        "E": {
+          "item": "ae2:logic_processor_press"
+        },
+        "F": {
+          "item": "ae2:engineering_processor_press"
+        }
+      },
+      "result": {
+        "item": "lazierae2:universal_press"
+      }
+    }
+  ).id('lazierae2:universal_press')
 });
