@@ -95,4 +95,8 @@ const disabledItems = [
     'rftoolspower:coalgenerator',
 
     'advancedperipherals:chunk_controller',
+
+    'beyond_earth:water_pump',
+    'beyond_earth:coal_generator',
+    'beyond_earth:oxygen_loader',
 ];

@@ -21,7 +21,28 @@ onEvent('recipes', (event) => {
           powerRate: 1000,
           result: { item: 'chroma:gun_table_heart' },
           id: `${id_prefix}chroma:gun_table_heart`
-      }
+      },
+      {
+          inputs: [
+              { item: 'chroma:carbon_fiber' },
+              { item: 'chroma:carbon_fiber' },
+              { item: 'chroma:carbon_fiber' },
+              { item: 'jaopca:beyond_earth_compresseds.utherium' },
+              { item: 'mekanism:alloy_atomic' },
+              { item: 'jaopca:beyond_earth_compresseds.utherium' },
+              { item: 'beyond_earth:compressed_steel' },
+              { item: 'pneumaticcraft:printed_circuit_board' },
+              { item: 'beyond_earth:compressed_steel' },
+              { item: 'jaopca:beyond_earth_compresseds.utherium' },
+              { item: 'mekanism:alloy_atomic' },
+              { item: 'jaopca:beyond_earth_compresseds.utherium' }
+          ],
+          catalyst: { item: 'extendedcrafting:advanced_table' },
+          powerCost: 20000,
+          powerRate: 1000,
+          result: { item: 'beyond_earth:nasa_workbench' },
+          id: 'beyond_earth:nasa_workbench'
+      },
     ];
 
     recipes.forEach((recipe) => {

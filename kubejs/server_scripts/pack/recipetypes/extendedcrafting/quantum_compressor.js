@@ -10,6 +10,14 @@ onEvent('recipes', (event) => {
           result: { item: 'chroma:miner_core' },
           id: `${id_prefix}miner_core`
       },
+      {
+          powerCost: 500000,
+          inputCount: 512,
+          ingredient: { item: 'chemlib:carbon' },
+          catalyst: { item: 'beyond_earth_giselle_addon:mold_compressing' },
+          result: { item: 'chroma:carbon_fiber' },
+          id: `${id_prefix}carbon_fiber`
+      },
     ];
 
     recipes.forEach((recipe) => {

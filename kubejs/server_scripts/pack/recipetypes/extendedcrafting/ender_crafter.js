@@ -37,6 +37,26 @@ onEvent('recipes', (event) => {
           result: { item: 'extendedcrafting:elite_auto_table', count: 1 },
           id: 'extendedcrafting:elite_auto_table'
       },
+      {
+          pattern: ['ISI', 'SBS', 'ISI'],
+          key: {
+            I: { tag: 'forge:ingots/tungsten' },
+            S: { tag: 'forge:plates/steel' },
+            B: { tag: 'forge:ingots/chromium' }
+          },
+          result: { item: 'beyond_earth:rocket_launch_pad', count: 9 },
+          id: 'beyond_earth:rocket_launch_pad'
+      },
+      {
+          pattern: ['SSS', 'CFC', 'SSS'],
+          key: {
+            S: { tag: 'beyond_earth:compresseds/steel' },
+            C: { item: 'chroma:carbon_fiber' },
+            F: { item: 'beyond_earth:fuel_bucket' }
+          },
+          result: { item: 'beyond_earth_giselle_addon:fuel_loader', count: 1 },
+          id: 'beyond_earth_giselle_addon:crafting/fuel_loader'
+      },
     ];
 
     recipes.forEach((recipe) => {

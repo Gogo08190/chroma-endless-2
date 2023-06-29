@@ -627,4 +627,52 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mekaevolution:absolute_energy_cube')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABBBA",
+        "BCDCB",
+        "EFGHI",
+        "BCDCB",
+        "ABBBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:wheel"
+        },
+        "B": {
+          "item": "jaopca:beyond_earth_compresseds.tungsten"
+        },
+        "C": {
+          "type": "forge:nbt",
+          "item": "mekanism:hdpe_sheet",
+          "count": 1,
+          "nbt": "{display:{Name:\u0027{\"text\":\"Carbon sheet\"}\u0027}}"
+        },
+        "D": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "E": {
+          "item": "xnet:antenna_dish"
+        },
+        "F": {
+          "item": "mekanism:elite_fluid_tank"
+        },
+        "G": {
+          "item": "create:white_seat"
+        },
+        "H": {
+          "item": "mekanism:personal_barrel"
+        },
+        "I": {
+          "item": "industrialforegoing:machine_frame_simple"
+        }
+      },
+      "result": {
+        "item": "beyond_earth:rover"
+      }
+    }
+  ).id('beyond_earth:rover')
 });
