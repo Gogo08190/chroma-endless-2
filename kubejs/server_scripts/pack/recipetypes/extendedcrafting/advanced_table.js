@@ -551,7 +551,7 @@ onEvent("recipes", (event) => {
         "item": "extendedcrafting:compressor"
       }
     }
-  ).id('extendedcrafting:crafting_core')
+  ).id('extendedcrafting:compressor')
 
   event.custom(
     {
