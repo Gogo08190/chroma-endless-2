@@ -271,6 +271,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'extendedcrafting:elite_table'
         },
+        {
+            inputs: [
+                'biggerreactors:blutonium_ingot',
+                'thermal:enderium_block',
+                'biggerreactors:blutonium_ingot',
+                'minecraft:blaze_rod',
+                'minecraft:blaze_rod',
+                'biggerreactors:blutonium_ingot',
+                'thermal:enderium_block',
+                'biggerreactors:blutonium_ingot'
+            ],
+            inputFluid: 'industrialforegoing:pink_slime',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'biggerreactors:ludicrite_block', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'biggerreactors:crafting/ludicrite_block_enderium'
+        },
     ];
 
     recipes.forEach((recipe) => {

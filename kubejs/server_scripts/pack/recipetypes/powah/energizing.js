@@ -267,6 +267,22 @@ onEvent('recipes', (event) => {
                 count: 1
             },
             id: `${id_prefix}supra_component`
+        },
+        {
+            ingredients: [
+                { item: 'biggerreactors:graphite_block' },
+                { item: 'biggerreactors:graphite_block' },
+                { item: 'biggerreactors:uranium_block' },
+                { item: 'biggerreactors:uranium_block' },
+                { item: 'powah:energized_steel_block' },
+                { item: 'extendedcrafting:redstone_ingot_block' }
+            ],
+            energy: 10000,
+            result: {
+                item: 'biggerreactors:reactor_casing',
+                count: 8
+            },
+            id: 'biggerreactors:crafting/reactor/reactor_casing'
         }
     ];
 

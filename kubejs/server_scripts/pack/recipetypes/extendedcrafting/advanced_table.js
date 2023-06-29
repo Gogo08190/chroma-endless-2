@@ -552,4 +552,43 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('extendedcrafting:crafting_core')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDEA",
+        "FGDGF",
+        "AEDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "biggerreactors:reactor_casing"
+        },
+        "B": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "C": {
+          "item": "powah:niotic_crystal_block"
+        },
+        "D": {
+          "item": "biggerreactors:reactor_fuel_rod"
+        },
+        "E": {
+          "item": "extendedcrafting:redstone_ingot_block"
+        },
+        "F": {
+          "item": "minecraft:piston"
+        },
+        "G": {
+          "item": "pneumaticcraft:module_expansion_card"
+        }
+      },
+      "result": {
+        "item": "biggerreactors:cyanite_reprocessor"
+      }
+    }
+  ).id('biggerreactors:crafting/cyanite_reprocessor')
 });
