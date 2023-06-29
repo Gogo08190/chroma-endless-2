@@ -36,7 +36,7 @@
   "chapter.stage.1.quest.5.description.2" : "I suggest you look how to craft this new mix.",
   "chapter.stage.1.quest.5.description.3" : "New way of crafting this alloy are offered later in the game, don't worry.",
 
-  "chapter.stage.1.quest.6.description.1" : "Now that you have this alloy, you will be able for now to wash it to use it.",
+  "chapter.stage.1.quest.6.description.1" : "Now that you have this alloy, you will be able for now to burn it to smelt it and then have the Andesite Alloy.",
   "chapter.stage.1.quest.6.description.2" : "Like the mix, the ingot can be crafted easier later in the game. You can check recipes to see them.",
 
   
@@ -51,12 +51,17 @@
   "chapter.stage.1.quest.9.description.1" : "Info : Big Cogwheels and Cogwheels can only be linked diagonally !",
 
   
-  "chapter.stage.1.quest.10.description.1" : "Info : Big Cogwheels and Cogwheels can only be linked diagonally !"
+  "chapter.stage.1.quest.10.description.1" : "It generates rotational force when water flows over it Due to the fact that the materials required to craft it are easily accessible in the early-game.", 
+  "chapter.stage.1.quest.10.description.2" : "The Water Wheel serves as the earliest generator that can be made. Total stress capacity can be increased by adding more wheels in sequence.",
+  "chapter.stage.1.quest.10.description.3" : "When water flows over a Water Wheel, it will begin to rotate. This rotational power can be conveyed to other components from the Water Wheels' axis",
+  "chapter.stage.1.quest.10.description.4" : "The more sides of the wheel the water covers, the faster the wheel will rotate and the more stress capacity it will provide. Only flowing water or source blocks with bubble columns counts toward the power generation.",
+  "chapter.stage.1.quest.10.description.5" : "To maximize the output from a Water Wheel, have water flowing in the right direction around as much of the wheel as possible.",
 
+  "chapter.stage.1.quest.11.description.1": "Any block can be attached to the front of the Windmill Bearing but only Wool and Sails will produce power. The wool or sail can be placed in any configuration since shape does not matter.",
+  "chapter.stage.1.quest.11.description.2": "Super Glue is needed to attach blocks together. Sails will connect to each other and blocks that have already been attached without needing to use Super Glue. Right Click the windmill bearing with an empty hand to start the windmill.",
+  "chapter.stage.1.quest.11.description.3": "If you want to stop it to change the attached blocks, simply right-click on the block with an empty hand again. A Wrench can be used to change the spin direction of the windmill",
 
-
-
-
+  "chapter.stage.1.quest.12.description.1": ""
 
 
 
