@@ -216,8 +216,8 @@ onEvent('recipes', (event) => {
         },
         {
             ingredients: [
-                { item: '#ae2:illuminated_panel' },
-                { item: '#ae2:pattern_provider' },
+                { tag: 'ae2:illuminated_panel' },
+                { tag: 'ae2:pattern_provider' },
                 { item: 'ae2:engineering_processor' }
             ],
             energy: 70000,
