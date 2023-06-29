@@ -239,6 +239,34 @@ onEvent('recipes', (event) => {
                 count: 1
             },
             id: 'ae2:network/parts/terminals_pattern_encoding'
+        },
+        {
+            ingredients: [
+                { item: 'extendedcrafting:luminessence' },
+                { item: 'extendedcrafting:black_iron_slate' },
+                { item: 'undergarden:forgotten_ingot' },
+                { item: 'undergarden:forgotten_ingot' }
+            ],
+            energy: 30000,
+            result: {
+                item: 'extendedcrafting:elite_component',
+                count: 1
+            },
+            id: 'extendedcrafting:elite_component'
+        },
+        {
+            ingredients: [
+                { item: 'extendedcrafting:luminessence' },
+                { item: 'extendedcrafting:black_iron_slate' },
+                { item: 'undergarden:utherium_crystal' },
+                { item: 'undergarden:utherium_crystal' }
+            ],
+            energy: 40000,
+            result: {
+                item: 'chroma:supra_component',
+                count: 1
+            },
+            id: `${id_prefix}supra_component`
         }
     ];
 

@@ -240,7 +240,7 @@ onEvent("recipes", (event) => {
       }
     }
   ).id("industrialforegoing:dissolution_chamber")
-  
+
   event.custom(
     {
       "type": "extendedcrafting:shaped_table",
@@ -480,4 +480,76 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('lazierae2:grinder')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "CEFEC",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "chroma:supra_catalyst"
+        },
+        "B": {
+          "item": "pneumaticcraft:printed_circuit_board"
+        },
+        "C": {
+          "item": "mekanism:elite_control_circuit"
+        },
+        "D": {
+          "item": "undergarden:utherium_block"
+        },
+        "E": {
+          "item": "create:mechanical_crafter"
+        },
+        "F": {
+          "item": "extendedcrafting:frame"
+        }
+      },
+      "result": {
+        "item": "extendedcrafting:crafting_core"
+      }
+    }
+  ).id('extendedcrafting:crafting_core')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "CEFEC",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "chroma:supra_catalyst"
+        },
+        "B": {
+          "item": "pneumaticcraft:printed_circuit_board"
+        },
+        "C": {
+          "item": "mekanism:elite_control_circuit"
+        },
+        "D": {
+          "item": "undergarden:utherium_block"
+        },
+        "E": {
+          "item": "ae2:singularity"
+        },
+        "F": {
+          "item": "extendedcrafting:frame"
+        }
+      },
+      "result": {
+        "item": "extendedcrafting:compressor"
+      }
+    }
+  ).id('extendedcrafting:crafting_core')
 });

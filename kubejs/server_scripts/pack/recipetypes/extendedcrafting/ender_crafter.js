@@ -25,6 +25,18 @@ onEvent('recipes', (event) => {
           result: { item: 'extendedcrafting:advanced_auto_table', count: 1 },
           id: 'extendedcrafting:advanced_auto_table'
       },
+      {
+          pattern: ['CRC', 'BTB', 'CNC'],
+          key: {
+            C: { item: 'extendedcrafting:redstone_component' },
+            R: { item: 'extendedcrafting:redstone_catalyst' },
+            B: { item: 'powah:capacitor_niotic' },
+            T: { item: 'extendedcrafting:elite_table' },
+            N: { item: 'pneumaticcraft:transistor' }
+          },
+          result: { item: 'extendedcrafting:elite_auto_table', count: 1 },
+          id: 'extendedcrafting:elite_auto_table'
+      },
     ];
 
     recipes.forEach((recipe) => {

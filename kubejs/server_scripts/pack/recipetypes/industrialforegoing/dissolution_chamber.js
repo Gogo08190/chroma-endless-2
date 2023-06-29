@@ -252,6 +252,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'ae2:network/crafting/cpu_crafting_unit'
         },
+        {
+            inputs: [
+                'extendedcrafting:elite_component',
+                'extendedcrafting:elite_catalyst',
+                'extendedcrafting:elite_component',
+                'extendedcrafting:advanced_table',
+                'extendedcrafting:advanced_table',
+                'extendedcrafting:elite_component',
+                'undergarden:forgotten_block',
+                'extendedcrafting:elite_component'
+            ],
+            inputFluid: 'materialis:molten_utherium',
+            inputFluidAmount: 4000,
+            processingTime: 300,
+            outputItem: { item: 'extendedcrafting:elite_table', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'extendedcrafting:elite_table'
+        },
     ];
 
     recipes.forEach((recipe) => {

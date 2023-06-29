@@ -142,6 +142,24 @@ onEvent('recipes', (event) => {
             results: [{ item: 'pneumaticcraft:empty_pcb', count: 3 }],
             id: 'pneumaticcraft:pressure_chamber/empty_pcb'
         },
+        {
+            inputs: [
+                { item: 'extendedcrafting:elite_component', count: 4 },
+                { item: 'powah:capacitor_blazing', count: 1 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'extendedcrafting:elite_catalyst', count: 1 }],
+            id: 'extendedcrafting:elite_catalyst'
+        },
+        {
+            inputs: [
+                { item: 'chroma:supra_component', count: 4 },
+                { item: 'powah:capacitor_niotic', count: 1 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'chroma:supra_catalyst', count: 1 }],
+            id: `${id_prefix}supra_catalyst`
+        },
     ];
 
     recipes.forEach((recipe) => {
