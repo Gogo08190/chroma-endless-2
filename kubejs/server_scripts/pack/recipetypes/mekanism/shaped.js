@@ -351,7 +351,7 @@ onEvent('recipes', (event) => {
             key: {
                 S: 'mekanism:steel_casing',
                 E: Item.of('mekanism:energy_tablet').weakNBT(),
-                B: 'powah:capacitor_blazing',
+                B: 'powah:capacitor_hardened',
                 C: 'mekanism:basic_control_circuit'
             },
             id: 'mekanism:energy_cube/basic'
