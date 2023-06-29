@@ -21,8 +21,8 @@
     "item.ironfurnaces.rainbow_plating": "Rainbow Plating",
     "item.ironfurnaces.rainbow_coal": "Rainbow Coal",
     "item.ironfurnaces.upgrade_copper": "Stone to Brass Furnace Upgrade",
-    "item.ironfurnaces.upgrade_silver": "Copper to Silver Furnace Upgrade",
-    "item.ironfurnaces.upgrade_silver2": "Iron to Silver Furnace Upgrade",
+    "item.ironfurnaces.upgrade_silver": "Copper to Steel Furnace Upgrade",
+    "item.ironfurnaces.upgrade_silver2": "Iron to Steel Furnace Upgrade",
     "item.ironfurnaces.upgrade_iron2": "Copper to Amethyst Bronze Furnace Upgrade",
     "item.ironfurnaces.upgrade_gold2": "Silver to Gold Furnace Upgrade",
     "item.ironfurnaces.item_copy": "Furnace Settings Linker",
@@ -40,7 +40,7 @@
     "block.ironfurnaces.crystal_furnace": "Crystal Furnace",
     "block.ironfurnaces.netherite_furnace": "Netherite Furnace",
     "block.ironfurnaces.copper_furnace": "Brass Furnace",
-    "block.ironfurnaces.silver_furnace": "Silver Furnace",
+    "block.ironfurnaces.silver_furnace": "Steel Furnace",
     "block.ironfurnaces.million_furnace": "Rainbow Furnace",
     "block.ironfurnaces.heater": "Wireless Heat Transmitter",
 
@@ -66,7 +66,7 @@
     "container.ironfurnaces.crystal_furnace": "Crystal Furnace",
     "container.ironfurnaces.netherite_furnace": "Netherite Furnace",
     "container.ironfurnaces.copper_furnace": "Brass Furnace",
-    "container.ironfurnaces.silver_furnace": "Silver Furnace",
+    "container.ironfurnaces.silver_furnace": "Steel Furnace",
     "container.ironfurnaces.million_furnace": "Rainbow Furnace",
     "container.ironfurnaces.wireless_energy_heater": "Wireless Heater",
 
