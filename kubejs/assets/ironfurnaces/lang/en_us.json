@@ -33,7 +33,7 @@
 
     "_comment": "Blocks",
     "block.ironfurnaces.iron_furnace": "Amethyst Bronze Furnace",
-    "block.ironfurnaces.gold_furnace": "Golden Furnace",
+    "block.ironfurnaces.gold_furnace": "Ventium Furnace",
     "block.ironfurnaces.diamond_furnace": "Energized Steel Furnace",
     "block.ironfurnaces.emerald_furnace": "Compressed Steel Furnace",
     "block.ironfurnaces.obsidian_furnace": "Forgotten Furnace",
@@ -59,7 +59,7 @@
 
     "_comment": "GUI",
     "container.ironfurnaces.iron_furnace": "Amethyst Bronze Furnace",
-    "container.ironfurnaces.gold_furnace": "Golden Furnace",
+    "container.ironfurnaces.gold_furnace": "Ventium Furnace",
     "container.ironfurnaces.diamond_furnace": "Energized Steel Furnace",
     "container.ironfurnaces.emerald_furnace": "Compressed Steel Furnace",
     "container.ironfurnaces.obsidian_furnace": "Forgotten Furnace",
