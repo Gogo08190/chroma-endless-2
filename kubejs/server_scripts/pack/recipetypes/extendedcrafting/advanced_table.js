@@ -591,4 +591,40 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('biggerreactors:crafting/cyanite_reprocessor')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "CEFEC",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:compressed_desh"
+        },
+        "B": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "C": {
+          "item": "solarpanels:spectral_energy_tablet"
+        },
+        "D": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "E": {
+          "item": "chroma:absolute_alloy"
+        },
+        "F": {
+          "item": "mekanism:ultimate_energy_cube"
+        }
+      },
+      "result": {
+        "item": "mekaevolution:absolute_energy_cube"
+      }
+    }
+  ).id('mekaevolution:absolute_energy_cube')
 });

@@ -430,6 +430,155 @@ onEvent('recipes', (event) => {
             },
             id: 'mekanism:thermal_evaporation/valve'
         },
+        {
+            output: Item.of('mekanism:induction_casing', 4),
+            pattern: ['HSH', 'SES', 'HSH'],
+            key: {
+                E: Item.of('mekanism:energy_tablet').weakNBT(),
+                S: 'beyond_earth:compressed_steel',
+                H: 'mekanism:hdpe_sheet'
+            },
+            id: 'mekanism:induction/casing'
+        },
+        {
+            output: Item.of('mekanism:induction_port', 2),
+            pattern: [' S ', 'SCS', ' S '],
+            key: {
+                S: 'mekanism:induction_casing',
+                C: 'mekaevolution:absolute_control_circuit'
+            },
+            id: 'mekanism:induction/port'
+        },
+        {
+            output: 'mekanism:basic_induction_cell',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:ultimate_energy_cube').ignoreNBT(),
+                T: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
+                L: 'mekanism:dust_lithium'
+            },
+            id: 'mekanism:induction/cell/basic'
+        },
+        {
+            output: 'mekanism:basic_induction_provider',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:basic_energy_cube').ignoreNBT(),
+                T: 'mekanism:basic_control_circuit',
+                L: 'beyond_earth:compressed_desh'
+            },
+            id: 'mekanism:induction/provider/basic'
+        },
+        {
+            output: 'mekanism:advanced_induction_cell',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:basic_induction_cell').ignoreNBT(),
+                T: Item.of('solarpanels:quantum_energy_tablet').weakNBT(),
+                L: 'mekanism:dust_lithium'
+            },
+            id: 'mekanism:induction/cell/advanced'
+        },
+        {
+            output: 'mekanism:advanced_induction_provider',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:basic_induction_provider').ignoreNBT(),
+                T: 'mekanism:advanced_control_circuit',
+                L: 'beyond_earth:compressed_desh'
+            },
+            id: 'mekanism:induction/provider/advanced'
+        },
+        {
+            output: 'mekanism:elite_induction_provider',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:advanced_induction_provider').ignoreNBT(),
+                T: 'mekanism:elite_control_circuit',
+                L: 'beyond_earth:compressed_desh'
+            },
+            id: 'mekanism:induction/provider/elite'
+        },
+        {
+            output: 'mekanism:elite_induction_cell',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:advanced_induction_cell').ignoreNBT(),
+                T: Item.of('solarpanels:spectral_energy_tablet').weakNBT(),
+                L: 'mekanism:dust_lithium'
+            },
+            id: 'mekanism:induction/cell/elite'
+        },
+        {
+            output: 'mekanism:ultimate_induction_cell',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:elite_induction_cell').ignoreNBT(),
+                T: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                L: 'mekanism:dust_lithium'
+            },
+            id: 'mekanism:induction/cell/ultimate'
+        },
+        {
+            output: 'mekanism:ultimate_induction_provider',
+            pattern: ['LTL', 'TET', 'LTL'],
+            key: {
+                E: Item.of('mekanism:elite_induction_provider').ignoreNBT(),
+                T: 'mekanism:ultimate_control_circuit',
+                L: 'beyond_earth:compressed_desh'
+            },
+            id: 'mekanism:induction/provider/ultimate'
+        },
+        {
+            output: Item.of('mekaevolution:absolute_mechanical_pipe', 8),
+            pattern: ['UUU', 'UAU', 'UUU'],
+            key: {
+                U: Item.of('mekanism:ultimate_mechanical_pipe').ignoreNBT(),
+                A: 'chroma:absolute_alloy'
+            },
+            id: 'mekaevolution:absolute_mechanical_pipe'
+        },
+        {
+            output: Item.of('mekaevolution:absolute_logistical_transporter', 8),
+            pattern: ['UUU', 'UAU', 'UUU'],
+            key: {
+                U: Item.of('mekanism:ultimate_logistical_transporter').ignoreNBT(),
+                A: 'chroma:absolute_alloy'
+            },
+            id: 'mekaevolution:absolute_logistical_transporter'
+        },
+        {
+            output: Item.of('mekaevolution:absolute_universal_cable', 8),
+            pattern: ['UUU', 'UAU', 'UUU'],
+            key: {
+                U: Item.of('mekanism:ultimate_universal_cable').ignoreNBT(),
+                A: 'chroma:absolute_alloy'
+            },
+            id: 'mekaevolution:absolute_universal_cable'
+        },
+        {
+            output: 'mekanism:ultimate_tier_installer',
+            pattern: ['LUP', 'DID', 'PUL'],
+            key: {
+                I: 'minecraft:iron_block',
+                U: 'mekanism:ultimate_control_circuit',
+                P: 'lazierae2:parallel_processor',
+                D: 'beyond_earth:compressed_desh',
+                L: 'biggerreactors:ludicrite_ingot'
+            },
+            id: 'mekanism:tier_installer/ultimate'
+        },
+        {
+            output: 'solarpanels:spectral_energy_tablet',
+            pattern: ['CLC', 'AEA', 'CLC'],
+            key: {
+                E: Item.of('solarpanels:quantum_energy_tablet').weakNBT(),
+                C: 'mekaevolution:absolute_control_circuit',
+                L: 'chroma:enriched_lunaris_nova',
+                A: 'chroma:absolute_alloy'
+            },
+            id: 'solarpanels:spectral_energy_tablet'
+        },
     ];
 
     recipes.forEach((recipe) => {

@@ -58,6 +58,20 @@ onEvent('recipes', (event) => {
         infusionAmount: 40,
         id: 'mekanism:control_circuit/ultimate'
       },
+      {
+        output: 'mekaevolution:absolute_control_circuit',
+        input: 'mekanism:ultimate_control_circuit',
+        infusionInput: 'chroma:lunaris_nova',
+        infusionAmount: 40,
+        id: 'mekaevolution:absolute_control_circuit'
+      },
+      {
+        output: 'chroma:absolute_alloy',
+        input: 'mekanism:alloy_atomic',
+        infusionInput: 'chroma:lunaris_nova',
+        infusionAmount: 40,
+        id: `${id_prefix}absolute_alloy`
+      },
     ];
 
     recipes.forEach((recipe) => {
