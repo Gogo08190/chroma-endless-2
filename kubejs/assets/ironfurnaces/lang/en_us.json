@@ -1,7 +1,7 @@
 {
     "_comment": "Items",
     "item.ironfurnaces.upgrade_iron": "Stone to Amethyst Bronze Furnace Upgrade",
-    "item.ironfurnaces.upgrade_gold": "Iron to Gold Furnace Upgrade",
+    "item.ironfurnaces.upgrade_gold": "Iron to Ventium Furnace Upgrade",
     "item.ironfurnaces.upgrade_diamond": "Gold to Diamond Furnace Upgrade",
     "item.ironfurnaces.upgrade_emerald": "Diamond to Emerald Furnace Upgrade",
     "item.ironfurnaces.upgrade_obsidian": "Emerald to Obsidian Furnace Upgrade",
@@ -24,7 +24,7 @@
     "item.ironfurnaces.upgrade_silver": "Copper to Steel Furnace Upgrade",
     "item.ironfurnaces.upgrade_silver2": "Iron to Steel Furnace Upgrade",
     "item.ironfurnaces.upgrade_iron2": "Copper to Amethyst Bronze Furnace Upgrade",
-    "item.ironfurnaces.upgrade_gold2": "Silver to Gold Furnace Upgrade",
+    "item.ironfurnaces.upgrade_gold2": "Silver to Ventium Furnace Upgrade",
     "item.ironfurnaces.item_copy": "Furnace Settings Linker",
     "item.ironfurnaces.item_linker": "Rainbow Linker",
 
