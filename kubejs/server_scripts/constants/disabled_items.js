@@ -31,4 +31,6 @@ const disabledItems = [
   'beyond_earth:water_pump',
   'beyond_earth:coal_generator',
   'beyond_earth:oxygen_loader',
+
+  'evilcraft:mace_of_destruction',
 ];
