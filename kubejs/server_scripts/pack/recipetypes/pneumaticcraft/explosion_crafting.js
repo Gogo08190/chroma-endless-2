@@ -11,13 +11,13 @@ onEvent('recipes', (event) => {
     const recipes = [
       // compressed iron ingot
       {
-        input: { item: 'immersiveengineering:ingot_steel' },
+        input: { item: 'powah:steel_energized' },
         results: [{ item: 'pneumaticcraft:ingot_iron_compressed' }],
         loss_rate: 10,
         id: 'pneumaticcraft:explosion_crafting/compressed_iron_ingot'
       },
       {
-        input: { item: 'immersiveengineering:storage_steel' },
+        input: { item: 'powah:energized_steel_block' },
         results: [{ item: 'pneumaticcraft:compressed_iron_block' }],
         loss_rate: 10,
         id: 'pneumaticcraft:explosion_crafting/compressed_iron_block'

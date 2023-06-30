@@ -19,7 +19,7 @@ onEvent('recipes', (event) => {
     const recipes = [
         {
             inputs: [
-                { item: 'immersiveengineering:ingot_steel', count: 1 }
+                { item: 'powah:steel_energized', count: 1 }
             ],
             pressure: 2.0,
             results: [{ item: 'pneumaticcraft:ingot_iron_compressed', count: 1 }],
@@ -27,7 +27,7 @@ onEvent('recipes', (event) => {
         },
         {
             inputs: [
-                { item: 'immersiveengineering:storage_steel', count: 1 }
+                { item: 'powah:energized_steel_block', count: 1 }
             ],
             pressure: 2.0,
             results: [{ item: 'pneumaticcraft:compressed_iron_block', count: 1 }],
