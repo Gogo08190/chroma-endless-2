@@ -3,12 +3,6 @@ onEvent('recipes', (event) => {
 
     const recipes = [
       {
-        inputs: ['extendedcrafting:black_iron_ingot'],
-        output: 'extendedcrafting:black_iron_slate',
-        energy: '2400',
-        id: 'extendedcrafting:black_iron_slate'
-      },
-      {
         inputs: [Item.of('#forge:gems/diamond', 4), Ingredient.of('thermal:press_gear_die')],
         output: 'thermal:diamond_gear',
         energy: '2400',
