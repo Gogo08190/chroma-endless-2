@@ -119,7 +119,7 @@ onEvent('recipes', (event) => {
                 F: 'chroma:carbon_fiber',
                 T: 'industrialforegoing:common_black_hole_tank'
             },
-            id: 'beyond_earth:steel_tank'
+            id: 'beyond_earth:iron_tank'
         },
         {
             output: 'beyond_earth:rocket_fin',
