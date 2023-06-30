@@ -57,7 +57,7 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}compressed_steel_from_block`
       },
       {
-        input: { ingredient: { item: 'chroma:enriched_refined_glowstone' } },
+        input: { ingredient: { item: 'chroma:enriched_compressed_steel' } },
         output: { amount: 80, infuse_type: 'chroma:compressed_steel' },
         id: `${id_prefix}compressed_steel_from_enriched`
       },
