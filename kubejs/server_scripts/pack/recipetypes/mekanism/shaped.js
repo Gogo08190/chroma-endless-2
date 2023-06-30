@@ -305,7 +305,7 @@ onEvent('recipes', (event) => {
             pattern: ['IEI', 'RSR', 'ITI'],
             key: {
                 S: 'mekanism:steel_casing',
-                I: '#forge:ingots/steel',
+                I: 'powah:crystal_blazing',
                 R: 'mekanism:alloy_reinforced',
                 E: 'mekanism:electrolytic_core',
                 T: Item.of('solarpanels:improved_energy_tablet').weakNBT()

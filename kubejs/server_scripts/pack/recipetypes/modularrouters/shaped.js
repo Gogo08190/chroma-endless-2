@@ -3,9 +3,10 @@ onEvent('recipes', (event) => {
     const recipes = [
         {
             output: Item.of('modularrouters:modular_router', 2),
-            pattern: ['SSS', 'SBR', 'SSS'],
+            pattern: ['SSS', 'ABR', 'SSS'],
             key: {
                 S: '#forge:sheetmetals/iron',
+                A: 'rftoolsbase:machine_frame',
                 B: 'modularrouters:blank_module',
                 R: 'extendedcrafting:redstone_ingot'
             },

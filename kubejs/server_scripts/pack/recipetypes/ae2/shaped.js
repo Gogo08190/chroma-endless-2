@@ -106,7 +106,7 @@ onEvent('recipes', (event) => {
                 C: '#forge:ingots/compressed_iron',
                 P: 'create:mechanical_press',
                 T: 'pneumaticcraft:transistor',
-                A: 'mekanism:advanced_control_circuit'
+                A: 'mekanism:elite_control_circuit'
             },
             id: 'ae2:network/blocks/inscribers'
         },
@@ -201,19 +201,6 @@ onEvent('recipes', (event) => {
                 B: 'ae2:dense_energy_cell'
             },
             id: 'ae2:network/wireless_terminal'
-        },
-        {
-            output: 'lazierae2:infuser',
-            pattern: ['CBC', 'RMR', 'PAP'],
-            key: {
-                C: 'pneumaticcraft:capacitor',
-                B: 'mekanism:basic_control_circuit',
-                R: 'lazierae2:resonating_crystal',
-                M: 'mekanism:metallurgic_infuser',
-                P: 'ae2:engineering_processor',
-                A: 'ae2:condenser'
-            },
-            id: 'lazierae2:infuser'
         },
         {
             output: 'ae2:item_cell_housing',

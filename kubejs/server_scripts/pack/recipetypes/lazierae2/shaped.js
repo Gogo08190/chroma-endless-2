@@ -26,6 +26,19 @@ onEvent('recipes', (event) => {
             },
             id: 'lazierae2:logic_unit'
         },
+        {
+            output: 'lazierae2:infuser',
+            pattern: ['CBC', 'RMR', 'PAP'],
+            key: {
+                C: 'pneumaticcraft:capacitor',
+                B: 'mekanism:elite_control_circuit',
+                R: 'rftoolsbase:infused_diamond',
+                M: 'mekanism:metallurgic_infuser',
+                P: 'ae2:engineering_processor',
+                A: 'ae2:condenser'
+            },
+            id: 'lazierae2:infuser'
+        },
     ];
 
     recipes.forEach((recipe) => {
