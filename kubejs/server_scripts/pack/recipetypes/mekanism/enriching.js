@@ -21,7 +21,11 @@ onEvent('recipes', (event) => {
         output: 'chroma:enriched_lunaris_nova',
         id: `${id_prefix}enriched_lunaris_nova`
       },
-
+      {
+        input: '#forge:ingots/compressed_iron',
+        output: 'chroma:enriched_compressed_steel',
+        id: `${id_prefix}enriched_compressed_steel`
+      },
     ];
     recipes.forEach((recipe) => {
         event.recipes.mekanism.enriching(recipe.output, recipe.input).id(recipe.id);

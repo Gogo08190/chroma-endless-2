@@ -47,9 +47,16 @@ onEvent('recipes', (event) => {
       {
         output: 'mekanism:elite_control_circuit',
         input: 'mekanism:advanced_control_circuit',
-        infusionInput: 'mekanism:diamond',
+        infusionInput: 'chroma:compressed_steel',
         infusionAmount: 40,
         id: 'mekanism:control_circuit/elite'
+      },
+      {
+        output: 'mekanism:alloy_reinforced',
+        input: 'mekanism:alloy_infused',
+        infusionInput: 'chroma:compressed_steel',
+        infusionAmount: 20,
+        id: 'mekanism:metallurgic_infusing/alloy/reinforced'
       },
       {
         output: 'mekanism:ultimate_control_circuit',

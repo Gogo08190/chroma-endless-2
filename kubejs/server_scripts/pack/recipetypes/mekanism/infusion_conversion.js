@@ -46,6 +46,21 @@ onEvent('recipes', (event) => {
         output: { amount: 80, infuse_type: 'chroma:lunaris_nova' },
         id: `${id_prefix}lunaris_nova_from_enriched`
       },
+      {
+        input: { ingredient: { item: 'pneumaticcraft:ingot_iron_compressed' } },
+        output: { amount: 10, infuse_type: 'chroma:compressed_steel' },
+        id: `${id_prefix}compressed_steel_from_ingot`
+      },
+      {
+        input: { ingredient: { item: 'pneumaticcraft:compressed_iron_block' } },
+        output: { amount: 90, infuse_type: 'chroma:compressed_steel' },
+        id: `${id_prefix}compressed_steel_from_block`
+      },
+      {
+        input: { ingredient: { item: 'chroma:enriched_refined_glowstone' } },
+        output: { amount: 80, infuse_type: 'chroma:compressed_steel' },
+        id: `${id_prefix}compressed_steel_from_enriched`
+      },
     ]
 
     recipes.forEach((recipe) => {
