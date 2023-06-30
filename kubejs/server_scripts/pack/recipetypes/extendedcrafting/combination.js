@@ -20,7 +20,7 @@ onEvent('recipes', (event) => {
           powerCost: 10000,
           powerRate: 1000,
           result: { item: 'chroma:gun_table_heart' },
-          id: `${id_prefix}chroma:gun_table_heart`
+          id: `${id_prefix}gun_table_heart`
       },
       {
           inputs: [
