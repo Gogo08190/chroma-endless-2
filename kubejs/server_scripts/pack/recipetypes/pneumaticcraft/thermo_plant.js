@@ -3,7 +3,7 @@ onEvent('recipes', (event) => {
 
     const recipes = [
       {
-          fluid_input: { type: 'pneumaticcraft:fluid', fluid: 'immersivepetroleum:naphtha', amount: 100 },
+          fluid_input: { type: 'pneumaticcraft:fluid', fluid: 'pneumaticcraft:biodiesel', amount: 100 },
           item_input: { item: 'mysticalagriculture:inferium_essence', count: 1 },
           item_output: { item: 'chroma:inert_luminessence', count: 1 },
           pressure: 2.0,

@@ -20,6 +20,7 @@ onEvent('recipes', (event) => {
       'immersivepetroleum:distillationtower/oil',
       'immersivepetroleum:distillationtower/kerosene',
       'immersivepetroleum:distillationtower/lubricant_cracking',
+      'immersivepetroleum:distillationtower/naphtha_cracking',
     ];
 
     outputRemovals.forEach((removal) => {

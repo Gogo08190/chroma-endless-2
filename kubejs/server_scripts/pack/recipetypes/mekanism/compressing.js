@@ -5,7 +5,7 @@ onEvent('recipes', (event) => {
       //Refined Glowstone Bee
       {
         input: 'extendedcrafting:black_iron_ingot',
-        gasInput: { amount:1, gas: "mekanism:liquid_osmium" },
+        gasInput: { amount:1, gas: "mekanism:osmium" },
         output: 'extendedcrafting:black_iron_slate',
         id: 'extendedcrafting:black_iron_slate'
       },
