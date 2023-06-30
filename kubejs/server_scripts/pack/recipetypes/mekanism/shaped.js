@@ -244,7 +244,7 @@ onEvent('recipes', (event) => {
             output: 'mekanism:precision_sawmill',
             pattern: ['RCR', 'HSH', 'RCR'],
             key: {
-                R: '#forge:ingots/steel',
+                R: 'powah:energized_steel_block',
                 H: Item.of('immersiveengineering:sawblade', '{Damage:0}').ignoreNBT(),
                 C: 'mekanism:advanced_control_circuit',
                 S: 'mekanism:steel_casing'
