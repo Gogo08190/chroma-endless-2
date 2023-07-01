@@ -1083,6 +1083,1178 @@
 				item: "aquaculture:blackfish"
 			}]
 		}
+		{
+			x: -17.0d
+			y: -22.5d
+			id: "7FAD7EC60FF8FFA1"
+			tasks: [{
+				id: "5AD396D0AC2638D0"
+				type: "item"
+				item: "beyond_earth:cheese"
+			}]
+		}
+		{
+			x: -14.5d
+			y: -22.5d
+			id: "55FE018262A06B58"
+			tasks: [{
+				id: "6E155CEDFCEF1BB7"
+				type: "item"
+				item: "thermal:xp_stew"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -22.5d
+			id: "707033AB2884D426"
+			tasks: [{
+				id: "5DAFC9254E69762C"
+				type: "item"
+				item: "thermal:hearty_stew"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -22.5d
+			id: "3C82C11C6B78E570"
+			tasks: [{
+				id: "521C6328FB0AFB4E"
+				type: "item"
+				item: "thermal:spring_salad"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -22.5d
+			id: "462622F11994AC8A"
+			tasks: [{
+				id: "4BA6E98144B5BBA1"
+				type: "item"
+				item: "thermal:sushi_maki"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -22.5d
+			id: "5756D815C63A86DB"
+			tasks: [{
+				id: "5895A0739D507FA2"
+				type: "item"
+				item: "thermal:stuffed_pepper"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -22.5d
+			id: "1937947460A24CEC"
+			tasks: [{
+				id: "4D3395BBD58A8A4F"
+				type: "item"
+				item: "thermal:pbj_sandwich"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -22.5d
+			id: "3D203F775A1BC211"
+			tasks: [{
+				id: "5D285436FE6E21D5"
+				type: "item"
+				item: "thermal:green_bean_pie"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -22.5d
+			id: "60440930987896C6"
+			tasks: [{
+				id: "4DD0CFC41CB896E8"
+				type: "item"
+				item: "thermal:cheese_wedge"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -22.5d
+			id: "2C6E732B1F62F8E7"
+			tasks: [{
+				id: "177F52333FDDA8DA"
+				type: "item"
+				item: "thermal:cooked_eggplant"
+			}]
+		}
+		{
+			x: -14.5d
+			y: -21.5d
+			id: "43917F77B6FFD9A6"
+			tasks: [{
+				id: "44EA119AA7F53178"
+				type: "item"
+				item: "thermal:potion_cake"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -21.5d
+			id: "7EA40E76D9378F5E"
+			tasks: [{
+				id: "262AE862C4DED882"
+				type: "item"
+				item: "thermal:chocolate_cake"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -21.5d
+			id: "4D958F53C15EA978"
+			tasks: [{
+				id: "4658ABDF8873285E"
+				type: "item"
+				item: "thermal:carrot_cake"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -21.5d
+			id: "30DF248229887ADF"
+			tasks: [{
+				id: "4788CC4C88992C4F"
+				type: "item"
+				item: "thermal:stuffed_pumpkin"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -21.5d
+			id: "0E0AB3F5D2739231"
+			tasks: [{
+				id: "0612CD5A294F031C"
+				type: "item"
+				item: "thermal:cheese_wheel"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -21.5d
+			id: "1B31AD43D8E940F7"
+			tasks: [{
+				id: "6938DDC250D849E6"
+				type: "item"
+				item: "thermal:green_bean"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -21.5d
+			id: "5037DB16E8D2217D"
+			tasks: [{
+				id: "52A32A85707B33E0"
+				type: "item"
+				item: "thermal:eggplant"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -21.5d
+			id: "021375733471FF66"
+			tasks: [{
+				id: "63ECC70CFD1C21E8"
+				type: "item"
+				item: "thermal:bell_pepper"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -21.5d
+			id: "5BED3845AB8129D9"
+			tasks: [{
+				id: "75AD2D143EB0838E"
+				type: "item"
+				item: "thermal:spinach"
+			}]
+		}
+		{
+			x: -14.5d
+			y: -20.5d
+			id: "0442695AB1606A7B"
+			tasks: [{
+				id: "127314ECA73FA12D"
+				type: "item"
+				item: "thermal:sadiroot"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -20.5d
+			id: "1B903B3FFF5B6E8A"
+			tasks: [{
+				id: "69132401C3A7E4F9"
+				type: "item"
+				item: "thermal:radish"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -20.5d
+			id: "3E92A86A438854D9"
+			tasks: [{
+				id: "205FA31B8FE35C84"
+				type: "item"
+				item: "thermal:onion"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -20.5d
+			id: "18AC45AFFB11A5FA"
+			tasks: [{
+				id: "402C94D12A6C5394"
+				type: "item"
+				item: "thermal:corn"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -20.5d
+			id: "4C92CA990F07FF0F"
+			tasks: [{
+				id: "2B39097193946550"
+				type: "item"
+				item: "thermal:spice_cake"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -20.5d
+			id: "56909866768EA0A7"
+			tasks: [{
+				id: "258F4F9871C5EAAA"
+				type: "item"
+				item: "thermal:cooked_corn"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -20.5d
+			id: "2CCB4E07985F8B6F"
+			tasks: [{
+				id: "758F46067CE4419A"
+				type: "item"
+				item: "thermal:cooked_mushroom"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -20.5d
+			id: "4A491C641E247981"
+			tasks: [{
+				id: "2699A20E8826E8F7"
+				type: "item"
+				item: "thermal:frost_melon_slice"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -20.5d
+			id: "44B6A7D1BE972426"
+			tasks: [{
+				id: "3DAE8BECFBD9928B"
+				type: "item"
+				item: "thermal:tea"
+			}]
+		}
+		{
+			x: -14.5d
+			y: -19.5d
+			id: "349E1D56C63FC284"
+			tasks: [{
+				id: "4E24B7F0FCB18480"
+				type: "item"
+				item: "thermal:hops"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -19.5d
+			id: "58419AE82BB7D25E"
+			tasks: [{
+				id: "636412A80054F7EA"
+				type: "item"
+				item: "thermal:coffee"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -19.5d
+			id: "13EE6E29866DF7A2"
+			tasks: [{
+				id: "227310A830962C9B"
+				type: "item"
+				item: "thermal:tomato"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -19.5d
+			id: "13F5BA2251CD1428"
+			tasks: [{
+				id: "3E2FD4CD7EC6FD90"
+				type: "item"
+				item: "thermal:strawberry"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -19.5d
+			id: "41CF094C8AB774BB"
+			tasks: [{
+				id: "7399AD95331956C6"
+				type: "item"
+				item: "thermal:peanut"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -22.5d
+			id: "4E6147BB547AF3CC"
+			tasks: [{
+				id: "3EC23221381EA3C8"
+				type: "item"
+				item: "undergarden:bloody_stew"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -22.5d
+			id: "239BDB5704391CE2"
+			tasks: [{
+				id: "7AC18D110C693788"
+				type: "item"
+				item: "undergarden:glitterkelp"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -22.5d
+			id: "4D823393A00EBD7E"
+			tasks: [{
+				id: "31D5EA56A689C57E"
+				type: "item"
+				item: "undergarden:raw_gloomper_leg"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -22.5d
+			id: "29E8D9B935B140D2"
+			tasks: [{
+				id: "67DB7F2AFB68FAB3"
+				type: "item"
+				item: "undergarden:gloomper_leg"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -22.5d
+			id: "083B3ABFCF03EC27"
+			tasks: [{
+				id: "34AB38B7FC99316D"
+				type: "item"
+				item: "undergarden:cooked_gwibling"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -22.5d
+			id: "0F303DBE6758D78D"
+			tasks: [{
+				id: "121DB67AC67F7F88"
+				type: "item"
+				item: "undergarden:raw_gwibling"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -22.5d
+			id: "408EB16D015FE5C1"
+			tasks: [{
+				id: "61F1E7A3BCADCF39"
+				type: "item"
+				item: "undergarden:dweller_steak"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -22.5d
+			id: "1E99B5656A95B3A6"
+			tasks: [{
+				id: "08393E4AC34C9792"
+				type: "item"
+				item: "undergarden:raw_dweller_meat"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -22.5d
+			id: "4C5209766C09D93F"
+			tasks: [{
+				id: "7A25A58BE953EE2C"
+				type: "item"
+				item: "undergarden:gloomgourd_pie"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -21.5d
+			id: "3905403570D0C0B9"
+			tasks: [{
+				id: "3FFE173B04400888"
+				type: "item"
+				item: "undergarden:rotten_blisterberry"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -21.5d
+			id: "2A37C9130A1B3472"
+			tasks: [{
+				id: "3266CEFF5E126B04"
+				type: "item"
+				item: "undergarden:blisterberry"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -21.5d
+			id: "407515B2A85047A6"
+			tasks: [{
+				id: "43AA6FB4563B4292"
+				type: "item"
+				item: "undergarden:roasted_underbeans"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -21.5d
+			id: "7951A4E9006DAA01"
+			tasks: [{
+				id: "4B6BDB1CA9B8EAB9"
+				type: "item"
+				item: "undergarden:underbeans"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -21.5d
+			id: "63FA6690DD77A911"
+			tasks: [{
+				id: "21D99CFE6D87694E"
+				type: "item"
+				item: "undergarden:droopvine_item"
+			}]
+		}
+		{
+			x: 5.5d
+			y: -22.5d
+			id: "7E0555CEEDB8FEB1"
+			tasks: [{
+				id: "5BB3E3E95B2A671E"
+				type: "item"
+				item: "artifacts:everlasting_beef"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -22.5d
+			id: "50B0E27EE9399DCB"
+			tasks: [{
+				id: "5ACCE1BC0BEDEAEF"
+				type: "item"
+				item: "artifacts:eternal_steak"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -22.5d
+			id: "3199D0A9F2574CB6"
+			tasks: [{
+				id: "6D29756932C6201F"
+				type: "item"
+				item: "sushigocrafting:chicken_temaki"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -22.5d
+			id: "5F02503958700B21"
+			tasks: [{
+				id: "106AC672EA84D714"
+				type: "item"
+				item: "sushigocrafting:shrimp_temaki"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -22.5d
+			id: "74253EECA03C0008"
+			tasks: [{
+				id: "270D0AF0A0BA41E0"
+				type: "item"
+				item: "sushigocrafting:tuna_temaki"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -22.5d
+			id: "090A6C8347038B65"
+			tasks: [{
+				id: "0715AC15E6D80D91"
+				type: "item"
+				item: "sushigocrafting:salmon_temaki"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -22.5d
+			id: "227DA05FC4349989"
+			tasks: [{
+				id: "2767A800D926E041"
+				type: "item"
+				item: "sushigocrafting:onigiri"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -22.5d
+			id: "74E688F13A8C23FF"
+			tasks: [{
+				id: "64CDED1B598B7B79"
+				type: "item"
+				item: "sushigocrafting:shrimp_nigiri"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -22.5d
+			id: "31552C60C97F3D6B"
+			tasks: [{
+				id: "3303DDDE4A72D9D2"
+				type: "item"
+				item: "sushigocrafting:tuna_nigiri"
+			}]
+		}
+		{
+			x: 15.5d
+			y: -22.5d
+			id: "3AD8454A7C6B4533"
+			tasks: [{
+				id: "59F3CF6E3847875C"
+				type: "item"
+				item: "sushigocrafting:salmon_nigiri"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -22.5d
+			id: "5BD04AEBA0F863B6"
+			tasks: [{
+				id: "09A6FB51553CE3F6"
+				type: "item"
+				item: "sushigocrafting:crab_cheese_california"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -21.5d
+			id: "190999AA142E461A"
+			tasks: [{
+				id: "32F83D2A446ED8BD"
+				type: "item"
+				item: "sushigocrafting:tuna_gunkan"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -21.5d
+			id: "66621EA0F9258044"
+			tasks: [{
+				id: "4F8C0380CCA9A831"
+				type: "item"
+				item: "sushigocrafting:salmon_gunkan"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -21.5d
+			id: "7F0FB52145219A14"
+			tasks: [{
+				id: "647CEF875F9FA26F"
+				type: "item"
+				item: "sushigocrafting:crab_maki"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -21.5d
+			id: "22635E9AFD2B47C6"
+			tasks: [{
+				id: "3A235FF06CF379B1"
+				type: "item"
+				item: "sushigocrafting:cucumber_maki"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -21.5d
+			id: "32137628D19E6D7B"
+			tasks: [{
+				id: "2A724F9BD32D93BF"
+				type: "item"
+				item: "sushigocrafting:avocado_maki"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -21.5d
+			id: "5A2224C2E8391DFA"
+			tasks: [{
+				id: "7F86B3A30C55DD0C"
+				type: "item"
+				item: "sushigocrafting:tuna_maki"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -21.5d
+			id: "27D76C2703F24927"
+			tasks: [{
+				id: "52DCD1DB79ADCE71"
+				type: "item"
+				item: "sushigocrafting:salmon_maki"
+			}]
+		}
+		{
+			x: 15.5d
+			y: -21.5d
+			id: "11068B7989B4A9BD"
+			tasks: [{
+				id: "67AF5E322C1B089E"
+				type: "item"
+				item: "sushigocrafting:nori_sheets"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -21.5d
+			id: "34EC88EED447A5E9"
+			tasks: [{
+				id: "5FD8F22B7FC5471D"
+				type: "item"
+				item: "sushigocrafting:avocado"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -20.5d
+			id: "430EEE7C4F68B7C4"
+			tasks: [{
+				id: "6526035043FC4210"
+				type: "item"
+				item: "sushigocrafting:salmon_cucumber_california"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -20.5d
+			id: "633B823E10BD7011"
+			tasks: [{
+				id: "6D0396849284D583"
+				type: "item"
+				item: "sushigocrafting:tobiko_salmon_cucumber_california"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -20.5d
+			id: "35A0C9E984FEB8D8"
+			tasks: [{
+				id: "52F41B13E18B5D8E"
+				type: "item"
+				item: "sushigocrafting:tuna_cheese_california"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -20.5d
+			id: "04C8E33FA49B7AE9"
+			tasks: [{
+				id: "5EAC28AD11248CC9"
+				type: "item"
+				item: "sushigocrafting:tobiko_tuna_cheese_california"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -20.5d
+			id: "597681C0E2C65567"
+			tasks: [{
+				id: "1877A22D9157EDD1"
+				type: "item"
+				item: "sushigocrafting:tuna_california"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -20.5d
+			id: "2FFF1C9795E6D45B"
+			tasks: [{
+				id: "1392E54D6EA96E62"
+				type: "item"
+				item: "sushigocrafting:tobiko_tuna_california"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -20.5d
+			id: "53A092E25C4E983C"
+			tasks: [{
+				id: "69E7B9B0FB7D91D5"
+				type: "item"
+				item: "sushigocrafting:tuna_cucumber_california"
+			}]
+		}
+		{
+			x: 15.5d
+			y: -20.5d
+			id: "6054593CAC2E7F2F"
+			tasks: [{
+				id: "0F51890BB23BED2B"
+				type: "item"
+				item: "sushigocrafting:tobiko_tuna_cucumber_california"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -20.5d
+			id: "274F14EC778AA2C8"
+			tasks: [{
+				id: "2B53ECBA91225EA4"
+				type: "item"
+				item: "sushigocrafting:wakame_gunkan"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -19.5d
+			id: "0FBEBADC2DCC0E9D"
+			tasks: [{
+				id: "5DD86D3D587D2A32"
+				type: "item"
+				item: "sushigocrafting:tobiko_crab_cheese_california"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -19.5d
+			id: "6CB2EAB2DC5DB880"
+			tasks: [{
+				id: "7C0834E68BE5AC27"
+				type: "item"
+				item: "sushigocrafting:crab_california"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -19.5d
+			id: "3CF9B76B8F6959FF"
+			tasks: [{
+				id: "27B3473D9F9AA54D"
+				type: "item"
+				item: "sushigocrafting:tobiko_crab_california"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -19.5d
+			id: "7C2FC4F72457BF5D"
+			tasks: [{
+				id: "05A19E8759D0B78E"
+				type: "item"
+				item: "sushigocrafting:crab_cucumber_california"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -19.5d
+			id: "4FE8991F6BDA53B8"
+			tasks: [{
+				id: "2471DE82D8EA1982"
+				type: "item"
+				item: "sushigocrafting:tobiko_crab_cucumber_california"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -19.5d
+			id: "6D5BFEAFF2603B1C"
+			tasks: [{
+				id: "55FAE66CCA4DF5E0"
+				type: "item"
+				item: "sushigocrafting:salmon_cheese_california"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -19.5d
+			id: "45E24C84733594C1"
+			tasks: [{
+				id: "6EDD14A55201D657"
+				type: "item"
+				item: "sushigocrafting:tobiko_salmon_cheese_california"
+			}]
+		}
+		{
+			x: 15.5d
+			y: -19.5d
+			id: "0C6F7341E7E65A72"
+			tasks: [{
+				id: "0D259DFF47C01337"
+				type: "item"
+				item: "sushigocrafting:salmon_california"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -19.5d
+			id: "68E2E01E43789ADF"
+			tasks: [{
+				id: "6F6DA3A9A3557715"
+				type: "item"
+				item: "sushigocrafting:tobiko_salmon_california"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -18.5d
+			id: "0BA6BD69FCC7CA78"
+			tasks: [{
+				id: "3F07BDC4B02BCB9E"
+				type: "item"
+				item: "sushigocrafting:rice"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -18.5d
+			id: "3FBC7AE31B8A5EE6"
+			tasks: [{
+				id: "1BB4ACCA682FB410"
+				type: "item"
+				item: "sushigocrafting:cucumber"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -18.5d
+			id: "7D7290C411B2FB64"
+			tasks: [{
+				id: "43B77105B52C6293"
+				type: "item"
+				item: "sushigocrafting:soy_bean"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -18.5d
+			id: "54524705DFD7503C"
+			tasks: [{
+				id: "420DD738CBB1D2C8"
+				type: "item"
+				item: "sushigocrafting:wasabi_root"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -18.5d
+			id: "1C5093628B4C0D7F"
+			tasks: [{
+				id: "1394CB5CE65AE233"
+				type: "item"
+				item: "sushigocrafting:seaweed"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -18.5d
+			id: "1AAB822E81AF3355"
+			tasks: [{
+				id: "6131841C163953EE"
+				type: "item"
+				item: "sushigocrafting:raw_tuna"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -18.5d
+			id: "5EF68F59B1BE3B47"
+			tasks: [{
+				id: "40F0322F0DC00AEA"
+				type: "item"
+				item: {
+					id: "sushigocrafting:salmon_fillet"
+					Count: 1
+					tag: {
+						Amount: 1000
+					}
+				}
+			}]
+		}
+		{
+			x: 15.5d
+			y: -18.5d
+			id: "612455BC0451C3C8"
+			tasks: [{
+				id: "3F769922A13FB95A"
+				type: "item"
+				item: {
+					id: "sushigocrafting:tuna_fillet"
+					Count: 1
+					tag: {
+						Amount: 1500
+					}
+				}
+			}]
+		}
+		{
+			x: 16.5d
+			y: -18.5d
+			id: "0842F8AC9AC4F708"
+			tasks: [{
+				id: "35678E2F376BCC7E"
+				type: "item"
+				item: {
+					id: "sushigocrafting:avocado_slices"
+					Count: 1
+					tag: {
+						Amount: 250
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: -17.5d
+			id: "6A0360C4B03957FB"
+			tasks: [{
+				id: "784BD1BAA272C841"
+				type: "item"
+				item: {
+					id: "sushigocrafting:wasabi_paste"
+					Count: 1
+					tag: {
+						Amount: 25
+					}
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: -17.5d
+			id: "4CD3ED42ACC0ADA5"
+			tasks: [{
+				id: "6E1EE8D96511558F"
+				type: "item"
+				item: {
+					id: "sushigocrafting:soy_sauce"
+					Count: 1
+					tag: {
+						Amount: 25
+					}
+				}
+			}]
+		}
+		{
+			x: 10.5d
+			y: -17.5d
+			id: "0977DB849ECC137B"
+			tasks: [{
+				id: "0DFF148C36B78601"
+				type: "item"
+				item: {
+					id: "sushigocrafting:shrimp"
+					Count: 1
+					tag: {
+						Amount: 25
+					}
+				}
+			}]
+		}
+		{
+			x: 11.5d
+			y: -17.5d
+			id: "21AFBDE466D5DE2D"
+			tasks: [{
+				id: "53A0C6089FBA6CE3"
+				type: "item"
+				item: {
+					id: "sushigocrafting:cheese"
+					Count: 1
+					tag: {
+						Amount: 125
+					}
+				}
+			}]
+		}
+		{
+			x: 12.5d
+			y: -17.5d
+			id: "266664D318A4B02A"
+			tasks: [{
+				id: "459A805115F60CED"
+				type: "item"
+				item: {
+					id: "sushigocrafting:tobiko"
+					Count: 1
+					tag: {
+						Amount: 25
+					}
+				}
+			}]
+		}
+		{
+			x: 13.5d
+			y: -17.5d
+			id: "50A6B8B71B819A81"
+			tasks: [{
+				id: "0F31651D933E2000"
+				type: "item"
+				item: {
+					id: "sushigocrafting:sesame_seed"
+					Count: 1
+					tag: {
+						Amount: 50
+					}
+				}
+			}]
+		}
+		{
+			x: 14.5d
+			y: -17.5d
+			id: "675B71B59EAA06EF"
+			tasks: [{
+				id: "15C6097BC995BA6B"
+				type: "item"
+				item: {
+					id: "sushigocrafting:imitation_crab"
+					Count: 1
+					tag: {
+						Amount: 100
+					}
+				}
+			}]
+		}
+		{
+			x: 15.5d
+			y: -17.5d
+			id: "4064AFD26D5B4396"
+			tasks: [{
+				id: "38B498D152515B91"
+				type: "item"
+				item: {
+					id: "sushigocrafting:cucumber_slices"
+					Count: 1
+					tag: {
+						Amount: 100
+					}
+				}
+			}]
+		}
+		{
+			x: 16.5d
+			y: -17.5d
+			id: "5033D8F2B9C21FED"
+			tasks: [{
+				id: "5F37C27866D9E4C8"
+				type: "item"
+				item: {
+					id: "sushigocrafting:cooked_rice"
+					Count: 1
+					tag: {
+						Amount: 250
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: -16.5d
+			id: "4FF4B9A26693C81A"
+			tasks: [{
+				id: "549A4C274EDD5A84"
+				type: "item"
+				item: "sushigocrafting:cleaver_knife"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -16.5d
+			id: "05729904AB0353BC"
+			tasks: [{
+				id: "2CA9D9DEC1156C4C"
+				type: "item"
+				item: "sushigocrafting:fermentation_barrel"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -16.5d
+			id: "695480E5CE078012"
+			tasks: [{
+				id: "5FCEC312CDF1C495"
+				type: "item"
+				item: "sushigocrafting:cooler_box"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -16.5d
+			id: "42CB411B9885DE76"
+			tasks: [{
+				id: "4016CDB7DAF4373D"
+				type: "item"
+				item: "sushigocrafting:cutting_board"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -16.5d
+			id: "760D6529BBFF7552"
+			tasks: [{
+				id: "08D2CEA53FAC6F03"
+				type: "item"
+				item: "sushigocrafting:seaweed_on_a_stick"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -16.5d
+			id: "2870E2DCEF70D34B"
+			tasks: [{
+				id: "5B1BADD033BAA813"
+				type: "item"
+				item: "sushigocrafting:rice_cooker"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -16.5d
+			id: "012446F97F8DFA2C"
+			tasks: [{
+				id: "63B24061EA610294"
+				type: "item"
+				item: "sushigocrafting:roller"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

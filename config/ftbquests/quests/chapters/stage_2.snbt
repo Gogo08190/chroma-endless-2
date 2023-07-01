@@ -402,7 +402,7 @@
 			}]
 		}
 		{
-			x: 19.0d
+			x: 20.0d
 			y: 17.0d
 			shape: "rsquare"
 			dependencies: ["440C256F6ADDE5EB"]
@@ -414,7 +414,7 @@
 			}]
 		}
 		{
-			x: 20.0d
+			x: 19.0d
 			y: 17.0d
 			shape: "rsquare"
 			dependencies: ["440C256F6ADDE5EB"]
@@ -1185,6 +1185,17 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersiveengineering:squeezer"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 16.5d
+			dependencies: ["07880249468AFCF2"]
+			id: "6A6CD169877E3DD4"
+			tasks: [{
+				id: "157F51065B323051"
+				type: "item"
+				item: "mekanism:advanced_control_circuit"
 			}]
 		}
 	]
