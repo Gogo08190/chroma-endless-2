@@ -6,7 +6,7 @@ onEvent('recipes', (event) => {
           pattern: ['CEC', 'SGS', 'CIC'],
           key: {
               C: 'evilcraft:bloody_cobblestone',
-              E: 'evilcraft:bloody_cobblestone',
+              E: 'evilcraft:environmental_accumulation_core',
               S: '#forge:sheetmetals/iron',
               G: 'evilcraft:garmonbozia',
               I: 'evilcraft:blood_infusion_core'
@@ -134,12 +134,12 @@ onEvent('recipes', (event) => {
               D: '#evilcraft:gems/dark_power',
               Z: 'minecraft:zombie_head',
               R: 'evilcraft:dark_stick',
-              R: 'evilcraft:inverted_potentia_empowered'
+              E: 'evilcraft:inverted_potentia_empowered'
           },
           id: 'evilcraft:crafting/necromancer_staff'
       },
       {
-        output: 'evilcraft:necromancer_staff',
+        output: 'evilcraft:effortless_ring',
           pattern: ['VG ', 'IPI', ' G '],
           key: {
               V: 'evilcraft:promise_speed_0',
@@ -147,7 +147,7 @@ onEvent('recipes', (event) => {
               I: '#forge:plates/iron',
               P: 'evilcraft:promise_efficiency_0'
           },
-          id: 'evilcraft:crafting/necromancer_staff'
+          id: 'evilcraft:crafting/effortless_ring'
       },
     ];
 
