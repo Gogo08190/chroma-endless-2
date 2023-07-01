@@ -101,4 +101,6 @@ const disabledItems = [
     'beyond_earth:oxygen_loader',
 
     'evilcraft:mace_of_destruction',
+
+    'ironfurnaces:crystal_furnace',
 ];

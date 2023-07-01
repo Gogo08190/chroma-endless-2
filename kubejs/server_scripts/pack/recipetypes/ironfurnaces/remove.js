@@ -6,7 +6,7 @@ onEvent('recipes', (event) => {
     ];
 
     const outputRemovals = [
-      'ironfurnaces:crystal_furnace'
+
     ];
 
     idRemovals.forEach((id) => {
