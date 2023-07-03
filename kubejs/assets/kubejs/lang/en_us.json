@@ -105,17 +105,12 @@
   "chapter.stage.1.quest.18.description.4" : "The Mechanical Mixer may be used to perform mixing recipes, which are not possible to make anywhere else.",
 
   "chapter.stage.1.quest.19.subtitle.1": "Go to Hell",
-  "chapter.stage.1.quest.19.description.1" : "Get yourself an Iron Plate and go onto the next quest !"
+  "chapter.stage.1.quest.19.description.1" : "I suggest you prepare yourself in order to visit &4The Nether&r...Or else...",
 
+  "chapter.stage.1.quest.20.subtitle.1": "Hell Hunting",
+  "chapter.stage.1.quest.20.description.1" : "When you find a Fortress don't forget to bring the &cBlaze Burner&r to capture a Blaze",
+  "chapter.stage.1.quest.20.description.2" : "This will give you a &4Blaze Burner&r.",
 
-
-  
-
-
-
-
-
-
-
-
+  "chapter.stage.1.quest.21.subtitle.1": "Blaze Catcher",
+  "chapter.stage.1.quest.21.description.1" : "Don't forget to bring Fire Resistance Potions !"
 }
