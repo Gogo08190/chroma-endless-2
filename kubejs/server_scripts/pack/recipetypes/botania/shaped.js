@@ -43,7 +43,7 @@ onEvent('recipes', (event) => {
             pattern: ['LGL', 'BRB', 'LGL'],
             key: {
                 L: 'botania:livingrock',
-                G: '#forge:plates/gold',
+                G: 'botania:gaia_ingot',
                 B: 'botania:brewery',
                 R: 'botania:rune_autumn'
             },
