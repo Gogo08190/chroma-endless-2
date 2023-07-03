@@ -234,7 +234,7 @@ onEvent('recipes', (event) => {
             pattern: ['RCR', 'HSH', 'RCR'],
             key: {
                 R: 'extendedcrafting:redstone_ingot',
-                H: 'powah:capacitor_hardened',
+                H: 'pneumaticcraft:capacitor',
                 C: 'mekanism:advanced_control_circuit',
                 S: 'mekanism:crusher'
             },

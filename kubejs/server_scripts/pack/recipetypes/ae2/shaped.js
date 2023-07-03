@@ -101,12 +101,13 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'ae2:inscriber',
-            pattern: ['CPC', 'TAT', 'CPC'],
+            pattern: ['CPC', 'TAT', 'CBC'],
             key: {
                 C: '#forge:ingots/compressed_iron',
                 P: 'create:mechanical_press',
                 T: 'pneumaticcraft:transistor',
-                A: 'mekanism:elite_control_circuit'
+                A: 'mekanism:elite_control_circuit',
+                B: Item.of('solarpanels:improved_energy_tablet').weakNBT()
             },
             id: 'ae2:network/blocks/inscribers'
         },

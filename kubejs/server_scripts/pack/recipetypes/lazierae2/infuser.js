@@ -79,7 +79,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'rftoolsbase:machine_frame', count: 1 },
         inputs: [
-          { item: 'powah:steel_energized', count: 1 },
+          { item: 'thermal:redstone_servo', count: 1 },
           { item: 'mekanism:elite_control_circuit', count: 2 },
           { item: 'rftoolsbase:machine_base', count: 2 },
         ],
