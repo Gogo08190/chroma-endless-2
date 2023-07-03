@@ -5,22 +5,113 @@
     "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
     "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
     "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
+    
     "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\nCliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
+    
     "chapter.welcome.quest.3.description.1" : "&6&lFTB Ultimine&r is a very useful mod for mining.",
     "chapter.welcome.quest.3.description.2" : "En effet, en utilisant la touche ² (par défaut), vous verrez un contour blanc qui sera appelé la &c&lZone Ultimine&r et qui représente ce que vous allez miner.",
     "chapter.welcome.quest.3.description.3" : "Cette &c&lZone Ultimine&r peut être modifiée. En fait, si vous continuez à appuyer sur la touche ² + scroll de la souris, vous pouvez changer la forme de cette zone et trouver celle qui vous convient le mieux.",
+    
     "chapter.welcome.quest.4.description.1" : "Pour partager vos quêtes avec vos amis, vous devez créer une équipe.",
     "chapter.welcome.quest.4.description.2" : "Pour ce faire, exécutez cette commande :",
     "chapter.welcome.quest.4.description.3" : "Pour inviter vos amis, exécutez cette commande :",
     "chapter.welcome.quest.4.description.4" : "Vos amis n'ont qu'à accepter, et vous êtes maintenant dans une équipe.",
+    
     "chapter.welcome.quest.5.description.1" : "En fait, une &8quête&r par défaut ne nécessite pas de &7&ldépendance&r, vous pouvez donc la faire dès maintenant ou plus tard, c'est à vous de décider.",
     "chapter.welcome.quest.5.description.2" : "Comme vous pouvez le constater, la majorité des quêtes nécessitent une &7&ldépendance&r. Pour les débloquer, vous pouvez cliquer sur la &4&l&nFlèche Rouge Clignotante&r pour afficher la ou les &7&ldépendances&r nécessaires.",
+    
     "chapter.welcome.quest.6.description.1" : "&aSpice of Life: Carrot Edition&r permet de suivre le nombre d'aliments uniques qu'un joueur a consommés. À mesure qu'ils atteignent certains paliers de quantités d'aliments uniques, ils gagnent de manière permanente de nouveaux cœurs, augmentant ainsi leur santé maximale ! Pour atteindre le maximum de leurs barres de points de vie, les joueurs devront partir en quête et fabriquer des aliments exotiques.",
+    
     "chapter.welcome.quest.7.description.1" : "Sur le &bserveur Discord de Gogo08&r, vous trouverez des canaux de support dédiés à Chroma Endless 2.",
     "chapter.welcome.quest.7.description.2" : "Il s'agit d'un serveur communautaire francophone, mais vous pouvez également parler anglais. La communauté et le staff feront certainement de leur mieux pour vous aider.",
     "chapter.welcome.quest.7.description.3" : "Serveur Discord de Gogo08",
+    
     "chapter.welcome.quest.8.description.1" : "Sur ce site web, vous trouverez plus d'informations sur &6&lChroma Endless 2&r, l'équipe Chroma et nos autres modpacks.",
     "chapter.welcome.quest.8.description.2" : "Voici une liste de ce que vous pouvez trouver :",
     "chapter.welcome.quest.8.description.3" : "→ Qui a développé ce modpack et quelles sont leurs descriptions.",
-    "chapter.welcome.quest.8.description.4" : "→ Les autres modpacks développés par la Teal Chroma."
+    "chapter.welcome.quest.8.description.4" : "→ Les autres modpacks développés par la Team Chroma.",
+
+
+    "chapter.stage.1.quest.1.subtitle.1": "Un début classique",
+    "chapter.stage.1.quest.1.description.1" : "Qu'est-ce que serait Minecraft sans recolter du bois? Allez hop on y va !",
+  
+    "chapter.stage.1.quest.2.subtitle.1": "Du pain sur la planche",
+    "chapter.stage.1.quest.2.description.1" : "Vraiment? On doit expliquer comment obtenir des planches?",
+    
+    "chapter.stage.1.quest.3.subtitle.1": "Miner et Crafter",
+    "chapter.stage.1.quest.3.description.1" : "La table de craft est un début à tout !",
+  
+    "chapter.stage.1.quest.4.subtitle.1": "Au fourneau !",
+    "chapter.stage.1.quest.4.description.1" : "Il est temps de cuire et de fondre !",
+  
+    
+    "chapter.stage.1.quest.5.subtitle.1": "Mélangeons des minerais ! ",
+    "chapter.stage.1.quest.5.description.1" : "En créant cet alliage vous allez pouvoir avancer !",
+    "chapter.stage.1.quest.5.description.2" : "Nous vous suggérons de regarder comment il se craft.",
+    "chapter.stage.1.quest.5.description.3" : "Plus tard dans le pack, d'autres recettes seront possibles, ne vous inquiétez pas.",
+  
+    "chapter.stage.1.quest.6.subtitle.1": "Le Nouvel Alliage",
+    "chapter.stage.1.quest.6.description.1" : "En brulant ce mélange vous allez pouvoir avoir ce nouvel alliage.",
+    "chapter.stage.1.quest.6.description.2" : "Tout comme le mélange de l'étape d'avant d'autres méthodes de fabrication seront disponibles plus tard.",
+  
+    "chapter.stage.1.quest.7.subtitle.1": "La rotation c'est génial",
+    "chapter.stage.1.quest.7.description.1" : "Ces rotors peuvent être placés comme bon vous semble et transmette ce qu'on va appeler l'énergie create: La rotation.",
+  
+    "chapter.stage.1.quest.8.subtitle.1": "Les roues dentées sont un composant mécanique de base dans Create qui relaie la rotation",
+    "chapter.stage.1.quest.8.description.1" : "Les roues dentées peuvent transmettre la rotation à une autre roue dentée adjacente.",
+    "chapter.stage.1.quest.8.description.2" : "Si un coghweel A fait face à un coghweel B alors la B changera son sens de rotation.",
+    "chapter.stage.1.quest.8.description.3" : "Vous pouvez utiliser, par défaut, la touche 'Z' pour avoir plus d'informations sur les roues dentées.",
+  
+    "chapter.stage.1.quest.9.subtitle.1": "Une plus grosse roue!",
+    "chapter.stage.1.quest.9.description.1" : "Info : Les grandes roues dentées et les roues dentées ne peuvent être reliées qu'en diagonale!",
+    
+    "chapter.stage.1.quest.10.subtitle.1": "La roue à eau est une source de Rotation",
+    "chapter.stage.1.quest.10.description.1" : "Elle génère une force rotative lorsque l'eau s'écoule dessus en raison du fait que les matériaux nécessaires pour la fabriquer sont facilement accessibles en début de partie.", 
+    "chapter.stage.1.quest.10.description.2" : "La roue à eau sert de générateur précoce pouvant être fabriqué. La capacité totale de stress peut être augmentée en ajoutant davantage de roues en série.",
+    "chapter.stage.1.quest.10.description.3" : "Lorsque l'eau s'écoule sur une roue à eau, elle commence à tourner. Cette puissance rotative peut être transmise à d'autres composants à partir de l'axe des roues à eau.",
+    "chapter.stage.1.quest.10.description.4" : "Plus le nombre de côtés de la roue couverts par l'eau est élevé, plus la roue tournera rapidement et plus elle fournira de capacité de stress. Seule l'eau en mouvement ou les blocs sources avec des colonnes de bulles contribuent à la génération de puissance.",
+    "chapter.stage.1.quest.10.description.5" : "Pour maximiser la production d'une roue à eau, il est préférable d'avoir de l'eau s'écoulant dans la bonne direction autour de la roue autant que possible.",
+  
+    "chapter.stage.1.quest.11.subtitle.1": "Elle est composée d'un palier de moulin à vent et de voiles.",
+    "chapter.stage.1.quest.11.description.1": "N'importe quel bloc peut être attaché à l'avant du palier de moulin à vent, mais seules la laine et les voiles produiront de l'énergie. La laine ou les voiles peuvent être placés dans n'importe quelle configuration, car la forme n'a pas d'importance.",
+    "chapter.stage.1.quest.11.description.2": "La Super Glue est nécessaire pour attacher les blocs ensemble. Les voiles se connecteront les unes aux autres et aux blocs déjà attachés sans avoir besoin d'utiliser de Super Glue. Cliquez avec le bouton droit de la souris sur le palier de moulin à vent avec une main vide pour démarrer le moulin à vent.",
+    "chapter.stage.1.quest.11.description.3": "Si vous souhaitez l'arrêter pour changer les blocs attachés, cliquez simplement à nouveau sur le bloc avec une main vide. Une clé anglaise peut être utilisée pour changer la direction de rotation du moulin à vent.",
+  
+    "chapter.stage.1.quest.12.subtitle.1": "La presse mécanique est un composant mécanique qui applique des recettes de pressage, d'emballage et de compactage aux objets situés en dessous d'elle.",
+    "chapter.stage.1.quest.12.description.1": "C'est un objet important en début de partie, car il est utilisé pour presser les lingots en feuilles, qui sont des ingrédients importants pour les composants de niveau supérieur.",
+    "chapter.stage.1.quest.12.description.2": "La presse mécanique est alimentée par un arbre interne, accessible depuis deux côtés opposés. Tout comme les arbres, les presses transmettent la rotation le long de leur axe. Elle traite les objets plus rapidement lorsqu'elle reçoit une puissance de rotation plus élevée.",
+    "chapter.stage.1.quest.12.description.3":"Par défaut, la presse mécanique appliquera des recettes de pressage aux objets situés en dessous d'elle. Cela peut être configuré de deux manières :",
+    "chapter.stage.1.quest.12.description.4":"● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal redstone (comme un levier). Les objets sans recette de pressage ne sont pas affectés.",
+    "chapter.stage.1.quest.12.description.5":"● Lorsqu'elle est placée à un bloc au-dessus d'une bande mécanique, elle pressera automatiquement les tas d'objets entrants, arrêtant la bande jusqu'à ce que chaque opération soit terminée. Les objets sans recette de pressage sont ignorés.",
+  
+    "chapter.stage.1.quest.13.subtitle.1": "Pressons du Sable",
+    "chapter.stage.1.quest.13.description.1" : "Le papier de verre est un outil utilisé uniquement pour créer du quartz rose poli.",
+  
+    "chapter.stage.1.quest.14.subtitle.1": "Oh, un nouveau quartz brillant !",
+    "chapter.stage.1.quest.14.description.1" : "Le quartz rose peut être utilisé pour fabriquer du quartz rose poli. Pour cela, le joueur doit tenir du papier de verre dans leur main gauche (offhand), du quartz rose dans leur main droite (main hand), puis faire un clic droit. La version polie du quartz rose tombera alors par terre.",
+  
+    "chapter.stage.1.quest.15.subtitle.1": "C'est cool en rouge !",
+    "chapter.stage.1.quest.15.description.1" : "Procurez vous un &cquartz rose poli&r et passez à la quête suivante !",
+  
+    "chapter.stage.1.quest.16.subtitle.1": "Un tube d'Electrons",
+    "chapter.stage.1.quest.16.description.1" : "Fabriqué avec du Quartz Polis Rose",
+  
+    "chapter.stage.1.quest.17.subtitle.1": "Compressage du Fer",
+    "chapter.stage.1.quest.17.description.1" : "Procurez vous une plaque de fer et passe à la quête suivante ! !",
+  
+    "chapter.stage.1.quest.18.subtitle.1": "The Mechanical Mixer is a mechanical component that applies Mixing recipes and shapeless Crafting recipes to items in Basins.",
+    "chapter.stage.1.quest.18.description.1" : "Le mélangeur mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
+    "chapter.stage.1.quest.18.description.2" : "Le mélangeur nécessite une vitesse de rotation minimale de 32 RPM (tours par minute) de sa source d'alimentation pour fonctionner. Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
+    "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une recette valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
+    "chapter.stage.1.quest.18.description.4" : "Le mélangeur mécanique peut être utilisé pour réaliser des recettes de mélange qui ne peuvent être réalisées nulle part ailleurs.",
+  
+    "chapter.stage.1.quest.19.subtitle.1": "Allons en Enfer !",
+    "chapter.stage.1.quest.19.description.1" : "On vous suggère de vous préparer avant de visiter &4le Nether&r... Ou Sinon...",
+  
+    "chapter.stage.1.quest.20.subtitle.1": "Une chasse d'Enfer...",
+    "chapter.stage.1.quest.20.description.1" : "Lorsque vous trouverez une forteresse, n'oubliez pas d'apporter le &cbrûleur de Blaze&r pour capturer un Blaze.",
+    "chapter.stage.1.quest.20.description.2" : "Cela vous donnera un &4brûleur de Blaze&r.",
+  
+    "chapter.stage.1.quest.21.subtitle.1": "Captureur de Blaze",
+    "chapter.stage.1.quest.21.description.1" : "N'oubliez pas d'apporter des potions de résistance au feu !"
 }
