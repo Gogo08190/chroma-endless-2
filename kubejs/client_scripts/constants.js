@@ -103,4 +103,18 @@ const disabledItems = [
     'evilcraft:mace_of_destruction',
 
     'ironfurnaces:crystal_furnace',
+
+    'ironfurnaces:upgrade_iron',
+    'ironfurnaces:upgrade_gold',
+    'ironfurnaces:upgrade_diamond',
+    'ironfurnaces:upgrade_emerald',
+    'ironfurnaces:upgrade_obsidian',
+    'ironfurnaces:upgrade_crystal',
+    'ironfurnaces:upgrade_netherite',
+    'ironfurnaces:upgrade_copper',
+    'ironfurnaces:upgrade_silver',
+    'ironfurnaces:upgrade_obsidian2',
+    'ironfurnaces:upgrade_iron2',
+    'ironfurnaces:upgrade_gold2',
+    'ironfurnaces:upgrade_silver2',
 ];
