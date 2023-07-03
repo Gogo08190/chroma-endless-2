@@ -1,5 +1,5 @@
 onEvent('recipes', (event) => {
-    const id_prefix = 'chroma:pack/ender_storage/shaped/';
+    const id_prefix = 'chroma:pack/industrialforegoing/shaped/';
     const recipes = [
       {
         output: 'industrialforegoing:latex_processing_unit',
