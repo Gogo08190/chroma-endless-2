@@ -10,7 +10,6 @@ const TAGS_ITEMS = [
 
     ["forge:storage_blocks/mana_diamond", "botania:mana_diamond_block"],
     ["forge:storage_blocks/dragonstone", "botania:dragonstone_block"],
-    ["forge:storage_blocks/andesite_alloy", "chroma:andesite_alloy_block"],
 
     ["forge:rods/electrum", "chroma:electrum_rod"],
     ["forge:rods/manasteel", "chroma:manasteel_rod"],
