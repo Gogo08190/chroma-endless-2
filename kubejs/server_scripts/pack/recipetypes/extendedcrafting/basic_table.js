@@ -327,7 +327,7 @@ onEvent("recipes", (event) => {
           "item": "mekanism:elite_control_circuit"
         },
         "D": {
-          "item": "lazierae2:logic_unit"
+          "item": "extendedcrafting:ender_star"
         },
         "E": {
           "item": "pneumaticcraft:air_canister"

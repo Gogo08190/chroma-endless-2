@@ -164,12 +164,23 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'beyond_earth:space_pants',
-            pattern: ['FAF', 'FAF', 'F F'],
+            pattern: ['FFF', 'FAF', 'F F'],
             key: {
                 F: 'chroma:carbon_fiber',
                 A: 'mekanism:hazmat_pants'
             },
-            id: 'beyond_earth:space_pants'
+            id: 'beyond_earth:space_leggings'
+        },
+        {
+            output: 'beyond_earth:space_suit',
+            pattern: ['F F', 'OGO', 'FHF'],
+            key: {
+                F: 'chroma:carbon_fiber',
+                O: 'beyond_earth:oxygen_tank',
+                G: 'beyond_earth:oxygen_gear',
+                H: 'mekanism:hazmat_gown'
+            },
+            id: 'beyond_earth:space_suit'
         },
         {
             output: 'beyond_earth:oxygen_mask',

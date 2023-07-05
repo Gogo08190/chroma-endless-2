@@ -579,6 +579,18 @@ onEvent('recipes', (event) => {
             },
             id: 'solarpanels:spectral_energy_tablet'
         },
+        {
+            output: 'mekanism:rotary_condensentrator',
+            pattern: ['AUA', 'TES', 'AUA'],
+            key: {
+                E: Item.of('solarpanels:improved_energy_tablet').ignoreNBT(),
+                U: 'mekanism:ultimate_control_circuit',
+                A: 'mekanism:alloy_atomic',
+                S: 'mekanism:basic_fluid_tank',
+                T: 'mekanism:basic_chemical_tank'
+            },
+            id: 'mekanism:rotary_condensentrator'
+        },
     ];
 
     recipes.forEach((recipe) => {

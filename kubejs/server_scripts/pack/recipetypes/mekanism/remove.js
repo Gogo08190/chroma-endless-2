@@ -6,7 +6,8 @@ onEvent('recipes', (event) => {
         'lazierae2:compat/mekanism/grinder/dust_obsidian',
         'jaopca:mekanism.material_to_dust.obsidian',
         'mekanism:enriching/conversion/obsidian_to_obsidian_dust',
-        'jaopca:thermal_expansion.material_to_dust.obsidian'
+        'jaopca:thermal_expansion.material_to_dust.obsidian',
+        'mekanism:hdpe_sheet'
     ];
 
     const outputRemovals = [
