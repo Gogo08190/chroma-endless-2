@@ -12,7 +12,7 @@ onEvent('recipes', (event) => {
               { item: 'doom:argent_plate' },
               { item: 'draconicevolution:dragon_heart' },
               { item: 'doom:argent_plate' },
-              { item: 'chroma:absolute_alloy' },
+              { item: 'beyond_earth:compressed_desh' },
               { item: 'biggerreactors:ludicrite_block' },
               { item: 'beyond_earth:compressed_desh' }
           ],
