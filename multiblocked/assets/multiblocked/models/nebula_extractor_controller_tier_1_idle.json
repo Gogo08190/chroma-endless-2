@@ -3,27 +3,14 @@
 	"parent": "block/cube_all",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "multiblocked:block/nebula_controller/screen_idle",
-		"1": "multiblocked:block/nebula_controller/face",
+		"1": "multiblocked:block/nebula_controller/face_idle",
 		"2": "multiblocked:block/nebula_controller/bloc",
-		"particle": "multiblocked:block/nebula_controller/screen_idle"
+		"particle": "multiblocked:block/nebula_controller/bloc"
 	},
 	"elements": [
 		{
-			"from": [3, 6, 0],
-			"to": [13, 12, 1],
-			"faces": {
-				"north": {"uv": [0, 0, 5, 3], "texture": "#0"},
-				"east": {"uv": [5, 1, 5.5, 4], "texture": "#0"},
-				"south": {"uv": [0, 3, 5, 6], "texture": "#0"},
-				"west": {"uv": [5, 4, 5.5, 7], "texture": "#0"},
-				"up": {"uv": [10, 0.5, 5, 0], "texture": "#0"},
-				"down": {"uv": [10, 0.5, 5, 1], "texture": "#0"}
-			}
-		},
-		{
-			"from": [0, 0, 1],
-			"to": [16, 16, 2],
+			"from": [0, 0, 0],
+			"to": [16, 16, 1],
 			"faces": {
 				"north": {"uv": [0, 0, 4, 4], "texture": "#1"},
 				"east": {"uv": [4, 0, 4.25, 4], "texture": "#1"},
@@ -34,7 +21,7 @@
 			}
 		},
 		{
-			"from": [0, 0, 2],
+			"from": [0, 0, 1],
 			"to": [16, 16, 16],
 			"faces": {
 				"north": {"uv": [0, 0, 4, 4], "texture": "#2"},
