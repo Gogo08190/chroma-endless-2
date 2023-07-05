@@ -42,7 +42,6 @@
 
   "chapter.stage.1.quest.4.subtitle.1": "Hot Topic",
   "chapter.stage.1.quest.4.description.1" : "Time to smelt and cook !",
-
   
   "chapter.stage.1.quest.5.subtitle.1": "Mixing Some ores",
   "chapter.stage.1.quest.5.description.1" : "Already creating some alloy might help you get through the game.",
@@ -53,10 +52,9 @@
   "chapter.stage.1.quest.6.description.1" : "Now that you have this alloy, you will be able for now to burn it to smelt it and then have the Andesite Alloy.",
   "chapter.stage.1.quest.6.description.2" : "Like the mix, the ingot can be crafted easier later in the game. You can check recipes to see them.",
 
-  "chapter.stage.1.quest.7.subtitle.1": "Rotation at its bests",
+  "chapter.stage.1.quest.7.subtitle.1": "Rotation at it's bests",
   "chapter.stage.1.quest.7.description.1" : "Rotor can be associated to pipe. They can transmit rotation and can be placed like you want.",
 
-  
   "chapter.stage.1.quest.8.subtitle.1": "The Cogwheels are a basic mechanical component in Create that relays rotation",
   "chapter.stage.1.quest.8.description.1" : "Cogwheels can transmit rotation to another adjacent coghweel.",
   "chapter.stage.1.quest.8.description.2" : "If a Coghweel A is facing a coghweel B then the B will change it's rotation sense.",
@@ -208,6 +206,10 @@
 
   "chapter.stage.1.quest.50.subtitle.1": "Crafting Spells",
 
-  "chapter.stage.1.quest.51.subtitle.1": "Forging Runes"
+  "chapter.stage.1.quest.51.subtitle.1": "Forging Runes",
+
+  "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer"
 }
 
