@@ -19,5 +19,8 @@
   "block.chroma.void_miner_tier_1": "Void Miner Controller Tier 1",
   "block.chroma.void_miner_tier_2": "Void Miner Controller Tier 2",
   "block.chroma.void_miner_tier_3": "Void Miner Controller Tier 3",
-  "block.chroma.void_miner_tier_4": "Void Miner Controller Tier 4"
+  "block.chroma.void_miner_tier_4": "Void Miner Controller Tier 4",
+  "block.chroma.nebula_extractor_item_output": "Nebula Extractor Item Output",
+  "block.chroma.nebula_extractor_energy_input": "Nebula Extractor Energy Input",
+  "block.chroma.nebula_extractor_tier_1": "Nebula Extractor Controller Tier 1"
 }
