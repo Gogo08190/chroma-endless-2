@@ -1,0 +1,44 @@
+{
+  "name": "nebula_tier_1",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "lunaris",
+      "duration": 200,
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "chroma:lunaris_nova"
+              }
+            },
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:moon_stone"
+              }
+            },
+            "chance": 0.1
+          }
+        ]
+      },
+      "tickInputs": {
+        "forge_energy": [
+          {
+            "content": 5000,
+            "chance": 1.0
+          }
+        ]
+      }
+    }
+  ],
+  "ui": "nebula_tier_1"
+}
