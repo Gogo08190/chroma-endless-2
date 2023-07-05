@@ -675,4 +675,43 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('beyond_earth:rover')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FCGCF",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "mekanism:alloy_atomic"
+        },
+        "B": {
+          "item": "chroma:nebula_frame"
+        },
+        "C": {
+          "item": "chroma:supra_catalyst"
+        },
+        "D": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "E": {
+          "item": "biggerreactors:ludicrite_block"
+        },
+        "F": {
+          "item": "powah:energy_cell_niotic"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_simple"
+        }
+      },
+      "result": {
+        "item": "chroma:nebula_extractor_tier_1"
+      }
+    }
+  ).id(`${id_prefix}nebula_extractor_tier_1`)
 });
