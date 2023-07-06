@@ -581,15 +581,28 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mekanism:rotary_condensentrator',
-            pattern: ['AUA', 'TES', 'AUA'],
+            pattern: ['AUA', 'TFS', 'AEA'],
             key: {
                 E: Item.of('solarpanels:improved_energy_tablet').ignoreNBT(),
                 U: 'mekanism:ultimate_control_circuit',
                 A: 'mekanism:alloy_atomic',
                 S: 'mekanism:basic_fluid_tank',
-                T: 'mekanism:basic_chemical_tank'
+                T: 'mekanism:basic_chemical_tank',
+                F: 'mekanism:steel_casing'
             },
             id: 'mekanism:rotary_condensentrator'
+        },
+        {
+            output: 'mekanism:chemical_crystallizer',
+            pattern: ['ASA', 'UFU', 'AEA'],
+            key: {
+                E: Item.of('solarpanels:improved_energy_tablet').ignoreNBT(),
+                U: 'mekanism:ultimate_control_circuit',
+                A: '#forge:ingots/refined_obsidian',
+                S: '#forge:storage_blocks/fluorite',
+                F: 'mekanism:steel_casing'
+            },
+            id: 'mekanism:chemical_crystallizer'
         },
     ];
 
