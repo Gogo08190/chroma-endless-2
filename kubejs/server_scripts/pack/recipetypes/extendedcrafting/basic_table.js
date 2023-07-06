@@ -318,7 +318,7 @@ onEvent("recipes", (event) => {
       ],
       "key": {
         "A": {
-          "item": "pneumaticcraft:plastic"
+          "item": "chroma:resin_plate"
         },
         "B": {
           "item": "pneumaticcraft:gps_tool"
