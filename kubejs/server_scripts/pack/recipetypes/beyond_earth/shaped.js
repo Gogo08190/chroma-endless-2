@@ -54,13 +54,14 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'beyond_earth:compressor',
-            pattern: ['OCO', 'PFP', 'HHH'],
+            pattern: ['OCO', 'PFP', 'HLH'],
             key: {
                 O: '#beyond_earth:compresseds/refined_obsidian',
                 C: '#forge:circuits/ultimate',
                 F: '#industrialforegoing:machine_frame/simple',
                 P: 'beyond_earth_giselle_addon:press_compressing_die',
-                H: '#beyond_earth:compresseds/hop_graphite'
+                H: '#beyond_earth:compresseds/hop_graphite',
+                L: '#beyond_earth:compresseds/ludicrite'
             },
             id: 'beyond_earth:compressor'
         },
@@ -81,7 +82,7 @@ onEvent('recipes', (event) => {
             pattern: ['CUC', 'RFR', 'CTC'],
             key: {
                 U: '#forge:circuits/ultimate',
-                C: '#beyond_earth:compresseds/steel',
+                C: '#beyond_earth:compresseds/ludicrite',
                 R: 'pneumaticcraft:refinery_output',
                 F: '#industrialforegoing:machine_frame/simple',
                 T: 'mekanism:elite_fluid_tank'
