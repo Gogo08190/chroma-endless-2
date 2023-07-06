@@ -269,7 +269,7 @@ onEvent('recipes', (event) => {
             pattern: ['SAS', 'SES', 'ICI'],
             key: {
                 E: Item.of('solarpanels:improved_energy_tablet').weakNBT(),
-                I: '#forge:ingots/steel',
+                I: '#forge:ingots/refined_obsidian',
                 C: 'powah:capacitor_blazing',
                 A: 'mekanism:alloy_reinforced',
                 S: Item.of('mekanismgenerators:solar_generator').ignoreNBT()
