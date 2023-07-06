@@ -79,6 +79,13 @@ onEvent('recipes', (event) => {
         infusionAmount: 40,
         id: `${id_prefix}absolute_alloy`
       },
+      {
+        output: 'mekanism:dust_refined_obsidian',
+        input: 'mekanism:dust_obsidian',
+        infusionInput: 'chroma:niotic',
+        infusionAmount: 10,
+        id: 'mekanism:processing/refined_obsidian/dust/from_obsidian_dust'
+      },
     ];
 
     recipes.forEach((recipe) => {

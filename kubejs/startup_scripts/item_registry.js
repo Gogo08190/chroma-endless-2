@@ -60,6 +60,7 @@ onEvent('item.registry', (event) => {
       'supremium_seed_base',
       'insanium_seed_base',
       'enriched_compressed_steel',
+      'enriched_niotic'
     ];
 
     items.forEach((item) => {

@@ -51,6 +51,21 @@ onEvent('recipes', (event) => {
         output: { amount: 80, infuse_type: 'chroma:compressed_steel' },
         id: `${id_prefix}compressed_steel_from_enriched`
       },
+      {
+        input: { ingredient: { item: 'powah:crystal_niotic' } },
+        output: { amount: 10, infuse_type: 'chroma:niotic' },
+        id: `${id_prefix}niotic_from_crystal`
+      },
+      {
+        input: { ingredient: { item: 'powah:niotic_crystal_block' } },
+        output: { amount: 90, infuse_type: 'chroma:niotic' },
+        id: `${id_prefix}niotic_from_block`
+      },
+      {
+        input: { ingredient: { item: 'chroma:enriched_niotic' } },
+        output: { amount: 80, infuse_type: 'chroma:niotic' },
+        id: `${id_prefix}niotic_from_enriched`
+      },
     ]
 
     recipes.forEach((recipe) => {
