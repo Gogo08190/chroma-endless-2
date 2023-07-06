@@ -4,8 +4,81 @@
   "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
   "recipes": [
     {
+      "uid": "basic_cobalrite_sieving",
+      "duration": 1,
+      "inputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "chroma:raw_cobalrite"
+              }
+            },
+            "chance": 1.0
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 64.0,
+            "chance": 1.0
+          }
+        ],
+        "fluid": [
+          {
+            "content": {
+              "fluid": "minecraft:water",
+              "amount": 500
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 2,
+              "ingredient": {
+                "item": "jaopca:create_crushed_ores.cobalt"
+              }
+            },
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "jaopca:create_crushed_ores.netherite_scrap"
+              }
+            },
+            "chance": 0.05
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:soul_sand"
+              }
+            },
+            "chance": 0.3
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 64.0,
+            "chance": 1.0
+          }
+        ]
+      }
+    },
+    {
       "uid": "basic_leadurosmate_sieving",
-      "duration": 20,
+      "duration": 60,
       "inputs": {
         "item": [
           {
@@ -42,7 +115,7 @@
               "type": "multiblocked:sized",
               "count": 2,
               "ingredient": {
-                "item": "create:crushed_lead_ore"
+                "item": "create:crushed_raw_lead"
               }
             },
             "chance": 0.6
@@ -52,7 +125,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "create:crushed_uranium_ore"
+                "item": "create:crushed_raw_uranium"
               }
             },
             "chance": 0.25
@@ -62,7 +135,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "create:crushed_osmium_ore"
+                "item": "create:crushed_raw_osmium"
               }
             },
             "chance": 0.15
@@ -72,7 +145,90 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "thermal:slag"
+                "item": "immersiveengineering:slag_gravel"
+              }
+            },
+            "chance": 0.5
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 64.0,
+            "chance": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "uid": "basic_cuperargentite_sieving",
+      "duration": 60,
+      "inputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "chroma:raw_cuperargentite"
+              }
+            },
+            "chance": 1.0
+          }
+        ],
+        "create_stress": [
+          {
+            "content": 64.0,
+            "chance": 1.0
+          }
+        ],
+        "fluid": [
+          {
+            "content": {
+              "fluid": "minecraft:water",
+              "amount": 500
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 2,
+              "ingredient": {
+                "item": "create:crushed_raw_copper"
+              }
+            },
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_raw_tin"
+              }
+            },
+            "chance": 0.25
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_raw_silver"
+              }
+            },
+            "chance": 0.15
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "immersiveengineering:slag_gravel"
               }
             },
             "chance": 0.5
@@ -88,7 +244,7 @@
     },
     {
       "uid": "basic_feranicalumite_sieving",
-      "duration": 20,
+      "duration": 60,
       "inputs": {
         "item": [
           {
@@ -125,7 +281,7 @@
               "type": "multiblocked:sized",
               "count": 2,
               "ingredient": {
-                "item": "create:crushed_iron_ore"
+                "item": "create:crushed_raw_iron"
               }
             },
             "chance": 0.6
@@ -135,17 +291,17 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "create:crushed_aluminum_ore"
+                "item": "create:crushed_raw_aluminum"
               }
             },
-            "chance": 0.2
+            "chance": 0.25
           },
           {
             "content": {
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "create:crushed_nickel_ore"
+                "item": "create:crushed_raw_nickel"
               }
             },
             "chance": 0.15
@@ -155,7 +311,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "thermal:slag"
+                "item": "immersiveengineering:slag_gravel"
               }
             },
             "chance": 0.5
@@ -171,7 +327,7 @@
     },
     {
       "uid": "basic_aurizincite_sieving",
-      "duration": 20,
+      "duration": 60,
       "inputs": {
         "item": [
           {
@@ -208,7 +364,17 @@
               "type": "multiblocked:sized",
               "count": 2,
               "ingredient": {
-                "item": "create:crushed_gold_ore"
+                "item": "create:crushed_raw_gold"
+              }
+            },
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "create:crushed_raw_zinc"
               }
             },
             "chance": 0.4
@@ -218,17 +384,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "create:crushed_zinc_ore"
-              }
-            },
-            "chance": 0.2
-          },
-          {
-            "content": {
-              "type": "multiblocked:sized",
-              "count": 1,
-              "ingredient": {
-                "item": "thermal:slag"
+                "item": "immersiveengineering:slag_gravel"
               }
             },
             "chance": 0.5
