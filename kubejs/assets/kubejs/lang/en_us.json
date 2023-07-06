@@ -40,9 +40,11 @@
 
   "Stage 1":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+  "chapter.stage.1.quest.1.title.1": "Wood",
   "chapter.stage.1.quest.1.subtitle.1": "Classic Start",
   "chapter.stage.1.quest.1.description.1" : "What Minecraft would be if you don't break some wood? Let's go collect some !",
 
+  "chapter.stage.1.quest.2.title.1": "Planks",
   "chapter.stage.1.quest.2.subtitle.1": "Planked",
   "chapter.stage.1.quest.2.description.1" : "Do I have to explain how to get planks? Really?",
 
@@ -52,6 +54,7 @@
   "chapter.stage.1.quest.4.subtitle.1": "Hot Topic",
   "chapter.stage.1.quest.4.description.1" : "Time to smelt and cook !",
 
+  "chapter.stage.1.quest.5.title.1": "Andesite with Iron/Zinc",
   "chapter.stage.1.quest.5.subtitle.1": "Mixing Some ores",
   "chapter.stage.1.quest.5.description.1" : "Already creating some alloy might help you get through the game.",
   "chapter.stage.1.quest.5.description.2" : "I suggest you look how to craft this new mix.",
@@ -91,6 +94,7 @@
   "chapter.stage.1.quest.12.description.4":"● When placed one space above any block, it will process all stacks of valid items on the block when given a rotational power and a redstone signal(like a lever). Items with no pressing recipe are unaffected.",
   "chapter.stage.1.quest.12.description.5":"● When placed one space above a Mechanical Belt, it will automatically press stacks of incoming items, stalling the belt until each operation is done. Items with no pressing recipe are ignored.",
 
+  "chapter.stage.1.quest.13.title.1": "Sand Paper",
   "chapter.stage.1.quest.13.subtitle.1": "Sand Pressing",
   "chapter.stage.1.quest.13.description.1" : "&4Sand Paper&r is a tool used only to create Polished Rose Quartz.",
 
@@ -112,6 +116,7 @@
   "chapter.stage.1.quest.18.description.3" : "To work, a Mixer must be placed directly above a Basin, with a 1 block gap. When a valid recipe is inserted by throwing the ingredients in the Mixer, the Mixer will automatically combine the ingredients.",
   "chapter.stage.1.quest.18.description.4" : "The Mechanical Mixer may be used to perform mixing recipes, which are not possible to make anywhere else.",
 
+  "chapter.stage.1.quest.19.title.1": "Visit dimension : &cThe Nether",
   "chapter.stage.1.quest.19.subtitle.1": "Go to Hell",
   "chapter.stage.1.quest.19.description.1" : "I suggest you prepare yourself in order to visit &4The Nether&r...Or else...",
 
@@ -172,10 +177,12 @@
   "chapter.stage.1.quest.35.description.1" : "Seared Bricks are used to make the parts of the Tinker Smeltery",
   "chapter.stage.1.quest.35.description.2" : "Go to the next quest to see which parts are going to be useful",
 
+  "chapter.stage.1.quest.36.title.1": "Melter",
   "chapter.stage.1.quest.36.subtitle.1": "Your first 'Smeltery', The Melter !",
   "chapter.stage.1.quest.36.description.1" : "Before making the big old Smeltery you should do The Melter",
   "chapter.stage.1.quest.36.description.2" : "All needed parts are listed on this quest.",
 
+  "chapter.stage.1.quest.37.title.1": "Smeltery",
   "chapter.stage.1.quest.37.subtitle.1": "The Tinker Smeltery !",
   "chapter.stage.1.quest.37.description.1" : "As we seen sooner in the quests, seared brick is going to be needed (again)",
   "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be usefull to make some parts !",
@@ -190,12 +197,15 @@
 
   "chapter.stage.1.quest.42.subtitle.1": "Iron, Aluminum And Nickel Mix",
 
+  "chapter.stage.1.quest.43.title.1": "Basic Sieving Factory - Part 1",
   "chapter.stage.1.quest.43.subtitle.1": "A new Create Multiblock Part One !",
   "chapter.stage.1.quest.43.description.1": "Here are the first parts of our Custom Create Multiblock !",
 
+  "chapter.stage.1.quest.44.title.1": "Basic Sieving Factory - Part 2",
   "chapter.stage.1.quest.44.subtitle.1": "A new Create Multiblock Part Two !",
   "chapter.stage.1.quest.44.description.1": "Here are the second parts of our Custom Create Multiblock !",
 
+  "chapter.stage.1.quest.45.title.1": "Basic Sieving Factory",
   "chapter.stage.1.quest.45.subtitle.1": "Sieving at it's best !",
   "chapter.stage.1.quest.45.description.1": "This multiblock will allow you to process the resources obtained by the &6Drilling Machine&r.",
   "chapter.stage.1.quest.45.description.2": "To power this multiblock, you will need stress and water.",

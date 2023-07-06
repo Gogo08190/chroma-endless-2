@@ -40,9 +40,11 @@
 
     "Stage 1":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+    "chapter.stage.1.quest.1.title.1": "Bois",
     "chapter.stage.1.quest.1.subtitle.1": "Un début classique",
-    "chapter.stage.1.quest.1.description.1" : "Qu'est-ce que serait Minecraft sans recolter du bois? Allez hop on y va !",
+    "chapter.stage.1.quest.1.description.1" : "Qu'est-ce que serait Minecraft sans recolter du bois ? Allez hop on y va !",
 
+    "chapter.stage.1.quest.2.title.1": "Planches",
     "chapter.stage.1.quest.2.subtitle.1": "Du pain sur la planche",
     "chapter.stage.1.quest.2.description.1" : "Vraiment? On doit expliquer comment obtenir des planches?",
 
@@ -52,7 +54,7 @@
     "chapter.stage.1.quest.4.subtitle.1": "Au fourneau !",
     "chapter.stage.1.quest.4.description.1" : "Il est temps de cuire et de fondre !",
 
-
+    "chapter.stage.1.quest.5.title.1": "Andésite avec du Fer/Zinc",
     "chapter.stage.1.quest.5.subtitle.1": "Mélangeons des minerais ! ",
     "chapter.stage.1.quest.5.description.1" : "En créant cet alliage vous allez pouvoir avancer !",
     "chapter.stage.1.quest.5.description.2" : "Nous vous suggérons de regarder comment il se craft.",
@@ -92,6 +94,7 @@
     "chapter.stage.1.quest.12.description.4":"● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal redstone (comme un levier). Les objets sans recette de pressage ne sont pas affectés.",
     "chapter.stage.1.quest.12.description.5":"● Lorsqu'elle est placée à un bloc au-dessus d'une bande mécanique, elle pressera automatiquement les tas d'objets entrants, arrêtant la bande jusqu'à ce que chaque opération soit terminée. Les objets sans recette de pressage sont ignorés.",
 
+    "chapter.stage.1.quest.13.title.1": "Papier de verre",
     "chapter.stage.1.quest.13.subtitle.1": "Pressons du Sable",
     "chapter.stage.1.quest.13.description.1" : "Le papier de verre est un outil utilisé uniquement pour créer du quartz rose poli.",
 
@@ -113,6 +116,7 @@
     "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une recette valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
     "chapter.stage.1.quest.18.description.4" : "Le mélangeur mécanique peut être utilisé pour réaliser des recettes de mélange qui ne peuvent être réalisées nulle part ailleurs.",
 
+    "chapter.stage.1.quest.19.title.1": "Visiter la dimension : &cLe Nether",
     "chapter.stage.1.quest.19.subtitle.1": "Allons en Enfer !",
     "chapter.stage.1.quest.19.description.1" : "On vous suggère de vous préparer avant de visiter &4le Nether&r... Ou Sinon...",
 
