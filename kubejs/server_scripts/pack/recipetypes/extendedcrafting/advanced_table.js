@@ -682,13 +682,13 @@ onEvent("recipes", (event) => {
       "pattern": [
         "ABCBA",
         "BDEDB",
-        "FCGCF",
+        "FGHGF",
         "BDEDB",
         "ABCBA"
       ],
       "key": {
         "A": {
-          "item": "mekanism:alloy_atomic"
+          "item": "lazierae2:parallel_processor"
         },
         "B": {
           "item": "chroma:nebula_frame"
@@ -706,6 +706,9 @@ onEvent("recipes", (event) => {
           "item": "powah:energy_cell_niotic"
         },
         "G": {
+          "item": "lazierae2:logic_unit"
+        },
+        "H": {
           "item": "industrialforegoing:machine_frame_simple"
         }
       },
