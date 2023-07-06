@@ -1,0 +1,1127 @@
+{
+	id: "610A776EA645B178"
+	group: "23866070F89333B0"
+	order_index: 2
+	filename: "stage_3"
+	title: "Stage 3"
+	icon: "pneumaticcraft:air_compressor"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 18.5d
+			y: -3.5d
+			dependencies: ["297AC75422C840AB"]
+			id: "05F7F69199F212AA"
+			tasks: [{
+				id: "6CD338CC4C2BF69B"
+				type: "item"
+				item: "powah:uraninite"
+			}]
+		}
+		{
+			x: 19.0d
+			y: -2.0d
+			dependencies: ["05F7F69199F212AA"]
+			id: "25E3B32A05B679A5"
+			tasks: [{
+				id: "05131856DCC92CDE"
+				type: "item"
+				item: "chroma:silicon_paste"
+			}]
+		}
+		{
+			x: 18.0d
+			y: -1.0d
+			dependencies: ["25E3B32A05B679A5"]
+			id: "3137383ED8C4F9E1"
+			tasks: [{
+				id: "585CAF610F544416"
+				type: "item"
+				item: "powah:dielectric_paste"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 0.0d
+			dependencies: ["3137383ED8C4F9E1"]
+			id: "53E556F40CB62FF2"
+			tasks: [{
+				id: "557D629D20C36292"
+				type: "item"
+				item: "powah:dielectric_rod"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 1.5d
+			dependencies: ["53E556F40CB62FF2"]
+			id: "0F637CFEAD9104E1"
+			tasks: [{
+				id: "741049278AD25738"
+				type: "item"
+				item: "powah:dielectric_casing"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 3.0d
+			dependencies: ["0F637CFEAD9104E1"]
+			id: "57FB233922030381"
+			tasks: [{
+				id: "25F0EFADA5258A6F"
+				type: "item"
+				item: "powah:energizing_orb"
+			}]
+		}
+		{
+			x: 20.0d
+			y: -0.5d
+			dependencies: ["3137383ED8C4F9E1"]
+			id: "0D3B7BCD89143A0E"
+			tasks: [{
+				id: "42711FDEA144101E"
+				type: "item"
+				item: "powah:capacitor_basic"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 1.0d
+			dependencies: ["0D3B7BCD89143A0E"]
+			id: "4A2C1EF0D7BEB25B"
+			tasks: [{
+				id: "464EA3D1A6E10E8D"
+				type: "item"
+				item: "powah:capacitor_basic_large"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 1.5d
+			dependencies: ["4A2C1EF0D7BEB25B"]
+			id: "74FB4B1C4C5F4465"
+			tasks: [{
+				id: "771055B398AC70A7"
+				type: "item"
+				item: {
+					id: "powah:battery_basic"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 3.0d
+			dependencies: ["74FB4B1C4C5F4465"]
+			id: "52D6A553E483F973"
+			tasks: [{
+				id: "5F9FFA736934FA40"
+				type: "item"
+				item: "powah:energizing_rod_basic"
+			}]
+		}
+		{
+			x: 18.5d
+			y: 4.5d
+			shape: "gear"
+			dependencies: [
+				"57FB233922030381"
+				"52D6A553E483F973"
+			]
+			size: 1.5d
+			id: "187A18B2102BE3E4"
+			tasks: [{
+				id: "39A338FBA228EFD5"
+				type: "item"
+				item: "powah:steel_energized"
+			}]
+		}
+		{
+			x: 18.5d
+			y: 6.5d
+			dependencies: ["187A18B2102BE3E4"]
+			id: "5219F0F6EC952D57"
+			tasks: [{
+				id: "172EAAF7A1D55264"
+				type: "item"
+				item: "pneumaticcraft:ingot_iron_compressed"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 6.0d
+			dependencies: ["5219F0F6EC952D57"]
+			id: "0CF5DE54DC6390F1"
+			tasks: [{
+				id: "4D6E58A41E5E6977"
+				type: "item"
+				item: "pneumaticcraft:reinforced_stone"
+			}]
+		}
+		{
+			x: 23.5d
+			y: 6.5d
+			dependencies: ["73029BDAA02D6D46"]
+			id: "465AF4C00EA901BE"
+			tasks: [
+				{
+					id: "2A60812C4E19DAF1"
+					type: "item"
+					item: "pneumaticcraft:pressure_chamber_wall"
+				}
+				{
+					id: "7B978EF6FFAD1DAC"
+					type: "item"
+					item: "pneumaticcraft:pressure_chamber_valve"
+				}
+				{
+					id: "1CE8CEE2BEF0DB89"
+					type: "item"
+					item: "pneumaticcraft:pressure_chamber_interface"
+				}
+			]
+		}
+		{
+			x: 20.0d
+			y: 7.0d
+			dependencies: ["5219F0F6EC952D57"]
+			id: "5A2A8C6723335D8D"
+			tasks: [{
+				id: "666A4150FE5FC8CE"
+				type: "item"
+				item: "pneumaticcraft:pressure_tube"
+			}]
+		}
+		{
+			x: 21.5d
+			y: 6.5d
+			dependencies: [
+				"0CF5DE54DC6390F1"
+				"5A2A8C6723335D8D"
+			]
+			id: "73029BDAA02D6D46"
+			tasks: [{
+				id: "2B7C436D0F972E7A"
+				type: "item"
+				item: "pneumaticcraft:air_compressor"
+			}]
+		}
+		{
+			x: 21.5d
+			y: 5.0d
+			dependencies: ["73029BDAA02D6D46"]
+			id: "09A7300CD20CC9A7"
+			tasks: [{
+				id: "4B59F79D473F7564"
+				type: "item"
+				item: "pneumaticcraft:liquid_compressor"
+			}]
+		}
+		{
+			x: 18.5d
+			y: 10.0d
+			dependencies: [
+				"46EF4EC4584E82C2"
+				"33F2686B845B6709"
+			]
+			id: "73D7F393182E6A53"
+			tasks: [
+				{
+					id: "482EE983203B82B6"
+					type: "item"
+					item: "pneumaticcraft:refinery"
+				}
+				{
+					id: "080C6A3E12F1CB94"
+					type: "item"
+					item: "pneumaticcraft:refinery_output"
+					count: 4L
+				}
+			]
+		}
+		{
+			x: 18.0d
+			y: 8.5d
+			dependencies: ["5219F0F6EC952D57"]
+			id: "33F2686B845B6709"
+			tasks: [{
+				id: "08EE0BE74BB1F28C"
+				type: "item"
+				item: "pneumaticcraft:heat_sink"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 8.5d
+			dependencies: ["5219F0F6EC952D57"]
+			id: "46EF4EC4584E82C2"
+			tasks: [{
+				id: "06AFFD0161EE5ACA"
+				type: "item"
+				item: "pneumaticcraft:vortex_tube"
+			}]
+		}
+		{
+			x: 20.5d
+			y: 10.0d
+			dependencies: ["73D7F393182E6A53"]
+			id: "75BC4CCC5F690CB9"
+			tasks: [{
+				id: "31F533E0CC50E18E"
+				type: "item"
+				item: "pneumaticcraft:thermopneumatic_processing_plant"
+			}]
+		}
+		{
+			x: 21.5d
+			y: 9.0d
+			dependencies: ["75BC4CCC5F690CB9"]
+			id: "0D61AA8908E8DF1A"
+			tasks: [{
+				id: "617C4E2B3605DFDB"
+				type: "item"
+				item: "pneumaticcraft:plastic_bucket"
+			}]
+		}
+		{
+			x: 23.5d
+			y: 7.5d
+			dependencies: ["3F404A9E95A70F9F"]
+			id: "293B4B0133405170"
+			tasks: [{
+				id: "3F7325EDBFA175BE"
+				type: "item"
+				item: "pneumaticcraft:plastic"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 8.0d
+			dependencies: ["0D61AA8908E8DF1A"]
+			id: "3F404A9E95A70F9F"
+			tasks: [{
+				id: "4B376FE6CD7D07D0"
+				type: "item"
+				item: "pneumaticcraft:heat_frame"
+			}]
+		}
+		{
+			x: 25.0d
+			y: 7.5d
+			dependencies: [
+				"293B4B0133405170"
+				"465AF4C00EA901BE"
+			]
+			id: "492AC5035C5B11AF"
+			tasks: [{
+				id: "1D47E65A05893EC2"
+				type: "item"
+				item: "pneumaticcraft:capacitor"
+			}]
+		}
+		{
+			x: 25.0d
+			y: 6.5d
+			dependencies: [
+				"293B4B0133405170"
+				"465AF4C00EA901BE"
+			]
+			id: "03D46DC48B6D5C14"
+			tasks: [{
+				id: "00FA85860F0DD583"
+				type: "item"
+				item: "pneumaticcraft:transistor"
+			}]
+		}
+		{
+			x: 21.5d
+			y: 11.0d
+			dependencies: ["75BC4CCC5F690CB9"]
+			id: "139004EED678D7E2"
+			tasks: [{
+				id: "7648BD4D0E28E568"
+				type: "item"
+				item: "pneumaticcraft:upgrade_matrix"
+			}]
+		}
+		{
+			x: 33.5d
+			y: 3.0d
+			dependencies: ["33047DF4952EB7F6"]
+			id: "614011CEF48B8B5E"
+			tasks: [{
+				id: "61EDA09CAEF8A61E"
+				type: "item"
+				item: "pneumaticcraft:fluid_mixer"
+			}]
+		}
+		{
+			x: 28.0d
+			y: 8.0d
+			dependencies: ["30C63B030158B258"]
+			id: "521997B4F12381CE"
+			tasks: [{
+				id: "4B0220AC0AA6C1A8"
+				type: "item"
+				item: "mekanism:enrichment_chamber"
+			}]
+		}
+		{
+			x: 28.0d
+			y: 5.0d
+			dependencies: ["3784D8EC8FC01F80"]
+			id: "789E43F40ADF65AB"
+			tasks: [{
+				id: "736C358B6371BD37"
+				type: "item"
+				item: "mekanism:elite_control_circuit"
+			}]
+		}
+		{
+			x: 29.0d
+			y: 5.0d
+			dependencies: ["3784D8EC8FC01F80"]
+			id: "5BC5869ED199C23F"
+			tasks: [{
+				id: "01203829063F819F"
+				type: "item"
+				item: "mekanism:alloy_reinforced"
+			}]
+		}
+		{
+			x: 28.5d
+			y: 4.0d
+			dependencies: [
+				"5BC5869ED199C23F"
+				"789E43F40ADF65AB"
+			]
+			id: "095F27F14765579C"
+			tasks: [{
+				id: "56432B70FE097DBA"
+				type: "item"
+				item: "mekanism:energy_tablet"
+			}]
+		}
+		{
+			x: 28.0d
+			y: 3.0d
+			dependencies: ["095F27F14765579C"]
+			id: "0DDD5C45D90DA6F0"
+			tasks: [{
+				id: "1A7CBDE22FAB466C"
+				type: "item"
+				item: "mekanismgenerators:solar_generator"
+			}]
+		}
+		{
+			x: 29.0d
+			y: 3.0d
+			dependencies: ["095F27F14765579C"]
+			id: "7FE4028E37483733"
+			tasks: [{
+				id: "50CA9A5B20017CD5"
+				type: "item"
+				item: "mekanismgenerators:wind_generator"
+			}]
+		}
+		{
+			x: 30.0d
+			y: 1.0d
+			dependencies: ["539F5B107C9B4038"]
+			id: "6D38C6B9D7676D2F"
+			tasks: [{
+				id: "1391A9E1FB2A9EC1"
+				type: "item"
+				item: "chroma:essence_of_darkness"
+			}]
+		}
+		{
+			x: 31.0d
+			y: 0.0d
+			dependencies: ["6D38C6B9D7676D2F"]
+			id: "11D4926CDD2E8B62"
+			tasks: [{
+				id: "1137D2B21EC7BFB0"
+				type: "item"
+				item: "chroma:enriched_essence_of_darkness"
+			}]
+		}
+		{
+			x: 28.5d
+			y: 1.5d
+			dependencies: [
+				"7FE4028E37483733"
+				"0DDD5C45D90DA6F0"
+			]
+			id: "539F5B107C9B4038"
+			tasks: [{
+				id: "34CAB1F7A18B2F6A"
+				type: "item"
+				item: "mekanism:osmium_compressor"
+			}]
+		}
+		{
+			x: 29.0d
+			y: 0.0d
+			dependencies: ["539F5B107C9B4038"]
+			id: "0903C94D45C5B4AD"
+			tasks: [{
+				id: "4F686EA49C328F72"
+				type: "item"
+				item: "mekanism:ingot_refined_glowstone"
+			}]
+		}
+		{
+			x: 31.5d
+			y: -1.5d
+			dependencies: [
+				"11D4926CDD2E8B62"
+				"2CA6403808379744"
+			]
+			id: "08A67B617032CA95"
+			tasks: [{
+				id: "2E6BC3768BCA0259"
+				type: "item"
+				item: "solarpanels:improved_energy_tablet"
+			}]
+		}
+		{
+			x: 31.0d
+			y: 2.0d
+			dependencies: ["6D38C6B9D7676D2F"]
+			id: "2F80F3F3EBD45206"
+			tasks: [{
+				id: "1173788821166122"
+				type: "item"
+				item: "extendedcrafting:black_iron_ingot"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 7.0d
+			dependencies: ["492AC5035C5B11AF"]
+			id: "30C63B030158B258"
+			tasks: [{
+				id: "62EE81945182A80F"
+				type: "item"
+				item: "extendedcrafting:redstone_ingot"
+			}]
+		}
+		{
+			x: 33.0d
+			y: 9.0d
+			dependencies: ["3A4C6467FDD9E1C0"]
+			id: "70F23632105ED968"
+			tasks: [{
+				id: "61D165A86FA6ED66"
+				type: "item"
+				item: "extendedcrafting:ender_ingot"
+			}]
+		}
+		{
+			x: 32.0d
+			y: 3.0d
+			dependencies: ["2F80F3F3EBD45206"]
+			id: "33047DF4952EB7F6"
+			tasks: [{
+				id: "0278E5F41FF299C7"
+				type: "item"
+				item: "extendedcrafting:black_iron_slate"
+			}]
+		}
+		{
+			x: 34.0d
+			y: 4.5d
+			dependencies: ["614011CEF48B8B5E"]
+			id: "7DE5779201181C3F"
+			tasks: [{
+				id: "11D30A55453EA923"
+				type: "item"
+				item: "chroma:inert_luminessence"
+			}]
+		}
+		{
+			x: 35.5d
+			y: 4.0d
+			dependencies: ["7DE5779201181C3F"]
+			id: "677044057205F200"
+			tasks: [{
+				id: "045F16664F3FA77B"
+				type: "item"
+				item: "extendedcrafting:luminessence"
+			}]
+		}
+		{
+			x: 35.5d
+			y: 5.5d
+			dependencies: ["677044057205F200"]
+			id: "7548D60AB61E8F53"
+			tasks: [{
+				id: "708FE109CEA2309F"
+				type: "item"
+				item: "extendedcrafting:basic_component"
+			}]
+		}
+		{
+			x: 34.0d
+			y: 6.5d
+			dependencies: ["7548D60AB61E8F53"]
+			id: "3611FF1EB85D876D"
+			tasks: [{
+				id: "70B43E675A8D9360"
+				type: "item"
+				item: "extendedcrafting:basic_catalyst"
+			}]
+		}
+		{
+			x: 34.0d
+			y: 8.0d
+			dependencies: ["3611FF1EB85D876D"]
+			id: "3A4C6467FDD9E1C0"
+			tasks: [{
+				id: "276F631C5C5E89FA"
+				type: "item"
+				item: "extendedcrafting:basic_table"
+			}]
+		}
+		{
+			x: 35.0d
+			y: 9.5d
+			dependencies: ["3A4C6467FDD9E1C0"]
+			id: "3F62E5EE1F580822"
+			tasks: [{
+				id: "3D72E75FC024629A"
+				type: "item"
+				item: "extendedcrafting:advanced_component"
+			}]
+		}
+		{
+			x: 36.5d
+			y: 10.0d
+			dependencies: ["3F62E5EE1F580822"]
+			id: "7E945654541E7D93"
+			tasks: [{
+				id: "31063795F274FB0A"
+				type: "item"
+				item: "extendedcrafting:advanced_catalyst"
+			}]
+		}
+		{
+			x: 36.0d
+			y: 11.5d
+			dependencies: ["7E945654541E7D93"]
+			id: "7BC1D137B2A492BE"
+			tasks: [{
+				id: "457A28641EB7FEBA"
+				type: "item"
+				item: "extendedcrafting:advanced_table"
+			}]
+		}
+		{
+			x: 33.0d
+			y: 11.0d
+			dependencies: ["5A07D65389C70B25"]
+			id: "78ABD52B36D196F3"
+			tasks: [{
+				id: "3CAA249F232115AE"
+				type: "item"
+				item: "extendedcrafting:redstone_catalyst"
+			}]
+		}
+		{
+			x: 31.0d
+			y: 9.5d
+			dependencies: ["5A07D65389C70B25"]
+			id: "606B4C43B8E11AD2"
+			tasks: [{
+				id: "24805CCB7F68AABB"
+				type: "item"
+				item: "extendedcrafting:ender_alternator"
+			}]
+		}
+		{
+			x: 32.0d
+			y: 10.0d
+			dependencies: ["70F23632105ED968"]
+			id: "5A07D65389C70B25"
+			tasks: [{
+				id: "24D224A2A61EBE84"
+				type: "item"
+				item: "extendedcrafting:ender_crafter"
+			}]
+		}
+		{
+			x: 32.5d
+			y: 12.5d
+			dependencies: ["78ABD52B36D196F3"]
+			id: "79D3B3B0E855F1BC"
+			tasks: [{
+				id: "446EF5C0FEA200D4"
+				type: "item"
+				item: "extendedcrafting:basic_auto_table"
+			}]
+		}
+		{
+			x: 33.5d
+			y: 12.5d
+			dependencies: ["78ABD52B36D196F3"]
+			id: "2C47EF3C9B5517F7"
+			tasks: [{
+				id: "03ECE761A245EE07"
+				type: "item"
+				item: "extendedcrafting:advanced_auto_table"
+			}]
+		}
+		{
+			x: 33.5d
+			y: -1.5d
+			dependencies: ["08A67B617032CA95"]
+			id: "125EFE4AC030977B"
+			tasks: [{
+				id: "735673D912696650"
+				type: "item"
+				item: "ae2:inscriber"
+			}]
+		}
+		{
+			x: 34.5d
+			y: -0.5d
+			dependencies: ["125EFE4AC030977B"]
+			id: "15312275BEC4639A"
+			tasks: [{
+				id: "74D3EFD3776BE9A3"
+				type: "item"
+				item: {
+					id: "ae2:energy_cell"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 36.0d
+			y: -1.0d
+			dependencies: ["15312275BEC4639A"]
+			id: "6B0E1159EA616619"
+			tasks: [{
+				id: "363E7AF6B1D8C432"
+				type: "item"
+				item: "ae2:condenser"
+			}]
+		}
+		{
+			x: 37.5d
+			y: -1.0d
+			dependencies: ["6B0E1159EA616619"]
+			id: "3BE4BF5D7EC90BC9"
+			tasks: [{
+				id: "0AB81AFF4608A37F"
+				type: "item"
+				item: "lazierae2:infuser"
+			}]
+		}
+		{
+			x: 40.0d
+			y: -1.5d
+			dependencies: ["7D2506F0395FDE7D"]
+			id: "02DA081A050F4BBF"
+			tasks: [{
+				id: "1B90E5573990DAEB"
+				type: "item"
+				item: "lazierae2:fluix_steel_ingot"
+			}]
+		}
+		{
+			x: 38.5d
+			y: -2.0d
+			dependencies: ["3BE4BF5D7EC90BC9"]
+			id: "7D2506F0395FDE7D"
+			tasks: [{
+				id: "39255B6A1FA0B089"
+				type: "item"
+				item: "lazierae2:carbonic_fluix_dust"
+			}]
+		}
+		{
+			x: 41.5d
+			y: -1.5d
+			dependencies: ["02DA081A050F4BBF"]
+			id: "2E8893A3038F6EA6"
+			tasks: [{
+				id: "7107C472E86C7A81"
+				type: "item"
+				item: "ae2:controller"
+			}]
+		}
+		{
+			x: 43.5d
+			y: -1.5d
+			dependencies: ["2E8893A3038F6EA6"]
+			id: "561BC77A0D30F2DA"
+			tasks: [{
+				id: "2D2C2BD83F728B87"
+				type: "item"
+				item: "ae2:drive"
+			}]
+		}
+		{
+			x: 43.0d
+			y: -3.0d
+			dependencies: ["561BC77A0D30F2DA"]
+			id: "589E4B71E727E3D8"
+			tasks: [{
+				id: "7C5BAE3461C1C0CB"
+				type: "item"
+				title: "Item Storage Cell"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "ae2:item_storage_cell_1k"
+								Count: 1
+								tag: { }
+							}
+							{
+								id: "ae2:item_storage_cell_4k"
+								Count: 1
+								tag: { }
+							}
+							{
+								id: "ae2:item_storage_cell_16k"
+								Count: 1
+								tag: { }
+							}
+							{
+								id: "ae2:item_storage_cell_64k"
+								Count: 1
+								tag: { }
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 44.0d
+			y: -3.0d
+			dependencies: ["561BC77A0D30F2DA"]
+			id: "48DC6E2B2602607C"
+			tasks: [{
+				id: "28DDF0873925C744"
+				type: "item"
+				title: "Fluid Storage Cell"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "ae2:fluid_storage_cell_1k"
+								Count: 1
+								tag: { }
+							}
+							{
+								id: "ae2:fluid_storage_cell_4k"
+								Count: 1
+								tag: { }
+							}
+							{
+								id: "ae2:fluid_storage_cell_16k"
+								Count: 1
+								tag: { }
+							}
+							{
+								id: "ae2:fluid_storage_cell_64k"
+								Count: 1
+								tag: { }
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 41.0d
+			y: -3.0d
+			dependencies: ["2E8893A3038F6EA6"]
+			id: "5CDFB4348A9123B2"
+			tasks: [{
+				id: "04FB9187765F30F0"
+				type: "item"
+				item: "ae2:wireless_access_point"
+			}]
+		}
+		{
+			x: 40.5d
+			y: -4.0d
+			dependencies: ["5CDFB4348A9123B2"]
+			id: "6FF2301029B0FBDA"
+			tasks: [{
+				id: "2A616C5927EDB8E0"
+				type: "item"
+				item: "ae2:wireless_terminal"
+			}]
+		}
+		{
+			x: 41.5d
+			y: -4.0d
+			dependencies: ["5CDFB4348A9123B2"]
+			id: "5290F8E59EE763E2"
+			tasks: [{
+				id: "73C61CF229025466"
+				type: "item"
+				item: "ae2:wireless_crafting_terminal"
+			}]
+		}
+		{
+			x: 41.0d
+			y: -5.0d
+			dependencies: [
+				"5290F8E59EE763E2"
+				"6FF2301029B0FBDA"
+			]
+			dependency_requirement: "one_completed"
+			id: "238332B2ACE4FEA5"
+			tasks: [{
+				id: "5630370569D4C9F7"
+				type: "item"
+				item: "ae2:wireless_booster"
+			}]
+		}
+		{
+			x: 38.5d
+			y: 1.0d
+			shape: "gear"
+			dependencies: ["3BE4BF5D7EC90BC9"]
+			id: "665D9EF37D9E06B2"
+			tasks: [{
+				id: "211787C485C3D28C"
+				type: "item"
+				item: "thermal:machine_frame"
+			}]
+		}
+		{
+			x: 39.0d
+			y: 3.0d
+			dependencies: ["665D9EF37D9E06B2"]
+			id: "56FC23B98C460FCC"
+			tasks: [{
+				id: "4E1F0E4EFFE725A5"
+				type: "item"
+				item: "thermal:machine_crucible"
+			}]
+		}
+		{
+			x: 40.5d
+			y: 4.5d
+			dependencies: ["56FC23B98C460FCC"]
+			id: "2B7AC32E3F6D20D2"
+			tasks: [{
+				id: "224268DBD1910F9B"
+				type: "item"
+				item: "thermal:machine_bottler"
+			}]
+		}
+		{
+			x: 39.5d
+			y: 5.5d
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "15FBBAAF0B428AF1"
+			tasks: [{
+				id: "153A5EAB68285265"
+				type: "item"
+				item: "thermal:rf_coil"
+			}]
+		}
+		{
+			x: 40.0d
+			y: 7.0d
+			dependencies: ["15FBBAAF0B428AF1"]
+			id: "5399919BFAC7C979"
+			tasks: [{
+				id: "51C60F796C6B4648"
+				type: "item"
+				item: "thermal:machine_smelter"
+			}]
+		}
+		{
+			x: 44.5d
+			y: 5.5d
+			dependencies: [
+				"0ED2881C63A829C5"
+				"7B82DEDE925983CC"
+			]
+			id: "620C7FFD14179EB2"
+			tasks: [{
+				id: "4C8EFEF4B0089FD8"
+				type: "item"
+				item: "rftoolsbase:machine_frame"
+			}]
+		}
+		{
+			x: 43.5d
+			y: 3.5d
+			dependencies: ["56FC23B98C460FCC"]
+			id: "7B82DEDE925983CC"
+			tasks: [{
+				id: "74B1581CDC403D07"
+				type: "item"
+				item: "rftoolsbase:machine_base"
+			}]
+		}
+		{
+			x: 44.5d
+			y: 7.0d
+			dependencies: ["620C7FFD14179EB2"]
+			id: "21522A4CA2ED755F"
+			tasks: [{
+				id: "2B588DD66E3CA4CA"
+				type: "item"
+				item: "modularrouters:modular_router"
+			}]
+		}
+		{
+			x: 41.5d
+			y: 8.0d
+			dependencies: ["0ED2881C63A829C5"]
+			id: "015716B5CC573B84"
+			tasks: [{
+				id: "7A903223CC427FFB"
+				type: "item"
+				item: "extendedcrafting:ender_star"
+			}]
+		}
+		{
+			x: 40.5d
+			y: 9.5d
+			dependencies: ["015716B5CC573B84"]
+			id: "772FA43BF0740604"
+			tasks: [{
+				id: "1BD9F92617D694F4"
+				type: "item"
+				item: "alchemistry:dissolver"
+			}]
+		}
+		{
+			x: 40.0d
+			y: 11.5d
+			dependencies: ["772FA43BF0740604"]
+			id: "68B1F7248978E910"
+			tasks: [{
+				id: "0201468A28998079"
+				type: "item"
+				item: "alchemistry:combiner"
+			}]
+		}
+		{
+			x: 42.5d
+			y: 9.5d
+			dependencies: ["772FA43BF0740604"]
+			id: "6BF9AFE8CAA0BFD8"
+			tasks: [{
+				id: "1D533B55B0C71AAC"
+				type: "item"
+				item: "alchemistry:compactor"
+			}]
+		}
+		{
+			x: 28.5d
+			y: 6.5d
+			dependencies: ["521997B4F12381CE"]
+			id: "3784D8EC8FC01F80"
+			tasks: [{
+				id: "55EDF62BEDB8F8D3"
+				type: "item"
+				item: "chroma:enriched_compressed_steel"
+			}]
+		}
+		{
+			x: 30.0d
+			y: -1.0d
+			dependencies: ["0903C94D45C5B4AD"]
+			id: "2CA6403808379744"
+			tasks: [{
+				id: "60190A71CB34FF8D"
+				type: "item"
+				item: "chroma:enriched_refined_glowstone"
+			}]
+		}
+		{
+			x: 42.0d
+			y: 5.5d
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "0ED2881C63A829C5"
+			tasks: [{
+				id: "3F5CF1F12F96EDED"
+				type: "item"
+				item: "thermal:redstone_servo"
+			}]
+		}
+		{
+			x: 47.0d
+			y: 9.5d
+			dependencies: ["76DEE631B5558315"]
+			id: "0FEBA709561B242B"
+			tasks: [{
+				id: "1F6A57520B72283A"
+				type: "item"
+				item: "mekanism:elite_tier_installer"
+			}]
+		}
+		{
+			x: 43.5d
+			y: 11.0d
+			dependencies: [
+				"4B1D727D380E855A"
+				"6BF9AFE8CAA0BFD8"
+			]
+			id: "16EDC64C8B0F5425"
+			tasks: [{
+				id: "5C1A2522026557F9"
+				type: "item"
+				item: "chemlib:scandium_dust"
+			}]
+		}
+		{
+			x: 45.0d
+			y: 10.0d
+			dependencies: ["16EDC64C8B0F5425"]
+			id: "76DEE631B5558315"
+			tasks: [{
+				id: "436144CB134C615C"
+				type: "item"
+				item: "chemlib:scandium_ingot"
+			}]
+		}
+		{
+			x: 42.0d
+			y: 11.5d
+			dependencies: ["772FA43BF0740604"]
+			id: "4B1D727D380E855A"
+			tasks: [{
+				id: "418A80F79F3ABFBF"
+				type: "item"
+				item: "chemlib:scandium"
+			}]
+		}
+		{
+			x: 22.5d
+			y: 10.0d
+			dependencies: [
+				"0D61AA8908E8DF1A"
+				"75BC4CCC5F690CB9"
+			]
+			id: "6FB066F463348BFD"
+			tasks: [{
+				id: "4DCE7618FFB514A9"
+				type: "item"
+				item: "pneumaticcraft:reinforced_pressure_tube"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

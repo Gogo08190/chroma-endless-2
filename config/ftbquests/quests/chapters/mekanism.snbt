@@ -1,0 +1,93 @@
+{
+	id: "0FE6183144FEC732"
+	group: "6E1FC0F5596E1533"
+	order_index: 4
+	filename: "mekanism"
+	title: "Mekanism"
+	icon: "mekaevolution:infinite_control_circuit"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -4.5d
+			y: -4.0d
+			id: "1C2EBFE0D23FC0F7"
+			tasks: [{
+				id: "25DA47438267846A"
+				type: "item"
+				item: "mekaevolution:absolute_energy_cube"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -4.0d
+			id: "1DA1F0B881631D75"
+			tasks: [{
+				id: "4603383DE10E1E83"
+				type: "item"
+				item: "mekaevolution:supreme_energy_cube"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -4.0d
+			id: "1B9FFED1CD533308"
+			tasks: [{
+				id: "0FE387D6BD1E35B1"
+				type: "item"
+				item: "mekaevolution:cosmic_energy_cube"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -4.0d
+			id: "2A043A0E8241DC6F"
+			tasks: [{
+				id: "33B0E89FDA7B9915"
+				type: "item"
+				item: "mekaevolution:infinite_energy_cube"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -3.0d
+			id: "12CF78D972E28E1C"
+			tasks: [{
+				id: "095F2CA564362BCE"
+				type: "item"
+				item: "mekanism:basic_energy_cube"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -3.0d
+			id: "355C4D07BFC6DDDE"
+			tasks: [{
+				id: "4636874631E6ADB3"
+				type: "item"
+				item: "mekanism:advanced_energy_cube"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.0d
+			id: "46450F41E16EE42E"
+			tasks: [{
+				id: "6A8121D83678A47F"
+				type: "item"
+				item: "mekanism:elite_energy_cube"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -3.0d
+			id: "33417C1F35CA0FB5"
+			tasks: [{
+				id: "3FE512334FD57F44"
+				type: "item"
+				item: "mekanism:ultimate_energy_cube"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

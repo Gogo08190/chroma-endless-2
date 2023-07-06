@@ -1188,14 +1188,59 @@
 			}]
 		}
 		{
-			x: 22.0d
-			y: 16.5d
+			x: 22.5d
+			y: 17.5d
 			dependencies: ["07880249468AFCF2"]
 			id: "6A6CD169877E3DD4"
 			tasks: [{
 				id: "157F51065B323051"
 				type: "item"
 				item: "mekanism:advanced_control_circuit"
+			}]
+		}
+		{
+			x: 36.0d
+			y: 6.5d
+			shape: "gear"
+			dependencies: ["2E8FE3D9F5CE8C97"]
+			id: "297AC75422C840AB"
+			tasks: [{
+				id: "6ABED9561A459055"
+				type: "item"
+				item: "botania:alchemy_catalyst"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 16.0d
+			dependencies: ["07880249468AFCF2"]
+			id: "79740F89CBF63E23"
+			tasks: [{
+				id: "5E2AF044887D0630"
+				type: "item"
+				item: "mekanism:basic_tier_installer"
+			}]
+		}
+		{
+			x: 16.0d
+			y: 25.0d
+			dependencies: ["4230CFAE65B1F5BF"]
+			id: "25C4A26F2020ABC7"
+			tasks: [{
+				id: "509271881958B6CA"
+				type: "item"
+				item: "mekanism:advanced_tier_installer"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 26.0d
+			dependencies: ["55B4AA98A711328F"]
+			id: "4230CFAE65B1F5BF"
+			tasks: [{
+				id: "5838ED9C144F89CC"
+				type: "item"
+				item: "blue_skies:ventium_ingot"
 			}]
 		}
 	]

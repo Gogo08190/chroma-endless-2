@@ -2255,6 +2255,791 @@
 				item: "sushigocrafting:roller"
 			}]
 		}
+		{
+			x: 18.5d
+			y: -22.5d
+			id: "53ACB660545B519C"
+			tasks: [{
+				id: "40D2ECE6F9CF17DE"
+				type: "item"
+				item: "supplementaries:pancake"
+			}]
+		}
+		{
+			x: 19.5d
+			y: -22.5d
+			id: "7E67F5450361D10B"
+			tasks: [{
+				id: "45DE043E8298D20C"
+				type: "item"
+				item: "supplementaries:candy"
+			}]
+		}
+		{
+			x: 21.5d
+			y: -22.5d
+			id: "320CF8668FD1047B"
+			tasks: [{
+				id: "583BDCBDAD56822F"
+				type: "item"
+				item: {
+					id: "some_assembly_required:sandwich"
+					Count: 1
+					tag: {
+						BlockEntityTag: {
+							Sandwich: [
+								{
+									Count: 1
+									id: "some_assembly_required:bread_slice"
+								}
+								{
+									Count: 1
+									id: "minecraft:cooked_beef"
+								}
+								{
+									Count: 1
+									id: "some_assembly_required:tomato_slices"
+								}
+								{
+									Count: 1
+									id: "some_assembly_required:bread_slice"
+								}
+							]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 22.5d
+			y: -22.5d
+			id: "03B6027065AACF16"
+			tasks: [{
+				id: "0DD56F78E914B68B"
+				type: "item"
+				item: "some_assembly_required:tomato_slices"
+			}]
+		}
+		{
+			x: 23.5d
+			y: -22.5d
+			id: "4368AEE249FA066F"
+			tasks: [{
+				id: "18A3AFF1F4BEB7DC"
+				type: "item"
+				item: "some_assembly_required:chopped_beetroot"
+			}]
+		}
+		{
+			x: 24.5d
+			y: -22.5d
+			id: "1DDB57E4CB1389DE"
+			tasks: [{
+				id: "60FDB1D1B49E5770"
+				type: "item"
+				item: "some_assembly_required:chopped_golden_carrot"
+			}]
+		}
+		{
+			x: 25.5d
+			y: -22.5d
+			id: "5FF173E60A508CA4"
+			tasks: [{
+				id: "424797BA7C6F7BCD"
+				type: "item"
+				item: "some_assembly_required:chopped_carrot"
+			}]
+		}
+		{
+			x: 26.5d
+			y: -22.5d
+			id: "03CC6EA2083F1420"
+			tasks: [{
+				id: "2AC42B1F0155662F"
+				type: "item"
+				item: "some_assembly_required:enchanted_golden_apple_slices"
+			}]
+		}
+		{
+			x: 27.5d
+			y: -22.5d
+			id: "7A50965D0260C4D8"
+			tasks: [{
+				id: "4A9FBE49A6B8F764"
+				type: "item"
+				item: "some_assembly_required:golden_apple_slices"
+			}]
+		}
+		{
+			x: 28.5d
+			y: -22.5d
+			id: "782BDB21A3168343"
+			tasks: [{
+				id: "624494738701B02F"
+				type: "item"
+				item: "some_assembly_required:apple_slices"
+			}]
+		}
+		{
+			x: 29.5d
+			y: -22.5d
+			id: "10B1247A2A1654AD"
+			tasks: [{
+				id: "1E27E6E1C5DA9FEE"
+				type: "item"
+				item: "some_assembly_required:toasted_bread_slice"
+			}]
+		}
+		{
+			x: 21.5d
+			y: -21.5d
+			id: "45F3CC5FF8866B61"
+			tasks: [{
+				id: "56F875CE33BEEFE0"
+				type: "item"
+				item: "some_assembly_required:bread_slice"
+			}]
+		}
+		{
+			x: 22.5d
+			y: -21.5d
+			id: "2AFD15B794AE50A4"
+			tasks: [{
+				id: "47C07191978EAF92"
+				type: "item"
+				item: "some_assembly_required:sandwiching_station"
+			}]
+		}
+		{
+			x: 31.5d
+			y: -22.5d
+			id: "78A0359E1B9061BD"
+			tasks: [{
+				id: "3B9437BB7E7364D3"
+				type: "item"
+				item: "pneumaticcraft:salmon_tempura"
+			}]
+		}
+		{
+			x: 32.5d
+			y: -22.5d
+			id: "5231EAE1014A496B"
+			tasks: [{
+				id: "5962330704B854FB"
+				type: "item"
+				item: "pneumaticcraft:cod_n_chips"
+			}]
+		}
+		{
+			x: 33.5d
+			y: -22.5d
+			id: "527F950CB1881DDC"
+			tasks: [{
+				id: "473B51C0E523018B"
+				type: "item"
+				item: "pneumaticcraft:chips"
+			}]
+		}
+		{
+			x: 34.5d
+			y: -22.5d
+			id: "307387A4145F6C3F"
+			tasks: [{
+				id: "351AA4A48ECC94F0"
+				type: "item"
+				item: "pneumaticcraft:sourdough_bread"
+			}]
+		}
+		{
+			x: 35.5d
+			y: -22.5d
+			id: "67BDC62357408C36"
+			tasks: [{
+				id: "30E0B1926A6E1129"
+				type: "item"
+				item: "pneumaticcraft:raw_salmon_tempura"
+			}]
+		}
+		{
+			x: 36.5d
+			y: -22.5d
+			id: "0B8EC9E25A217A78"
+			tasks: [{
+				id: "731593FE396138A7"
+				type: "item"
+				item: "pneumaticcraft:sourdough"
+			}]
+		}
+		{
+			x: 38.5d
+			y: -22.5d
+			id: "277C053B151A14E3"
+			tasks: [{
+				id: "7A0749E85ED57CF2"
+				type: "item"
+				item: "pizzacraft:cheese"
+			}]
+		}
+		{
+			x: 39.5d
+			y: -22.5d
+			id: "6563116B9C0BC4F5"
+			tasks: [{
+				id: "5734C5CBB0DE13A9"
+				type: "item"
+				item: "pizzacraft:flour"
+			}]
+		}
+		{
+			x: 40.5d
+			y: -22.5d
+			id: "2C4BC2EFAB118171"
+			tasks: [{
+				id: "47FE097509912502"
+				type: "item"
+				item: "pizzacraft:cooked_wing"
+			}]
+		}
+		{
+			x: 41.5d
+			y: -22.5d
+			id: "59A356DBF16CA4FB"
+			tasks: [{
+				id: "09D1FC4F44B410DB"
+				type: "item"
+				item: "pizzacraft:wing"
+			}]
+		}
+		{
+			x: 42.5d
+			y: -22.5d
+			id: "5C71187F62291041"
+			tasks: [{
+				id: "6A247D0DACBDC567"
+				type: "item"
+				item: "pizzacraft:ham"
+			}]
+		}
+		{
+			x: 43.5d
+			y: -22.5d
+			id: "26FF6B27227BB97F"
+			tasks: [{
+				id: "6DCECA570836D68F"
+				type: "item"
+				item: "pizzacraft:tomato_slice"
+			}]
+		}
+		{
+			x: 44.5d
+			y: -22.5d
+			id: "1C76166EE79B8E75"
+			tasks: [{
+				id: "12A7D45E7DC04D36"
+				type: "item"
+				item: "pizzacraft:pineapple_slice"
+			}]
+		}
+		{
+			x: 45.5d
+			y: -22.5d
+			id: "70C2F79920C751FD"
+			tasks: [{
+				id: "55ACAE70B3C1506D"
+				type: "item"
+				item: "pizzacraft:pepper_slice"
+			}]
+		}
+		{
+			x: 46.5d
+			y: -22.5d
+			id: "6D2EDD0972D442C5"
+			tasks: [{
+				id: "1E95AB4E22D839C3"
+				type: "item"
+				item: "pizzacraft:onion_slice"
+			}]
+		}
+		{
+			x: 38.5d
+			y: -21.5d
+			id: "40570C906E97BEA4"
+			tasks: [{
+				id: "7F97BA99002AA6BB"
+				type: "item"
+				item: "pizzacraft:tomato_sauce"
+			}]
+		}
+		{
+			x: 39.5d
+			y: -21.5d
+			id: "1768270F3BA35F57"
+			tasks: [{
+				id: "05121C77D2A7EC16"
+				type: "item"
+				item: "pizzacraft:olive_oil"
+			}]
+		}
+		{
+			x: 40.5d
+			y: -21.5d
+			id: "35330CE4A2C72F4C"
+			tasks: [{
+				id: "5AF610D90F86C5C4"
+				type: "item"
+				item: "pizzacraft:dough"
+			}]
+		}
+		{
+			x: 41.5d
+			y: -21.5d
+			id: "4FCF92732DE2D4E2"
+			tasks: [{
+				id: "0AD814D50DDF2F8E"
+				type: "item"
+				item: "pizzacraft:cucumber_slice"
+			}]
+		}
+		{
+			x: 42.5d
+			y: -21.5d
+			id: "101F81849177E53C"
+			tasks: [{
+				id: "52858F43A46FA148"
+				type: "item"
+				item: "pizzacraft:olive"
+			}]
+		}
+		{
+			x: 43.5d
+			y: -21.5d
+			id: "75BFBCB1C842ACEB"
+			tasks: [{
+				id: "7ACBBF2CAA290AFB"
+				type: "item"
+				item: "pizzacraft:pineapple"
+			}]
+		}
+		{
+			x: 44.5d
+			y: -21.5d
+			id: "5E8683D125295B75"
+			tasks: [{
+				id: "16A1DD72EE07E7B5"
+				type: "item"
+				item: "pizzacraft:tomato"
+			}]
+		}
+		{
+			x: 45.5d
+			y: -21.5d
+			id: "44908B7322F87902"
+			tasks: [{
+				id: "0F552B87CBFD2496"
+				type: "item"
+				item: "pizzacraft:pepper"
+			}]
+		}
+		{
+			x: 46.5d
+			y: -21.5d
+			id: "5E0E66FE7F53FCB2"
+			tasks: [{
+				id: "4F4946101240A8A3"
+				type: "item"
+				item: "pizzacraft:onion"
+			}]
+		}
+		{
+			x: 38.5d
+			y: -20.5d
+			id: "35AF2FFB76E89464"
+			tasks: [{
+				id: "1867823D3F5BFA27"
+				type: "item"
+				item: "pizzacraft:cucumber"
+			}]
+		}
+		{
+			x: 39.5d
+			y: -20.5d
+			id: "42A60FA23E3AFFEA"
+			tasks: [{
+				id: "53E65A972836A785"
+				type: "item"
+				item: "pizzacraft:corn"
+			}]
+		}
+		{
+			x: 40.5d
+			y: -20.5d
+			id: "493124642CEA3365"
+			tasks: [{
+				id: "6034AD1CF4CE11D2"
+				type: "item"
+				item: "pizzacraft:broccoli"
+			}]
+		}
+		{
+			x: 41.5d
+			y: -20.5d
+			id: "420BD23E8FA97A1F"
+			tasks: [{
+				id: "09522DD5E7E5F95D"
+				type: "item"
+				item: "pizzacraft:granite_basin"
+			}]
+		}
+		{
+			x: 42.5d
+			y: -20.5d
+			id: "4CBC052F9D1E5402"
+			tasks: [{
+				id: "4AA2F3463FEA5C5E"
+				type: "item"
+				item: "pizzacraft:oak_chopping_board"
+			}]
+		}
+		{
+			x: 43.5d
+			y: -20.5d
+			id: "19849C17C40DDD09"
+			tasks: [{
+				id: "4807E5EDD9DC3267"
+				type: "item"
+				item: "pizzacraft:oven"
+			}]
+		}
+		{
+			x: 44.5d
+			y: -20.5d
+			id: "69DEE24AA78A087C"
+			tasks: [{
+				id: "01949BDBA5C98300"
+				type: "item"
+				item: "pizzacraft:mortar_and_pestle"
+			}]
+		}
+		{
+			x: 48.5d
+			y: -22.5d
+			id: "30E1134C32BB79CE"
+			tasks: [{
+				id: "680C76364B45BFD6"
+				type: "item"
+				item: "nethersdelight:magma_gelatin"
+			}]
+		}
+		{
+			x: 49.5d
+			y: -22.5d
+			id: "46D024E3B1F53219"
+			tasks: [{
+				id: "636C97C45D5484B4"
+				type: "item"
+				item: "nethersdelight:nether_skewer"
+			}]
+		}
+		{
+			x: 50.5d
+			y: -22.5d
+			id: "66C7A9C4CC85D33D"
+			tasks: [{
+				id: "5DFFB1A55A8E831E"
+				type: "item"
+				item: "nethersdelight:propelpearl"
+			}]
+		}
+		{
+			x: 51.5d
+			y: -22.5d
+			id: "3C78BB4E2FBB9DBC"
+			tasks: [{
+				id: "3B69E16C89EBD51C"
+				type: "item"
+				item: "nethersdelight:plate_of_stuffed_hoglin_roast"
+			}]
+		}
+		{
+			x: 52.5d
+			y: -22.5d
+			id: "585E781AF21D8F4F"
+			tasks: [{
+				id: "2377A0ECE883E9F7"
+				type: "item"
+				item: "nethersdelight:plate_of_stuffed_hoglin_ham"
+			}]
+		}
+		{
+			x: 53.5d
+			y: -22.5d
+			id: "4C5D5CCD83682F94"
+			tasks: [{
+				id: "187098D1BA441AAA"
+				type: "item"
+				item: "nethersdelight:plate_of_stuffed_hoglin_snout"
+			}]
+		}
+		{
+			x: 54.5d
+			y: -22.5d
+			id: "03835473EC6CD8B1"
+			tasks: [{
+				id: "481556AD1149697F"
+				type: "item"
+				item: "nethersdelight:strider_moss_stew"
+			}]
+		}
+		{
+			x: 55.5d
+			y: -22.5d
+			id: "771B81D83B9ADFDB"
+			tasks: [{
+				id: "5B6573F4EB7EBD9D"
+				type: "item"
+				item: "nethersdelight:grilled_strider"
+			}]
+		}
+		{
+			x: 56.5d
+			y: -22.5d
+			id: "5F2A9B93FAFD8787"
+			tasks: [{
+				id: "2DA24C1E0812A7B8"
+				type: "item"
+				item: "nethersdelight:warped_moldy_meat"
+			}]
+		}
+		{
+			x: 48.5d
+			y: -21.5d
+			id: "5CD05665DEB05E1F"
+			tasks: [{
+				id: "666717EB6C54879F"
+				type: "item"
+				item: "nethersdelight:hoglin_ear"
+			}]
+		}
+		{
+			x: 49.5d
+			y: -21.5d
+			id: "6ACDF4AD120D8568"
+			tasks: [{
+				id: "717374A3BB2FB490"
+				type: "item"
+				item: "nethersdelight:ground_strider"
+			}]
+		}
+		{
+			x: 50.5d
+			y: -21.5d
+			id: "48517492221C52CC"
+			tasks: [{
+				id: "0A83B14DF1487653"
+				type: "item"
+				item: "nethersdelight:strider_slice"
+			}]
+		}
+		{
+			x: 51.5d
+			y: -21.5d
+			id: "60FE91E21A43EFF5"
+			tasks: [{
+				id: "15EB59FBB9A04D20"
+				type: "item"
+				item: "nethersdelight:hoglin_sirloin"
+			}]
+		}
+		{
+			x: 52.5d
+			y: -21.5d
+			id: "6A00F91E8D156FDD"
+			tasks: [{
+				id: "521034032D9FDE08"
+				type: "item"
+				item: "nethersdelight:hoglin_loin"
+			}]
+		}
+		{
+			x: 53.5d
+			y: -21.5d
+			id: "48907AC296077B35"
+			tasks: [{
+				id: "73DC0BBEC0F3D52A"
+				type: "item"
+				item: "nethersdelight:raw_stuffed_hoglin"
+			}]
+		}
+		{
+			x: 54.5d
+			y: -21.5d
+			id: "5A45CE638B6161C6"
+			tasks: [{
+				id: "2B726B3823F98458"
+				type: "item"
+				item: "nethersdelight:hoglin_hide"
+			}]
+		}
+		{
+			x: 55.5d
+			y: -21.5d
+			id: "5FA160F3D2FEBF49"
+			tasks: [{
+				id: "49677EE4B29F00A0"
+				type: "item"
+				item: "nethersdelight:hoglin_mount"
+			}]
+		}
+		{
+			x: 56.5d
+			y: -21.5d
+			id: "0BECE0C89776F732"
+			tasks: [{
+				id: "3ED2093AFCC4DCCB"
+				type: "item"
+				item: "nethersdelight:stuffed_hoglin"
+			}]
+		}
+		{
+			x: 58.5d
+			y: -22.5d
+			id: "76839CBF55466C00"
+			tasks: [{
+				id: "4DBC5D3E67CD2D1F"
+				type: "item"
+				item: "naturalist:cooked_venison"
+			}]
+		}
+		{
+			x: 59.5d
+			y: -22.5d
+			id: "49FC5677DEC0AF3D"
+			tasks: [{
+				id: "126C8047C97C865F"
+				type: "item"
+				item: "naturalist:venison"
+			}]
+		}
+		{
+			x: 61.5d
+			y: -22.5d
+			id: "450DBDA47EA6E4C7"
+			tasks: [{
+				id: "0132BB078A8C9493"
+				type: "item"
+				item: "mysticalagradditions:insanium_apple"
+			}]
+		}
+		{
+			x: 62.5d
+			y: -22.5d
+			id: "5F0F83E0876ED3F8"
+			tasks: [{
+				id: "39750D3DBA63808A"
+				type: "item"
+				item: "mysticalagradditions:supremium_apple"
+			}]
+		}
+		{
+			x: 63.5d
+			y: -22.5d
+			id: "508CAA0C2123636D"
+			tasks: [{
+				id: "5C1F87E1DAD4C6FF"
+				type: "item"
+				item: "mysticalagradditions:imperium_apple"
+			}]
+		}
+		{
+			x: 64.5d
+			y: -22.5d
+			id: "64730FCA7C7D9B19"
+			tasks: [{
+				id: "03D12C20303B3C4B"
+				type: "item"
+				item: "mysticalagradditions:tertium_apple"
+			}]
+		}
+		{
+			x: 65.5d
+			y: -22.5d
+			id: "0508B8ECE94C0C36"
+			tasks: [{
+				id: "426A03EA4DE51686"
+				type: "item"
+				item: "mysticalagradditions:prudentium_apple"
+			}]
+		}
+		{
+			x: 66.5d
+			y: -22.5d
+			id: "55E869EFF15AD182"
+			tasks: [{
+				id: "21EB863ECACF3E29"
+				type: "item"
+				item: "mysticalagradditions:inferium_apple"
+			}]
+		}
+		{
+			x: 68.5d
+			y: -22.5d
+			id: "52257BC51425894B"
+			tasks: [{
+				id: "51C229203BF1C024"
+				type: "item"
+				item: "forbidden_arcanus:strange_root"
+			}]
+		}
+		{
+			x: 69.5d
+			y: -22.5d
+			id: "74632B48095083B7"
+			tasks: [{
+				id: "2E10EA1DE07CD5D8"
+				type: "item"
+				item: "forbidden_arcanus:cooked_tentacle"
+			}]
+		}
+		{
+			x: 70.5d
+			y: -22.5d
+			id: "39CF4FADBF2FBBBE"
+			tasks: [{
+				id: "50C5562423424687"
+				type: "item"
+				item: "forbidden_arcanus:tentacle"
+			}]
+		}
+		{
+			x: 71.5d
+			y: -22.5d
+			id: "4BFC0EBF3F263A66"
+			tasks: [{
+				id: "0504C256D632F2F5"
+				type: "item"
+				item: "forbidden_arcanus:bat_soup"
+			}]
+		}
+		{
+			x: 72.5d
+			y: -22.5d
+			id: "7E4B0558DCAB1B42"
+			tasks: [{
+				id: "6B73EAC1E121049C"
+				type: "item"
+				item: "forbidden_arcanus:bat_wing"
+			}]
+		}
+		{
+			x: 73.5d
+			y: -22.5d
+			id: "5B7E2C6A72A4CC1C"
+			tasks: [{
+				id: "4C2A02DDEAEA4975"
+				type: "item"
+				item: "forbidden_arcanus:cherry_peach"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

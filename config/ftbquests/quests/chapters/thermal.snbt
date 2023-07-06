@@ -1,0 +1,12 @@
+{
+	id: "29D5CE6B1873EE23"
+	group: "6E1FC0F5596E1533"
+	order_index: 5
+	filename: "thermal"
+	title: "Thermal"
+	icon: "thermal:redstone_servo"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}
