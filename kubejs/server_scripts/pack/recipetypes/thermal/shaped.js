@@ -199,7 +199,7 @@ onEvent('recipes', (event) => {
             pattern: ['ITI', 'GFG', 'CRC'],
             key: {
                 I: '#forge:plates/iron',
-                T: 'immersiveengineering:workbench',
+                T: 'tconstruct:tinkers_anvil',
                 G: '#forge:glass',
                 F: 'chroma:wooden_frame',
                 C: 'immersiveengineering:craftingtable',
