@@ -256,7 +256,7 @@ onEvent("recipes", (event) => {
           "item": "mekanism:alloy_reinforced"
         },
         "C": {
-          "item": "pneumaticcraft:etching_acid_bucket"
+          "item": "pneumaticcraft:plastic_bucket"
         },
         "D": {
           "item": "extendedcrafting:ender_star"
