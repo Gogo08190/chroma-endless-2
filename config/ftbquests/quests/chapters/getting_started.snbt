@@ -20,7 +20,15 @@
 			tasks: [{
 				id: "7A205C3F68069BC8"
 				type: "item"
-				item: "minecraft:oak_log"
+				title: "{chapter.stage.1.quest.1.title.1}"
+				icon: "minecraft:oak_log"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
 			}]
 		}
 		{
@@ -33,7 +41,15 @@
 			tasks: [{
 				id: "5C4FB0C2BAD9CADF"
 				type: "item"
-				item: "minecraft:oak_planks"
+				title: "{chapter.stage.1.quest.2.title.1}"
+				icon: "minecraft:oak_planks"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "minecraft:planks"
+					}
+				}
 			}]
 		}
 		{
@@ -78,7 +94,7 @@
 			tasks: [{
 				id: "6FBA23FA8147790F"
 				type: "item"
-				title: "Andesite with Iron/Zinc"
+				title: "{chapter.stage.1.quest.5.title.1}"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1
@@ -215,6 +231,7 @@
 				"{chapter.stage.1.quest.18.description.4}"
 			]
 			dependencies: ["203C89167FF85B08"]
+			min_width: 300
 			id: "76C999EEE9270FFE"
 			tasks: [
 				{
@@ -239,7 +256,7 @@
 			tasks: [{
 				id: "320F3FE4D0779367"
 				type: "dimension"
-				title: "Visit dimension : &cThe Nether"
+				title: "{chapter.stage.1.quest.19.title.1}"
 				icon: {
 					id: "ftbquests:custom_icon"
 					Count: 1
@@ -290,7 +307,7 @@
 			tasks: [{
 				id: "3FB77233FE3EF013"
 				type: "item"
-				title: "Sand Paper"
+				title: "{chapter.stage.1.quest.13.title.1}"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1
@@ -573,7 +590,7 @@
 			}]
 		}
 		{
-			title: "Melter"
+			title: "{chapter.stage.1.quest.36.title.1}"
 			x: -5.5d
 			y: 12.0d
 			subtitle: "{chapter.stage.1.quest.36.subtitle.1}"
@@ -608,7 +625,7 @@
 			]
 		}
 		{
-			title: "Smeltery"
+			title: "{chapter.stage.1.quest.37.title.1}"
 			x: -7.0d
 			y: 12.0d
 			subtitle: "{chapter.stage.1.quest.37.subtitle.1}"
@@ -751,6 +768,7 @@
 				"441CE6D625161842"
 			]
 			dependency_requirement: "one_completed"
+			min_width: 300
 			id: "4953C0780CE9CAAC"
 			tasks: [
 				{
@@ -779,7 +797,7 @@
 			}]
 		}
 		{
-			title: "Basic Sieving Factory - Part 1"
+			title: "{chapter.stage.1.quest.43.title.1}"
 			x: 1.5d
 			y: 20.0d
 			shape: "rsquare"
@@ -823,7 +841,7 @@
 			]
 		}
 		{
-			title: "Basic Sieving Factory - Part 2"
+			title: "{chapter.stage.1.quest.44.title.1}"
 			x: 2.5d
 			y: 20.0d
 			shape: "rsquare"
@@ -904,6 +922,11 @@
 			y: 21.5d
 			shape: "gear"
 			subtitle: "{chapter.stage.1.quest.45.subtitle.1}"
+			description: [
+				"{chapter.stage.1.quest.45.description.1}"
+				""
+				"{chapter.stage.1.quest.45.description.2}"
+			]
 			dependencies: [
 				"1588AA8B72995FCF"
 				"45F0BA653454872B"
@@ -912,7 +935,7 @@
 			tasks: [{
 				id: "4CCFBAB7556B8B44"
 				type: "checkmark"
-				title: "Basic Sieving Factory"
+				title: "{chapter.stage.1.quest.45.title.1}"
 			}]
 		}
 		{

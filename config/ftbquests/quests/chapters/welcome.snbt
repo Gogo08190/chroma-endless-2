@@ -199,7 +199,20 @@
 			}
 			x: 0.0d
 			y: 2.5d
+			subtitle: "{chapter.welcome.quest.9.subtitle.1}"
+			description: [
+				"{chapter.welcome.quest.9.description.1}"
+				""
+				"{chapter.welcome.quest.9.description.2}"
+				""
+				"{chapter.welcome.quest.9.description.3}"
+				""
+				"{chapter.welcome.quest.9.description.4}"
+				""
+				"{chapter.welcome.quest.9.description.5}"
+			]
 			dependencies: ["51B5C098A8CFF70E"]
+			min_width: 300
 			id: "47477B53A919BFEE"
 			tasks: [{
 				id: "3210A8F7D430A1C7"

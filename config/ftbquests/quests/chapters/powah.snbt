@@ -5,40 +5,148 @@
 	filename: "powah"
 	title: "Powah"
 	icon: "powah:charged_snowball"
-	default_quest_shape: ""
+	default_quest_shape: "square"
 	default_hide_dependency_lines: false
 	images: [
 		{
+			x: 16.5d
+			y: 2.5d
+			width: 27.0d
+			height: 0.1d
+			rotation: 0.0d
+			image: "chroma:textures/block/dielectric_paste_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 16.5d
+			y: 11.0d
+			width: 27.0d
+			height: 0.1d
+			rotation: 0.0d
+			image: "chroma:textures/block/dielectric_paste_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
 			x: 5.0d
-			y: -0.5d
-			width: 5.0d
-			height: 5.0d
+			y: 7.0d
+			width: 0.1d
+			height: 10.0d
 			rotation: 0.0d
-			image: "ftbquests:textures/item/lootcrate/side_outline.png"
+			image: "chroma:textures/block/dielectric_paste_block.png"
 			hover: [ ]
 			click: ""
 			dev: false
 			corner: false
 		}
 		{
-			x: 6.0d
-			y: -4.5d
-			width: 2.0d
-			height: 2.0d
-			rotation: 10.0d
-			image: "powah:textures/item/book.png"
+			x: 5.0d
+			y: 11.0d
+			width: 0.5d
+			height: 0.5d
+			rotation: 45.0d
+			image: "powah:textures/block/uraninite_block.png"
 			hover: [ ]
 			click: ""
 			dev: false
 			corner: false
 		}
 		{
-			x: 9.5d
-			y: -2.0d
-			width: 6.0d
-			height: 3.0d
+			x: 5.0d
+			y: 2.5d
+			width: 0.5d
+			height: 0.5d
+			rotation: 45.0d
+			image: "powah:textures/block/uraninite_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 28.0d
+			y: 6.5d
+			width: 0.1d
+			height: 10.0d
 			rotation: 0.0d
-			image: "powah:textures/gui/book/images/reactor.png"
+			image: "chroma:textures/block/dielectric_paste_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 28.0d
+			y: 11.0d
+			width: 0.5d
+			height: 0.5d
+			rotation: 45.0d
+			image: "powah:textures/block/uraninite_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 28.0d
+			y: 2.5d
+			width: 0.5d
+			height: 0.5d
+			rotation: 45.0d
+			image: "powah:textures/block/uraninite_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 8.5d
+			y: 3.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/generation.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 14.0d
+			y: 3.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/storage.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 20.5d
+			y: 3.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/transfer.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 25.0d
+			y: 3.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/other.png"
 			hover: [ ]
 			click: ""
 			dev: false
@@ -47,8 +155,8 @@
 	]
 	quests: [
 		{
-			x: -7.0d
-			y: -5.0d
+			x: 14.0d
+			y: 4.0d
 			id: "4F34BF3C271BFB2D"
 			tasks: [{
 				id: "0BBCA9BA341508AA"
@@ -57,8 +165,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: -5.0d
+			x: 14.0d
+			y: 5.0d
 			id: "0530D79DF09F82AF"
 			tasks: [{
 				id: "5F7133AB374433D5"
@@ -67,8 +175,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: -5.0d
+			x: 14.0d
+			y: 6.0d
 			id: "1E7E353FF46C1567"
 			tasks: [{
 				id: "7D30080FDF4ED529"
@@ -77,8 +185,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: -5.0d
+			x: 14.0d
+			y: 7.0d
 			id: "608369708AAC8247"
 			tasks: [{
 				id: "314E779519EADC2C"
@@ -87,8 +195,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: -5.0d
+			x: 14.0d
+			y: 9.0d
 			id: "655B1F8BA02A91A8"
 			tasks: [{
 				id: "32E89238ADB80389"
@@ -97,8 +205,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -5.0d
+			x: 14.0d
+			y: 8.0d
 			id: "33E6ABA39BF06837"
 			tasks: [{
 				id: "5E83156A58A86B1A"
@@ -107,8 +215,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: -4.0d
+			x: 13.0d
+			y: 4.0d
 			id: "4A0230BA3EF2028C"
 			tasks: [{
 				id: "34F2BB57A472C497"
@@ -121,8 +229,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: -4.0d
+			x: 13.0d
+			y: 5.0d
 			id: "5CB5214A10E26D49"
 			tasks: [{
 				id: "764056864C74C157"
@@ -135,8 +243,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: -4.0d
+			x: 13.0d
+			y: 6.0d
 			id: "02970E2063914F2B"
 			tasks: [{
 				id: "0A9DC97683C955DE"
@@ -149,8 +257,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: -4.0d
+			x: 13.0d
+			y: 7.0d
 			id: "39A6FEEFC304E48D"
 			tasks: [{
 				id: "40F686A0D0AE3683"
@@ -163,8 +271,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -4.0d
+			x: 13.0d
+			y: 8.0d
 			id: "49C24E60717E3C34"
 			tasks: [{
 				id: "406EB7750BA9ACA3"
@@ -177,8 +285,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: -4.0d
+			x: 13.0d
+			y: 9.0d
 			id: "700CF952079D7050"
 			tasks: [{
 				id: "73D084389E2B3496"
@@ -191,8 +299,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: -3.0d
+			x: 15.0d
+			y: 4.0d
 			id: "540D56A0A4036A8A"
 			tasks: [{
 				id: "3F310B5AD367F56A"
@@ -201,8 +309,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: -3.0d
+			x: 15.0d
+			y: 5.0d
 			id: "09513F2EAD04185B"
 			tasks: [{
 				id: "160136A22A5D6941"
@@ -211,8 +319,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: -3.0d
+			x: 15.0d
+			y: 6.0d
 			id: "29112E0A7080B3DF"
 			tasks: [{
 				id: "4A86E8BD4A322C39"
@@ -221,8 +329,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: -3.0d
+			x: 15.0d
+			y: 7.0d
 			id: "66AF7CAEE794434D"
 			tasks: [{
 				id: "472AB91A3D93B603"
@@ -231,8 +339,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -3.0d
+			x: 15.0d
+			y: 8.0d
 			id: "3D267F640F6AF4E1"
 			tasks: [{
 				id: "589B7FA84490D032"
@@ -241,8 +349,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: -3.0d
+			x: 15.0d
+			y: 9.0d
 			id: "612060B21A4D5F76"
 			tasks: [{
 				id: "7D1FB86ABA60163C"
@@ -251,8 +359,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: -2.0d
+			x: 20.0d
+			y: 4.0d
 			id: "2BD63CFDBC95B910"
 			tasks: [{
 				id: "588103FBE6CFA835"
@@ -261,8 +369,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: -2.0d
+			x: 20.0d
+			y: 5.0d
 			id: "08AAD3A4EA840349"
 			tasks: [{
 				id: "3CEB5403328383B1"
@@ -271,8 +379,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: -2.0d
+			x: 20.0d
+			y: 6.0d
 			id: "364EDF8D48F3C605"
 			tasks: [{
 				id: "6066665B30E3088E"
@@ -281,8 +389,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: -2.0d
+			x: 20.0d
+			y: 7.0d
 			id: "235D18861335D9BF"
 			tasks: [{
 				id: "4A85775197C4B92B"
@@ -291,8 +399,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -2.0d
+			x: 20.0d
+			y: 8.0d
 			id: "6091F4BB929E97E2"
 			tasks: [{
 				id: "15ABFFF022BB88C6"
@@ -301,8 +409,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: -2.0d
+			x: 20.0d
+			y: 9.0d
 			id: "5C3CC9234240E1D7"
 			tasks: [{
 				id: "504C8D07971D3395"
@@ -311,8 +419,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: -1.0d
+			x: 21.0d
+			y: 4.0d
 			id: "4E91FFB5CF7C140F"
 			tasks: [{
 				id: "005960043E1EC5C4"
@@ -321,8 +429,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: -1.0d
+			x: 21.0d
+			y: 5.0d
 			id: "386361B7D1CB0F94"
 			tasks: [{
 				id: "2D2085CC20A85B9C"
@@ -331,8 +439,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: -1.0d
+			x: 21.0d
+			y: 6.0d
 			id: "34EB3228A53A6D5C"
 			tasks: [{
 				id: "3A8B7147B00F14EF"
@@ -341,8 +449,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: -1.0d
+			x: 21.0d
+			y: 7.0d
 			id: "534DC322F8583F95"
 			tasks: [{
 				id: "00B2C6012F44663B"
@@ -351,8 +459,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -1.0d
+			x: 21.0d
+			y: 8.0d
 			id: "3FA7D25979B4699E"
 			tasks: [{
 				id: "2B5631F11412EA3E"
@@ -361,8 +469,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: -1.0d
+			x: 21.0d
+			y: 9.0d
 			id: "72C656A06D87DF74"
 			tasks: [{
 				id: "4723D6FD0C6A755F"
@@ -371,8 +479,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 0.0d
+			x: 26.5d
+			y: 4.0d
 			id: "1F3DCEFCA141FE16"
 			tasks: [{
 				id: "625D050668F37922"
@@ -381,8 +489,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: 0.0d
+			x: 26.5d
+			y: 5.0d
 			id: "3B87AB6D219B41A5"
 			tasks: [{
 				id: "7871B9BEC95A7FB3"
@@ -391,8 +499,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: 0.0d
+			x: 26.5d
+			y: 6.0d
 			id: "21D66B97101F30C1"
 			tasks: [{
 				id: "6208407FEAD68CC4"
@@ -401,8 +509,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 0.0d
+			x: 26.5d
+			y: 7.0d
 			id: "01315276A5EB72BA"
 			tasks: [{
 				id: "7110E711773414D0"
@@ -411,8 +519,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 0.0d
+			x: 26.5d
+			y: 8.0d
 			id: "32765AAB67F70AD8"
 			tasks: [{
 				id: "2A84690E0FFC7E4A"
@@ -421,8 +529,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: 0.0d
+			x: 26.5d
+			y: 9.0d
 			id: "1DC91F70AA0804B8"
 			tasks: [{
 				id: "0E4720D5AAEBA5B1"
@@ -431,8 +539,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 1.0d
+			x: 9.5d
+			y: 4.0d
 			id: "46C0298A18689A8E"
 			tasks: [{
 				id: "2C9014891AEDFD29"
@@ -441,8 +549,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: 1.0d
+			x: 9.5d
+			y: 5.0d
 			id: "5BB0C2AC0AD1366A"
 			tasks: [{
 				id: "4A8E8AD87F6ED9FC"
@@ -451,8 +559,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: 1.0d
+			x: 9.5d
+			y: 6.0d
 			id: "1055104CB6573345"
 			tasks: [{
 				id: "2B6E5E4B93621B5A"
@@ -461,8 +569,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 1.0d
+			x: 9.5d
+			y: 7.0d
 			id: "2AEFAD269FEFA23F"
 			tasks: [{
 				id: "32DA5B0BC972DEBD"
@@ -471,8 +579,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 1.0d
+			x: 9.5d
+			y: 8.0d
 			id: "4A35124370950793"
 			tasks: [{
 				id: "08054D5546206D47"
@@ -481,8 +589,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: 1.0d
+			x: 9.5d
+			y: 9.0d
 			id: "189848FF62547D65"
 			tasks: [{
 				id: "4E03C946FD7F64A4"
@@ -491,8 +599,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 2.0d
+			x: 8.5d
+			y: 4.0d
 			id: "7273233ABACB4A44"
 			tasks: [{
 				id: "556CE4968E2AB7FA"
@@ -501,8 +609,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: 2.0d
+			x: 8.5d
+			y: 5.0d
 			id: "3F1C4A720EB6B709"
 			tasks: [{
 				id: "7B2A458790696EAB"
@@ -511,8 +619,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: 2.0d
+			x: 8.5d
+			y: 6.0d
 			id: "50F6CBF43B017F2C"
 			tasks: [{
 				id: "6B02C1439D71515E"
@@ -521,8 +629,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 2.0d
+			x: 8.5d
+			y: 7.0d
 			id: "7DFDE386E6E40B9F"
 			tasks: [{
 				id: "01BCB28AA2542CCD"
@@ -531,8 +639,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 2.0d
+			x: 8.5d
+			y: 8.0d
 			id: "4F714F0F7F5AA5F8"
 			tasks: [{
 				id: "4FE7EA6E6762E13D"
@@ -541,8 +649,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: 2.0d
+			x: 8.5d
+			y: 9.0d
 			id: "44D983B7C28339CF"
 			tasks: [{
 				id: "0203443F55615F13"
@@ -551,8 +659,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 3.0d
+			x: 7.5d
+			y: 4.0d
 			id: "3895C4A05D711C15"
 			tasks: [{
 				id: "4F68028C53CB66B5"
@@ -561,8 +669,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: 3.0d
+			x: 7.5d
+			y: 5.0d
 			id: "494604D15DAA0E49"
 			tasks: [{
 				id: "212756B3EE0B82D9"
@@ -571,8 +679,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: 3.0d
+			x: 7.5d
+			y: 6.0d
 			id: "1715986078AD9039"
 			tasks: [{
 				id: "35974F3F1ADD3C22"
@@ -581,8 +689,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 3.0d
+			x: 7.5d
+			y: 7.0d
 			id: "792355C03E966AFC"
 			tasks: [{
 				id: "7DF16A8CF85191CC"
@@ -591,8 +699,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 3.0d
+			x: 7.5d
+			y: 8.0d
 			id: "153F260A35D215A4"
 			tasks: [{
 				id: "1EE055E5B510C28C"
@@ -601,8 +709,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: 3.0d
+			x: 7.5d
+			y: 9.0d
 			id: "4429257E367FCEC9"
 			tasks: [{
 				id: "0621E79031D495EC"
@@ -611,9 +719,8 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 6.5d
 			y: 4.0d
-			shape: "square"
 			id: "7B29E9096560F457"
 			tasks: [{
 				id: "4EE68E2130B90E3B"
@@ -622,9 +729,8 @@
 			}]
 		}
 		{
-			x: 4.5d
-			y: 4.0d
-			shape: "square"
+			x: 6.5d
+			y: 5.0d
 			id: "551DB04FB0E32E74"
 			tasks: [{
 				id: "55874E9CCBED11CB"
@@ -633,9 +739,8 @@
 			}]
 		}
 		{
-			x: 5.5d
-			y: 4.0d
-			shape: "square"
+			x: 6.5d
+			y: 6.0d
 			id: "1C0A05B83BDFB813"
 			tasks: [{
 				id: "1A1E802BAE624C74"
@@ -645,8 +750,7 @@
 		}
 		{
 			x: 6.5d
-			y: 4.0d
-			shape: "square"
+			y: 7.0d
 			id: "0A139249EA1D85B5"
 			tasks: [{
 				id: "7046A8AEE4E4A3E7"
@@ -655,8 +759,8 @@
 			}]
 		}
 		{
-			x: 7.5d
-			y: 4.0d
+			x: 6.5d
+			y: 8.0d
 			id: "7859785DB0DB0C75"
 			tasks: [{
 				id: "14B9EFF2E155E697"
@@ -665,8 +769,8 @@
 			}]
 		}
 		{
-			x: 8.5d
-			y: 4.0d
+			x: 6.5d
+			y: 9.0d
 			id: "231C6BAEFF79C293"
 			tasks: [{
 				id: "63BE11A27C72E7D4"
@@ -675,8 +779,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 5.0d
+			x: 25.5d
+			y: 4.0d
 			id: "199D53F23AF8D3B2"
 			tasks: [{
 				id: "2E6F62FDFA9EBBFC"
@@ -685,7 +789,7 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: 25.5d
 			y: 5.0d
 			id: "38D70871AA6D45FA"
 			tasks: [{
@@ -695,8 +799,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: 5.0d
+			x: 25.5d
+			y: 6.0d
 			id: "0CBF3FFB0CCF0F77"
 			tasks: [{
 				id: "52C9DE3BD62156C6"
@@ -705,8 +809,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 5.0d
+			x: 25.5d
+			y: 7.0d
 			id: "1AE60EEAE141085B"
 			tasks: [{
 				id: "2420B5FF996A0D0D"
@@ -715,8 +819,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 5.0d
+			x: 25.5d
+			y: 8.0d
 			id: "1688F9FCC36D85BD"
 			tasks: [{
 				id: "2CF075C22A5A3A12"
@@ -725,8 +829,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: 5.0d
+			x: 25.5d
+			y: 9.0d
 			id: "1F3CCC67B76F07C2"
 			tasks: [{
 				id: "15EFC2AECA4011E6"
@@ -735,8 +839,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 6.0d
+			x: 24.5d
+			y: 4.0d
 			id: "71456709168281B6"
 			tasks: [{
 				id: "5B7D03BACB6BE3C0"
@@ -745,8 +849,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: 6.0d
+			x: 24.5d
+			y: 5.0d
 			id: "11783677B0E9F90D"
 			tasks: [{
 				id: "3EE9CB72D77776E2"
@@ -755,7 +859,7 @@
 			}]
 		}
 		{
-			x: -5.0d
+			x: 24.5d
 			y: 6.0d
 			id: "4CAA3F1D87744FD1"
 			tasks: [{
@@ -765,8 +869,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 6.0d
+			x: 24.5d
+			y: 7.0d
 			id: "1CFF53F17FEC19B3"
 			tasks: [{
 				id: "7EF794915CE51891"
@@ -775,8 +879,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 6.0d
+			x: 24.5d
+			y: 8.0d
 			id: "0BCBC63741925F49"
 			tasks: [{
 				id: "1FFAE9AFDA476430"
@@ -785,8 +889,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: 6.0d
+			x: 24.5d
+			y: 9.0d
 			id: "0743662F9666F7D5"
 			tasks: [{
 				id: "47A636643C9C2F7D"
@@ -795,8 +899,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 7.0d
+			x: 23.5d
+			y: 4.0d
 			id: "7B7CC166F299A9C2"
 			tasks: [{
 				id: "2B3C88CA42064E8B"
@@ -805,8 +909,8 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: 7.0d
+			x: 23.5d
+			y: 5.0d
 			id: "7A93259D105B0906"
 			tasks: [{
 				id: "320FC42D52FA02ED"
@@ -815,8 +919,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: 7.0d
+			x: 23.5d
+			y: 6.0d
 			id: "1D4A6D9CEBFBFA71"
 			tasks: [{
 				id: "442C146255B34BFB"
@@ -825,7 +929,7 @@
 			}]
 		}
 		{
-			x: -4.0d
+			x: 23.5d
 			y: 7.0d
 			id: "2FAD11AD03F38236"
 			tasks: [{
@@ -835,8 +939,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 7.0d
+			x: 23.5d
+			y: 8.0d
 			id: "5AE52BEC2B23120F"
 			tasks: [{
 				id: "479C5B182490790E"
@@ -845,8 +949,8 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: 7.0d
+			x: 23.5d
+			y: 9.0d
 			id: "2A6CB30B6ED84818"
 			tasks: [{
 				id: "5BD379379F12BC03"
@@ -862,12 +966,379 @@
 					Icon: "cofh_core:textures/gui/icons/icon_information.png"
 				}
 			}
-			x: 9.5d
-			y: 4.0d
-			description: ["{image:powah:textures/gui/book/images/reactor.png width:100 height:50 align:1}"]
+			x: 6.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/reactor.png width:100 height:50 align:1 fit:true}"]
 			id: "4EC540CD9C0239A7"
 			tasks: [{
 				id: "572C320001028A23"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 7.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/solar_panel.png width:100 height:50 align:1 fit:true}"]
+			id: "1DFE1FF0AEEAB951"
+			tasks: [{
+				id: "21D4C821D0CC2353"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 8.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/magmator.png width:100 height:50 align:1 fit:true}"]
+			id: "063CC66449C55CAF"
+			tasks: [{
+				id: "5E5FB9093D7A5264"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 9.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/furnator.png width:100 height:50 align:1 fit:true}"]
+			id: "516BF496D8E3E63F"
+			tasks: [{
+				id: "37F1167E6ACD542F"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 13.0d
+			y: 10.0d
+			shape: "diamond"
+			id: "44B131ECDAA019DF"
+			tasks: [{
+				id: "3EB5B31664F171E0"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 15.0d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/ender_cell.png width:100 height:50 align:1 fit:true}"]
+			id: "4F61A478444F1BC3"
+			tasks: [{
+				id: "0F63E8544E710C00"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 14.0d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/energy_cell.png width:100 height:50 align:1 fit:true}"]
+			id: "4D819BA80A4F5B12"
+			tasks: [{
+				id: "4C423FA1A113D370"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 4.0d
+			id: "70F8AC5714ED41DC"
+			tasks: [{
+				id: "708EC01DACF36233"
+				type: "item"
+				item: "powah:capacitor_basic_large"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 5.0d
+			id: "6315628D0D446B6C"
+			tasks: [{
+				id: "7714304326462DA3"
+				type: "item"
+				item: "powah:capacitor_hardened"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 6.0d
+			id: "17453839C26CCD7A"
+			tasks: [{
+				id: "2EDE3BD25868FFBB"
+				type: "item"
+				item: "powah:capacitor_blazing"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 7.0d
+			id: "46589BE6EA9B74BB"
+			tasks: [{
+				id: "54F44984708794E0"
+				type: "item"
+				item: "powah:capacitor_niotic"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 8.0d
+			id: "259615E882B706AA"
+			tasks: [{
+				id: "73E831BF0F3928CE"
+				type: "item"
+				item: "powah:capacitor_spirited"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 9.0d
+			id: "65881E27F2FB6695"
+			tasks: [{
+				id: "56F78957770B6527"
+				type: "item"
+				item: "powah:capacitor_nitro"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 20.0d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/energy_cable.png width:100 height:50 align:1 fit:true}"]
+			id: "200131DF70EF6F4C"
+			tasks: [{
+				id: "688B01659876D19E"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 21.0d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/ender_gate.png width:100 height:50 align:1 fit:true}"]
+			id: "09DCABD74F4D7594"
+			tasks: [{
+				id: "0DE090723064DF77"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 23.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/energy_discharger.png width:100 height:50 align:1 fit:true}"]
+			id: "6927182561507510"
+			tasks: [{
+				id: "0A1717E596A257BF"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 24.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/energy_hopper.png width:100 height:50 align:1 fit:true}"]
+			id: "1AAEDC4DB3C99950"
+			tasks: [{
+				id: "638AD662AFE59DAB"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 25.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/player_transmitter.png width:100 height:50 align:1 fit:true}"]
+			id: "52C8A637C52B35EF"
+			tasks: [{
+				id: "6971488C49F71BEA"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 26.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/energizing.png width:100 height:50 align:1 fit:true}"]
+			id: "70974BF0940FFA48"
+			tasks: [{
+				id: "1BB95AF17F158648"
+				type: "checkmark"
+				title: "Informations"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 9.0d
+			id: "6E6A0223DFDDB0B2"
+			tasks: [{
+				id: "6E0731CC7D6ED32D"
+				type: "item"
+				item: "powah:thermo_generator_nitro"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 8.0d
+			id: "482CDB595254636E"
+			tasks: [{
+				id: "0AA355B7DB4925AC"
+				type: "item"
+				item: "powah:thermo_generator_spirited"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 7.0d
+			id: "22E879B58C61D070"
+			tasks: [{
+				id: "256218BA73A2D0FD"
+				type: "item"
+				item: "powah:thermo_generator_niotic"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 6.0d
+			id: "5E5F086A71EA2042"
+			tasks: [{
+				id: "43579CE2F03A78C7"
+				type: "item"
+				item: "powah:thermo_generator_blazing"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 5.0d
+			id: "345CE4C0BA68EF8B"
+			tasks: [{
+				id: "15BD5E72A1CBB38F"
+				type: "item"
+				item: "powah:thermo_generator_hardened"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 4.0d
+			id: "3043BB1CE5FA3090"
+			tasks: [{
+				id: "76967BE6F9FEE4E6"
+				type: "item"
+				item: "powah:thermo_generator_basic"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "cofh_core:textures/gui/icons/icon_information.png"
+				}
+			}
+			x: 10.5d
+			y: 10.0d
+			shape: "diamond"
+			description: ["{image:powah:textures/gui/book/images/thermo_generator.png width:100 height:50 align:1 fit:true}"]
+			id: "51A73DEC24F73143"
+			tasks: [{
+				id: "0ADFB1D81C171EDE"
 				type: "checkmark"
 				title: "Informations"
 			}]

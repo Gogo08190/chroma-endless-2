@@ -1,0 +1,39 @@
+{
+	id: "1AEC73C09EA2C45C"
+	group: ""
+	order_index: 1
+	filename: "shop"
+	title: "Shop"
+	icon: {
+		id: "ftbquests:custom_icon"
+		Count: 1
+		tag: {
+			Icon: "ftbquests:textures/gui/shop.png"
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "Diamond Ring"
+		icon: "angelring:itemdiamondring"
+		x: -3.5d
+		y: -1.5d
+		can_repeat: true
+		id: "35570798E92E1C7A"
+		tasks: [{
+			id: "4DFDA2F86B8E4937"
+			type: "item"
+			item: {
+				id: "numismaticoverhaul:gold_coin"
+				Count: 1
+				tag: { }
+			}
+		}]
+		rewards: [{
+			id: "2C00FB702E9D9CDD"
+			type: "item"
+			item: "angelring:itemdiamondring"
+		}]
+	}]
+	quest_links: [ ]
+}

@@ -88,6 +88,496 @@
 				item: "mekanism:ultimate_energy_cube"
 			}]
 		}
+		{
+			x: 1.0d
+			y: -5.0d
+			id: "5265A58D4EA92E61"
+			tasks: [{
+				id: "37E54778FB020220"
+				type: "item"
+				item: "mekanism:module_energy_unit"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			id: "7055C53BE6506670"
+			tasks: [{
+				id: "4F0780136A27FC6A"
+				type: "item"
+				item: "mekanismgenerators:module_solar_recharging_unit"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -1.0d
+			id: "1D0FB42BB4E01250"
+			tasks: [{
+				id: "0C5B6351A0926583"
+				type: "item"
+				item: "mekanismgenerators:module_geothermal_generator_unit"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -5.0d
+			id: "2597BC621C1C1786"
+			tasks: [{
+				id: "0A514278BF9F4BC9"
+				type: "item"
+				item: "mekanism:module_laser_dissipation_unit"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -5.0d
+			id: "6415295F0D2041DB"
+			tasks: [{
+				id: "48D5C8FB66513D95"
+				type: "item"
+				item: "mekanism:module_radiation_shielding_unit"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -5.0d
+			id: "1B62B5F7A92D36EA"
+			tasks: [{
+				id: "1983DED7D81452AD"
+				type: "item"
+				item: "mekanism:module_excavation_escalation_unit"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -5.0d
+			id: "0FECF1746DA94A5F"
+			tasks: [{
+				id: "32FAC4A959EF6A18"
+				type: "item"
+				item: "mekanism:module_attack_amplification_unit"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -5.0d
+			id: "43EF5055479986BA"
+			tasks: [{
+				id: "7EF8FB1B7278291D"
+				type: "item"
+				item: "mekanism:module_farming_unit"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -5.0d
+			id: "7215543C1D47A158"
+			tasks: [{
+				id: "6111083569B434A8"
+				type: "item"
+				item: "mekanism:module_attack_amplification_unit"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -4.0d
+			id: "47F58EA9BA586287"
+			tasks: [{
+				id: "708CD2E40942EAE4"
+				type: "item"
+				item: "mekanism:module_shearing_unit"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -4.0d
+			id: "1983E7D9BE414B8A"
+			tasks: [{
+				id: "0CDD9F66D0FDB1CD"
+				type: "item"
+				item: "mekanism:module_silk_touch_unit"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -4.0d
+			id: "29F5659580FEBE59"
+			tasks: [{
+				id: "5B1B1212BFC9E4FC"
+				type: "item"
+				item: "mekanism:module_fortune_unit"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -4.0d
+			id: "27C969B469E337E2"
+			tasks: [{
+				id: "0265E084896E0F1F"
+				type: "item"
+				item: "mekanism:module_blasting_unit"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -4.0d
+			id: "66319E2BCFAD1D58"
+			tasks: [{
+				id: "5194FAECE90D7F32"
+				type: "item"
+				item: "mekanism:module_vein_mining_unit"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -4.0d
+			id: "7A64377716E1D9F0"
+			tasks: [{
+				id: "710C42EE002A492E"
+				type: "item"
+				item: "mekanism:module_teleportation_unit"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -3.0d
+			id: "43E5BBD381EF5342"
+			tasks: [{
+				id: "3B737D26E38B2194"
+				type: "item"
+				item: "mekanism:module_electrolytic_breathing_unit"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -3.0d
+			id: "71628FF8712DAF81"
+			tasks: [{
+				id: "34F254B061CE1CA2"
+				type: "item"
+				item: "mekanism:module_inhalation_purification_unit"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -3.0d
+			id: "523343DCAB03E55E"
+			tasks: [{
+				id: "383993E66802F758"
+				type: "item"
+				item: "mekanism:module_vision_enhancement_unit"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -3.0d
+			id: "21C192CBDAE3B53A"
+			tasks: [{
+				id: "4A77FCC403B8821B"
+				type: "item"
+				item: "mekanism:module_nutritional_injection_unit"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -3.0d
+			id: "77B1E6647E92019C"
+			tasks: [{
+				id: "4605C7825742E6E3"
+				type: "item"
+				item: "mekanism:module_dosimeter_unit"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -3.0d
+			id: "376279D1533BFBA8"
+			tasks: [{
+				id: "4E4B4E82407BB746"
+				type: "item"
+				item: "mekanism:module_geiger_unit"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.0d
+			id: "749B829F4BF03632"
+			tasks: [{
+				id: "228C401C8E76C6AF"
+				type: "item"
+				item: "mekanism:module_jetpack_unit"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			id: "7794223A9985AA82"
+			tasks: [{
+				id: "74E2224C0A2E4AFE"
+				type: "item"
+				item: "mekanism:module_charge_distribution_unit"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -2.0d
+			id: "45EC7CD1058A8B7B"
+			tasks: [{
+				id: "4FF973C89D16A535"
+				type: "item"
+				item: "mekanism:module_gravitational_modulating_unit"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -2.0d
+			id: "3B0776DFF5DC0D5A"
+			tasks: [{
+				id: "573E3E1AD76FAE95"
+				type: "item"
+				item: "mekanism:module_elytra_unit"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -2.0d
+			id: "4A6650CA7C4AFDA3"
+			tasks: [{
+				id: "7A23834509BD33BF"
+				type: "item"
+				item: "mekanism:module_gyroscopic_stabilization_unit"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -2.0d
+			id: "1CEC740C06ECF328"
+			tasks: [{
+				id: "0360B17350617C9A"
+				type: "item"
+				item: "mekanism:module_hydrostatic_repulsor_unit"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.0d
+			id: "46FAFDEA9C74951D"
+			tasks: [{
+				id: "495E06325E37A890"
+				type: "item"
+				item: "mekanism:module_locomotive_boosting_unit"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			id: "6EF2D76E34E389D1"
+			tasks: [{
+				id: "013D8207FFAADCEE"
+				type: "item"
+				item: "mekanism:module_hydraulic_propulsion_unit"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			id: "00886276947764B0"
+			tasks: [{
+				id: "085A7EFF27B21AB9"
+				type: "item"
+				item: "mekanism:module_magnetic_attraction_unit"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -1.0d
+			id: "2708F3F741D62343"
+			tasks: [{
+				id: "552EFE16B354598F"
+				type: "item"
+				item: "mekanism:module_frost_walker_unit"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -8.0d
+			id: "0F25A968A11DA51A"
+			tasks: [{
+				id: "17516A0E4260271F"
+				type: "item"
+				item: "mekanismgenerators:solar_generator"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -9.0d
+			id: "4BECF2843864B5BE"
+			tasks: [{
+				id: "3075905CC92E7CEB"
+				type: "item"
+				item: "mekanismgenerators:solar_panel"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -8.0d
+			id: "73AE987BB83F79AC"
+			tasks: [{
+				id: "41DDB19455A235FB"
+				type: "item"
+				item: "solarpanels:advanced_solar_panel"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -9.0d
+			id: "3568C0631E642C67"
+			tasks: [{
+				id: "6D61B51DE6453EC7"
+				type: "item"
+				item: "solarpanels:carbone_solar_element"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -8.0d
+			id: "04C019BAC1A5E55C"
+			tasks: [{
+				id: "1B0A5ED729767214"
+				type: "item"
+				item: "solarpanels:hybrid_solar_panel"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -9.0d
+			id: "106A9394C48445BF"
+			tasks: [{
+				id: "4DE7D36C0F4EAA3F"
+				type: "item"
+				item: "solarpanels:hybrid_solar_element"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -8.0d
+			id: "119EA5220C12328B"
+			tasks: [{
+				id: "3F2B2B3F2A4738AD"
+				type: "item"
+				item: "solarpanels:ultimate_hybrid_solar_panel"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -9.0d
+			id: "20EA13290A090549"
+			tasks: [{
+				id: "038759C106332D61"
+				type: "item"
+				item: "solarpanels:improved_hybrid_solar_element"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -9.0d
+			id: "7DA3039D706928B9"
+			tasks: [{
+				id: "3487555CC6ECA8D7"
+				type: "item"
+				item: "solarpanels:quantum_solar_element"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -8.0d
+			id: "484E74E5D0322FE3"
+			tasks: [{
+				id: "590BD4AC1C870855"
+				type: "item"
+				item: "solarpanels:quantum_solar_panel"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -8.0d
+			id: "43702B6781688EA0"
+			tasks: [{
+				id: "0B6428ED0B4BF686"
+				type: "item"
+				item: "solarpanels:spectral_solar_panel"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -9.0d
+			id: "177066B35160DC95"
+			tasks: [{
+				id: "13A4F290A04D365B"
+				type: "item"
+				item: "solarpanels:spectral_solar_element"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -8.0d
+			id: "6F56D7B7DC2BD553"
+			tasks: [{
+				id: "469CF71456DA5CEF"
+				type: "item"
+				item: "solarpanels:singular_solar_panel"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -9.0d
+			id: "173D14D657E0F657"
+			tasks: [{
+				id: "28A625D12B4CC151"
+				type: "item"
+				item: "solarpanels:singular_solar_element"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -9.0d
+			id: "7567600FDE60D381"
+			tasks: [{
+				id: "01F59BBEF29B1ECA"
+				type: "item"
+				item: "solarpanels:light_absorbing_solar_element"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -8.0d
+			id: "34A5D5D168A8AF48"
+			tasks: [{
+				id: "4AB56CAAFAB87F3B"
+				type: "item"
+				item: "solarpanels:light_absorbing_solar_panel"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -9.0d
+			id: "5F97C83224ADDF74"
+			tasks: [{
+				id: "7767C4B849D285DE"
+				type: "item"
+				item: "solarpanels:photonic_solar_element"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -8.0d
+			id: "20F20E5047E16062"
+			tasks: [{
+				id: "70680EA4A48446E4"
+				type: "item"
+				item: "solarpanels:photonic_solar_panel"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
