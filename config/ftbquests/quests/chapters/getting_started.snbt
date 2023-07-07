@@ -412,7 +412,7 @@
 			shape: "gear"
 			subtitle: "{chapter.stage.1.quest.26.subtitle.1}"
 			description: [
-				"chapter.stage.1.quest.26.description.1"
+				"{chapter.stage.1.quest.26.description.1}"
 				""
 				"{chapter.stage.1.quest.26.description.2}"
 				""
@@ -742,9 +742,9 @@
 				""
 				"{chapter.stage.1.quest.12.description.3}"
 				""
-				"chapter.stage.1.quest.12.description.4"
+				"{chapter.stage.1.quest.12.description.4}"
 				""
-				"chapter.stage.1.quest.12.description.5"
+				"{chapter.stage.1.quest.12.description.5}"
 			]
 			dependencies: [
 				"62D6EE273C67B9E6"
