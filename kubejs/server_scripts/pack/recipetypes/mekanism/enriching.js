@@ -31,6 +31,11 @@ onEvent('recipes', (event) => {
         output: 'chroma:enriched_niotic',
         id: `${id_prefix}enriched_niotic`
       },
+      {
+        input: 'chroma:marsova_ignis',
+        output: 'chroma:enriched_marsova_ignis',
+        id: `${id_prefix}enriched_marsova_ignis`
+      },
     ];
     recipes.forEach((recipe) => {
         event.recipes.mekanism.enriching(recipe.output, recipe.input).id(recipe.id);

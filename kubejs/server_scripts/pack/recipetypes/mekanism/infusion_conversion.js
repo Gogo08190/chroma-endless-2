@@ -66,6 +66,16 @@ onEvent('recipes', (event) => {
         output: { amount: 80, infuse_type: 'chroma:niotic' },
         id: `${id_prefix}niotic_from_enriched`
       },
+      {
+        input: { ingredient: { item: 'chroma:marsova_ignis' } },
+        output: { amount: 10, infuse_type: 'chroma:marsova_ignis' },
+        id: `${id_prefix}marsova_ignis`
+      },
+      {
+        input: { ingredient: { item: 'chroma:enriched_marsova_ignis' } },
+        output: { amount: 80, infuse_type: 'chroma:marsova_ignis' },
+        id: `${id_prefix}marsova_ignis_from_enriched`
+      },
     ]
 
     recipes.forEach((recipe) => {
