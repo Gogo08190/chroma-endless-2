@@ -5,6 +5,7 @@ onEvent('recipes', (event) => {
   const plants = [
     {
       item: 'minecraft:wheat',
+      render: 'minecraft:wheat',
       seed: 'minecraft:wheat_seeds',
       type: 'crop',
       baseId: 'immersiveengineering:cloche/wheat',
@@ -12,6 +13,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:pumpkin',
+      render: 'minecraft:pumpkin',
       seed: 'minecraft:pumpkin_seeds',
       type: 'stem',
       baseId: 'immersiveengineering:cloche/pumpkin',
@@ -19,6 +21,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:melon',
+      render: 'minecraft:melon',
       seed: 'minecraft:melon_seeds',
       type: 'stem',
       baseId: 'immersiveengineering:cloche/melon',
@@ -26,6 +29,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:potato',
+      render: 'minecraft:potatoes',
       seed: 'minecraft:potato',
       type: 'crop',
       baseId: 'immersiveengineering:cloche/potato',
@@ -33,6 +37,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:carrot',
+      render: 'minecraft:carrots',
       seed: 'minecraft:carrot',
       type: 'crop',
       baseId: 'immersiveengineering:cloche/carrot',
@@ -40,6 +45,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:sweet_berries',
+      render: 'minecraft:sweet_berry_bush',
       seed: 'minecraft:sweet_berries',
       type: 'crop',
       baseId: 'immersiveengineering:cloche/sweet_berries',
@@ -47,6 +53,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:glow_berries',
+      render: 'minecraft:cave_vines',
       seed: 'minecraft:glow_berries',
       type: 'crop',
       baseId: 'immersiveengineering:cloche/glow_berries',
@@ -54,6 +61,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:beetroot',
+      render: 'minecraft:beetroots',
       seed: 'minecraft:beetroot_seeds',
       type: 'crop',
       baseId: 'immersiveengineering:cloche/beetroot',
@@ -61,6 +69,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'immersiveengineering:hemp_fiber',
+      render: 'immersiveengineering:hemp',
       seed: 'immersiveengineering:seed',
       type: 'hemp',
       baseId: 'immersiveengineering:cloche/hemp',
@@ -68,6 +77,7 @@ onEvent('recipes', (event) => {
     },
     {
       item: 'minecraft:bamboo',
+      render: 'minecraft:bamboo',
       seed: 'minecraft:bamboo',
       type: 'stacking',
       baseId: 'immersiveengineering:cloche/bamboo',
@@ -90,7 +100,7 @@ onEvent('recipes', (event) => {
         input: plant.seed,
         soil: soil,
         type: plant.type,
-        block: plant.item,
+        block: plant.render,
         id: id,
       };
 
