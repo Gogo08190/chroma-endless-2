@@ -117,4 +117,7 @@ const disabledItems = [
     'ironfurnaces:upgrade_iron2',
     'ironfurnaces:upgrade_gold2',
     'ironfurnaces:upgrade_silver2',
+
+    'mininggadgets:mininggadget_simple',
+    'mininggadgets:mininggadget_fancy',
 ];
