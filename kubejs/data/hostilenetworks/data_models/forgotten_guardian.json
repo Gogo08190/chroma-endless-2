@@ -1,0 +1,38 @@
+{
+  "type": "undergarden:forgotten_guardian",
+	"subtypes": [],
+  "name": "entity.undergarden.forgotten_guardian",
+  "name_color": "0x6AFDCB",
+  "gui_scale": 0.5,
+  "gui_x_offset": 0.0,
+  "gui_y_offset": 0.0,
+  "gui_z_offset": 0.0,
+  "sim_cost": 4096,
+  "input": {
+    "item": "hostilenetworks:empty_prediction",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "chroma:undergarden_prediction",
+    "count": 1
+  },
+  "trivia": "hostilenetworks.trivia.forgotten_guardian",
+  "fabricator_drops": [
+    {
+      "item": "undergarden:forgotten_nugget",
+      "count": 16
+    }
+  ],
+  "tier_data": [
+    6,
+    54,
+    354,
+    1254
+  ],
+  "data_per_kill": [
+    3,
+		12,
+		30,
+		45
+  ]
+}
