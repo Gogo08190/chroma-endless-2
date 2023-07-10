@@ -63,7 +63,8 @@ onEvent('item.registry', (event) => {
       'enriched_niotic',
       'marsova_ignis',
       'enriched_marsova_ignis',
-      'ultimate_prediction'
+      'ultimate_prediction',
+      'undergarden_prediction'
     ];
 
     items.forEach((item) => {
