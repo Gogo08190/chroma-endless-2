@@ -1,0 +1,39 @@
+{
+    "inputs": [
+        {
+            "item": "minecraft:enchanting_table",
+            "slot": 0
+        },
+        {
+            "item": "apotheosis:endshelf",
+            "slot": 1
+        },
+        {
+            "item": "forbidden_arcanus:xpetrified_orb",
+            "slot": 2
+        },
+        {
+            "item": "solarpanels:spectral_energy_tablet",
+            "slot": 3
+        },
+        {
+            "item": "forbidden_arcanus:xpetrified_orb",
+            "slot": 4
+        },
+        {
+            "item": "apotheosis:endshelf",
+            "slot": 5
+        }
+    ],
+    "hephaestus_forge_item": "industrialforegoing:machine_frame_advanced",
+    "essences": {
+        "aureal": 82,
+        "experience": 500,
+        "blood": 80,
+        "souls": 16
+    },
+    "result": {
+        "item": "industrialforegoing:enchantment_factory",
+        "count": 1
+    }
+}
