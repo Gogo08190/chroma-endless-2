@@ -62,7 +62,8 @@ onEvent('item.registry', (event) => {
       'enriched_compressed_steel',
       'enriched_niotic',
       'marsova_ignis',
-      'enriched_marsova_ignis'
+      'enriched_marsova_ignis',
+      'ultimate_prediction'
     ];
 
     items.forEach((item) => {
