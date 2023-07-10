@@ -70,7 +70,7 @@
   "chapter.stage.1.quest.8.subtitle.1": "The Cogwheels are a basic mechanical component in Create that relays rotation",
   "chapter.stage.1.quest.8.description.1" : "Cogwheels can transmit rotation to another adjacent coghweel.",
   "chapter.stage.1.quest.8.description.2" : "If a Coghweel A is facing a coghweel B then the B will change it's rotation sense.",
-  "chapter.stage.1.quest.8.description.3" : "You can use, by default, the 'Z' key to have more info on coghweels.",
+  "chapter.stage.1.quest.8.description.3" : "You can use, by default, the 'W' key to have more info on coghweels.",
 
   "chapter.stage.1.quest.9.subtitle.1": "A much bigger wheel !",
   "chapter.stage.1.quest.9.description.1" : "Info : Big Cogwheels and Cogwheels can only be linked diagonally !",
@@ -150,7 +150,7 @@
   "chapter.stage.1.quest.27.description.1" : "First : Use an Ore Vein Finder to locate ores.",
   "chapter.stage.1.quest.27.description.2" : "Second : Place a Drilling Machine or Fluid Extractor to harvest the ressource and put a Drill.",
   "chapter.stage.1.quest.27.description.3" : "Last : Put some rotation and extract the results.",
-  "chapter.stage.1.quest.27.description.4" : "Pro Tip : To get more info you can press 'Z' by default.",
+  "chapter.stage.1.quest.27.description.4" : "Pro Tip : To get more info you can press 'W' by default.",
 
   "chapter.stage.1.quest.28.subtitle.1": "Fluid Extracting With Create",
   "chapter.stage.1.quest.29.description.1" : "Like the Drilling find a Fluid to extract and repeat the same steps.",
