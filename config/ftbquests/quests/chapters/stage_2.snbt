@@ -17,6 +17,8 @@
 		{
 			x: 9.5d
 			y: 1.5d
+			subtitle: "{chapter.stage.3.quest.2.subtitle.1}"
+			description: ["{chapter.stage.3.quest.2.description.1}"]
 			dependencies: ["3125B28DBC36530F"]
 			id: "36A47B57CA00D3A9"
 			tasks: [{
@@ -32,6 +34,8 @@
 		{
 			x: 8.0d
 			y: 1.0d
+			subtitle: "{chapter.stage.2.quest.2.subtitle.1}"
+			description: ["{chapter.stage.2.quest.2.description.1}"]
 			dependencies: ["3125B28DBC36530F"]
 			id: "62E491DE99C883DB"
 			tasks: [{
@@ -47,6 +51,8 @@
 		{
 			x: 10.0d
 			y: 3.0d
+			subtitle: "{chapter.stage.2.quest.4.subtitle.1}"
+			description: ["{chapter.stage.2.quest.4.description.1}"]
 			dependencies: ["36A47B57CA00D3A9"]
 			id: "3A8FD39A74BFEC82"
 			tasks: [{
@@ -97,6 +103,12 @@
 		{
 			x: 10.0d
 			y: 4.5d
+			subtitle: "{chapter.stage.2.quest.5.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.5.description.1}"
+				""
+				"{chapter.stage.2.quest.5.description.2}"
+			]
 			dependencies: ["3A8FD39A74BFEC82"]
 			id: "1DF0F7DDAAFED205"
 			tasks: [{
@@ -891,6 +903,12 @@
 			x: 9.5d
 			y: -0.5d
 			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.1.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.1.description.1}"
+				""
+				"{chapter.stage.2.quest.1.description.2}"
+			]
 			dependencies: ["44677FAB528C2D42"]
 			size: 1.5d
 			id: "3125B28DBC36530F"
