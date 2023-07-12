@@ -231,5 +231,20 @@
 
   "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
-  "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer"
+  "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer",
+  "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r",
+  "chapter.stage.2.quest.1.description.2": "So we suggest that you should keep it somewhere that you will remember !",
+
+  "chapter.stage.2.quest.2.subtitle.1": "Build an &5Alloy Kiln",
+  "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really useful to create early alloys",
+
+  "chapter.stage.2.quest.3.subtitle.1": "Build a &6Coke Oven&r",
+  "chapter.stage.2.quest.3.description.1": "&6The Coke Oven&r is the first way to obtain &4Treated Wood&r with &7Creosote Oil&r",
+
+  "chapter.stage.2.quest.4.subtitle.1": "Blasting expert",
+  "chapter.stage.2.quest.4.description.1": "&6cThe Blast Furnace&r is the first step to do to have &9Steel Ingots&r",
+  
+  "chapter.stage.2.quest.5.subtitle.1": "An Immersive Crafting Table",
+  "chapter.stage.2.quest.5.description.1": "To craft &5Immserive&r first components you will have to craft this Workbench",
+  "chapter.stage.2.quest.5.description.2": "Later in the game, a more valuable recipe will be used, but for now we suggest to use that."
 }
