@@ -65,6 +65,7 @@ onEvent('item.registry', (event) => {
       'enriched_marsova_ignis',
       'ultimate_prediction',
       'generelized_undergarden_prediction',
+      'generelized_botania_prediction',
       'skin_of_gaia'
     ];
 

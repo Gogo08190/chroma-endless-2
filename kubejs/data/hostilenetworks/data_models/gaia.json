@@ -13,7 +13,7 @@
     "count": 1
   },
   "base_drop": {
-    "item": "hostilenetworks:overworld_prediction",
+    "item": "chroma:generelized_botania_prediction",
     "count": 1
   },
   "trivia": "hostilenetworks.trivia.doppleganger",
@@ -25,6 +25,10 @@
     {
       "item": "chroma:skin_of_gaia",
       "count": 1
+    },
+    {
+      "item": "botania:blacker_lotus",
+      "count": 2
     }
   ],
   "tier_data": [
