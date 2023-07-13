@@ -1,0 +1,42 @@
+{
+  "type": "botania:doppleganger",
+	"subtypes": [],
+  "name": "entity.botania.doppleganger",
+  "name_color": "0xFF9CF2",
+  "gui_scale": 1.0,
+  "gui_x_offset": 0.0,
+  "gui_y_offset": 0.0,
+  "gui_z_offset": 0.0,
+  "sim_cost": 4096,
+  "input": {
+    "item": "hostilenetworks:empty_prediction",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "hostilenetworks:overworld_prediction",
+    "count": 1
+  },
+  "trivia": "hostilenetworks.trivia.doppleganger",
+  "fabricator_drops": [
+    {
+      "item": "botania:life_essence",
+      "count": 4
+    },
+    {
+      "item": "chroma:skin_of_gaia",
+      "count": 1
+    }
+  ],
+  "tier_data": [
+    6,
+    54,
+    354,
+    1254
+  ],
+  "data_per_kill": [
+    3,
+		12,
+		30,
+		45
+  ]
+}
