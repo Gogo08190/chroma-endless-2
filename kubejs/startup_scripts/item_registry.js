@@ -64,7 +64,8 @@ onEvent('item.registry', (event) => {
       'marsova_ignis',
       'enriched_marsova_ignis',
       'ultimate_prediction',
-      'undergarden_prediction'
+      'undergarden_prediction',
+      'skin_of_gaia'
     ];
 
     items.forEach((item) => {
