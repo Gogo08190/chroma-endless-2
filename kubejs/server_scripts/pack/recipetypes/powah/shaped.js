@@ -494,7 +494,7 @@ onEvent('recipes', (event) => {
                 E: Item.of('powah:energy_cell_blazing').ignoreNBT(),
                 P: 'undergarden:utherium_crystal',
                 B: 'powah:capacitor_niotic',
-                C: 'mekanism:elite_control_circuit'
+                C: 'mekanism:ultimate_control_circuit'
             },
             id: 'powah:crafting/energy_cell_niotic'
         },
@@ -515,7 +515,7 @@ onEvent('recipes', (event) => {
             key: {
                 B: Item.of('powah:battery_blazing').weakNBT(),
                 D: 'powah:dielectric_paste',
-                C: 'mekanism:elite_control_circuit',
+                C: 'mekanism:ultimate_control_circuit',
                 P: 'powah:capacitor_niotic',
                 R: 'powah:crystal_niotic'
             },
@@ -526,7 +526,7 @@ onEvent('recipes', (event) => {
             pattern: ['RCR', 'CEC', 'RCR'],
             key: {
                 E: 'powah:ender_core',
-                R: 'mekanism:alloy_reinforced',
+                R: 'mekanism:alloy_atomic',
                 C: Item.of('powah:energy_cable_niotic').ignoreNBT()
             },
             id: 'powah:crafting/ender_gate_niotic'
@@ -550,7 +550,7 @@ onEvent('recipes', (event) => {
                 G: 'ironfurnaces:diamond_furnace',
                 P: 'powah:crystal_niotic',
                 C: 'powah:capacitor_niotic',
-                A: 'mekanism:elite_control_circuit'
+                A: 'mekanism:ultimate_control_circuit'
             },
             id: 'powah:crafting/furnator_niotic'
         },
@@ -560,7 +560,7 @@ onEvent('recipes', (event) => {
             key: {
                 D: 'powah:dielectric_casing',
                 M: Item.of('powah:magmator_blazing').ignoreNBT(),
-                R: 'mekanism:alloy_reinforced',
+                R: 'mekanism:alloy_atomic',
                 C: 'powah:capacitor_niotic',
                 B: 'powah:crystal_niotic'
             },
@@ -572,7 +572,7 @@ onEvent('recipes', (event) => {
             key: {
                 D: 'immersiveengineering:radiator',
                 M: Item.of('powah:thermo_generator_blazing').ignoreNBT(),
-                R: 'mekanism:alloy_reinforced',
+                R: 'mekanism:alloy_atomic',
                 C: 'powah:capacitor_niotic',
                 B: 'powah:crystal_niotic',
                 T: 'powah:thermoelectric_plate'
@@ -587,7 +587,7 @@ onEvent('recipes', (event) => {
                 P: 'powah:photoelectric_pane',
                 C: 'powah:capacitor_niotic',
                 B: 'powah:crystal_niotic',
-                D: 'mekanism:elite_control_circuit'
+                D: 'mekanism:ultimate_control_circuit'
             },
             id: 'powah:crafting/solar_panel_niotic'
         },

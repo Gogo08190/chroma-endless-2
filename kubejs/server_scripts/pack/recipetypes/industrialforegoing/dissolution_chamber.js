@@ -198,12 +198,12 @@ onEvent('recipes', (event) => {
         {
             inputs: [
                 'powah:reactor_blazing',
-                'mekanism:elite_control_circuit',
+                'mekanism:ultimate_control_circuit',
                 'powah:reactor_blazing',
                 'powah:capacitor_niotic',
                 'powah:capacitor_niotic',
                 'powah:reactor_blazing',
-                'mekanism:elite_control_circuit',
+                'mekanism:ultimate_control_circuit',
                 'powah:reactor_blazing'
             ],
             inputFluid: 'materialis:molten_utherium',
