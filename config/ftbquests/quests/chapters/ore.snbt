@@ -4,94 +4,104 @@
 	order_index: 1
 	filename: "ore"
 	title: "Ore(mysterBoy en cour)"
+	icon: "minecraft:raw_iron"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -7.5d
-			y: -2.5d
+			x: -18.5d
+			y: 0.5d
 			id: "513F14E085949B41"
 			tasks: [{
 				id: "1AD3F75D57EFFAFC"
 				type: "item"
 				item: "thermal:niter"
+				count: 16L
 			}]
 		}
 		{
-			x: -7.5d
-			y: -1.5d
+			x: -17.5d
+			y: 0.5d
 			id: "2B2500846DDC3894"
 			tasks: [{
 				id: "074121763412BAD9"
 				type: "item"
 				item: "thermal:sulfur"
+				count: 16L
 			}]
 		}
 		{
-			x: 12.5d
-			y: -2.5d
+			x: -16.5d
+			y: 2.5d
 			id: "460AB7DC9AA78CB6"
 			tasks: [{
 				id: "258496A597C2FE63"
 				type: "item"
 				item: "evilcraft:dark_gem"
+				count: 16L
 			}]
 		}
 		{
-			x: 15.0d
-			y: -2.5d
+			x: -15.5d
+			y: 2.5d
 			id: "00D1F81B99E34ACE"
 			tasks: [{
 				id: "333E0F0052D4BBB3"
 				type: "item"
 				item: "rftoolsbase:dimensionalshard"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: -2.5d
+			x: -19.5d
+			y: -0.5d
 			id: "49B49A156B50EF9D"
 			tasks: [{
 				id: "7011B976DB93ED0F"
 				type: "item"
 				item: "minecraft:coal"
+				count: 16L
 			}]
 		}
 		{
-			x: 17.5d
-			y: -2.5d
+			x: -14.5d
+			y: 2.5d
 			id: "522855D64BE07CC4"
 			tasks: [
 				{
 					id: "7ED0E3A79A5F9EBA"
 					type: "item"
 					item: "ae2:certus_quartz_dust"
+					count: 16L
 				}
 				{
 					id: "26148D2C88B0AD15"
 					type: "item"
 					item: "ae2:certus_quartz_crystal"
+					count: 16L
 				}
 			]
 		}
 		{
-			x: 20.0d
-			y: -2.5d
+			x: -13.5d
+			y: 2.5d
 			id: "72884FDA5AFF1E4C"
 			tasks: [{
 				id: "5D6080D50FC525A7"
 				type: "item"
 				item: "draconicevolution:draconium_dust"
+				count: 16L
 			}]
 		}
 		{
-			x: 20.0d
-			y: -1.5d
+			x: -21.5d
+			y: 3.5d
 			id: "57D95260596E5360"
 			tasks: [{
 				id: "24841DBF85E65959"
 				type: "item"
 				item: "draconicevolution:draconium_ingot"
+				count: 16L
 			}]
 		}
 		{
@@ -102,6 +112,7 @@
 				id: "5FFD97175DB96590"
 				type: "item"
 				item: "blue_skies:moonstone_shard"
+				count: 16L
 			}]
 		}
 		{
@@ -112,346 +123,382 @@
 				id: "52FA10D28E10BDB9"
 				type: "item"
 				item: "blue_skies:moonstone"
+				count: 16L
 			}]
 		}
 		{
-			x: -16.5d
+			x: -20.5d
 			y: -1.5d
 			id: "4F486F0E3F998A8E"
 			tasks: [{
 				id: "51EFABDECF5206CA"
 				type: "item"
 				item: "blue_skies:horizonite_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -16.5d
-			y: -0.5d
+			x: -19.5d
+			y: -1.5d
 			id: "636E18545D37F44B"
 			tasks: [{
 				id: "18B5D0B272FE8AA9"
 				type: "item"
 				item: "blue_skies:falsite_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -16.5d
-			y: 0.5d
+			x: -18.5d
+			y: -1.5d
 			id: "21CF57748476BF25"
 			tasks: [{
 				id: "31A4221198312E42"
 				type: "item"
 				item: "blue_skies:aquite"
+				count: 16L
 			}]
 		}
 		{
-			x: -16.5d
-			y: 1.5d
+			x: -17.5d
+			y: -1.5d
 			id: "391B5C66F7829C79"
 			tasks: [{
 				id: "2E26E55329B0FB1C"
 				type: "item"
 				item: "blue_skies:ventium_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -7.5d
-			y: 4.5d
+			x: -20.5d
+			y: 1.5d
 			id: "40A4EFF75665BF54"
 			tasks: [{
 				id: "35E48C4515737599"
 				type: "item"
 				item: "thermal:cinnabar"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: -1.5d
+			x: -18.5d
+			y: -0.5d
 			id: "44EB5959703199B6"
 			tasks: [{
 				id: "7865BC5C86E6091D"
 				type: "item"
 				item: "minecraft:iron_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -5.0d
-			y: -2.5d
+			x: -19.5d
+			y: 1.5d
 			id: "5EE4C8C7E0831B0B"
 			tasks: [{
 				id: "35268C50EC3EE2AC"
 				type: "item"
 				item: "mekanism:fluorite_gem"
+				count: 16L
 			}]
 		}
 		{
-			x: -7.5d
-			y: 3.5d
+			x: -21.5d
+			y: 1.5d
 			id: "63F53D968B399C8D"
 			tasks: [{
 				id: "5280C93D14D1D2B6"
 				type: "item"
 				item: "thermal:tin_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
+			x: -17.5d
 			y: -0.5d
 			id: "0DB02A4222578EA6"
 			tasks: [{
 				id: "342D9D293D768B72"
 				type: "item"
 				item: "minecraft:lapis_lazuli"
+				count: 16L
 			}]
 		}
 		{
-			x: -5.0d
-			y: -1.5d
+			x: -18.5d
+			y: 1.5d
 			id: "08A0BFFBF3DB0032"
 			tasks: [{
 				id: "2ACCE0FEBA358BD8"
 				type: "item"
 				item: "mekanism:ingot_osmium"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: 0.5d
+			x: -16.5d
+			y: -0.5d
 			id: "2512F5B08B372DF9"
 			tasks: [{
 				id: "51978B146C42B7B6"
 				type: "item"
 				item: "minecraft:copper_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: 0.0d
-			y: -1.5d
+			x: -13.5d
+			y: 1.5d
 			id: "1B377A56F6C32063"
 			tasks: [{
 				id: "5EECF467A3FE5CF2"
 				type: "item"
 				item: "mysticalagriculture:inferium_essence"
+				count: 16L
 			}]
 		}
 		{
-			x: 2.5d
-			y: -2.5d
+			x: -21.5d
+			y: 2.5d
 			id: "79279D7A7CC12B85"
 			tasks: [{
 				id: "71FDEEDD5C76AC4B"
 				type: "item"
 				item: "biggerreactors:uranium_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: 2.5d
-			y: -1.5d
+			x: -20.5d
+			y: 2.5d
 			id: "5231E2061BF06BF7"
 			tasks: [{
 				id: "5A1A3B32B4A5B646"
 				type: "item"
 				item: "immersiveengineering:ingot_aluminum"
+				count: 16L
 			}]
 		}
 		{
-			x: -7.5d
-			y: 2.5d
+			x: -13.5d
+			y: 0.5d
 			id: "134CC03D30F7EE0B"
 			tasks: [{
 				id: "70A3D0A87F27D4ED"
 				type: "item"
 				item: "thermal:apatite"
+				count: 16L
 			}]
 		}
 		{
-			x: -13.0d
-			y: 0.5d
+			x: -20.5d
+			y: -0.5d
 			id: "0DD6B84A0DFC10F6"
 			tasks: [{
 				id: "03C637BB6EB38A13"
 				type: "item"
 				item: "undergarden:cloggrum_ingot"
+				count: 16L
 			}]
 		}
 		{
 			x: -16.5d
-			y: 2.5d
+			y: -1.5d
 			id: "594EB48AB2748F83"
 			tasks: [{
 				id: "3452613269E80A1A"
 				type: "item"
 				item: "blue_skies:pyrope_gem"
+				count: 16L
 			}]
 		}
 		{
-			x: -19.0d
+			x: -19.5d
 			y: -2.5d
 			id: "5F2CFA18B9D9AE89"
 			tasks: [{
 				id: "42EDB482AE4E14A0"
 				type: "item"
 				item: "beyond_earth:ice_shard"
+				count: 16L
 			}]
 		}
 		{
-			x: -19.0d
-			y: -1.5d
+			x: -18.5d
+			y: -2.5d
 			id: "256ABBB766D10D93"
 			tasks: [{
 				id: "7DD39F6C5DB714C6"
 				type: "item"
 				item: "beyond_earth:cheese"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: 1.5d
+			x: -15.5d
+			y: -0.5d
 			id: "191F2FD58FE0FB62"
 			tasks: [{
 				id: "0BCFEBCBDACB313B"
 				type: "item"
 				item: "minecraft:emerald"
+				count: 16L
+				match_nbt: false
 			}]
 		}
 		{
-			x: 5.0d
-			y: -2.5d
+			x: -19.5d
+			y: 2.5d
 			id: "39F1A7F5036136EA"
 			tasks: [{
 				id: "6AE782DE431B6989"
 				type: "item"
 				item: "tconstruct:cobalt_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: 2.5d
+			x: -14.5d
+			y: -0.5d
 			id: "241A010C17325C23"
 			tasks: [{
 				id: "7FD5919BD7D2BCA4"
 				type: "item"
 				item: "minecraft:diamond"
+				count: 16L
 			}]
 		}
 		{
-			x: 0.0d
-			y: -2.5d
+			x: -14.5d
+			y: 1.5d
 			id: "19A0D3D654771179"
 			tasks: [{
 				id: "703D5D9F130CC07C"
 				type: "item"
 				item: "mysticalagriculture:prosperity_shard"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: 3.5d
+			x: -13.5d
+			y: -0.5d
 			id: "4069A9527317624D"
 			tasks: [{
 				id: "3676B949BB38311F"
 				type: "item"
 				item: "minecraft:redstone"
+				count: 16L
 			}]
 		}
 		{
-			x: -7.5d
-			y: 1.5d
+			x: -14.5d
+			y: 0.5d
 			id: "0E9F3F43EF64E974"
 			tasks: [{
 				id: "53E4305212943F18"
 				type: "item"
 				item: "thermal:lead_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: 4.5d
+			x: -21.5d
+			y: 0.5d
 			id: "164C234F10D6344A"
 			tasks: [{
 				id: "10B4598CD80BFDDB"
 				type: "item"
 				item: "minecraft:gold_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: 7.5d
-			y: -2.5d
+			x: -18.5d
+			y: 2.5d
 			id: "6F98499935537DB0"
 			tasks: [{
 				id: "0F559E69FEBF554D"
 				type: "item"
 				item: "powah:uraninite"
+				count: 16L
 			}]
 		}
 		{
-			x: -2.5d
-			y: -2.5d
+			x: -17.5d
+			y: 1.5d
 			id: "3B789C8D2A8D8A8D"
 			tasks: [{
 				id: "73348D8B33D75CC6"
 				type: "item"
 				item: "forbidden_arcanus:arcane_crystal"
+				count: 16L
 			}]
 		}
 		{
-			x: -7.5d
+			x: -15.5d
 			y: 0.5d
 			id: "32AB9E580E34993E"
 			tasks: [{
 				id: "1EA2FAD5F1C50CDF"
 				type: "item"
 				item: "thermal:nickel_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: 10.0d
-			y: -2.5d
+			x: -17.5d
+			y: 2.5d
 			id: "283655E0EE905428"
 			tasks: [{
 				id: "26FADA30521A7FA0"
 				type: "item"
 				item: "create:zinc_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -7.5d
-			y: -0.5d
+			x: -16.5d
+			y: 0.5d
 			id: "11D1AA4EFB44C740"
 			tasks: [{
 				id: "0569944884E77733"
 				type: "item"
 				item: "thermal:silver_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -2.5d
-			y: -0.5d
+			x: -15.5d
+			y: 1.5d
 			id: "3CA8517EE14F7A7B"
 			tasks: [{
 				id: "3A02A72E140C032E"
 				type: "item"
 				item: "forbidden_arcanus:xpetrified_orb"
+				count: 16L
 			}]
 		}
 		{
-			x: -16.5d
-			y: 3.5d
+			x: -15.5d
+			y: -1.5d
 			id: "633EDC9527D9FE82"
 			tasks: [{
 				id: "04AE44DAC25E771C"
 				type: "item"
 				item: "blue_skies:charoite"
+				count: 16L
 			}]
 		}
 		{
-			x: -19.0d
-			y: -0.5d
+			x: -17.5d
+			y: -2.5d
 			id: "11F1416475A203CF"
 			tasks: [{
 				id: "5BE52BDCC578D849"
 				type: "item"
 				item: "beyond_earth:ostrum_ingot"
+				count: 16L
 			}]
 		}
 		{
@@ -462,106 +509,117 @@
 				id: "65057A5A1D470D62"
 				type: "item"
 				item: "botania:elementium_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -21.5d
-			y: -1.5d
+			x: -20.5d
+			y: -2.5d
 			id: "5F605540BA5854F2"
 			tasks: [{
 				id: "02AE2513AC96E4ED"
 				type: "item"
 				item: "botania:dragonstone"
+				count: 16L
 			}]
 		}
 		{
-			x: -19.0d
-			y: 0.5d
+			x: -14.5d
+			y: -2.5d
 			id: "53DD5CD3A8AC804E"
 			tasks: [{
 				id: "54D5EBB69C86A841"
 				type: "item"
 				item: "beyond_earth:desh_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -19.0d
-			y: 1.5d
+			x: -21.5d
+			y: -1.5d
 			id: "33CD4C8E26304F98"
 			tasks: [{
 				id: "2351BD2AA17385AF"
 				type: "item"
 				item: "beyond_earth:calorite_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -16.5d
-			y: 4.5d
+			x: -14.5d
+			y: -1.5d
 			id: "0E726795263D1D0A"
 			tasks: [{
 				id: "4271A1070323654F"
 				type: "item"
 				item: "blue_skies:diopside_gem"
+				count: 16L
 			}]
 		}
 		{
-			x: -13.0d
+			x: -13.5d
 			y: -2.5d
 			id: "4FD5EA7B971A34D4"
 			tasks: [{
 				id: "3AF252D7E1D25F00"
 				type: "item"
 				item: "undergarden:regalium_crystal"
+				count: 16L
 			}]
 		}
 		{
-			x: -13.0d
+			x: -13.5d
 			y: -1.5d
 			id: "52E555D5A578E225"
 			tasks: [{
 				id: "077BA304FDA9CC0C"
 				type: "item"
 				item: "undergarden:utherium_crystal"
+				count: 16L
 			}]
 		}
 		{
-			x: -13.0d
+			x: -21.5d
 			y: -0.5d
 			id: "595365E6AAAAB027"
 			tasks: [{
 				id: "6199B8CDD0830B57"
 				type: "item"
 				item: "undergarden:froststeel_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: 5.5d
+			x: -20.5d
+			y: 0.5d
 			id: "60DF92BDBB534035"
 			tasks: [{
 				id: "056828E0157D957A"
 				type: "item"
 				item: "minecraft:netherite_scrap"
+				count: 16L
 			}]
 		}
 		{
-			x: -10.5d
-			y: 6.5d
+			x: -19.5d
+			y: 0.5d
 			id: "4B887C70DC3D3D54"
 			tasks: [{
 				id: "3598C4374AD6EE2F"
 				type: "item"
 				item: "minecraft:netherite_ingot"
+				count: 16L
 			}]
 		}
 		{
-			x: -2.5d
-			y: -1.5d
+			x: -16.5d
+			y: 1.5d
 			id: "7459EFDE696F926C"
 			tasks: [{
 				id: "560FAEF5D477BEB2"
 				type: "item"
 				item: "forbidden_arcanus:rune"
+				count: 16L
 			}]
 		}
 	]

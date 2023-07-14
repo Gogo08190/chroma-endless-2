@@ -4,6 +4,7 @@
 	order_index: 2
 	filename: "jardiland"
 	title: "Jardiland(mysterBoy en cour)"
+	icon: "cookingforblockheads:cooking_table"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -5304,7 +5305,7 @@
 			tasks: [{
 				id: "2F1A10E65ED26201"
 				type: "checkmark"
-				title: "minecraft"
+				title: "Minecraft"
 			}]
 		}
 		{
@@ -5315,7 +5316,7 @@
 			tasks: [{
 				id: "17A1BB01CAA365A9"
 				type: "checkmark"
-				title: "aquaculture"
+				title: "Aquaculture"
 			}]
 		}
 		{
@@ -5326,7 +5327,7 @@
 			tasks: [{
 				id: "2EFBE77D130C836D"
 				type: "checkmark"
-				title: "sushi"
+				title: "Sushi Go Crafting"
 			}]
 		}
 		{
@@ -5338,7 +5339,222 @@
 			tasks: [{
 				id: "2A66AEFD9A56213C"
 				type: "checkmark"
-				title: "farmer's"
+				title: "Farmer's Delight"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -24.0d
+			shape: "rsquare"
+			id: "1F9A9B05630161E9"
+			tasks: [{
+				id: "4DAE478ED48D25E8"
+				type: "checkmark"
+				title: "Thermal Cultivation"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -17.0d
+			shape: "rsquare"
+			id: "000C496CE24A6F2F"
+			tasks: [{
+				id: "0AA749A3C1B313BF"
+				type: "checkmark"
+				title: "The Undergarden"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -11.0d
+			shape: "rsquare"
+			id: "1D6A095048E560F6"
+			tasks: [{
+				id: "6F8D80E26E53A02A"
+				type: "checkmark"
+				title: "Create"
+			}]
+		}
+		{
+			x: -31.5d
+			y: -2.0d
+			shape: "rsquare"
+			id: "7D5028412FABC2D1"
+			tasks: [{
+				id: "74FFF6E184B24C86"
+				type: "checkmark"
+				title: "Blue Skies"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -2.0d
+			shape: "rsquare"
+			id: "65011605C4ACBBA7"
+			tasks: [{
+				id: "77B0433CF2077A95"
+				type: "checkmark"
+				title: "Better Animal Plus"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -11.0d
+			shape: "rsquare"
+			id: "6E078C89B10D4894"
+			tasks: [{
+				id: "1CEE29C21D054DCF"
+				type: "checkmark"
+				title: "CookingForBlockheads"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -17.0d
+			shape: "rsquare"
+			id: "5BBEC317ADF6C20C"
+			tasks: [{
+				id: "357C41F750C038B5"
+				type: "checkmark"
+				title: "Delightful"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -24.0d
+			shape: "rsquare"
+			id: "32B1DF3A75F9F0BA"
+			tasks: [{
+				id: "08E54CE9BF5E86A4"
+				type: "checkmark"
+				title: "Nethers Delight"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -24.0d
+			shape: "rsquare"
+			id: "0E89222E1AF02BD7"
+			tasks: [{
+				id: "7AE32FE9D084F8A9"
+				type: "checkmark"
+				title: "PizzaCraft"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -17.0d
+			shape: "rsquare"
+			id: "33FB66638B36E39C"
+			tasks: [{
+				id: "78B6F5241E5A5ED8"
+				type: "checkmark"
+				title: "Some Assembly Required"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -11.0d
+			shape: "rsquare"
+			id: "16741722DC12E8DD"
+			tasks: [{
+				id: "31BC660B6E56AD65"
+				type: "checkmark"
+				title: "PneumaticCraft"
+			}]
+		}
+		{
+			x: -12.0d
+			y: -2.0d
+			shape: "rsquare"
+			id: "281CDFB711995752"
+			tasks: [{
+				id: "3CAF4469A2FAC044"
+				type: "checkmark"
+				title: "Forbidden and Arcanus"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -24.0d
+			shape: "rsquare"
+			id: "418DEA8534DF8198"
+			tasks: [{
+				id: "33F7A76A315415CA"
+				type: "checkmark"
+				title: "Mystical Agradditions"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -17.0d
+			shape: "rsquare"
+			id: "59C88D4E7BA14079"
+			tasks: [{
+				id: "1D77025C3B7FDEBF"
+				type: "checkmark"
+				title: "Artifacts"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -11.0d
+			shape: "rsquare"
+			id: "10BBAC16413207A8"
+			tasks: [{
+				id: "19F24735DFC5DB1B"
+				type: "checkmark"
+				title: "Supplementaries"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.0d
+			shape: "rsquare"
+			id: "578E72BE9F1B045C"
+			tasks: [{
+				id: "10AFC9DE0497E7E0"
+				type: "checkmark"
+				title: "Naturalist"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -24.0d
+			shape: "rsquare"
+			id: "71309AB2F6EB69B3"
+			tasks: [{
+				id: "194D0A8ECB8320D2"
+				type: "checkmark"
+				title: "Botania"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -17.0d
+			shape: "rsquare"
+			id: "1F6DF6DD6DDACD9B"
+			tasks: [{
+				id: "4959B724035ADEB1"
+				type: "checkmark"
+				title: "Beyond Earth"
+			}]
+		}
+		{
+			x: -17.0d
+			y: -13.5d
+			id: "3A8993AB5DFAFC15"
+			tasks: [{
+				id: "6B5405341DE4768D"
+				type: "item"
+				title: "Any #farmersdelight:tools/knives"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "farmersdelight:tools/knives"
+					}
+				}
 			}]
 		}
 	]
