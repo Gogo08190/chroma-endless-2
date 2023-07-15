@@ -8,7 +8,7 @@ onEvent('recipes', (event) => {
                 B: '#forge:storage_blocks/coal',
                 F: 'minecraft:campfire'
             },
-            id: 'quark:building/crafting/furnaces/cobblestone_furnace'
+            id: 'minecraft:furnace'
         },
         {
             output: 'quark:deepslate_furnace',

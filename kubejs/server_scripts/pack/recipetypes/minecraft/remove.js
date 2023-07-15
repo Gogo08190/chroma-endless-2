@@ -6,7 +6,8 @@ onEvent('recipes', (event) => {
       'tconstruct:common/basalt_blast_furnace',
       'blue_skies:enchanting_table_compat',
       'blue_skies:stonecutter_compat',
-      'tconstruct:common/glass/vanilla/beacon'
+      'tconstruct:common/glass/vanilla/beacon',
+      'quark:building/crafting/furnaces/cobblestone_furnace'
     ];
 
     const outputRemovals = [
