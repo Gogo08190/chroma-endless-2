@@ -66,7 +66,10 @@ onEvent('item.registry', (event) => {
       'ultimate_prediction',
       'generelized_undergarden_prediction',
       'generelized_botania_prediction',
-      'skin_of_gaia'
+      'skin_of_gaia',
+      'isolated_compressed_desh',
+      'desh_rocket_nose_cone',
+      'desh_rocket_fin'
     ];
 
     items.forEach((item) => {
