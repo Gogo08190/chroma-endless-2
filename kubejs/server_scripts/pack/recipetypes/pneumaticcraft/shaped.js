@@ -94,7 +94,7 @@ onEvent('recipes', (event) => {
                 T: 'pneumaticcraft:pressure_tube',
                 C: '#forge:ingots/compressed_iron',
                 D: 'powah:dielectric_casing',
-                F: 'ironfurnaces:iron_furnace',
+                F: 'ironfurnaces:emerald_furnace',
                 B: 'pneumaticcraft:reinforced_bricks'
             },
             id: 'pneumaticcraft:air_compressor'

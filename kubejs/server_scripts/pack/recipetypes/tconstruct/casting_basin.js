@@ -15,7 +15,7 @@ onEvent('recipes', (event) => {
           {
               fluid: 'tconstruct:scorched_stone',
               fluid_amount: 1000,
-              cast: [{ item: 'ironfurnaces:obsidian_furnace' }],
+              cast: [{ item: 'ironfurnaces:iron_furnace' }],
               cast_consumed: true,
               output: 'tconstruct:foundry_controller',
               cooling_time: 10,

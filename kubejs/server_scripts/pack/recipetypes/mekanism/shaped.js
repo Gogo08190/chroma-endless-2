@@ -20,7 +20,7 @@ onEvent('recipes', (event) => {
             key: {
                 S: '#forge:ingots/steel',
                 E: 'mekanism:basic_control_circuit',
-                F: 'ironfurnaces:netherite_furnace',
+                F: 'ironfurnaces:silver_furnace',
                 C: 'mekanism:steel_casing'
             },
             id: 'mekanism:energized_smelter'

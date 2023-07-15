@@ -56,7 +56,7 @@ onEvent('recipes', (event) => {
                 B: 'powah:capacitor_basic',
                 D: 'powah:dielectric_casing',
                 C: 'mekanism:basic_control_circuit',
-                I: 'ironfurnaces:iron_furnace'
+                I: 'ironfurnaces:gold_furnace'
             },
             id: 'powah:crafting/furnator_basic'
         },
@@ -408,7 +408,7 @@ onEvent('recipes', (event) => {
             pattern: ['PAP', 'CFC', 'PGP'],
             key: {
                 F: Item.of('powah:furnator_hardened').ignoreNBT(),
-                G: 'ironfurnaces:gold_furnace',
+                G: 'ironfurnaces:diamond_furnace',
                 P: 'powah:crystal_blazing',
                 C: 'powah:capacitor_blazing',
                 A: 'mekanism:advanced_control_circuit'
