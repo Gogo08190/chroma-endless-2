@@ -99,6 +99,7 @@ const disabledItems = [
     'beyond_earth:water_pump',
     'beyond_earth:coal_generator',
     'beyond_earth:oxygen_loader',
+    'beyond_earth_giselle_addon:electric_blast_furnace',
 
     'evilcraft:mace_of_destruction',
 
