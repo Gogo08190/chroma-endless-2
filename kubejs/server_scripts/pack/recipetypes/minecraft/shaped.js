@@ -4,7 +4,7 @@ onEvent('recipes', (event) => {
             output: 'minecraft:furnace',
             pattern: ['CCC', 'CBC', 'CFC'],
             key: {
-                C: '#forge:cobblestone',
+                C: '#forge:cobblestone/normal',
                 B: '#forge:storage_blocks/coal',
                 F: 'minecraft:campfire'
             },
