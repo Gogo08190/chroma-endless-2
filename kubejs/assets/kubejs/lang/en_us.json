@@ -245,6 +245,23 @@
   "chapter.stage.2.quest.4.description.1": "&6cThe Blast Furnace&r is the first step to do to have &9Steel Ingots&r",
   
   "chapter.stage.2.quest.5.subtitle.1": "An Immersive Crafting Table",
-  "chapter.stage.2.quest.5.description.1": "To craft &5Immserive&r first components you will have to craft this Workbench",
-  "chapter.stage.2.quest.5.description.2": "Later in the game, a more valuable recipe will be used, but for now we suggest to use that."
-}
+  "chapter.stage.2.quest.5.description.1": "To craft &5Immersive&r first components you will have to craft this Workbench",
+  "chapter.stage.2.quest.5.description.2": "Later in the game, a more valuable recipe will be used, but for now we suggest to use that.",
+
+  "chapter.stage.2.quest.6.subtitle.1": "Powerful Pliers",
+  "chapter.stage.2.quest.6.description.1": "The &9Engineer Wire Cutters&r are very helpful to craft your first &5Immersive&r press and wires",
+
+  "chapter.stage.2.quest.7.subtitle.1": "Your first &5Immersive&r Energy",
+  "chapter.stage.2.quest.7.description.1": "The &9Kinetic Dynamo&r is mainly used to hold the &6Water Wheel&r and the &6Windmill",
+  "chapter.stage.2.quest.7.description.2": "Please go to each items quest to see how to use them.",
+
+  "chapter.stage.2.quest.8.subtitle.1": "&6The Water Wheel&r",
+  "chapter.stage.2.quest.8.description.1": "It generates &c&lIF&r with water that flows around it.",
+  "chapter.stage.2.quest.8.description.2": "For optimal results direct the water in a semi-circle from the top down one side and along the bottom.",
+  "chapter.stage.2.quest.8.description.3": "You can add 2 more &5Water Wheels&r to get more energy",
+
+  "chapter.stage.2.quest.9.subtitle.1": "&6The WindMill&r",
+  "chapter.stage.2.quest.9.description.1": "This item is the first thing when it comes to &5Immersive&r energy.",
+  "chapter.stage.2.quest.9.description.2": "For optimal results, the speed depends on the space in front of it and if the airflow isn't obscured",
+  "chapter.stage.2.quest.9.description.3": "ProTip : Rain or Thunder generates more energy"
+} 
