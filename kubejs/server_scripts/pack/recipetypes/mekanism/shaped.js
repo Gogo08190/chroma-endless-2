@@ -604,6 +604,96 @@ onEvent('recipes', (event) => {
             },
             id: 'mekanism:chemical_crystallizer'
         },
+        {
+            output: 'solarpanels:advanced_solar_panel',
+            pattern: ['SSS', 'CPC', 'AEA'],
+            key: {
+                E: Item.of('mekanism:energy_tablet').ignoreNBT(),
+                S: 'solarpanels:carbone_solar_element',
+                C: 'powah:capacitor_hardened',
+                P: 'mekanismgenerators:solar_generator',
+                A: '#forge:circuits/basic'
+            },
+            id: 'solarpanels:advanced_solar_panel'
+        },
+        {
+            output: 'solarpanels:hybrid_solar_panel',
+            pattern: ['SSS', 'CPC', 'AEA'],
+            key: {
+                E: Item.of('mekanism:energy_tablet').ignoreNBT(),
+                S: 'solarpanels:hybrid_solar_element',
+                C: 'powah:capacitor_blazing',
+                P: 'solarpanels:advanced_solar_panel',
+                A: '#forge:circuits/advanced'
+            },
+            id: 'solarpanels:hybrid_solar_panel'
+        },
+        {
+            output: 'solarpanels:ultimate_hybrid_solar_panel',
+            pattern: ['SSS', 'CPC', 'AEA'],
+            key: {
+                E: Item.of('solarpanels:improved_energy_tablet').ignoreNBT(),
+                S: 'solarpanels:improved_hybrid_solar_element',
+                C: 'extendedcrafting:luminessence',
+                P: 'solarpanels:hybrid_solar_panel',
+                A: '#forge:circuits/elite'
+            },
+            id: 'solarpanels:ultimate_hybrid_solar_panel'
+        },
+        {
+            output: 'solarpanels:carbone_solar_element',
+            pattern: ['GGG', 'LLL', 'CCC'],
+            key: {
+                G: '#forge:glass_panes/black',
+                L: '#forge:dusts/lapis',
+                C: 'chroma:enriched_compressed_steel'
+            },
+            id: 'solarpanels:carbone_solar_element'
+        },
+        {
+            output: 'solarpanels:improved_hybrid_solar_element',
+            pattern: ['GGG', 'LLL', 'CCC'],
+            key: {
+                G: '#forge:glass_panes/colorless',
+                L: '#forge:dusts/lapis',
+                C: 'extendedcrafting:black_iron_slate'
+            },
+            id: 'solarpanels:improved_hybrid_solar_element'
+        },
+        {
+            output: 'solarpanels:hybrid_solar_element',
+            pattern: ['GGG', 'LLL', 'CCC'],
+            key: {
+                G: '#forge:glass_panes/colorless',
+                L: '#forge:dusts/lapis',
+                C: 'chroma:enriched_essence_of_darkness'
+            },
+            id: 'solarpanels:hybrid_solar_element'
+        },
+        {
+            output: 'solarpanels:quantum_solar_panel',
+            pattern: ['SSS', 'CPC', 'AEA'],
+            key: {
+                E: Item.of('solarpanels:quantum_energy_tablet').ignoreNBT(),
+                S: 'solarpanels:quantum_solar_element',
+                C: 'powah:capacitor_blazing',
+                P: 'solarpanels:ultimate_hybrid_solar_panel',
+                A: '#forge:circuits/ultimate'
+            },
+            id: 'solarpanels:quantum_solar_panel'
+        },
+        {
+            output: 'solarpanels:spectral_solar_panel',
+            pattern: ['SSS', 'CPC', 'AEA'],
+            key: {
+                E: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT(),
+                S: 'solarpanels:spectral_solar_element',
+                C: 'powah:capacitor_niotic',
+                P: 'solarpanels:quantum_solar_panel',
+                A: 'mekaevolution:absolute_control_circuit'
+            },
+            id: 'solarpanels:spectral_solar_panel'
+        },
     ];
 
     recipes.forEach((recipe) => {
