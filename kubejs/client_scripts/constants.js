@@ -121,4 +121,9 @@ const disabledItems = [
 
     'mininggadgets:mininggadget_simple',
     'mininggadgets:mininggadget_fancy',
+
+    'angelring:leadstone_angel_ring',
+    'angelring:hardened_angel_ring',
+    'angelring:reinforced_angel_ring',
+    'angelring:resonant_angel_ring',
 ];
