@@ -5,7 +5,7 @@
     "mna:lantern_wraith"
   ],
   "name": "entity.graveyard.wraith",
-  "name_color": "0xC1424B",
+  "name_color": "0x686868",
   "gui_scale": 0.5,
   "gui_x_offset": 0.0,
   "gui_y_offset": 0.0,
