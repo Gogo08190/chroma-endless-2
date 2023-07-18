@@ -242,8 +242,8 @@
   "chapter.stage.2.quest.3.description.1": "&6The Coke Oven&r is the first way to obtain &4Treated Wood&r with &7Creosote Oil&r",
 
   "chapter.stage.2.quest.4.subtitle.1": "Blasting expert",
-  "chapter.stage.2.quest.4.description.1": "&6cThe Blast Furnace&r is the first step to do to have &9Steel Ingots&r",
-  
+  "chapter.stage.2.quest.4.description.1": "&6The Blast Furnace&r is the first step to do to have &9Steel Ingots&r",
+
   "chapter.stage.2.quest.5.subtitle.1": "An Immersive Crafting Table",
   "chapter.stage.2.quest.5.description.1": "To craft &5Immersive&r first components you will have to craft this Workbench",
   "chapter.stage.2.quest.5.description.2": "Later in the game, a more valuable recipe will be used, but for now we suggest to use that.",
@@ -264,4 +264,4 @@
   "chapter.stage.2.quest.9.description.1": "This item is the first thing when it comes to &5Immersive&r energy.",
   "chapter.stage.2.quest.9.description.2": "For optimal results, the speed depends on the space in front of it and if the airflow isn't obscured",
   "chapter.stage.2.quest.9.description.3": "ProTip : Rain or Thunder generates more energy"
-} 
+}
