@@ -218,16 +218,31 @@
   "chapter.stage.1.quest.47.description.2": "You will be able to find any information about the mod on this book.",
 
   "chapter.stage.1.quest.48.subtitle.1": "Occult Tree of Progression",
-  "chapter.stage.1.quest.48.description.1": "&9The Occulus&r is a block that will guide you through this mod",
-  "chapter.stage.1.quest.48.description.2": "It will show you how to unlock new things and what to unlock with the Progress Tab.",
+  "chapter.stage.1.quest.48.description.1": "&9The Occulus&r is a block that will guide the player what Tier they are, what they have unlocked, and what the player needs to complete to advance to the next Tier",
+  "chapter.stage.1.quest.48.description.2": "On the left of the GUI is a list of tabs with different information. On the right of the GUI is a bar that tells the player how far they have progressed to the next Tier.",
 
   "chapter.stage.1.quest.49.subtitle.1": "A new Altar",
-  "chapter.stage.1.quest.49.description.1": "&5The Manaweaving Altar&r used to craft magical items and 9 items can be inserted.",
-  "chapter.stage.1.quest.49.description.2": "More info can be seen in the Codex Arcana.",
+  "chapter.stage.1.quest.49.description.1": "&5The Manaweaving Altar&r used to craft magical items and is capable of requiring up to 9 items and 6 Manaweaving Patterns.",
+  "chapter.stage.1.quest.49.description.2": "You can add items by right clicking with them in your hand, the order does not matter.",
+  "chapter.stage.1.quest.49.description.3": "The Manaweaving Altar also requires you to cast Mana Weaving Patterns near it using a Manaweaving wand, the order does matter.",
+  "chapter.stage.1.quest.49.description.4": "You can remove a Manaweaving Pattern in the reversed order they were place by right clicking the Altar with a Wand.",
+  "chapter.stage.1.quest.49.description.5": "You can bind a Manaweaving Wand to a specific Altar by Shift+Right Clicking with the Wand.",
+  "chapter.stage.1.quest.49.description.6": "In place of using a Manaweaving Wand Manaweave in a Bottle or a Manaweave Projector can be used instead.",
 
   "chapter.stage.1.quest.50.subtitle.1": "Crafting Spells",
+  "chapter.stage.1.quest.50.description.1": "The Inscription Table is used to create spell recipes.",
+  "chapter.stage.1.quest.50.description.2": "She has 3 slots in the top left corner of the GUI. The leftmost slot is for Arcanist Ink, the middle for Vellum, and the rightmost for Arcane Ash",
+  "chapter.stage.1.quest.50.description.3": "There are three type of spell options: Shapes, Components, and Modifiers. There are five slots in the middle of the GUI that hold spell options.",
+  "chapter.stage.1.quest.50.description.4": "A recipe can hold 1 Shape, 1 Component, and 3 Modifiers.",
+  "chapter.stage.1.quest.50.description.5": "Shapes affect how the spell is cast, such as a beam, by touch, or on one's self. Components affect what the spell does, such as fire damage, healing, or digging. Modifiers affect the properties of the spell, such as extending the range, duration, or potency.",
+  "chapter.stage.1.quest.50.description.6": "Clicking on the options adds them to the recipe; at least one shape and component must be selected.",
+  "chapter.stage.1.quest.50.description.7": "To adjust modifier settings select a modifier and click on the yellow arrows that appear to increase or lower the desired property.",
+  "chapter.stage.1.quest.50.description.8": "On the right-hand side of the GUI the complexity, mana cost, inscription table costs and required spell components are displayed.",
+  "chapter.stage.1.quest.50.description.9": "To finish a recipe click the green arrow at the top of the GUI. Recipes take time to be crafted, which is shown with a progress bar along the top. When finished the Inscription Table deposits the spell recipe in the top-right corner of the GUI.",
 
   "chapter.stage.1.quest.51.subtitle.1": "Forging Runes",
+  "chapter.stage.1.quest.51.description.1": "&5Runeforge&r is used as furnace to refine several items. But be careful with the required tier.",
+  "chapter.stage.1.quest.51.description.2": "It can be used to create unique crafting recipes like &5&lEssence Of Darkness&r from Chroma Endless 2 !",
 
   "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
