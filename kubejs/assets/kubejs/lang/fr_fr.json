@@ -110,7 +110,7 @@
     "chapter.stage.1.quest.17.subtitle.1": "Compressage du Fer",
     "chapter.stage.1.quest.17.description.1" : "Procurez vous une plaque de fer et passe à la quête suivante ! !",
 
-    "chapter.stage.1.quest.18.subtitle.1": "The Mechanical Mixer is a mechanical component that applies Mixing recipes and shapeless Crafting recipes to items in Basins.",
+    "chapter.stage.1.quest.18.subtitle.1": "The Mechanical Mixer",
     "chapter.stage.1.quest.18.description.1" : "Le mélangeur mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
     "chapter.stage.1.quest.18.description.2" : "Le mélangeur nécessite une vitesse de rotation minimale de 32 RPM (tours par minute) de sa source d'alimentation pour fonctionner. Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
     "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une recette valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
@@ -125,5 +125,250 @@
     "chapter.stage.1.quest.20.description.2" : "Cela vous donnera un &4brûleur de Blaze&r.",
 
     "chapter.stage.1.quest.21.subtitle.1": "Captureur de Blaze",
-    "chapter.stage.1.quest.21.description.1" : "N'oubliez pas d'apporter des potions de résistance au feu !"
-}
+    "chapter.stage.1.quest.21.description.1" : "N'oubliez pas d'apporter des potions de résistance au feu !",
+    
+    "chapter.stage.1.quest.22.subtitle.1": "C'est l'heure de Bronzer",
+    "chapter.stage.1.quest.22.description.1" : "Combinez un &#B87333Lingot de cuivret&r et un &#BAC4C8Lingot de Zinc&r dans un &oCreate&r &lMechanical Mixer&r et &lBassin&r (&4Chauffé&r). Ils vont fusionner et donner du&#B5A642Lingot Brass&r",
+
+    "chapter.stage.1.quest.23.subtitle.1": "Le Deployer simulater une interaction de joueur jusqu'à 2 blocs de lui",
+    "chapter.stage.1.quest.23.description.1" : "Le Deployer simule de base le clic droit. Vous pouvez mettre le clic gauche avec la Wrench de Create.",
+    "chapter.stage.1.quest.23.description.2" : "Le Deployer a 2 slots d'inventaire; l'item tenu et un extra slot interne. En plus des objets inutilisables, les objets récoltés par le Déployeur seront transférés vers l'emplacement supplémentaire pour être retirés par d'autres machines, pendant ce temps le Déployeur se bloquera. Les objets ne peuvent pas être extraits de l'emplacement supplémentaire directement par le joueur.",
+
+    "chapter.stage.1.quest.24.subtitle.1": "A Better Casing",
+    "chapter.stage.1.quest.24.description.1" : "Using the previously crafted Deployer might be a good idea...just saying",
+
+    "chapter.stage.1.quest.25.subtitle.1": "A new kind of Crafting",
+    "chapter.stage.1.quest.25.description.1" : "An array of Mechnical Crafters can be used to automate any recipe",
+    "chapter.stage.1.quest.25.description.2" : "All paths have to converge and lead to an output and that on any side of a crafter",
+
+    "chapter.stage.1.quest.26.subtitle.1": "A really useful component",
+    "chapter.stage.1.quest.26.description.1" : "Made with a circuit that you're gonna have to do 5 times,",
+    "chapter.stage.1.quest.26.description.2" : "The Precision Mechanism is going to be used in several useful recipes",
+    "chapter.stage.1.quest.26.description.3" : "Pro Tip : Making an early automation might be a good idea",
+
+    "chapter.stage.1.quest.27.subtitle.1": "Mining With Create !",
+    "chapter.stage.1.quest.27.description.1" : "First : Use an Ore Vein Finder to locate ores.",
+    "chapter.stage.1.quest.27.description.2" : "Second : Place a Drilling Machine or Fluid Extractor to harvest the ressource and put a Drill.",
+    "chapter.stage.1.quest.27.description.3" : "Last : Put some rotation and extract the results.",
+    "chapter.stage.1.quest.27.description.4" : "Pro Tip : To get more info you can press 'W' by default.",
+
+    "chapter.stage.1.quest.28.subtitle.1": "Fluid Extracting With Create",
+    "chapter.stage.1.quest.29.description.1" : "Like the Drilling find a Fluid to extract and repeat the same steps.",
+
+    "chapter.stage.1.quest.30.subtitle.1": "A better Eye",
+    "chapter.stage.1.quest.30s.description.1" : "Used to locate Ores or Fluid to extract with The Drill or The Well",
+
+    "chapter.stage.1.quest.31.subtitle.1": "Starting Tinker !",
+    "chapter.stage.1.quest.31.description.1" : "Tinker is a really useful mod ! I guess you should look the recipe to go on.",
+    "chapter.stage.1.quest.31.description.2" : "These first tables will allow you to create your first Tinker Tool !",
+
+    "chapter.stage.1.quest.32.subtitle.1": "Store Useless Parts",
+    "chapter.stage.1.quest.32.description.1" : "This special is like said useful to stock your parts that you don't use anymore.",
+
+    "chapter.stage.1.quest.33.subtitle.1": "A better, yet for now, chest",
+    "chapter.stage.1.quest.33.description.1" : "The Tinker chest can store any item in a total of 64 slots. But note that each slot can only hold 16 items.",
+
+    "chapter.stage.1.quest.34.subtitle.1": "I am Grout !",
+    "chapter.stage.1.quest.34.description.1" : "Grout is the starting of any good Tinker Smeltery",
+    "chapter.stage.1.quest.34.description.2" : "Gather some sand, gravel and clay and mix them in Create to get Grout",
+    "chapter.stage.1.quest.34.description.3" : "Don't forget to heat your mixing recipe !",
+
+    "chapter.stage.1.quest.35.subtitle.1": "Smelting  Grout",
+    "chapter.stage.1.quest.35.description.1" : "Seared Bricks are used to make the parts of the Tinker Smeltery",
+    "chapter.stage.1.quest.35.description.2" : "Go to the next quest to see which parts are going to be useful",
+
+    "chapter.stage.1.quest.36.title.1": "Melter",
+    "chapter.stage.1.quest.36.subtitle.1": "Your first 'Smeltery', The Melter !",
+    "chapter.stage.1.quest.36.description.1" : "Before making the big old Smeltery you should do The Melter",
+    "chapter.stage.1.quest.36.description.2" : "All needed parts are listed on this quest.",
+
+    "chapter.stage.1.quest.37.title.1": "Smeltery",
+    "chapter.stage.1.quest.37.subtitle.1": "The Tinker Smeltery !",
+    "chapter.stage.1.quest.37.description.1" : "As we seen sooner in the quests, seared brick is going to be needed (again)",
+    "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be usefull to make some parts !",
+
+    "chapter.stage.1.quest.38.subtitle.1": "Gold And Zinc Mix",
+
+    "chapter.stage.1.quest.39.subtitle.1": "Lead, Osmium And Uranium Mix",
+
+    "chapter.stage.1.quest.40.subtitle.1": "Cobalt And Netherite Mix",
+
+    "chapter.stage.1.quest.41.subtitle.1": "Copper, Silver And Tin Mix",
+
+    "chapter.stage.1.quest.42.subtitle.1": "Iron, Aluminum And Nickel Mix",
+
+    "chapter.stage.1.quest.43.title.1": "Basic Sieving Factory - Part 1",
+    "chapter.stage.1.quest.43.subtitle.1": "A new Create Multiblock Part One !",
+    "chapter.stage.1.quest.43.description.1": "Here are the first parts of our Custom Create Multiblock !",
+
+    "chapter.stage.1.quest.44.title.1": "Basic Sieving Factory - Part 2",
+    "chapter.stage.1.quest.44.subtitle.1": "A new Create Multiblock Part Two !",
+    "chapter.stage.1.quest.44.description.1": "Here are the second parts of our Custom Create Multiblock !",
+
+    "chapter.stage.1.quest.45.title.1": "Basic Sieving Factory",
+    "chapter.stage.1.quest.45.subtitle.1": "Sieving at it's best !",
+    "chapter.stage.1.quest.45.description.1": "This multiblock will allow you to process the resources obtained by the &6Drilling Machine&r.",
+    "chapter.stage.1.quest.45.description.2": "To power this multiblock, you will need stress and water.",
+
+    "chapter.stage.1.quest.46.subtitle.1": "Magic Paper",
+    "chapter.stage.1.quest.46.description.1": "To get &5Vellum&r simply right click on a Cauldron of Water with Leather in your hand.",
+
+    "chapter.stage.1.quest.47.subtitle.1": "Mana and Artifice's Ingame Wiki",
+    "chapter.stage.1.quest.47.description.1": "This book will guide your adventure on the &5&lMana and Artifice&r Mod",
+    "chapter.stage.1.quest.47.description.2": "You will be able to find any information about the mod on this book.",
+
+    "chapter.stage.1.quest.48.subtitle.1": "Occult Tree of Progression",
+    "chapter.stage.1.quest.48.description.1": "&9The Occulus&r is a block that will guide the player what Tier they are, what they have unlocked, and what the player needs to complete to advance to the next Tier",
+    "chapter.stage.1.quest.48.description.2": "On the left of the GUI is a list of tabs with different information. On the right of the GUI is a bar that tells the player how far they have progressed to the next Tier.",
+
+    "chapter.stage.1.quest.49.subtitle.1": "A new Altar",
+    "chapter.stage.1.quest.49.description.1": "&5The Manaweaving Altar&r used to craft magical items and is capable of requiring up to 9 items and 6 Manaweaving Patterns.",
+    "chapter.stage.1.quest.49.description.2": "You can add items by right clicking with them in your hand, the order does not matter.",
+    "chapter.stage.1.quest.49.description.3": "The Manaweaving Altar also requires you to cast Mana Weaving Patterns near it using a Manaweaving wand, the order does matter.",
+    "chapter.stage.1.quest.49.description.4": "You can remove a Manaweaving Pattern in the reversed order they were place by right clicking the Altar with a Wand.",
+    "chapter.stage.1.quest.49.description.5": "You can bind a Manaweaving Wand to a specific Altar by Shift+Right Clicking with the Wand.",
+    "chapter.stage.1.quest.49.description.6": "In place of using a Manaweaving Wand Manaweave in a Bottle or a Manaweave Projector can be used instead.",
+
+    "chapter.stage.1.quest.50.subtitle.1": "Crafting Spells",
+    "chapter.stage.1.quest.50.description.1": "The Inscription Table is used to create spell recipes.",
+    "chapter.stage.1.quest.50.description.2": "She has 3 slots in the top left corner of the GUI. The leftmost slot is for Arcanist Ink, the middle for Vellum, and the rightmost for Arcane Ash",
+    "chapter.stage.1.quest.50.description.3": "There are three type of spell options: Shapes, Components, and Modifiers. There are five slots in the middle of the GUI that hold spell options.",
+    "chapter.stage.1.quest.50.description.4": "A recipe can hold 1 Shape, 1 Component, and 3 Modifiers.",
+    "chapter.stage.1.quest.50.description.5": "Shapes affect how the spell is cast, such as a beam, by touch, or on one's self. Components affect what the spell does, such as fire damage, healing, or digging. Modifiers affect the properties of the spell, such as extending the range, duration, or potency.",
+    "chapter.stage.1.quest.50.description.6": "Clicking on the options adds them to the recipe; at least one shape and component must be selected.",
+    "chapter.stage.1.quest.50.description.7": "To adjust modifier settings select a modifier and click on the yellow arrows that appear to increase or lower the desired property.",
+    "chapter.stage.1.quest.50.description.8": "On the right-hand side of the GUI the complexity, mana cost, inscription table costs and required spell components are displayed.",
+    "chapter.stage.1.quest.50.description.9": "To finish a recipe click the green arrow at the top of the GUI. Recipes take time to be crafted, which is shown with a progress bar along the top. When finished the Inscription Table deposits the spell recipe in the top-right corner of the GUI.",
+
+    "chapter.stage.1.quest.51.subtitle.1": "Forging Runes",
+    "chapter.stage.1.quest.51.description.1": "&5Runeforge&r is used as furnace to refine several items. But be careful with the required tier.",
+    "chapter.stage.1.quest.51.description.2": "It can be used to create unique crafting recipes like &5&lEssence Of Darkness&r from Chroma Endless 2 !",
+
+    "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+    "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer",
+    "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r",
+    "chapter.stage.2.quest.1.description.2": "So we suggest that you should keep it somewhere that you will remember !",
+
+    "chapter.stage.2.quest.2.subtitle.1": "Build an &5Alloy Kiln",
+    "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really useful to create early alloys",
+
+    "chapter.stage.2.quest.3.subtitle.1": "Build a &6Coke Oven&r",
+    "chapter.stage.2.quest.3.description.1": "&6The Coke Oven&r is the first way to obtain &4Treated Wood&r with &7Creosote Oil&r",
+
+    "chapter.stage.2.quest.4.subtitle.1": "Blasting expert",
+    "chapter.stage.2.quest.4.description.1": "&6The Blast Furnace&r is the first step to do to have &9Steel Ingots&r",
+
+    "chapter.stage.2.quest.5.subtitle.1": "An Immersive Crafting Table",
+    "chapter.stage.2.quest.5.description.1": "To craft &5Immersive&r first components you will have to craft this Workbench",
+    "chapter.stage.2.quest.5.description.2": "Later in the game, a more valuable recipe will be used, but for now we suggest to use that.",
+
+    "chapter.stage.2.quest.6.subtitle.1": "Powerful Pliers",
+    "chapter.stage.2.quest.6.description.1": "The &9Engineer Wire Cutters&r are very helpful to craft your first &5Immersive&r press and wires",
+
+    "chapter.stage.2.quest.7.subtitle.1": "Your first &5Immersive&r Energy",
+    "chapter.stage.2.quest.7.description.1": "The &9Kinetic Dynamo&r is mainly used to hold the &6Water Wheel&r and the &6Windmill",
+    "chapter.stage.2.quest.7.description.2": "Please go to each items quest to see how to use them.",
+
+    "chapter.stage.2.quest.8.subtitle.1": "&6The Water Wheel&r",
+    "chapter.stage.2.quest.8.description.1": "It generates &c&lIF&r with water that flows around it.",
+    "chapter.stage.2.quest.8.description.2": "For optimal results direct the water in a semi-circle from the top down one side and along the bottom.",
+    "chapter.stage.2.quest.8.description.3": "You can add 2 more &5Water Wheels&r to get more energy",
+
+    "chapter.stage.2.quest.9.subtitle.1": "&6The WindMill&r",
+    "chapter.stage.2.quest.9.description.1": "This item is the first thing when it comes to &5Immersive&r energy.",
+    "chapter.stage.2.quest.9.description.2": "For optimal results, the speed depends on the space in front of it and if the airflow isn't obscured",
+    "chapter.stage.2.quest.9.description.3": "ProTip : Rain or Thunder generates more energy",
+
+    "chapter.stage.2.quest.10.subtitle.1": "&6The MetalPress&r",
+    "chapter.stage.2.quest.10.description.1": "This is mainly used to shape any metal with the mold placed on it's piston.",
+    "chapter.stage.2.quest.10.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+    "chapter.stage.2.quest.10.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+    "chapter.stage.2.quest.11.subtitle.1": "A Better and Powered &9Coke Oven&r",
+    "chapter.stage.2.quest.11.description.1": "Getting tired of using coal to get coal coke? Here is your chance.",
+    
+    "chapter.stage.2.quest.12.subtitle.1": "&6The Mixer&r",
+    "chapter.stage.2.quest.12.description.1": "This is mainly used to mix an item with a liquid.",
+    "chapter.stage.2.quest.12.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+    "chapter.stage.2.quest.12.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+    "chapter.stage.2.quest.13.subtitle.1": "Stocking &cIF&r",
+    "chapter.stage.2.quest.13.description.1": "Accumulators can stock &cIF&r.",
+    "chapter.stage.2.quest.13.description.2": "You can use the hammer to adjust the configuration of each side.",
+
+    "chapter.stage.2.quest.14.subtitle.1": "&6The Fermenter&r",
+    "chapter.stage.2.quest.14.description.1": "This is mainly used to distill any growing food into &7&lEthanol&r",
+    "chapter.stage.2.quest.14.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+    "chapter.stage.2.quest.14.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+    "chapter.stage.2.quest.15.subtitle.1": "&6The Refinery&r",
+    "chapter.stage.2.quest.15.description.1": "This is mainly used to mix two liquids together to have a better one",
+    "chapter.stage.2.quest.15.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+    "chapter.stage.2.quest.15.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+    "chapter.stage.2.quest.16.subtitle.1": "Using &6The Refinery&r",
+    "chapter.stage.2.quest.16.description.1": "Getting this liquid will allow you to advance further in this stage.",
+
+    "chapter.stage.2.quest.17.subtitle.1": "&6The Bottling machine&r",
+    "chapter.stage.2.quest.17.description.1": "This is mainly used to fill any item with fluid",
+    "chapter.stage.2.quest.17.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+    "chapter.stage.2.quest.17.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+    "chapter.stage.2.quest.18.subtitle.1": "Be an Energistic Engineer",
+    "chapter.stage.2.quest.18.description.1": "Charging stuff is cool but you have to do this first.",
+
+    "chapter.stage.2.quest.19.subtitle.1": "Meterorite Hunter",
+    "chapter.stage.2.quest.19.description.1": "Meteorites can be found anywhere, this will help you find one.",
+
+    "chapter.stage.2.quest.20.subtitle.1": "Pressing Silicon",
+
+    "chapter.stage.2.quest.21.subtitle.1": "Pressing Gold",
+
+    "chapter.stage.2.quest.22.subtitle.1": "Pressing Diamond",
+
+    "chapter.stage.2.quest.23.subtitle.1": "Pressing Certus Quartz",
+
+    "chapter.stage.2.quest.24.subtitle.1": "Printing Silicon",
+
+    "chapter.stage.2.quest.25.subtitle.1": "Printing Gold",
+
+    "chapter.stage.2.quest.26.subtitle.1": "Printing Diamond",
+
+    "chapter.stage.2.quest.27.subtitle.1": "Printing Certus Quartz",
+
+    "chapter.stage.2.quest.28.subtitle.1": "&6The Arc Furnace&r",
+    "chapter.stage.2.quest.28.description.1": "This is mainly used to smelt advanced items and getting processors. ",
+    "chapter.stage.2.quest.28.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+    "chapter.stage.2.quest.28.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+    "chapter.stage.2.quest.29.subtitle.1": "Calculating Press",
+
+    "chapter.stage.2.quest.30.subtitle.1": "Engineering Press",
+
+    "chapter.stage.2.quest.31.subtitle.1": "Logic Press",
+
+    "chapter.stage.2.quest.32.subtitle.1": "Charging Certus",
+    "chapter.stage.2.quest.32.description.1": "This block is mainly used to charge Certus Quartz with energy",
+
+    "chapter.stage.2.quest.33.subtitle.1": "Wall of Projection",
+
+    "chapter.stage.2.quest.34.subtitle.1": "New way of Crafting",
+
+    "chapter.stage.2.quest.35.subtitle.1": "Accepting Other Energy",
+    "chapter.stage.2.quest.35.description.1": "The Energy Acceptor transforms any other energy into Applied Energy (AE).",
+
+    "chapter.stage.2.quest.36.subtitle.1": "Let Crystals Grow",
+    "chapter.stage.2.quest.36.description.1": "Accelerates the growing speed of any Applied seeds",
+
+    "chapter.stage.2.quest.37.subtitle.1": "Early Storage",
+    "chapter.stage.2.quest.37.description.1": "By placing this on any storage, you will be able to manage it's inventory with Applied",
+    "chapter.stage.2.quest.37.description.2": "Using Me Glass Cables might be a good idea",
+
+    "chapter.stage.2.quest.38.subtitle.1": "Viewing Items",
+    "chapter.stage.2.quest.38.description.1": "This is a panel that can be able to see all items in your Applied Storages",
+
+    "chapter.stage.2.quest.39.subtitle.1": "Applied Crafting",
+    "chapter.stage.2.quest.39.description.1": "Simply add the fact that you can now craft with those Items now"
+    }
+
