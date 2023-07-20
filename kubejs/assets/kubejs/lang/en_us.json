@@ -278,5 +278,102 @@
   "chapter.stage.2.quest.9.subtitle.1": "&6The WindMill&r",
   "chapter.stage.2.quest.9.description.1": "This item is the first thing when it comes to &5Immersive&r energy.",
   "chapter.stage.2.quest.9.description.2": "For optimal results, the speed depends on the space in front of it and if the airflow isn't obscured",
-  "chapter.stage.2.quest.9.description.3": "ProTip : Rain or Thunder generates more energy"
+  "chapter.stage.2.quest.9.description.3": "ProTip : Rain or Thunder generates more energy",
+
+  "chapter.stage.2.quest.10.subtitle.1": "&6The MetalPress&r",
+  "chapter.stage.2.quest.10.description.1": "This is mainly used to shape any metal with the mold placed on it's piston.",
+  "chapter.stage.2.quest.10.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.10.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+  "chapter.stage.2.quest.11.subtitle.1": "A Better and Powered &9Coke Oven&r",
+  "chapter.stage.2.quest.11.description.1": "Getting tired of using coal to get coal coke? Here is your chance.",
+  
+  "chapter.stage.2.quest.12.subtitle.1": "&6The Mixer&r",
+  "chapter.stage.2.quest.12.description.1": "This is mainly used to mix an item with a liquid.",
+  "chapter.stage.2.quest.12.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.12.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+  "chapter.stage.2.quest.13.subtitle.1": "Stocking &cIF&r",
+  "chapter.stage.2.quest.13.description.1": "Accumulators can stock &cIF&r.",
+  "chapter.stage.2.quest.13.description.2": "You can use the hammer to adjust the configuration of each side.",
+
+  "chapter.stage.2.quest.14.subtitle.1": "&6The Fermenter&r",
+  "chapter.stage.2.quest.14.description.1": "This is mainly used to distill any growing food into &7&lEthanol&r",
+  "chapter.stage.2.quest.14.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.14.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+  "chapter.stage.2.quest.15.subtitle.1": "&6The Refinery&r",
+  "chapter.stage.2.quest.15.description.1": "This is mainly used to mix two liquids together to have a better one",
+  "chapter.stage.2.quest.15.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.15.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+  "chapter.stage.2.quest.16.subtitle.1": "Using &6The Refinery&r",
+  "chapter.stage.2.quest.16.description.1": "Getting this liquid will allow you to advance further in this stage.",
+
+  "chapter.stage.2.quest.17.subtitle.1": "&6The Bottling machine&r",
+  "chapter.stage.2.quest.17.description.1": "This is mainly used to fill any item with fluid",
+  "chapter.stage.2.quest.17.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.17.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+  "chapter.stage.2.quest.18.subtitle.1": "Be an Energistic Engineer",
+  "chapter.stage.2.quest.18.description.1": "Charging stuff is cool but you have to do this first.",
+
+  "chapter.stage.2.quest.19.subtitle.1": "Meterorite Hunter",
+  "chapter.stage.2.quest.19.description.1": "Meteorites can be found anywhere, this will help you find one.",
+
+  "chapter.stage.2.quest.20.subtitle.1": "Pressing Silicon",
+
+  "chapter.stage.2.quest.21.subtitle.1": "Pressing Gold",
+
+  "chapter.stage.2.quest.22.subtitle.1": "Pressing Diamond",
+
+  "chapter.stage.2.quest.23.subtitle.1": "Pressing Certus Quartz",
+
+  "chapter.stage.2.quest.24.subtitle.1": "Printing Silicon",
+
+  "chapter.stage.2.quest.25.subtitle.1": "Printing Gold",
+
+  "chapter.stage.2.quest.26.subtitle.1": "Printing Diamond",
+
+  "chapter.stage.2.quest.27.subtitle.1": "Printing Certus Quartz",
+
+  "chapter.stage.2.quest.28.subtitle.1": "&6The Arc Furnace&r",
+  "chapter.stage.2.quest.28.description.1": "This is mainly used to smelt advanced items and getting processors. ",
+  "chapter.stage.2.quest.28.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.28.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+  "chapter.stage.2.quest.29.subtitle.1": "Calculating Press",
+
+  "chapter.stage.2.quest.30.subtitle.1": "Engineering Press",
+
+  "chapter.stage.2.quest.31.subtitle.1": "Logic Press",
+
+  "chapter.stage.2.quest.32.subtitle.1": "Charging Certus",
+  "chapter.stage.2.quest.32.description.1": "This block is mainly used to charge Certus Quartz with energy",
+
+  "chapter.stage.2.quest.33.subtitle.1": "Wall of Projection",
+
+  "chapter.stage.2.quest.34.subtitle.1": "New way of Crafting",
+
+  "chapter.stage.2.quest.35.subtitle.1": "Accepting Other Energy",
+  "chapter.stage.2.quest.35.description.1": "The Energy Acceptor transforms any other energy into Applied Energy (AE).",
+
+  "chapter.stage.2.quest.36.subtitle.1": "Let Crystals Grow",
+  "chapter.stage.2.quest.36.description.1": "Accelerates the growing speed of any Applied seeds",
+
+  "chapter.stage.2.quest.37.subtitle.1": "Early Storage",
+  "chapter.stage.2.quest.37.description.1": "By placing this on any storage, you will be able to manage it's inventory with Applied",
+  "chapter.stage.2.quest.37.description.2": "Using Me Glass Cables might be a good idea",
+
+  "chapter.stage.2.quest.38.subtitle.1": "Viewing Items",
+  "chapter.stage.2.quest.38.description.1": "This is a panel that can be able to see all items in your Applied Storages",
+
+  "chapter.stage.2.quest.39.subtitle.1": "Applied Crafting",
+  "chapter.stage.2.quest.39.description.1": "Simply add the fact that you can now craft with those Items now"
 }
+
+
+
+
+
+
