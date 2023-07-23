@@ -722,7 +722,27 @@
 			x: -10.5d
 			y: 19.0d
 			subtitle: "{chapter.stage.1.quest.50.subtitle.1}"
+			description: [
+				"{chapter.stage.1.quest.50.description.1}"
+				""
+				"{chapter.stage.1.quest.50.description.2}"
+				""
+				"{chapter.stage.1.quest.50.description.3}"
+				""
+				"{chapter.stage.1.quest.50.description.4}"
+				""
+				"{chapter.stage.1.quest.50.description.5}"
+				""
+				"{chapter.stage.1.quest.50.description.6}"
+				""
+				"{chapter.stage.1.quest.50.description.7}"
+				""
+				"{chapter.stage.1.quest.50.description.8}"
+				""
+				"{chapter.stage.1.quest.50.description.9}"
+			]
 			dependencies: ["44677FAB528C2D42"]
+			min_width: 300
 			id: "377DB2567C732682"
 			tasks: [{
 				id: "4E4EE0CB7E8F1786"
@@ -739,8 +759,17 @@
 				"{chapter.stage.1.quest.49.description.1}"
 				""
 				"{chapter.stage.1.quest.49.description.2}"
+				""
+				"{chapter.stage.1.quest.49.description.3}"
+				""
+				"{chapter.stage.1.quest.49.description.4}"
+				""
+				"{chapter.stage.1.quest.49.description.5}"
+				""
+				"{chapter.stage.1.quest.49.description.6}"
 			]
 			dependencies: ["06AB00266C840215"]
+			min_width: 300
 			id: "44677FAB528C2D42"
 			tasks: [{
 				id: "2B226DB52047FC73"
@@ -1008,6 +1037,11 @@
 			y: 18.5d
 			shape: "gear"
 			subtitle: "{chapter.stage.1.quest.51.subtitle.1}"
+			description: [
+				"{chapter.stage.1.quest.51.description.1}"
+				""
+				"{chapter.stage.1.quest.51.description.2}"
+			]
 			dependencies: ["44677FAB528C2D42"]
 			id: "074364154FA6B832"
 			tasks: [{

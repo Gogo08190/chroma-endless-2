@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 1
 	filename: "ore"
-	title: "Ore(mysterBoy en cour)"
+	title: "Ore"
 	icon: "minecraft:raw_iron"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false

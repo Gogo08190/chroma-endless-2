@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 2
 	filename: "jardiland"
-	title: "Jardiland(mysterBoy en cour)"
+	title: "Jardiland"
 	icon: "cookingforblockheads:cooking_table"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -5553,6 +5553,64 @@
 					Count: 1
 					tag: {
 						value: "farmersdelight:tools/knives"
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -20.5d
+			id: "59EDFEEF8847BC0B"
+			tasks: [{
+				id: "4EE8D4067E3A41E4"
+				type: "item"
+				item: "pizzacraft:red_pizza_bag"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -20.5d
+			id: "0B7EE439B45FD15B"
+			tasks: [{
+				id: "4F5A6867A5E567AA"
+				type: "item"
+				item: {
+					id: "pizzacraft:rolling_pin"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -14.5d
+			y: -19.5d
+			id: "5CB3F39EADF8FB70"
+			tasks: [{
+				id: "682A8991D126ACFA"
+				type: "item"
+				item: {
+					id: "pizzacraft:stone_knife"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -19.5d
+			id: "2476196E21C6EFBB"
+			tasks: [{
+				id: "6A2384648B017FD5"
+				type: "item"
+				item: {
+					id: "pizzacraft:stone_pizza_peel"
+					Count: 1
+					tag: {
+						Damage: 0
 					}
 				}
 			}]
