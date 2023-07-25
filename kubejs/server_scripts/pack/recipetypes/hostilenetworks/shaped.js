@@ -76,7 +76,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: Item.of('undergarden:wigglewood_sapling', 8),
-            pattern: [' GG', ' GG', 'G  '],
+            pattern: [' GG', ' G ', 'G G'],
             key: {
                 G: 'chroma:generalized_undergarden_prediction',
             },
