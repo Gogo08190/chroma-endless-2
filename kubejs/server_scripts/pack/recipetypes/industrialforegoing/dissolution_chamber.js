@@ -290,6 +290,82 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'biggerreactors:crafting/ludicrite_block_enderium'
         },
+        {
+            inputs: [
+                'industrialforegoing:plastic',
+                'industrialforegoing:machine_frame_simple',
+                'industrialforegoing:plastic',
+                'mekaevolution:absolute_control_circuit',
+                'mekaevolution:absolute_control_circuit',
+                'beyond_earth:desh_ingot',
+                'thermal:lumium_gear',
+                'beyond_earth:desh_ingot'
+            ],
+            inputFluid: 'industrialforegoing:pink_slime',
+            inputFluidAmount: 500,
+            processingTime: 300,
+            outputItem: { item: 'industrialforegoing:machine_frame_advanced', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'industrialforegoing:dissolution_chamber/advanced_machine_frame'
+        },
+        {
+            inputs: [
+                'industrialforegoing:plastic',
+                'mekaevolution:plasma_pickaxe',
+                'industrialforegoing:plastic',
+                'beyond_earth:compressed_desh',
+                'beyond_earth:compressed_desh',
+                'chroma:absolute_alloy',
+                'industrialforegoing:machine_frame_advanced',
+                'chroma:absolute_alloy'
+            ],
+            inputFluid: 'mekanism:lithium',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'industrialforegoing:ore_laser_base', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'industrialforegoing:ore_laser_base'
+        },
+        {
+            inputs: [
+                'industrialforegoing:plastic',
+                'mekanism:ultimate_fluid_tank',
+                'industrialforegoing:plastic',
+                'beyond_earth:compressed_desh',
+                'beyond_earth:compressed_desh',
+                'chroma:absolute_alloy',
+                'industrialforegoing:machine_frame_advanced',
+                'chroma:absolute_alloy'
+            ],
+            inputFluid: 'mekanism:lithium',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'industrialforegoing:fluid_laser_base', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'industrialforegoing:fluid_laser_base'
+        },
+        {
+            inputs: [
+                'industrialforegoing:plastic',
+                'mekaevolution:plasma_sword',
+                'industrialforegoing:plastic',
+                'mob_grinding_utils:saw',
+                'mob_grinding_utils:saw',
+                'solarpanels:spectral_energy_tablet',
+                'industrialforegoing:machine_frame_advanced',
+                'solarpanels:spectral_energy_tablet'
+            ],
+            inputFluid: 'industrialforegoing:pink_slime',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'industrialforegoing:mob_crusher', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'industrialforegoing:mob_crusher'
+        },
     ];
 
     recipes.forEach((recipe) => {

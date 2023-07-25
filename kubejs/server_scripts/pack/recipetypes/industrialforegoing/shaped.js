@@ -383,8 +383,259 @@ onEvent('recipes', (event) => {
           },
           id: 'industrialforegoing:fermentation_station'
       },
-
-
+      {
+        output: 'industrialforegoing:laser_drill',
+          pattern: ['PLP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'lazierae2:logic_unit',
+              I: '#forge:ingots/ludicrite',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: '#forge:gems/resonating',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:laser_drill'
+      },
+      {
+        output: 'industrialforegoing:fluid_sieving_machine',
+          pattern: ['PLP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'industrialforegoing:pink_slime',
+              I: 'minecraft:iron_bars',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: '#forge:gears/constantan',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:fluid_sieving_machine'
+      },
+      {
+        output: 'industrialforegoing:infinity_charger',
+          pattern: ['PPP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              I: 'mekanism:ultimate_induction_provider',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: '#beyond_earth:compresseds/desh',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:infinity_charger'
+      },
+      {
+        output: 'industrialforegoing:material_stonework_factory',
+          pattern: ['PLP', 'JFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'rftoolsutility:crafter3',
+              I: 'industrialforegoing:resourceful_furnace',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: '#forge:ingots/pink_slime',
+              J: Item.of('mekaevolution:plasma_pickaxe').ignoreNBT(),
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:material_stonework_factory'
+      },
+      {
+        output: 'industrialforegoing:stasis_chamber',
+          pattern: ['PLP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'rftoolsbuilder:shield_block4',
+              I: '#beyond_earth:compresseds/desh',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:supra_catalyst',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:stasis_chamber'
+      },
+      {
+        output: 'industrialforegoing:washing_factory',
+          pattern: ['PLP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'industrialforegoing:meat_feeder',
+              I: 'industrialforegoing:pity_black_hole_tank',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: '#forge:ingots/pink_slime',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:washing_factory'
+      },
+      {
+        output: 'industrialforegoing:mob_duplicator',
+          pattern: ['PLP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'pneumaticcraft:spawner_core',
+              I: 'forbidden_arcanus:quantum_catcher',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'botanicalmachinery:mana_emerald',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mob_duplicator'
+      },
+      {
+        output: 'industrialforegoing:potion_brewer',
+          pattern: ['PLP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'create:mechanical_mixer',
+              I: 'botania:brewery',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: '#forge:gears/lumium',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:potion_brewer'
+      },
+      {
+        output: 'industrialforegoing:enchantment_applicator',
+          pattern: ['PPP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              I: 'minecraft:anvil',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'forbidden_arcanus:xpetrified_orb',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:enchantment_applicator'
+      },
+      {
+        output: 'industrialforegoing:enchantment_extractor',
+          pattern: ['PLP', 'IFI', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'mna:disenchanter',
+              I: 'tombstone:book_of_disenchantment',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'forbidden_arcanus:xpetrified_orb',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:enchantment_extractor'
+      },
+      {
+        output: 'industrialforegoing:enchantment_sorter',
+          pattern: ['PLP', 'IFJ', 'CTC'],
+          key: {
+              P: 'industrialforegoing:plastic',
+              L: 'forbidden_arcanus:xpetrified_orb',
+              I: 'minecraft:book',
+              J: Item.of('minecraft:enchanted_book').ignoreNBT(),
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: '#mekanism:alloys/reinforced',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:enchantment_sorter'
+      },
+      {
+        output: 'industrialforegoing:mycelial_slimey',
+          pattern: ['SSS', 'SFS', 'CTC'],
+          key: {
+              S: 'minecraft:slime_block',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_slimey'
+      },
+      {
+        output: 'industrialforegoing:mycelial_explosive',
+          pattern: ['SSS', 'SFS', 'CTC'],
+          key: {
+              S: 'minecraft:tnt',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_explosive'
+      },
+      {
+        output: 'industrialforegoing:mycelial_death',
+          pattern: ['ABA', 'SFS', 'CTC'],
+          key: {
+              S: 'minecraft:bone_block',
+              A: 'minecraft:rotten_flesh',
+              B: 'minecraft:wither_skeleton_skull',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_death'
+      },
+      {
+        output: 'industrialforegoing:mycelial_magma',
+          pattern: ['SBS', 'SFS', 'CTC'],
+          key: {
+              S: 'minecraft:lava_bucket',
+              B: '#forge:storage_blocks/redstone',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_magma'
+      },
+      {
+        output: 'industrialforegoing:mycelial_disenchantment',
+          pattern: ['SBS', 'SFS', 'CTC'],
+          key: {
+              S: 'minecraft:book',
+              B: 'minecraft:grindstone',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_disenchantment'
+      },
+      {
+        output: 'industrialforegoing:mycelial_ender',
+          pattern: ['SBS', 'SFS', 'CTC'],
+          key: {
+              S: 'minecraft:ender_pearl',
+              B: 'minecraft:ender_eye',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_ender'
+      },
+      {
+        output: 'industrialforegoing:mycelial_rocket',
+          pattern: ['SBS', 'SFS', 'CTC'],
+          key: {
+              S: 'minecraft:gunpowder',
+              B: 'minecraft:paper',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_rocket'
+      },
+      {
+        output: 'industrialforegoing:mycelial_potion',
+          pattern: ['SBS', 'AFA', 'CTC'],
+          key: {
+              S: 'minecraft:nether_wart',
+              A: 'minecraft:blaze_powder',
+              B: 'minecraft:brewing_stand',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_potion'
+      },
+      {
+        output: 'industrialforegoing:mycelial_crimed',
+          pattern: ['SBD', 'AFA', 'CTC'],
+          key: {
+              S: 'minecraft:crimson_fungus',
+              A: 'minecraft:nether_wart_block',
+              B: 'minecraft:shroomlight',
+              D: 'minecraft:warped_fungus',
+              F: '#industrialforegoing:machine_frame/advanced',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_crimed'
+      },
     ];
 
     recipes.forEach((recipe) => {
