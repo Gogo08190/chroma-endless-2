@@ -717,4 +717,373 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}nebula_extractor_tier_1`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHGF",
+        "BDEDB",
+        "ABIBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:aura_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:dreamwood"
+        },
+        "F": {
+          "item": "botania:natura_pylon"
+        },
+        "G": {
+          "item": "botania:glimmering_livingwood"
+        },
+        "H": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "I": {
+          "item": "botania:alfheim_portal"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:alfheim_market"
+      }
+    }
+  ).id('botanicalmachinery:alfheim_market')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHIF",
+        "BDJDB",
+        "ABKBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:aura_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:mana_pearl"
+        },
+        "F": {
+          "item": "botania:corporea_spark_master"
+        },
+        "G": {
+          "item": "botania:manasteel_ingot"
+        },
+        "H": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "I": {
+          "item": "botania:mana_diamond"
+        },
+        "J": {
+          "item": "botania:terrasteel_ingot"
+        },
+        "K": {
+          "item": "botania:terra_plate"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:industrial_agglomeration_factory"
+      }
+    }
+  ).id('botanicalmachinery:industrial_agglomeration_factory')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FEGEF",
+        "BDEDB",
+        "ABHBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:mana_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:fabulous_pool"
+        },
+        "F": {
+          "item": "botania:dragonstone"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "H": {
+          "item": "botanicalmachinery:mana_emerald_block"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:mana_battery"
+      }
+    }
+  ).id('botanicalmachinery:mana_battery')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHGF",
+        "BDIDB",
+        "ABJBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:aura_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:dandelifeon"
+        },
+        "F": {
+          "item": "botania:magenta_petal_block"
+        },
+        "G": {
+          "item": "botania:hydroangeas"
+        },
+        "H": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "I": {
+          "item": "industrialforegoing:common_black_hole_tank"
+        },
+        "J": {
+          "item": "botania:apothecary_default"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:mechanical_apothecary"
+      }
+    }
+  ).id('botanicalmachinery:mechanical_apothecary')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FEGEF",
+        "BDEDB",
+        "ABHBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:aura_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:flask"
+        },
+        "F": {
+          "item": "botania:brewery"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "H": {
+          "item": "botania:blaze_block"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:mechanical_brewery"
+      }
+    }
+  ).id('botanicalmachinery:mechanical_brewery')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHGF",
+        "BDEDB",
+        "ABIBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:aura_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:livingwood_log"
+        },
+        "F": {
+          "item": "botania:avatar"
+        },
+        "G": {
+          "item": "botania:livingrock"
+        },
+        "H": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "I": {
+          "item": "botania:floating_pure_daisy"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:mechanical_daisy"
+      }
+    }
+  ).id('botanicalmachinery:mechanical_daisy')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FEGEH",
+        "BDEDB",
+        "ABIBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:aura_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:fabulous_pool"
+        },
+        "F": {
+          "item": "botania:alchemy_catalyst"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "H": {
+          "item": "botania:conjuration_catalyst"
+        },
+        "I": {
+          "item": "botania:corporea_spark_master"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:mechanical_mana_pool"
+      }
+    }
+  ).id('botanicalmachinery:mechanical_mana_pool')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHIF",
+        "BDJDB",
+        "ABKBA"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:gaia_ingot"
+        },
+        "B": {
+          "item": "chroma:skin_of_gaia"
+        },
+        "C": {
+          "item": "botania:aura_ring_greater"
+        },
+        "D": {
+          "item": "botania:elementium_ingot"
+        },
+        "E": {
+          "item": "botania:rune_water"
+        },
+        "F": {
+          "item": "botania:rune_envy"
+        },
+        "G": {
+          "item": "botania:rune_fire"
+        },
+        "H": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "I": {
+          "item": "botania:rune_air"
+        },
+        "J": {
+          "item": "botania:rune_earth"
+        },
+        "K": {
+          "item": "botania:runic_altar"
+        }
+      },
+      "result": {
+        "item": "botanicalmachinery:mechanical_runic_altar"
+      }
+    }
+  ).id('botanicalmachinery:mechanical_runic_altar')
 });
