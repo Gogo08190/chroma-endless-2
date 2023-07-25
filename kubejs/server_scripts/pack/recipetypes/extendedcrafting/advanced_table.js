@@ -1086,4 +1086,49 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('botanicalmachinery:mechanical_runic_altar')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAA",
+        "AABAA",
+        "CBDBE",
+        "FGBHF",
+        "FFIFF"
+      ],
+      "key": {
+        "A": {
+          "item": "botania:elementium_ingot"
+        },
+        "B": {
+          "item": "mythicbotany:mana_collector"
+        },
+        "C": {
+          "item": "botania:rune_spring"
+        },
+        "D": {
+          "item": "botania:terra_plate"
+        },
+        "E": {
+          "item": "botania:rune_autumn"
+        },
+        "F": {
+          "item": "botania:glimmering_dreamwood"
+        },
+        "G": {
+          "item": "botania:rune_summer"
+        },
+        "H": {
+          "item": "botania:rune_winter"
+        },
+        "I": {
+          "item": "mythicbotany:asgard_rune"
+        }
+      },
+      "result": {
+        "item": "mythicbotany:mana_infuser"
+      }
+    }
+  ).id('mythicbotany:mana_infuser')
 });

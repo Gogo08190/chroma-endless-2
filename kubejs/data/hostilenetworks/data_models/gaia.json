@@ -29,6 +29,42 @@
     {
       "item": "botania:blacker_lotus",
       "count": 2
+    },
+    {
+      "item": "mythicbotany:nidavellir_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:niflheim_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:muspelheim_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:joetunheim_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:midgard_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:alfheim_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:vanaheim_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:asgard_rune",
+      "count": 1
+    },
+    {
+      "item": "mythicbotany:helheim_rune",
+      "count": 1
     }
   ],
   "tier_data": [
