@@ -366,6 +366,63 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'industrialforegoing:mob_crusher'
         },
+        {
+            inputs: [
+                'mekanism:hdpe_sheet',
+                'industrialforegoing:mob_imprisonment_tool',
+                'mekanism:hdpe_sheet',
+                'upgradednetherite:ender_upgraded_netherite_ingot',
+                'upgradednetherite:ender_upgraded_netherite_ingot',
+                'mekaevolution:absolute_control_circuit',
+                'extendedcrafting:redstone_ingot',
+                'mekaevolution:absolute_control_circuit'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 500,
+            processingTime: 300,
+            outputItem: { item: 'hostilenetworks:blank_data_model', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'hostilenetworks:framework'
+        },
+        {
+            inputs: [
+                'ae2:silicon',
+                'powah:crystal_niotic',
+                'ae2:silicon',
+                'minecraft:clay_ball',
+                'minecraft:clay_ball',
+                'ae2:silicon',
+                'powah:crystal_niotic',
+                'ae2:silicon'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 125,
+            processingTime: 300,
+            outputItem: { item: 'hostilenetworks:empty_prediction', count: 16 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'hostilenetworks:matrix'
+        },
+        {
+            inputs: [
+                'minecraft:polished_blackstone',
+                'computercraft:computer_advanced',
+                'minecraft:polished_blackstone',
+                'lazierae2:parallel_processor',
+                'lazierae2:parallel_processor',
+                'solarpanels:spectral_energy_tablet',
+                'industrialforegoing:machine_frame_advanced',
+                'solarpanels:spectral_energy_tablet',
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'hostilenetworks:sim_chamber', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'hostilenetworks:sim_chamber'
+        },
     ];
 
     recipes.forEach((recipe) => {

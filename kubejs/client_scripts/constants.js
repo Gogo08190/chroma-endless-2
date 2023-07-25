@@ -59,7 +59,8 @@ const itemsToHide = [
     'immersivepetroleum:crudeoil_bucket',
     'thermal:crude_oil_bucket',
     'powah:capacitor_basic_tiny',
-    'tconstruct:honey_bucket'
+    'tconstruct:honey_bucket',
+    'hostilenetworks:twilight_prediction'
 ];
 
 const recipesToHide = [

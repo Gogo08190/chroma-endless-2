@@ -406,4 +406,41 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('lazierae2:universal_press')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDE",
+        "FGF"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:polished_blackstone"
+        },
+        "B": {
+          "item": "upgradednetherite:corrupt_upgraded_netherite_ingot"
+        },
+        "C": {
+          "item": "hostilenetworks:overworld_prediction"
+        },
+        "D": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "E": {
+          "item": "hostilenetworks:end_prediction"
+        },
+        "F": {
+          "item": "solarpanels:spectral_energy_tablet"
+        },
+        "G": {
+          "item": "hostilenetworks:nether_prediction"
+        }
+      },
+      "result": {
+        "item": "hostilenetworks:loot_fabricator"
+      }
+    }
+  ).id('hostilenetworks:loot_fabricator')
 });
