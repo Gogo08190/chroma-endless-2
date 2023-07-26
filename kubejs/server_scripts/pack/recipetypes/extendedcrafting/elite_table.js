@@ -388,4 +388,52 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('alchemistry:fission_chamber_controller')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDCBA",
+        "BEFGFEB",
+        "CFGHGFC",
+        "DGHIHGD",
+        "CFGHGFC",
+        "BEFGFEB",
+        "ABCDCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "powah:reactor_niotic"
+        },
+        "B": {
+          "item": "powah:capacitor_spirited"
+        },
+        "C": {
+          "item": "chroma:dielectric_paste_block"
+        },
+        "D": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "E": {
+          "item": "chemlib:radon"
+        },
+        "F": {
+          "item": "chemlib:oganesson"
+        },
+        "G": {
+          "item": "powah:crystal_spirited"
+        },
+        "H": {
+          "item": "chroma:absolute_alloy"
+        },
+        "I": {
+          "item": "powah:dielectric_casing"
+        }
+      },
+      "result": {
+        "item": "powah:reactor_spirited",
+        "count": 4
+      }
+    }
+  ).id('powah:crafting/reactor_spirited')
 });

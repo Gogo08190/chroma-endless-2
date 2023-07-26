@@ -283,6 +283,17 @@ onEvent('recipes', (event) => {
                 count: 8
             },
             id: 'biggerreactors:crafting/reactor/reactor_casing'
+        },
+        {
+            ingredients: [
+                { item: 'chemlib:praseodymium_ingot' }
+            ],
+            energy: 1000000,
+            result: {
+                item: 'powah:crystal_spirited',
+                count: 2
+            },
+            id: 'powah:energizing/spirited_crystal'
         }
     ];
 
