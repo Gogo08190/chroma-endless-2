@@ -294,6 +294,22 @@ onEvent('recipes', (event) => {
                 count: 2
             },
             id: 'powah:energizing/spirited_crystal'
+        },
+        {
+            ingredients: [
+                { item: 'biggerreactors:cyanite_block' },
+                { item: 'biggerreactors:graphite_block' },
+                { item: 'chemlib:rhodium' },
+                { item: 'chemlib:rhodium' },
+                { item: 'chemlib:rhodium' },
+                { item: 'chemlib:rhodium' }
+            ],
+            energy: 10000,
+            result: {
+                item: 'biggerreactors:turbine_casing',
+                count: 4
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_casing'
         }
     ];
 

@@ -109,6 +109,129 @@ onEvent('recipes', (event) => {
             },
             id: 'biggerreactors:crafting/reactor/reactor_computer_port'
         },
+        {
+            output: 'biggerreactors:heat_exchanger_evaporator_channel',
+            pattern: ['PGP', 'PGP', 'PGP'],
+            key: {
+                P: '#forge:plates/copper',
+                G: 'alchemistry:reactor_glass'
+            },
+            id: 'biggerreactors:crafting/heat_exchanger/evaporator_channel'
+        },
+        {
+            output: 'biggerreactors:heat_exchanger_fluid_port',
+            pattern: ['C C', 'STS', 'CPC'],
+            key: {
+                C: 'biggerreactors:heat_exchanger_casing',
+                S: 'powah:crystal_spirited',
+                T: 'mekanism:ultimate_fluid_tank',
+                P: 'minecraft:piston'
+            },
+            id: 'biggerreactors:crafting/heat_exchanger/fluid_port'
+        },
+        {
+            output: 'biggerreactors:heat_exchanger_glass',
+            pattern: ['GCG'],
+            key: {
+                C: 'biggerreactors:heat_exchanger_casing',
+                G: 'botania:elf_glass'
+            },
+            id: 'biggerreactors:crafting/heat_exchanger/glass'
+        },
+        {
+            output: 'biggerreactors:heat_exchanger_computer_port',
+            pattern: ['CWC', 'STS', 'CPC'],
+            key: {
+                C: 'biggerreactors:heat_exchanger_casing',
+                S: 'powah:crystal_spirited',
+                T: 'thermal:redstone_servo',
+                P: 'thermal:rf_coil',
+                W: 'computercraft:wired_modem'
+            },
+            id: 'biggerreactors:crafting/heat_exchanger/computer_port'
+        },
+        {
+            output: Item.of('biggerreactors:heat_exchanger_casing', 2),
+            pattern: ['PGP', 'PSP', 'PGP'],
+            key: {
+                P: '#forge:plates/copper',
+                G: 'chemlib:molybdenum',
+                S: 'powah:crystal_spirited'
+            },
+            id: 'biggerreactors:crafting/heat_exchanger/casing'
+        },
+        {
+            output: 'biggerreactors:turbine_computer_port',
+            pattern: ['CWC', 'STS', 'CPC'],
+            key: {
+                C: 'biggerreactors:turbine_casing',
+                S: 'powah:crystal_spirited',
+                T: 'thermal:redstone_servo',
+                P: 'thermal:rf_coil',
+                W: 'computercraft:wired_modem'
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_computer_port'
+        },
+        {
+            output: 'biggerreactors:turbine_glass',
+            pattern: ['GCG'],
+            key: {
+                C: 'biggerreactors:turbine_casing',
+                G: 'botania:elf_glass'
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_glass'
+        },
+        {
+            output: 'biggerreactors:turbine_fluid_port',
+            pattern: ['C C', 'STS', 'CPC'],
+            key: {
+                C: 'biggerreactors:turbine_casing',
+                S: 'powah:crystal_spirited',
+                T: 'mekanism:ultimate_fluid_tank',
+                P: 'minecraft:piston'
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_fluid_port'
+        },
+        {
+            output: 'biggerreactors:turbine_power_tap',
+            pattern: ['CSC', 'STS', 'CPC'],
+            key: {
+                C: 'biggerreactors:turbine_casing',
+                S: 'extendedcrafting:redstone_ingot',
+                T: 'pneumaticcraft:module_expansion_card',
+                P: Item.of('mekaevolution:absolute_energy_cube').ignoreNBT()
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_power_tap'
+        },
+        {
+            output: 'biggerreactors:turbine_rotor_bearing',
+            pattern: ['CPC', 'STS', 'CPC'],
+            key: {
+                C: 'biggerreactors:turbine_casing',
+                S: 'chroma:absolute_alloy',
+                T: 'powah:capacitor_spirited',
+                P: 'biggerreactors:turbine_rotor_shaft'
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_rotor_bearing'
+        },
+        {
+            output: 'biggerreactors:turbine_rotor_blade',
+            pattern: ['BEE'],
+            key: {
+                B: 'biggerreactors:blutonium_ingot',
+                E: 'powah:steel_energized'
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_rotor_blade'
+        },
+        {
+            output: 'biggerreactors:turbine_rotor_shaft',
+            pattern: ['EBE'],
+            key: {
+                B: 'biggerreactors:blutonium_ingot',
+                E: 'powah:steel_energized'
+            },
+            id: 'biggerreactors:crafting/turbine/turbine_rotor_shaft'
+        },
     ];
 
     recipes.forEach((recipe) => {

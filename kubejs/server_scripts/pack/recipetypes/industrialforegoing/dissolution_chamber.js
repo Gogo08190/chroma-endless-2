@@ -413,7 +413,7 @@ onEvent('recipes', (event) => {
                 'lazierae2:parallel_processor',
                 'solarpanels:spectral_energy_tablet',
                 'industrialforegoing:machine_frame_advanced',
-                'solarpanels:spectral_energy_tablet',
+                'solarpanels:spectral_energy_tablet'
             ],
             inputFluid: 'industrialforegoing:ether_gas',
             inputFluidAmount: 1000,
@@ -432,7 +432,7 @@ onEvent('recipes', (event) => {
                 'chemlib:platinum_ingot',
                 'mekanism:ingot_osmium',
                 'chemlib:platinum_ingot',
-                'mekanism:ingot_osmium',
+                'mekanism:ingot_osmium'
             ],
             inputFluid: 'industrialforegoing:ether_gas',
             inputFluidAmount: 200,
@@ -441,6 +441,44 @@ onEvent('recipes', (event) => {
             outputFluid: '',
             outputFluidAmount: 0,
             id: 'alchemistry:reactor_casing'
+        },
+        {
+            inputs: [
+                'biggerreactors:heat_exchanger_casing',
+                'powah:capacitor_spirited',
+                'biggerreactors:heat_exchanger_casing',
+                'biggerreactors:ludicrite_block',
+                'biggerreactors:ludicrite_block',
+                'biggerreactors:heat_exchanger_casing',
+                'powah:capacitor_spirited',
+                'biggerreactors:heat_exchanger_casing'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'biggerreactors:heat_exchanger_terminal', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'biggerreactors:crafting/heat_exchanger/terminal'
+        },
+        {
+            inputs: [
+                'biggerreactors:turbine_casing',
+                'powah:capacitor_spirited',
+                'biggerreactors:turbine_casing',
+                'biggerreactors:blutonium_block',
+                'biggerreactors:blutonium_block',
+                'biggerreactors:turbine_casing',
+                'powah:capacitor_spirited',
+                'biggerreactors:turbine_casing'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'biggerreactors:turbine_terminal', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'biggerreactors:crafting/turbine/turbine_terminal'
         },
     ];
 
