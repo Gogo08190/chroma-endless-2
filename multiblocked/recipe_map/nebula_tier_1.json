@@ -37,7 +37,15 @@
             "chance": 1.0
           }
         ]
-      }
+      },
+      "conditions": [
+        {
+          "type": "biome",
+          "condition": {
+            "biome": "beyond_earth:moon_desert"
+          }
+        }
+      ]
     }
   ],
   "ui": "nebula_tier_1"
