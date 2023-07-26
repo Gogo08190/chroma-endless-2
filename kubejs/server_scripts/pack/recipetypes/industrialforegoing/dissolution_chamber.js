@@ -423,6 +423,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'hostilenetworks:sim_chamber'
         },
+        {
+            inputs: [
+                'mekanism:ingot_osmium',
+                'chemlib:platinum_ingot',
+                'mekanism:ingot_osmium',
+                'chemlib:platinum_ingot',
+                'chemlib:platinum_ingot',
+                'mekanism:ingot_osmium',
+                'chemlib:platinum_ingot',
+                'mekanism:ingot_osmium',
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 200,
+            processingTime: 300,
+            outputItem: { item: 'alchemistry:reactor_casing', count: 4 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'alchemistry:reactor_casing'
+        },
     ];
 
     recipes.forEach((recipe) => {

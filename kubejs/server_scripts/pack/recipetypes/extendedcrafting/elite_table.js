@@ -338,4 +338,54 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('doom:praetor_doom_helmet')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABBBBBA",
+        "BCDEDCB",
+        "BDFGFDB",
+        "BHGIGHB",
+        "BDFGFDB",
+        "BCDJDCB",
+        "ABBBBBA"
+      ],
+      "key": {
+        "A": {
+          "item": "mythicbotany:alfsteel_pylon"
+        },
+        "B": {
+          "item": "alchemistry:reactor_casing"
+        },
+        "C": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "D": {
+          "item": "chroma:absolute_alloy"
+        },
+        "E": {
+          "item": "mythicbotany:nidavellir_rune"
+        },
+        "F": {
+          "item": "chemlib:neptunium"
+        },
+        "G": {
+          "item": "powah:capacitor_niotic"
+        },
+        "H": {
+          "item": "solarpanels:spectral_energy_tablet"
+        },
+        "I": {
+          "item": "mna:transitory_tunnel"
+        },
+        "J": {
+          "item": "mythicbotany:helheim_rune"
+        }
+      },
+      "result": {
+        "item": "alchemistry:fission_chamber_controller"
+      }
+    }
+  ).id('alchemistry:fission_chamber_controller')
 });
