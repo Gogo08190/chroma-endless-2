@@ -1,0 +1,561 @@
+{
+  "version": 3,
+  "location": "chroma:nebula_extractor_tier_2",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasDynamicShape": false,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "friction": 0.6,
+    "harvestLevel": 0,
+    "stackSize": 64,
+    "tabGroup": "multiblocked.all"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "modelLocation": "multiblocked:nebula_extractor_controller_tier_1",
+        "type": "imodel",
+        "postRenderer": false
+      }
+    },
+    "idle": {
+      "renderer": {
+        "modelLocation": "multiblocked:nebula_extractor_controller_tier_1_idle",
+        "type": "imodel",
+        "postRenderer": false
+      },
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "modelLocation": "multiblocked:nebula_extractor_controller_tier_1_working",
+        "type": "imodel",
+        "postRenderer": false
+      },
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "nebula_tier_2",
+  "basePattern": {
+    "structureDir": [
+      "LEFT",
+      "UP",
+      "BACK"
+    ],
+    "pattern": [
+      [
+        "AAAAAAAAAAA",
+        "BCCADADACCB",
+        "BCCAA@AACCB",
+        "BCCAAAAACCB",
+        "BEEEEEEEEEB",
+        "B         B",
+        "B         B",
+        "B         B",
+        "F         F",
+        "G         G",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAAAAAAAAA",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "EIIAAAAAIIE",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAAAAAAAAA",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "EIIAAAAAIIE",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAJKKKJAAA",
+        "AAAL   LAAA",
+        "AAAL   LAAA",
+        "AAAL   LAAA",
+        "EAAMCCCMAAE",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAK   KAAA",
+        "C         C",
+        "C    N    C",
+        "C    B    C",
+        "EAACCBCCAAE",
+        "     B     ",
+        "     B     ",
+        "     B     ",
+        "     B     ",
+        "     O     ",
+        "     O     ",
+        "     B     ",
+        "     O     ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAK   KAAA",
+        "C         C",
+        "C   NNN   C",
+        "C   BPB   C",
+        "EAACBPBCAAE",
+        "    BPB    ",
+        "    BPB    ",
+        "    BPB    ",
+        "    BPB    ",
+        "    OPO    ",
+        "    OPO    ",
+        "    BPB    ",
+        "    OPO    ",
+        "     F     ",
+        "     G     "
+      ],
+      [
+        "AAAK   KAAA",
+        "C         C",
+        "C    N    C",
+        "C    B    C",
+        "EAACCBCCAAE",
+        "     B     ",
+        "     B     ",
+        "     B     ",
+        "     B     ",
+        "     O     ",
+        "     O     ",
+        "     B     ",
+        "     O     ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAJKKKJAAA",
+        "AAAL   LAAA",
+        "AAAL   LAAA",
+        "AAAL   LAAA",
+        "EAAMCCCMAAE",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAAAAAAAAA",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "EIIAAAAAIIE",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAAAAAAAAA",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "CHHA   AHHC",
+        "EIIAAAAAIIE",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "AAAAAAAAAAA",
+        "BCCA   ACCB",
+        "BCCA   ACCB",
+        "BCCAQQQACCB",
+        "BEEEQQQEEEB",
+        "B         B",
+        "B         B",
+        "B         B",
+        "F         F",
+        "G         G",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "   AAAAA   ",
+        "   A   A   ",
+        "   AQQQA   ",
+        "   EQQQE   ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "   AAAAA   ",
+        "   AQQQA   ",
+        "   EQQQE   ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "   AAAAA   ",
+        "   EQQQE   ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "blocks": [
+          {
+            "id": "chroma:nebula_frame"
+          }
+        ],
+        "type": "blocks"
+      },
+      "controller": {
+        "location": "chroma:nebula_extractor_tier_2",
+        "type": "component"
+      },
+      "B": {
+        "blocks": [
+          {
+            "id": "chroma:nebula_extractor_t2_frame"
+          }
+        ],
+        "type": "blocks"
+      },
+      "C": {
+        "blocks": [
+          {
+            "id": "engineersdecor:panzerglass_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "D": {
+        "blocks": [
+          {
+            "id": "chroma:nebula_extractor_item_output"
+          },
+          {
+            "id": "chroma:nebula_extractor_energy_input"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "beyond_earth:moon_stone_brick_stairs"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "chroma:nebula_extractor_t2_laser_support"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "chroma:nebula_extractor_t2_laser_top"
+          }
+        ],
+        "type": "blocks"
+      },
+      "H": {
+        "blocks": [
+          {
+            "id": "immersiveengineering:coil_mv"
+          }
+        ],
+        "type": "blocks"
+      },
+      "I": {
+        "blocks": [
+          {
+            "id": "botania:bifrost_perm"
+          }
+        ],
+        "type": "blocks"
+      },
+      "J": {
+        "blocks": [
+          {
+            "id": "simplylight:illuminant_light_blue_block_on"
+          }
+        ],
+        "type": "blocks"
+      },
+      "K": {
+        "blocks": [
+          {
+            "id": "beyond_earth:moon_stone_brick_slab"
+          }
+        ],
+        "type": "blocks"
+      },
+      "L": {
+        "blocks": [
+          {
+            "id": "beyond_earth:blue_iron_plating_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "blocks": [
+          {
+            "id": "simplylight:illuminant_red_block_on"
+          }
+        ],
+        "type": "blocks"
+      },
+      "N": {
+        "blocks": [
+          {
+            "id": "chroma:nebula_drill_t2"
+          }
+        ],
+        "type": "blocks"
+      },
+      "O": {
+        "blocks": [
+          {
+            "id": "ae2:sky_stone_stairs"
+          }
+        ],
+        "type": "blocks"
+      },
+      "P": {
+        "blocks": [
+          {
+            "id": "beyond_earth:ostrum_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "Q": {
+        "blocks": [
+          {
+            "id": "engineersdecor:dark_shingle_roof"
+          }
+        ],
+        "type": "blocks"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
+      ],
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ],
+      "P": [
+        "P"
+      ],
+      "Q": [
+        "Q"
+      ]
+    }
+  }
+}
