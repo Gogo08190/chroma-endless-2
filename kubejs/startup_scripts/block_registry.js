@@ -28,7 +28,11 @@ onEvent('block.registry', (event) => {
       {name: 'nebula_extractor_t1_laser_support', displayName: '§6Nebula Extractor Laser Support Tier 1'},
       {name: 'nebula_extractor_t1_laser_top', displayName: '§6Nebula Extractor Laser Tier 1'},
       {name: 'nebula_extractor_t1_frame', displayName: '§6Nebula Extractor Frame Tier 1'},
-      {name: 'nebula_drill_t1', displayName: '§6Nebula Drill Extractor Tier 1'}
+      {name: 'nebula_drill_t1', displayName: '§6Nebula Drill Extractor Tier 1'},
+      {name: 'nebula_extractor_t2_laser_support', displayName: '§cNebula Extractor Laser Support Tier 2'},
+      {name: 'nebula_extractor_t2_laser_top', displayName: '§cNebula Extractor Laser Tier 2'},
+      {name: 'nebula_extractor_t2_frame', displayName: '§cNebula Extractor Frame Tier 2'},
+      {name: 'nebula_drill_t2', displayName: '§cNebula Drill Extractor Tier 2'}
     ];
 
     blocks.forEach((block) => {
