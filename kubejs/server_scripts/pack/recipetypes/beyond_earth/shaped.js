@@ -1,5 +1,5 @@
 onEvent('recipes', (event) => {
-    const id_prefix = 'chroma:pack/biggerreactors/shaped/';
+    const id_prefix = 'chroma:pack/beyond_earth/shaped/';
     const recipes = [
         {
             output: 'beyond_earth_giselle_addon:gravity_normalizer',
@@ -185,12 +185,67 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'beyond_earth:oxygen_mask',
-            pattern: ['FFF', 'FAF',],
+            pattern: ['FFF', 'FAF'],
             key: {
                 F: 'chroma:carbon_fiber',
                 A: 'mekanism:scuba_mask'
             },
             id: 'beyond_earth:oxygen_mask'
+        },
+        {
+            output: 'beyond_earth_giselle_addon:advanced_compressor',
+            pattern: ['SSS', 'CMC', 'SBS'],
+            key: {
+                S: '#beyond_earth:compresseds/steel',
+                C: 'powah:capacitor_spirited',
+                M: 'beyond_earth:compressor',
+                B: Item.of('powah:battery_spirited').weakNBT()
+            },
+            id: 'beyond_earth_giselle_addon:crafting/advanced_compressor'
+        },
+        {
+            output: 'beyond_earth:desh_tank',
+            pattern: ['CTC', 'TBT', 'CTC'],
+            key: {
+                C: '#beyond_earth:compresseds/desh',
+                T: '#beyond_earth:compresseds/titanium',
+                B: 'industrialforegoing:simple_black_hole_tank'
+            },
+            id: 'beyond_earth:gold_tank'
+        },
+        {
+            output: 'beyond_earth:desh_engine',
+            pattern: ['CAC', 'FTE', 'BPF'],
+            key: {
+                C: '#beyond_earth:compresseds/desh',
+                A: 'chroma:absolute_alloy',
+                F: 'chroma:carbon_fiber',
+                T: 'mekanism:advanced_chemical_tank',
+                E: 'beyond_earth:engine_frame',
+                B: '#beyond_earth:compresseds/titanium',
+                P: 'beyond_earth:engine_fan'
+            },
+            id: 'beyond_earth:gold_engine'
+        },
+        {
+            output: 'chroma:desh_rocket_fin',
+            pattern: ['CTC', 'FTF', 'CTC'],
+            key: {
+                C: '#beyond_earth:compresseds/desh',
+                T: '#beyond_earth:compresseds/titanium',
+                F: 'chroma:carbon_fiber'
+            },
+            id: `${id_prefix}desh_rocket_fin`
+        },
+        {
+            output: 'chroma:desh_rocket_nose_cone',
+            pattern: [' S ', ' C ', 'CFC'],
+            key: {
+                C: '#beyond_earth:compresseds/desh',
+                S: 'powah:crystal_spirited',
+                F: 'chroma:carbon_fiber'
+            },
+            id: `${id_prefix}desh_rocket_nose_cone`
         },
     ];
 
