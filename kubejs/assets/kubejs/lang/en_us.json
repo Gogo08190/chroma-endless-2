@@ -287,7 +287,7 @@
 
   "chapter.stage.2.quest.11.subtitle.1": "A Better and Powered &9Coke Oven&r",
   "chapter.stage.2.quest.11.description.1": "Getting tired of using coal to get coal coke? Here is your chance.",
-  
+
   "chapter.stage.2.quest.12.subtitle.1": "&6The Mixer&r",
   "chapter.stage.2.quest.12.description.1": "This is mainly used to mix an item with a liquid.",
   "chapter.stage.2.quest.12.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
@@ -322,12 +322,20 @@
   "chapter.stage.2.quest.19.description.1": "Meteorites can be found anywhere, this will help you find one.",
 
   "chapter.stage.2.quest.20.subtitle.1": "Pressing Silicon",
+  "chapter.stage.2.quest.20.description.1": "It is used to create Printed Silicon.",
+  "chapter.stage.2.quest.20.description.2": "He must be found in a &7Sky Stone Chest&r inside a &7Meteorite&r.",
 
   "chapter.stage.2.quest.21.subtitle.1": "Pressing Gold",
+  "chapter.stage.2.quest.21.description.1": "It is used to create Printed Logic Circuit.",
+  "chapter.stage.2.quest.21.description.2": "He must be found in a &7Sky Stone Chest&r inside a &7Meteorite&r.",
 
   "chapter.stage.2.quest.22.subtitle.1": "Pressing Diamond",
+  "chapter.stage.2.quest.22.description.1": "It is used to create Printed Engineering Circuit.",
+  "chapter.stage.2.quest.22.description.2": "He must be found in a &7Sky Stone Chest&r inside a &7Meteorite&r.",
 
   "chapter.stage.2.quest.23.subtitle.1": "Pressing Certus Quartz",
+  "chapter.stage.2.quest.23.description.1": "It is used to create Printed Calculation Circuit.",
+  "chapter.stage.2.quest.23.description.2": "He must be found in a &7Sky Stone Chest&r inside a &7Meteorite&r.",
 
   "chapter.stage.2.quest.24.subtitle.1": "Printing Silicon",
 
@@ -395,43 +403,68 @@
   "chapter.stage.2.quest.45.description.1": "Simply Infuse Redstone and put a Basic Control Circuit.",
 
   "chapter.stage.2.quest.46.subtitle.1": "Better than a Crushing Wheel",
-  "chapter.stage.2.quest.46.description.1": "This machine is mainly used to crush any compatible item.", 
+  "chapter.stage.2.quest.46.description.1": "This machine is mainly used to crush any compatible item.",
 
   "chapter.stage.2.quest.47.subtitle.1": "Hotter and Better Furnace",
-  "chapter.stage.2.quest.47.description.1": "This machine is mainly used to cook or smelt any compatible item.", 
-  
+  "chapter.stage.2.quest.47.description.1": "This machine is mainly used to cook or smelt any compatible item.",
+
   "chapter.stage.2.quest.48.subtitle.1": "Restoring items to their former state",
-  "chapter.stage.2.quest.48.description.1": "This machine is mainly used to get former state of items.", 
-  "chapter.stage.2.quest.48.description.2": "Check JEI to see all available recipes.", 
-  
+  "chapter.stage.2.quest.48.description.1": "This machine is mainly used to get former state of items.",
+  "chapter.stage.2.quest.48.description.2": "Check JEI to see all available recipes.",
+
   "chapter.stage.2.quest.49.subtitle.1": "Smelting Mana",
 
   "chapter.stage.2.quest.50.subtitle.1": "Noon Throwing",
+  "chapter.stage.2.quest.50.description.1": "To obtain &dCharoite&r, you must toss a &5Fluix Pearl&r into &3Molten Mana&r around noon (between 3:20 - 6:40)",
 
   "chapter.stage.2.quest.51.subtitle.1": "Midnight Throwing",
+  "chapter.stage.2.quest.51.description.1": "To obtain &bMoonstone&r, you must toss a &5Fluix Pearl&r into &3Molten Mana&r around midnight (between 13:20 - 16:40)",
 
   "chapter.stage.2.quest.52.subtitle.1": "Combining the Skies",
-  
+  "chapter.stage.2.quest.52.description.1": "Once you have obtained Charoite and Moonstone, you can combine them to obtain the &5Zeal Lighter&r.",
+  "chapter.stage.2.quest.52.description.2": "Zeal Lighter is used to open both portals of Blue Skies that you can find in The Gatekeeper House.",
+  "chapter.stage.2.quest.52.description.3": "You can find the houses spawning in either plains, mountains, and most snowy biomes.",
+
+  "chapter.stage.2.quest.53.title.1": "Visit Dimension : &bEverBright",
   "chapter.stage.2.quest.53.subtitle.1": "Accessing a kind of Heaven",
-   
+  "chapter.stage.2.quest.53.description.1": "The Everbright is a realm of eternal day and frigid cold. Home to large beasts and ethereal mobs, you’ll need to keep an eye on your back as you traverse through this world.",
+  "chapter.stage.2.quest.53.description.2": "Be sure to watch out for snow storms that bring thick fog and more enemies than usual.",
+  "chapter.stage.2.quest.53.description.3": "As you explore, you’ll encounter the Summoner’s Blinding Dungeon and the new Nature Dungeon, home of the Starlit Crusher.",
+
   "chapter.stage.2.quest.54.subtitle.1": "A New Red and Shiny Ingot",
+  "chapter.stage.2.quest.54.description.1": "The Ventium Ore can be found in the Everbright dimension.",
+  "chapter.stage.2.quest.54.description.2": "You can also obtain it by using the Excavator from Immersive Engineering.",
 
   "chapter.stage.2.quest.55.subtitle.1": "Transforming into Advanced Tier",
   "chapter.stage.2.quest.55.description.1": "Simply right click with this will transform any Basic Mekanism machine into the Advanced Tier",
   "chapter.stage.2.quest.55.description.2": "Obviously it won't work if your machine is already setup as the said tier.",
-   
+
+  "chapter.stage.2.quest.54.title.1": "Visit Dimension : &cEverDawn",
   "chapter.stage.2.quest.56.subtitle.1": "Darkness has a new Home",
+  "chapter.stage.2.quest.56.description.1": "The Everdawn has its sun forever rising. With this being a much more humid and warm world, insects and reptiles flourish.",
+  "chapter.stage.2.quest.56.description.2": "Before entering, it’s worth preparing for poison and fire as many parts of this world may inflict those on you.",
+  "chapter.stage.2.quest.56.description.3": "Venture across this diverse landscape to uncover the Alchemist’s Blinding Dungeon and then the new Poison Dungeon, lair of the Arachnarch.",
 
   "chapter.stage.2.quest.57.subtitle.1": "Sky of Beginning",
+  "chapter.stage.2.quest.57.description.1": "Petal Apothecary allows the player to infuse petals and runes to create generational and functional flowers.",
 
   "chapter.stage.2.quest.58.subtitle.1": "Transforming Plant",
   "chapter.stage.2.quest.58.description.1" : "This plant will transform any compatible items with a radius of 1 on any side execpt top and bottom.",
 
   "chapter.stage.2.quest.59.subtitle.1": "Purified Wood",
-  
+  "chapter.stage.2.quest.59.description.1": "Livingrock is created by placing a block of &7Lunar Stone&r adjacent to a Pure Daisy.",
+  "chapter.stage.2.quest.59.description.2": "After a minute it will transform into Livingwood.",
+  "chapter.stage.2.quest.59.description.3": "Maple Sapling can be found in Blue Skies Dimension.",
+
   "chapter.stage.2.quest.60.subtitle.1": "Purified Stone",
+  "chapter.stage.2.quest.60.description.1": "Livingrock is created by placing a block of &7Maple Log&r adjacent to a Pure Daisy.",
+  "chapter.stage.2.quest.60.description.2": "After a minute it will transform into Livingrock.",
+  "chapter.stage.2.quest.60.description.3": "Lunar Stone can be found in Blue Skies Dimension (Everdawn).",
 
   "chapter.stage.2.quest.61.subtitle.1": "Mana Storage... not really",
+  "chapter.stage.2.quest.61.description.1": "This is the first mana pool you will be able to create. It can hold 100x less than the Mana Pool.",
+  "chapter.stage.2.quest.61.description.2": "To create this mana pool, you will need to build a structure composed of 4 livingrock blocks with a soul sand placed in their center.",
+  "chapter.stage.2.quest.61.description.3": "Afterwards, light up the soul sand with flint and steel and throw a cauldron into the fire.",
 
   "chapter.stage.2.quest.62.subtitle.1": "First Mana Storage",
 
@@ -445,12 +478,21 @@
 
   "chapter.stage.2.quest.65.subtitle.1": "Transferring Mana",
   "chapter.stage.2.quest.65.description.1" : "This block can transfer mana into any Botania Mana Storing block using the &2Wand of The Forest&r",
-  
-  "chapter.stage.2.quest.66.subtitle.1": "Iron meets Mana",
+
+  "chapter.stage.2.quest.66.subtitle.1": "Steel meets Mana",
+  "chapter.stage.2.quest.66.subtitle.1": "Manasteel can be obtained by throwing Steel ingot into a Mana Pool.",
 
   "chapter.stage.2.quest.67.subtitle.1": "Crafting Runes",
 
   "chapter.stage.2.quest.68.subtitle.1": "Runes Chiseling Dream",
+  "chapter.stage.2.quest.68.description.1": "The Runescribing Table is used to craft various Rune Patterns using a Runesmith's Hammer and Runesmith's Chisel.",
+  "chapter.stage.2.quest.68.description.2": "On the left of the GUI there is three slots. The top slot is for the Hammer, the middle for the Chisel, and the bottom for clay.",
+  "chapter.stage.2.quest.68.description.3": "Clay is not required to chisel marks but it is required to undo them.",
+  "chapter.stage.2.quest.68.description.4": "Toward the middle right of the GUI is the Rune Pattern slot. To the top right of the GUI is a slot to put in a Runescribing Recipe, which will then display a pattern in the box below.",
+  "chapter.stage.2.quest.68.description.5": "The slots to the bottom right are for storing Runescribing Recipes. When a blank Rune Pattern is inserted a large grid of dots will appear.",
+  "chapter.stage.2.quest.68.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability. ",
+  "chapter.stage.2.quest.68.description.7": "You can remove a mark by click on the mark again, but you need clay and XP to remove it.",
+  "chapter.stage.2.quest.68.description.8": "Once your marks match a rune it will automatically finish the Rune Pattern.",
 
   "chapter.stage.2.quest.69.subtitle.1": "Chiseling the Avatar Rune",
 
@@ -459,26 +501,63 @@
   "chapter.stage.2.quest.71.subtitle.1": "Chiseling the Terra Rune",
 
   "chapter.stage.2.quest.72.subtitle.1": "Chiseling the Aqua Rune",
-  
+
   "chapter.stage.2.quest.73.subtitle.1": "Runes Forger",
+  "chapter.stage.2.quest.73.description.1": "Runic Anvil is used by placing a pattern down, placing the right item like &bLiving Rock&r or &bSuperheated Vinteum&r Ingot and then hammering them together with a Runesmith's Hammer.",
 
   "chapter.stage.2.quest.74.subtitle.1": "Avatar Rune",
+  "chapter.stage.2.quest.74.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
 
   "chapter.stage.2.quest.75.subtitle.1": "Magma Rune",
+  "chapter.stage.2.quest.75.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
 
   "chapter.stage.2.quest.76.subtitle.1": "Terra Rune",
+  "chapter.stage.2.quest.76.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
 
   "chapter.stage.2.quest.77.subtitle.1": "Aqua Rune",
+  "chapter.stage.2.quest.77.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
 
   "chapter.stage.2.quest.78.subtitle.1": "Discovering Runic Knowledge",
+  "chapter.stage.2.quest.78.description.1": "The Runic Core is used to craft the Runic Altar.",
 
   "chapter.stage.2.quest.79.subtitle.1": "The Runic Crafting",
+  "chapter.stage.2.quest.79.description.1": "The Runic Altar is used to craft runes.",
 
-  "chapter.stage.2.quest.80.subtitle.1": "The Rune Master"
+  "chapter.stage.2.quest.80.subtitle.1": "The Rune Master",
+
+  "chapter.stage.2.quest.81.subtitle.1": "Magical Plate",
+  "chapter.stage.2.quest.81.description.1": "The Terrestrial Agglomeration Plate is used to combine several items with mana.",
+
+  "chapter.stage.2.quest.82.subtitle.1": "Terrestrial Luxury",
+
+  "chapter.stage.2.quest.83.title.1": "Visid Dimension : &5The End&r",
+  "chapter.stage.2.quest.83.description.1": "Once in the End, you will be able to obtain a primary item for progression, in addition to the many things you can find in the End.",
+  "chapter.stage.2.quest.83.description.2": "&aThe Ender Air Bottle&r is obtained by right clicking any block in the End with a Glass Bottle.",
+  "chapter.stage.2.quest.83.description.3": "Right-clicking with this item will throw it. It will convert up to 64 Stone in a 7x7x7 area around the point of impact into End Stone.",
+
+  "chapter.stage.2.quest.84.title.1": "Portal to Alfheim",
+  "chapter.stage.2.quest.84.subtitle.1": "The Magical Portal",
+  "chapter.stage.2.quest.84.description.1": "The Portal to Alfheim allows the player to exchange certain blocks and items.",
+  "chapter.stage.2.quest.84.description.2": "Once the structure is complete, use the Wand of the Forest on the gateway core to open the portal.",
+  "chapter.stage.2.quest.84.description.3": "If the portal runs out of Mana, or a part of the structure is broken, the Portal will close.",
+
+  "chapter.stage.2.quest.85.subtitle.1": "Wonderful Pylon",
+  "chapter.stage.2.quest.85.description.1": "The Gaia Pylon is used to build the structure for the Ritual of Gaia.",
+
+  "chapter.stage.2.quest.86.subtitle.1": "The Ritual of Gaia",
+  "chapter.stage.2.quest.86.description.1": "The Ritual of Gaia is used to summon the Guardian of Gaia, which is the source of Gaia Spirits.",
+  "chapter.stage.2.quest.86.description.2": "To perform the ritual, a Beacon and 4 Gaia Pylons are necessary. The exact positions can be previewed in world by using the Lexica Botania's structure preview.",
+  "chapter.stage.2.quest.86.description.3": "Once the structure has been built, shift right-clicking a Terrasteel Ingot on the Beacon will summon the Guardian of Gaia. If any part of the arena is missing or obstructed, pink particles will show the offending locations.",
+  "chapter.stage.2.quest.86.description.4": "Using a Gaia Spirit Ingot instead of a Terrasteel Ingot will summon the harder version of the Guardian for a bigger reward.",
+
+  "chapter.stage.2.quest.87.description.1": "The Gaia Spirit Ingot can be crafted in the Terrestrial Agglomeration Plate.",
+  "chapter.stage.2.quest.87.description.2": "Later, you will be able to do it through the Industrial Agglomeration Factory.",
+
+  "chapter.stage.2.quest.88.subtitle.1": "Magic Transformation",
+  "chapter.stage.2.quest.88.description.1": "The Alchemy Catalyst s used to provide certain items with a secondary transformation when tossed into a Mana Pool at the cost of some Mana stored in the pool.",
+  "chapter.stage.2.quest.88.description.2": "It must be placed directly underneath a Mana Pool.",
+  "chapter.stage.2.quest.88.description.3": "You will need it to unlock Powah and craft the Silicon Paste.",
+
+  "chapter.stage.2.quest.88.subtitle.1": "A lot of resources",
+  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension"
 }
-
-
-
-
-
-
