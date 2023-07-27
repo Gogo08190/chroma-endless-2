@@ -1131,4 +1131,49 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mythicbotany:mana_infuser')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHGF",
+        "BDEDB",
+        "ABIBA"
+      ],
+      "key": {
+        "A": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "B": {
+          "item": "chroma:nebula_frame"
+        },
+        "C": {
+          "item": "mythicbotany:helheim_rune"
+        },
+        "D": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "E": {
+          "item": "mythicbotany:alfsteel_ingot"
+        },
+        "F": {
+          "item": "powah:energy_cell_spirited"
+        },
+        "G": {
+          "item": "lazierae2:logic_unit"
+        },
+        "H": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "I": {
+          "item": "mythicbotany:muspelheim_rune"
+        }
+      },
+      "result": {
+        "item": "chroma:nebula_extractor_tier_2"
+      }
+    }
+  ).id(`${id_prefix}nebula_extractor_tier_2`)
 });
