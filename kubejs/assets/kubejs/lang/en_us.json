@@ -480,19 +480,19 @@
   "chapter.stage.2.quest.65.description.1" : "This block can transfer mana into any Botania Mana Storing block using the &2Wand of The Forest&r",
 
   "chapter.stage.2.quest.66.subtitle.1": "Steel meets Mana",
-  "chapter.stage.2.quest.66.subtitle.1": "Manasteel can be obtained by throwing Steel ingot into a Mana Pool.",
+  "chapter.stage.2.quest.66.description.1": "Manasteel can be obtained by throwing Steel ingot into a Mana Pool.",
 
   "chapter.stage.2.quest.67.subtitle.1": "Crafting Runes",
+  "chapter.stage.2.quest.67.description.1": "The Runescribing Table is used to craft various Rune Patterns using a Runesmith's Hammer and Runesmith's Chisel.",
+  "chapter.stage.2.quest.67.description.2": "On the left of the GUI there is three slots. The top slot is for the Hammer, the middle for the Chisel, and the bottom for clay.",
+  "chapter.stage.2.quest.67.description.3": "Clay is not required to chisel marks but it is required to undo them.",
+  "chapter.stage.2.quest.67.description.4": "Toward the middle right of the GUI is the Rune Pattern slot. To the top right of the GUI is a slot to put in a Runescribing Recipe, which will then display a pattern in the box below.",
+  "chapter.stage.2.quest.67.description.5": "The slots to the bottom right are for storing Runescribing Recipes. When a blank Rune Pattern is inserted a large grid of dots will appear.",
+  "chapter.stage.2.quest.67.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability. ",
+  "chapter.stage.2.quest.67.description.7": "You can remove a mark by click on the mark again, but you need clay and XP to remove it.",
+  "chapter.stage.2.quest.67.description.8": "Once your marks match a rune it will automatically finish the Rune Pattern.",
 
   "chapter.stage.2.quest.68.subtitle.1": "Runes Chiseling Dream",
-  "chapter.stage.2.quest.68.description.1": "The Runescribing Table is used to craft various Rune Patterns using a Runesmith's Hammer and Runesmith's Chisel.",
-  "chapter.stage.2.quest.68.description.2": "On the left of the GUI there is three slots. The top slot is for the Hammer, the middle for the Chisel, and the bottom for clay.",
-  "chapter.stage.2.quest.68.description.3": "Clay is not required to chisel marks but it is required to undo them.",
-  "chapter.stage.2.quest.68.description.4": "Toward the middle right of the GUI is the Rune Pattern slot. To the top right of the GUI is a slot to put in a Runescribing Recipe, which will then display a pattern in the box below.",
-  "chapter.stage.2.quest.68.description.5": "The slots to the bottom right are for storing Runescribing Recipes. When a blank Rune Pattern is inserted a large grid of dots will appear.",
-  "chapter.stage.2.quest.68.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability. ",
-  "chapter.stage.2.quest.68.description.7": "You can remove a mark by click on the mark again, but you need clay and XP to remove it.",
-  "chapter.stage.2.quest.68.description.8": "Once your marks match a rune it will automatically finish the Rune Pattern.",
 
   "chapter.stage.2.quest.69.subtitle.1": "Chiseling the Avatar Rune",
 
