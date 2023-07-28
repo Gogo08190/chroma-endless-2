@@ -86,6 +86,20 @@ onEvent('recipes', (event) => {
         infusionAmount: 10,
         id: 'mekanism:processing/refined_obsidian/dust/from_obsidian_dust'
       },
+      {
+        output: 'chroma:supreme_alloy',
+        input: 'chroma:absolute_alloy',
+        infusionInput: 'chroma:marsova_ignis',
+        infusionAmount: 40,
+        id: `${id_prefix}supreme_alloy`
+      },
+      {
+        output: 'mekaevolution:supreme_control_circuit',
+        input: 'mekaevolution:absolute_control_circuit',
+        infusionInput: 'chroma:marsova_ignis',
+        infusionAmount: 40,
+        id: 'mekaevolution:supreme_control_circuit'
+      },
     ];
 
     recipes.forEach((recipe) => {

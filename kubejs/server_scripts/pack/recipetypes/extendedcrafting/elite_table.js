@@ -436,4 +436,48 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('powah:crafting/reactor_spirited')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDCBA",
+        "BCEFECB",
+        "CEFGFEC",
+        "DFGHGFD",
+        "CEFGFEC",
+        "BCEFECB",
+        "ABCDCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "B": {
+          "item": "powah:capacitor_spirited"
+        },
+        "C": {
+          "item": "beyond_earth:compressed_ostrum"
+        },
+        "D": {
+          "item": "solarpanels:singular_energy_tablet"
+        },
+        "E": {
+          "item": "mekaevolution:supreme_control_circuit"
+        },
+        "F": {
+          "item": "chroma:supreme_alloy"
+        },
+        "G": {
+          "item": "chroma:isolated_compressed_desh"
+        },
+        "H": {
+          "item": "mekaevolution:absolute_energy_cube"
+        }
+      },
+      "result": {
+        "item": "mekaevolution:supreme_energy_cube"
+      }
+    }
+  ).id('mekaevolution:supreme_energy_cube')
 });

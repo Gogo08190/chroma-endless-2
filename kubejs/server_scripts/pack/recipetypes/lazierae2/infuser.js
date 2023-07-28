@@ -109,6 +109,39 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: 'ae2:network/crafting/cpu_crafting_accelerator'
       },
+      {
+        output: { item: 'mekanism:boiler_casing', count: 4 },
+        inputs: [
+          { item: 'beyond_earth:compressed_steel', count: 4 },
+          { item: 'minecraft:iron_ingot', count: 2 },
+          { item: 'beyond_earth:ostrum_ingot', count: 2 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mekanism:boiler_casing'
+      },
+      {
+        output: { item: 'mekanismgenerators:turbine_casing', count: 4 },
+        inputs: [
+          { item: 'beyond_earth:compressed_steel', count: 4 },
+          { item: 'mekanism:ingot_osmium', count: 2 },
+          { item: 'beyond_earth:ostrum_ingot', count: 2 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mekanismgenerators:turbine/casing'
+      },
+      {
+        output: { item: 'mekanismgenerators:fission_reactor_casing', count: 4 },
+        inputs: [
+          { item: 'jaopca:beyond_earth_compresseds.lead', count: 4 },
+          { item: 'mekanism:steel_casing', count: 1 },
+          { item: 'beyond_earth:ostrum_ingot', count: 2 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mekanismgenerators:fission_reactor/casing'
+      },
     ];
 
     recipes.forEach((recipe) => {

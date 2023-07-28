@@ -694,6 +694,258 @@ onEvent('recipes', (event) => {
             },
             id: 'solarpanels:spectral_solar_panel'
         },
+        {
+            output: 'solarpanels:singular_energy_tablet',
+            pattern: ['URU', 'AEA', 'URU'],
+            key: {
+                E: Item.of('solarpanels:spectral_energy_tablet').weakNBT(),
+                U: 'mekaevolution:supreme_control_circuit',
+                A: 'chroma:supreme_alloy',
+                R: 'chroma:enriched_marsova_ignis'
+            },
+            id: 'solarpanels:singular_energy_tablet'
+        },
+        {
+            output: 'mekanismgenerators:gas_burning_generator',
+            pattern: ['URU', 'ACA', 'UEU'],
+            key: {
+                E: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                U: '#forge:ingots/ostrum',
+                A: 'chroma:supreme_alloy',
+                R: 'mekanism:electrolytic_core',
+                C: 'mekanism:steel_casing'
+            },
+            id: 'mekanismgenerators:generator/gas_burning'
+        },
+        {
+            output: 'mekanism:chemical_injection_chamber',
+            pattern: ['URU', 'ACA', 'UEU'],
+            key: {
+                E: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                U: 'chroma:supreme_alloy',
+                A: 'mekaevolution:supreme_control_circuit',
+                R: '#beyond_earth:compresseds/ostrum',
+                C: Item.of('mekanism:purification_chamber').ignoreNBT()
+            },
+            id: 'mekanism:chemical_injection_chamber'
+        },
+        {
+            output: 'mekanism:isotopic_centrifuge',
+            pattern: ['UUU', 'ACA', 'UEU'],
+            key: {
+                E: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                U: '#forge:ingots/ostrum',
+                A: 'mekaevolution:supreme_control_circuit',
+                C: 'mekanism:ultimate_chemical_tank'
+            },
+            id: 'mekanism:isotopic_centrifuge'
+        },
+        {
+            output: 'mekanism:solar_neutron_activator',
+            pattern: ['BSB', 'ACA', 'UEU'],
+            key: {
+                E: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                U: '#forge:ingots/ostrum',
+                A: 'mekaevolution:supreme_control_circuit',
+                C: 'mekanism:steel_casing',
+                S: Item.of('mekanismgenerators:solar_generator').ignoreNBT(),
+                B: 'chroma:supreme_alloy'
+            },
+            id: 'mekanism:solar_neutron_activator'
+        },
+        {
+            output: 'mekanism:chemical_infuser',
+            pattern: ['BAB', 'SCS', 'BAB'],
+            key: {
+                A: 'mekaevolution:supreme_control_circuit',
+                C: 'mekanism:steel_casing',
+                S: 'mekanism:basic_chemical_tank',
+                B: 'chroma:supreme_alloy'
+            },
+            id: 'mekanism:chemical_infuser'
+        },
+        {
+            output: Item.of('mekaevolution:supreme_universal_cable', 4),
+            pattern: ['AAA', 'ABA', 'AAA'],
+            key: {
+                A: 'mekaevolution:absolute_universal_cable',
+                B: 'chroma:supreme_alloy'
+            },
+            id: 'mekaevolution:supreme_universal_cable'
+        },
+        {
+            output: Item.of('mekaevolution:supreme_mechanical_pipe', 4),
+            pattern: ['AAA', 'ABA', 'AAA'],
+            key: {
+                A: 'mekaevolution:absolute_mechanical_pipe',
+                B: 'chroma:supreme_alloy'
+            },
+            id: 'mekaevolution:supreme_mechanical_pipe'
+        },
+        {
+            output: Item.of('mekaevolution:supreme_logistical_transporter', 4),
+            pattern: ['AAA', 'ABA', 'AAA'],
+            key: {
+                A: 'mekaevolution:absolute_logistical_transporter',
+                B: 'chroma:supreme_alloy'
+            },
+            id: 'mekaevolution:supreme_logistical_transporter'
+        },
+        {
+            output: 'mekanism:radioactive_waste_barrel',
+            pattern: ['ABA', 'B B', 'ABA'],
+            key: {
+                A: 'chroma:isolated_compressed_desh',
+                B: '#forge:ingots/lead'
+            },
+            id: 'mekanism:radioactive_waste_barrel'
+        },
+        {
+            output: Item.of('mekanism:boiler_valve', 2),
+            pattern: [' C ', 'CAC', ' C '],
+            key: {
+                A: 'mekaevolution:supreme_control_circuit',
+                C: 'mekanism:boiler_casing'
+            },
+            id: 'mekanism:boiler_valve'
+        },
+        {
+            output: 'mekanism:superheating_element',
+            pattern: ['ABA', 'BCB', 'ABA'],
+            key: {
+                A: '#forge:ingots/ludicrite',
+                B: '#forge:ingots/ostrum',
+                C: 'mekanism:steel_casing'
+            },
+            id: 'mekanism:superheating_element'
+        },
+        {
+            output: 'mekanism:pressure_disperser',
+            pattern: ['ABA', 'BCB', 'ABA'],
+            key: {
+                B: 'minecraft:iron_bars',
+                A: '#forge:ingots/ostrum',
+                C: 'chroma:supreme_alloy'
+            },
+            id: 'mekanism:pressure_disperser'
+        },
+        {
+            output: Item.of('mekanismgenerators:turbine_vent', 2),
+            pattern: [' C ', 'CAC', ' C '],
+            key: {
+                A: 'createdeco:iron_mesh_fence',
+                C: 'mekanismgenerators:turbine_casing'
+            },
+            id: 'mekanismgenerators:turbine/vent'
+        },
+        {
+            output: 'mekanismgenerators:saturating_condenser',
+            pattern: ['ABA', 'BCB', 'ABA'],
+            key: {
+                B: '#forge:ingots/tin',
+                A: '#forge:ingots/ostrum',
+                C: 'mekanism:basic_fluid_tank'
+            },
+            id: 'mekanismgenerators:saturating_condenser'
+        },
+        {
+            output: Item.of('mekanismgenerators:turbine_valve', 2),
+            pattern: [' C ', 'CAC', ' C '],
+            key: {
+                A: 'mekaevolution:supreme_control_circuit',
+                C: 'mekanismgenerators:turbine_casing'
+            },
+            id: 'mekanismgenerators:turbine/valve'
+        },
+        {
+            output: 'mekanismgenerators:electromagnetic_coil',
+            pattern: ['ABA', 'BEB', 'ABA'],
+            key: {
+                E: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                A: '#forge:ingots/ostrum',
+                B: 'powah:crystal_blazing'
+            },
+            id: 'mekanismgenerators:electromagnetic_coil'
+        },
+        {
+            output: 'mekanismgenerators:rotational_complex',
+            pattern: ['ABA', 'CBC', 'ABA'],
+            key: {
+                C: 'mekaevolution:supreme_control_circuit',
+                A: '#forge:ingots/ostrum',
+                B: 'chroma:supreme_alloy'
+            },
+            id: 'mekanismgenerators:rotational_complex'
+        },
+        {
+            output: 'mekanismgenerators:turbine_blade',
+            pattern: [' C ', 'CAC', ' C '],
+            key: {
+                A: 'chroma:supreme_alloy',
+                C: '#forge:ingots/steel'
+            },
+            id: 'mekanismgenerators:turbine/blade'
+        },
+        {
+            output: 'mekanismgenerators:turbine_rotor',
+            pattern: ['CAC', 'CAC', 'CAC'],
+            key: {
+                A: 'chroma:supreme_alloy',
+                C: '#forge:ingots/steel'
+            },
+            id: 'mekanismgenerators:turbine/rotor'
+        },
+        {
+            output: 'mekanismgenerators:control_rod_assembly',
+            pattern: ['ABA', 'CAC', 'CAC'],
+            key: {
+                A: '#forge:ingots/lead',
+                C: '#forge:ingots/ostrum',
+                B: 'mekaevolution:supreme_control_circuit'
+            },
+            id: 'mekanismgenerators:fission_reactor/control_rod_assembly'
+        },
+        {
+            output: 'mekanismgenerators:fission_fuel_assembly',
+            pattern: ['ACA', 'ABA', 'ACA'],
+            key: {
+                A: '#forge:ingots/lead',
+                C: '#forge:ingots/ostrum',
+                B: 'mekanism:basic_chemical_tank'
+            },
+            id: 'mekanismgenerators:fission_reactor/fuel_assembly'
+        },
+        {
+            output: Item.of('mekanismgenerators:fission_reactor_port', 2),
+            pattern: [' C ', 'CAC', ' C '],
+            key: {
+                A: 'mekaevolution:supreme_control_circuit',
+                C: 'mekanismgenerators:fission_reactor_casing'
+            },
+            id: 'mekanismgenerators:fission_reactor/port'
+        },
+        {
+            output: 'solarpanels:singular_solar_element',
+            pattern: ['GGG', 'LLL', 'PPP'],
+            key: {
+                G: '#forge:glass_panes/pink',
+                L: 'chroma:marsova_ignis',
+                P: 'mekanism:hdpe_sheet'
+            },
+            id: 'solarpanels:singular_solar_element'
+        },
+        {
+            output: 'solarpanels:singular_solar_panel',
+            pattern: ['GGG', 'LAL', 'PEP'],
+            key: {
+                G: 'solarpanels:singular_solar_element',
+                L: 'powah:capacitor_spirited',
+                P: 'mekaevolution:supreme_control_circuit',
+                E: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                A: 'solarpanels:spectral_solar_panel'
+            },
+            id: 'solarpanels:singular_solar_panel'
+        },
     ];
 
     recipes.forEach((recipe) => {
