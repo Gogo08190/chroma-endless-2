@@ -117,7 +117,7 @@
 			corner: false
 		}
 		{
-			x: 0.0d
+			x: -0.5d
 			y: 2.0d
 			width: 4.0d
 			height: 1.0d
@@ -129,7 +129,7 @@
 			corner: false
 		}
 		{
-			x: -9.5d
+			x: -8.5d
 			y: 4.0d
 			width: 4.0d
 			height: 1.0d
@@ -141,7 +141,7 @@
 			corner: false
 		}
 		{
-			x: -2.0d
+			x: -0.5d
 			y: -5.0d
 			width: 4.0d
 			height: 1.0d
@@ -153,7 +153,7 @@
 			corner: false
 		}
 		{
-			x: -1.0d
+			x: -0.5d
 			y: -1.0d
 			width: 4.0d
 			height: 1.0d
@@ -170,18 +170,6 @@
 			width: 9.0d
 			height: 0.15d
 			rotation: 0.0d
-			image: "mekanism:textures/block/dynamic_tank.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -4.5d
-			y: 0.0d
-			width: 14.0d
-			height: 0.15d
-			rotation: 90.0d
 			image: "mekanism:textures/block/dynamic_tank.png"
 			hover: [ ]
 			click: ""
@@ -212,10 +200,262 @@
 			dev: false
 			corner: false
 		}
+		{
+			x: -12.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 0.0d
+			width: 14.0d
+			height: 0.15d
+			rotation: 90.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 3.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/devices/nyi/heat_sink_back_on.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/devices/nyi/heat_sink_back_on.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/devices/nyi/heat_sink_back_on.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/energy_cell_bottom.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/energy_cell_bottom.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 3.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/energy_cell_bottom.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 3.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 3.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
 	]
 	quests: [
 		{
-			x: -1.5d
+			x: -1.0d
 			y: -4.0d
 			id: "5ADD538A430A6BD1"
 			tasks: [{
@@ -225,7 +465,7 @@
 			}]
 		}
 		{
-			x: -0.5d
+			x: 0.0d
 			y: -4.0d
 			id: "1C8B10373C662F87"
 			tasks: [{
@@ -235,7 +475,7 @@
 			}]
 		}
 		{
-			x: -1.5d
+			x: -1.0d
 			y: -3.0d
 			id: "49AAD4E5CBD806A1"
 			tasks: [{
@@ -245,7 +485,7 @@
 			}]
 		}
 		{
-			x: -2.5d
+			x: -2.0d
 			y: -3.0d
 			id: "0990768DB7AC7D1C"
 			tasks: [{
@@ -255,7 +495,7 @@
 			}]
 		}
 		{
-			x: 0.5d
+			x: 1.0d
 			y: -4.0d
 			id: "6092850D854A0A8E"
 			tasks: [{
@@ -265,7 +505,7 @@
 			}]
 		}
 		{
-			x: -0.5d
+			x: 0.0d
 			y: -3.0d
 			id: "1E7042ECC96A2B31"
 			tasks: [{
@@ -275,7 +515,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: 2.0d
 			y: -3.0d
 			id: "1E13364D0C67775D"
 			tasks: [{
@@ -285,7 +525,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: 2.0d
 			y: -4.0d
 			id: "19B6A548FC89F462"
 			tasks: [{
@@ -295,7 +535,7 @@
 			}]
 		}
 		{
-			x: -3.5d
+			x: -3.0d
 			y: -4.0d
 			id: "514C048411C4EEA8"
 			tasks: [{
@@ -305,7 +545,7 @@
 			}]
 		}
 		{
-			x: 0.5d
+			x: 1.0d
 			y: -3.0d
 			id: "6AF5B5A35F41C0D0"
 			tasks: [{
@@ -315,7 +555,7 @@
 			}]
 		}
 		{
-			x: -2.5d
+			x: -2.0d
 			y: -4.0d
 			id: "26060567F25C9142"
 			tasks: [{
@@ -325,7 +565,7 @@
 			}]
 		}
 		{
-			x: -3.5d
+			x: -3.0d
 			y: -3.0d
 			id: "704F93C71960DB61"
 			tasks: [{
@@ -335,7 +575,7 @@
 			}]
 		}
 		{
-			x: -0.5d
+			x: 0.5d
 			y: 0.0d
 			id: "24C2910D8AEC4ADE"
 			tasks: [{
@@ -569,7 +809,7 @@
 			}]
 		}
 		{
-			x: -2.0d
+			x: -2.5d
 			y: 3.0d
 			id: "7C761BC5BA44B326"
 			tasks: [{
@@ -579,7 +819,7 @@
 			}]
 		}
 		{
-			x: -1.0d
+			x: -1.5d
 			y: 3.0d
 			id: "203EA1158296D6D0"
 			tasks: [{
@@ -589,7 +829,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: -0.5d
 			y: 3.0d
 			id: "72540344452B01C0"
 			tasks: [{
@@ -599,7 +839,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: 0.5d
 			y: 3.0d
 			id: "0277A8C188158B74"
 			tasks: [{
@@ -609,7 +849,7 @@
 			}]
 		}
 		{
-			x: 2.0d
+			x: 1.5d
 			y: 3.0d
 			id: "0037F89FAA401AFF"
 			tasks: [{
@@ -619,7 +859,7 @@
 			}]
 		}
 		{
-			x: -2.0d
+			x: -2.5d
 			y: 4.0d
 			id: "588F2C5C29F2E35D"
 			tasks: [{
@@ -629,7 +869,7 @@
 			}]
 		}
 		{
-			x: -1.0d
+			x: -1.5d
 			y: 4.0d
 			id: "36F0E92316E422F4"
 			tasks: [{
@@ -639,7 +879,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: -0.5d
 			y: 4.0d
 			id: "411947AEDD4F7599"
 			tasks: [{
@@ -649,7 +889,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: 0.5d
 			y: 4.0d
 			id: "4D91E6CE74E4B1C7"
 			tasks: [{
@@ -659,7 +899,7 @@
 			}]
 		}
 		{
-			x: 2.0d
+			x: 1.5d
 			y: 4.0d
 			id: "7C3F5BF78B47CC1C"
 			tasks: [{
@@ -669,7 +909,7 @@
 			}]
 		}
 		{
-			x: -2.0d
+			x: -2.5d
 			y: 5.0d
 			id: "0EEA4F88FE0B4709"
 			tasks: [{
@@ -679,7 +919,7 @@
 			}]
 		}
 		{
-			x: -1.0d
+			x: -1.5d
 			y: 5.0d
 			id: "30C01B5A106F5C47"
 			tasks: [{
@@ -689,7 +929,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: -0.5d
 			y: 5.0d
 			id: "4F3D0ED5C13058E1"
 			tasks: [{
@@ -699,7 +939,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: 0.5d
 			y: 5.0d
 			id: "07A01FAEE9EC72C9"
 			tasks: [{
@@ -709,7 +949,7 @@
 			}]
 		}
 		{
-			x: 2.0d
+			x: 1.5d
 			y: 5.0d
 			id: "4256E811144BDD4B"
 			tasks: [{
