@@ -247,42 +247,42 @@
   "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer",
-  "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r",
+  "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r.",
   "chapter.stage.2.quest.1.description.2": "So we suggest that you should keep it somewhere that you will remember !",
 
   "chapter.stage.2.quest.2.subtitle.1": "Build an &5Alloy Kiln",
-  "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really useful to create early alloys",
+  "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really useful to create early alloys.",
 
   "chapter.stage.2.quest.3.subtitle.1": "Build a &6Coke Oven&r",
-  "chapter.stage.2.quest.3.description.1": "&6The Coke Oven&r is the first way to obtain &4Treated Wood&r with &7Creosote Oil&r",
+  "chapter.stage.2.quest.3.description.1": "&6The Coke Oven&r is the first way to obtain &4Treated Wood&r with &7Creosote Oil&r.",
 
   "chapter.stage.2.quest.4.subtitle.1": "Blasting expert",
-  "chapter.stage.2.quest.4.description.1": "&6The Blast Furnace&r is the first step to do to have &9Steel Ingots&r",
+  "chapter.stage.2.quest.4.description.1": "&6The Blast Furnace&r is the first step to do to have &9Steel Ingots&r.",
 
   "chapter.stage.2.quest.5.subtitle.1": "An Immersive Crafting Table",
-  "chapter.stage.2.quest.5.description.1": "To craft &5Immersive&r first components you will have to craft this Workbench",
+  "chapter.stage.2.quest.5.description.1": "To craft &5Immersive&r first components you will have to craft this Workbench.",
   "chapter.stage.2.quest.5.description.2": "Later in the game, a more valuable recipe will be used, but for now we suggest to use that.",
 
   "chapter.stage.2.quest.6.subtitle.1": "Powerful Pliers",
-  "chapter.stage.2.quest.6.description.1": "The &9Engineer Wire Cutters&r are very helpful to craft your first &5Immersive&r press and wires",
+  "chapter.stage.2.quest.6.description.1": "The &9Engineer Wire Cutters&r are very helpful to craft your first &5Immersive&r press and wires.",
 
   "chapter.stage.2.quest.7.subtitle.1": "Your first &5Immersive&r Energy",
-  "chapter.stage.2.quest.7.description.1": "The &9Kinetic Dynamo&r is mainly used to hold the &6Water Wheel&r and the &6Windmill",
+  "chapter.stage.2.quest.7.description.1": "The &9Kinetic Dynamo&r is mainly used to hold the &6Water Wheel&r and the &6Windmill&r.",
   "chapter.stage.2.quest.7.description.2": "Please go to each items quest to see how to use them.",
 
   "chapter.stage.2.quest.8.subtitle.1": "&6The Water Wheel&r",
   "chapter.stage.2.quest.8.description.1": "It generates &c&lIF&r with water that flows around it.",
   "chapter.stage.2.quest.8.description.2": "For optimal results direct the water in a semi-circle from the top down one side and along the bottom.",
-  "chapter.stage.2.quest.8.description.3": "You can add 2 more &5Water Wheels&r to get more energy",
+  "chapter.stage.2.quest.8.description.3": "You can add 2 more &5Water Wheels&r to get more energy.",
 
   "chapter.stage.2.quest.9.subtitle.1": "&6The WindMill&r",
   "chapter.stage.2.quest.9.description.1": "This item is the first thing when it comes to &5Immersive&r energy.",
-  "chapter.stage.2.quest.9.description.2": "For optimal results, the speed depends on the space in front of it and if the airflow isn't obscured",
-  "chapter.stage.2.quest.9.description.3": "ProTip : Rain or Thunder generates more energy",
+  "chapter.stage.2.quest.9.description.2": "For optimal results, the speed depends on the space in front of it and if the airflow isn't obscured.",
+  "chapter.stage.2.quest.9.description.3": "ProTip : Rain or Thunder generates more energy.",
 
   "chapter.stage.2.quest.10.subtitle.1": "&6The MetalPress&r",
   "chapter.stage.2.quest.10.description.1": "This is mainly used to shape any metal with the mold placed on it's piston.",
-  "chapter.stage.2.quest.10.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.10.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.10.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "chapter.stage.2.quest.11.subtitle.1": "A Better and Powered &9Coke Oven&r",
@@ -290,7 +290,7 @@
 
   "chapter.stage.2.quest.12.subtitle.1": "&6The Mixer&r",
   "chapter.stage.2.quest.12.description.1": "This is mainly used to mix an item with a liquid.",
-  "chapter.stage.2.quest.12.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.12.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.12.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "chapter.stage.2.quest.13.subtitle.1": "Stocking &cIF&r",
@@ -299,20 +299,20 @@
 
   "chapter.stage.2.quest.14.subtitle.1": "&6The Fermenter&r",
   "chapter.stage.2.quest.14.description.1": "This is mainly used to distill any growing food into &7&lEthanol&r",
-  "chapter.stage.2.quest.14.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.14.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.14.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "chapter.stage.2.quest.15.subtitle.1": "&6The Refinery&r",
   "chapter.stage.2.quest.15.description.1": "This is mainly used to mix two liquids together to have a better one",
-  "chapter.stage.2.quest.15.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.15.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.15.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "chapter.stage.2.quest.16.subtitle.1": "Using &6The Refinery&r",
   "chapter.stage.2.quest.16.description.1": "Getting this liquid will allow you to advance further in this stage.",
 
   "chapter.stage.2.quest.17.subtitle.1": "&6The Bottling machine&r",
-  "chapter.stage.2.quest.17.description.1": "This is mainly used to fill any item with fluid",
-  "chapter.stage.2.quest.17.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.17.description.1": "This is mainly used to fill any item with fluid.",
+  "chapter.stage.2.quest.17.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.17.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "chapter.stage.2.quest.18.subtitle.1": "Be an Energistic Engineer",
@@ -347,7 +347,7 @@
 
   "chapter.stage.2.quest.28.subtitle.1": "&6The Arc Furnace&r",
   "chapter.stage.2.quest.28.description.1": "This is mainly used to smelt advanced items and getting processors. ",
-  "chapter.stage.2.quest.28.description.2": "To build this structure, you can see the &6Engineer's Manual&r",
+  "chapter.stage.2.quest.28.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.28.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "chapter.stage.2.quest.29.subtitle.1": "Calculating Press",
@@ -357,7 +357,7 @@
   "chapter.stage.2.quest.31.subtitle.1": "Logic Press",
 
   "chapter.stage.2.quest.32.subtitle.1": "Charging Certus",
-  "chapter.stage.2.quest.32.description.1": "This block is mainly used to charge Certus Quartz with energy",
+  "chapter.stage.2.quest.32.description.1": "This block is mainly used to charge Certus Quartz with energy.",
 
   "chapter.stage.2.quest.33.subtitle.1": "Wall of Projection",
 
@@ -367,26 +367,26 @@
   "chapter.stage.2.quest.35.description.1": "The Energy Acceptor transforms any other energy into Applied Energy (AE).",
 
   "chapter.stage.2.quest.36.subtitle.1": "Let Crystals Grow",
-  "chapter.stage.2.quest.36.description.1": "Accelerates the growing speed of any Applied seeds",
+  "chapter.stage.2.quest.36.description.1": "Accelerates the growing speed of any Applied seeds.",
 
   "chapter.stage.2.quest.37.subtitle.1": "Early Storage",
-  "chapter.stage.2.quest.37.description.1": "By placing this on any storage, you will be able to manage it's inventory with Applied",
+  "chapter.stage.2.quest.37.description.1": "By placing this on any storage, you will be able to manage it's inventory with Applied.",
   "chapter.stage.2.quest.37.description.2": "Using Me Glass Cables might be a good idea",
 
   "chapter.stage.2.quest.38.subtitle.1": "Viewing Items",
-  "chapter.stage.2.quest.38.description.1": "This is a panel that can be able to see all items in your Applied Storages",
-  "chapter.stage.2.quest.38.description.2": "Using Me Glass Cables might be a good idea",
+  "chapter.stage.2.quest.38.description.1": "This is a panel that can be able to see all items in your Applied Storages.",
+  "chapter.stage.2.quest.38.description.2": "Using Me Glass Cables might be a good idea.",
 
   "chapter.stage.2.quest.39.subtitle.1": "Applied Crafting",
   "chapter.stage.2.quest.39.description.1": "Allow the player to craft with ME Storage.",
   "chapter.stage.2.quest.39.description.2": "Using Me Glass Cables might be a good idea",
 
   "chapter.stage.2.quest.40.subtitle.1": "Starting to get Mekanised",
-  "chapter.stage.2.quest.40.description.1": "The start of a new Era is upon you",
+  "chapter.stage.2.quest.40.description.1": "The start of a new Era is upon you.",
   "chapter.stage.2.quest.40.description.2": "For now you'll have to use the Miniaturization crafting. An easier way will be available later.",
 
   "chapter.stage.2.quest.41.subtitle.1": "Infusing at it's best",
-  "chapter.stage.2.quest.41.description.1": "This machine is mainly used to infuse any available item into an Infusing Fluid",
+  "chapter.stage.2.quest.41.description.1": "This machine is mainly used to infuse any available item into an Infusing Fluid.",
   "chapter.stage.2.quest.41.description.2": "Each liquids will be used to create new items or ingots to advance in the game.",
 
   "chapter.stage.2.quest.42.subtitle.1": "Certus Infused",
@@ -415,10 +415,10 @@
   "chapter.stage.2.quest.49.subtitle.1": "Smelting Mana",
 
   "chapter.stage.2.quest.50.subtitle.1": "Noon Throwing",
-  "chapter.stage.2.quest.50.description.1": "To obtain &dCharoite&r, you must toss a &5Fluix Pearl&r into &3Molten Mana&r around noon (between 3:20 - 6:40)",
+  "chapter.stage.2.quest.50.description.1": "To obtain &dCharoite&r, you must toss a &5Fluix Pearl&r into &3Molten Mana&r around noon (between 3:20 - 6:40).",
 
   "chapter.stage.2.quest.51.subtitle.1": "Midnight Throwing",
-  "chapter.stage.2.quest.51.description.1": "To obtain &bMoonstone&r, you must toss a &5Fluix Pearl&r into &3Molten Mana&r around midnight (between 13:20 - 16:40)",
+  "chapter.stage.2.quest.51.description.1": "To obtain &bMoonstone&r, you must toss a &5Fluix Pearl&r into &3Molten Mana&r around midnight (between 13:20 - 16:40).",
 
   "chapter.stage.2.quest.52.subtitle.1": "Combining the Skies",
   "chapter.stage.2.quest.52.description.1": "Once you have obtained Charoite and Moonstone, you can combine them to obtain the &5Zeal Lighter&r.",
@@ -436,7 +436,7 @@
   "chapter.stage.2.quest.54.description.2": "You can also obtain it by using the Excavator from Immersive Engineering.",
 
   "chapter.stage.2.quest.55.subtitle.1": "Transforming into Advanced Tier",
-  "chapter.stage.2.quest.55.description.1": "Simply right click with this will transform any Basic Mekanism machine into the Advanced Tier",
+  "chapter.stage.2.quest.55.description.1": "Simply right click with this will transform any Basic Mekanism machine into the Advanced Tier.",
   "chapter.stage.2.quest.55.description.2": "Obviously it won't work if your machine is already setup as the said tier.",
 
   "chapter.stage.2.quest.54.title.1": "Visit Dimension : &cEverDawn",
@@ -477,7 +477,7 @@
   "chapter.stage.2.quest.64.description.2" : "Just know that the mana generated will change depending on the dropped item near the flower.",
 
   "chapter.stage.2.quest.65.subtitle.1": "Transferring Mana",
-  "chapter.stage.2.quest.65.description.1" : "This block can transfer mana into any Botania Mana Storing block using the &2Wand of The Forest&r",
+  "chapter.stage.2.quest.65.description.1" : "This block can transfer mana into any Botania Mana Storing block using the &2Wand of The Forest&r.",
 
   "chapter.stage.2.quest.66.subtitle.1": "Steel meets Mana",
   "chapter.stage.2.quest.66.description.1": "Manasteel can be obtained by throwing Steel ingot into a Mana Pool.",
@@ -559,5 +559,5 @@
   "chapter.stage.2.quest.88.description.3": "You will need it to unlock Powah and craft the Silicon Paste.",
 
   "chapter.stage.2.quest.89.subtitle.1": "A lot of resources",
-  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension"
+  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension !"
 }
