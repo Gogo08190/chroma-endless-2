@@ -69,7 +69,8 @@ onEvent('item.registry', (event) => {
       'skin_of_gaia',
       'isolated_compressed_desh',
       'desh_rocket_nose_cone',
-      'desh_rocket_fin'
+      'desh_rocket_fin',
+      'blank_upgrade'
     ];
 
     items.forEach((item) => {
