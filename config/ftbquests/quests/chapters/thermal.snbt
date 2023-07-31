@@ -105,8 +105,8 @@
 			corner: false
 		}
 		{
-			x: -10.5d
-			y: -5.0d
+			x: -7.0d
+			y: -3.5d
 			width: 4.0d
 			height: 1.0d
 			rotation: 0.0d
@@ -619,8 +619,9 @@
 			}]
 		}
 		{
-			x: -8.5d
-			y: -3.5d
+			x: -9.0d
+			y: -1.5d
+			shape: "hexagon"
 			id: "46019001B5CC8EF6"
 			tasks: [{
 				id: "1D20ABB632DB0734"
@@ -629,8 +630,8 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: -3.5d
+			x: -9.5d
+			y: 2.5d
 			id: "5616729557DAAA3F"
 			tasks: [{
 				id: "058960A237CDEB61"
@@ -639,8 +640,8 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: -4.5d
+			x: -5.5d
+			y: 0.0d
 			id: "75C240AE82EE45E1"
 			tasks: [{
 				id: "6263E7A2866639AF"
@@ -649,8 +650,8 @@
 			}]
 		}
 		{
-			x: -6.5d
-			y: -4.5d
+			x: -9.5d
+			y: -2.5d
 			id: "596EF613AC75F6F9"
 			tasks: [{
 				id: "50901D97324B288B"
@@ -659,8 +660,9 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: -2.5d
+			x: -10.0d
+			y: -1.5d
+			shape: "hexagon"
 			id: "3303E4F904EC9DC5"
 			tasks: [{
 				id: "149653EF4EE55327"
@@ -670,7 +672,8 @@
 		}
 		{
 			x: -7.5d
-			y: -1.5d
+			y: 1.0d
+			shape: "rsquare"
 			id: "6C1A64AB7478ED94"
 			tasks: [{
 				id: "7221C781B9A44F5F"
@@ -679,8 +682,9 @@
 			}]
 		}
 		{
-			x: -8.5d
-			y: -1.5d
+			x: -7.5d
+			y: -1.0d
+			shape: "rsquare"
 			id: "219E41A99F65B3F7"
 			tasks: [{
 				id: "04C5E3425CAB5E11"
@@ -689,8 +693,9 @@
 			}]
 		}
 		{
-			x: -7.5d
+			x: -10.5d
 			y: -0.5d
+			shape: "square"
 			id: "1A18766CBFE5CAB9"
 			tasks: [{
 				id: "6CB4AEEAFF7B8E65"
@@ -699,8 +704,9 @@
 			}]
 		}
 		{
-			x: -7.5d
+			x: -10.5d
 			y: 0.5d
+			shape: "square"
 			id: "57CDC7BDF791004B"
 			tasks: [{
 				id: "4A1E63F93B30B18B"
@@ -711,6 +717,7 @@
 		{
 			x: -8.5d
 			y: 0.5d
+			shape: "square"
 			id: "5EFA8AD1C3D774EF"
 			tasks: [{
 				id: "7F37F91CDA3A40F1"
@@ -721,6 +728,7 @@
 		{
 			x: -9.5d
 			y: 0.5d
+			shape: "square"
 			id: "47AE7B40831D79FF"
 			tasks: [{
 				id: "56470F76065252F7"
@@ -730,7 +738,8 @@
 		}
 		{
 			x: -9.5d
-			y: -3.5d
+			y: -0.5d
+			shape: "square"
 			id: "4E6D5AA39CBE712E"
 			tasks: [{
 				id: "049567E2C2E7B422"
@@ -739,8 +748,9 @@
 			}]
 		}
 		{
-			x: -10.5d
-			y: -3.5d
+			x: -8.5d
+			y: -0.5d
+			shape: "square"
 			id: "1DC5972E37492322"
 			tasks: [{
 				id: "252D218F0431FF54"
@@ -750,7 +760,8 @@
 		}
 		{
 			x: -6.5d
-			y: 0.5d
+			y: -1.0d
+			shape: "octagon"
 			id: "16B5556843D96D27"
 			tasks: [{
 				id: "0FF98DF2E8AC984D"
@@ -759,8 +770,9 @@
 			}]
 		}
 		{
-			x: -9.5d
-			y: 1.5d
+			x: -6.5d
+			y: 0.0d
+			shape: "octagon"
 			id: "51BC1903B482156D"
 			tasks: [{
 				id: "1B397E3BE37BE7EA"
@@ -769,8 +781,9 @@
 			}]
 		}
 		{
-			x: -10.5d
-			y: 1.5d
+			x: -6.5d
+			y: 1.0d
+			shape: "octagon"
 			id: "7EEA850EADBA7364"
 			tasks: [{
 				id: "4441D9ACB687B363"
@@ -779,8 +792,9 @@
 			}]
 		}
 		{
-			x: -9.5d
-			y: 2.5d
+			x: -11.5d
+			y: 0.0d
+			shape: "rsquare"
 			id: "20DF25E14BA20685"
 			tasks: [{
 				id: "07A7FD351C261D84"
@@ -789,8 +803,9 @@
 			}]
 		}
 		{
-			x: -8.5d
-			y: 2.5d
+			x: -10.0d
+			y: 1.5d
+			shape: "hexagon"
 			id: "54F571CA4C41A930"
 			tasks: [{
 				id: "5AA1FA25EA4A6A35"
@@ -799,8 +814,9 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: 2.5d
+			x: -9.0d
+			y: 1.5d
+			shape: "hexagon"
 			id: "7834878457FC30CF"
 			tasks: [{
 				id: "69C928D5FAF3CAC7"

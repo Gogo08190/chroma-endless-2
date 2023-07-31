@@ -1,0 +1,984 @@
+{
+	id: "3AFBDD224DBB8594"
+	group: "23866070F89333B0"
+	order_index: 4
+	filename: "stage_5"
+	title: "Stage 5"
+	icon: "mekanism:pellet_polonium"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 3.0d
+			shape: "octagon"
+			dependencies: ["50BEBF114CEB848D"]
+			id: "747A96F567ED2A9D"
+			tasks: [{
+				id: "6E60571A21AFC373"
+				type: "item"
+				item: "industrialforegoing:machine_frame_advanced"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 4.5d
+			dependencies: ["747A96F567ED2A9D"]
+			id: "2AC26892B4C7E57A"
+			tasks: [{
+				id: "287A4528B568DF16"
+				type: "item"
+				item: "industrialforegoing:laser_drill"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 6.5d
+			dependencies: ["2AC26892B4C7E57A"]
+			id: "7BE28B2B1CCDDAF6"
+			tasks: [{
+				id: "01B9A44899691C17"
+				type: "item"
+				item: "industrialforegoing:ore_laser_base"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 6.5d
+			dependencies: ["2AC26892B4C7E57A"]
+			id: "7C95A5580F91D3C5"
+			tasks: [{
+				id: "5B4084314A8B3E69"
+				type: "item"
+				item: "industrialforegoing:fluid_laser_base"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 6.0d
+			dependencies: ["7C95A5580F91D3C5"]
+			id: "15515B2F4D5D29EE"
+			tasks: [{
+				id: "759C9F441A5C3498"
+				type: "item"
+				item: "industrialforegoing:stasis_chamber"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 6.5d
+			dependencies: [
+				"24062937547520E1"
+				"15515B2F4D5D29EE"
+			]
+			id: "257656E2F983B5DB"
+			tasks: [{
+				id: "406C0B4C2B61F095"
+				type: "item"
+				item: "industrialforegoing:ether_gas_bucket"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 5.5d
+			dependencies: ["257656E2F983B5DB"]
+			id: "5A35C11EB5E8952C"
+			tasks: [{
+				id: "1894990058A46901"
+				type: "item"
+				item: "hostilenetworks:blank_data_model"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 4.0d
+			dependencies: ["5A35C11EB5E8952C"]
+			id: "2060921E320D85C9"
+			tasks: [{
+				id: "0B5DF3F6C49ECD5B"
+				type: "item"
+				item: "hostilenetworks:deep_learner"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 1.5d
+			dependencies: ["0FAF852128625FED"]
+			id: "343383D5090C8A9D"
+			tasks: [{
+				id: "64E3AC541E2E5471"
+				type: "item"
+				item: "hostilenetworks:sim_chamber"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 2.5d
+			dependencies: ["2060921E320D85C9"]
+			id: "0FAF852128625FED"
+			tasks: [{
+				id: "36979915CD7E3CAB"
+				type: "item"
+				item: "hostilenetworks:empty_prediction"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			dependencies: ["65A4B5688684173F"]
+			id: "2931EDD3863E43AB"
+			tasks: [{
+				id: "6ED73AE2A94FE468"
+				type: "item"
+				item: "hostilenetworks:loot_fabricator"
+			}]
+		}
+		{
+			x: 8.5d
+			y: 1.5d
+			dependencies: ["343383D5090C8A9D"]
+			id: "65A4B5688684173F"
+			tasks: [{
+				id: "73ECA96C15DDC314"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:gaia"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 10.5d
+			y: 3.5d
+			dependencies: ["2931EDD3863E43AB"]
+			id: "6D4B762DC4D67625"
+			tasks: [{
+				id: "7AA1722C36C27D0A"
+				type: "item"
+				item: "chroma:skin_of_gaia"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 4.5d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "1BCD87EA169CF749"
+			tasks: [{
+				id: "42B02A2F14B359D6"
+				type: "item"
+				item: "botanicalmachinery:alfheim_market"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 4.0d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "4D3BF170EDB666E6"
+			tasks: [{
+				id: "1977CFC4EFBCA9C0"
+				type: "item"
+				item: "botanicalmachinery:industrial_agglomeration_factory"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 3.5d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "35D15402F05086D2"
+			tasks: [{
+				id: "554C46558A4F1194"
+				type: "item"
+				item: "botanicalmachinery:mana_battery"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 4.0d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "602007D0A2467902"
+			tasks: [{
+				id: "47F342203502AD94"
+				type: "item"
+				item: "botanicalmachinery:mechanical_apothecary"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 3.0d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "46262FD843CFD99C"
+			tasks: [{
+				id: "2D283026D3DBF42D"
+				type: "item"
+				item: "botanicalmachinery:mechanical_brewery"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 3.0d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "3448279B5A74FDD5"
+			tasks: [{
+				id: "2815FFEBB88867C8"
+				type: "item"
+				item: "botanicalmachinery:mechanical_daisy"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 2.5d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "0087C95CC9D3EC5E"
+			tasks: [{
+				id: "6288BE7E0E248A3B"
+				type: "item"
+				item: "botanicalmachinery:mechanical_mana_pool"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 3.5d
+			shape: "diamond"
+			dependencies: ["6D4B762DC4D67625"]
+			id: "236ECD7574841CA1"
+			tasks: [{
+				id: "658E93390574EC80"
+				type: "item"
+				item: "botanicalmachinery:mechanical_runic_altar"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 6.5d
+			dependencies: ["679147CB44F37154"]
+			id: "78098B8558DDDFF6"
+			tasks: [{
+				id: "2D8EE247495C7A24"
+				type: "item"
+				item: "mythicbotany:mana_infuser"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 7.5d
+			dependencies: ["78098B8558DDDFF6"]
+			id: "0825C962C37E009B"
+			tasks: [{
+				id: "083B43C686C36043"
+				type: "item"
+				item: "mythicbotany:alfsteel_ingot"
+			}]
+		}
+		{
+			x: 9.5d
+			y: 5.0d
+			dependencies: ["6D4B762DC4D67625"]
+			id: "679147CB44F37154"
+			tasks: [{
+				id: "07CAE196700592FA"
+				type: "item"
+				item: "mythicbotany:asgard_rune"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 9.5d
+			dependencies: ["52F56B7B6D74315D"]
+			id: "2D76E0B474A5AD3F"
+			tasks: [{
+				id: "39ED91F3FF921A7E"
+				type: "item"
+				item: "mythicbotany:yggdrasil_branch"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 9.0d
+			dependencies: ["0825C962C37E009B"]
+			id: "52F56B7B6D74315D"
+			tasks: [{
+				id: "429D64F84BF61B5C"
+				type: "item"
+				item: "mythicbotany:gjallar_horn_empty"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 8.5d
+			dependencies: ["2D76E0B474A5AD3F"]
+			id: "42887545DC4394BD"
+			tasks: [{
+				id: "12FB80CB25E96401"
+				type: "item"
+				item: "mythicbotany:gjallar_horn_full"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 7.5d
+			dependencies: ["4DE07EAB08418456"]
+			id: "622A80DCF5F77256"
+			tasks: [
+				{
+					id: "2D9B0F429D0B8380"
+					type: "item"
+					item: "mythicbotany:central_rune_holder"
+				}
+				{
+					id: "77B2EDA8602EFFAC"
+					type: "item"
+					item: "mythicbotany:rune_holder"
+				}
+			]
+		}
+		{
+			x: 12.5d
+			y: 7.0d
+			dependencies: ["42887545DC4394BD"]
+			id: "4DE07EAB08418456"
+			tasks: [{
+				id: "112D5C8541DC277A"
+				type: "item"
+				item: "mythicbotany:fimbultyr_tablet"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 9.0d
+			dependencies: ["622A80DCF5F77256"]
+			id: "56C75D32AC7A2B65"
+			tasks: [{
+				id: "18CD1C52C93FE5ED"
+				type: "item"
+				item: "mythicbotany:kvasir_blood"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 10.5d
+			dependencies: ["56C75D32AC7A2B65"]
+			id: "1DC8F29F8F391174"
+			tasks: [{
+				id: "7359631C49FD66F2"
+				type: "item"
+				item: "mythicbotany:kvasir_mead"
+			}]
+		}
+		{
+			x: 12.0d
+			y: 11.5d
+			dependencies: ["1DC8F29F8F391174"]
+			id: "4D427C058BA363E7"
+			tasks: [{
+				id: "7F26B776556551B6"
+				type: "dimension"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/botania_portal_to_alfheim.png"
+					}
+				}
+				dimension: "mythicbotany:alfheim"
+			}]
+		}
+		{
+			x: 16.0d
+			y: 7.0d
+			dependencies: ["622A80DCF5F77256"]
+			id: "04B11FF0768394F6"
+			tasks: [
+				{
+					id: "12D0D5B5763C2BC2"
+					type: "item"
+					item: "alchemistry:fission_chamber_controller"
+				}
+				{
+					id: "239ABD1FBDC3C257"
+					type: "item"
+					item: "alchemistry:reactor_casing"
+					count: 59L
+				}
+				{
+					id: "4AD9CF9CD586F036"
+					type: "item"
+					item: "alchemistry:reactor_glass"
+					count: 35L
+				}
+				{
+					id: "674DC54BCB2EDC6A"
+					type: "item"
+					item: "alchemistry:fission_core"
+					count: 3L
+				}
+				{
+					id: "3608B99BE92E911B"
+					type: "item"
+					item: "alchemistry:reactor_energy"
+				}
+				{
+					id: "336482422FA62040"
+					type: "item"
+					item: "alchemistry:reactor_input"
+				}
+				{
+					id: "53D1AC4B0F3DDF6E"
+					type: "item"
+					item: "alchemistry:reactor_output"
+				}
+			]
+		}
+		{
+			x: 17.0d
+			y: 5.5d
+			dependencies: ["04B11FF0768394F6"]
+			id: "42F20B6B0B400B9B"
+			tasks: [{
+				id: "44AA3C6294A74525"
+				type: "item"
+				item: "minecraft:dragon_breath"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 4.0d
+			dependencies: ["42F20B6B0B400B9B"]
+			id: "2A951E69F0CB4ACF"
+			tasks: [{
+				id: "0D28EDDF75883749"
+				type: "item"
+				item: "chemlib:oganesson"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 3.0d
+			dependencies: ["2A951E69F0CB4ACF"]
+			id: "4C9AA5931F49F8C4"
+			tasks: [{
+				id: "093E2F43B0427D50"
+				type: "item"
+				item: "chemlib:praseodymium"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 3.0d
+			dependencies: ["4C9AA5931F49F8C4"]
+			id: "63A7AB662E0851BE"
+			tasks: [{
+				id: "42B1C24ECC8AEDC5"
+				type: "item"
+				item: "chemlib:praseodymium_dust"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 4.0d
+			dependencies: ["63A7AB662E0851BE"]
+			id: "3C38B6DDEFFB49CF"
+			tasks: [{
+				id: "1A99BDA9BBDC7B70"
+				type: "item"
+				item: "chemlib:praseodymium_ingot"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 5.5d
+			dependencies: ["3C38B6DDEFFB49CF"]
+			id: "7CF713989B400337"
+			tasks: [{
+				id: "0E0C6B5BFDBBCEAB"
+				type: "item"
+				item: "powah:crystal_spirited"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 7.0d
+			dependencies: ["7CF713989B400337"]
+			id: "2D9BE08791074A38"
+			tasks: [{
+				id: "7A60B0B022CF8A50"
+				type: "item"
+				item: "chemlib:polonium"
+			}]
+		}
+		{
+			x: 23.0d
+			y: 7.0d
+			dependencies: ["7CF713989B400337"]
+			id: "18958E3CDBD75BAA"
+			tasks: [{
+				id: "55E3DF58E07E4C3F"
+				type: "item"
+				item: "chemlib:molybdenum"
+			}]
+		}
+		{
+			x: 22.5d
+			y: 8.0d
+			shape: "hexagon"
+			dependencies: [
+				"2D9BE08791074A38"
+				"18958E3CDBD75BAA"
+			]
+			id: "507A104EDDE6BC6E"
+			tasks: [{
+				id: "4DAABA467537B9E4"
+				type: "item"
+				item: "biggerreactors:heat_exchanger_casing"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 7.0d
+			dependencies: ["7CF713989B400337"]
+			id: "0D6E1A24C67475B7"
+			tasks: [{
+				id: "0EF15A3743113E48"
+				type: "item"
+				item: "chemlib:thorium"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 7.0d
+			dependencies: ["7CF713989B400337"]
+			id: "24F5C5BDE207C27D"
+			tasks: [{
+				id: "10F91645AF9D75E7"
+				type: "item"
+				item: "chemlib:rhodium"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 8.0d
+			shape: "hexagon"
+			dependencies: [
+				"24F5C5BDE207C27D"
+				"0D6E1A24C67475B7"
+			]
+			id: "772F0ED44954058D"
+			tasks: [{
+				id: "3B1549D979A692CE"
+				type: "item"
+				item: "biggerreactors:turbine_casing"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 9.0d
+			shape: "hexagon"
+			dependencies: ["7CF713989B400337"]
+			id: "0D19F6F65A62CAD5"
+			tasks: [{
+				id: "597A771264D2CE16"
+				type: "item"
+				item: "beyond_earth_giselle_addon:advanced_compressor"
+			}]
+		}
+		{
+			x: 21.5d
+			y: 11.0d
+			shape: "diamond"
+			dependencies: ["0D19F6F65A62CAD5"]
+			id: "18F7F223F23D5051"
+			tasks: [{
+				id: "6F18025E6616682D"
+				type: "item"
+				item: "beyond_earth:desh_tank"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 11.5d
+			shape: "diamond"
+			dependencies: ["0D19F6F65A62CAD5"]
+			id: "44FE9E18E4066255"
+			tasks: [{
+				id: "6CA03CC2560D7FD5"
+				type: "item"
+				item: "beyond_earth:desh_engine"
+			}]
+		}
+		{
+			x: 20.5d
+			y: 11.0d
+			shape: "diamond"
+			dependencies: ["0D19F6F65A62CAD5"]
+			id: "1C5A2E78E2940B30"
+			tasks: [{
+				id: "78F62EB15443CFF1"
+				type: "item"
+				item: "chroma:desh_rocket_fin"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 10.5d
+			shape: "diamond"
+			dependencies: ["0D19F6F65A62CAD5"]
+			id: "597EF7F25371A4AB"
+			tasks: [{
+				id: "66A5085FE3167958"
+				type: "item"
+				item: "chroma:desh_rocket_nose_cone"
+			}]
+		}
+		{
+			x: 22.0d
+			y: 11.5d
+			shape: "diamond"
+			dependencies: ["0D19F6F65A62CAD5"]
+			id: "71EF898781617F51"
+			tasks: [{
+				id: "128716B09F154163"
+				type: "item"
+				item: "chroma:isolated_compressed_desh"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 12.5d
+			shape: "octagon"
+			dependencies: [
+				"44FE9E18E4066255"
+				"597EF7F25371A4AB"
+				"1C5A2E78E2940B30"
+				"71EF898781617F51"
+				"18F7F223F23D5051"
+			]
+			size: 1.5d
+			id: "7565DBCA47E5FA29"
+			tasks: [{
+				id: "558B4555F002C345"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t2"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 23.0d
+			y: 13.0d
+			dependencies: ["7565DBCA47E5FA29"]
+			id: "2163DBB8BBA7AC9B"
+			tasks: [{
+				id: "68FF755B7ACECD7A"
+				type: "dimension"
+				icon: "beyond_earth:mars_globe"
+				dimension: "beyond_earth:mars"
+			}]
+		}
+		{
+			title: "Nebula Extractor Tier 2 - Part 2"
+			x: 25.0d
+			y: 12.5d
+			dependencies: ["2163DBB8BBA7AC9B"]
+			id: "41994D55A5FF8CAA"
+			tasks: [
+				{
+					id: "29F33E12ECA10B5B"
+					type: "item"
+					item: "beyond_earth:ostrum_block"
+					count: 10L
+				}
+				{
+					id: "544253F1E56D2EA7"
+					type: "item"
+					item: "beyond_earth:moon_stone_brick_stairs"
+					count: 39L
+				}
+				{
+					id: "218FC5EFBB2FF828"
+					type: "item"
+					item: "beyond_earth:moon_stone_brick_slab"
+					count: 12L
+				}
+				{
+					id: "335BD3AFB14D694A"
+					type: "item"
+					item: "beyond_earth:blue_iron_plating_block"
+					count: 12L
+				}
+				{
+					id: "7F542E3E3D335485"
+					type: "item"
+					item: "engineersdecor:dark_shingle_roof"
+					count: 21L
+				}
+				{
+					id: "7B6A3D9F8EBCC1E7"
+					type: "item"
+					item: "engineersdecor:panzerglass_block"
+					count: 82L
+				}
+				{
+					id: "4D63A4BFACA61F77"
+					type: "item"
+					item: "ae2:sky_stone_stairs"
+					count: 12L
+				}
+				{
+					id: "15BBBD95FA7CF153"
+					type: "item"
+					item: "simplylight:illuminant_light_blue_block_on"
+					count: 4L
+				}
+				{
+					id: "78731FD09A2BF630"
+					type: "item"
+					item: "simplylight:illuminant_red_block_on"
+					count: 4L
+				}
+				{
+					id: "4546EDD9927BDA2F"
+					type: "item"
+					item: "immersiveengineering:coil_mv"
+					count: 48L
+				}
+				{
+					id: "1D4864A70E8B2311"
+					type: "item"
+					item: "botania:bifrost_perm"
+					count: 16L
+				}
+			]
+		}
+		{
+			title: "Nebula Extractor Tier 2 - Part 1"
+			x: 24.5d
+			y: 11.5d
+			dependencies: ["2163DBB8BBA7AC9B"]
+			id: "3F4201E9E363A9F6"
+			tasks: [
+				{
+					id: "4A92BF0F49CD4535"
+					type: "item"
+					item: "chroma:nebula_extractor_tier_2"
+				}
+				{
+					id: "22E01B7BC6ECB832"
+					type: "item"
+					item: "chroma:nebula_extractor_item_output"
+				}
+				{
+					id: "637F2B730B3E8448"
+					type: "item"
+					item: "chroma:nebula_extractor_energy_input"
+				}
+				{
+					id: "4ADD8428E4C53978"
+					type: "item"
+					item: "chroma:nebula_drill_t2"
+					count: 5L
+				}
+				{
+					id: "2F6E957F060B6368"
+					type: "item"
+					item: "chroma:nebula_frame"
+					count: 235L
+				}
+				{
+					id: "3ED2BC99558BBA7D"
+					type: "item"
+					item: "chroma:nebula_extractor_t2_frame"
+					count: 56L
+				}
+				{
+					id: "593C34E3B4EBC2CD"
+					type: "item"
+					item: "chroma:nebula_extractor_t2_laser_support"
+					count: 5L
+				}
+				{
+					id: "679327EC5D7AE9DF"
+					type: "item"
+					item: "chroma:nebula_extractor_t2_laser_top"
+					count: 5L
+				}
+			]
+		}
+		{
+			x: 26.5d
+			y: 11.0d
+			dependencies: [
+				"41994D55A5FF8CAA"
+				"3F4201E9E363A9F6"
+			]
+			id: "57840AD73A950D4B"
+			tasks: [{
+				id: "506882A69452B851"
+				type: "item"
+				item: "chroma:marsova_ignis"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 9.5d
+			dependencies: ["57840AD73A950D4B"]
+			id: "0619A2D3F2C25635"
+			tasks: [{
+				id: "5005A0AE6C8C9D63"
+				type: "item"
+				item: "chroma:enriched_marsova_ignis"
+			}]
+		}
+		{
+			x: 26.0d
+			y: 8.0d
+			dependencies: ["0619A2D3F2C25635"]
+			id: "512D0B0260B40184"
+			tasks: [{
+				id: "343CB4C80930F0D4"
+				type: "item"
+				item: "chroma:supreme_alloy"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 8.0d
+			dependencies: ["0619A2D3F2C25635"]
+			id: "2F47117134A461CA"
+			tasks: [{
+				id: "61B3FC73BACC424E"
+				type: "item"
+				item: "mekaevolution:supreme_control_circuit"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 6.5d
+			dependencies: [
+				"2F47117134A461CA"
+				"512D0B0260B40184"
+			]
+			id: "21D0D89DA435A15D"
+			tasks: [{
+				id: "5746AB848E46DD99"
+				type: "item"
+				item: "solarpanels:singular_energy_tablet"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 5.0d
+			shape: "octagon"
+			dependencies: ["21D0D89DA435A15D"]
+			size: 1.5d
+			id: "3C2687C97DC472FF"
+			tasks: [
+				{
+					id: "6B3F18A8B3476CF9"
+					type: "item"
+					item: "mekanismgenerators:fission_reactor_casing"
+				}
+				{
+					id: "3B935080AC68DEBC"
+					type: "item"
+					item: "mekanismgenerators:fission_reactor_port"
+				}
+				{
+					id: "502E9E1BA0B87E9D"
+					type: "item"
+					item: "mekanismgenerators:fission_fuel_assembly"
+				}
+				{
+					id: "6BED1DD7A80B0439"
+					type: "item"
+					item: "mekanismgenerators:control_rod_assembly"
+				}
+			]
+		}
+		{
+			x: 26.0d
+			y: 3.5d
+			dependencies: ["3C2687C97DC472FF"]
+			id: "3529824E045E1360"
+			tasks: [{
+				id: "529E372A4A57494C"
+				type: "item"
+				item: "mekanism:isotopic_centrifuge"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 3.5d
+			dependencies: ["3C2687C97DC472FF"]
+			id: "056B9932D61240C7"
+			tasks: [{
+				id: "4A743E4DE3D09263"
+				type: "item"
+				item: "mekanism:solar_neutron_activator"
+			}]
+		}
+		{
+			x: 26.5d
+			y: 2.0d
+			dependencies: [
+				"3529824E045E1360"
+				"056B9932D61240C7"
+			]
+			dependency_requirement: "one_completed"
+			id: "53EA38C17103CB3D"
+			tasks: [{
+				id: "27663AA541703A55"
+				type: "item"
+				item: "mekanism:pressurized_reaction_chamber"
+			}]
+		}
+		{
+			x: 26.0d
+			y: 0.5d
+			shape: "hexagon"
+			dependencies: ["53EA38C17103CB3D"]
+			id: "5D23D1F63DB8A972"
+			tasks: [{
+				id: "3FFE7664F04B1807"
+				type: "item"
+				item: "mekanism:pellet_plutonium"
+			}]
+		}
+		{
+			x: 27.0d
+			y: 0.5d
+			shape: "hexagon"
+			dependencies: ["53EA38C17103CB3D"]
+			id: "2191346972B755DB"
+			tasks: [{
+				id: "48498F80E2C7F8C6"
+				type: "item"
+				item: "mekanism:pellet_polonium"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 7.0d
+			dependencies: ["7C95A5580F91D3C5"]
+			id: "24062937547520E1"
+			tasks: [{
+				id: "79860DC6154C4C08"
+				type: "item"
+				item: "industrialforegoing:laser_lens10"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

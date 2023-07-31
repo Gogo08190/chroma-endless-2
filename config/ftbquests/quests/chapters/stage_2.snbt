@@ -520,6 +520,8 @@
 			x: 20.0d
 			y: 17.0d
 			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.43.subtitle.1}"
+			description: ["{chapter.stage.2.quest.43.description.1}"]
 			dependencies: ["440C256F6ADDE5EB"]
 			id: "07880249468AFCF2"
 			tasks: [{
@@ -870,6 +872,7 @@
 				"4AC826C9EEDBCFA3"
 			]
 			dependency_requirement: "one_completed"
+			min_width: 270
 			id: "683DB2F4EE7ED1C3"
 			tasks: [{
 				id: "794860803B1676F0"
@@ -1235,6 +1238,7 @@
 				"{image:chroma:textures/quests/botania_portal_to_alfheim.png width:100 height:100 align:1}"
 			]
 			dependencies: ["6B63E59473EAC48E"]
+			min_width: 250
 			id: "5671138804373AE9"
 			tasks: [
 				{
@@ -1295,6 +1299,7 @@
 				"{chapter.stage.2.quest.86.description.4}"
 			]
 			dependencies: ["119E0C4BAEC5B619"]
+			min_width: 300
 			id: "14E5EBEE823AD723"
 			tasks: [{
 				id: "74F6F56D247163AE"
