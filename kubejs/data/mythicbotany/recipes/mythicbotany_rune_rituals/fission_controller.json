@@ -1,0 +1,191 @@
+{
+  "type": "mythicbotany:rune_ritual",
+  "group": "rune_rituals",
+  "center": {
+    "item": "mythicbotany:fimbultyr_tablet"
+  },
+  "runes": [
+    {
+      "rune": {
+        "item": "chroma:absolute_alloy"
+      },
+      "x": -5,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chroma:absolute_alloy"
+      },
+      "x": 5,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chroma:absolute_alloy"
+      },
+      "x": 0,
+      "z": -5,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chroma:absolute_alloy"
+      },
+      "x": 0,
+      "z": 5,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mekaevolution:absolute_control_circuit"
+      },
+      "x": -4,
+      "z": -4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mekaevolution:absolute_control_circuit"
+      },
+      "x": -4,
+      "z": 4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mekaevolution:absolute_control_circuit"
+      },
+      "x": 4,
+      "z": -4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mekaevolution:absolute_control_circuit"
+      },
+      "x": 4,
+      "z": 4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": -3,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": 3,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": -2,
+      "z": 3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": 2,
+      "z": 3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": -3,
+      "z": -2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": 3,
+      "z": -2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": -2,
+      "z": -3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "alchemistry:reactor_casing"
+      },
+      "x": 2,
+      "z": -3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chemlib:neptunium"
+      },
+      "x": -2,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chemlib:neptunium"
+      },
+      "x": 2,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chemlib:neptunium"
+      },
+      "x": 0,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chemlib:neptunium"
+      },
+      "x": 0,
+      "z": -2,
+      "consume": true
+    }
+  ],
+  "mana": 500000,
+  "ticks": 200,
+  "inputs": [
+    {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+    {
+      "item": "powah:capacitor_niotic"
+    },
+    {
+      "item": "mythicbotany:alfsteel_pylon"
+    },
+    {
+      "item": "mna:transitory_tunnel"
+    }
+  ],
+  "outputs": [
+    {
+      "item": "alchemistry:fission_chamber_controller",
+      "count": 1
+    }
+  ]
+}
