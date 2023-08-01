@@ -127,4 +127,8 @@ const disabledItems = [
     'angelring:hardened_angel_ring',
     'angelring:reinforced_angel_ring',
     'angelring:resonant_angel_ring',
+
+    'mob_grinding_utils:spawner_upgrade_height',
+    'mob_grinding_utils:spawner_upgrade_width',
+    'mob_grinding_utils:entity_spawner',
 ];
