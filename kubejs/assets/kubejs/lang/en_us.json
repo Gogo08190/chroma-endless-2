@@ -250,12 +250,15 @@
   "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r.",
   "chapter.stage.2.quest.1.description.2": "So we suggest that you should keep it somewhere that you will remember !",
 
+  "chapter.stage.2.quest.2.title.1": "Look at a complete &6Alloy Kiln",
   "chapter.stage.2.quest.2.subtitle.1": "Build an &5Alloy Kiln",
   "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really useful to create early alloys.",
 
+  "chapter.stage.2.quest.3.title.1": "Look at a complete &6Coke Oven",
   "chapter.stage.2.quest.3.subtitle.1": "Build a &6Coke Oven&r",
   "chapter.stage.2.quest.3.description.1": "&6The Coke Oven&r is the first way to obtain &4Treated Wood&r with &7Creosote Oil&r.",
 
+  "chapter.stage.2.quest.4.title.1": "Look at a complete &6Blast Furnace",
   "chapter.stage.2.quest.4.subtitle.1": "Blasting expert",
   "chapter.stage.2.quest.4.description.1": "&6The Blast Furnace&r is the first step to do to have &9Steel Ingots&r.",
 
@@ -286,7 +289,7 @@
   "chapter.stage.2.quest.10.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "chapter.stage.2.quest.11.subtitle.1": "A Better and Powered &9Coke Oven&r",
-  "chapter.stage.2.quest.11.description.1": "Getting tired of using coal to get coal coke? Here is your chance.",
+  "chapter.stage.2.quest.11.description.1": "This multiblock is an improved version of the coke oven, it uses energy but is much faster!",
 
   "chapter.stage.2.quest.12.subtitle.1": "&6The Mixer&r",
   "chapter.stage.2.quest.12.description.1": "This is mainly used to mix an item with a liquid.",
@@ -371,7 +374,7 @@
 
   "chapter.stage.2.quest.37.subtitle.1": "Early Storage",
   "chapter.stage.2.quest.37.description.1": "By placing this on any storage, you will be able to manage it's inventory with Applied.",
-  "chapter.stage.2.quest.37.description.2": "Using Me Glass Cables might be a good idea",
+  "chapter.stage.2.quest.37.description.2": "Using Me Glass Cables might be a good idea.",
 
   "chapter.stage.2.quest.38.subtitle.1": "Viewing Items",
   "chapter.stage.2.quest.38.description.1": "This is a panel that can be able to see all items in your Applied Storages.",
@@ -379,7 +382,7 @@
 
   "chapter.stage.2.quest.39.subtitle.1": "Applied Crafting",
   "chapter.stage.2.quest.39.description.1": "Allow the player to craft with ME Storage.",
-  "chapter.stage.2.quest.39.description.2": "Using Me Glass Cables might be a good idea",
+  "chapter.stage.2.quest.39.description.2": "Using Me Glass Cables might be a good idea.",
 
   "chapter.stage.2.quest.40.subtitle.1": "Starting to get Mekanised",
   "chapter.stage.2.quest.40.description.1": "The start of a new Era is upon you.",
