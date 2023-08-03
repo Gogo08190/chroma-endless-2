@@ -135,16 +135,16 @@
   "chapter.stage.1.quest.23.description.2" : "The Deployer has 2 inventory slots; the held item and one extra internal slot. As well as unusable items, items harvested by the Deployer will be transferred to the extra slot to be removed by other machines, during this time the Deployer will stall. Items cannot be extracted from the extra slot directly by the player.",
 
   "chapter.stage.1.quest.24.subtitle.1": "A Better Casing",
-  "chapter.stage.1.quest.24.description.1" : "Using the previously crafted Deployer might be a good idea...just saying",
+  "chapter.stage.1.quest.24.description.1" : "Using the previously crafted Deployer might be a good idea...just saying.",
 
   "chapter.stage.1.quest.25.subtitle.1": "A new kind of Crafting",
-  "chapter.stage.1.quest.25.description.1" : "An array of Mechnical Crafters can be used to automate any recipe",
-  "chapter.stage.1.quest.25.description.2" : "All paths have to converge and lead to an output and that on any side of a crafter",
+  "chapter.stage.1.quest.25.description.1" : "An array of Mechnical Crafters can be used to automate any recipe.",
+  "chapter.stage.1.quest.25.description.2" : "All paths have to converge and lead to an output and that on any side of a crafter.",
 
   "chapter.stage.1.quest.26.subtitle.1": "A really useful component",
-  "chapter.stage.1.quest.26.description.1" : "Made with a circuit that you're gonna have to do 5 times,",
-  "chapter.stage.1.quest.26.description.2" : "The Precision Mechanism is going to be used in several useful recipes",
-  "chapter.stage.1.quest.26.description.3" : "Pro Tip : Making an early automation might be a good idea",
+  "chapter.stage.1.quest.26.description.1" : "Made with a sequence that you're gonna have to do 5 times,",
+  "chapter.stage.1.quest.26.description.2" : "The Precision Mechanism is going to be used in several useful recipes.",
+  "chapter.stage.1.quest.26.description.3" : "Pro Tip : Making an early automation might be a good idea.",
 
   "chapter.stage.1.quest.27.subtitle.1": "Mining With Create !",
   "chapter.stage.1.quest.27.description.1" : "First : Use an Ore Vein Finder to locate ores.",
@@ -156,7 +156,7 @@
   "chapter.stage.1.quest.29.description.1" : "Like the Drilling find a Fluid to extract and repeat the same steps.",
 
   "chapter.stage.1.quest.30.subtitle.1": "A better Eye",
-  "chapter.stage.1.quest.30s.description.1" : "Used to locate Ores or Fluid to extract with The Drill or The Well",
+  "chapter.stage.1.quest.30s.description.1" : "Used to locate Ores or Fluid to extract with The Drill or The Well.",
 
   "chapter.stage.1.quest.31.subtitle.1": "Starting Tinker !",
   "chapter.stage.1.quest.31.description.1" : "Tinker is a really useful mod ! I guess you should look the recipe to go on.",
@@ -211,14 +211,14 @@
   "chapter.stage.1.quest.45.description.2": "To power this multiblock, you will need stress and water.",
 
   "chapter.stage.1.quest.46.subtitle.1": "Magic Paper",
-  "chapter.stage.1.quest.46.description.1": "To get &5Vellum&r simply right click on a Cauldron of Water with Leather in your hand.",
+  "chapter.stage.1.quest.46.description.1": "To get &5Vellum&r simply right click on Water or a Cauldron of Water with Leather in your hand.",
 
   "chapter.stage.1.quest.47.subtitle.1": "Mana and Artifice's Ingame Wiki",
-  "chapter.stage.1.quest.47.description.1": "This book will guide your adventure on the &5&lMana and Artifice&r Mod",
+  "chapter.stage.1.quest.47.description.1": "This book will guide your adventure on the &5&lMana and Artifice&r Mod.",
   "chapter.stage.1.quest.47.description.2": "You will be able to find any information about the mod on this book.",
 
   "chapter.stage.1.quest.48.subtitle.1": "Occult Tree of Progression",
-  "chapter.stage.1.quest.48.description.1": "&9The Occulus&r is a block that will guide the player what Tier they are, what they have unlocked, and what the player needs to complete to advance to the next Tier",
+  "chapter.stage.1.quest.48.description.1": "&9The Occulus&r is a block that will guide the player what Tier they are, what they have unlocked, and what the player needs to complete to advance to the next Tier.",
   "chapter.stage.1.quest.48.description.2": "On the left of the GUI is a list of tabs with different information. On the right of the GUI is a bar that tells the player how far they have progressed to the next Tier.",
 
   "chapter.stage.1.quest.49.subtitle.1": "A new Altar",
