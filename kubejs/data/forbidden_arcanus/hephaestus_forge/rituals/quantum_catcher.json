@@ -1,11 +1,11 @@
 {
     "inputs": [
         {
-            "item": "forbidden_arcanus:spawner_scrap",
+            "item": "forbidden_arcanus:xpetrified_orb",
             "slot": 0
         },
         {
-            "item": "forbidden_arcanus:xpetrified_orb",
+            "item": "forbidden_arcanus:spawner_scrap",
             "slot": 1
         },
         {
@@ -13,11 +13,11 @@
             "slot": 2
         },
         {
-            "item": "forbidden_arcanus:spawner_scrap",
+            "item": "forbidden_arcanus:xpetrified_orb",
             "slot": 3
         },
         {
-            "item": "forbidden_arcanus:xpetrified_orb",
+            "item": "forbidden_arcanus:spawner_scrap",
             "slot": 4
         },
         {
