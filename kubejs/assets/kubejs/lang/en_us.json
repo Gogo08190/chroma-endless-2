@@ -394,21 +394,21 @@
   "chapter.stage.2.quest.40.description.2": "For now you'll have to use the Miniaturization crafting. An easier way will be available later.",
 
   "chapter.stage.2.quest.41.subtitle.1": "Infusing at it's best",
-  "chapter.stage.2.quest.41.description.1": "This machine is mainly used to infuse any available item into an Infusing Fluid.",
-  "chapter.stage.2.quest.41.description.2": "Each liquids will be used to create new items or ingots to advance in the game.",
+  "chapter.stage.2.quest.41.description.1": "This machine is mainly used to infuse infuse one substance into another.",
+  "chapter.stage.2.quest.41.description.2": "Each infuse types will be used to create new items or ingots to advance in the game.",
 
   "chapter.stage.2.quest.42.subtitle.1": "Certus Infused",
-  "chapter.stage.2.quest.42.description.1": "Simply Infuse Redstone and put a Charged Certus Quartz.",
+  "chapter.stage.2.quest.42.description.1": "Simply Infuse Charged Certus Quartz with Redstone infusion.",
 
   "chapter.stage.2.quest.43.subtitle.1": "Logic Processor Infused",
-  "chapter.stage.2.quest.43.description.1": "Simply Infuse Redstone and put a Logic Processor.",
+  "chapter.stage.2.quest.43.description.1": "Simply Infuse Logic Processor with Redstone infusion.",
 
   "chapter.stage.2.quest.44.subtitle.1": "Transforming into Basic Tier",
   "chapter.stage.2.quest.44.description.1": "Simply right click with this will transform any Mekanism machine into the Basic Tier",
   "chapter.stage.2.quest.44.description.2": "Obviously it won't work if your machine is already setup as the said tier.",
 
   "chapter.stage.2.quest.45.subtitle.1": "Basic Infusion",
-  "chapter.stage.2.quest.45.description.1": "Simply Infuse Redstone and put a Basic Control Circuit.",
+  "chapter.stage.2.quest.45.description.1": "Simply Infuse Basic Control Circuit with Redstone infusion.",
 
   "chapter.stage.2.quest.46.subtitle.1": "Better than a Crushing Wheel",
   "chapter.stage.2.quest.46.description.1": "This machine is mainly used to crush any compatible item.",
@@ -416,8 +416,8 @@
   "chapter.stage.2.quest.47.subtitle.1": "Hotter and Better Furnace",
   "chapter.stage.2.quest.47.description.1": "This machine is mainly used to cook or smelt any compatible item.",
 
-  "chapter.stage.2.quest.48.subtitle.1": "Restoring items to their former state",
-  "chapter.stage.2.quest.48.description.1": "This machine is mainly used to get former state of items.",
+  "chapter.stage.2.quest.48.subtitle.1": "Fuuusiionnn !",
+  "chapter.stage.2.quest.48.description.1": "This machine is mainly used to combine two items together.",
   "chapter.stage.2.quest.48.description.2": "Check JEI to see all available recipes.",
 
   "chapter.stage.2.quest.49.subtitle.1": "Smelting Mana",
@@ -431,7 +431,7 @@
   "chapter.stage.2.quest.52.subtitle.1": "Combining the Skies",
   "chapter.stage.2.quest.52.description.1": "Once you have obtained Charoite and Moonstone, you can combine them to obtain the &5Zeal Lighter&r.",
   "chapter.stage.2.quest.52.description.2": "Zeal Lighter is used to open both portals of Blue Skies that you can find in The Gatekeeper House.",
-  "chapter.stage.2.quest.52.description.3": "You can find the houses spawning in either plains, mountains, and most snowy biomes.",
+  "chapter.stage.2.quest.52.description.3": "You can find the houses spawning in either plains, mountains, and most snowy biomes or with the Structures Compass.",
 
   "chapter.stage.2.quest.53.title.1": "Visit Dimension : &bEverBright",
   "chapter.stage.2.quest.53.subtitle.1": "Accessing a kind of Heaven",
@@ -447,7 +447,7 @@
   "chapter.stage.2.quest.55.description.1": "Simply right click with this will transform any Basic Mekanism machine into the Advanced Tier.",
   "chapter.stage.2.quest.55.description.2": "Obviously it won't work if your machine is already setup as the said tier.",
 
-  "chapter.stage.2.quest.54.title.1": "Visit Dimension : &cEverDawn",
+  "chapter.stage.2.quest.56.title.1": "Visit Dimension : &cEverDawn",
   "chapter.stage.2.quest.56.subtitle.1": "Darkness has a new Home",
   "chapter.stage.2.quest.56.description.1": "The Everdawn has its sun forever rising. With this being a much more humid and warm world, insects and reptiles flourish.",
   "chapter.stage.2.quest.56.description.2": "Before entering, it’s worth preparing for poison and fire as many parts of this world may inflict those on you.",
@@ -460,7 +460,7 @@
   "chapter.stage.2.quest.58.description.1" : "This plant will transform any compatible items with a radius of 1 on any side execpt top and bottom.",
 
   "chapter.stage.2.quest.59.subtitle.1": "Purified Wood",
-  "chapter.stage.2.quest.59.description.1": "Livingrock is created by placing a block of &7Lunar Stone&r adjacent to a Pure Daisy.",
+  "chapter.stage.2.quest.59.description.1": "Livingwood is created by placing a block of &7Maple Log&r adjacent to a Pure Daisy.",
   "chapter.stage.2.quest.59.description.2": "After a minute it will transform into Livingwood.",
   "chapter.stage.2.quest.59.description.3": "Maple Sapling can be found in Blue Skies Dimension.",
 
