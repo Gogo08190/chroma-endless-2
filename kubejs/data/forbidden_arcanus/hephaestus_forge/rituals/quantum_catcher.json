@@ -1,0 +1,39 @@
+{
+    "inputs": [
+        {
+            "item": "forbidden_arcanus:spawner_scrap",
+            "slot": 0
+        },
+        {
+            "item": "forbidden_arcanus:xpetrified_orb",
+            "slot": 1
+        },
+        {
+            "item": "forbidden_arcanus:spawner_scrap",
+            "slot": 2
+        },
+        {
+            "item": "forbidden_arcanus:spawner_scrap",
+            "slot": 3
+        },
+        {
+            "item": "forbidden_arcanus:xpetrified_orb",
+            "slot": 4
+        },
+        {
+            "item": "forbidden_arcanus:spawner_scrap",
+            "slot": 5
+        }
+    ],
+    "hephaestus_forge_item": "forbidden_arcanus:arcane_crystal_block",
+    "essences": {
+        "aureal": 100,
+        "experience": 100,
+        "blood": 500,
+        "souls": 1
+    },
+    "result": {
+        "item": "forbidden_arcanus:quantum_catcher",
+        "count": 1
+    }
+}
