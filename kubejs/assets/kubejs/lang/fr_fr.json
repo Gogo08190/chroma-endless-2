@@ -283,6 +283,7 @@
   "chapter.stage.2.quest.9.description.2": "Pour des résultats optimaux, la vitesse dépend de l'espace devant le moulin à vent et si le flux d'air n'est pas obstrué.",
   "chapter.stage.2.quest.9.description.3": "Info : La pluie ou l'orage génère plus d'énergie.",
 
+  "chapter.stage.2.quest.10.title.1": "Regardez une &6Presse Métallique&r complète.",
   "chapter.stage.2.quest.10.subtitle.1": "La &6Presse Métallique&r.",
   "chapter.stage.2.quest.10.description.1": "Ceci est principalement utilisé pour donner forme à n'importe quel métal avec le moule placé sur son piston.",
   "chapter.stage.2.quest.10.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
@@ -291,6 +292,7 @@
   "chapter.stage.2.quest.11.subtitle.1": "Un &9Four à Coke&r amélioré et alimenté.",
   "chapter.stage.2.quest.11.description.1": "Ce multibloc est une version amélioré du coke oven, il utilise de l'énergie mais est beaucoup plus rapide !",
 
+  "chapter.stage.2.quest.12.title.1": "Regardez un &6Mixeur&r complet.",
   "chapter.stage.2.quest.12.subtitle.1": "&6Le Mixeur&r",
   "chapter.stage.2.quest.12.description.1": "Ceci est principalement utilisé pour mélanger un objet avec un liquide.",
   "chapter.stage.2.quest.12.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
@@ -300,11 +302,13 @@
   "chapter.stage.2.quest.13.description.1": "Les condensateurs peuvent stocker de l'&cIF&r.",
   "chapter.stage.2.quest.13.description.2": "Vous pouvez utiliser le marteau pour ajuster la configuration de chaque côté.",
 
+  "chapter.stage.2.quest.14.title.1": "Regardez un &6Fermenteur&r complet.",
   "chapter.stage.2.quest.14.subtitle.1": "Le &6Fermenteur&r.",
   "chapter.stage.2.quest.14.description.1": "Ceci est principalement utilisé pour distiller n'importe quelle nourriture en croissance en &7&lÉthanol&r.",
   "chapter.stage.2.quest.14.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.14.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
+  "chapter.stage.2.quest.15.title.1": "Regardez une &6Raffinerie&r complète.",
   "chapter.stage.2.quest.15.subtitle.1": "La &6Raffinerie&r",
   "chapter.stage.2.quest.15.description.1": "Ceci est principalement utilisé pour mélanger deux liquides ensemble pour en obtenir un meilleur.",
   "chapter.stage.2.quest.15.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
@@ -313,6 +317,7 @@
   "chapter.stage.2.quest.16.subtitle.1": "Utilisation de &6La Raffinerie&r.",
   "chapter.stage.2.quest.16.description.1": "Obtenir ce liquide vous permettra de progresser davantage à cette étape.",
 
+  "chapter.stage.2.quest.17.title.1": "Regardez une &6Embouteilleuse&r complète.",
   "chapter.stage.2.quest.17.subtitle.1": "L'&6Embouteilleuse&r",
   "chapter.stage.2.quest.17.description.1": "Ceci est principalement utilisé pour remplir n'importe quel objet avec un fluide.",
   "chapter.stage.2.quest.17.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
@@ -348,6 +353,7 @@
 
   "chapter.stage.2.quest.27.subtitle.1": "Impression de Quartz Certus",
 
+  "chapter.stage.2.quest.28.title.1": "Regardez un &6Four à Arcs&r complet.",
   "chapter.stage.2.quest.28.subtitle.1": "Le &6Four à Arcs&r.",
   "chapter.stage.2.quest.28.description.1": "Ceci est principalement utilisé pour fondre des objets avancés et obtenir des processeurs. ",
   "chapter.stage.2.quest.28.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
@@ -562,5 +568,11 @@
   "chapter.stage.2.quest.88.description.3": "You will need it to unlock Powah and craft the Silicon Paste.",
 
   "chapter.stage.2.quest.89.subtitle.1": "A lot of resources",
-  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension !"
+  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension !",
+
+  "chapter.stage.2.quest.90.title.1": "Regardez une &6Presse-fruits industrielle&r complète.",
+  "chapter.stage.2.quest.90.subtitle.1": "La &6Presse à fruits&r",
+  "chapter.stage.2.quest.90.description.1": "&6La Presse à fruits&r est utilisée pour fabriquer de l'huile végétale ou de la poussière de graphite HOP.",
+  "chapter.stage.2.quest.90.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
+  "chapter.stage.2.quest.90.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc."
 }

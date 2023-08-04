@@ -291,6 +291,7 @@
   "chapter.stage.2.quest.11.subtitle.1": "A Better and Powered &9Coke Oven&r",
   "chapter.stage.2.quest.11.description.1": "This multiblock is an improved version of the coke oven, it uses energy but is much faster!",
 
+  "chapter.stage.2.quest.12.title.1": "Look at a complete &6Mixer",
   "chapter.stage.2.quest.12.subtitle.1": "&6The Mixer&r",
   "chapter.stage.2.quest.12.description.1": "This is mainly used to mix an item with a liquid.",
   "chapter.stage.2.quest.12.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
@@ -300,11 +301,13 @@
   "chapter.stage.2.quest.13.description.1": "Accumulators can stock &cIF&r.",
   "chapter.stage.2.quest.13.description.2": "You can use the hammer to adjust the configuration of each side.",
 
+  "chapter.stage.2.quest.14.title.1": "Look at a complete &6Fermenter",
   "chapter.stage.2.quest.14.subtitle.1": "&6The Fermenter&r",
   "chapter.stage.2.quest.14.description.1": "This is mainly used to distill any growing food into &7&lEthanol&r",
   "chapter.stage.2.quest.14.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.14.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
+  "chapter.stage.2.quest.15.title.1": "Look at a complete &6Refinery",
   "chapter.stage.2.quest.15.subtitle.1": "&6The Refinery&r",
   "chapter.stage.2.quest.15.description.1": "This is mainly used to mix two liquids together to have a better one",
   "chapter.stage.2.quest.15.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
@@ -313,6 +316,7 @@
   "chapter.stage.2.quest.16.subtitle.1": "Using &6The Refinery&r",
   "chapter.stage.2.quest.16.description.1": "Getting this liquid will allow you to advance further in this stage.",
 
+  "chapter.stage.2.quest.17.title.1": "Look at a complete &6Bottling machine",
   "chapter.stage.2.quest.17.subtitle.1": "&6The Bottling machine&r",
   "chapter.stage.2.quest.17.description.1": "This is mainly used to fill any item with fluid.",
   "chapter.stage.2.quest.17.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
@@ -348,6 +352,7 @@
 
   "chapter.stage.2.quest.27.subtitle.1": "Printing Certus Quartz",
 
+  "chapter.stage.2.quest.28.title.1": "Look at a complete &6Arc Furnace",
   "chapter.stage.2.quest.28.subtitle.1": "&6The Arc Furnace&r",
   "chapter.stage.2.quest.28.description.1": "This is mainly used to smelt advanced items and getting processors. ",
   "chapter.stage.2.quest.28.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
@@ -562,5 +567,11 @@
   "chapter.stage.2.quest.88.description.3": "You will need it to unlock Powah and craft the Silicon Paste.",
 
   "chapter.stage.2.quest.89.subtitle.1": "A lot of resources",
-  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension !"
+  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension !",
+
+  "chapter.stage.2.quest.90.title.1": "Look at a complete &6Industrial Squeezer",
+  "chapter.stage.2.quest.90.subtitle.1": "&6The Industrial Squeezer&r",
+  "chapter.stage.2.quest.90.description.1": "&6The Industrial Squeezer&r is used to make Plant Oil or HOP Graphite Dust.",
+  "chapter.stage.2.quest.90.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
+  "chapter.stage.2.quest.90.description.3": "ProTip : The red block is where you should click to form the multiblock."
 }
