@@ -43,6 +43,31 @@ onEvent('recipes', (event) => {
           result: { item: 'beyond_earth:nasa_workbench' },
           id: 'beyond_earth:nasa_workbench'
       },
+      {
+          inputs: [
+              { item: 'powah:capacitor_blazing' },
+              { item: 'solarpanels:quantum_energy_tablet'},
+              { item: 'powah:capacitor_blazing' },
+              { item: 'graveyard:corruption' },
+              { item: 'thermal:signalum_ingot' },
+              { item: 'mekanism:elite_control_circuit' },
+              { item: 'thermal:signalum_ingot' },
+              { item: 'graveyard:corruption' },
+              { item: 'ae2:matter_ball' },
+              { item: 'powah:charged_snowball' },
+              { item: 'ae2:matter_ball' },
+              { item: 'graveyard:corruption' },
+              { item: 'thermal:signalum_ingot' },
+              { item: 'mekanism:elite_control_circuit' },
+              { item: 'thermal:signalum_ingot' },
+              { item: 'graveyard:corruption' }
+          ],
+          catalyst: { item: 'angelring:itemring' },
+          powerCost: 1000000,
+          powerRate: 1000,
+          result: { item: 'angelring:energetic_angel_ring' },
+          id: 'angelring:energetic_angel_ring'
+      },
     ];
 
     recipes.forEach((recipe) => {
