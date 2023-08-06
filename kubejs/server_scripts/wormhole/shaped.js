@@ -65,6 +65,39 @@ onEvent('recipes', (event) => {
             },
             id: 'wormhole:basic_target_cell'
         },
+        {
+            output: 'wormhole:portal_stabilizer',
+            pattern: ['CLC', 'AFA', 'CRC'],
+            key: {
+                C: '#forge:ingots/compressed_iron',
+                R: '#forge:storage_blocks/redstone',
+                A: 'mekanism:advanced_control_circuit',
+                L: '#forge:storage_blocks/lapis',
+                F: 'ae2:fluix_pearl'
+            },
+            id: 'wormhole:portal_stabilizer'
+        },
+        {
+            output: 'wormhole:advanced_energy_cell',
+            pattern: ['CQC', 'ABA', 'CQC'],
+            key: {
+                C: '#forge:ingots/compressed_iron',
+                Q: 'ae2:charged_certus_quartz_crystal',
+                A: 'mekanism:alloy_reinforced',
+                B: 'wormhole:basic_energy_cell'
+            },
+            id: 'wormhole:advanced_energy_cell'
+        },
+        {
+            output: 'wormhole:basic_energy_cell',
+            pattern: ['CEC', 'EHE', 'CEC'],
+            key: {
+                C: '#forge:ingots/compressed_iron',
+                E: 'powah:steel_energized',
+                H: 'powah:capacitor_hardened'
+            },
+            id: 'wormhole:basic_energy_cell'
+        },
     ];
     
 
