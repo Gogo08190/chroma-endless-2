@@ -71,7 +71,7 @@ onEvent('recipes', (event) => {
             key: {
                 C: '#forge:ingots/compressed_iron',
                 R: '#forge:storage_blocks/redstone',
-                A: 'mekanism:advanced_control_circuit',
+                A: '#forge:circuits/advanced',
                 L: '#forge:storage_blocks/lapis',
                 F: 'ae2:fluix_pearl'
             },
@@ -83,7 +83,7 @@ onEvent('recipes', (event) => {
             key: {
                 C: '#forge:ingots/compressed_iron',
                 Q: 'ae2:charged_certus_quartz_crystal',
-                A: 'mekanism:alloy_reinforced',
+                A: '#forge:alloys/elite',
                 B: 'wormhole:basic_energy_cell'
             },
             id: 'wormhole:advanced_energy_cell'
