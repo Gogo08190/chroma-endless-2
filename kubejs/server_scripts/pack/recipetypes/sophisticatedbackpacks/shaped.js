@@ -12,17 +12,6 @@ onEvent('recipes', (event) => {
             id: 'sophisticatedbackpacks:upgrade_base'
         },
         {
-            output: 'functionalstorage:storage_controller',
-            pattern: ['SQS', 'DED', 'SQS'],
-            key: {
-                S: '#forge:stone',
-                Q: '#forge:storage_blocks/quartz',
-                E: 'create:electron_tube',              
-                D: '#functionalstorage:drawer'
-            },
-            id: 'functionalstorage:storage_controller'
-        },
-        {
             output: 'sophisticatedbackpacks:void_upgrade',
             pattern: [' E ', 'OBO', 'ROR'],
             key: {
