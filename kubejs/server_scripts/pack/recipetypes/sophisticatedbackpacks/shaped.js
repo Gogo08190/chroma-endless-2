@@ -17,7 +17,7 @@ onEvent('recipes', (event) => {
             key: {
                 B: 'sophisticatedbackpacks:upgrade_base',
                 E: 'rftoolsbase:infused_enderpearl',
-                R: '#forge:dusts/redstone',              
+                R: '#forge:dusts/redstone',
                 O: 'forbidden_arcanus:processed_obsidian_block'
             },
             id: 'sophisticatedbackpacks:void_upgrade'
@@ -28,18 +28,18 @@ onEvent('recipes', (event) => {
             key: {
                 B: 'sophisticatedbackpacks:upgrade_base',
                 I: '#forge:plates/iron',
-                R: '#forge:dusts/redstone',              
+                R: '#forge:dusts/redstone',
                 P: 'minecraft:piston'
             },
             id: 'sophisticatedbackpacks:compacting_upgrade'
         },
         {
-            output: 'sophisticatedbackpacks:compacting_upgrade',
+            output: 'sophisticatedbackpacks:smelting_upgrade',
             pattern: ['RIR', 'IBI', 'RFR'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 I: '#forge:plates/iron',
-                R: '#forge:dusts/redstone',              
+                R: '#forge:dusts/redstone',
                 F: 'minecraft:furnace'
             },
             id: 'sophisticatedbackpacks:smelting_upgrade'
@@ -48,9 +48,9 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:smoking_upgrade',
             pattern: ['RIR', 'IBI', 'RSR'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 I: '#forge:plates/iron',
-                R: '#forge:dusts/redstone',              
+                R: '#forge:dusts/redstone',
                 S: 'minecraft:smoker'
             },
             id: 'sophisticatedbackpacks:smoking_upgrade'
@@ -59,9 +59,9 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:blasting_upgrade',
             pattern: ['RIR', 'IBI', 'RFR'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 I: '#forge:plates/iron',
-                R: '#forge:dusts/redstone',              
+                R: '#forge:dusts/redstone',
                 F: 'minecraft:blast_furnace'
             },
             id: 'sophisticatedbackpacks:blasting_upgrade'
@@ -70,8 +70,8 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:filter_upgrade',
             pattern: ['RSR', 'SBS', 'RSR'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
-                R: '#forge:dusts/redstone',              
+                B: 'sophisticatedbackpacks:upgrade_base',
+                R: '#forge:dusts/redstone',
                 S: 'botania:mana_string'
             },
             id: 'sophisticatedbackpacks:filter_upgrade'
@@ -80,10 +80,10 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:deposit_upgrade',
             pattern: [' P ', 'IBI', 'RCR'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 C: '#forge:chests/wooden',
                 P: 'minecraft:piston',
-                R: '#forge:dusts/redstone',              
+                R: '#forge:dusts/redstone',
                 I: '#forge:plates/iron'
             },
             id: 'sophisticatedbackpacks:deposit_upgrade'
@@ -92,9 +92,9 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:stonecutter_upgrade',
             pattern: [' C ', 'IBI', ' R '],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 C: 'minecraft:stonecutter',
-                R: '#forge:dusts/redstone',              
+                R: '#forge:dusts/redstone',
                 I: '#forge:plates/iron'
             },
             id: 'sophisticatedbackpacks:stonecutter_upgrade'
@@ -103,12 +103,12 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:tool_swapper_upgrade',
             pattern: ['RWR', 'PBA', 'ISI'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
-                A: Item.of('minecraft:wooden_axe', '{Damage:0}'),
-                S: Item.of('minecraft:wooden_shovel', '{Damage:0}'),
-                P: Item.of('minecraft:wooden_pickaxe', '{Damage:0}'),
-                W: Item.of('minecraft:wooden_sword', '{Damage:0}'),
-                R: '#forge:dusts/redstone',              
+                B: 'sophisticatedbackpacks:upgrade_base',
+                A: Item.of('minecraft:wooden_axe', '{Damage:0}').weakNBT(),
+                S: Item.of('minecraft:wooden_shovel', '{Damage:0}').weakNBT(),
+                P: Item.of('minecraft:wooden_pickaxe', '{Damage:0}').weakNBT(),
+                W: Item.of('minecraft:wooden_sword', '{Damage:0}').weakNBT(),
+                R: '#forge:dusts/redstone',
                 I: '#forge:plates/iron'
             },
             id: 'sophisticatedbackpacks:tool_swapper_upgrade'
@@ -117,7 +117,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:jukebox_upgrade',
             pattern: [' J ', 'IBI', ' R '],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 J: 'minecraft:jukebox',
                 I: '#forge:plates/iron',
                 R: '#forge:dusts/redstone'
@@ -128,7 +128,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:everlasting_upgrade',
             pattern: ['CSC', 'SBS', 'CSC'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 C: 'minecraft:end_crystal',
                 S: 'forbidden_arcanus:dark_nether_star'
             },
@@ -138,7 +138,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:inception_upgrade',
             pattern: ['ESE', 'DBD', 'EDE'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 D: '#forge:plates/mana_diamond',
                 E: 'rftoolsbase:infused_enderpearl',
                 S: 'forbidden_arcanus:dark_nether_star'
@@ -149,7 +149,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:crafting_upgrade',
             pattern: [' T ', 'IBI', ' C '],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 C: '#forge:chests/wooden',
                 T: 'minecraft:crafting_table',
                 I: '#forge:plates/iron'
@@ -160,7 +160,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:pickup_upgrade',
             pattern: [' P ', 'SBS', 'RRR'],
             key: {
-                B: 'sophisticatedbackpacks:smelting_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 R: '#forge:dusts/redstone',
                 S: 'botania:mana_string',
                 P: 'minecraft:sticky_piston'
@@ -235,7 +235,7 @@ onEvent('recipes', (event) => {
             },
             id: 'sophisticatedbackpacks:magnet_upgrade'
         },
-        
+
     ];
 
     recipes.forEach((recipe) => {
