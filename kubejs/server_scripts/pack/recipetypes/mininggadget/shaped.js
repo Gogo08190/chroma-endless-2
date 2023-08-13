@@ -46,7 +46,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mininggadgets:upgrade_fortune_2',
-            pattern: ['EGE', 'GBG', 'EGE'],
+            pattern: ['SGS', 'GBG', 'SGS'],
             key: {
                 G: '#forge:storage_blocks/rose_gold',
                 B: 'mininggadgets:upgrade_fortune_1',
@@ -56,7 +56,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mininggadgets:upgrade_fortune_3',
-            pattern: ['CDC', 'CBC', 'CDC'],
+            pattern: ['CDC', 'DBD', 'CDC'],
             key: {
                 D: 'rftoolsbase:infused_diamond',
                 B: 'mininggadgets:upgrade_fortune_2',
@@ -157,7 +157,7 @@ onEvent('recipes', (event) => {
             output: 'mininggadgets:upgrade_efficiency_5',
             pattern: ['CCC', 'CAC', 'CCC'],
             key: {
-                B: 'mininggadgets:upgrade_efficiency_4',
+                A: 'mininggadgets:upgrade_efficiency_4',
                 C: '#forge:ingots/cloggrum'
             },
             id: 'mininggadgets:upgrade_efficiency_5'
