@@ -60,7 +60,7 @@ onEvent('recipes', (event) => {
             pattern: ['CMC', 'MOM', 'CMC'],
             key: {
                 C: '#forge:ingots/compressed_iron',
-                O: Item.of('minecraft:compass').ignoreNBT(),
+                O: 'minecraft:compass',
                 M: '#forge:ingots/manasteel'
             },
             id: 'wormhole:basic_target_cell'
@@ -99,7 +99,7 @@ onEvent('recipes', (event) => {
             id: 'wormhole:basic_energy_cell'
         },
     ];
-    
+
 
     recipes.forEach((recipe) => {
         event.shaped(recipe.output, recipe.pattern, recipe.key).id(recipe.id);
