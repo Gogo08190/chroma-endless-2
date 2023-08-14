@@ -235,6 +235,18 @@ onEvent('recipes', (event) => {
             },
             id: 'sophisticatedbackpacks:magnet_upgrade'
         },
+        {
+            output: 'sophisticatedbackpacks:feeding_upgrade',
+            pattern: [' C ', 'ABM', ' E '],
+            key: {
+                B: 'sophisticatedbackpacks:upgrade_base',
+                C: 'minecraft:golden_carrot',
+                A: 'minecraft:golden_apple',
+                M: 'minecraft:glistering_melon_slice',
+                E: 'rftoolsbase:infused_enderpearl'
+            },
+            id: 'sophisticatedbackpacks:feeding_upgrade'
+        },
 
     ];
 
