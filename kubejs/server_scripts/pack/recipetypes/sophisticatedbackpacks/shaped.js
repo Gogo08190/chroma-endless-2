@@ -171,7 +171,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:pickup_upgrade',
             pattern: [' E ', 'IBI', 'RCR'],
             key: {
-                B: 'sophisticatedbackpacks:refill_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 R: '#forge:dusts/redstone',
                 C: '#forge:chests/wooden',
                 E: 'rftoolsbase:infused_enderpearl',
@@ -183,7 +183,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:restock_upgrade',
             pattern: [' P ', 'IBI', 'RCR'],
             key: {
-                B: 'sophisticatedbackpacks:refill_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 R: '#forge:dusts/redstone',
                 C: '#forge:chests/wooden',
                 P: 'minecraft:sticky_piston',
@@ -195,10 +195,10 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:pump_upgrade',
             pattern: ['GTG', 'PBS', 'GTG'],
             key: {
-                B: 'sophisticatedbackpacks:refill_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 S: 'minecraft:sticky_piston',
                 G: 'evilcraft:obscured_glass',
-                P: 'minecraft:sticky_piston',
+                P: 'minecraft:piston',
                 T: 'mob_grinding_utils:xp_tap'
             },
             id: 'sophisticatedbackpacks:pump_upgrade'
@@ -207,7 +207,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:tank_upgrade',
             pattern: ['MTM', 'MBM', 'MTM'],
             key: {
-                B: 'sophisticatedbackpacks:refill_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 M: 'botania:mana_glass',
                 T: 'mekanism:basic_fluid_tank'
             },
@@ -217,7 +217,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:battery_upgrade',
             pattern: ['GRG', 'RBR', 'GRG'],
             key: {
-                B: 'sophisticatedbackpacks:refill_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 R: 'thermal:rf_coil',
                 G: '#forge:plates/gold'
             },
@@ -227,7 +227,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:magnet_upgrade',
             pattern: ['EIE', 'IBI', 'R L'],
             key: {
-                B: 'sophisticatedbackpacks:refill_upgrade',
+                B: 'sophisticatedbackpacks:upgrade_base',
                 R: '#forge:dusts/redstone',
                 L: '#forge:gems/lapis',
                 I: '#forge:plates/iron',
