@@ -573,5 +573,79 @@
   "chapter.stage.2.quest.90.subtitle.1": "&6The Industrial Squeezer&r",
   "chapter.stage.2.quest.90.description.1": "&6The Industrial Squeezer&r is used to make Plant Oil or HOP Graphite Dust.",
   "chapter.stage.2.quest.90.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
-  "chapter.stage.2.quest.90.description.3": "ProTip : The red block is where you should click to form the multiblock."
+  "chapter.stage.2.quest.90.description.3": "ProTip : The red block is where you should click to form the multiblock.",
+
+  "Stage 3":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+  
+  "chapter.stage.3.quest.1.subtitle.1": "A new green ore",
+  "chapter.stage.3.quest.1.description.1": "You can get this new material by mining.",
+
+  "chapter.stage.3.quest.2.subtitle.1": "Dielectric Preparation",
+  "chapter.stage.3.quest.2.description.1": "Throw your Silicon into a pool of mana and get this item.",
+
+  "chapter.stage.3.quest.3.title": "Dieletric Rods",
+  "chapter.stage.3.quest.3.subtitle.1": "Casing Building",
+  "chapter.stage.3.quest.3.description.1": "Throw your Silicon into a pool of mana and get this item.",
+
+  "chapter.stage.3.quest.4.title": "Dieletric Rods",
+  "chapter.stage.3.quest.4.subtitle.1": "Casing Building",
+  "chapter.stage.3.quest.4.description.1": "Throw your Silicon into a pool of mana and get this item.",
+
+  "chapter.stage.3.quest.5.subtitle.1": "Crafting Capacitors",
+
+  "chapter.stage.3.quest.6.subtitle.1": "Double Efficiency",
+
+  "chapter.stage.3.quest.7.subtitle.1": "Storing Powah",
+  "chapter.stage.3.quest.7.description.1": "This battery is upgradable and can be used to get Energized Items with the corresponding tier.",
+
+  "chapter.stage.3.quest.8.subtitle.1": "A new way to craft",
+  "chapter.stage.3.quest.8.description.1": "Each tier has a maximum energy storage, by upgrading the Energizing Craft you will be able to craft faster.",
+
+  "chapter.stage.3.quest.9.subtitle.1": "A new way to craft",
+  "chapter.stage.3.quest.9.description.1": "Each tier has a maximum energy storage, by upgrading the Energizing Craft you will be able to craft faster.",
+
+  "chapter.stage.3.quest.10.subtitle.1": "Item Energizer",
+  "chapter.stage.3.quest.10.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !.",
+  
+  "chapter.stage.3.quest.11.subtitle.1": "Your first Energized Craft",
+  "chapter.stage.3.quest.11.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
