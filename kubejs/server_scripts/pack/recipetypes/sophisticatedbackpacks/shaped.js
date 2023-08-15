@@ -247,7 +247,192 @@ onEvent('recipes', (event) => {
             },
             id: 'sophisticatedbackpacks:feeding_upgrade'
         },
-
+        {
+            output: 'sophisticatedbackpacks:advanced_filter_upgrade',
+            pattern: ['   ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:filter_upgrade',
+                R: '#forge:dusts/redstone',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_filter_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_magnet_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:magnet_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_magnet_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_feeding_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:feeding_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_feeding_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_compacting_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:compacting_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_compacting_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_void_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:void_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_void_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_restock_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:restock_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_restock_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_deposit_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:deposit_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_deposit_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_refill_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:refill_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_refill_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_tool_swapper_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:tool_swapper_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_tool_swapper_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_pickup_upgrade',
+            pattern: [' D ', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:pickup_upgrade',
+                R: '#forge:dusts/redstone',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_pickup_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:auto_smelting_upgrade',
+            pattern: ['DOD', 'RBO', 'GOG'],
+            key: {
+                B: 'sophisticatedbackpacks:smelting_upgrade',
+                R: '#forge:dusts/redstone',
+                O: 'pneumaticcraft:omnidirectional_hopper',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:auto_smelting_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:auto_smoking_upgrade',
+            pattern: ['DOD', 'RBO', 'GOG'],
+            key: {
+                B: 'sophisticatedbackpacks:smoking_upgrade',
+                R: '#forge:dusts/redstone',
+                O: 'pneumaticcraft:omnidirectional_hopper',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:auto_smoking_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:auto_blasting_upgrade',
+            pattern: ['DOD', 'RBO', 'GOG'],
+            key: {
+                B: 'sophisticatedbackpacks:blasting_upgrade',
+                R: '#forge:dusts/redstone',
+                O: 'pneumaticcraft:omnidirectional_hopper',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:auto_blasting_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:advanced_pump_upgrade',
+            pattern: ['DSD', 'GBG', 'RRR'],
+            key: {
+                B: 'sophisticatedbackpacks:pump_upgrade',
+                R: '#forge:dusts/redstone',
+                S: 'minecraft:dispenser',
+                D: 'rftoolsbase:infused_diamond',
+                G: '#forge:plates/gold'
+            },
+            id: 'sophisticatedbackpacks:advanced_pump_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:xp_pump_upgrade',
+            pattern: ['RER', 'XBX', 'RER'],
+            key: {
+                B: 'sophisticatedbackpacks:pump_upgrade',
+                R: '#forge:dusts/redstone',
+                E: 'rftoolsbase:infused_enderpearl',
+                X: 'thermal:xp_crystal'
+            },
+            id: 'sophisticatedbackpacks:xp_pump_upgrade'
+        },
+        {
+            output: 'sophisticatedbackpacks:stack_upgrade_tier_2',
+            pattern: ['AAA', 'ABA', 'AAA'],
+            key: {
+                B: 'sophisticatedbackpacks:stack_upgrade_tier_1',
+                A: '#forge:storage_blocks/arcane_gold'
+            },
+            id: 'sophisticatedbackpacks:stack_upgrade_tier_2'
+        },
+        {
+            output: 'sophisticatedbackpacks:stack_upgrade_tier_3',
+            pattern: ['DDD', 'DAD', 'DDD'],
+            key: {
+                B: 'sophisticatedbackpacks:stack_upgrade_tier_2',
+                D: '#forge:storage_blocks/mana_diamond'
+            },
+            id: 'sophisticatedbackpacks:stack_upgrade_tier_3'
+        },
     ];
 
     recipes.forEach((recipe) => {
