@@ -2,41 +2,66 @@
   "recipes.lychee.item_inside.charoite.condition.description": "Se converti dans les environs de midi (3:20 - 6:40). S'annule si laissé trop longtemps...",
   "recipes.lychee.item_inside.moonstone.condition.description": "Se converti dans les environs de minuit (13:20 - 16:40). S'annule si laissé trop longtemps...",
 
+  "chapter.welcome.title": "&lBienvenue",
+  "chapter.shop.title": "&lBoutique",
+
+  "chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
   "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
 
+  "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
   "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\nCliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
 
+  "chapter.welcome.quest.3.title.1": "Ultimine",
   "chapter.welcome.quest.3.description.1" : "&6&lFTB Ultimine&r is a very useful mod for mining.",
   "chapter.welcome.quest.3.description.2" : "En effet, en utilisant la touche ² (par défaut), vous verrez un contour blanc qui sera appelé la &c&lZone Ultimine&r et qui représente ce que vous allez miner.",
   "chapter.welcome.quest.3.description.3" : "Cette &c&lZone Ultimine&r peut être modifiée. En fait, si vous continuez à appuyer sur la touche ² + scroll de la souris, vous pouvez changer la forme de cette zone et trouver celle qui vous convient le mieux.",
 
+  "chapter.welcome.quest.4.title.1": "Équipes",
   "chapter.welcome.quest.4.description.1" : "Pour partager vos quêtes avec vos amis, vous devez créer une équipe.",
   "chapter.welcome.quest.4.description.2" : "Pour ce faire, exécutez cette commande :",
   "chapter.welcome.quest.4.description.3" : "Pour inviter vos amis, exécutez cette commande :",
   "chapter.welcome.quest.4.description.4" : "Vos amis n'ont qu'à accepter, et vous êtes maintenant dans une équipe.",
 
+  "chapter.welcome.quest.5.title.1": "Quêtes",
   "chapter.welcome.quest.5.description.1" : "En fait, une &8quête&r par défaut ne nécessite pas de &7&ldépendance&r, vous pouvez donc la faire dès maintenant ou plus tard, c'est à vous de décider.",
   "chapter.welcome.quest.5.description.2" : "Comme vous pouvez le constater, la majorité des quêtes nécessitent une &7&ldépendance&r. Pour les débloquer, vous pouvez cliquer sur la &4&l&nFlèche Rouge Clignotante&r pour afficher la ou les &7&ldépendances&r nécessaires.",
 
+  "chapter.welcome.quest.6.title.1": "Nourrissage",
   "chapter.welcome.quest.6.description.1" : "&aSpice of Life: Carrot Edition&r permet de suivre le nombre d'aliments uniques qu'un joueur a consommés. À mesure qu'ils atteignent certains paliers de quantités d'aliments uniques, ils gagnent de manière permanente de nouveaux cœurs, augmentant ainsi leur santé maximale ! Pour atteindre le maximum de leurs barres de points de vie, les joueurs devront partir en quête et fabriquer des aliments exotiques.",
 
+  "chapter.welcome.quest.7.title.1": "Discord",
   "chapter.welcome.quest.7.description.1" : "Sur le &bserveur Discord de Gogo08&r, vous trouverez des canaux de support dédiés à Chroma Endless 2.",
   "chapter.welcome.quest.7.description.2" : "Il s'agit d'un serveur communautaire francophone, mais vous pouvez également parler anglais. La communauté et le staff feront certainement de leur mieux pour vous aider.",
   "chapter.welcome.quest.7.description.3" : "Serveur Discord de Gogo08",
 
+  "chapter.welcome.quest.8.title.1": "Site web",
+  "chapter.welcome.quest.8.subtitle.1": "Site web de l'équipe Chroma",
   "chapter.welcome.quest.8.description.1" : "Sur ce site web, vous trouverez plus d'informations sur &6&lChroma Endless 2&r, l'équipe Chroma et nos autres modpacks.",
   "chapter.welcome.quest.8.description.2" : "Voici une liste de ce que vous pouvez trouver :",
   "chapter.welcome.quest.8.description.3" : "→ Qui a développé ce modpack et quelles sont leurs descriptions.",
   "chapter.welcome.quest.8.description.4" : "→ Les autres modpacks développés par la Team Chroma.",
 
+  "chapter.welcome.quest.9.title.1": "Boutique",
   "chapter.welcome.quest.9.subtitle.1" : "Je suis un rat !",
   "chapter.welcome.quest.9.description.1" : "Vous pouvez gagner des pièces en accomplissant des quêtes (chaque niveau de pièces dépend de la difficulté de la quête).",
   "chapter.welcome.quest.9.description.2" : "Les pièces sont utilisées pour faire du commerce avec les villageois.",
   "chapter.welcome.quest.9.description.3" : "Vous pouvez faire un clic droit sur les pièces pour les stocker dans votre sac d'argent personnel (trouvé dans le coin supérieur droit de l'inventaire du joueur).",
   "chapter.welcome.quest.9.description.4" : "Le coût des objets est plus élevé en fonction de leur rareté.",
   "chapter.welcome.quest.9.description.5" : "Les pièces ont différents niveaux :\n\n                    (&#C86A13Cuivre&r > &#bcbcbcArgent&r > &#FFBE0AOr&r)",
+
+  "chapter.welcome.quest.10.title.1": "Langues",
+  "chapter.welcome.quest.10.description.1" : "Sur Chroma Endless 2, nous avons voulu rendre les quêtes accessibles à tous, suivant la langue que vous parlez.",
+  "chapter.welcome.quest.10.description.2" : "Pour définir la langue de vos quêtes, il suffit de changer la langue de votre jeu.",
+
+  "chapter.welcome.quest.11.title.1": "Contribution au modpack",
+  "chapter.welcome.quest.11.description.1" : "Si vous souhaitez nous aider dans la traduction des quêtes dans différentes langues, vous pouvez le faire directement sur le Github du modpack.",
+
+  "chapter.welcome.quest.12.title.1": "Bienvenue dans Chroma Endless 2 !",
+
+  "chapter.group.1" : "&e-- &l&6Avancement Principal&r &e--",
+  "chapter.group.2" : "&e-- &l&6Quêtes Secondaires&r &e--",
 
   "Stage 1":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
@@ -470,105 +495,105 @@
   "chapter.stage.2.quest.60.description.2": "Après une minute, il se transformera en Viveroche.",
   "chapter.stage.2.quest.60.description.3": "La pierre lunaire peut être trouvée dans la dimension Blue Skies (EverDawn).",
 
-  "chapter.stage.2.quest.61.subtitle.1": "Mana Storage... not really",
-  "chapter.stage.2.quest.61.description.1": "This is the first mana pool you will be able to create. It can hold 100x less than the Mana Pool.",
-  "chapter.stage.2.quest.61.description.2": "To create this mana pool, you will need to build a structure composed of 4 livingrock blocks with a soul sand placed in their center.",
-  "chapter.stage.2.quest.61.description.3": "Afterwards, light up the soul sand with flint and steel and throw a cauldron into the fire.",
+  "chapter.stage.2.quest.61.subtitle.1": "Stockage de Mana... pas vraiment",
+  "chapter.stage.2.quest.61.description.1": "Ceci est le premier bassin de mana que vous pourrez créer. Elle peut contenir 100 fois moins que le Bassin de Mana.",
+  "chapter.stage.2.quest.61.description.2": "Pour créer ce bassin de mana, vous devrez construire une structure composée de 4 blocs de viveroche avec un bloc de sable des âmes placé au centre.",
+  "chapter.stage.2.quest.61.description.3": "Ensuite, allumez le sable d'âme avec un briquet en acier et jetez un chaudron dans le feu.",
 
-  "chapter.stage.2.quest.62.subtitle.1": "First Mana Storage",
+  "chapter.stage.2.quest.62.subtitle.1": "Premier Stockage de Mana",
 
-  "chapter.stage.2.quest.63.subtitle.1": "Mana with Water",
-  "chapter.stage.2.quest.63.description.1" : "You can generate your first mana with this flower. Simply put them near water.",
-  "chapter.stage.2.quest.63.description.2" : "Just know that flower will not stay for ever and you will have to change them.",
+  "chapter.stage.2.quest.63.subtitle.1": "Mana avec de l'eau",
+  "chapter.stage.2.quest.63.description.1" : "Vous pouvez générer votre premier mana avec cette fleur. Il vous suffit de les placer près de l'eau.",
+  "chapter.stage.2.quest.63.description.2" : "Sachez simplement que cette fleur ne restera pas éternellement et que vous devrez les changer.",
 
-  "chapter.stage.2.quest.64.subtitle.1": "Mana with Fire ",
-  "chapter.stage.2.quest.64.description.1" : "You can generate mana with any combustible items.",
-  "chapter.stage.2.quest.64.description.2" : "Just know that the mana generated will change depending on the dropped item near the flower.",
+  "chapter.stage.2.quest.64.subtitle.1": "Mana avec du feu",
+  "chapter.stage.2.quest.64.description.1" : "Vous pouvez générer du mana avec n'importe quel objet combustible.",
+  "chapter.stage.2.quest.64.description.2" : "Sachez simplement que le mana généré changera en fonction de l'objet tombé près de la fleur.",
 
-  "chapter.stage.2.quest.65.subtitle.1": "Transferring Mana",
-  "chapter.stage.2.quest.65.description.1" : "This block can transfer mana into any Botania Mana Storing block using the &2Wand of The Forest&r.",
+  "chapter.stage.2.quest.65.subtitle.1": "Transfert de Mana",
+  "chapter.stage.2.quest.65.description.1" : "Ce bloc peut transférer du mana vers n'importe quel bloc de stockage de mana de Botania en utilisant la &2Baguette de la Forêt&r.",
 
-  "chapter.stage.2.quest.66.subtitle.1": "Steel meets Mana",
-  "chapter.stage.2.quest.66.description.1": "Manasteel can be obtained by throwing Steel ingot into a Mana Pool.",
+  "chapter.stage.2.quest.66.subtitle.1": "L'acier rencontre le mana",
+  "chapter.stage.2.quest.66.description.1": "On peut obtenir du manacier en jetant un lingot d'acier dans un Bassin de Mana.",
 
-  "chapter.stage.2.quest.67.subtitle.1": "Crafting Runes",
-  "chapter.stage.2.quest.67.description.1": "The Runescribing Table is used to craft various Rune Patterns using a Runesmith's Hammer and Runesmith's Chisel.",
-  "chapter.stage.2.quest.67.description.2": "On the left of the GUI there is three slots. The top slot is for the Hammer, the middle for the Chisel, and the bottom for clay.",
-  "chapter.stage.2.quest.67.description.3": "Clay is not required to chisel marks but it is required to undo them.",
-  "chapter.stage.2.quest.67.description.4": "Toward the middle right of the GUI is the Rune Pattern slot. To the top right of the GUI is a slot to put in a Runescribing Recipe, which will then display a pattern in the box below.",
-  "chapter.stage.2.quest.67.description.5": "The slots to the bottom right are for storing Runescribing Recipes. When a blank Rune Pattern is inserted a large grid of dots will appear.",
-  "chapter.stage.2.quest.67.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability. ",
-  "chapter.stage.2.quest.67.description.7": "You can remove a mark by click on the mark again, but you need clay and XP to remove it.",
-  "chapter.stage.2.quest.67.description.8": "Once your marks match a rune it will automatically finish the Rune Pattern.",
+  "chapter.stage.2.quest.67.subtitle.1": "Fabrication de Runes",
+  "chapter.stage.2.quest.67.description.1": "La Runescribing Table est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
+  "chapter.stage.2.quest.67.description.2": "À gauche de l'interface graphique, il y a trois emplacements. L'emplacement supérieur est destiné au Hammer, celui du milieu au Chisel et celui du bas à l'argile.",
+  "chapter.stage.2.quest.67.description.3": "L'argile n'est pas nécessaire pour ciseler des marques, mais elle est nécessaire pour les annuler.",
+  "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du Rune Pattern. En haut à droite de l'interface graphique se trouve un emplacement pour insérer une recette d'inscription runique, qui affichera ensuite un motif dans la zone ci-dessous.",
+  "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les recettes d'inscription runique. Lorsqu'un modèle de rune vierge est inséré, une grande grille de points apparaîtra.",
+  "chapter.stage.2.quest.67.description.6": "En cliquant gauche entre les points, vous créerez une marque droite les reliant, ce qui utilisera également une partie de la durabilité de votre outil.",
+  "chapter.stage.2.quest.67.description.7": "Vous pouvez retirer une marque en cliquant à nouveau sur la marque, mais vous avez besoin d'argile et d'XP pour la retirer.",
+  "chapter.stage.2.quest.67.description.8": "Une fois que vos marques correspondent à une rune, le motif de rune sera automatiquement terminé.",
 
-  "chapter.stage.2.quest.68.subtitle.1": "Runes Chiseling Dream",
+  "chapter.stage.2.quest.68.subtitle.1": "Rêve de Ciselure de Runes",
 
-  "chapter.stage.2.quest.69.subtitle.1": "Chiseling the Avatar Rune",
+  "chapter.stage.2.quest.69.subtitle.1": "Ciselure de la Rune de l'Avatar",
 
-  "chapter.stage.2.quest.70.subtitle.1": "Chiseling the Magma Rune",
+  "chapter.stage.2.quest.70.subtitle.1": "Ciselure de la Rune de Magma",
 
-  "chapter.stage.2.quest.71.subtitle.1": "Chiseling the Terra Rune",
+  "chapter.stage.2.quest.71.subtitle.1": "Ciselure de la Rune de Terra",
 
-  "chapter.stage.2.quest.72.subtitle.1": "Chiseling the Aqua Rune",
+  "chapter.stage.2.quest.72.subtitle.1": "Ciselure de la Rune Aqua",
 
-  "chapter.stage.2.quest.73.subtitle.1": "Runes Forger",
-  "chapter.stage.2.quest.73.description.1": "Runic Anvil is used by placing a pattern down, placing the right item like &bLiving Rock&r or &bSuperheated Vinteum&r Ingot and then hammering them together with a Runesmith's Hammer.",
+  "chapter.stage.2.quest.73.subtitle.1": "Forger des Runes",
+  "chapter.stage.2.quest.73.description.1": "La Runic Anvil est utilisée en plaçant un modèle, en plaçant le bon objet comme la &bViveroche&r ou l'ingot de &bSuperheated Vinteum&r, puis en les forgeant ensemble avec un Runesmith's Hammer.",
 
-  "chapter.stage.2.quest.74.subtitle.1": "Avatar Rune",
-  "chapter.stage.2.quest.74.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
+  "chapter.stage.2.quest.74.subtitle.1": "Rune de l'Avatar",
+  "chapter.stage.2.quest.74.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
 
-  "chapter.stage.2.quest.75.subtitle.1": "Magma Rune",
-  "chapter.stage.2.quest.75.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
+  "chapter.stage.2.quest.75.subtitle.1": "Rune de Magma",
+  "chapter.stage.2.quest.75.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
 
-  "chapter.stage.2.quest.76.subtitle.1": "Terra Rune",
-  "chapter.stage.2.quest.76.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
+  "chapter.stage.2.quest.76.subtitle.1": "Rune de Terra",
+  "chapter.stage.2.quest.76.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
 
-  "chapter.stage.2.quest.77.subtitle.1": "Aqua Rune",
-  "chapter.stage.2.quest.77.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
+  "chapter.stage.2.quest.77.subtitle.1": "Rune Aqua",
+  "chapter.stage.2.quest.77.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
 
-  "chapter.stage.2.quest.78.subtitle.1": "Discovering Runic Knowledge",
-  "chapter.stage.2.quest.78.description.1": "The Runic Core is used to craft the Runic Altar.",
+  "chapter.stage.2.quest.78.subtitle.1": "Découverte de la Connaissance Runique",
+  "chapter.stage.2.quest.78.description.1": "Le Noyau Runique est utilisé pour fabriquer l'Autel Runique.",
 
-  "chapter.stage.2.quest.79.subtitle.1": "The Runic Crafting",
-  "chapter.stage.2.quest.79.description.1": "The Runic Altar is used to craft runes.",
+  "chapter.stage.2.quest.79.subtitle.1": "L'Artisanat Runique",
+  "chapter.stage.2.quest.79.description.1": "L'Autel Runique est utilisé pour fabriquer des runes.",
 
-  "chapter.stage.2.quest.80.subtitle.1": "The Rune Master",
+  "chapter.stage.2.quest.80.subtitle.1": "Le Maître des Runes",
 
-  "chapter.stage.2.quest.81.subtitle.1": "Magical Plate",
-  "chapter.stage.2.quest.81.description.1": "The Terrestrial Agglomeration Plate is used to combine several items with mana.",
+  "chapter.stage.2.quest.81.subtitle.1": "Plaque Magique",
+  "chapter.stage.2.quest.81.description.1": "La Plaque d'Agglomération Terrestre est utilisée pour combiner plusieurs objets avec du mana.",
 
-  "chapter.stage.2.quest.82.subtitle.1": "Terrestrial Luxury",
+  "chapter.stage.2.quest.82.subtitle.1": "Luxe Terrestre",
 
-  "chapter.stage.2.quest.83.title.1": "Visid Dimension : &5The End&r",
-  "chapter.stage.2.quest.83.description.1": "Once in the End, you will be able to obtain a primary item for progression, in addition to the many things you can find in the End.",
-  "chapter.stage.2.quest.83.description.2": "&aThe Ender Air Bottle&r is obtained by right clicking any block in the End with a Glass Bottle.",
-  "chapter.stage.2.quest.83.description.3": "Right-clicking with this item will throw it. It will convert up to 64 Stone in a 7x7x7 area around the point of impact into End Stone.",
+  "chapter.stage.2.quest.83.title.1": "Visiter la Dimension : &5Le Néant&r",
+  "chapter.stage.2.quest.83.description.1": "Une fois dans l'End, vous serez en mesure d'obtenir un objet principal pour la progression, en plus des nombreuses choses que vous pouvez trouver dans le néant.",
+  "chapter.stage.2.quest.83.description.2": "L'objet &aBouteille d'Air du néant&r est obtenu en cliquant droit sur n'importe quel bloc dans le néant avec une Bouteille en Verre.",
+  "chapter.stage.2.quest.83.description.3": "Cliquer droit avec cet objet le lancera. Il convertira jusqu'à 64 blocs de Pierre dans une zone de 7x7x7 autour du point d'impact en Pierre de l'End.",
 
-  "chapter.stage.2.quest.84.title.1": "Portal to Alfheim",
-  "chapter.stage.2.quest.84.subtitle.1": "The Magical Portal",
-  "chapter.stage.2.quest.84.description.1": "The Portal to Alfheim allows the player to exchange certain blocks and items.",
-  "chapter.stage.2.quest.84.description.2": "Once the structure is complete, use the Wand of the Forest on the gateway core to open the portal.",
-  "chapter.stage.2.quest.84.description.3": "If the portal runs out of Mana, or a part of the structure is broken, the Portal will close.",
+  "chapter.stage.2.quest.84.title.1": "Portail vers Alfheim",
+  "chapter.stage.2.quest.84.subtitle.1": "Le Portail Magique",
+  "chapter.stage.2.quest.84.description.1": "Le Portail vers Alfheim permet au joueur d'échanger certains blocs et objets.",
+  "chapter.stage.2.quest.84.description.2": "Une fois que la structure est complète, utilisez la Baguette de la Forêt sur le cœur du portail pour ouvrir le portail.",
+  "chapter.stage.2.quest.84.description.3": "Si le portail manque de mana, ou si une partie de la structure est endommagée, le portail se fermera.",
 
-  "chapter.stage.2.quest.85.subtitle.1": "Wonderful Pylon",
-  "chapter.stage.2.quest.85.description.1": "The Gaia Pylon is used to build the structure for the Ritual of Gaia.",
+  "chapter.stage.2.quest.85.subtitle.1": "Pylône Merveilleux",
+  "chapter.stage.2.quest.85.description.1": "Le Gaia Pylon est utilisé pour construire la structure du Rituel de Gaïa.",
 
-  "chapter.stage.2.quest.86.subtitle.1": "The Ritual of Gaia",
-  "chapter.stage.2.quest.86.description.1": "The Ritual of Gaia is used to summon the Guardian of Gaia, which is the source of Gaia Spirits.",
-  "chapter.stage.2.quest.86.description.2": "To perform the ritual, a Beacon and 4 Gaia Pylons are necessary. The exact positions can be previewed in world by using the Lexica Botania's structure preview.",
-  "chapter.stage.2.quest.86.description.3": "Once the structure has been built, shift right-clicking a Terrasteel Ingot on the Beacon will summon the Guardian of Gaia. If any part of the arena is missing or obstructed, pink particles will show the offending locations.",
-  "chapter.stage.2.quest.86.description.4": "Using a Gaia Spirit Ingot instead of a Terrasteel Ingot will summon the harder version of the Guardian for a bigger reward.",
+  "chapter.stage.2.quest.86.subtitle.1": "Le Rituel de Gaïa",
+  "chapter.stage.2.quest.86.description.1": "Le Rituel de Gaïa est utilisé pour invoquer le Gardien de Gaïa, qui est la source des Esprits de Gaïa.",
+  "chapter.stage.2.quest.86.description.2": "Pour effectuer le rituel, un Phare et 4 Pylônes Gaïa sont nécessaires. Les positions exactes peuvent être prévisualisées dans le monde en utilisant l'aperçu de structure du Lexica Botania.",
+  "chapter.stage.2.quest.86.description.3": "Une fois que la structure a été construite, en faisant un clic-droit en maintenant la touche Majuscule sur un Lingot de terracier sur la Balise, vous invoquerez le Gardien de Gaïa. Si une partie de l'arène est manquante ou obstruée, des particules roses indiqueront les emplacements fautifs.",
+  "chapter.stage.2.quest.86.description.4": "Utiliser un Lingot d'Esprit de Gaïa à la place d'un Lingot de terracier invoquera la version plus difficile du Gardien pour une récompense plus importante.",
 
-  "chapter.stage.2.quest.87.description.1": "The Gaia Spirit Ingot can be crafted in the Terrestrial Agglomeration Plate.",
-  "chapter.stage.2.quest.87.description.2": "Later, you will be able to do it through the Industrial Agglomeration Factory.",
+  "chapter.stage.2.quest.87.description.1": "Le Lingot d'Esprit de Gaïa peut être fabriqué dans la Plaque d'Agglomération Terrestre.",
+  "chapter.stage.2.quest.87.description.2": "Plus tard, vous pourrez le faire à travers l'Industrial Agglomeration Factory.",
 
-  "chapter.stage.2.quest.88.subtitle.1": "Magic Transformation",
-  "chapter.stage.2.quest.88.description.1": "The Alchemy Catalyst s used to provide certain items with a secondary transformation when tossed into a Mana Pool at the cost of some Mana stored in the pool.",
-  "chapter.stage.2.quest.88.description.2": "It must be placed directly underneath a Mana Pool.",
-  "chapter.stage.2.quest.88.description.3": "You will need it to unlock Powah and craft the Silicon Paste.",
+  "chapter.stage.2.quest.88.subtitle.1": "Transformation Magique",
+  "chapter.stage.2.quest.88.description.1": "Le Catalyseur alchimique est utilisé pour conférer à certains objets une transformation secondaire lorsqu'ils sont jetés dans un Bassin de Mana, moyennant une certaine quantité de Mana stockée dans le bassin.",
+  "chapter.stage.2.quest.88.description.2": "Il doit être placé directement sous un Bassin de Mana.",
+  "chapter.stage.2.quest.88.description.3": "Vous en aurez besoin pour débloquer Powah et fabriquer le Silicon Paste.",
 
-  "chapter.stage.2.quest.89.subtitle.1": "A lot of resources",
-  "chapter.stage.2.quest.89.description.1": "Craft The Mining Portal and then right-click and boom your in the mining dimension !",
+  "chapter.stage.2.quest.89.subtitle.1": "Beaucoup de ressources",
+  "chapter.stage.2.quest.89.description.1": "Fabriquez le Mining Portal, puis faites un clic droit et vous voilà dans la dimension minière !",
 
   "chapter.stage.2.quest.90.title.1": "Regardez une &6Presse-fruits industrielle&r complète.",
   "chapter.stage.2.quest.90.subtitle.1": "La &6Presse à fruits&r",

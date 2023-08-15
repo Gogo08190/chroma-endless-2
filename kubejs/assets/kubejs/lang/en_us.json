@@ -2,41 +2,66 @@
   "recipes.lychee.item_inside.charoite.condition.description": "Converts around Noon (3:20 - 6:40). Reverts if left out too long...",
   "recipes.lychee.item_inside.moonstone.condition.description": "Converts around Midnight (13:20 - 16:40). Reverts if left out too long...",
 
+  "chapter.welcome.title": "&lWelcome",
+  "chapter.shop.title": "&lShop",
+
+  "chapter.welcome.quest.1.title.1": "Get a server!",
   "chapter.welcome.quest.1.description.1": "BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use.",
   "chapter.welcome.quest.1.description.2": "Use the code &l&bCHROMATECH&r to get 25% off your first month as a new customer for one of their game servers.",
   "chapter.welcome.quest.1.description.3" : "Promo code : &l&aCHROMATECH&r",
 
+  "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
   "chapter.welcome.quest.2.description.1" : "FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory. \n\n&6Right-click&r anywhere in map to create a waypoint. \n\n&6Right-click&r on waypoints and death points to edit or delete them. \n\nClick on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading",
 
+  "chapter.welcome.quest.3.title.1": "Ultimine",
   "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r is a very useful mod for mining.",
   "chapter.welcome.quest.3.description.2" : "Indeed, with the ² key (by default) you will see a &nwhite outline&r that we will call the &c&lUltimine Zone&r which represents what you will mine.",
   "chapter.welcome.quest.3.description.3" : "This &c&lUltimine Zone&r can be changed. In fact you can see that, if you keep pressing the ² key + mouse scrolling, you can change the shape of this zone and find the one that suits you best.",
 
+  "chapter.welcome.quest.4.title.1": "Teams",
   "chapter.welcome.quest.4.description.1" : "To share your quests with your friends, you need to create a team.",
   "chapter.welcome.quest.4.description.2" : "To do this, execute this command :",
   "chapter.welcome.quest.4.description.3" : "To invite your friends, execute this command :",
   "chapter.welcome.quest.4.description.4" : "Your friends just have to accept, and you are now in a team.",
 
+  "chapter.welcome.quest.5.title.1": "Quests",
   "chapter.welcome.quest.5.description.1" : "In fact a &8quest&r by default does not require a &7&ldependancy&r so you can do it right now or later, up to you to decide.",
   "chapter.welcome.quest.5.description.2" : "As you can see, the majority of quests does need a &7&ldependancy&r. In order to unlock them, you can click on the &4&l&nFlashing Red Arrow&r to list the needed &7&ldependancy&r or &7&ldependancies&r.",
 
+  "chapter.welcome.quest.6.title.1": "Feeding",
   "chapter.welcome.quest.6.description.1" : "&aSpice of Life: Carrot Edition&r keeps track of how many unique foods a player has eaten. As they pass certain milestone amounts of unique foods, they permanently gain new hearts, increasing their max health! In order to max out their HP bars, players will have to quest for and craft exotic foods.",
 
+  "chapter.welcome.quest.7.title.1": "Discord",
   "chapter.welcome.quest.7.description.1" : "On &bGogo08's Discord server&r, you will find support channels for Chroma Endless 2.",
   "chapter.welcome.quest.7.description.2" : "It's a french community server, but you can also speak english, the community and staff will most certainly try to help you.",
   "chapter.welcome.quest.7.description.3" : "Gogo08's Discord server.",
 
+  "chapter.welcome.quest.8.title.1": "Website",
+  "chapter.welcome.quest.8.subtitle.1": "Chroma Team's website",
   "chapter.welcome.quest.8.description.1" : "On this website you will find more informations about &6&lChroma Endless 2&r, the Chroma Team and our other modpacks.",
   "chapter.welcome.quest.8.description.2" : "Here is a list of what can be found:",
   "chapter.welcome.quest.8.description.3" : "→ Who developped this modpack and their descriptions.",
   "chapter.welcome.quest.8.description.4" : "→ The other packs developped by the Chroma Team.",
 
+  "chapter.welcome.quest.9.title.1": "Shop",
   "chapter.welcome.quest.9.subtitle.1" : "I am a rat!",
   "chapter.welcome.quest.9.description.1" : "You can earn coins by completing quests (Each coin tier is dependent on the difficulty of the quest)",
   "chapter.welcome.quest.9.description.2" : "Coins are used for trading with Villagers",
   "chapter.welcome.quest.9.description.3" : "You can right click the coins to store it in your personal Money Bag (Found nn the top right corner of the player's inventory)",
   "chapter.welcome.quest.9.description.4" : "The cost of Items is higher depending on its rarity",
   "chapter.welcome.quest.9.description.5" : "Coins Have Different Tiers:\n\n                    (&#C86A13Bronze&r > &#bcbcbcSilver&r > &#FFBE0AGold&r)",
+
+  "chapter.welcome.quest.10.title.1": "Languages",
+  "chapter.welcome.quest.10.description.1" : "On Chroma Endless 2, we aimed to make quests accessible to everyone, regardless of the language you speak.",
+  "chapter.welcome.quest.10.description.2" : "To set the language of your quests, simply change the language of your game.",
+
+  "chapter.welcome.quest.11.title.1": "Contribution to the modpack",
+  "chapter.welcome.quest.11.description.1" : "If you would like to help us with translating quests into different languages, you can do so directly on the modpack's Github.",
+
+  "chapter.welcome.quest.12.title.1": "Welcome to Chroma Endless 2!",
+
+  "chapter.group.1" : "&e-- &l&6Main Progression&r &e--",
+  "chapter.group.2" : "&e-- &l&6Secondary Quests&r &e--",
 
   "Stage 1":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
@@ -480,7 +505,7 @@
   "chapter.stage.2.quest.63.description.1" : "You can generate your first mana with this flower. Simply put them near water.",
   "chapter.stage.2.quest.63.description.2" : "Just know that flower will not stay for ever and you will have to change them.",
 
-  "chapter.stage.2.quest.64.subtitle.1": "Mana with Fire ",
+  "chapter.stage.2.quest.64.subtitle.1": "Mana with Fire",
   "chapter.stage.2.quest.64.description.1" : "You can generate mana with any combustible items.",
   "chapter.stage.2.quest.64.description.2" : "Just know that the mana generated will change depending on the dropped item near the flower.",
 
@@ -496,7 +521,7 @@
   "chapter.stage.2.quest.67.description.3": "Clay is not required to chisel marks but it is required to undo them.",
   "chapter.stage.2.quest.67.description.4": "Toward the middle right of the GUI is the Rune Pattern slot. To the top right of the GUI is a slot to put in a Runescribing Recipe, which will then display a pattern in the box below.",
   "chapter.stage.2.quest.67.description.5": "The slots to the bottom right are for storing Runescribing Recipes. When a blank Rune Pattern is inserted a large grid of dots will appear.",
-  "chapter.stage.2.quest.67.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability. ",
+  "chapter.stage.2.quest.67.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability.",
   "chapter.stage.2.quest.67.description.7": "You can remove a mark by click on the mark again, but you need clay and XP to remove it.",
   "chapter.stage.2.quest.67.description.8": "Once your marks match a rune it will automatically finish the Rune Pattern.",
 
@@ -538,7 +563,7 @@
 
   "chapter.stage.2.quest.82.subtitle.1": "Terrestrial Luxury",
 
-  "chapter.stage.2.quest.83.title.1": "Visid Dimension : &5The End&r",
+  "chapter.stage.2.quest.83.title.1": "Visit Dimension : &5The End&r",
   "chapter.stage.2.quest.83.description.1": "Once in the End, you will be able to obtain a primary item for progression, in addition to the many things you can find in the End.",
   "chapter.stage.2.quest.83.description.2": "&aThe Ender Air Bottle&r is obtained by right clicking any block in the End with a Glass Bottle.",
   "chapter.stage.2.quest.83.description.3": "Right-clicking with this item will throw it. It will convert up to 64 Stone in a 7x7x7 area around the point of impact into End Stone.",
@@ -576,7 +601,7 @@
   "chapter.stage.2.quest.90.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "Stage 3":"---------------------------------------------------------------------------------------------------------------------------------------------------",
-  
+
   "chapter.stage.3.quest.1.subtitle.1": "A new green ore",
   "chapter.stage.3.quest.1.description.1": "You can get this new material by mining.",
 
@@ -606,7 +631,7 @@
 
   "chapter.stage.3.quest.10.subtitle.1": "Item Energizer",
   "chapter.stage.3.quest.10.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !.",
-  
+
   "chapter.stage.3.quest.11.subtitle.1": "Your first Energized Craft",
   "chapter.stage.3.quest.11.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !"
 
