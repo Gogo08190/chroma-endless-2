@@ -614,7 +614,8 @@
 
   "chapter.stage.3.quest.4.title": "Dieletric Rods",
   "chapter.stage.3.quest.4.subtitle.1": "Casing Building",
-  "chapter.stage.3.quest.4.description.1": "Throw your Silicon into a pool of mana and get this item.",
+  "chapter.stage.3.quest.4.description.1": "First you will have to energize Dielectric Rods and Steel Plates.",
+  "chapter.stage.3.quest.4.description.2": "Later a new way of crafting will be possible, dont worry.",
 
   "chapter.stage.3.quest.5.subtitle.1": "Crafting Capacitors",
 
@@ -626,14 +627,11 @@
   "chapter.stage.3.quest.8.subtitle.1": "A new way to craft",
   "chapter.stage.3.quest.8.description.1": "Each tier has a maximum energy storage, by upgrading the Energizing Craft you will be able to craft faster.",
 
-  "chapter.stage.3.quest.9.subtitle.1": "A new way to craft",
-  "chapter.stage.3.quest.9.description.1": "Each tier has a maximum energy storage, by upgrading the Energizing Craft you will be able to craft faster.",
+  "chapter.stage.3.quest.9.subtitle.1": "Item Energizer",
+  "chapter.stage.3.quest.9.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !.",
 
-  "chapter.stage.3.quest.10.subtitle.1": "Item Energizer",
-  "chapter.stage.3.quest.10.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !.",
-
-  "chapter.stage.3.quest.11.subtitle.1": "Your first Energized Craft",
-  "chapter.stage.3.quest.11.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !"
+  "chapter.stage.3.quest.10.subtitle.1": "Your first Energized Craft",
+  "chapter.stage.3.quest.10.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !"
 
 
 

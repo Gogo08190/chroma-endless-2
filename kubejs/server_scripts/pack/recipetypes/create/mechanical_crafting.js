@@ -126,6 +126,47 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}coke`
         },
+        {
+            output: 'torchmaster:feral_flare_lantern',
+            pattern: [' A ', 'DGD', ' A '],
+            key: {
+                A: '#forge:ingots/arcane_gold',
+                D: 'evilcraft:obscured_glass',
+                G: '#forge:dusts/glowstone'
+            },
+            id: 'torchmaster:feral_flare_lantern'
+        },
+        {
+            output: 'torchmaster:dreadlamp',
+            pattern: ['OOO', ' G ', 'OIO'],
+            key: {
+                O: 'forbidden_arcanus:processed_obsidian_block',
+                G: 'minecraft:shroomlight',
+                I: '#forge:dyes/black'
+            },
+            id: 'torchmaster:dreadlamp'
+        },
+        {
+            output: 'torchmaster:dreadlamp',
+            pattern: ['OOO', ' G ', 'OIO'],
+            key: {
+                O: 'forbidden_arcanus:processed_obsidian_block',
+                G: 'minecraft:shroomlight',
+                I: '#forge:dyes/black'
+            },
+            id: 'torchmaster:dreadlamp'
+        },
+        {
+            output: 'torchmaster:megatorch',
+            pattern: ['TTT', 'DLD', 'ALA'],
+            key: {
+                T: 'minecraft:torch',
+                D: '#forge:gems/mana_diamond',
+                L: 'blue_skies:maple_log',
+                A: '#forge:storage_blocks/arcane_gold'
+            },
+            id: 'torchmaster:megatorch'
+        },
     ];
 
     recipes.forEach((recipe) => {
