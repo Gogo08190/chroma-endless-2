@@ -426,7 +426,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'sophisticatedbackpacks:stack_upgrade_tier_3',
-            pattern: ['DDD', 'DAD', 'DDD'],
+            pattern: ['DDD', 'DBD', 'DDD'],
             key: {
                 B: 'sophisticatedbackpacks:stack_upgrade_tier_2',
                 D: '#forge:storage_blocks/mana_diamond'
