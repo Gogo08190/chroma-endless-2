@@ -634,7 +634,14 @@
   "chapter.stage.3.quest.11.description.1": "Explode some Energized Steel ! For now you will have to do this. You will be able to make them later.",
 
   "chapter.stage.3.quest.12.subtitle.1": "Dispersing Heat",
-  "chapter.stage.3.quest.12.description.1": "Block that disperses heat into the air. It only connects to the block it's on."
+  "chapter.stage.3.quest.12.description.1": "Block that disperses heat into the air. It only connects to the block it's on.",
+
+  "chapter.stage.3.quest.13.subtitle.1": "Hot Cold? Both !",
+  "chapter.stage.3.quest.13.description.1": "Splits incoming air into hot and cold components. One side gets hot, the other cold.  Don't forget to put a heat vent on the unused side",
+
+  "chapter.stage.3.quest.14.subtitle.1": "The Pneumatic Refiner",
+  "chapter.stage.3.quest.14.description.1": "A Refinery is used to process a fluid into different fluids."
+
 
 
 
