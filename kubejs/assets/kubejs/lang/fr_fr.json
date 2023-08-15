@@ -2,41 +2,66 @@
   "recipes.lychee.item_inside.charoite.condition.description": "Se converti dans les environs de midi (3:20 - 6:40). S'annule si laissé trop longtemps...",
   "recipes.lychee.item_inside.moonstone.condition.description": "Se converti dans les environs de minuit (13:20 - 16:40). S'annule si laissé trop longtemps...",
 
+  "chapter.welcome.title": "&lBienvenue",
+  "chapter.shop.title": "&lBoutique",
+
+  "chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
   "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
 
+  "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
   "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\nCliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
 
+  "chapter.welcome.quest.3.title.1": "Ultimine",
   "chapter.welcome.quest.3.description.1" : "&6&lFTB Ultimine&r is a very useful mod for mining.",
   "chapter.welcome.quest.3.description.2" : "En effet, en utilisant la touche ² (par défaut), vous verrez un contour blanc qui sera appelé la &c&lZone Ultimine&r et qui représente ce que vous allez miner.",
   "chapter.welcome.quest.3.description.3" : "Cette &c&lZone Ultimine&r peut être modifiée. En fait, si vous continuez à appuyer sur la touche ² + scroll de la souris, vous pouvez changer la forme de cette zone et trouver celle qui vous convient le mieux.",
 
+  "chapter.welcome.quest.4.title.1": "Équipes",
   "chapter.welcome.quest.4.description.1" : "Pour partager vos quêtes avec vos amis, vous devez créer une équipe.",
   "chapter.welcome.quest.4.description.2" : "Pour ce faire, exécutez cette commande :",
   "chapter.welcome.quest.4.description.3" : "Pour inviter vos amis, exécutez cette commande :",
   "chapter.welcome.quest.4.description.4" : "Vos amis n'ont qu'à accepter, et vous êtes maintenant dans une équipe.",
 
+  "chapter.welcome.quest.5.title.1": "Quêtes",
   "chapter.welcome.quest.5.description.1" : "En fait, une &8quête&r par défaut ne nécessite pas de &7&ldépendance&r, vous pouvez donc la faire dès maintenant ou plus tard, c'est à vous de décider.",
   "chapter.welcome.quest.5.description.2" : "Comme vous pouvez le constater, la majorité des quêtes nécessitent une &7&ldépendance&r. Pour les débloquer, vous pouvez cliquer sur la &4&l&nFlèche Rouge Clignotante&r pour afficher la ou les &7&ldépendances&r nécessaires.",
 
+  "chapter.welcome.quest.6.title.1": "Nourrissage",
   "chapter.welcome.quest.6.description.1" : "&aSpice of Life: Carrot Edition&r permet de suivre le nombre d'aliments uniques qu'un joueur a consommés. À mesure qu'ils atteignent certains paliers de quantités d'aliments uniques, ils gagnent de manière permanente de nouveaux cœurs, augmentant ainsi leur santé maximale ! Pour atteindre le maximum de leurs barres de points de vie, les joueurs devront partir en quête et fabriquer des aliments exotiques.",
 
+  "chapter.welcome.quest.7.title.1": "Discord",
   "chapter.welcome.quest.7.description.1" : "Sur le &bserveur Discord de Gogo08&r, vous trouverez des canaux de support dédiés à Chroma Endless 2.",
   "chapter.welcome.quest.7.description.2" : "Il s'agit d'un serveur communautaire francophone, mais vous pouvez également parler anglais. La communauté et le staff feront certainement de leur mieux pour vous aider.",
   "chapter.welcome.quest.7.description.3" : "Serveur Discord de Gogo08",
 
+  "chapter.welcome.quest.8.title.1": "Site web",
+  "chapter.welcome.quest.8.subtitle.1": "Site web de l'équipe Chroma",
   "chapter.welcome.quest.8.description.1" : "Sur ce site web, vous trouverez plus d'informations sur &6&lChroma Endless 2&r, l'équipe Chroma et nos autres modpacks.",
   "chapter.welcome.quest.8.description.2" : "Voici une liste de ce que vous pouvez trouver :",
   "chapter.welcome.quest.8.description.3" : "→ Qui a développé ce modpack et quelles sont leurs descriptions.",
   "chapter.welcome.quest.8.description.4" : "→ Les autres modpacks développés par la Team Chroma.",
 
+  "chapter.welcome.quest.9.title.1": "Boutique",
   "chapter.welcome.quest.9.subtitle.1" : "Je suis un rat !",
   "chapter.welcome.quest.9.description.1" : "Vous pouvez gagner des pièces en accomplissant des quêtes (chaque niveau de pièces dépend de la difficulté de la quête).",
   "chapter.welcome.quest.9.description.2" : "Les pièces sont utilisées pour faire du commerce avec les villageois.",
   "chapter.welcome.quest.9.description.3" : "Vous pouvez faire un clic droit sur les pièces pour les stocker dans votre sac d'argent personnel (trouvé dans le coin supérieur droit de l'inventaire du joueur).",
   "chapter.welcome.quest.9.description.4" : "Le coût des objets est plus élevé en fonction de leur rareté.",
   "chapter.welcome.quest.9.description.5" : "Les pièces ont différents niveaux :\n\n                    (&#C86A13Cuivre&r > &#bcbcbcArgent&r > &#FFBE0AOr&r)",
+
+  "chapter.welcome.quest.10.title.1": "Langues",
+  "chapter.welcome.quest.10.description.1" : "Sur Chroma Endless 2, nous avons voulu rendre les quêtes accessibles à tous, suivant la langue que vous parlez.",
+  "chapter.welcome.quest.10.description.2" : "Pour définir la langue de vos quêtes, il suffit de changer la langue de votre jeu.",
+
+  "chapter.welcome.quest.11.title.1": "Contribution au modpack",
+  "chapter.welcome.quest.11.description.1" : "Si vous souhaitez nous aider dans la traduction des quêtes dans différentes langues, vous pouvez le faire directement sur le Github du modpack.",
+
+  "chapter.welcome.quest.12.title.1": "Bienvenue dans Chroma Endless 2 !",
+
+  "chapter.group.1" : "&e-- &l&6Avancement Principal&r &e--",
+  "chapter.group.2" : "&e-- &l&6Quêtes Secondaires&r &e--",
 
   "Stage 1":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
