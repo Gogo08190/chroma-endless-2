@@ -141,6 +141,13 @@ onEvent('recipes', (event) => {
           energy : 2400,
           id: `${id_prefix}resin_plate`
       },
+      {
+        input: 'chroma:base_augment',
+        output: 'beyond_earth_giselle_addon:press_compressing_die',
+        mold : 'beyond_earth_giselle_addon:mold_compressing',
+        energy : 2400,
+        id: 'beyond_earth_giselle_addon:compat/thermal/crafting/press_compressing_die'
+    },
     ];
 
     recipes.forEach((recipe) => {
