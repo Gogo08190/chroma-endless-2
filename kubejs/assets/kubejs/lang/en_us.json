@@ -480,7 +480,7 @@
   "chapter.stage.2.quest.63.description.1" : "You can generate your first mana with this flower. Simply put them near water.",
   "chapter.stage.2.quest.63.description.2" : "Just know that flower will not stay for ever and you will have to change them.",
 
-  "chapter.stage.2.quest.64.subtitle.1": "Mana with Fire ",
+  "chapter.stage.2.quest.64.subtitle.1": "Mana with Fire",
   "chapter.stage.2.quest.64.description.1" : "You can generate mana with any combustible items.",
   "chapter.stage.2.quest.64.description.2" : "Just know that the mana generated will change depending on the dropped item near the flower.",
 
@@ -496,7 +496,7 @@
   "chapter.stage.2.quest.67.description.3": "Clay is not required to chisel marks but it is required to undo them.",
   "chapter.stage.2.quest.67.description.4": "Toward the middle right of the GUI is the Rune Pattern slot. To the top right of the GUI is a slot to put in a Runescribing Recipe, which will then display a pattern in the box below.",
   "chapter.stage.2.quest.67.description.5": "The slots to the bottom right are for storing Runescribing Recipes. When a blank Rune Pattern is inserted a large grid of dots will appear.",
-  "chapter.stage.2.quest.67.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability. ",
+  "chapter.stage.2.quest.67.description.6": "By Left Clicking between dots you will create a straight mark connecting them, this will also use some of your tools durability.",
   "chapter.stage.2.quest.67.description.7": "You can remove a mark by click on the mark again, but you need clay and XP to remove it.",
   "chapter.stage.2.quest.67.description.8": "Once your marks match a rune it will automatically finish the Rune Pattern.",
 
@@ -538,7 +538,7 @@
 
   "chapter.stage.2.quest.82.subtitle.1": "Terrestrial Luxury",
 
-  "chapter.stage.2.quest.83.title.1": "Visid Dimension : &5The End&r",
+  "chapter.stage.2.quest.83.title.1": "Visit Dimension : &5The End&r",
   "chapter.stage.2.quest.83.description.1": "Once in the End, you will be able to obtain a primary item for progression, in addition to the many things you can find in the End.",
   "chapter.stage.2.quest.83.description.2": "&aThe Ender Air Bottle&r is obtained by right clicking any block in the End with a Glass Bottle.",
   "chapter.stage.2.quest.83.description.3": "Right-clicking with this item will throw it. It will convert up to 64 Stone in a 7x7x7 area around the point of impact into End Stone.",
@@ -576,7 +576,7 @@
   "chapter.stage.2.quest.90.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
   "Stage 3":"---------------------------------------------------------------------------------------------------------------------------------------------------",
-  
+
   "chapter.stage.3.quest.1.subtitle.1": "A new green ore",
   "chapter.stage.3.quest.1.description.1": "You can get this new material by mining.",
 
@@ -606,7 +606,7 @@
 
   "chapter.stage.3.quest.10.subtitle.1": "Item Energizer",
   "chapter.stage.3.quest.10.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !.",
-  
+
   "chapter.stage.3.quest.11.subtitle.1": "Your first Energized Craft",
   "chapter.stage.3.quest.11.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !"
 
