@@ -68,6 +68,26 @@ onEvent('recipes', (event) => {
           result: { item: 'angelring:energetic_angel_ring' },
           id: 'angelring:energetic_angel_ring'
       },
+      {
+          inputs: [
+              { item: 'beyond_earth:compressed_calorite' },
+              { item: 'beyond_earth:compressed_calorite' },
+              { item: 'beyond_earth:compressed_calorite' },
+              Item.of('ironjetpacks:thruster', '{Id:"ironjetpacks:calorite"}').weakNBT().toJson(),
+              Item.of('ironjetpacks:thruster', '{Id:"ironjetpacks:calorite"}').weakNBT().toJson(),
+              { item: 'beyond_earth:compressed_calorite' },
+              { item: 'beyond_earth:compressed_calorite' },
+              { item: 'beyond_earth:compressed_calorite' },
+              { item: 'ironjetpacks:ultimate_coil' },
+              { item: 'ironjetpacks:ultimate_coil' },
+              Item.of('ironjetpacks:capacitor', '{Id:"ironjetpacks:calorite"}').weakNBT().toJson()
+          ],
+          catalyst: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:niotic"}').weakNBT().toJson(),
+          powerCost: 100000,
+          powerRate: 1000,
+          result: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:calorite",Throttle:1.0d}'),
+          id: `${id_prefix}niotic_jetpack`
+      },
     ];
 
     recipes.forEach((recipe) => {

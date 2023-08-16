@@ -443,4 +443,47 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('hostilenetworks:loot_fabricator')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDC",
+        "E E"
+      ],
+      "key": {
+        "A": {
+          "item": "ironjetpacks:advanced_coil"
+        },
+        "B": {
+          "type": "forge:nbt",
+          "item": "ironjetpacks:jetpack",
+          "count": 1,
+          "nbt": "{Id:\"ironjetpacks:steel\"}"
+        },
+        "C": {
+          "item": "powah:steel_energized"
+        },
+        "D": {
+          "type": "forge:nbt",
+          "item": "ironjetpacks:capacitor",
+          "count": 1,
+          "nbt": "{Id:\"ironjetpacks:compressed_gas\"}"
+        },
+        "E": {
+          "type": "forge:nbt",
+          "item": "ironjetpacks:thruster",
+          "count": 1,
+          "nbt": "{Id:\"ironjetpacks:compressed_gas\"}"
+        }
+      },
+      "result": {
+        "type": "forge:nbt",
+        "item": "ironjetpacks:jetpack",
+        "count": 1,
+        "nbt": "{Id:\"ironjetpacks:compressed_gas\"}"
+      }
+    }
+  ).id(`${id_prefix}compressed_jetpack`)
 });

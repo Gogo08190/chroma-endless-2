@@ -168,8 +168,8 @@ onEvent('recipes', (event) => {
             ],
             pressure: 3.5,
             results: [Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:compressed_gas"}')],
-            id: `${id_prefix}steel_cell`
-        },
+            id: `${id_prefix}compressed_cell`
+        }
     ];
 
     recipes.forEach((recipe) => {

@@ -322,6 +322,19 @@ onEvent('recipes', (event) => {
             energy: 8000,
             result: Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:niotic"}'),
             id: `${id_prefix}niotic_cell`
+        },
+        {
+            ingredients: [
+                Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:compressed_gas"}').weakNBT().toJson(),
+                Item.of('ironjetpacks:thruster', '{Id:"ironjetpacks:niotic"}').weakNBT().toJson(),
+                Item.of('ironjetpacks:thruster', '{Id:"ironjetpacks:niotic"}').weakNBT().toJson(),
+                Item.of('ironjetpacks:capacitor', '{Id:"ironjetpacks:niotic"}').weakNBT().toJson(),
+                { item: 'ironjetpacks:elite_coil' },
+                { item: 'ironjetpacks:elite_coil' }
+            ],
+            energy: 16000,
+            result: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:niotic",Throttle:1.0d}'),
+            id: `${id_prefix}niotic_jetpack`
         }
     ];
 
