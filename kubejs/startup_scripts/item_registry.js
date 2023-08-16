@@ -70,7 +70,8 @@ onEvent('item.registry', (event) => {
       'isolated_compressed_desh',
       'desh_rocket_nose_cone',
       'desh_rocket_fin',
-      'blank_upgrade'
+      'blank_upgrade',
+      'temporary_name'
     ];
 
     items.forEach((item) => {
