@@ -167,6 +167,28 @@ onEvent('recipes', (event) => {
             },
             id: 'torchmaster:megatorch'
         },
+        {
+            output: Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:steel"}'),
+            pattern: [' R ', 'SIS', ' R '],
+            key: {
+                R: 'immersiveengineering:wirecoil_redstone',
+                S: '#forge:ingots/steel',
+                I: 'ironjetpacks:basic_coil'
+            },
+            id: `${id_prefix}steel_cell`
+        },
+        {
+            output: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:steel",Throttle:1.0d}'),
+            pattern: ['SBS', 'SLS', 'TRT'],
+            key: {
+                S: '#forge:plates/steel',
+                B: Item.of('ironjetpacks:capacitor', '{Id:"ironjetpacks:steel"}'),
+                L: 'ironjetpacks:strap',
+                T: Item.of('ironjetpacks:thruster', '{Id:"ironjetpacks:steel"}'),
+                R: 'angelring:itemdiamondring'
+            },
+            id: `${id_prefix}steel_jetpack`
+        },
     ];
 
     recipes.forEach((recipe) => {

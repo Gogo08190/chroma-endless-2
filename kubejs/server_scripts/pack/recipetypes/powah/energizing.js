@@ -310,6 +310,18 @@ onEvent('recipes', (event) => {
                 count: 4
             },
             id: 'biggerreactors:crafting/turbine/turbine_casing'
+        },
+        {
+            ingredients: [
+                { item: 'powah:crystal_niotic' },
+                { item: 'powah:crystal_niotic' },
+                { item: 'ironjetpacks:advanced_coil' },
+                { item: 'powah:charged_snowball' },
+                { item: 'powah:charged_snowball' }
+            ],
+            energy: 8000,
+            result: Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:niotic"}'),
+            id: `${id_prefix}niotic_cell`
         }
     ];
 

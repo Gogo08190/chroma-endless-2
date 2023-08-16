@@ -160,6 +160,16 @@ onEvent('recipes', (event) => {
             results: [{ item: 'chroma:supra_catalyst', count: 1 }],
             id: `${id_prefix}supra_catalyst`
         },
+        {
+            inputs: [
+                { item: 'pneumaticcraft:speed_upgrade', count: 2 },
+                { item: 'ironjetpacks:basic_coil', count: 1 },
+                { item: 'pneumaticcraft:ingot_iron_compressed', count: 2 }
+            ],
+            pressure: 3.5,
+            results: [Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:compressed_gas"}')],
+            id: `${id_prefix}steel_cell`
+        },
     ];
 
     recipes.forEach((recipe) => {
