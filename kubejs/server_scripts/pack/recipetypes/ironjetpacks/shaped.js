@@ -152,6 +152,18 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}ethereal_capacitor`
       },
+      {
+          output: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:compressed_gas",Throttle:1.0d}'),
+          pattern: ['CJC', 'EBE', 'T T'],
+          key: {
+              C: 'ironjetpacks:advanced_coil',
+              J: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:steel"}').weakNBT(),
+              E: 'powah:steel_energized',
+              B: Item.of('ironjetpacks:capacitor', '{Id:"ironjetpacks:compressed_gas"}'),
+              T: Item.of('ironjetpacks:thruster', '{Id:"ironjetpacks:compressed_gas"}')
+          },
+          id: `${id_prefix}compressed_jetpack`
+      },
     ];
 
     recipes.forEach((recipe) => {
