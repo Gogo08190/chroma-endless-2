@@ -114,6 +114,46 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}nebula_drill_t2`
       },
+      {
+        output: 'chroma:void_miner_laser_core_t1',
+          pattern: ['FGF', 'FCF', 'FGF'],
+          key: {
+              F: 'chroma:structure_frame',
+              G: '#forge:glass',
+              C: 'powah:capacitor_spirited'
+          },
+          id: `${id_prefix}void_miner_laser_core_t1`
+      },
+      {
+        output: 'chroma:void_item_output_tier_1',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'chroma:absolute_alloy',
+              G: 'chroma:void_miner_frame_tier1',
+              C: 'mekanism:personal_barrel'
+          },
+          id: `${id_prefix}void_item_output_tier_1`
+      },
+      {
+        output: 'chroma:energy_input_tier_1',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'mekaevolution:absolute_control_circuit',
+              G: 'chroma:void_miner_frame_tier1',
+              C: Item.of('solarpanels:spectral_energy_tablet').ignoreNBT()
+          },
+          id: `${id_prefix}energy_input_tier_1`
+      },
+      {
+        output: Item.of('chroma:structure_frame', 4),
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'powah:dielectric_paste',
+              G: 'mekanism:hdpe_sheet',
+              C: 'chemlib:tungsten'
+          },
+          id: `${id_prefix}structure_frame`
+      },
     ];
 
     recipes.forEach((recipe) => {

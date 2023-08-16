@@ -142,6 +142,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: 'mekanismgenerators:fission_reactor/casing'
       },
+      {
+        output: { item: 'chroma:void_miner_frame_tier1', count: 1 },
+        inputs: [
+          { item: 'powah:crystal_niotic', count: 2 },
+          { item: 'powah:capacitor_spirited', count: 1 },
+          { item: 'chroma:structure_frame', count: 1 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: `${id_prefix}void_miner_frame_tier1`
+      },
     ];
 
     recipes.forEach((recipe) => {

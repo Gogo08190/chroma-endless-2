@@ -430,4 +430,66 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mekaevolution:supreme_energy_cube')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABCBAA",
+        "ADDEDDA",
+        "BDFGFDB",
+        "CHIJKHC",
+        "BDFLFDB",
+        "MDDEDDM",
+        "MMMNMMM"
+      ],
+      "key": {
+        "A": {
+          "item": "chroma:void_miner_frame_tier1"
+        },
+        "B": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "C": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "D": {
+          "item": "beyond_earth:desh_ingot"
+        },
+        "E": {
+          "item": "powah:capacitor_spirited"
+        },
+        "F": {
+          "item": "mythicbotany:dream_cherry"
+        },
+        "G": {
+          "item": "mythicbotany:joetunheim_rune"
+        },
+        "H": {
+          "item": "mythicbotany:alfsteel_ingot"
+        },
+        "I": {
+          "item": "mythicbotany:asgard_rune"
+        },
+        "J": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        },
+        "K": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "L": {
+          "item": "mythicbotany:helheim_rune"
+        },
+        "M": {
+          "item": "chroma:structure_frame"
+        },
+        "N": {
+          "item": "industrialforegoing:laser_lens0"
+        }
+      },
+      "result": {
+        "item": "chroma:void_miner_tier_1"
+      }
+    }
+  ).id('mekaevolution:supreme_energy_cube')
 });
