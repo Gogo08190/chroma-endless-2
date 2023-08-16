@@ -168,7 +168,7 @@ onEvent('recipes', (event) => {
             id: 'sophisticatedbackpacks:pickup_upgrade'
         },
         {
-            output: 'sophisticatedbackpacks:pickup_upgrade',
+            output: 'sophisticatedbackpacks:refill_upgrade',
             pattern: [' E ', 'IBI', 'RCR'],
             key: {
                 B: 'sophisticatedbackpacks:upgrade_base',
@@ -249,7 +249,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'sophisticatedbackpacks:advanced_filter_upgrade',
-            pattern: ['   ', 'GBG', 'RRR'],
+            pattern: ['GBG', 'RRR'],
             key: {
                 B: 'sophisticatedbackpacks:filter_upgrade',
                 R: '#forge:dusts/redstone',
@@ -408,7 +408,7 @@ onEvent('recipes', (event) => {
             output: 'sophisticatedbackpacks:xp_pump_upgrade',
             pattern: ['RER', 'XBX', 'RER'],
             key: {
-                B: 'sophisticatedbackpacks:pump_upgrade',
+                B: 'sophisticatedbackpacks:advanced_pump_upgrade',
                 R: '#forge:dusts/redstone',
                 E: 'rftoolsbase:infused_enderpearl',
                 X: 'thermal:xp_crystal'
