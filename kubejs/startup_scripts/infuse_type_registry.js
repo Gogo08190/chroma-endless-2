@@ -5,7 +5,8 @@ onEvent('mekanism.infuse_type.registry', (event) => {
       {name: 'lunaris_nova', color: 0xF0F184},
       {name: 'compressed_steel', color: 0x2B2727},
       {name: 'niotic', color: 0x07A4CD},
-      {name: 'marsova_ignis', color: 0xFF3B3A}
+      {name: 'marsova_ignis', color: 0xFF3B3A},
+      {name: 'mercurial_flarelight', color: 0xE10BAB}
     ];
 
     infuse_type.forEach((infuse) => {
