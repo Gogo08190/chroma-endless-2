@@ -13,6 +13,12 @@ onEvent('recipes', (event) => {
         extrainput: Item.of('#forge:storage_blocks/steel', 4),
         output: 'powah:dielectric_casing',
         id: 'powah:crafting/dielectric_casing'
+      },
+      {
+        input: Item.of('draconicevolution:draconium_dust', 8),
+        extrainput: 'minecraft:cobblestone',
+        output: 'draconicevolution:overworld_draconium_ore',
+        id: 'jaopca:mekanism.material_to_default_ore.draconium'
       }
     ];
 
