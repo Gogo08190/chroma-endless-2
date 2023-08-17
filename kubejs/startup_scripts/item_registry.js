@@ -73,7 +73,9 @@ onEvent('item.registry', (event) => {
       'blank_upgrade',
       'thermospiritium',
       'ostrum_rocket_nose_cone',
-      'ostrum_rocket_fin'
+      'ostrum_rocket_fin',
+      'mercurial_flarelight',
+      'enriched_mercurial_flarelight'
     ];
 
     items.forEach((item) => {
