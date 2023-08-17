@@ -71,7 +71,9 @@ onEvent('item.registry', (event) => {
       'desh_rocket_nose_cone',
       'desh_rocket_fin',
       'blank_upgrade',
-      'thermospiritium'
+      'thermospiritium',
+      'ostrum_rocket_nose_cone',
+      'ostrum_rocket_fin'
     ];
 
     items.forEach((item) => {
