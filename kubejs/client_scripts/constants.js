@@ -60,7 +60,10 @@ const itemsToHide = [
     'thermal:crude_oil_bucket',
     'powah:capacitor_basic_tiny',
     'tconstruct:honey_bucket',
-    'hostilenetworks:twilight_prediction'
+    'hostilenetworks:twilight_prediction',
+    'draconicevolution:end_draconium_ore',
+    'draconicevolution:nether_draconium_ore',
+    'draconicevolution:deepslate_draconium_ore'
 ];
 
 const recipesToHide = [
