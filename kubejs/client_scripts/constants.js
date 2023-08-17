@@ -53,11 +53,11 @@ const colors = [
 
 const itemsToHide = [
 
-    /theoneprobe:/,
     /chiselsandbits:block_bit$/,
     /powah:\w+_starter/,
     'immersivepetroleum:crudeoil_bucket',
     'thermal:crude_oil_bucket',
+    'thermal:creosote_bucket',
     'powah:capacitor_basic_tiny',
     'tconstruct:honey_bucket',
     'hostilenetworks:twilight_prediction',
