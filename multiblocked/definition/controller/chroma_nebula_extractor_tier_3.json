@@ -460,7 +460,7 @@
       "M": {
         "blocks": [
           {
-            "id": "simplylight:illuminant_cyan_block_on"
+            "id": "simplylight:illuminant_magenta_block_on"
           }
         ],
         "type": "blocks"
@@ -484,7 +484,7 @@
       "P": {
         "blocks": [
           {
-            "id": "beyond_earth:ostrum_block"
+            "id": "beyond_earth:calorite_block"
           }
         ],
         "type": "blocks"
