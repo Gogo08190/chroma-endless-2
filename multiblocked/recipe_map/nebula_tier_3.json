@@ -1,0 +1,52 @@
+{
+  "name": "nebula_tier_3",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "mercurial",
+      "duration": 200,
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "chroma:mercurial_flarelight"
+              }
+            },
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:mercury_stone"
+              }
+            },
+            "chance": 0.1
+          }
+        ]
+      },
+      "tickInputs": {
+        "forge_energy": [
+          {
+            "content": 10000,
+            "chance": 1.0
+          }
+        ]
+      },
+      "conditions": [
+        {
+          "type": "biome",
+          "condition": {
+            "biome": "beyond_earth:mercury"
+          }
+        }
+      ]
+    }
+  ],
+  "ui": "nebula_tier_2"
+}
