@@ -2,6 +2,7 @@ onEvent('jei.hide.fluids', (event) => {
     [
       'thermal:crude_oil',
       'immersivepetroleum:crudeoil',
+      'thermal:creosote',
       'cofh_core:honey',
       'tconstruct:honey'
 
