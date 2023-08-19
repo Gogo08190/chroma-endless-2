@@ -45,10 +45,10 @@ onEvent('recipes', (event) => {
     },
     {
         inputs: [
-            { item: 'botania:life_essence'},
-            { item: 'botania:life_essence'},
-            { item: 'botania:life_essence'},
-            { item: 'botania:life_essence'},
+            { item: 'botania:life_essence' },
+            { item: 'botania:life_essence' },
+            { item: 'botania:life_essence' },
+            { item: 'botania:life_essence' },
             { item: 'botania:terrasteel_ingot' }
         ],
         output: { item: 'botania:gaia_ingot' },
@@ -57,10 +57,10 @@ onEvent('recipes', (event) => {
     },
     {
         inputs: [
-            { item: 'rftoolsbase:infused_enderpearl'},
-            { item: 'rftoolsbase:infused_enderpearl'},
-            { item: 'rftoolsbase:infused_diamond'},
-            { item: 'rftoolsbase:infused_diamond'},
+            { item: 'rftoolsbase:infused_enderpearl' },
+            { item: 'rftoolsbase:infused_enderpearl' },
+            { item: 'rftoolsbase:infused_diamond' },
+            { item: 'rftoolsbase:infused_diamond' },
             { item: 'mekanism:alloy_reinforced' },
             { item: 'mekanism:alloy_reinforced' },
             { item: 'rftoolsbase:machine_frame' }
@@ -68,6 +68,21 @@ onEvent('recipes', (event) => {
         output: { item: 'rftoolsbase:machine_infuser' },
         mana: 25000,
         id: 'rftoolsbase:machine_infuser'
+    },
+    {
+        inputs: [
+            { item: 'mythicbotany:muspelheim_rune' },
+            { item: 'mythicbotany:muspelheim_rune' },
+            { item: 'mythicbotany:muspelheim_rune' },
+            { item: 'mythicbotany:muspelheim_rune' },
+            { item: 'megacells:cell_component_4m' },
+            { item: 'megacells:cell_component_4m' },
+            { item: 'megacells:cell_component_4m' },
+            { item: 'lazierae2:parallel_processor' }
+        ],
+        output: { item: 'megacells:cell_component_16m' },
+        mana: 2500,
+        id: 'megacells:cell_component_16m'
     },
 
     ];

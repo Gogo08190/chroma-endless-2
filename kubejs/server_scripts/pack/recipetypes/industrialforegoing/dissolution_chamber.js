@@ -480,6 +480,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'biggerreactors:crafting/turbine/turbine_terminal'
         },
+        {
+            inputs: [
+                'lazierae2:carbonic_fluix_dust',
+                'ae2:calculation_processor',
+                'lazierae2:carbonic_fluix_dust',
+                'megacells:cell_component_1m',
+                'megacells:cell_component_1m',
+                'lazierae2:carbonic_fluix_dust',
+                'megacells:cell_component_1m',
+                'lazierae2:carbonic_fluix_dust'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 200,
+            processingTime: 300,
+            outputItem: { item: 'megacells:cell_component_4m', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'megacells:cell_component_4m'
+        },
     ];
 
     recipes.forEach((recipe) => {

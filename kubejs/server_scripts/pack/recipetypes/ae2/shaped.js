@@ -224,26 +224,6 @@ onEvent('recipes', (event) => {
             id: 'ae2:network/cells/fluid_cell_housing'
         },
         {
-            output: 'megacells:mega_fluid_cell_housing',
-            pattern: ['GRG', 'R R', 'SSS'],
-            key: {
-                G: 'ae2:quartz_vibrant_glass',
-                R: 'lazierae2:carbonic_fluix_dust',
-                S: '#forge:plates/copper'
-            },
-            id: 'megacells:cells/mega_fluid_cell_housing'
-        },
-        {
-            output: 'megacells:mega_item_cell_housing',
-            pattern: ['GRG', 'R R', 'SSS'],
-            key: {
-                G: 'ae2:quartz_vibrant_glass',
-                R: 'lazierae2:carbonic_fluix_dust',
-                S: '#forge:plates/steel'
-            },
-            id: 'megacells:cells/mega_item_cell_housing'
-        },
-        {
             output: 'ae2:wireless_receiver',
             pattern: [' F ', 'PQP', ' P '],
             key: {

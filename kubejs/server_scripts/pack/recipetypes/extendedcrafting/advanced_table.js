@@ -1176,4 +1176,121 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}nebula_extractor_tier_2`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FEGEF",
+        "BDEDB",
+        "ABFBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:compressed_desh"
+        },
+        "B": {
+          "item": "powah:crystal_spirited"
+        },
+        "C": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "D": {
+          "item": "ae2:matter_ball"
+        },
+        "E": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "F": {
+          "item": "megacells:cell_component_16m"
+        },
+        "G": {
+          "item": "chroma:absolute_alloy"
+        }
+      },
+      "result": {
+        "item": "megacells:cell_component_64m"
+      }
+    }
+  ).id('megacells:cell_component_64m')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHGF",
+        "BDEDB",
+        "ABFBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:compressed_ostrum"
+        },
+        "B": {
+          "item": "powah:crystal_nitro"
+        },
+        "C": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "D": {
+          "item": "ae2:matter_ball"
+        },
+        "E": {
+          "item": "mekanism:pellet_polonium"
+        },
+        "F": {
+          "item": "megacells:cell_component_64m"
+        },
+        "G": {
+          "item": "mekanism:pellet_plutonium"
+        },
+        "H": {
+          "item": "chroma:supreme_alloy"
+        }
+      },
+      "result": {
+        "item": "megacells:cell_component_256m"
+      }
+    }
+  ).id('megacells:cell_component_256m')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "CEFEC",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "beyond_earth:compressed_desh"
+        },
+        "B": {
+          "item": "powah:crystal_spirited"
+        },
+        "C": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "D": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "E": {
+          "item": "lazierae2:logic_unit"
+        },
+        "F": {
+          "item": "ae2:crafting_unit"
+        }
+      },
+      "result": {
+        "item": "megacells:mega_crafting_unit"
+      }
+    }
+  ).id('megacells:crafting/mega_crafting_unit')
 });

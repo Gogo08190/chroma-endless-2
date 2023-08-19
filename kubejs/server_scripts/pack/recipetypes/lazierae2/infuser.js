@@ -153,6 +153,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: `${id_prefix}void_miner_frame_tier1`
       },
+      {
+        output: { item: 'megacells:cell_component_1m', count: 1 },
+        inputs: [
+          { item: 'ae2:calculation_processor', count: 1 },
+          { item: 'ae2:cell_component_256k', count: 3 },
+          { item: 'lazierae2:carbonic_fluix_dust', count: 4 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'megacells:cell_component_1m'
+      },
     ];
 
     recipes.forEach((recipe) => {
