@@ -491,5 +491,5 @@ onEvent("recipes", (event) => {
         "item": "chroma:void_miner_tier_1"
       }
     }
-  ).id('mekaevolution:supreme_energy_cube')
+  ).id(`${id_prefix}void_miner_tier_1`)
 });
