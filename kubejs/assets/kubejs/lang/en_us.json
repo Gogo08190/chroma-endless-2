@@ -797,12 +797,82 @@
   "chapter.stage.3.quest.64.description.1": "Simply Infuse Coal Dust, Fluix dust and Silicon in the Matter Infuser.",
 
   "chapter.stage.3.quest.65.subtitle.1": "Fluix Infusion",
-  "chapter.stage.3.quest.65.description.1": "Simply Fluix Crystal, Carbonic Fluix Dust and an Iron Ingot in the Matter Infuser.",
+  "chapter.stage.3.quest.65.description.1": "Simply Infuse Fluix Crystal, Carbonic Fluix Dust and an Iron Ingot in the Matter Infuser.",
 
+  "chapter.stage.3.quest.66.subtitle.1": "Controlling The Fluix",
+  "chapter.stage.3.quest.66.description.1": "The &bME Controller&r is the final component essential for any expansive ME network",
+  "chapter.stage.3.quest.66.description.2": "A controller boosts an ME Network's capacity well beyond the standard 8 channels of ad-hoc networks, offering 32 channels from each block face, amounting to a total of 216 channels.",
+  "chapter.stage.3.quest.66.description.3": "While that applies to a single-block controller, it's worth noting that the ME Controller is a multi-block structure. It can span up to 7x7x7 blocks and have any shape within that limit. Each block offers its unique set of channels, provided no controller block is flanked by 4 others on the same plane.",
+  "chapter.stage.3.quest.66.description.4": "An ME Network can accommodate only one multiblock controller simultaneously. Trying to integrate multiple controllers in different sections will trigger a conflict, leading to the entire network's shutdown.",
 
+  "chapter.stage.3.quest.67.subtitle.1": "Access Storage",
+  "chapter.stage.3.quest.67.description.1": "The Access Point serves as the gateway for wireless network entry using a &6wireless terminal&r. Its operational range is determined by the number of &bWireless Boosters&r integrated into the access point, establishing a finite coverage area.",
 
+  "chapter.stage.3.quest.68.subtitle.1": "Wireless Storage",
+  "chapter.stage.3.quest.68.description.1": "The &bWireless Terminal&r operates in the same manner as a standard terminal, with the added convenience of wireless functionality. Quite a straightforward concept.",
+  
+  "chapter.stage.3.quest.69.subtitle.1": "Wireless Crafting & Storage",
+  "chapter.stage.3.quest.69.description.1": "Simply adds the fact that you can craft using your ME Storage.",
 
+  "chapter.stage.3.quest.70.subtitle.1": "Boosting the Wireless Range",
+  "chapter.stage.3.quest.70.description.1": "As the subtitle is saying the &5Wireless Booster&r boosts the Wireless Access Point area coverage.",
+  
+  "chapter.stage.3.quest.71.subtitle.1": "ME Servers",
+  "chapter.stage.3.quest.71.description.1": "The &bME Drive&r can house up to 10 different Storage Cells within a single block and one ME channel. Unlike the ME Chest, it lacks an integrated terminal screen, necessitating an external terminal on the network to access storage.",
 
+  "chapter.stage.3.quest.72.subtitle.1": "Storing with ME Disks",
+  "chapter.stage.3.quest.72.description.1": "Each &bME Item Storage Cell&r has the capacity to accommodate as many as 63 distinct item types. When adding a new item type to a cell, it will occupy a specific portion of the cell's total capacity, measured in bytes. For each type already contained within the cell, the allocation equates to 1 'byte,' which translates to being able to store 8 items of the same type.",
+  "chapter.stage.3.quest.72.description.2": "As an example, let's consider a 1k Item Storage Cell exclusively containing cobblestone. In this case, the cell can accommodate a maximum of 8128 cobblestone units, calculated as follows: (8*1024b - 8b/type * 1 type).",
 
+  "chapter.stage.3.quest.73.subtitle.1": "Wireless Crafting & Storage",
+  "chapter.stage.3.quest.73.description.1": "Indeed, items aren't the sole entities suitable for storage within ME cells. &bME Fluid Storage Cells&r are adept at containing liquids such as water, lava, and a multitude of modded oils and fuels, among various other possibilities.",
+  "chapter.stage.3.quest.73.description.2": "In the context of fluids, 1 byte is equivalent to 8 buckets, or 8000mb.",
 
-}
+  "chapter.stage.3.quest.74.subtitle.1": "Frame Creation",
+  "chapter.stage.3.quest.74.description.1": "Craft Thermal Machine frame with Tin Gears, Dielectric Casing and Steel Plates in the &5Matter Infuser&r.",
+
+  "chapter.stage.3.quest.75.subtitle.1": "Smelting Items Into Fluid",
+  "chapter.stage.3.quest.75.description.1": "The Magma Crucible is made to fluidfy items into corresponding fluid.",
+  
+  "chapter.stage.3.quest.76.subtitle.1": "Creating RFTools Frame",
+  "chapter.stage.3.quest.76.description.1": "Craft RFTools Machine frame with Redstone Servo, Elite Control Circuits and Machine Base in the &5Matter Infuser&r.",
+
+  "chapter.stage.3.quest.77.subtitle.1": "Fluifying Items or Blocks",
+  "chapter.stage.3.quest.77.description.1": "Combine a liquid with an item in order to fill it.",
+
+  "chapter.stage.3.quest.78.subtitle.1": "First RFTool Frame",
+  "chapter.stage.3.quest.78.description.1": "Process Destabilized Redstone and Reinforced Stone in the Thermopneumatic Processor and get a Machine Frame.",
+
+  "chapter.stage.3.quest.79.subtitle.1": "Servo with Redstone",
+  "chapter.stage.3.quest.79.description.1": "Encapsulate an Iron Plate with Destabilized Redstone.",
+
+  "chapter.stage.3.quest.80.subtitle.1": "Coil with Redstone",
+  "chapter.stage.3.quest.80.description.1": "Encapsulate an Electrum Rod with Destabilized Redstone.",
+
+  "chapter.stage.3.quest.81.subtitle.1": "Thermal Smeltery",
+  "chapter.stage.3.quest.81.description.1": "Combine items (max 3) to get another one. This is mainly used to mix ingots. Check JEI for recipes.",
+
+  "chapter.stage.3.quest.82.subtitle.1": "Mouting with Modules",
+  "chapter.stage.3.quest.82.description.1": "?",
+
+  "chapter.stage.3.quest.83.subtitle.1": "Your first Ender Crafting",
+  "chapter.stage.3.quest.83.description.1": "Combine 4 Ender Eyes and a Nether star in the Ender Crafting.",
+
+  "chapter.stage.3.quest.84.subtitle.1": "Dissolving Items",
+  "chapter.stage.3.quest.84.description.1": "The Dissolver can dissolve any compatible items into chemical Elements.",
+  
+  "chapter.stage.3.quest.85.subtitle.1": "Combining Chemical Elements",
+  "chapter.stage.3.quest.85.description.1": "The Combiner can combine any compatible Chemical Elements into Items.",
+
+  "chapter.stage.3.quest.86.subtitle.1": "Comapcting Chemical Elements",
+  "chapter.stage.3.quest.86.description.1": "The Compacter can compact any compatible Chemical Elements into Items.",
+
+  "chapter.stage.3.quest.87.subtitle.1": "Dissolving Deepslate",
+
+  "chapter.stage.3.quest.88.subtitle.1": "Combining Scandium",
+
+  "chapter.stage.3.quest.89.subtitle.1": "Smelting Scandium",
+
+  "chapter.stage.3.quest.90.subtitle.1": "Elite Transforming",
+  "chapter.stage.3.quest.90.description.1": "Transforms any Advanced Mekanism into Elite Tier."
+} 
