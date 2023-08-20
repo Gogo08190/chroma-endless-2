@@ -210,7 +210,7 @@
   "chapter.stage.1.quest.37.title.1": "Smeltery",
   "chapter.stage.1.quest.37.subtitle.1": "The Tinker Smeltery !",
   "chapter.stage.1.quest.37.description.1" : "As we seen sooner in the quests, seared brick is going to be needed (again)",
-  "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be usefull to make some parts !",
+  "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be useful to make some parts !",
 
   "chapter.stage.1.quest.38.subtitle.1": "Gold And Zinc Mix",
 
@@ -640,31 +640,155 @@
   "chapter.stage.3.quest.13.description.1": "Splits incoming air into hot and cold components. One side gets hot, the other cold.  Don't forget to put a heat vent on the unused side",
 
   "chapter.stage.3.quest.14.subtitle.1": "The Pneumatic Refiner",
-  "chapter.stage.3.quest.14.description.1": "A Refinery is used to process a fluid into different fluids."
+  "chapter.stage.3.quest.14.description.1": "A Refinery is used to process a fluid into different fluids.",
 
+  "chapter.stage.3.quest.15.subtitle.1": "The Processing Plant",
+  "chapter.stage.3.quest.15.description.1": "This machine is used to process items and / or liquids into other items / liquids.",
 
+  "chapter.stage.3.quest.16.subtitle.1": "Making Upgrades",
+  "chapter.stage.3.quest.16.description.1": "Crafting components for Pneumatic Upgrades.",
 
+  "chapter.stage.3.quest.17.subtitle.1": "Hot Mixing",
+  "chapter.stage.3.quest.17.description.1": "This item will be useful, so I suggest you do an early automation.",
 
+  "chapter.stage.3.quest.18.subtitle.1": "Transferring Pression",
+  "chapter.stage.3.quest.18.description.1": "Pressure tubes move air between compressors and machines. Tube Modules can be placed on them.",
 
+  "chapter.stage.3.quest.19.subtitle.1": "A Better Pression Transfer",
+  "chapter.stage.3.quest.19.description.1": "A stronger version of the basic Pressure Tube.",
 
+  "chapter.stage.3.quest.20.subtitle.1": "Making Hot Plastic",
+  "chapter.stage.3.quest.20.description.1": "Process LPG and coal in the Thermopneumatic Processor and get Molten Plastic",
 
+  "chapter.stage.3.quest.21.subtitle.1": "First Air Generation",
+  "chapter.stage.3.quest.21.description.1": "This machine generates compressed Air. To do so insert any burnable solid-fuel except fuel bucket.",
 
+  "chapter.stage.3.quest.22.subtitle.1": "Fuel Air Generator",
+  "chapter.stage.3.quest.22.description.1": "This machine generates compressed Air. To do so insert variable fluids fuel. Remeber to check JEI.",
 
+  "chapter.stage.3.quest.23.subtitle.1": "Cooling or Heating? Both !",
+  "chapter.stage.3.quest.23.description.1": "This must be placed on any inventory. When heated by an adjacent heat source it will smelt any item in as well as freeze if cooled.",
+  "chapter.stage.3.quest.23.description.2": "It will only succeed if the storage is empty. The more heat or cold you bring the faster it will go.",
 
+  "chapter.stage.3.quest.24.title": "The Pressure Chamber",
+  "chapter.stage.3.quest.24.subtitle.1": "Crafting with pression",
+  "chapter.stage.3.quest.24.description.1": "The Pressure Chamber is a 3x3x3 hollow multiblock. Put one valve for Air and two Interfaces for input and output",
 
+  "chapter.stage.3.quest.25.subtitle.1": "Cooling Plastic",
+  "chapter.stage.3.quest.25.description.1": "Cool some Molten Plastic in the Heat Frame and get Plastic Sheet",
 
+  "chapter.stage.3.quest.26.subtitle.1": "First Pneumatic Component",
+  "chapter.stage.3.quest.26.description.1": "Use the Pressure Chamber to craft the Transistor.",
 
+  "chapter.stage.3.quest.27.subtitle.1": "Another Pneumatic Component",
+  "chapter.stage.3.quest.27.description.1": "Use the Pressure Chamber to craft the Capacitor.",
+  
+  "chapter.stage.3.quest.28.subtitle.1": "First Infusion",
+  "chapter.stage.3.quest.28.description.1": "Use the Infuser to craft the Redstone Ingot.",
 
+  "chapter.stage.3.quest.29.subtitle.1": "Enrichment Preparation",
+  "chapter.stage.3.quest.29.description.1": "This machine uses energy to extract &6dusts &rout of certain blocks and ores, making it essential to producing different kinds of tools",
+  "chapter.stage.3.quest.29.description.2": "Not to be mistaken with the &6Crusher&f, this machine is the pulverizer equivalent in other mods.",  
+  "chapter.stage.3.quest.29.description.3": "ProTip: This brings more InfuseType in your Infusing Crafts.",  
 
+  "chapter.stage.3.quest.30.subtitle.1": "Enriching Compressing Steel",
 
+  "chapter.stage.3.quest.31.subtitle.1": "A better Alloy",
+  "chapter.stage.3.quest.31.description.1" : "Simply infuse an Infused Alloy with Compressed Steel.",
 
+  "chapter.stage.3.quest.32.subtitle.1": "A better Control Circuit",
+  "chapter.stage.3.quest.32.description.1" : "Simply infuse an Advanced Control Circuit with Compressed Steel.",
 
+  "chapter.stage.3.quest.33.subtitle.1": "Useful Tablet",
+  "chatper.stage.3.quest.33.description.1" : "The &bEnergy Tablet&f is a portable, rechargeable battery pack that can be charged with up to 1,000kJ of energy and can then be used to power other devices. It is also an ingredient in many recipes.", 
 
+  "chapter.stage.3.quest.34.subtitle.1": "Night is boring",
+  "chapter.stage.3.quest.34.description.1" : "Generates Forge Energy with the power of the sun. Can be upgraded later.",
 
+  "chapter.stage.3.quest.35.subtitle.1": "Wind Power !",
+  "chapter.stage.3.quest.35.description.1" : "Generates Forge Energy with the power of the Wind.",
 
+  "chapter.stage.3.quest.36.subtitle.1": "Another Compressor",
+  "chapter.stage.3.quest.36.description.1" : "The &bOsmium Compressor&f is used to create &aRefined Obsidian Ingots &ffrom Refined Obsidian Dust and &aGlowstone Ingots&f from Glowstone Dust.",
+  
+  "chapter.stage.3.quest.37.subtitle.1": "Arcane Smelting Fluix",
+  "chapter.stage.3.quest.37.description.1" : "The Essence of Darkness is a new infuse type that is made with the Runeforge.",
 
+  "chapter.stage.3.quest.38.subtitle.1": "Let Darkness come",
+  "chapter.stage.3.quest.38.description.1" : "Simply infuse a Steel Ingot with Essence of Darkness.",
 
+  "chapter.stage.3.quest.39.subtitle.1": "Osmium Compressing Black Steel",
 
+  "chapter.stage.3.quest.40.subtitle.1": "Mixing FLuids",
+  "chapter.stage.3.quest.40.description.1": "Uses pressure to mix two fluids together, producing a fluid and/or item output.",
+
+  "chapter.stage.3.quest.41.subtitle.1": "Inert Processing",
+  "chapter.stage.3.quest.41.description.1": "Process Bio-diesel and Inferium Essence in the Thermopneumatic Processor and get an Inert Luminessence.",
+
+  "chapter.stage.3.quest.42.subtitle.1": "Crafting Luminessence",
+  "chapter.stage.3.quest.42.description.1": "Simply infuse an Inert Luminessence with Refined Glowstone.",
+
+  "chapter.stage.3.quest.43.subtitle.1": "The First Component",
+  "chapter.stage.3.quest.43.description.1": "Simply energize Luminessence with Black Steel",
+  
+  "chapter.stage.3.quest.44.subtitle.1": "The First Catalyst",
+  "chapter.stage.3.quest.44.description.1": "With the Pressure chamber combine Basic Components and a Basic Capacitor.",
+
+  "chapter.stage.3.quest.45.subtitle.1": "The First Extended Crafting Table",
+  "chapter.stage.3.quest.45.description.1": "Simply energize Basic Catalysts with Compressed Steel and an Engineer's Crafting Table. Check JEI for details.",
+
+  "chapter.stage.3.quest.46.subtitle.1": "First Extended Ingot",
+  "chapter.stage.3.quest.46.description.1": "Simply energize Soul Steel and an Ender Pearl.",
+
+  "chapter.stage.3.quest.47.subtitle.1": "First Extended Ingot",
+  "chapter.stage.3.quest.47.description.1": "Simply energize Soul Steel and an Ender Pearl.",
+  
+  "chapter.stage.3.quest.48.subtitle.1": "Crafting with Ender Power",
+  "chapter.stage.3.quest.48.description.1": "With the Terrestrial Agglomeration Plate combine Ender Ingots, Superheated Purified Vinteum and a Basic Crafting Table.",
+
+  "chapter.stage.3.quest.49.subtitle.1": "More Power !",
+  "chapter.stage.3.quest.49.description.1": "Speed the processing time of the Ender Crafter. The more you place the faster it will go.",
+
+  "chapter.stage.3.quest.50.subtitle.1": "Auto-Crafting Preparation",
+  "chapter.stage.3.quest.50.description.1": "With the Pressure chamber combine Redstone Components and a Capacitor.",
+
+  "chapter.stage.3.quest.51.subtitle.1": "Basic Auto-Crafting",
+  "chapter.stage.3.quest.51.description.1": "Auto Craft Basic Craftings with FE !",
+
+  "chapter.stage.3.quest.52.subtitle.1": "Advanced Auto-Crafting",
+  "chapter.stage.3.quest.52.description.1": "Auto Craft Advanced Craftings with FE !",
+
+  "chapter.stage.3.quest.53.subtitle.1": "A better Component",
+  "chapter.stage.3.quest.53.description.1": "Simply energize Black Steel Slate with Luminessence and Energized Steel. Check JEI for details.",
+  
+  "chapter.stage.3.quest.54.subtitle.1": "A better Catalyst",
+  "chapter.stage.3.quest.54.description.1": "With the Pressure chamber combine Advanced Components and a Hardened Capacitor.",
+    
+  "chapter.stage.3.quest.55.subtitle.1": "Advanced Crafting",
+  "chapter.stage.3.quest.55.description.1": "Simply energize Advanced Catalysts with Basic Crafting Tables and a block of Energized Steel. Check JEI for details",
+
+  "chapter.stage.3.quest.56.subtitle.1": "Osmium Compressing Glowstone",
+
+  "chapter.stage.3.quest.57.subtitle.1": "Enriching Refined Glowstone",
+  "chapter.stage.3.quest.57.description.1": "Add more Infuse Type for Infusing Recipes",
+
+  "chapter.stage.3.quest.58.subtitle.1": "Enriching Essence of Darkness",
+  "chapter.stage.3.quest.58.description.1": "Add more Infuse Type for Infusing Recipes",
+
+  "chapter.stage.3.quest.59.subtitle.1": "A better Energy Tablet",
+
+  "chapter.stage.3.quest.60.subtitle.1": "Inscribing Processor",
+  "chapter.stage.3.quest.60.description.1": "The &bInscriber&r not only transforms various AE2 quartz crystals into dust form but is primarily employed to craft unique &6Printed Circuits&r and &6Processors&r.",
+
+  "chapter.stage.3.quest.61.subtitle.1": "Storing Applied Energy",
+  "chapter.stage.3.quest.61.description.1": "The &bEnergy Cell&r enhances a ME network's power capacity, contributing an extra 200kAE with each regular Energy Cell.",
+  "chapter.stage.3.quest.61.description.2": "The &bDense Energy Cell&r adds 1.6MAE and the &bSuperdense Energy Cell&r contributes 12.8MAE.",
+  "chapter.stage.3.quest.61.description.3": "These cells can be situated anywhere within the network to boost its energy reserves.",
+  
+  "chapter.stage.3.quest.62.subtitle.1": "Condensing what Matter",
+  "chapter.stage.3.quest.62.description.1": "The &bMatter Condenser&r represents AE2's unique approach to a disposal system, effectively voiding any items fed into it.",
+  "chapter.stage.3.quest.62.description.2": "Yet, with the integration of a &6Storage Component&r, this condenser gains the ability to capture residual energy from the discarded items.",
+  "chapter.stage.3.quest.62.description.3": "This stored energy can then be utilized to create two distinct crafting items by channeling a sufficient amount of concentrated energy.",
 
 
 
