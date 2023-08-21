@@ -626,7 +626,7 @@
   "chapter.stage.3.quest.8.description.1": "Each tier has a maximum energy storage, by upgrading the Energizing Craft you will be able to craft faster.",
 
   "chapter.stage.3.quest.9.subtitle.1": "Item Energizer",
-  "chapter.stage.3.quest.9.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !.",
+  "chapter.stage.3.quest.9.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !",
 
   "chapter.stage.3.quest.10.subtitle.1": "Your first Energized Craft",
   "chapter.stage.3.quest.10.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !",
@@ -701,7 +701,7 @@
   "chapter.stage.3.quest.28.description.1": "Simply infuse a Compressed Steel Ingot with Redstone infusion.",
 
   "chapter.stage.3.quest.29.subtitle.1": "Enrichment Preparation",
-  "chapter.stage.3.quest.29.description.1": "This machine uses energy to extract &6dusts &rout of certain blocks and ores, making it essential to producing different kinds of tools",
+  "chapter.stage.3.quest.29.description.1": "This machine uses energy to extract &6dusts &rout of certain blocks and ores, making it essential to producing different kinds of tools.",
   "chapter.stage.3.quest.29.description.2": "Not to be mistaken with the &6Crusher&f, this machine is the pulverizer equivalent in other mods.",
   "chapter.stage.3.quest.29.description.3": "ProTip: This brings more InfuseType in your Infusing Crafts.",
 
@@ -750,9 +750,6 @@
 
   "chapter.stage.3.quest.45.subtitle.1": "The First Extended Crafting Table",
   "chapter.stage.3.quest.45.description.1": "Simply energize Basic Catalysts with Compressed Steel and an Engineer's Crafting Table. Check JEI for details.",
-
-  "chapter.stage.3.quest.46.subtitle.1": "First Extended Ingot",
-  "chapter.stage.3.quest.46.description.1": "Simply energize Soul Steel and an Ender Pearl.",
 
   "chapter.stage.3.quest.47.subtitle.1": "First Extended Ingot",
   "chapter.stage.3.quest.47.description.1": "Simply energize Soul Steel and an Ender Pearl.",
@@ -880,7 +877,7 @@
   "chapter.stage.3.quest.85.subtitle.1": "Combining Chemical Elements",
   "chapter.stage.3.quest.85.description.1": "The Combiner can combine any compatible Chemical Elements into Items.",
 
-  "chapter.stage.3.quest.86.subtitle.1": "Comapcting Chemical Elements",
+  "chapter.stage.3.quest.86.subtitle.1": "Compacting Chemical Elements",
   "chapter.stage.3.quest.86.description.1": "The Compacter can compact any compatible Chemical Elements into Items.",
 
   "chapter.stage.3.quest.87.subtitle.1": "Dissolving Deepslate",
