@@ -613,7 +613,7 @@
   "chapter.stage.3.quest.4.subtitle.1": "Casing Building",
   "chapter.stage.3.quest.4.description.1": "First you will have to energize Dielectric Rods and Steel Plates.",
   "chapter.stage.3.quest.4.description.2": "Later a new way of crafting will be possible, dont worry.",
-  
+
   "chapter.stage.3.quest.5.subtitle.1": "Crafting Capacitors",
 
   "chapter.stage.3.quest.6.subtitle.1": "Double Efficiency",
@@ -631,16 +631,24 @@
   "chapter.stage.3.quest.10.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !",
 
   "chapter.stage.3.quest.11.subtitle.1": "Explosive Crafting !",
-  "chapter.stage.3.quest.11.description.1": "Explode some Energized Steel ! For now you will have to do this. You will be able to make them later.",
+  "chapter.stage.3.quest.11.description.1": "To obtain this item to begin with, drop &6Energized Steel Ingot&r and activate TNT next to the dropped item(s). 90% of the ingots will be converted into &7Compressed Steel Ingots&r.",
+  "chapter.stage.3.quest.11.description.2": "But don't worry there is a way to get a 100% compressed steel, by creating the &ePressure Chamber&r, any &6Energized Steel Ingot&r you place into it with at least 2.0 bar of pressure will be converted into &7Compressed Steel Ingots&r.",
 
   "chapter.stage.3.quest.12.subtitle.1": "Dispersing Heat",
   "chapter.stage.3.quest.12.description.1": "Block that disperses heat into the air. It only connects to the block it's on.",
 
   "chapter.stage.3.quest.13.subtitle.1": "Hot Cold? Both !",
-  "chapter.stage.3.quest.13.description.1": "Splits incoming air into hot and cold components. One side gets hot, the other cold.  Don't forget to put a heat vent on the unused side",
+  "chapter.stage.3.quest.13.description.1": "The &5Vortex Tube&r is a dynamic heat source which converts pressure directly to heat and cold.",
+  "chapter.stage.3.quest.13.description.2": "It's highly recommended to put a Heat Sink on the unused side of a Vortex Tube, for efficiency.",
 
   "chapter.stage.3.quest.14.subtitle.1": "The Pneumatic Refiner",
-  "chapter.stage.3.quest.14.description.1": "A Refinery is used to process a fluid into different fluids.",
+  "chapter.stage.3.quest.14.description.1": "The &5Refinery&r is a multiblock machine which uses heat to refine Oil into various fuels.",
+  "chapter.stage.3.quest.14.description.2": "The fuels that can be produced are, sorted from lightest to haviest :",
+  "chapter.stage.3.quest.14.description.3": "• LPG",
+  "chapter.stage.3.quest.14.description.4": "• Gasoline",
+  "chapter.stage.3.quest.14.description.5": "• Kerosene",
+  "chapter.stage.3.quest.14.description.6": "• Diesel",
+  "chapter.stage.3.quest.14.description.7": "The &5Refinery&r multiblock is made by placing down a Refinery Controller, then stack 2-4 Refinery Outputs on top or on any side of the Controller.",
 
   "chapter.stage.3.quest.15.subtitle.1": "The Processing Plant",
   "chapter.stage.3.quest.15.description.1": "This machine is used to process items and / or liquids into other items / liquids.",
@@ -672,7 +680,12 @@
 
   "chapter.stage.3.quest.24.title": "The Pressure Chamber",
   "chapter.stage.3.quest.24.subtitle.1": "Crafting with pression",
-  "chapter.stage.3.quest.24.description.1": "The Pressure Chamber is a 3x3x3 hollow multiblock. Put one valve for Air and two Interfaces for input and output",
+  "chapter.stage.3.quest.24.description.1": "The Pressure Chamber is a multi-block structure mainly used to compress various materials into others.",
+  "chapter.stage.3.quest.24.description.2": "It is made by creating a hollow cube out of Pressure Chamber Walls/Windows.",
+  "chapter.stage.3.quest.24.description.3": "The size of the cube can vary from 3x3x3 to 5x5x5, and windows are not needed to create the Pressure Chamber.",
+  "chapter.stage.3.quest.24.description.4": "The Pressure Chamber also requires a Valve, which has to be connected to the air blocks in the Pressure Chamber.",
+  "chapter.stage.3.quest.24.description.5": "At least one Valve is required, but more can be added. When the Pressure Chamber construction is completed, the GUI can be opened with a right-click of any of its constituent blocks.",
+  "chapter.stage.3.quest.24.description.6": "The Pressure Chamber Interface can also be added into the structure to allow the insertion and removal of items to and from the Pressure Chamber making it possible to automate the Input/Output with pipes.",
 
   "chapter.stage.3.quest.25.subtitle.1": "Cooling Plastic",
   "chapter.stage.3.quest.25.description.1": "Cool some Molten Plastic in the Heat Frame and get Plastic Sheet",
@@ -682,25 +695,25 @@
 
   "chapter.stage.3.quest.27.subtitle.1": "Another Pneumatic Component",
   "chapter.stage.3.quest.27.description.1": "Use the Pressure Chamber to craft the Capacitor.",
-  
+
   "chapter.stage.3.quest.28.subtitle.1": "First Infusion",
-  "chapter.stage.3.quest.28.description.1": "Use the Infuser to craft the Redstone Ingot.",
+  "chapter.stage.3.quest.28.description.1": "Simply infuse a Compressed Steel Ingot with Redstone infusion.",
 
   "chapter.stage.3.quest.29.subtitle.1": "Enrichment Preparation",
   "chapter.stage.3.quest.29.description.1": "This machine uses energy to extract &6dusts &rout of certain blocks and ores, making it essential to producing different kinds of tools",
-  "chapter.stage.3.quest.29.description.2": "Not to be mistaken with the &6Crusher&f, this machine is the pulverizer equivalent in other mods.",  
-  "chapter.stage.3.quest.29.description.3": "ProTip: This brings more InfuseType in your Infusing Crafts.",  
+  "chapter.stage.3.quest.29.description.2": "Not to be mistaken with the &6Crusher&f, this machine is the pulverizer equivalent in other mods.",
+  "chapter.stage.3.quest.29.description.3": "ProTip: This brings more InfuseType in your Infusing Crafts.",
 
   "chapter.stage.3.quest.30.subtitle.1": "Enriching Compressing Steel",
 
   "chapter.stage.3.quest.31.subtitle.1": "A better Alloy",
-  "chapter.stage.3.quest.31.description.1" : "Simply infuse an Infused Alloy with Compressed Steel.",
+  "chapter.stage.3.quest.31.description.1" : "Simply infuse an Infused Alloy with Compressed Steel infusion.",
 
   "chapter.stage.3.quest.32.subtitle.1": "A better Control Circuit",
-  "chapter.stage.3.quest.32.description.1" : "Simply infuse an Advanced Control Circuit with Compressed Steel.",
+  "chapter.stage.3.quest.32.description.1" : "Simply infuse an Advanced Control Circuit with Compressed Steel infusion.",
 
   "chapter.stage.3.quest.33.subtitle.1": "Useful Tablet",
-  "chatper.stage.3.quest.33.description.1" : "The &bEnergy Tablet&f is a portable, rechargeable battery pack that can be charged with up to 1,000kJ of energy and can then be used to power other devices. It is also an ingredient in many recipes.", 
+  "chatper.stage.3.quest.33.description.1" : "The &bEnergy Tablet&f is a portable, rechargeable battery pack that can be charged with up to 1,000kJ of energy and can then be used to power other devices. It is also an ingredient in many recipes.",
 
   "chapter.stage.3.quest.34.subtitle.1": "Night is boring",
   "chapter.stage.3.quest.34.description.1" : "Generates Forge Energy with the power of the sun. Can be upgraded later.",
@@ -710,7 +723,7 @@
 
   "chapter.stage.3.quest.36.subtitle.1": "Another Compressor",
   "chapter.stage.3.quest.36.description.1" : "The &bOsmium Compressor&f is used to create &aRefined Obsidian Ingots &ffrom Refined Obsidian Dust and &aGlowstone Ingots&f from Glowstone Dust.",
-  
+
   "chapter.stage.3.quest.37.subtitle.1": "Arcane Smelting Fluix",
   "chapter.stage.3.quest.37.description.1" : "The Essence of Darkness is a new infuse type that is made with the Runeforge.",
 
@@ -730,7 +743,7 @@
 
   "chapter.stage.3.quest.43.subtitle.1": "The First Component",
   "chapter.stage.3.quest.43.description.1": "Simply energize Luminessence with Black Steel",
-  
+
   "chapter.stage.3.quest.44.subtitle.1": "The First Catalyst",
   "chapter.stage.3.quest.44.description.1": "With the Pressure chamber combine Basic Components and a Basic Capacitor.",
 
@@ -742,7 +755,7 @@
 
   "chapter.stage.3.quest.47.subtitle.1": "First Extended Ingot",
   "chapter.stage.3.quest.47.description.1": "Simply energize Soul Steel and an Ender Pearl.",
-  
+
   "chapter.stage.3.quest.48.subtitle.1": "Crafting with Ender Power",
   "chapter.stage.3.quest.48.description.1": "With the Terrestrial Agglomeration Plate combine Ender Ingots, Superheated Purified Vinteum and a Basic Crafting Table.",
 
@@ -760,10 +773,10 @@
 
   "chapter.stage.3.quest.53.subtitle.1": "A better Component",
   "chapter.stage.3.quest.53.description.1": "Simply energize Black Steel Slate with Luminessence and Energized Steel. Check JEI for details.",
-  
+
   "chapter.stage.3.quest.54.subtitle.1": "A better Catalyst",
   "chapter.stage.3.quest.54.description.1": "With the Pressure chamber combine Advanced Components and a Hardened Capacitor.",
-    
+
   "chapter.stage.3.quest.55.subtitle.1": "Advanced Crafting",
   "chapter.stage.3.quest.55.description.1": "Simply energize Advanced Catalysts with Basic Crafting Tables and a block of Energized Steel. Check JEI for details",
 
@@ -784,12 +797,12 @@
   "chapter.stage.3.quest.61.description.1": "The &bEnergy Cell&r enhances a ME network's power capacity, contributing an extra 200kAE with each regular Energy Cell.",
   "chapter.stage.3.quest.61.description.2": "The &bDense Energy Cell&r adds 1.6MAE and the &bSuperdense Energy Cell&r contributes 12.8MAE.",
   "chapter.stage.3.quest.61.description.3": "These cells can be situated anywhere within the network to boost its energy reserves.",
-  
+
   "chapter.stage.3.quest.62.subtitle.1": "Condensing what Matters",
   "chapter.stage.3.quest.62.description.1": "The &bMatter Condenser&r represents AE2's unique approach to a disposal system, effectively voiding any items fed into it.",
   "chapter.stage.3.quest.62.description.2": "Yet, with the integration of a &6Storage Component&r, this condenser gains the ability to capture residual energy from the discarded items.",
   "chapter.stage.3.quest.62.description.3": "This stored energy can then be utilized to create two distinct crafting items by channeling a sufficient amount of concentrated energy.",
-  
+
   "chapter.stage.3.quest.63.subtitle.1": "Infusing what Matters",
   "chapter.stage.3.quest.63.description.1": "The &bMatter Infuser&r, fuses materials into new resources.",
 
@@ -810,21 +823,23 @@
 
   "chapter.stage.3.quest.68.subtitle.1": "Wireless Storage",
   "chapter.stage.3.quest.68.description.1": "The &bWireless Terminal&r operates in the same manner as a standard terminal, with the added convenience of wireless functionality. Quite a straightforward concept.",
-  
-  "chapter.stage.3.quest.69.subtitle.1": "Wireless Crafting & Storage",
+
+  "chapter.stage.3.quest.69.subtitle.1": "Wireless Crafting and Storage",
   "chapter.stage.3.quest.69.description.1": "Simply adds the fact that you can craft using your ME Storage.",
 
   "chapter.stage.3.quest.70.subtitle.1": "Boosting the Wireless Range",
   "chapter.stage.3.quest.70.description.1": "As the subtitle is saying the &5Wireless Booster&r boosts the Wireless Access Point area coverage.",
-  
+
   "chapter.stage.3.quest.71.subtitle.1": "ME Servers",
   "chapter.stage.3.quest.71.description.1": "The &bME Drive&r can house up to 10 different Storage Cells within a single block and one ME channel. Unlike the ME Chest, it lacks an integrated terminal screen, necessitating an external terminal on the network to access storage.",
 
-  "chapter.stage.3.quest.72.subtitle.1": "Storing with ME Disks",
+  "chapter.stage.3.quest.72.title.1": "Item Storage Cell",
+  "chapter.stage.3.quest.72.subtitle.1": "Storing items with ME Disks",
   "chapter.stage.3.quest.72.description.1": "Each &bME Item Storage Cell&r has the capacity to accommodate as many as 63 distinct item types. When adding a new item type to a cell, it will occupy a specific portion of the cell's total capacity, measured in bytes. For each type already contained within the cell, the allocation equates to 1 'byte,' which translates to being able to store 8 items of the same type.",
   "chapter.stage.3.quest.72.description.2": "As an example, let's consider a 1k Item Storage Cell exclusively containing cobblestone. In this case, the cell can accommodate a maximum of 8128 cobblestone units, calculated as follows: (8*1024b - 8b/type * 1 type).",
 
-  "chapter.stage.3.quest.73.subtitle.1": "Wireless Crafting & Storage",
+  "chapter.stage.3.quest.73.title.1": "Fluid Storage Cell",
+  "chapter.stage.3.quest.73.stitle.1": "Storing fluids with ME Disks",
   "chapter.stage.3.quest.73.description.1": "Indeed, items aren't the sole entities suitable for storage within ME cells. &bME Fluid Storage Cells&r are adept at containing liquids such as water, lava, and a multitude of modded oils and fuels, among various other possibilities.",
   "chapter.stage.3.quest.73.description.2": "In the context of fluids, 1 byte is equivalent to 8 buckets, or 8000mb.",
 
@@ -833,7 +848,7 @@
 
   "chapter.stage.3.quest.75.subtitle.1": "Smelting Items Into Fluid",
   "chapter.stage.3.quest.75.description.1": "The Magma Crucible is made to fluidfy items into corresponding fluid.",
-  
+
   "chapter.stage.3.quest.76.subtitle.1": "Creating RFTools Frame",
   "chapter.stage.3.quest.76.description.1": "Craft RFTools Machine frame with Redstone Servo, Elite Control Circuits and Machine Base in the &5Matter Infuser&r.",
 
@@ -853,14 +868,14 @@
   "chapter.stage.3.quest.81.description.1": "Combine items (max 3) to get another one. This is mainly used to mix ingots. Check JEI for recipes.",
 
   "chapter.stage.3.quest.82.subtitle.1": "Mouting with Modules",
-  "chapter.stage.3.quest.82.description.1": "?",
+  "chapter.stage.3.quest.82.description.1": "&bModular Router&r is a flexible mod for moving items around in numerous ways. With a single block - the Item Router - and one or more plug-in modules, you can pull items from an inventory (including modded inventories like Drawers), send them to other inventories near & far, place items as blocks, break blocks, drop items into the world, and more. Think of the Item Router like a super-configurable Hopper on steroids...",
 
   "chapter.stage.3.quest.83.subtitle.1": "Your first Ender Crafting",
   "chapter.stage.3.quest.83.description.1": "Combine 4 Ender Eyes and a Nether star in the Ender Crafting.",
 
   "chapter.stage.3.quest.84.subtitle.1": "Dissolving Items",
   "chapter.stage.3.quest.84.description.1": "The Dissolver can dissolve any compatible items into chemical Elements.",
-  
+
   "chapter.stage.3.quest.85.subtitle.1": "Combining Chemical Elements",
   "chapter.stage.3.quest.85.description.1": "The Combiner can combine any compatible Chemical Elements into Items.",
 
@@ -877,4 +892,4 @@
   "chapter.stage.3.quest.90.description.1": "Transforms any Advanced Mekanism into Elite Tier.",
 
   "Stage 4":"---------------------------------------------------------------------------------------------------------------------------------------------------"
-} 
+}
