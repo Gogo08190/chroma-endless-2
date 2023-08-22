@@ -729,7 +729,7 @@
   "chapter.stage.3.quest.37.description.1" : "The Essence of Darkness is a new infuse type that is made with the Runeforge.",
 
   "chapter.stage.3.quest.38.subtitle.1": "Let Darkness come",
-  "chapter.stage.3.quest.38.description.1" : "Simply infuse a Steel Ingot with Essence of Darkness.",
+  "chapter.stage.3.quest.38.description.1" : "Simply infuse a Steel Ingot with Essence of Darkness infusion.",
 
   "chapter.stage.3.quest.39.subtitle.1": "Osmium Compressing Black Steel",
 
@@ -740,16 +740,19 @@
   "chapter.stage.3.quest.41.description.1": "Process Bio-diesel and Inferium Essence in the Thermopneumatic Processor and get an Inert Luminessence.",
 
   "chapter.stage.3.quest.42.subtitle.1": "Crafting Luminessence",
-  "chapter.stage.3.quest.42.description.1": "Simply infuse an Inert Luminessence with Refined Glowstone.",
+  "chapter.stage.3.quest.42.description.1": "Simply infuse an Inert Luminessence with Refined Glowstone infusion.",
 
   "chapter.stage.3.quest.43.subtitle.1": "The First Component",
-  "chapter.stage.3.quest.43.description.1": "Simply energize Luminessence with Black Steel",
+  "chapter.stage.3.quest.43.description.1": "Simply energize Luminessence with Black Steel.",
 
   "chapter.stage.3.quest.44.subtitle.1": "The First Catalyst",
   "chapter.stage.3.quest.44.description.1": "With the Pressure chamber combine Basic Components and a Basic Capacitor.",
 
   "chapter.stage.3.quest.45.subtitle.1": "The First Extended Crafting Table",
   "chapter.stage.3.quest.45.description.1": "Simply energize Basic Catalysts with Compressed Steel and an Engineer's Crafting Table. Check JEI for details.",
+
+  "chapter.stage.3.quest.46.subtitle.1": "First infusion",
+  "chapter.stage.3.quest.46.description.1": "Simply infuse Silicon Paste with Carbon infusion.",
 
   "chapter.stage.3.quest.47.subtitle.1": "First Extended Ingot",
   "chapter.stage.3.quest.47.description.1": "Simply energize Soul Steel and an Ender Pearl.",

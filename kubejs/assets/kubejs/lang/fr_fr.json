@@ -729,7 +729,7 @@
   "chapter.stage.3.quest.37.description.1" : "L'Essence of Darkness est un nouveau type d'infusion qui est fabriqué avec le Runeforge.",
 
   "chapter.stage.3.quest.38.subtitle.1": "Que les Ténèbres viennent",
-  "chapter.stage.3.quest.38.description.1" : "Il suffit d'infuser un Lingot d'Acier avec l'Essence of Darkness.",
+  "chapter.stage.3.quest.38.description.1" : "Il suffit d'infuser un Lingot d'Acier avec une infusion d'Essence of Darkness.",
 
   "chapter.stage.3.quest.39.subtitle.1": "Compression de l'Osmium en Acier Noir",
 
@@ -740,7 +740,7 @@
   "chapter.stage.3.quest.41.description.1": "Traitez du Bio-diesel et de l'Essence d'Inferium dans le Thermoprocessor et obtenez une Luminescence Inerte.",
 
   "chapter.stage.3.quest.42.subtitle.1": "Fabrication de Luminescence",
-  "chapter.stage.3.quest.42.description.1": "Il suffit d'infuser une Luminescence Inerte avec de la Pierre Lumineuse Raffinée.",
+  "chapter.stage.3.quest.42.description.1": "Il suffit d'infuser une Luminescence Inerte avec une infusion de Pierre Lumineuse Raffinée.",
 
   "chapter.stage.3.quest.43.subtitle.1": "Le Premier Composant",
   "chapter.stage.3.quest.43.description.1": "Il suffit d'énergiser la Luminescence avec de l'Acier Noir.",
@@ -750,6 +750,9 @@
 
   "chapter.stage.3.quest.45.subtitle.1": "La Première Table de fabrication Étendu",
   "chapter.stage.3.quest.45.description.1": "Il suffit d'énergiser les Catalyseurs de Base avec de l'Acier Compressé et une Table d'Artisanat d'Ingénieur. Consultez JEI pour les détails.",
+
+  "chapter.stage.3.quest.46.subtitle.1": "De la pâte thermique ?",
+  "chapter.stage.3.quest.46.description.1" : "Il suffit d'infuser du Silicon Paste avec une infusion de carbone.",
 
   "chapter.stage.3.quest.47.subtitle.1": "Le Premier Lingot Étendu",
   "chapter.stage.3.quest.47.description.1": "Il suffit d'énergiser un lingot de Soul Steel et une Perle de l'End.",
