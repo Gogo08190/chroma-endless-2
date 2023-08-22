@@ -1,7 +1,7 @@
 {
 	id: "7C4E3B585B5AFF3D"
 	group: "6E1FC0F5596E1533"
-	order_index: 3
+	order_index: 1
 	filename: "powah"
 	title: "Powah"
 	icon: "powah:charged_snowball"
@@ -969,7 +969,16 @@
 			x: 6.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/reactor.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "The Reactor is a multi-block generator that use Uraninite as main fuel."
+			description: [
+				"{image:powah:textures/gui/book/images/reactor.png width:200 height:100 align:1}"
+				""
+				"To Build it you will need 36 Reactor block in your hand and placing them in a 3X4 replaceable area, then the reactor will complete building itself automatically."
+				""
+				"{image:powah:textures/gui/book/images/reactor_gui.png width:150 height:60 align:1}"
+				""
+				"When Generating energy the reactor heats up causing it to consume fuel faster and generating less FE/t, so you need to cool it down using a coolant like water, also you can use a solid coolant like snow or ice for extra coldness, solid coolant require liquid coolant to work."
+			]
 			id: "4EC540CD9C0239A7"
 			tasks: [{
 				id: "572C320001028A23"
@@ -988,7 +997,12 @@
 			x: 7.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/solar_panel.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Solar Panel"
+			description: [
+				"{image:powah:textures/gui/book/images/solar_panel.png width:100 height:50 align:1 fit:true}"
+				""
+				"The Solar Panel is an FE generator that generates energy when exposed to sunlight, high tiers generates more FE/t, any block that stop light above the Solar panel will stop its production."
+			]
 			id: "1DFE1FF0AEEAB951"
 			tasks: [{
 				id: "21D4C821D0CC2353"
@@ -1007,7 +1021,12 @@
 			x: 8.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/magmator.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "The Magmator is an FE generator that generates energy from high temp fluids like lava."
+			description: [
+				"{image:powah:textures/gui/book/images/magmator.png width:100 height:50 align:1 fit:true}"
+				""
+				"High tiers generate more FE/t and it has higher energy output, also they burn the fuel faster with the same energy gained per fuel tick."
+			]
 			id: "063CC66449C55CAF"
 			tasks: [{
 				id: "5E5FB9093D7A5264"
@@ -1026,7 +1045,12 @@
 			x: 9.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/furnator.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "The Furnator is a FE generator that generates energy from solid Furnace fuel like coal, wood..."
+			description: [
+				"{image:powah:textures/gui/book/images/furnator.png width:100 height:50 align:1 fit:true}"
+				""
+				"High tiers generate more FE/t and it has higher energy output, also they furn the fuel faster with the same energy gained per fuel tick."
+			]
 			id: "516BF496D8E3E63F"
 			tasks: [{
 				id: "37F1167E6ACD542F"
@@ -1045,6 +1069,8 @@
 			x: 13.0d
 			y: 10.0d
 			shape: "diamond"
+			subtitle: "Battery"
+			description: ["Charge items when is in player inventory, can Also be used to upgrade the capacity of a Ender Network channel by Shift blocking a Battery to an Ender Cell GUI, is the Battery contain energy then will also be applied to the ender network channel."]
 			id: "44B131ECDAA019DF"
 			tasks: [{
 				id: "3EB5B31664F171E0"
@@ -1063,7 +1089,16 @@
 			x: 15.0d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/ender_cell.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "The Ender Cell its a block used to store energy to a specific channel of the ender network of the owner."
+			description: [
+				"{image:powah:textures/gui/book/images/ender_cell.png width:100 height:50 align:1 fit:true}"
+				""
+				"You can acces the energy stored of a selected channel from anywhere in the world if the Ender Cell that you want to transfer power from/to have an active channel with a valid capacity."
+				""
+				"You can add capacity to a selected channel by shift-clicking an Energy Cell or Battery to the Ender Cell GUI."
+				""
+				"The amout added is the same of the item you've added, max capacity a channel can have is 9E FE."
+			]
 			id: "4F61A478444F1BC3"
 			tasks: [{
 				id: "0F63E8544E710C00"
@@ -1082,7 +1117,12 @@
 			x: 14.0d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/energy_cell.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "The Energy Cell its a block used to store energy."
+			description: [
+				"{image:powah:textures/gui/book/images/energy_cell.png width:100 height:50 align:1 fit:true}"
+				""
+				"Can Also be used to add capacity to an Ender Network channel by Shift-clicking it to an Ender Cell GUI, if the Energy Cell contains energy then will also be applied to the ender network channel."
+			]
 			id: "4D819BA80A4F5B12"
 			tasks: [{
 				id: "4C423FA1A113D370"
@@ -1161,7 +1201,12 @@
 			x: 20.0d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/energy_cable.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Cable are used to transfer power between machines."
+			description: [
+				"{image:powah:textures/gui/book/images/energy_cable.png width:100 height:50 align:1 fit:true}"
+				""
+				"You can change transfer mode by right-clicking a cable using Whrench with Config mode selected."
+			]
 			id: "200131DF70EF6F4C"
 			tasks: [{
 				id: "688B01659876D19E"
@@ -1180,7 +1225,14 @@
 			x: 21.0d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/ender_gate.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Ender Gate"
+			description: [
+				"{image:powah:textures/gui/book/images/ender_gate.png width:100 height:50 align:1 fit:true}"
+				""
+				"Transfer energy between the adjacent block and the ender network."
+				""
+				"Unlike the Ender cell you can not upgrade the network from it."
+			]
 			id: "09DCABD74F4D7594"
 			tasks: [{
 				id: "0DE090723064DF77"
@@ -1199,7 +1251,12 @@
 			x: 23.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/energy_discharger.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Energy Discharger"
+			description: [
+				"{image:powah:textures/gui/book/images/energy_discharger.png width:100 height:50 align:1 fit:true}"
+				""
+				"The Energy Discharger its a block used to drain energy out of charged items and them store it to an internal buffer if then connected via cables to extract that stored power and re-using it again."
+			]
 			id: "6927182561507510"
 			tasks: [{
 				id: "0A1717E596A257BF"
@@ -1218,7 +1275,12 @@
 			x: 24.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/energy_hopper.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Energy Hopper"
+			description: [
+				"{image:powah:textures/gui/book/images/energy_hopper.png width:100 height:50 align:1 fit:true}"
+				""
+				"The energy Hopper its a block used to charge chargeable items inside an adjacent inventory like a chest or any block with an accessible inventory and not a not has forge energy."
+			]
 			id: "1AAEDC4DB3C99950"
 			tasks: [{
 				id: "638AD662AFE59DAB"
@@ -1237,7 +1299,12 @@
 			x: 25.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/player_transmitter.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Player Transmitter"
+			description: [
+				"{image:powah:textures/gui/book/images/player_transmitter.png width:100 height:50 align:1 fit:true}"
+				""
+				"The Player Transmitter its a block used to charge items wirelessly in linked player inventory including armor slots and off-hand anywhere in the same dimension when has normal binding card and accross dimension when has a dimensional binding card."
+			]
 			id: "52C8A637C52B35EF"
 			tasks: [{
 				id: "6971488C49F71BEA"
@@ -1256,7 +1323,12 @@
 			x: 26.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/energizing.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Energizing Rod"
+			description: [
+				"{image:powah:textures/gui/book/images/energizing.png width:100 height:50 align:1 fit:true}"
+				""
+				"The Energizing Orb its a block used to energize items, require at least one Energizing Rod in range of 9X9 to work, the energizing speed depends on amout of rods and the rod tier. "
+			]
 			id: "70974BF0940FFA48"
 			tasks: [{
 				id: "1BB95AF17F158648"
@@ -1335,7 +1407,12 @@
 			x: 10.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["{image:powah:textures/gui/book/images/thermo_generator.png width:100 height:50 align:1 fit:true}"]
+			subtitle: "Thermo Generator"
+			description: [
+				"{image:powah:textures/gui/book/images/thermo_generator.png width:100 height:50 align:1 fit:true}"
+				""
+				"The Thermo Generator is an FE generator that generates energy when placed on top of a high temp block/fluid like lava, require a coolant fluid like water to run."
+			]
 			id: "51A73DEC24F73143"
 			tasks: [{
 				id: "0ADFB1D81C171EDE"

@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 0
 	filename: "welcome"
-	title: "&lWelcome"
+	title: "{chapter.welcome.title}"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -16,7 +16,7 @@
 			tasks: [{
 				id: "22CCC233665C2319"
 				type: "checkmark"
-				title: "Welcome to Chroma Endless 2!"
+				title: "{chapter.welcome.quest.12.title.1}"
 			}]
 		}
 		{
@@ -39,7 +39,7 @@
 			tasks: [{
 				id: "72085EA74DEEF9B9"
 				type: "checkmark"
-				title: "Chunks Claiming / Loading"
+				title: "{chapter.welcome.quest.2.title.1}"
 			}]
 		}
 		{
@@ -69,7 +69,7 @@
 			tasks: [{
 				id: "2844E340CC86B532"
 				type: "checkmark"
-				title: "Teams"
+				title: "{chapter.welcome.quest.4.title.1}"
 			}]
 		}
 		{
@@ -95,7 +95,7 @@
 			tasks: [{
 				id: "04F2B43CE1362F73"
 				type: "checkmark"
-				title: "Ultimine"
+				title: "{chapter.welcome.quest.3.title.1}"
 			}]
 		}
 		{
@@ -120,7 +120,7 @@
 			tasks: [{
 				id: "4EF02E63B04C57B5"
 				type: "checkmark"
-				title: "Get a server!"
+				title: "{chapter.welcome.quest.1.title.1}"
 			}]
 		}
 		{
@@ -145,7 +145,7 @@
 			tasks: [{
 				id: "6E6F293D65902733"
 				type: "checkmark"
-				title: "Discord"
+				title: "{chapter.welcome.quest.7.title.1}"
 			}]
 		}
 		{
@@ -169,7 +169,7 @@
 			tasks: [{
 				id: "2410EFF1EE5DA5A9"
 				type: "checkmark"
-				title: "Quests"
+				title: "{chapter.welcome.quest.5.title.1}"
 			}]
 		}
 		{
@@ -183,7 +183,7 @@
 			tasks: [{
 				id: "0FB15D02838D398E"
 				type: "checkmark"
-				title: "Feeding"
+				title: "{chapter.welcome.quest.6.title.1}"
 			}]
 			rewards: [{
 				id: "740D53B9149B9BE7"
@@ -217,7 +217,7 @@
 			tasks: [{
 				id: "3210A8F7D430A1C7"
 				type: "checkmark"
-				title: "Shop"
+				title: "{chapter.welcome.quest.9.title.1}"
 			}]
 			rewards: [
 				{
@@ -259,7 +259,7 @@
 			}
 			x: 1.5d
 			y: -2.5d
-			subtitle: "Chroma Team's website."
+			subtitle: "{chapter.welcome.quest.8.subtitle.1}"
 			description: [
 				"{chapter.welcome.quest.8.description.1}"
 				""
@@ -273,13 +273,55 @@
 			tasks: [{
 				id: "586FF051DBF56368"
 				type: "checkmark"
-				title: "Website"
+				title: "{chapter.welcome.quest.8.title.1}"
 			}]
 			rewards: [{
 				id: "554D37C1CF828807"
 				type: "command"
 				title: "Chroma Team's website"
 				command: "/tellraw @p [\"\",{\"text\":\"Chroma Team's website: \",\"color\":\"aqua\"},{\"text\":\"https://chromatech.fr/\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://chromatech.fr/\"}}]"
+				player_command: false
+			}]
+		}
+		{
+			icon: "beyond_earth:earth_globe"
+			x: -1.5d
+			y: 2.0d
+			description: [
+				"{chapter.welcome.quest.10.description.1}"
+				""
+				"{chapter.welcome.quest.10.description.2}"
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "26475A41C31AEFB2"
+			tasks: [{
+				id: "36D23E2C9AE426C5"
+				type: "checkmark"
+				title: "{chapter.welcome.quest.10.title.1}"
+			}]
+		}
+		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "supplementaries:textures/gui/book/icon/github.png"
+				}
+			}
+			x: 1.5d
+			y: 2.0d
+			description: ["{chapter.welcome.quest.11.description.1}"]
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "18336635C149FEE3"
+			tasks: [{
+				id: "0EB1E8C7FDAB6182"
+				type: "checkmark"
+				title: "{chapter.welcome.quest.11.title.1}"
+			}]
+			rewards: [{
+				id: "648F4871F891F555"
+				type: "command"
+				command: "/tellraw @p [\"\",{\"text\":\"Chroma Endless 2 Github: \",\"color\":\"aqua\"},{\"text\":\"https://github.com/Gogo08190/chroma-endless-2\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/Gogo08190/chroma-endless-2\"}}]"
 				player_command: false
 			}]
 		}

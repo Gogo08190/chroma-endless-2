@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 1
 	filename: "shop"
-	title: "Shop"
+	title: "{chapter.shop.title}"
 	icon: {
 		id: "ftbquests:custom_icon"
 		Count: 1
@@ -28,10 +28,12 @@
 				Count: 1
 				tag: { }
 			}
+			consume_items: true
 		}]
 		rewards: [{
 			id: "2C00FB702E9D9CDD"
 			type: "item"
+			team_reward: false
 			item: "angelring:itemdiamondring"
 		}]
 	}]

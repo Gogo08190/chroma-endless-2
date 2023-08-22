@@ -17,14 +17,14 @@
 		{
 			x: 9.5d
 			y: 1.5d
-			subtitle: "{chapter.stage.3.quest.2.subtitle.1}"
-			description: ["{chapter.stage.3.quest.2.description.1}"]
+			subtitle: "{chapter.stage.2.quest.3.subtitle.1}"
+			description: ["{chapter.stage.2.quest.3.description.1}"]
 			dependencies: ["3125B28DBC36530F"]
 			id: "36A47B57CA00D3A9"
 			tasks: [{
 				id: "0AD7B9BED2950392"
 				type: "observation"
-				title: "Look at a complete &6Coke Oven"
+				title: "{chapter.stage.2.quest.3.title.1}"
 				icon: "immersiveengineering:coke_oven"
 				timer: 0L
 				observe_type: 0
@@ -41,7 +41,7 @@
 			tasks: [{
 				id: "005B4A68EDB17393"
 				type: "observation"
-				title: "Look at a complete &6Alloy Kiln"
+				title: "{chapter.stage.2.quest.2.title.1}"
 				icon: "immersiveengineering:alloy_smelter"
 				timer: 0L
 				observe_type: 0
@@ -58,7 +58,7 @@
 			tasks: [{
 				id: "240F37CC63C84AC8"
 				type: "observation"
-				title: "Look at a complete &6Blast Furnace"
+				title: "{chapter.stage.2.quest.4.title.1}"
 				icon: "immersiveengineering:blast_furnace"
 				timer: 0L
 				observe_type: 0
@@ -191,7 +191,7 @@
 			tasks: [{
 				id: "7268B2807D37E5A0"
 				type: "observation"
-				title: "Look at a complete &6Arc Furnace"
+				title: "{chapter.stage.2.quest.28.title.1}"
 				icon: "immersiveengineering:arc_furnace"
 				timer: 0L
 				observe_type: 0
@@ -219,7 +219,7 @@
 			tasks: [{
 				id: "7724DE7618877AD1"
 				type: "observation"
-				title: "Look at a complete &6Metal Press"
+				title: "{chapter.stage.2.quest.10.title.1}"
 				icon: "immersiveengineering:metal_press"
 				timer: 0L
 				observe_type: 0
@@ -710,7 +710,7 @@
 			tasks: [{
 				id: "5C0C60777832BB48"
 				type: "dimension"
-				title: "{chapter.stage.2.quest.54.title.1}"
+				title: "{chapter.stage.2.quest.56.title.1}"
 				icon: "blue_skies:everdawn_portal"
 				dimension: "blue_skies:everdawn"
 			}]
@@ -1393,7 +1393,7 @@
 			tasks: [{
 				id: "4486B56633B55060"
 				type: "observation"
-				title: "Look at a complete &6Refinery"
+				title: "{chapter.stage.2.quest.15.title.1}"
 				icon: "immersiveengineering:refinery"
 				timer: 0L
 				observe_type: 0
@@ -1416,7 +1416,7 @@
 			tasks: [{
 				id: "544DD24AAF70E387"
 				type: "observation"
-				title: "Look at a complete &6Fermenter"
+				title: "{chapter.stage.2.quest.14.title.1}"
 				icon: "immersiveengineering:fermenter"
 				timer: 0L
 				observe_type: 0
@@ -1439,7 +1439,7 @@
 			tasks: [{
 				id: "06DA82B60EE2CE0F"
 				type: "observation"
-				title: "Look at a complete &6Bottling Machine"
+				title: "{chapter.stage.2.quest.17.title.1}"
 				icon: "immersiveengineering:bottling_machine"
 				timer: 0L
 				observe_type: 0
@@ -1543,7 +1543,7 @@
 			tasks: [{
 				id: "6009310C36253A47"
 				type: "observation"
-				title: "Look at a complete &6Mixer"
+				title: "{chapter.stage.2.quest.12.title.1}"
 				icon: "immersiveengineering:mixer"
 				timer: 0L
 				observe_type: 0
@@ -1553,12 +1553,20 @@
 		{
 			x: 12.5d
 			y: 10.0d
+			subtitle: "{chapter.stage.2.quest.90.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.90.description.1}"
+				""
+				"{chapter.stage.2.quest.90.description.2}"
+				""
+				"{chapter.stage.2.quest.90.description.3}"
+			]
 			dependencies: ["5399655B3844833B"]
 			id: "0D9276F1C221C682"
 			tasks: [{
 				id: "118695236B013C69"
 				type: "observation"
-				title: "Look at a complete &6Industrial Squeezer"
+				title: "{chapter.stage.2.quest.90.title.1}"
 				icon: "immersiveengineering:squeezer"
 				timer: 0L
 				observe_type: 0

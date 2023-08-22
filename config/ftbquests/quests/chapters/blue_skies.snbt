@@ -1,0 +1,1181 @@
+{
+	id: "050A4F018DBFB60E"
+	group: "6E1FC0F5596E1533"
+	order_index: 12
+	filename: "blue_skies"
+	title: "Blue Skies"
+	icon: {
+		id: "blue_skies:zeal_lighter"
+		Count: 1
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 16.5d
+			y: 0.5d
+			description: [
+				"&9Blue Skies&r adds 2 new dimensions, both filled with new blocks, creatures, and a total of 4 bosses."
+				""
+				"To get started, we need to find the &6Gatekeeper&r!"
+				""
+				"The Gatekeeper possesses extensive knowledge about the dimensions in Blue Skies. As you progress through the mod, your &9Blue Journal&r will expand to provide guidance during your journey."
+				""
+				"{image:chroma:textures/quests/blueskies_gatekeepershouse.png width:200 height:125 align:1}"
+			]
+			id: "0F0C79A70AF5E058"
+			tasks: [{
+				id: "3C636BA1F563F644"
+				type: "item"
+				item: "blue_skies:blue_journal"
+			}]
+		}
+		{
+			x: 17.5d
+			y: 3.5d
+			subtitle: "{chapter.stage.2.quest.56.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.56.description.1}"
+				""
+				"{chapter.stage.2.quest.56.description.2}"
+				""
+				"{chapter.stage.2.quest.56.description.3}"
+			]
+			dependencies: ["62E5370F86E700DE"]
+			id: "76836329A97717C6"
+			tasks: [{
+				id: "4F3E80F263257C25"
+				type: "dimension"
+				title: "{chapter.stage.2.quest.56.title.1}"
+				icon: "blue_skies:everdawn_portal"
+				dimension: "blue_skies:everdawn"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 3.5d
+			subtitle: "{chapter.stage.2.quest.53.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.53.description.1}"
+				""
+				"{chapter.stage.2.quest.53.description.2}"
+				""
+				"{chapter.stage.2.quest.53.description.3}"
+			]
+			dependencies: ["62E5370F86E700DE"]
+			id: "0B71D9164C3BC6A7"
+			tasks: [{
+				id: "5C4334F870DBB1D4"
+				type: "dimension"
+				title: "{chapter.stage.2.quest.53.title.1}"
+				icon: "blue_skies:everbright_portal"
+				dimension: "blue_skies:everbright"
+			}]
+		}
+		{
+			x: 16.5d
+			y: 5.0d
+			description: [
+				"Your Overworldly tools have no power here."
+				""
+				"For progress in Blue Skies, crafting a new pickaxe from the surrounding woods is essential."
+			]
+			dependencies: [
+				"0B71D9164C3BC6A7"
+				"76836329A97717C6"
+			]
+			dependency_requirement: "one_completed"
+			id: "41C9C0965929B00F"
+			tasks: [{
+				id: "74CE8E807D9ABFB0"
+				type: "item"
+				title: "Any Blue Skies Wooden Pickaxe"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "blue_skies:bluebright_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:lunar_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:starlit_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:dusk_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:frostbright_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:maple_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:cherry_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 16.5d
+			y: 8.0d
+			description: [
+				"Just like in the Overworld, Wooden tools won't get you very far."
+				""
+				"Venture underground to acquire stone for crafting a new pickaxe. This will allow us to proceed with the utilization of the newly introduced ores."
+			]
+			dependencies: ["41C9C0965929B00F"]
+			id: "6F4BE525561CB18C"
+			tasks: [{
+				id: "5F7E48BA185528B2"
+				type: "item"
+				title: "Any Blue Skies Stone Pickaxe"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "blue_skies:lunar_stone_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:turquoise_stone_pickaxe"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 15.5d
+			y: 6.5d
+			description: [
+				"To become proficient in the realms of Blue Skies, crafting the &6Spear&r is imperative."
+				""
+				"To craft these, acquiring Moonstone is the first step. Explore the caverns to locate the necessary ores!"
+			]
+			dependencies: ["6F4BE525561CB18C"]
+			id: "2AB3D907D9CB18A9"
+			tasks: [{
+				id: "06B4E4C9BCB7713F"
+				type: "item"
+				item: "blue_skies:moonstone_shard"
+			}]
+		}
+		{
+			x: 14.5d
+			y: 5.5d
+			description: ["The &6Spear&r stands as the preferred weapon within Blue Skies. With enchantment capabilities, it serves as a reliable ranged option against the adversaries you'll encounter."]
+			dependencies: ["2AB3D907D9CB18A9"]
+			id: "047CA7B4D77C77DA"
+			tasks: [{
+				id: "4B95348028B34C8E"
+				type: "item"
+				title: "Any Blue Skies Spear"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "blue_skies:bluebright_spear"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:starlit_spear"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:frostbright_spear"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:lunar_spear"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:dusk_spear"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:maple_spear"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "blue_skies:cherry_spear"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 14.5d
+			y: 8.0d
+			shape: "diamond"
+			description: [
+				"&cPyrope&r means Speed in the language of Blue Skies."
+				""
+				"These tools are weak, but fast."
+			]
+			dependencies: ["6F4BE525561CB18C"]
+			id: "4FC6B908E932368E"
+			tasks: [{
+				id: "316ED2B375543A85"
+				type: "item"
+				item: "blue_skies:pyrope_gem"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 7.5d
+			shape: "diamond"
+			dependencies: ["4FC6B908E932368E"]
+			id: "58911A538E28EEF4"
+			tasks: [
+				{
+					id: "797CA644F8F4979D"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_sword"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7851D865877B9E15"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_axe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7086A399EDE573EA"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_shovel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3C8FD532B8B0BCE2"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_pickaxe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 14.0d
+			y: 8.5d
+			shape: "diamond"
+			dependencies: ["4FC6B908E932368E"]
+			id: "70FE777D63EC2DF7"
+			tasks: [
+				{
+					id: "7E12DA6656E54391"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_helmet"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "63DF20683F135DC1"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_chestplate"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3AA8361F9FF7909D"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1381B8B82EAAD9A9"
+					type: "item"
+					item: {
+						id: "blue_skies:pyrope_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 14.5d
+			y: 10.0d
+			shape: "diamond"
+			description: [
+				"This is the Diamond of Blue Skies."
+				""
+				"Although Diopside offers increased durability and impact, &dCharoite&r boasts superior speed and lighter weight overall. Charoite tools possess the ability to mine any substance within Blue Skies."
+			]
+			dependencies: ["37914B330A696D43"]
+			id: "7DF4FAA109D75744"
+			tasks: [{
+				id: "6D4ECB7E036F4CC0"
+				type: "item"
+				item: "blue_skies:raw_charoite"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 9.5d
+			shape: "diamond"
+			dependencies: ["7DF4FAA109D75744"]
+			id: "5D1614AFC915AA67"
+			tasks: [
+				{
+					id: "32905D6B776192BB"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_sword"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "037DAE8BE120D068"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_pickaxe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "77021E08D6C66895"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_axe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1F94D02F9E1870CD"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_shovel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 14.0d
+			y: 10.5d
+			shape: "diamond"
+			dependencies: ["7DF4FAA109D75744"]
+			id: "7BBEFBB3A96F2FA2"
+			tasks: [
+				{
+					id: "30941F178F86206D"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_helmet"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "336E8CC34E4C7588"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_chestplate"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4CAF41C95C58C5B3"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "165B022494CC1C0F"
+					type: "item"
+					item: {
+						id: "blue_skies:charoite_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 14.5d
+			y: 12.0d
+			shape: "diamond"
+			description: ["The robust green gemstone, &aDiopside&r, offers substantial strength but has a slower pace. It proves ideal for crafting formidable weapons."]
+			dependencies: ["37914B330A696D43"]
+			id: "56BCCF4344973E36"
+			tasks: [{
+				id: "0FD70727111564A2"
+				type: "item"
+				item: "blue_skies:diopside_gem"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 11.5d
+			shape: "diamond"
+			dependencies: ["56BCCF4344973E36"]
+			id: "774D3D98E0E53B36"
+			tasks: [
+				{
+					id: "06AADC00F60A388B"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_sword"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "54A0E888B87811E0"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_pickaxe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "682A15396CA69C89"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_axe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "55DC7D2F305FEAF2"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_shovel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 14.0d
+			y: 12.5d
+			shape: "diamond"
+			dependencies: ["56BCCF4344973E36"]
+			id: "437D4C359B8D1BD0"
+			tasks: [
+				{
+					id: "2429F528183B68FB"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_helmet"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6FB8359B3B2D6C30"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_chestplate"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "04E32BF05E69367E"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "56D96C0C84676AE6"
+					type: "item"
+					item: {
+						id: "blue_skies:diopside_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 18.5d
+			y: 7.5d
+			shape: "diamond"
+			description: [
+				"Ventium is a reddish metal discovered in the majority of non-mountainous biomes within the Everbright dimension."
+				""
+				"It essentially functions like Iron but is limited to crafting shears, buckets, and the &6Tool Box&r."
+			]
+			dependencies: ["6F4BE525561CB18C"]
+			id: "099150B7F831C035"
+			tasks: [{
+				id: "2B109FEB3383944E"
+				type: "item"
+				item: "blue_skies:ventium_ingot"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 7.0d
+			shape: "rsquare"
+			description: [
+				"Ventium can be used to make Shears and a bucket."
+				""
+				"The bucket can pick up the underwater mobs in Blue Skies."
+			]
+			dependencies: ["099150B7F831C035"]
+			id: "4B8B81352627CE56"
+			tasks: [
+				{
+					id: "308F766124A297C1"
+					type: "item"
+					item: {
+						id: "blue_skies:ventium_shears"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "57C5CA6B1B04D58C"
+					type: "item"
+					item: "blue_skies:ventium_bucket"
+				}
+			]
+		}
+		{
+			x: 18.5d
+			y: 6.5d
+			shape: "rsquare"
+			description: [
+				"It serves to upgrade and enhance tools within the context of Blue Skies."
+				""
+				"Falsite can bolster tool durability, while various sticks from the mod can be utilized to replace tool parts. Different wood types offer distinct functionalities."
+			]
+			dependencies: ["099150B7F831C035"]
+			id: "52AB24A2233EA062"
+			tasks: [{
+				id: "19D5CACB49062A5B"
+				type: "item"
+				item: "blue_skies:tool_box"
+			}]
+		}
+		{
+			x: 19.0d
+			y: 8.0d
+			shape: "diamond"
+			description: [
+				"Falsite Ore is located within the non-mountainous biomes of Everbright."
+				""
+				"This ingot is employed in the tool box to enhance the durability of nearly any tool."
+			]
+			dependencies: ["6F4BE525561CB18C"]
+			id: "35F5460CB2F5A914"
+			tasks: [{
+				id: "30E311E8D43178CD"
+				type: "item"
+				item: "blue_skies:falsite_ingot"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 8.0d
+			shape: "rsquare"
+			description: ["This is a lantern that prevents hostile spawns within a large radius."]
+			dependencies: ["35F5460CB2F5A914"]
+			id: "3FDA45258B16E39E"
+			tasks: [{
+				id: "19EEB88EA2896DB0"
+				type: "item"
+				item: "blue_skies:warding_pearl"
+			}]
+		}
+		{
+			x: 18.5d
+			y: 8.5d
+			shape: "diamond"
+			description: [
+				"Found only within the Crystal Dunes."
+				""
+				"Tools made from this ingot will come with &6Auto-Smelt&r."
+				""
+				"This can also be used to make the &6Horizonite Forge&r."
+			]
+			dependencies: ["6F4BE525561CB18C"]
+			id: "450485FA06A83EE7"
+			tasks: [{
+				id: "0BF14D5B6A85B5DE"
+				type: "item"
+				item: "blue_skies:horizonite_ingot"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 9.0d
+			shape: "rsquare"
+			dependencies: ["450485FA06A83EE7"]
+			id: "4EF22EFE9A49FEF4"
+			tasks: [{
+				id: "225A2EA30E0049A2"
+				type: "item"
+				item: "blue_skies:horizonite_forge"
+			}]
+		}
+		{
+			x: 18.5d
+			y: 9.5d
+			shape: "rsquare"
+			dependencies: ["450485FA06A83EE7"]
+			id: "7A43BB90D8C95802"
+			tasks: [
+				{
+					id: "4E3B01A09E17A34A"
+					type: "item"
+					item: {
+						id: "blue_skies:horizonite_sword"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "54A63587BD68AA7C"
+					type: "item"
+					item: {
+						id: "blue_skies:horizonite_pickaxe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6B87A74790EC286F"
+					type: "item"
+					item: {
+						id: "blue_skies:horizonite_axe"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "645130170F1A32D3"
+					type: "item"
+					item: {
+						id: "blue_skies:horizonite_shovel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 16.5d
+			y: 11.0d
+			description: [
+				"As we go further in the caverns of Blue Skies, we'll run into &9Aquite Ore&r."
+				""
+				"Mine sufficient resources to fashion starter tools, essential for extracting the more resilient Blue Skies ores."
+				""
+				"At this point, it's advisable to seek out superior materials for crafting improved weaponry and armor."
+			]
+			dependencies: ["6F4BE525561CB18C"]
+			id: "37914B330A696D43"
+			tasks: [{
+				id: "1D5ECF74AAE434FB"
+				type: "item"
+				item: "blue_skies:aquite"
+			}]
+		}
+		{
+			x: 18.5d
+			y: 11.0d
+			shape: "octagon"
+			description: [
+				"Within Blue Skies, players must conquer 4 bosses and explore numerous dungeons."
+				""
+				"You may stumble upon random \"tunnels\" that descend into dungeon chambers. These tunnels spawn Armored Frost Spirits for combat and soul collection."
+				""
+				"{image:chroma:textures/quests/blueskies_everbright_structuredungeon.png width:150 height:125 align:1}"
+			]
+			dependencies: ["37914B330A696D43"]
+			id: "3D742E1D30748058"
+			tasks: [{
+				id: "3A5F94835CA7752A"
+				type: "item"
+				item: "blue_skies:soul_fragment"
+			}]
+		}
+		{
+			x: 16.5d
+			y: 13.5d
+			shape: "hexagon"
+			subtitle: "The Starter Dungeons"
+			description: [
+				"Whether you commenced in Everbright or Everdawn, prioritize locating a tower structure. These images will be provided in the subsequent quests. These towers house your initial boss encounters."
+				""
+				"Within the tower's smaller sections, engage in battles to secure loot and obtain &6Blinding Dungeon Keys&r. In the heart of the dungeon, you'll encounter a locked doorway. Employ 4 Blinding Dungeon Keys to unlock the boss fight within."
+				""
+				"Note: Upon defeating the boss, it will drop an Arc. These can be equipped within a designated tab in your inventory, with a total of 4 Arcs available."
+			]
+			dependencies: ["37914B330A696D43"]
+			size: 1.5d
+			id: "479D9F5A5A9E2E74"
+			tasks: [{
+				id: "4F7D8D523B6776B8"
+				type: "item"
+				item: "blue_skies:blinding_key"
+				count: 4L
+			}]
+		}
+		{
+			x: 16.0d
+			y: 15.5d
+			shape: "rsquare"
+			subtitle: "The Guardian of the Everdawn Tower"
+			description: [
+				"Within the Everdawn Tower, you'll encounter the Alchemist boss fight. Gather Blinding Dungeon Keys to access and unlock this confrontation."
+				""
+				"Anticipate facing a barrage of potions while also combating the Alchemist's minions."
+				""
+				"{image:chroma:textures/quests/blueskies_everdawn_alchemistdungeon.png width:175 height:200 align:1}"
+			]
+			dependencies: ["479D9F5A5A9E2E74"]
+			id: "5541E4CF6EA06839"
+			tasks: [{
+				id: "73E2B525CD86F92B"
+				type: "kill"
+				icon: "blue_skies:alchemist_spawn_egg"
+				entity: "blue_skies:alchemist"
+				value: 1L
+			}]
+		}
+		{
+			x: 17.0d
+			y: 15.5d
+			shape: "rsquare"
+			subtitle: "The Guardian of the Everbright Tower"
+			description: [
+				"At the heart of the Tower of Everbright, you'll encounter the Summoner boss."
+				""
+				"The Summoner boss employs lightning and energy attacks, alongside summoned golem guards, to safeguard the tower."
+				""
+				"{image:chroma:textures/quests/blueskies_everbright_summonersdungeon.png width:175 height:200 align:1}"
+			]
+			dependencies: ["479D9F5A5A9E2E74"]
+			id: "34EB53D227ED1EE3"
+			tasks: [{
+				id: "6281A9409CD3BBA6"
+				type: "kill"
+				icon: "blue_skies:summoner_spawn_egg"
+				entity: "blue_skies:summoner"
+				value: 1L
+			}]
+		}
+		{
+			x: 14.5d
+			y: 15.5d
+			shape: "octagon"
+			description: ["Grants invisibility when sneaking."]
+			dependencies: ["5541E4CF6EA06839"]
+			id: "75658859E914CC6C"
+			tasks: [{
+				id: "44382AFB8E09CFB4"
+				type: "item"
+				item: {
+					id: "blue_skies:dusk_arc"
+					Count: 1
+					tag: {
+						ArcLevel: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 13.5d
+			y: 15.5d
+			shape: "hexagon"
+			dependencies: ["75658859E914CC6C"]
+			id: "5A81CDD3D4E88272"
+			tasks: [{
+				id: "28E22BF8C2AC3FE9"
+				type: "item"
+				item: {
+					id: "blue_skies:spike_shield"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 18.5d
+			y: 15.5d
+			shape: "octagon"
+			description: ["Increases movement speed."]
+			dependencies: ["34EB53D227ED1EE3"]
+			id: "01F99F313EB2030E"
+			tasks: [{
+				id: "7AB419F4C4E84799"
+				type: "item"
+				item: {
+					id: "blue_skies:ethereal_arc"
+					Count: 1
+					tag: {
+						ArcLevel: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 15.0d
+			shape: "hexagon"
+			dependencies: ["01F99F313EB2030E"]
+			id: "05B3962B129C70FD"
+			tasks: [{
+				id: "224E9837C209E4B6"
+				type: "item"
+				item: {
+					id: "blue_skies:soulbound_spear"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 16.0d
+			shape: "hexagon"
+			dependencies: ["01F99F313EB2030E"]
+			id: "18A6BD8393B169FA"
+			tasks: [{
+				id: "3169981732F74BDC"
+				type: "item"
+				item: "blue_skies:summoning_table"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 17.5d
+			shape: "rsquare"
+			subtitle: "The Boss of the Poison Dungeon"
+			description: [
+				"Note: If you have arachnophobia, this particular battle might be uncomfortable for you."
+				""
+				"Inside Everdawn, you'll encounter a colossal deceased tree enveloped in spider webs."
+				""
+				"Collect Poison Dungeon Keys from within to access and unlock the ultimate boss confrontation!"
+				""
+				"{image:chroma:textures/quests/blueskies_everdawn_poisondungeon.png width:175 height:200 align:1}"
+			]
+			dependencies: ["5541E4CF6EA06839"]
+			size: 1.5d
+			id: "00ED8937C0F138CD"
+			tasks: [{
+				id: "7B1E9BDE2B2EABA4"
+				type: "kill"
+				icon: "blue_skies:arachnarch_spawn_egg"
+				entity: "blue_skies:arachnarch"
+				value: 1L
+			}]
+		}
+		{
+			x: 18.0d
+			y: 17.5d
+			shape: "rsquare"
+			subtitle: "The Boss of the Nature Dungeon"
+			description: [
+				"The expansive Nature's Dungeon is located within Everbright. Its size makes it impossible to overlook."
+				""
+				"Navigate through the structure's intricate maze to collect Nature Dungeon Keys, which are essential for unlocking the boss fight. Prepare to engage in battle and bring down the formidable adversary!"
+				""
+				"Note: If you struggle to locate all the keys, you have the option to trade with the Gatekeeper. However, this option becomes available only after you've right-clicked the gate to initiate the boss fight."
+				""
+				"{image:chroma:textures/quests/blueskies_everbright_naturedungeon.png width:200 height:150 align:1}"
+			]
+			dependencies: ["34EB53D227ED1EE3"]
+			size: 1.5d
+			id: "5A7FD133939A8002"
+			tasks: [{
+				id: "38BDED9F7DB00E0E"
+				type: "kill"
+				icon: "blue_skies:starlit_crusher_spawn_egg"
+				entity: "blue_skies:starlit_crusher"
+				value: 1L
+			}]
+		}
+		{
+			x: 18.0d
+			y: 19.0d
+			subtitle: "Drops from the Starlit Crusher's Loot Bag"
+			description: ["Increases max hearts."]
+			dependencies: ["5A7FD133939A8002"]
+			id: "34EACDA7A28DF96B"
+			tasks: [{
+				id: "195F9941CFDE8605"
+				type: "item"
+				item: {
+					id: "blue_skies:nature_arc"
+					Count: 1
+					tag: {
+						ArcLevel: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 18.0d
+			y: 20.0d
+			subtitle: "Drops from the Starlit Crusher's Loot Bag"
+			dependencies: ["5A7FD133939A8002"]
+			id: "2F4F3949463DDF07"
+			tasks: [{
+				id: "4A2B79F08BBDEF7C"
+				type: "item"
+				item: {
+					id: "blue_skies:crushing_hammer"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 15.0d
+			y: 19.0d
+			subtitle: "Drops from the Arachnarch's Loot Bag"
+			description: ["Increases damage done when poisoned."]
+			dependencies: ["00ED8937C0F138CD"]
+			id: "73053F65AB9E2861"
+			tasks: [{
+				id: "0AB852A17B7A49E9"
+				type: "item"
+				item: {
+					id: "blue_skies:poison_arc"
+					Count: 1
+					tag: {
+						ArcLevel: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 15.5d
+			y: 20.0d
+			subtitle: "Drops from the Arachnarch's Loot Bag"
+			dependencies: ["00ED8937C0F138CD"]
+			id: "2D204795C54FA23B"
+			tasks: [{
+				id: "565677B37A49D671"
+				type: "item"
+				item: {
+					id: "blue_skies:venom_sac"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 14.5d
+			y: 20.0d
+			subtitle: "Drops from the Arachnarch's Loot Bag"
+			dependencies: ["00ED8937C0F138CD"]
+			id: "5F0084E56EEFDBFC"
+			tasks: [{
+				id: "4D07523C008D9D04"
+				type: "item"
+				item: {
+					id: "blue_skies:different_sword"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 16.5d
+			y: 2.0d
+			subtitle: "{chapter.stage.2.quest.52.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.52.description.1}"
+				""
+				"{chapter.stage.2.quest.52.description.2}"
+				""
+				"{chapter.stage.2.quest.52.description.3}"
+				""
+				"{image:chroma:textures/quests/blueskies_gatekeeper_portal.png width:200 height:150 align:1}"
+			]
+			dependencies: ["0F0C79A70AF5E058"]
+			id: "62E5370F86E700DE"
+			tasks: [{
+				id: "36476EDA733A5C9E"
+				type: "item"
+				item: {
+					id: "blue_skies:zeal_lighter"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

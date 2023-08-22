@@ -1,11 +1,11 @@
 {
 	id: "29D5CE6B1873EE23"
 	group: "6E1FC0F5596E1533"
-	order_index: 4
+	order_index: 2
 	filename: "thermal"
 	title: "Thermal"
 	icon: "thermal:redstone_servo"
-	default_quest_shape: ""
+	default_quest_shape: "rsquare"
 	default_hide_dependency_lines: false
 	images: [
 		{
@@ -105,8 +105,8 @@
 			corner: false
 		}
 		{
-			x: -7.0d
-			y: -3.5d
+			x: -8.5d
+			y: -4.0d
 			width: 4.0d
 			height: 1.0d
 			rotation: 0.0d
@@ -166,7 +166,7 @@
 		}
 		{
 			x: -8.5d
-			y: 3.5d
+			y: 3.0d
 			width: 9.0d
 			height: 0.15d
 			rotation: 0.0d
@@ -262,7 +262,7 @@
 		}
 		{
 			x: -4.5d
-			y: 3.5d
+			y: 3.0d
 			width: 1.0d
 			height: 1.0d
 			rotation: 0.0d
@@ -322,7 +322,7 @@
 		}
 		{
 			x: -4.5d
-			y: 3.5d
+			y: 3.0d
 			width: 1.0d
 			height: 1.0d
 			rotation: 0.0d
@@ -334,7 +334,7 @@
 		}
 		{
 			x: -12.5d
-			y: 3.5d
+			y: 3.0d
 			width: 1.0d
 			height: 1.0d
 			rotation: 0.0d
@@ -370,7 +370,7 @@
 		}
 		{
 			x: -12.5d
-			y: 3.5d
+			y: 3.0d
 			width: 1.0d
 			height: 1.0d
 			rotation: 0.0d
@@ -457,6 +457,7 @@
 		{
 			x: -1.0d
 			y: -4.0d
+			description: ["The Hive Hopper is a device that can extract honeycombs and liquid honey when placed under a beehive."]
 			id: "5ADD538A430A6BD1"
 			tasks: [{
 				id: "2E513BDDE620003B"
@@ -467,6 +468,15 @@
 		{
 			x: 0.0d
 			y: -4.0d
+			description: [
+				"The Arboreal Extractor is a device that extracts fluid from an adjacent tree."
+				""
+				"Can optionally take fertilizer to boost production rate."
+				""
+				"Bonemeal boosts output by 1.5x for 8 cycles, while phyto-gro boosts by 2.0x for 16 cycles."
+				""
+				"Different trees produce different fluids; use JEI to see the available recipes."
+			]
 			id: "1C8B10373C662F87"
 			tasks: [{
 				id: "2EA6BAD508F7830E"
@@ -477,6 +487,11 @@
 		{
 			x: -1.0d
 			y: -3.0d
+			description: [
+				"The aquatic Entangler is a device that can passively catch fish when it is placed in a body of water."
+				""
+				"The rate at which it catches fish depends on the biome, weather, and augment configuration, but it has a base rate of 1 catch every few minutes."
+			]
 			id: "49AAD4E5CBD806A1"
 			tasks: [{
 				id: "5A8E8B93ABCDAD3A"
@@ -487,6 +502,7 @@
 		{
 			x: -2.0d
 			y: -3.0d
+			description: ["Produce compost from organic waste."]
 			id: "0990768DB7AC7D1C"
 			tasks: [{
 				id: "3177B32C0465D259"
@@ -497,6 +513,11 @@
 		{
 			x: 1.0d
 			y: -4.0d
+			description: [
+				"The Phyto-Soil Infuser is a device that uses RF in order to speed up the growth of crops on nearby phyto-soil, In its base form, it infuses a 3x3x3 area around it, which can be upgraded using radial enhancement augments to up to 7x3x7."
+				""
+				"Integral components increase the growth boost effect."
+			]
 			id: "6092850D854A0A8E"
 			tasks: [{
 				id: "2A0BF6721164FFF2"
@@ -507,6 +528,13 @@
 		{
 			x: 0.0d
 			y: -3.0d
+			description: [
+				"The Aqueous Accumulator is a device that will generate infinite water for your needs."
+				""
+				"In order for it to produce water there must be at least two source blocks adjacent to the sides of the device."
+				""
+				"Source blocks above or below the device will not count."
+			]
 			id: "1E7042ECC96A2B31"
 			tasks: [{
 				id: "31AB766D27F20BFA"
@@ -517,6 +545,11 @@
 		{
 			x: 2.0d
 			y: -3.0d
+			description: [
+				"The Igneous Extruder is a device that will generate infinite stone when surrounded with the appropriate blocks and fluids."
+				""
+				"It requires an adjacent lava source block and a adjacent collant block; it can optionally take a block underneath."
+			]
 			id: "1E13364D0C67775D"
 			tasks: [{
 				id: "63DD2C6389896317"
@@ -527,6 +560,13 @@
 		{
 			x: 2.0d
 			y: -4.0d
+			description: [
+				"The Vacuumulator is a device that can pick up items in its area of effect."
+				""
+				"It can pick up EXP orbs when a knowledge concentrator augment is installed."
+				""
+				"At base, the vacuumulator collects in a 9x9x9 area centered on it, which can be augmented up to 15x15x15 using radial enhancement augments."
+			]
 			id: "19B6A548FC89F462"
 			tasks: [{
 				id: "67C119244B601ABF"
@@ -537,6 +577,15 @@
 		{
 			x: -3.0d
 			y: -4.0d
+			description: [
+				"The nullifer is a device that can void all items and fluids that are inserted into it."
+				""
+				"Item/fluids that are input automatically are instantly voided, while items inserted manually through the GUI are temporarily stored until the trash button is pressed."
+				""
+				"It is compatible with filter type augments to restrict what it can accept."
+				""
+				"Redstone control only affects the automatic insertion of item/fluids."
+			]
 			id: "514C048411C4EEA8"
 			tasks: [{
 				id: "3CAA50D84A61CEE0"
@@ -547,6 +596,15 @@
 		{
 			x: 1.0d
 			y: -3.0d
+			description: [
+				"The Decoctive Diffuser is a device that will periodically consume potion fluid to spread potion effects to nearby mobs."
+				""
+				"Effects granted this way last 1/4 as long compared to a regular potion."
+				""
+				"It automatically halts operation when no mobds are in its area of effect."
+				""
+				"At base, the diffuser spreads potion effects in a 9x9x9 area centered on it, which can be augmented up to 15x15x15 using radial enhancement augments."
+			]
 			id: "6AF5B5A35F41C0D0"
 			tasks: [{
 				id: "1DCB7E86F4C4AF1E"
@@ -557,6 +615,7 @@
 		{
 			x: -2.0d
 			y: -4.0d
+			description: ["Used to augment, charge, and fill items."]
 			id: "26060567F25C9142"
 			tasks: [{
 				id: "0BD5CF06D681A3CC"
@@ -567,6 +626,7 @@
 		{
 			x: -3.0d
 			y: -3.0d
+			description: ["Using to charge multiple items quickly."]
 			id: "704F93C71960DB61"
 			tasks: [{
 				id: "7AD47EB0419B698A"
@@ -577,6 +637,7 @@
 		{
 			x: 0.5d
 			y: 0.0d
+			subtitle: "The Redstone Flux Cell can be used to store and distribute Redstone Flux."
 			id: "24C2910D8AEC4ADE"
 			tasks: [{
 				id: "3110CCAF3D56494F"
@@ -598,6 +659,7 @@
 		{
 			x: -1.5d
 			y: 0.0d
+			subtitle: "The fluid Cell can be used to store and distribute fluids."
 			id: "637F34FF5916EA5B"
 			tasks: [{
 				id: "2B0BAF585507C5B6"
@@ -619,9 +681,11 @@
 			}]
 		}
 		{
-			x: -9.0d
-			y: -1.5d
-			shape: "hexagon"
+			x: -7.5d
+			y: -2.0d
+			shape: "diamond"
+			description: ["Allow XP to be stored and retrieved."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "46019001B5CC8EF6"
 			tasks: [{
 				id: "1D20ABB632DB0734"
@@ -630,8 +694,11 @@
 			}]
 		}
 		{
-			x: -9.5d
-			y: 2.5d
+			x: -10.5d
+			y: -2.0d
+			shape: "diamond"
+			description: ["The Expanded RF Coil augment scales RF storage and transfer by 4."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "5616729557DAAA3F"
 			tasks: [{
 				id: "058960A237CDEB61"
@@ -640,8 +707,11 @@
 			}]
 		}
 		{
-			x: -5.5d
-			y: 0.0d
+			x: -6.5d
+			y: -2.0d
+			shape: "diamond"
+			description: ["The Stabilized RF Coil augment scales the RF storage by 6 and the RF transfer by 2."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "75C240AE82EE45E1"
 			tasks: [{
 				id: "6263E7A2866639AF"
@@ -650,8 +720,11 @@
 			}]
 		}
 		{
-			x: -9.5d
-			y: -2.5d
+			x: -7.0d
+			y: -1.5d
+			shape: "diamond"
+			description: ["The High-Flux RF Coil augment scales the RF storage by 2 and the RF transfer by 6."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "596EF613AC75F6F9"
 			tasks: [{
 				id: "50901D97324B288B"
@@ -660,9 +733,11 @@
 			}]
 		}
 		{
-			x: -10.0d
-			y: -1.5d
-			shape: "hexagon"
+			x: -9.0d
+			y: 0.5d
+			shape: "diamond"
+			description: ["The Expanded Tank Construction augment scales the size of all fluid storage in machine, device, dynamo, or tool by 4."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "3303E4F904EC9DC5"
 			tasks: [{
 				id: "149653EF4EE55327"
@@ -671,9 +746,17 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: 1.0d
-			shape: "rsquare"
+			x: -8.0d
+			y: -2.5d
+			shape: "diamond"
+			description: [
+				"The Item Filter augment allows a machine, device, or piece of equipement to selectively accept items."
+				""
+				"The filter can be configured in a separate GUI, accessible by shift right-clicking the block or item it is installed in, or through a tab in the block's GUI."
+				""
+				"Up to 15 items can be added to the filter, with option to change between allow/deny list and to match/ignore NBT."
+			]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "6C1A64AB7478ED94"
 			tasks: [{
 				id: "7221C781B9A44F5F"
@@ -682,9 +765,11 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: -1.0d
-			shape: "rsquare"
+			x: -9.0d
+			y: -2.5d
+			shape: "diamond"
+			description: ["Allows for fluid restriction."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "219E41A99F65B3F7"
 			tasks: [{
 				id: "04C5E3425CAB5E11"
@@ -693,9 +778,11 @@
 			}]
 		}
 		{
-			x: -10.5d
+			x: -7.0d
 			y: -0.5d
-			shape: "square"
+			shape: "diamond"
+			description: ["The Flux Linkage Amplifier augment increases maximun RF usage rate by 100% but also scales the RF per operation by 1.1."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "1A18766CBFE5CAB9"
 			tasks: [{
 				id: "6CB4AEEAFF7B8E65"
@@ -705,8 +792,10 @@
 		}
 		{
 			x: -10.5d
-			y: 0.5d
-			shape: "square"
+			y: -1.0d
+			shape: "diamond"
+			description: ["The Flux Efficiency augment reduces the RF required per operation, scaling it by 0.9, but also decreases the maximum RF usage rate of the machine by 10%."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "57CDC7BDF791004B"
 			tasks: [{
 				id: "4A1E63F93B30B18B"
@@ -715,9 +804,11 @@
 			}]
 		}
 		{
-			x: -8.5d
+			x: -8.0d
 			y: 0.5d
-			shape: "square"
+			shape: "diamond"
+			description: ["The Auxilliary Process Sieve augment increases chance of secondary output by 15% but scales the energy per operation by 1.25."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "5EFA8AD1C3D774EF"
 			tasks: [{
 				id: "7F37F91CDA3A40F1"
@@ -726,9 +817,11 @@
 			}]
 		}
 		{
-			x: -9.5d
-			y: 0.5d
-			shape: "square"
+			x: -10.0d
+			y: -1.5d
+			shape: "diamond"
+			description: ["The Catalytic Reclamation Chamber augment scales the chance for a catalyst to be used by 0.8x but also scales the energy used per operation by 1.25x."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "47AE7B40831D79FF"
 			tasks: [{
 				id: "56470F76065252F7"
@@ -737,9 +830,14 @@
 			}]
 		}
 		{
-			x: -9.5d
-			y: -0.5d
-			shape: "square"
+			x: -7.5d
+			y: 0.0d
+			shape: "diamond"
+			description: [
+				"The Cyclical Processing augment allows a machine's valid outputs to be fed back into its outputs slot(s)."
+				"Useful for automation."
+			]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "4E6D5AA39CBE712E"
 			tasks: [{
 				id: "049567E2C2E7B422"
@@ -748,9 +846,11 @@
 			}]
 		}
 		{
-			x: -8.5d
-			y: -0.5d
-			shape: "square"
+			x: -9.5d
+			y: 0.0d
+			shape: "diamond"
+			description: ["Destroys excess non-primary item outputs."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "1DC5972E37492322"
 			tasks: [{
 				id: "252D218F0431FF54"
@@ -759,9 +859,11 @@
 			}]
 		}
 		{
-			x: -6.5d
-			y: -1.0d
-			shape: "octagon"
+			x: -8.5d
+			y: 1.0d
+			shape: "diamond"
+			description: ["The Auxiliary Reaction Chamber augment inscreases maximum generation of a dynamo by 100% but scales the efficiency by 0.9."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "16B5556843D96D27"
 			tasks: [{
 				id: "0FF98DF2E8AC984D"
@@ -770,9 +872,11 @@
 			}]
 		}
 		{
-			x: -6.5d
+			x: -10.5d
 			y: 0.0d
-			shape: "octagon"
+			shape: "diamond"
+			description: ["Increase fuel efficiency."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "51BC1903B482156D"
 			tasks: [{
 				id: "1B397E3BE37BE7EA"
@@ -781,9 +885,11 @@
 			}]
 		}
 		{
-			x: -6.5d
-			y: 1.0d
-			shape: "octagon"
+			x: -9.5d
+			y: -2.0d
+			shape: "diamond"
+			description: ["Prevent RF from being lost after coil saturation."]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "7EEA850EADBA7364"
 			tasks: [{
 				id: "4441D9ACB687B363"
@@ -792,9 +898,15 @@
 			}]
 		}
 		{
-			x: -11.5d
-			y: 0.0d
-			shape: "rsquare"
+			x: -10.0d
+			y: -0.5d
+			shape: "diamond"
+			description: [
+				"The Radial Enhancement Augment allows your tool or machine to affect a greater area around it."
+				""
+				"Each aygment will increase the maximum area by 1 block in every direction."
+			]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "20DF25E14BA20685"
 			tasks: [{
 				id: "07A7FD351C261D84"
@@ -803,9 +915,15 @@
 			}]
 		}
 		{
-			x: -10.0d
-			y: 1.5d
-			shape: "hexagon"
+			x: -6.5d
+			y: -1.0d
+			shape: "diamond"
+			description: [
+				"The Alchemical Amplifier augment increases the effect of the stored potion by 1 level but descreases its duration by 25%."
+				""
+				"Stacking 4 results in potions with no duration, rendering many useless."
+			]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "54F571CA4C41A930"
 			tasks: [{
 				id: "5AA1FA25EA4A6A35"
@@ -814,9 +932,15 @@
 			}]
 		}
 		{
-			x: -9.0d
-			y: 1.5d
-			shape: "hexagon"
+			x: -6.5d
+			y: 0.0d
+			shape: "diamond"
+			description: [
+				"The Alchemical Extender augment increases duration of potion by 100%."
+				""
+				"Has no effect on potion that have instant, on-time effects."
+			]
+			dependencies: ["7798E5C49F1FD162"]
 			id: "7834878457FC30CF"
 			tasks: [{
 				id: "69C928D5FAF3CAC7"
@@ -827,6 +951,7 @@
 		{
 			x: -2.5d
 			y: 3.0d
+			description: ["The Redstone Furnace is a machine that smelts your items like a traditional furnace."]
 			id: "7C761BC5BA44B326"
 			tasks: [{
 				id: "67BCF90ACB924F36"
@@ -837,6 +962,7 @@
 		{
 			x: -1.5d
 			y: 3.0d
+			description: ["The Sawmill is a machine that cuts logs into planks more efficiently than crafting. It produces Sawdust as a byproduct."]
 			id: "203EA1158296D6D0"
 			tasks: [{
 				id: "2EB416742D16FF5A"
@@ -847,6 +973,11 @@
 		{
 			x: -0.5d
 			y: 3.0d
+			description: [
+				"The Pulverizer is a machine that crushes items and ores."
+				""
+				"Improves ore yields, which can be further increased using augments and catalysts."
+			]
 			id: "72540344452B01C0"
 			tasks: [{
 				id: "1AFCD8D554C93ADB"
@@ -857,6 +988,11 @@
 		{
 			x: 0.5d
 			y: 3.0d
+			description: [
+				"The Induction Smelter is a machine that smelts multiple items together, producing alloys."
+				"It can also smelt ores into ingots and gem, which is affected by catalysts."
+				"Smelting ores has a chance to produce rich slag as a secondary output, which cann be used as a catalyst ore to make phyto-gro."
+			]
 			id: "0277A8C188158B74"
 			tasks: [{
 				id: "5315AA976C763C73"
@@ -867,6 +1003,7 @@
 		{
 			x: 1.5d
 			y: 3.0d
+			description: ["The Phytogenic Insolator is a machine that uses RF, water, and optionally fertilizer in order to grow crops, flowers, and trees."]
 			id: "0037F89FAA401AFF"
 			tasks: [{
 				id: "3DA94A98DA6C3FA5"
@@ -877,6 +1014,10 @@
 		{
 			x: -2.5d
 			y: 4.0d
+			description: [
+				"The Centrifugal Separator is a machine that separates items into their components. E.g. alloy blends into their base metal dusts."
+				"It is also effeicient at extracting dyes from flowers."
+			]
 			id: "588F2C5C29F2E35D"
 			tasks: [{
 				id: "1BEBC372D720DA87"
@@ -887,6 +1028,7 @@
 		{
 			x: -1.5d
 			y: 4.0d
+			description: ["The Multiservo Press is a machine that can accept a variety of dies in order to shape metals into different forms and (un)pack bloks and items."]
 			id: "36F0E92316E422F4"
 			tasks: [{
 				id: "4C3EC10BB4CDF546"
@@ -897,6 +1039,7 @@
 		{
 			x: -0.5d
 			y: 4.0d
+			description: ["The Magma Crucible is a machine that melts items into fluids."]
 			id: "411947AEDD4F7599"
 			tasks: [{
 				id: "603BCB7DF6077E80"
@@ -907,6 +1050,10 @@
 		{
 			x: 0.5d
 			y: 4.0d
+			description: [
+				"The Blast Chiller is a machine that cools down and crystallizes liquids such as water and molten metals into their solid forms."
+				"Accepts various casts to alter the shape of the end product."
+			]
 			id: "4D91E6CE74E4B1C7"
 			tasks: [{
 				id: "0603F7AD916DEE95"
@@ -917,6 +1064,7 @@
 		{
 			x: 1.5d
 			y: 4.0d
+			description: ["The Fractionating Still is a machine refines fluids such as Resin and Sap."]
 			id: "7C3F5BF78B47CC1C"
 			tasks: [{
 				id: "11BF620E3E47EA36"
@@ -927,6 +1075,10 @@
 		{
 			x: -2.5d
 			y: 5.0d
+			description: [
+				"The Pyrolyzer is a machine that decomposes substances in a low-oxygen enviroment using heat."
+				"Typically used to convert organic matter and coal into cleaner, longer-lasting fuels."
+			]
 			id: "0EEA4F88FE0B4709"
 			tasks: [{
 				id: "61ED364E8A03C22F"
@@ -937,6 +1089,10 @@
 		{
 			x: -1.5d
 			y: 5.0d
+			description: [
+				"The Fluid Encapsulator is a machine that fills items that hold fluids, sush as buckets and bottles."
+				"Can be used to automatically fill bottles with potion fluid from the Alchemical Imbuer."
+			]
 			id: "30C01B5A106F5C47"
 			tasks: [{
 				id: "2559AEB54A24A2BD"
@@ -947,6 +1103,13 @@
 		{
 			x: -0.5d
 			y: 5.0d
+			description: [
+				"The Alchemical Imbuer is a machine that brews potions."
+				""
+				"Creates potion fluid as opposed to brewing directly in a bottle."
+				""
+				"One ingredient is enough to brew one bucket, which can fill 4 bottles."
+			]
 			id: "4F3D0ED5C13058E1"
 			tasks: [{
 				id: "7811C28FFCA83866"
@@ -957,6 +1120,7 @@
 		{
 			x: 0.5d
 			y: 5.0d
+			description: ["The Crystallizer is a machine can convert certain powders into gems."]
 			id: "07A01FAEE9EC72C9"
 			tasks: [{
 				id: "4A6959451D35B403"
@@ -967,6 +1131,7 @@
 		{
 			x: 1.5d
 			y: 5.0d
+			description: ["The Sequential Fabricator is a machine that automatically crafts items."]
 			id: "4256E811144BDD4B"
 			tasks: [{
 				id: "33EB422B8C802D79"
@@ -977,6 +1142,7 @@
 		{
 			x: -11.0d
 			y: 5.0d
+			description: ["The Stirling Dynamo uses burnable items to produce RF."]
 			id: "454DA21DB8080161"
 			tasks: [{
 				id: "7688EF7B744D5FCE"
@@ -987,6 +1153,7 @@
 		{
 			x: -10.0d
 			y: 5.0d
+			description: ["The Compression Dynamo uses burnable liquid fuels such as tree oil to produce RF."]
 			id: "607C6EA010705FC0"
 			tasks: [{
 				id: "225F227AB8BAA312"
@@ -997,6 +1164,7 @@
 		{
 			x: -9.0d
 			y: 5.0d
+			description: ["The Numismatic Dynamo uses coins to produce RF."]
 			id: "7349E70A756F9DDE"
 			tasks: [{
 				id: "220F72E33AC83694"
@@ -1007,6 +1175,7 @@
 		{
 			x: -8.0d
 			y: 5.0d
+			description: ["The Lapidary Dynamo uses crystals and gems to produce RF."]
 			id: "1C61A08242693358"
 			tasks: [{
 				id: "4DBD6FF227AF81C8"
@@ -1017,6 +1186,7 @@
 		{
 			x: -7.0d
 			y: 5.0d
+			description: ["The Disenchantment Dynamo uses enchanted items such as books to produce RF."]
 			id: "4E53A292F0A46A0D"
 			tasks: [{
 				id: "51F7374F1C44F7F3"
@@ -1027,11 +1197,24 @@
 		{
 			x: -6.0d
 			y: 5.0d
+			description: ["The Gourmand Dynamo uses food to produce RF."]
 			id: "3C80BE9618A4AF9E"
 			tasks: [{
 				id: "790CE260187AF564"
 				type: "item"
 				item: "thermal:dynamo_gourmand"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.0d
+			shape: "diamond"
+			size: 2.0d
+			id: "7798E5C49F1FD162"
+			tasks: [{
+				id: "045A12670ABFC200"
+				type: "item"
+				item: "chroma:base_augment"
 			}]
 		}
 	]

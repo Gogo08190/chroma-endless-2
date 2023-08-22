@@ -1,6 +1,6 @@
 {
 	chapter_groups: [
-		{ id: "23866070F89333B0", title: "&e-- &l&6Main Progression&r &e--" }
-		{ id: "6E1FC0F5596E1533", title: "&e-- &l&6Secondary Quests&r &e--" }
+		{ id: "23866070F89333B0", title: "{chapter.group.1}" }
+		{ id: "6E1FC0F5596E1533", title: "{chapter.group.2}" }
 	]
 }

@@ -1,0 +1,12 @@
+{
+	id: "09F707F74098266F"
+	group: "6E1FC0F5596E1533"
+	order_index: 8
+	filename: "bigger_reactor"
+	title: "Bigger Reactor"
+	icon: "biggerreactors:reactor_terminal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

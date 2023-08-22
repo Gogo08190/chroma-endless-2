@@ -1,0 +1,559 @@
+{
+	id: "19476F18BFB8517A"
+	group: "6E1FC0F5596E1533"
+	order_index: 7
+	filename: "the_undergarden"
+	title: "The Undergarden"
+	icon: "undergarden:catalyst"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.0d
+			y: -4.0d
+			shape: "octagon"
+			dependencies: ["78DEA130410E0D35"]
+			id: "35B5D0A30521E894"
+			tasks: [{
+				id: "2BE5CCCC430527FF"
+				type: "item"
+				item: "undergarden:catalyst"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.0d
+			dependencies: ["35B5D0A30521E894"]
+			size: 2.0d
+			id: "0465E2D17012EE57"
+			tasks: [{
+				id: "4EA64B2877208765"
+				type: "dimension"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/undergarden_portal.png"
+					}
+				}
+				dimension: "undergarden:undergarden"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 5.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "1CF7858BD42DCE7B"
+			tasks: [{
+				id: "0E39789E3C3C4DDE"
+				type: "item"
+				item: "undergarden:utheric_shard"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 5.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "5526F0B4F6724D77"
+			tasks: [{
+				id: "249FE3578E07E1EC"
+				type: "item"
+				title: "Any #forge:ores/utherium"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/utherium"
+					}
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 5.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "714746E3FD0EBC06"
+			tasks: [{
+				id: "675E137AC2BE042E"
+				type: "item"
+				title: "Any #forge:ores/cloggrum"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/cloggrum"
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 5.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "465963A56CDE95E2"
+			tasks: [{
+				id: "3B277B62615413BB"
+				type: "item"
+				title: "Any #forge:ores/froststeel"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/froststeel"
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 5.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "34EA0C6BDAC33D3C"
+			tasks: [{
+				id: "7A55890ABD51302B"
+				type: "item"
+				title: "Any #forge:ores/regalium"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1
+					tag: {
+						value: "forge:ores/regalium"
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 5.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "733800F688320B57"
+			tasks: [{
+				id: "4549A17654408E7D"
+				type: "item"
+				item: "undergarden:forgotten_nugget"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 6.0d
+			dependencies: ["733800F688320B57"]
+			id: "4239A7CA5DFE9D8D"
+			tasks: [{
+				id: "57A014E9BD75B05F"
+				type: "item"
+				item: "undergarden:forgotten_ingot"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 6.0d
+			dependencies: ["34EA0C6BDAC33D3C"]
+			id: "4EFB4DD0E70E47D0"
+			tasks: [{
+				id: "288A73472282F178"
+				type: "item"
+				item: "undergarden:regalium_crystal"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 6.0d
+			dependencies: ["465963A56CDE95E2"]
+			id: "0E2F71A7A65B9C8E"
+			tasks: [{
+				id: "43CAFF92ED18FF87"
+				type: "item"
+				item: "undergarden:froststeel_ingot"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 6.0d
+			dependencies: ["714746E3FD0EBC06"]
+			id: "28CBD71812E349F7"
+			tasks: [{
+				id: "73A26738572CB70A"
+				type: "item"
+				item: "undergarden:cloggrum_ingot"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 6.0d
+			dependencies: [
+				"5526F0B4F6724D77"
+				"1CF7858BD42DCE7B"
+			]
+			dependency_requirement: "one_completed"
+			id: "6370A4AB5F8EAA05"
+			tasks: [{
+				id: "65F49FBABD40C98B"
+				type: "item"
+				item: "undergarden:utherium_crystal"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 1.0d
+			dependencies: ["0465E2D17012EE57"]
+			id: "21AB468169E8CEBC"
+			tasks: [{
+				id: "0855FD13E7D96873"
+				type: "item"
+				item: "undergarden:depthrock_bed"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 2.0d
+			dependencies: ["0465E2D17012EE57"]
+			id: "1723A919831655D2"
+			tasks: [{
+				id: "079F1467D19CF2B9"
+				type: "item"
+				item: "undergarden:depthrock_pebble"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 1.0d
+			dependencies: ["0465E2D17012EE57"]
+			id: "3DB44F0490AF41A4"
+			tasks: [{
+				id: "1E2AD991A4362A92"
+				type: "item"
+				item: {
+					id: "undergarden:slingshot"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.5d
+			dependencies: ["0465E2D17012EE57"]
+			id: "712905C24267362F"
+			tasks: [{
+				id: "60C6D659C9C7E4D6"
+				type: "item"
+				item: "undergarden:dweller_steak"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.5d
+			dependencies: ["0465E2D17012EE57"]
+			id: "4627D6592953CBB6"
+			tasks: [{
+				id: "6C16F6679FA2FBF5"
+				type: "item"
+				item: "undergarden:gloomgourd_pie"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.0d
+			dependencies: ["0465E2D17012EE57"]
+			id: "092743AC34DCC290"
+			tasks: [{
+				id: "229E1B0FC16A4EE0"
+				type: "item"
+				item: "undergarden:blisterberry"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			dependencies: ["0465E2D17012EE57"]
+			id: "75DF973720475FCB"
+			tasks: [{
+				id: "01B18FE9AF8894E9"
+				type: "item"
+				item: "undergarden:gloomper_leg"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.0d
+			dependencies: ["0465E2D17012EE57"]
+			id: "657660DF87F07DF2"
+			tasks: [{
+				id: "44D299F6A4ABC03F"
+				type: "item"
+				item: "undergarden:cooked_gwibling"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.5d
+			dependencies: ["0465E2D17012EE57"]
+			id: "0E5107460B979FE6"
+			tasks: [{
+				id: "2F6C5763A4822C13"
+				type: "item"
+				item: "undergarden:indigo_stew"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 2.5d
+			dependencies: ["0465E2D17012EE57"]
+			id: "24ACBB1B88F4D3CA"
+			tasks: [{
+				id: "2C1B91AC44F7CF5D"
+				type: "item"
+				item: "undergarden:inky_stew"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 3.5d
+			dependencies: ["0465E2D17012EE57"]
+			id: "4E66E596BF40D5F1"
+			tasks: [{
+				id: "0B5D05EB36038702"
+				type: "item"
+				item: "undergarden:veiled_stew"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 2.5d
+			dependencies: ["0465E2D17012EE57"]
+			id: "26D67170A6696F78"
+			tasks: [{
+				id: "102F01B8E6958463"
+				type: "item"
+				item: "undergarden:bloody_stew"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 2.0d
+			dependencies: ["0465E2D17012EE57"]
+			id: "29AF6F709392CA9A"
+			tasks: [{
+				id: "7235E3268F60CEE0"
+				type: "item"
+				item: "undergarden:blisterbomb"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "27B7E9A83FCBB014"
+			tasks: [{
+				id: "14C6CA144C211E1A"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/brute.png"
+					}
+				}
+				entity: "undergarden:brute"
+				value: 10L
+			}]
+		}
+		{
+			x: -1.5d
+			y: 7.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "228F4DD655352D33"
+			tasks: [{
+				id: "165176604C2640DF"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/forgo_guard.png"
+					}
+				}
+				entity: "undergarden:forgotten_guardian"
+				value: 10L
+			}]
+		}
+		{
+			x: -0.5d
+			y: 8.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "73AE780CC935AB81"
+			tasks: [{
+				id: "2AF4DA5496392DB0"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/rotling.png"
+					}
+				}
+				entity: "undergarden:rotling"
+				value: 10L
+			}]
+		}
+		{
+			x: 0.5d
+			y: 8.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "2F068BC1CF970587"
+			tasks: [{
+				id: "40C879DB09D8A4E7"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/rotwalker.png"
+					}
+				}
+				entity: "undergarden:rotwalker"
+				value: 10L
+			}]
+		}
+		{
+			x: 1.5d
+			y: 8.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "1A88D6E96B1C9560"
+			tasks: [{
+				id: "61838BA7E6A2AF66"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/rotbet.png"
+					}
+				}
+				entity: "undergarden:rotbeast"
+				value: 10L
+			}]
+		}
+		{
+			x: 2.5d
+			y: 8.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "0F5FCAD12DCA4B4A"
+			tasks: [{
+				id: "654D93BEF5849B89"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/stborn.png"
+					}
+				}
+				entity: "undergarden:stoneborn"
+				value: 10L
+			}]
+		}
+		{
+			x: 3.5d
+			y: 7.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "1B8720EF2EF5ABDE"
+			tasks: [{
+				id: "1C8F835DB5EE51CA"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/muncher.png"
+					}
+				}
+				entity: "undergarden:muncher"
+				value: 10L
+			}]
+		}
+		{
+			x: 4.5d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "1E8DC8CF75BAD45F"
+			tasks: [{
+				id: "608B3AC50951F2B1"
+				type: "kill"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/nargle.png"
+					}
+				}
+				entity: "undergarden:nargoyle"
+				value: 10L
+			}]
+		}
+		{
+			x: 0.0d
+			y: 10.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "019288E6E1F0E9A8"
+			tasks: [{
+				id: "2B91569797B2907A"
+				type: "advancement"
+				advancement: "undergarden:undergarden/summon_minion"
+				criterion: ""
+			}]
+		}
+		{
+			x: 1.0d
+			y: 10.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "1473F23B21C1BF6D"
+			tasks: [{
+				id: "0E87F99B5A82B370"
+				type: "advancement"
+				advancement: "undergarden:undergarden/all_undergarden_biomes"
+				criterion: ""
+			}]
+		}
+		{
+			x: 2.0d
+			y: 10.0d
+			hide_dependency_lines: true
+			dependencies: ["0465E2D17012EE57"]
+			id: "2ED0DE81277789ED"
+			tasks: [{
+				id: "28C37AEB8B6C3050"
+				type: "advancement"
+				advancement: "undergarden:undergarden/stoneborn_trade"
+				criterion: ""
+			}]
+		}
+	]
+	quest_links: [ ]
+}

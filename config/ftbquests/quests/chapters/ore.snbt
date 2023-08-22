@@ -1,7 +1,7 @@
 {
 	id: "4FEF37CCE2F93D53"
 	group: "6E1FC0F5596E1533"
-	order_index: 1
+	order_index: 10
 	filename: "ore"
 	title: "Ore"
 	icon: "minecraft:raw_iron"

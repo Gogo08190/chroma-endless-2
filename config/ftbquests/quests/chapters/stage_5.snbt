@@ -379,7 +379,9 @@
 		{
 			x: 12.0d
 			y: 11.5d
+			shape: "octagon"
 			dependencies: ["1DC8F29F8F391174"]
+			size: 1.3d
 			id: "4D427C058BA363E7"
 			tasks: [{
 				id: "7F26B776556551B6"
@@ -678,7 +680,9 @@
 		{
 			x: 23.0d
 			y: 13.0d
+			shape: "octagon"
 			dependencies: ["7565DBCA47E5FA29"]
+			size: 1.3d
 			id: "2163DBB8BBA7AC9B"
 			tasks: [{
 				id: "68FF755B7ACECD7A"
@@ -977,6 +981,81 @@
 				id: "79860DC6154C4C08"
 				type: "item"
 				item: "industrialforegoing:laser_lens10"
+			}]
+		}
+		{
+			title: "Void Miner Tier 1"
+			x: 23.25d
+			y: 4.5d
+			shape: "gear"
+			dependencies: ["7CF713989B400337"]
+			size: 1.5d
+			id: "67312978FC1D0187"
+			tasks: [
+				{
+					id: "501E0886B49370E9"
+					type: "item"
+					item: "chroma:void_miner_tier_1"
+				}
+				{
+					id: "66E75151DD3BC38C"
+					type: "item"
+					item: "chroma:void_item_output_tier_1"
+				}
+				{
+					id: "4B5A2A757E64C39C"
+					type: "item"
+					item: "chroma:energy_input_tier_1"
+				}
+				{
+					id: "260B0D8EFF05B24F"
+					type: "item"
+					item: "chroma:void_miner_frame_tier1"
+					count: 40L
+				}
+				{
+					id: "3970DBB1411D72FD"
+					type: "item"
+					item: "chroma:structure_frame"
+					count: 44L
+				}
+				{
+					id: "161904B2F4E91E23"
+					type: "item"
+					item: "chroma:void_miner_laser_core_t1"
+					count: 2L
+				}
+				{
+					id: "146D64DDCA31D3CC"
+					type: "item"
+					item: "mna:decoration/arcane_stone_stairs"
+					count: 12L
+				}
+			]
+		}
+		{
+			x: 12.5d
+			y: 13.0d
+			dependencies: ["4D427C058BA363E7"]
+			id: "59CFD8AC4A3C6984"
+			tasks: [{
+				id: "7F59A39472BD214F"
+				type: "item"
+				item: "mythicbotany:dream_cherry"
+			}]
+		}
+		{
+			x: 22.5d
+			y: 14.5d
+			shape: "octagon"
+			dependencies: ["7565DBCA47E5FA29"]
+			size: 1.3d
+			id: "2744F6FED9C9525F"
+			tasks: [{
+				id: "42B08D427ECC99DD"
+				type: "dimension"
+				icon: "beyond_earth:venus_globe"
+				dimension: "beyond_earth:venus"
 			}]
 		}
 	]

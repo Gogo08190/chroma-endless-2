@@ -1,0 +1,1270 @@
+{
+	id: "48F7B7D4223A1E8A"
+	group: "6E1FC0F5596E1533"
+	order_index: 13
+	filename: "evilcraft"
+	title: "EvilCraft"
+	icon: "evilcraft:condensed_blood"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -5.0d
+			y: -7.0d
+			shape: "hexagon"
+			description: [
+				"&cEvilCraft&r is a magic-themed mod centered around dark elements. Gather the blood of your adversaries and tap into the potency of an ancient font of malevolence!"
+				""
+				"Comprehensive information about every aspect of this mod can be found in the guidebook, known as the &aOrigins of Darkness&r."
+				""
+				"To get started, find yourself some &9Dark Gems&r. "
+			]
+			size: 2.0d
+			id: "0E07AAA79B6CDD57"
+			tasks: [{
+				id: "381F1609FAD7EA6E"
+				type: "item"
+				item: "evilcraft:dark_gem"
+			}]
+		}
+		{
+			title: "Dark Temples"
+			x: -5.0d
+			y: -10.0d
+			shape: "octagon"
+			description: [
+				"You won't easily overlook these structures, as they emit a substantial beam from their centers."
+				""
+				"Positioned at the core of the &9Dark Temple&r is an &aEnvironmental Accumulator&r."
+				""
+				"This &aEnvironmental Accumulator&r serves to enhance and craft various essential items for our journey, including &dLightning Bombs&r!"
+			]
+			dependencies: ["0E07AAA79B6CDD57"]
+			id: "0BF22001574554C9"
+			tasks: [
+				{
+					id: "3433226C9FFAF26E"
+					type: "structure"
+					title: "Visit a Dark Temple"
+					icon: "evilcraft:environmental_accumulator"
+					structure: "evilcraft:dark_temple_default"
+				}
+				{
+					id: "5C62B057DF90AF56"
+					type: "item"
+					item: {
+						id: "evilcraft:weather_container"
+						Count: 1
+						tag: {
+							weather: "EMPTY"
+						}
+					}
+					match_nbt: true
+				}
+			]
+		}
+		{
+			x: -6.0d
+			y: -11.0d
+			description: ["During rainy weather, inserting a &aWeather Container&r into the &aEnvironmental Accumulator&r enables you to harness the power of the rain."]
+			dependencies: ["0BF22001574554C9"]
+			id: "75607768BBE86769"
+			tasks: [{
+				id: "6308E7A8263CE3E9"
+				type: "item"
+				item: {
+					id: "evilcraft:weather_container"
+					Count: 1
+					tag: {
+						weather: "RAIN"
+					}
+				}
+				match_nbt: true
+			}]
+		}
+		{
+			x: -5.0d
+			y: -11.5d
+			dependencies: ["0BF22001574554C9"]
+			id: "26CB3ED13A2ED1E0"
+			tasks: [{
+				id: "7EC40645654A12C0"
+				type: "item"
+				item: {
+					id: "evilcraft:weather_container"
+					Count: 1
+					tag: {
+						weather: "CLEAR"
+					}
+				}
+				match_nbt: true
+			}]
+		}
+		{
+			x: -4.0d
+			y: -11.0d
+			description: [
+				"During a thunderstorm, introducing a &aWeather Container&r into the &aEnvironmental Accumulator&r will allow you to harness the storm's power."
+				""
+				"With this method, we can craft items that grant us the ability to manipulate Lightning at our discretion."
+			]
+			dependencies: ["0BF22001574554C9"]
+			id: "2CDCB0F2FC49B1D0"
+			tasks: [{
+				id: "53C27896D1D1954D"
+				type: "item"
+				item: {
+					id: "evilcraft:weather_container"
+					Count: 1
+					tag: {
+						weather: "LIGHTNING"
+					}
+				}
+				match_nbt: true
+			}]
+		}
+		{
+			x: -6.0d
+			y: -12.0d
+			description: ["Using the Weather Container, you can produce an &9Infinite Water Bucket&r or an &9Infinite Water Source Block&r. These items are immensely practical and valuable to possess!"]
+			dependencies: ["75607768BBE86769"]
+			id: "10403AAA4C985915"
+			tasks: [
+				{
+					id: "2BF870A14241AB01"
+					type: "item"
+					item: "evilcraft:bucket_eternal_water"
+				}
+				{
+					id: "115B42F2838CB68C"
+					type: "item"
+					item: "evilcraft:eternal_water"
+				}
+			]
+		}
+		{
+			x: -4.0d
+			y: -12.0d
+			dependencies: ["2CDCB0F2FC49B1D0"]
+			id: "4556CF35E2CE0AA2"
+			tasks: [
+				{
+					id: "7686C75EFB49783F"
+					type: "item"
+					item: "evilcraft:lightning_grenade"
+				}
+				{
+					id: "5E53F1C5D252FC15"
+					type: "item"
+					item: "evilcraft:lightning_bomb"
+				}
+			]
+		}
+		{
+			x: -5.0d
+			y: -4.0d
+			shape: "rsquare"
+			description: [
+				"To start collecting blood, we need to craft the &cBlood Extractor&r. "
+				""
+				"As long as you carry this extractor in your inventory, eliminating mobs will cause their blood to be collected within it. &cBlood&r holds significant importance as a resource in EvilCraft."
+				""
+				"If you require increased storage for the Extractor, create an additional one and then combine them within a crafting grid."
+				""
+				"These buckets can also be employed to extract blood from &cBlood Stains&r that you encounter or generate on the ground."
+				""
+				"Finally, once you've amassed sufficient blood, perform a sneak-right click on the ground to place a bucket of blood."
+			]
+			dependencies: ["0E07AAA79B6CDD57"]
+			id: "2ED440BD4DB4DF72"
+			tasks: [{
+				id: "40A9EACDF74CC9B5"
+				type: "item"
+				item: {
+					id: "evilcraft:blood_extractor"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 5000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 5000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -4.5d
+			shape: "diamond"
+			description: [
+				"Harnessing the potency of &9Dark Gems&r, we can fabricate &aDark Tanks&r."
+				""
+				"Each &aDark Tank&r can hold up to 16 buckets of any liquid of your choosing, but it's particularly handy for storing the copious amounts of &cBlood&r you'll be collecting."
+				""
+				"If you require increased capacity, simply combine a &aDark Tank&r with another in a crafting grid."
+			]
+			dependencies: ["2ED440BD4DB4DF72"]
+			id: "716AAD9C64366E6F"
+			tasks: [{
+				id: "7E1A3EB75D7F1ABB"
+				type: "item"
+				item: {
+					id: "evilcraft:dark_tank"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 16000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 16000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: -4.0d
+			shape: "diamond"
+			description: [
+				"Ever wished to inflict harm upon things using a Shovel? Despite the unusual desire, in the realm of EvilCraft, such peculiarities are not unexpected."
+				""
+				"Look no further! This dual-purpose item functions as both a weapon and a tool for breaking softer materials."
+			]
+			dependencies: ["2ED440BD4DB4DF72"]
+			id: "5E44E6CD4D5E685D"
+			tasks: [{
+				id: "1131BCC5A349C0FB"
+				type: "item"
+				item: {
+					id: "evilcraft:spikey_claws"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -3.5d
+			shape: "diamond"
+			description: [
+				"Did a mob meet an unfortunate end, resulting in its &cBlood&r being spilled all over the floor? What a mess!"
+				""
+				"To salvage that valuable &cBlood&r for future use, employ a &cSanguinary Pedestal&r to absorb it."
+				""
+				"Want to automate collecting blood? Place a &9Spiked Plate&r on top of the Pedestal, then have a mob stand on it."
+			]
+			dependencies: ["2ED440BD4DB4DF72"]
+			id: "1B18B7E28E9F4887"
+			tasks: [
+				{
+					id: "0449CC7C04532E7F"
+					type: "item"
+					title: "Sanguinary Pedestal"
+					item: {
+						id: "itemfilters:or"
+						Count: 1
+						tag: {
+							items: [
+								{
+									ForgeCaps: {
+										Parent: {
+											FluidName: "minecraft:empty"
+											Amount: 0
+											capacity: 10000
+										}
+									}
+									id: "evilcraft:sanguinary_pedestal_0"
+									Count: 1
+									tag: {
+										Fluid: {
+											FluidName: "minecraft:empty"
+											Amount: 0
+										}
+										capacity: 10000
+									}
+								}
+								{
+									ForgeCaps: {
+										Parent: {
+											FluidName: "minecraft:empty"
+											Amount: 0
+											capacity: 10000
+										}
+									}
+									id: "evilcraft:sanguinary_pedestal_1"
+									Count: 1
+									tag: { }
+								}
+							]
+						}
+					}
+				}
+				{
+					id: "23A3B54984ED241B"
+					type: "item"
+					item: "evilcraft:spiked_plate"
+				}
+			]
+		}
+		{
+			x: -3.5d
+			y: -5.0d
+			description: [
+				"Upon occasion, eliminating a mob can trigger the appearance of a &dVengeance Spirit&r."
+				""
+				"The &dEssence&r they possess proves to be valuable in crafting more sophisticated items within EvilCraft."
+				""
+				"Struggling to encounter enough Spirits? Craft a &9Vengeance Ring&r and activate it to draw in more Spirits during your battles."
+			]
+			dependencies: ["2ED440BD4DB4DF72"]
+			id: "71E9B1CEED94CF62"
+			tasks: [
+				{
+					id: "3D7B5398C00F8A9B"
+					type: "item"
+					item: "evilcraft:vengeance_essence"
+				}
+				{
+					id: "7D511C659AC22356"
+					type: "item"
+					item: "evilcraft:vengeance_ring"
+				}
+			]
+		}
+		{
+			x: -1.0d
+			y: -6.0d
+			shape: "pentagon"
+			description: [
+				"While their &dEssence&r serves a purpose, you can also trap these Spirits for utilization at a later time. It does sound rather sinister, doesn't it?"
+				""
+				"To assume the role of a Spirit Hunter, begin by crafting the &dVengeance Focus&r. This item is utilized to &aFreeze Spirits&r in position. Subsequently, place a &9Box of Eternal Closure&r near the Spirit. This device will then capture the Spirit for future utilization."
+			]
+			dependencies: ["71E9B1CEED94CF62"]
+			size: 1.5d
+			id: "3A7B1F0C2480D0AB"
+			tasks: [
+				{
+					id: "0A3C831E281A2014"
+					type: "item"
+					item: "evilcraft:box_of_eternal_closure"
+				}
+				{
+					id: "5C35DF587E734BD1"
+					type: "item"
+					item: "evilcraft:vengeance_focus"
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: -6.0d
+			description: [
+				"&cEvilCraft&r offers its own dedicated Mob Farm feature!"
+				""
+				"To initiate this process, begin by crafting a minimum of 33 &cDark Blood Bricks&r. These bricks will be used to construct a robust structure capable of containing the summoned spirits."
+				""
+				"You'll also require a spirit confined within a &9Box of Eternal Closure&r. The contents of this box will dictate the drops you receive."
+				""
+				"To construct the Mob Farm, create a cuboid structure with adequate space for mob spawning. The smallest viable size is 3x4x3, sufficient for spawning mobs like zombies. Ensure that a &9Spirit Furnace&r is positioned on one of the faces, facilitating interaction with the structure."
+				""
+				"For the spawning of larger mobs, a more sizable structure will be necessary."
+			]
+			dependencies: [
+				"3A7B1F0C2480D0AB"
+				"165A1D20CEEA51A3"
+			]
+			id: "4121E7BEB3421C80"
+			tasks: [
+				{
+					id: "09E0B52C84D67E60"
+					type: "item"
+					item: "evilcraft:dark_blood_brick"
+					count: 33L
+				}
+				{
+					id: "530AB308BF421BF6"
+					type: "item"
+					item: {
+						id: "evilcraft:spirit_furnace"
+						Count: 1
+						tag: { }
+						ForgeCaps: {
+							Parent: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+								capacity: 10000
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: -7.5d
+			description: [
+				"Interested in crafting a mob egg using the spirit you've ensnared within the box?"
+				""
+				"The &9Spirit Reanimator&r accomplishes precisely that. Furnish it with an ample supply of &cBlood&r, an egg, and naturally, a &9Box of Eternal Closure&r containing the desired Spirit. The device will endeavor to create the mob egg as intended!"
+				""
+				"Note: Certain mobs are ineligible for use in creating eggs."
+			]
+			dependencies: ["4121E7BEB3421C80"]
+			id: "4A125E7AE627ACD4"
+			tasks: [{
+				id: "35E9680449E0BCAA"
+				type: "item"
+				item: {
+					id: "evilcraft:spirit_reanimator"
+					Count: 1
+					tag: { }
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 10000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: -3.5d
+			description: [
+				"When left on the ground for an extended period, a bucket of blood will solidify and transform into &cHardened Blood&r."
+				""
+				"In addition to its rather unsanitary nature, various forms of blood, including dried blood, are essential for our progression."
+				""
+				"Hardened Blood will revert to its liquid state in the rain or if broken with regular tools. However, if you break it with &9Flint and Steel&r, you'll obtain &dBlood Shards&r instead."
+			]
+			dependencies: ["2ED440BD4DB4DF72"]
+			id: "231C6B72BE9870FC"
+			tasks: [{
+				id: "621C7391CC11271E"
+				type: "item"
+				item: "evilcraft:hardened_blood_shard"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -2.5d
+			dependencies: ["2ED440BD4DB4DF72"]
+			id: "4FB9EB9A653F1736"
+			tasks: [{
+				id: "4F2A3946BB5BC3A9"
+				type: "item"
+				item: "evilcraft:dark_power_gem"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.0d
+			description: [
+				"By combining &aHardened Blood Shards&r with &9Dark Power Gems&r, you can create Blood Infusion Cores."
+				""
+				"&9Blood Infusion Cores&r serve as the primary crafting components for numerous machines within EvilCraft."
+			]
+			dependencies: [
+				"231C6B72BE9870FC"
+				"4FB9EB9A653F1736"
+			]
+			id: "4B73B1B8ADBDC09B"
+			tasks: [{
+				id: "10952D9E75D4C892"
+				type: "item"
+				item: "evilcraft:blood_infusion_core"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 0.0d
+			description: [
+				"Is the &cBlood Chest&r not operating at a satisfactory pace? Are you grappling with an excessive number of items in need of repair? Crafting a &cColossal Blood Chest&r can address these concerns."
+				""
+				"To construct a &cColossal Blood Chest&r, produce 25 &9Reinforced Undead Planks&r. Utilize these planks to form a hollow cube with dimensions of 3x3x3. Subsequently, position a &cColossal Blood Chest&r block to seal off the multiblock structure. If executed accurately, you'll possess a substantial &cBlood Chest&r that is truly colossal in size."
+				""
+				"This also provides you the ability to enhance it using &6Promises&r."
+			]
+			dependencies: ["69268334A2E9D37A"]
+			id: "7C4CA2689973F8E5"
+			tasks: [
+				{
+					id: "470E2146BB4CFC76"
+					type: "item"
+					item: {
+						id: "evilcraft:colossal_blood_chest"
+						Count: 1
+						tag: { }
+						ForgeCaps: {
+							Parent: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+								capacity: 10000
+							}
+						}
+					}
+				}
+				{
+					id: "1E144438A1A047F0"
+					type: "item"
+					item: "evilcraft:reinforced_undead_planks"
+					count: 25L
+				}
+			]
+		}
+		{
+			x: -4.0d
+			y: -0.5d
+			description: [
+				"The &cBlood Chest&r has the capability to repair items using &cBlood&r."
+				""
+				"However, items that are repaired might end up becoming &dCursed&r..."
+			]
+			dependencies: ["4B73B1B8ADBDC09B"]
+			id: "69268334A2E9D37A"
+			tasks: [{
+				id: "16E01700FC3500E1"
+				type: "item"
+				item: {
+					id: "evilcraft:blood_chest"
+					Count: 1
+					tag: { }
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 10000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 1.0d
+			description: [
+				"Through the Blood Infuser, you have the capacity to produce &cUndead Saplings&r, which develop into &dUndead Trees&r."
+				""
+				"The logs and planks harvested from &dUndead Trees&r prove valuable for crafting various tools and items within EvilCraft."
+			]
+			dependencies: ["51019793E0B1D73F"]
+			id: "7C76BE07348E7873"
+			tasks: [
+				{
+					id: "4DE61148883C6FFA"
+					type: "item"
+					item: "evilcraft:undead_sapling"
+				}
+				{
+					id: "17E550E7C6E2A4E4"
+					type: "item"
+					item: "evilcraft:undead_planks"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 2.0d
+			shape: "hexagon"
+			description: ["The &dVein Sword&r enables you to collect greater amounts of blood, in addition to boosting drops with the Looting enchantment."]
+			dependencies: ["7C76BE07348E7873"]
+			id: "23860411F1863045"
+			tasks: [{
+				id: "5B166465A81E2108"
+				type: "item"
+				item: {
+					id: "evilcraft:vein_sword"
+					Count: 1
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							lvl: 2s
+							id: "minecraft:looting"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 2.0d
+			shape: "hexagon"
+			description: [
+				"It's a pickaxe with Fortune V on it. That's all."
+				""
+				"Definitely won't summon spirits when you are mining. &oDefinitely won't.&r"
+			]
+			dependencies: ["7C76BE07348E7873"]
+			id: "6853CFC37D1BBC09"
+			tasks: [{
+				id: "40C8E29A217B89CE"
+				type: "item"
+				item: {
+					id: "evilcraft:vengeance_pickaxe"
+					Count: 1
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								lvl: 3s
+								id: "evilcraft:vengeance"
+							}
+							{
+								lvl: 5s
+								id: "minecraft:fortune"
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 2.5d
+			shape: "hexagon"
+			description: [
+				"&dBrooms&r can be made using Broom Parts. Every Broom is made up of 3 parts: a Rod, a Cap, and a Brush."
+				""
+				"Each part can be crafted by combining the basic component with specific items to grant them distinct modifiers. Due to the multitude of modifiers, consult the guidebook for comprehensive information!"
+				""
+				"To craft your Broom, place each part into the crafting table. Keep in mind that the Broom will necessitate Blood to operate effectively."
+			]
+			dependencies: ["7C76BE07348E7873"]
+			id: "5AF87BD857EC0909"
+			tasks: [
+				{
+					id: "1392908280080E35"
+					type: "item"
+					item: {
+						id: "evilcraft:broom_part"
+						Count: 1
+						tag: {
+							broom_parts_tag: ["evilcraft:rod_bare"]
+						}
+					}
+				}
+				{
+					id: "117D9D493D7B2C7F"
+					type: "item"
+					item: {
+						id: "evilcraft:broom_part"
+						Count: 1
+						tag: {
+							broom_parts_tag: ["evilcraft:brush_bare"]
+						}
+					}
+				}
+				{
+					id: "36CBB287C243D5F5"
+					type: "item"
+					item: {
+						id: "evilcraft:broom_part"
+						Count: 1
+						tag: {
+							broom_parts_tag: ["evilcraft:cap_bare"]
+						}
+					}
+				}
+				{
+					id: "54F0BC5102E8C676"
+					type: "item"
+					item: {
+						id: "evilcraft:broom"
+						Count: 1
+						tag: {
+							Fluid: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+							}
+							capacity: 10000
+						}
+						ForgeCaps: {
+							Parent: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+								capacity: 10000
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -1.0d
+			shape: "rsquare"
+			description: [
+				"EvilCraft machines can be enhanced using &6Promises&r. Each Promise bestows distinct effects, but for starters, we should upgrade our Blood Infuser to unlock additional recipes."
+				""
+				"To achieve this, fabricate a &6Promise of Tenacity: Tier 1&r. In most cases, this enhances the storage capacity of a machine. However, for the Blood Infuser, it will unlock additional recipes!"
+			]
+			dependencies: ["51019793E0B1D73F"]
+			id: "79F8FA97772068C4"
+			tasks: [
+				{
+					id: "4681F38D02511C30"
+					type: "item"
+					item: "evilcraft:bowl_of_promises_tier0"
+				}
+				{
+					id: "28012E2EF67B3955"
+					type: "item"
+					item: "evilcraft:promise_tier_1"
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			shape: "rsquare"
+			dependencies: ["79F8FA97772068C4"]
+			id: "165A1D20CEEA51A3"
+			tasks: [
+				{
+					id: "3C19ACE2196BA4E6"
+					type: "item"
+					item: "evilcraft:bowl_of_promises_tier1"
+				}
+				{
+					id: "7D951D35FA70E7F8"
+					type: "item"
+					item: "evilcraft:promise_tier_2"
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: -1.0d
+			shape: "rsquare"
+			dependencies: ["165A1D20CEEA51A3"]
+			id: "36D851A80BB6E5E1"
+			tasks: [
+				{
+					id: "2CB3AAE826396540"
+					type: "item"
+					item: "evilcraft:bowl_of_promises_tier2"
+				}
+				{
+					id: "27C36DB1C202FC90"
+					type: "item"
+					item: "evilcraft:promise_tier_3"
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			shape: "hexagon"
+			description: [
+				"Harnessing the energy of a vanquished &9Vengeance Spirit&r, the Blood Infuser can be employed to craft &dGarmonbozia&r."
+				""
+				"&dGarmonbozia&r represents the embodiment of &dPain&r and &dSorrow&r. Additionally, it serves as a premium crafting material for crafting potent tools and items within EvilCraft."
+			]
+			dependencies: ["36D851A80BB6E5E1"]
+			id: "42E3B1B976B65214"
+			tasks: [{
+				id: "7930953E0E63BB1D"
+				type: "item"
+				item: "evilcraft:garmonbozia"
+			}]
+		}
+		{
+			x: 8.0d
+			y: -1.0d
+			description: ["With &dGarmonbozia&r, we can now fabricate our very own &aEnvironmental Accumulator&r. That's quite a mouthful, I must admit."]
+			dependencies: ["42E3B1B976B65214"]
+			id: "63009FEAA91BB56C"
+			tasks: [{
+				id: "3763BEB5B0D82470"
+				type: "item"
+				item: "evilcraft:sanguinary_environmental_accumulator"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 0.5d
+			description: [
+				"This item is a distinctive drop from &aPlayers&r, even when you meet your demise!"
+				""
+				"You &ocould&r obtain this through repetitive deaths or by engaging in PvP. It's essentially the same approach!"
+			]
+			dependencies: ["42E3B1B976B65214"]
+			id: "475180CA2A86B3B1"
+			tasks: [{
+				id: "3B83046380E614BA"
+				type: "item"
+				item: "evilcraft:flesh_humanoid"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 0.5d
+			description: [
+				"Within villages, you'll encounter &ointeresting&r villagers who, as it turns out, are &dWerewolves&r."
+				""
+				"Defeating these creatures will yield &dWerewolf Flesh&r."
+			]
+			dependencies: ["42E3B1B976B65214"]
+			id: "1978F858C6B5D564"
+			tasks: [{
+				id: "4B1B4DACE7308DB5"
+				type: "item"
+				item: "evilcraft:flesh_werewolf"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			shape: "octagon"
+			description: ["Using the flesh of &aPlayers&r or &dWerewolves&r, you have the ability to create an &aInfinite Food Source&r through the potency of Garmonbozia!"]
+			dependencies: [
+				"1978F858C6B5D564"
+				"475180CA2A86B3B1"
+			]
+			size: 1.3d
+			id: "0E677B50E82CE47B"
+			tasks: [{
+				id: "164102CC3E839489"
+				type: "item"
+				item: {
+					id: "evilcraft:flesh_rejuvenated"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 10000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 10000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.5d
+			description: [
+				"If you find yourself needing to eliminate &dEnchantments&r from an item or wish to remove a Curse, the &cPurifier&r is the solution."
+				""
+				"To accomplish this, initiate by depositing a minimum of 3 buckets' worth of blood into the Purifier. Subsequently, toss in the item you wish to remove an enchantment from."
+				""
+				"Following that, introduce the &cBlook&r. The Blook will absorb one of the enchantments from the item and convert it into an enchantment book."
+			]
+			dependencies: ["79F8FA97772068C4"]
+			id: "1FFC6DACF450B5FF"
+			tasks: [
+				{
+					id: "0D981D1170B90D6A"
+					type: "item"
+					item: {
+						id: "evilcraft:purifier"
+						Count: 1
+						tag: { }
+						ForgeCaps: {
+							Parent: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+								capacity: 3000
+							}
+						}
+					}
+				}
+				{
+					id: "7F1F1DF1E3E07166"
+					type: "item"
+					item: "evilcraft:blook"
+				}
+			]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			subtitle: "Increase the Speed of EvilCraft Machines"
+			dependencies: ["79F8FA97772068C4"]
+			id: "67D2FA07D67658B8"
+			tasks: [{
+				id: "0E4756C093B18E4F"
+				type: "item"
+				item: "evilcraft:promise_speed_0"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.5d
+			subtitle: "Increases the Efficiency of EvilCraft Machines"
+			dependencies: ["79F8FA97772068C4"]
+			id: "1152601B831E0D35"
+			tasks: [{
+				id: "6E036BE790FF63BA"
+				type: "item"
+				item: "evilcraft:promise_efficiency_0"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.0d
+			description: ["Gives you a speed boost + step height!"]
+			dependencies: [
+				"1152601B831E0D35"
+				"67D2FA07D67658B8"
+			]
+			id: "18332B851019D08F"
+			tasks: [{
+				id: "76015C0D915E3675"
+				type: "item"
+				item: "evilcraft:effortless_ring"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -4.5d
+			shape: "diamond"
+			subtitle: "A Reusable Ender Pearl"
+			hide_dependency_lines: true
+			dependencies: ["0E07AAA79B6CDD57"]
+			id: "32C67275958E3FEE"
+			tasks: [{
+				id: "638EBA81F1D464BA"
+				type: "item"
+				item: {
+					id: "evilcraft:blood_pearl_of_teleportation"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 1000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 1000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: -5.5d
+			shape: "diamond"
+			subtitle: "Removes Bad Potion Effects"
+			hide_dependency_lines: true
+			dependencies: ["4B73B1B8ADBDC09B"]
+			id: "206636A09AE2EADC"
+			tasks: [{
+				id: "35AF744B3D162349"
+				type: "item"
+				item: {
+					id: "evilcraft:invigorating_pendant"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 5000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 5000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 7.0d
+			y: -5.5d
+			shape: "diamond"
+			subtitle: "Applies Potion Effects"
+			description: ["To place the desired potion, simply right-click while holding the &2Primed Pendant&r to open its inventory."]
+			hide_dependency_lines: true
+			dependencies: ["42E3B1B976B65214"]
+			id: "70977AF2B686DAAC"
+			tasks: [{
+				id: "31F293A8702E4872"
+				type: "item"
+				item: {
+					id: "evilcraft:primed_pendant"
+					Count: 1
+					tag: {
+						inventoryItem: [ ]
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 5000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 5000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 7.0d
+			y: -4.5d
+			shape: "diamond"
+			subtitle: "Magnets"
+			description: [
+				"The &9Kineticator&r operates akin to a magnet, attracting items and experience towards you."
+				""
+				"On the other hand, the &eReverse Kineticator&r will have the opposite effect, repelling items and experience away from you."
+			]
+			hide_dependency_lines: true
+			dependencies: ["79F8FA97772068C4"]
+			id: "1B3E5CC331A2C6FD"
+			tasks: [
+				{
+					id: "10C926FB4582B002"
+					type: "item"
+					item: {
+						id: "evilcraft:kineticator"
+						Count: 1
+						tag: {
+							Fluid: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+							}
+							capacity: 1000
+						}
+						ForgeCaps: {
+							Parent: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+								capacity: 1000
+							}
+						}
+					}
+				}
+				{
+					id: "3DAAD43BB24C2223"
+					type: "item"
+					item: {
+						id: "evilcraft:kineticator_repelling"
+						Count: 1
+						tag: {
+							Fluid: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+							}
+							capacity: 1000
+						}
+						ForgeCaps: {
+							Parent: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+								capacity: 1000
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 6.5d
+			y: -5.0d
+			shape: "diamond"
+			subtitle: "Summons Zombies"
+			hide_dependency_lines: true
+			dependencies: ["0BF22001574554C9"]
+			id: "2B1AC767FE6A412F"
+			tasks: [{
+				id: "6CDFA989853CEE79"
+				type: "item"
+				item: {
+					id: "evilcraft:necromancer_staff"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 10000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 10000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: -5.0d
+			shape: "diamond"
+			description: ["It functions similarly to the &aMace of Distortion&r, with the distinction that it triggers an area-of-effect explosion instead."]
+			hide_dependency_lines: true
+			dependencies: ["42E3B1B976B65214"]
+			id: "6C6D6B99691D1ABC"
+			tasks: [{
+				id: "0F8CD6B81D2C5C6F"
+				type: "item"
+				item: {
+					id: "evilcraft:mace_of_destruction"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 4000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 4000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: -4.5d
+			shape: "diamond"
+			description: ["Pressing and holding the right mouse button will charge up the Mace for an area-of-effect attack using &cBlood&r. By performing a sneak-right click, you can adjust the power level. A higher power level inflicts greater damage at the expense of more Blood."]
+			hide_dependency_lines: true
+			dependencies: ["0BF22001574554C9"]
+			id: "2815D1A40AEF8A40"
+			tasks: [{
+				id: "5509E7BE66A580E9"
+				type: "item"
+				item: {
+					id: "evilcraft:mace_of_distortion"
+					Count: 1
+					tag: {
+						Fluid: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+						}
+						capacity: 4000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 4000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 7.5d
+			y: -5.0d
+			shape: "diamond"
+			subtitle: "A One-Time Use Lightning Scepter"
+			hide_dependency_lines: true
+			dependencies: ["79F8FA97772068C4"]
+			id: "3D1D340FF50A7CF7"
+			tasks: [{
+				id: "3C2F0BE51D4D32D1"
+				type: "item"
+				item: "evilcraft:sceptre_of_thunder"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			description: [
+				"We will no longer be crafting Dark Power Gems using pools of blood."
+				""
+				"Instead, we now have the option to craft the &9Blood Infuser&r, which takes care of all the messy work on our behalf. This device enables direct infusion of items with blood!"
+				""
+				"These machines can also be upgraded using &6Promises&r. The Blood Infuser is a pivotal machine utilized for progression in the mod!"
+			]
+			dependencies: ["4B73B1B8ADBDC09B"]
+			id: "51019793E0B1D73F"
+			tasks: [{
+				id: "4C94A29B7B2609AA"
+				type: "item"
+				item: {
+					id: "evilcraft:blood_infuser"
+					Count: 1
+					tag: { }
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 10000
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -5.0d
+			shape: "diamond"
+			description: [
+				"The &6Entangled Chalice&r is just like an Ender Tank."
+				""
+				"Once situated in the world, the &9Blood Pump&r can infuse Blood. When activated within your inventory, it will endeavor to replenish items that rely on &cBlood&r as a resource."
+				""
+				"If you wish to produce additional Chalices using the same network, employ the crafting recipe that employs a Chalice instead of a gold ingot."
+			]
+			hide_dependency_lines: true
+			dependencies: ["36D851A80BB6E5E1"]
+			id: "0C4CC741294E5419"
+			tasks: [{
+				id: "4F535C506EA7876F"
+				type: "item"
+				item: {
+					id: "evilcraft:entangled_chalice"
+					Count: 1
+					tag: {
+						tankID: "creative"
+						capacity: 4000
+					}
+					ForgeCaps: {
+						Parent: {
+							FluidName: "minecraft:empty"
+							Amount: 0
+							capacity: 4000
+						}
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}
