@@ -134,4 +134,11 @@ const disabledItems = [
     'mob_grinding_utils:spawner_upgrade_height',
     'mob_grinding_utils:spawner_upgrade_width',
     'mob_grinding_utils:entity_spawner',
+
+    'mysticalagriculture:inferium_furnace',
+    'mysticalagriculture:prudentium_furnace',
+    'mysticalagriculture:tertium_furnace',
+    'mysticalagriculture:imperium_furnace',
+    'mysticalagriculture:supremium_furnace',
+    'mysticaladaptations:insanium_furnace'
 ];
