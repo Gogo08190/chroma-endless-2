@@ -765,6 +765,146 @@ onEvent('recipes', (event) => {
             },
             id: 'powah:crafting/energy_discharger_spirited'
         },
+
+        {
+            output: 'powah:battery_nitro',
+            pattern: ['DSD', 'CBC', 'DAD'],
+            key: {
+                D: 'powah:dielectric_paste',
+                C: 'powah:capacitor_nitro',
+                A: 'mekaevolution:supreme_control_circuit',
+                S: 'powah:crystal_spirited',
+                B: Item.of('powah:battery_spirited').weakNBT()
+            },
+            id: 'powah:crafting/battery_nitro'
+        },
+        {
+            output: 'powah:energy_cell_nitro',
+            pattern: ['PCP', 'BEB', 'PCP'],
+            key: {
+                E: Item.of('powah:energy_cell_spirited').ignoreNBT(),
+                P: 'fluxnetworks:flux_core',
+                B: 'powah:capacitor_spirited',
+                C: 'mekaevolution:supreme_control_circuit'
+            },
+            id: 'powah:crafting/energy_cell_nitro'
+        },
+        {
+            output: 'powah:ender_cell_nitro',
+            pattern: ['PCP', 'BEB', 'PCP'],
+            key: {
+                E: Item.of('powah:ender_cell_spirited').ignoreNBT(),
+                P: 'fluxnetworks:flux_core',
+                B: 'powah:capacitor_nitro',
+                C: 'ae2:fluix_pearl'
+            },
+            id: 'powah:crafting/ender_cell_nitro'
+        },
+        {
+            output: Item.of('powah:ender_gate_nitro', 4),
+            pattern: ['RCR', 'CEC', 'RCR'],
+            key: {
+                E: 'powah:ender_core',
+                R: 'chroma:supreme_alloy',
+                C: Item.of('powah:energy_cable_nitro').ignoreNBT()
+            },
+            id: 'powah:crafting/ender_gate_nitro'
+        },
+        {
+            output: 'powah:energizing_rod_nitro',
+            pattern: [' B ', 'CDC', ' E '],
+            key: {
+                D: 'powah:dielectric_casing',
+                C: 'powah:capacitor_nitro',
+                E: Item.of('powah:energizing_rod_spirited').ignoreNBT(),
+                B: Item.of('powah:battery_nitro').weakNBT()
+            },
+            id: 'powah:crafting/energizing_rod_nitro'
+        },
+        {
+            output: 'powah:furnator_nitro',
+            pattern: ['PAP', 'CFC', 'PGP'],
+            key: {
+                F: Item.of('powah:furnator_spirited').ignoreNBT(),
+                G: 'ironfurnaces:netherite_furnace',
+                P: 'powah:crystal_nitro',
+                C: 'powah:capacitor_nitro',
+                A: 'mekaevolution:supreme_control_circuit'
+            },
+            id: 'powah:crafting/furnator_nitro'
+        },
+        {
+            output: 'powah:magmator_nitro',
+            pattern: ['BBB', 'CDC', 'RMR'],
+            key: {
+                D: 'powah:dielectric_casing',
+                M: Item.of('powah:magmator_spirited').ignoreNBT(),
+                R: 'chroma:supreme_alloy',
+                C: 'powah:capacitor_nitro',
+                B: 'powah:crystal_nitro'
+            },
+            id: 'powah:crafting/magmator_nitro'
+        },
+        {
+            output: 'powah:thermo_generator_nitro',
+            pattern: ['BRB', 'CMC', 'TDT'],
+            key: {
+                D: 'immersiveengineering:radiator',
+                M: Item.of('powah:thermo_generator_spirited').ignoreNBT(),
+                R: 'chroma:supreme_alloy',
+                C: 'powah:capacitor_nitro',
+                B: 'powah:crystal_nitro',
+                T: 'powah:thermoelectric_plate'
+            },
+            id: 'powah:crafting/thermo_generator_nitro'
+        },
+        {
+            output: 'powah:solar_panel_nitro',
+            pattern: ['PPP', 'CMC', 'BDB'],
+            key: {
+                M: Item.of('powah:solar_panel_spirited').ignoreNBT(),
+                P: 'powah:photoelectric_pane',
+                C: 'powah:capacitor_nitro',
+                B: 'powah:crystal_nitro',
+                D: 'mekaevolution:supreme_control_circuit'
+            },
+            id: 'powah:crafting/solar_panel_nitro'
+        },
+        {
+            output: 'powah:player_transmitter_nitro',
+            pattern: [' A ', 'CPC', 'CDC'],
+            key: {
+                P: Item.of('powah:player_transmitter_spirited').ignoreNBT(),
+                C: 'powah:capacitor_nitro',
+                D: 'chroma:dielectric_paste_block',
+                A: 'powah:aerial_pearl'
+            },
+            id: 'powah:crafting/player_tranmitter_nitro'
+        },
+        {
+            output: 'powah:energy_hopper_nitro',
+            pattern: ['DBD', 'CHC', 'DVD'],
+            key: {
+                H: Item.of('powah:energy_hopper_niotic').ignoreNBT(),
+                V: 'immersiveengineering:coil_hv',
+                D: 'powah:dielectric_rod',
+                C: 'powah:capacitor_nitro',
+                B: Item.of('powah:battery_nitro').weakNBT()
+            },
+            id: 'powah:crafting/energy_hopper_nitro'
+        },
+        {
+            output: 'powah:energy_discharger_nitro',
+            pattern: ['DBD', 'CHC', 'DVD'],
+            key: {
+                H: Item.of('powah:energy_discharger_spirited').ignoreNBT(),
+                V: Item.of('powah:energy_hopper_nitro').ignoreNBT(),
+                D: 'powah:dielectric_rod',
+                C: 'powah:capacitor_nitro',
+                B: Item.of('powah:battery_nitro').weakNBT()
+            },
+            id: 'powah:crafting/energy_discharger_nitro'
+        },
     ];
 
     recipes.forEach((recipe) => {

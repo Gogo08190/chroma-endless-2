@@ -545,4 +545,55 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}void_miner_tier_2`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDCBA",
+        "BEFGFEB",
+        "CFHIHFC",
+        "DGIJIGD",
+        "CFHIHFC",
+        "BEFGFEB",
+        "ABCDCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "powah:reactor_spirited"
+        },
+        "B": {
+          "item": "powah:capacitor_nitro"
+        },
+        "C": {
+          "item": "chroma:dielectric_paste_block"
+        },
+        "D": {
+          "item": "mekaevolution:supreme_control_circuit"
+        },
+        "E": {
+          "item": "fluxnetworks:flux_block"
+        },
+        "F": {
+          "item": "mekanism:pellet_plutonium"
+        },
+        "G": {
+          "item": "mekanism:pellet_polonium"
+        },
+        "H": {
+          "item": "powah:crystal_nitro"
+        },
+        "I": {
+          "item": "chroma:supreme_alloy"
+        },
+        "J": {
+          "item": "industrialforegoing:machine_frame_supreme"
+        }
+      },
+      "result": {
+        "item": "powah:reactor_nitro",
+        "count": 4
+      }
+    }
+  ).id('powah:crafting/reactor_nitro')
 });

@@ -335,7 +335,34 @@ onEvent('recipes', (event) => {
             energy: 16000,
             result: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:niotic",Throttle:1.0d}'),
             id: `${id_prefix}niotic_jetpack`
-        }
+        },
+        {
+            ingredients: [
+                { item: 'mekanism:pellet_plutonium' },
+                { item: 'chemlib:lutetium_metal_block' },
+                { item: 'fluxnetworks:flux_block' },
+                { item: 'fluxnetworks:flux_block' }
+            ],
+            energy: 20000000,
+            result: {
+                item: 'powah:crystal_nitro',
+                count: 16
+            },
+            id: 'powah:energizing/nitro_crystal'
+        },
+        {
+            ingredients: [
+                { item: 'powah:crystal_spirited' },
+                { item: 'beyond_earth:calorite_ingot' },
+                { item: 'undergarden:froststeel_ingot' }
+            ],
+            energy: 100000,
+            result: {
+                item: 'chroma:thermospiritium',
+                count: 1
+            },
+            id: `${id_prefix}thermospiritium`
+        },
     ];
 
     recipes.forEach((recipe) => {
