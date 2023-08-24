@@ -643,4 +643,48 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('draconicevolution:crafting_core')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAABAAA",
+        "ACDEDCA",
+        "ADFBFDA",
+        "ABGHGBA",
+        "ADFBFDA",
+        "ACDEDCA",
+        "AAABAAA"
+      ],
+      "key": {
+        "A": {
+          "item": "chemlib:tungsten_ingot"
+        },
+        "B": {
+          "item": "chemlib:rhodium_ingot"
+        },
+        "C": {
+          "item": "draconicevolution:wyvern_core"
+        },
+        "D": {
+          "item": "chroma:cosmic_alloy"
+        },
+        "E": {
+          "item": "mekanism:pellet_plutonium"
+        },
+        "F": {
+          "item": "chroma:thermospiritium"
+        },
+        "G": {
+          "item": "powah:capacitor_nitro"
+        },
+        "H": {
+          "item": "mekanismgenerators:hohlraum"
+        }
+      },
+      "result": {
+        "item": "alchemistry:fusion_core"
+      }
+    }
+  ).id('alchemistry:fusion_core')
 });

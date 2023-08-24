@@ -167,6 +167,27 @@ onEvent('recipes', (event) => {
           result: { item: 'draconicevolution:wyvern_shovel' },
           id: 'draconicevolution:tools/wyvern_shovel'
       },
+      {
+          inputs: [
+            { item: 'alchemistry:reactor_casing' },
+            { item: 'alchemistry:reactor_casing' },
+            { item: 'alchemistry:reactor_casing' },
+            { item: 'alchemistry:reactor_casing' },
+            { item: 'chemlib:rhodium_ingot' },
+            { item: 'chemlib:rhodium_ingot' },
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'chroma:thermospiritium' },
+            { item: 'chroma:thermospiritium' },
+            { item: 'chroma:thermospiritium' },
+            { item: 'mekaevolution:cosmic_energy_cube' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'industrialforegoing:machine_frame_supreme' },
+          total_energy: 100000000,
+          result: { item: 'alchemistry:fusion_chamber_controller' },
+          id: 'alchemistry:fusion_chamber_controller'
+      },
     ];
 
     recipes.forEach((recipe) => {
