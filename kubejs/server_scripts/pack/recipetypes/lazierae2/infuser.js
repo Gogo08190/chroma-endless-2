@@ -164,6 +164,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: 'megacells:cell_component_1m'
       },
+      {
+        output: { item: 'chroma:void_miner_frame_tier2', count: 1 },
+        inputs: [
+          { item: 'powah:crystal_nitro', count: 2 },
+          { item: 'powah:capacitor_nitro', count: 1 },
+          { item: 'chroma:void_miner_frame_tier1', count: 1 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: `${id_prefix}void_miner_frame_tier2`
+      },
     ];
 
     recipes.forEach((recipe) => {

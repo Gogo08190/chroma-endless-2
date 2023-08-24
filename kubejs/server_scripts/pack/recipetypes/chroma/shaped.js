@@ -154,6 +154,36 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}structure_frame`
       },
+      {
+        output: 'chroma:energy_input_tier_2',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'mekaevolution:supreme_control_circuit',
+              G: 'chroma:void_miner_frame_tier2',
+              C: 'chroma:energy_input_tier_1'
+          },
+          id: `${id_prefix}energy_input_tier_2`
+      },
+      {
+        output: 'chroma:void_item_output_tier_2',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'mekaevolution:supreme_control_circuit',
+              G: 'chroma:void_miner_frame_tier2',
+              C: 'chroma:void_item_output_tier_1'
+          },
+          id: `${id_prefix}void_item_output_tier_2`
+      },
+      {
+        output: 'chroma:void_miner_laser_core_t2',
+          pattern: ['ABA', 'ACA', 'ABA'],
+          key: {
+              A: 'chroma:structure_frame',
+              B: 'powah:capacitor_nitro',
+              C: 'chroma:void_miner_laser_core_t1'
+          },
+          id: `${id_prefix}void_miner_laser_core_t2`
+      },
     ];
 
     recipes.forEach((recipe) => {
