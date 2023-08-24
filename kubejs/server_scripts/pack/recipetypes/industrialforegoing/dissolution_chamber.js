@@ -499,6 +499,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'megacells:cell_component_4m'
         },
+        {
+            inputs: [
+                'fluxnetworks:flux_block',
+                'mekanism:pellet_polonium',
+                'fluxnetworks:flux_block',
+                'fluxnetworks:flux_dust',
+                'fluxnetworks:flux_dust',
+                'fluxnetworks:flux_block',
+                'mekaevolution:supreme_control_circuit',
+                'fluxnetworks:flux_block'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 500,
+            processingTime: 300,
+            outputItem: { item: 'fluxnetworks:flux_controller', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'fluxnetworks:fluxcontroller'
+        },
     ];
 
     recipes.forEach((recipe) => {

@@ -114,6 +114,13 @@ onEvent('recipes', (event) => {
         infusionAmount: 40,
         id: 'mekaevolution:cosmic_control_circuit'
       },
+      {
+        output: 'fluxnetworks:flux_dust',
+        input: 'lazierae2:carbonic_fluix_dust',
+        infusionInput: 'chroma:marsova_ignis',
+        infusionAmount: 10,
+        id: `${id_prefix}flux_dust`
+      },
     ];
 
     recipes.forEach((recipe) => {
