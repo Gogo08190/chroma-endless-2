@@ -1371,4 +1371,49 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('draconicevolution:components/wyvern_core')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAA",
+        "BCDCB",
+        "EFGFE",
+        "BBHBB",
+        "BIBIB"
+      ],
+      "key": {
+        "A": {
+          "item": "solarpanels:light_absorbing_solar_element"
+        },
+        "B": {
+          "item": "graveyard:dark_iron_ingot"
+        },
+        "C": {
+          "item": "draconicevolution:wyvern_energy_core"
+        },
+        "D": {
+          "item": "chroma:thermospiritium"
+        },
+        "E": {
+          "item": "mekanism:ingot_refined_obsidian"
+        },
+        "F": {
+          "item": "powah:capacitor_nitro"
+        },
+        "G": {
+          "item": "solarpanels:singular_solar_panel"
+        },
+        "H": {
+          "item": "solarpanels:light_absorbing_energy_tablet"
+        },
+        "I": {
+          "item": "mekaevolution:cosmic_control_circuit"
+        }
+      },
+      "result": {
+        "item": "solarpanels:light_absorbing_solar_panel"
+      }
+    }
+  ).id('solarpanels:light_absorbing_solar_panel')
 });

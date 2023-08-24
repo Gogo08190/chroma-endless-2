@@ -188,6 +188,23 @@ onEvent('recipes', (event) => {
           result: { item: 'alchemistry:fusion_chamber_controller' },
           id: 'alchemistry:fusion_chamber_controller'
       },
+      {
+          inputs: [
+            { item: 'mekanismgenerators:fusion_reactor_frame' },
+            { item: 'mekanismgenerators:fusion_reactor_frame' },
+            { item: 'mekanismgenerators:fusion_reactor_frame' },
+            { item: 'mekanismgenerators:fusion_reactor_frame' },
+            { item: 'mekanismgenerators:fusion_reactor_frame' },
+            { item: 'mekaevolution:cosmic_control_circuit' },
+            { item: 'mekaevolution:cosmic_control_circuit' },
+            { item: 'mekanism:ultimate_chemical_tank' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'industrialforegoing:machine_frame_supreme' },
+          total_energy: 100000000,
+          result: { item: 'mekanismgenerators:fusion_reactor_controller' },
+          id: 'mekanismgenerators:reactor/controller'
+      },
     ];
 
     recipes.forEach((recipe) => {

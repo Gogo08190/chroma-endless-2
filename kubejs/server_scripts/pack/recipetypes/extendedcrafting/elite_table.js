@@ -687,4 +687,48 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('alchemistry:fusion_core')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDCBA",
+        "BCEFECB",
+        "CEFGFEC",
+        "DFGHGFD",
+        "CEFGFEC",
+        "BCEFECB",
+        "ABCDCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "draconicevolution:wyvern_energy_core"
+        },
+        "B": {
+          "item": "powah:capacitor_nitro"
+        },
+        "C": {
+          "item": "beyond_earth:compressed_calorite"
+        },
+        "D": {
+          "item": "solarpanels:light_absorbing_energy_tablet"
+        },
+        "E": {
+          "item": "mekaevolution:cosmic_control_circuit"
+        },
+        "F": {
+          "item": "chroma:cosmic_alloy"
+        },
+        "G": {
+          "item": "draconicevolution:wyvern_core"
+        },
+        "H": {
+          "item": "mekaevolution:supreme_energy_cube"
+        }
+      },
+      "result": {
+        "item": "mekaevolution:cosmic_energy_cube"
+      }
+    }
+  ).id('mekaevolution:cosmic_energy_cube')
 });

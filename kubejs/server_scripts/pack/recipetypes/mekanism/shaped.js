@@ -946,6 +946,149 @@ onEvent('recipes', (event) => {
             },
             id: 'solarpanels:singular_solar_panel'
         },
+        {
+            output: Item.of('mekanismgenerators:fusion_reactor_frame', 4),
+            pattern: ['APA', 'PFP', 'APA'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                P: '#forge:pellets/polonium',
+                F: 'mekanism:steel_casing'
+            },
+            id: 'mekanismgenerators:reactor/frame'
+        },
+        {
+            output: Item.of('mekanismgenerators:fusion_reactor_port', 2),
+            pattern: [' F ', 'FCF', ' F '],
+            key: {
+                F: 'mekanismgenerators:fusion_reactor_frame',
+                C: 'mekaevolution:cosmic_control_circuit'
+            },
+            id: 'mekanismgenerators:reactor/port'
+        },
+        {
+            output: 'mekanismgenerators:fusion_reactor_logic_adapter',
+            pattern: [' F ', 'FCF', ' F '],
+            key: {
+                C: 'mekanismgenerators:fusion_reactor_frame',
+                F: 'thermal:redstone_servo'
+            },
+            id: 'mekanismgenerators:reactor/logic_adapter'
+        },
+        {
+            output: 'mekanism:laser',
+            pattern: ['AT ', 'AFC', 'AT '],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                T: Item.of('solarpanels:light_absorbing_energy_tablet').weakNBT(),
+                F: 'mekanism:steel_casing',
+                C: 'draconicevolution:draconium_core'
+            },
+            id: 'mekanism:laser'
+        },
+        {
+            output: 'mekanism:laser_amplifier',
+            pattern: ['SSS', 'ETA', 'SSS'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                T: Item.of('solarpanels:light_absorbing_energy_tablet').weakNBT(),
+                S: '#forge:plates/steel',
+                E: 'draconicevolution:wyvern_energy_core'
+            },
+            id: 'mekanism:laser_amplifier'
+        },
+        {
+            output: Item.of('mekanismgenerators:laser_focus_matrix', 2),
+            pattern: [' G ', 'GAG', ' G '],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                G: 'mekanismgenerators:reactor_glass'
+            },
+            id: 'mekanismgenerators:laser_focus_matrix'
+        },
+        {
+            output: 'mekanism:chemical_oxidizer',
+            pattern: ['ACA', 'PFT', 'ACA'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                C: 'mekaevolution:cosmic_control_circuit',
+                P: '#mekanism:personal_storage',
+                F: 'mekanism:dynamic_tank',
+                T: 'mekanism:basic_chemical_tank'
+            },
+            id: 'mekanism:chemical_oxidizer'
+        },
+        {
+            output: 'mekanism:chemical_dissolution_chamber',
+            pattern: ['ATA', 'CFC', 'ATA'],
+            key: {
+                A: '#forge:ingots/refined_obsidian',
+                C: 'mekaevolution:cosmic_control_circuit',
+                F: 'mekanism:steel_casing',
+                T: 'mekanism:basic_chemical_tank'
+            },
+            id: 'mekanism:chemical_dissolution_chamber'
+        },
+        {
+            output: 'mekanism:chemical_dissolution_chamber',
+            pattern: ['CEC', 'AFA', 'CEC'],
+            key: {
+                A: '#forge:ingots/refined_obsidian',
+                C: 'mekaevolution:cosmic_control_circuit',
+                F: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
+                E: 'chroma:enriched_venustar_luminae'
+            },
+            id: 'mekanism:chemical_dissolution_chamber'
+        },
+        {
+            output: 'mekanism:chemical_washer',
+            pattern: ['ABA', 'CFC', 'ATA'],
+            key: {
+                A: '#forge:ingots/refined_obsidian',
+                C: 'mekaevolution:cosmic_control_circuit',
+                F: 'mekanism:steel_casing',
+                T: 'mekanism:basic_chemical_tank',
+                B: 'mekanism:basic_fluid_tank'
+            },
+            id: 'mekanism:chemical_washer'
+        },
+        {
+            output: Item.of('mekaevolution:cosmic_universal_cable', 8),
+            pattern: ['AAA', 'ACA', 'AAA'],
+            key: {
+                A: 'mekaevolution:supreme_universal_cable',
+                C: 'chroma:cosmic_alloy'
+            },
+            id: 'mekaevolution:cosmic_universal_cable'
+        },
+        {
+            output: Item.of('mekaevolution:cosmic_mechanical_pipe', 8),
+            pattern: ['AAA', 'ACA', 'AAA'],
+            key: {
+                A: 'mekaevolution:supreme_mechanical_pipe',
+                C: 'chroma:cosmic_alloy'
+            },
+            id: 'mekaevolution:cosmic_mechanical_pipe'
+        },
+        {
+            output: Item.of('mekaevolution:cosmic_logistical_transporter', 8),
+            pattern: ['AAA', 'ACA', 'AAA'],
+            key: {
+                A: 'mekaevolution:supreme_logistical_transporter',
+                C: 'chroma:cosmic_alloy'
+            },
+            id: 'mekaevolution:cosmic_logistical_transporter'
+        },
+        {
+            output: 'solarpanels:light_absorbing_solar_element',
+            pattern: ['AAA', 'BBB', 'SCS'],
+            key: {
+                A: '#forge:glass_panes/red',
+                B: 'chroma:venustar_luminae',
+                S: 'mekanism:hdpe_sheet',
+                C: 'draconicevolution:draconium_core'
+            },
+            id: 'solarpanels:light_absorbing_solar_element'
+        },
     ];
 
     recipes.forEach((recipe) => {
