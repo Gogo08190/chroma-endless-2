@@ -1032,8 +1032,8 @@ onEvent('recipes', (event) => {
             output: 'mekanism:chemical_dissolution_chamber',
             pattern: ['CEC', 'AFA', 'CEC'],
             key: {
-                A: '#forge:ingots/refined_obsidian',
-                C: 'mekaevolution:cosmic_control_circuit',
+                C: '#forge:ingots/refined_obsidian',
+                A: 'mekaevolution:cosmic_control_circuit',
                 F: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
                 E: 'chroma:enriched_venustar_luminae'
             },
