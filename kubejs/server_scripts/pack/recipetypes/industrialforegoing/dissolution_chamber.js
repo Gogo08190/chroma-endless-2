@@ -540,7 +540,7 @@ onEvent('recipes', (event) => {
         {
             inputs: [
                 'industrialforegoing:plastic',
-                'industrialforegoing:machine_frame_advanced',
+                'industrialforegoing:machine_frame_supreme',
                 'industrialforegoing:plastic',
                 'mekanism:pellet_polonium',
                 'mekanism:pellet_polonium',
