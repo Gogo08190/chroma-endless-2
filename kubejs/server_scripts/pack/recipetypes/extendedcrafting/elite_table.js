@@ -626,7 +626,7 @@ onEvent("recipes", (event) => {
           "item": "fluxnetworks:flux_block"
         },
         "F": {
-          "item": "chroma:mercurial_flarelight"
+          "item": "chroma:venustar_luminae"
         },
         "G": {
           "item": "powah:dielectric_rod"
