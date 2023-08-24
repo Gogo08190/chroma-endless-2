@@ -168,7 +168,7 @@ onEvent('recipes', (event) => {
         output: 'chroma:void_item_output_tier_2',
           pattern: ['FGF', 'GCG', 'FGF'],
           key: {
-              F: 'mekaevolution:supreme_control_circuit',
+              F: 'chroma:supreme_alloy',
               G: 'chroma:void_miner_frame_tier2',
               C: 'chroma:void_item_output_tier_1'
           },
