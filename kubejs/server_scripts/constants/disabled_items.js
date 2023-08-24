@@ -68,5 +68,7 @@ const disabledItems = [
   'mysticalagriculture:tertium_furnace',
   'mysticalagriculture:imperium_furnace',
   'mysticalagriculture:supremium_furnace',
-  'mysticaladaptations:insanium_furnace'
+  'mysticaladaptations:insanium_furnace',
+
+  'wstweaks:lava_blade'
 ];
