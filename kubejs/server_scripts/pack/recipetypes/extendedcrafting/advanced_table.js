@@ -1335,4 +1335,40 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}nebula_extractor_tier_3`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "draconicevolution:draconium_ingot"
+        },
+        "B": {
+          "item": "draconicevolution:draconium_core"
+        },
+        "C": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:ender_dragon\"}}"
+        },
+        "D": {
+          "item": "powah:crystal_nitro"
+        },
+        "E": {
+          "item": "minecraft:nether_star"
+        }
+      },
+      "result": {
+        "item": "draconicevolution:wyvern_core"
+      }
+    }
+  ).id('draconicevolution:components/wyvern_core')
 });

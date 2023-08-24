@@ -31,6 +31,142 @@ onEvent('recipes', (event) => {
           result: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:ethereal"}'),
           id: `${id_prefix}ethereal_jetpack`
       },
+      {
+          inputs: [
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:draconium_block' },
+            { item: 'mekanism:pellet_polonium' },
+            { item: 'mekanism:pellet_polonium' },
+            { item: 'mekanism:pellet_polonium' },
+            { item: 'mekanism:pellet_polonium' }
+          ],
+          tier: "DRACONIUM",
+          catalyst: { item: 'draconicevolution:basic_crafting_injector' },
+          total_energy: 32000,
+          result: { item: 'draconicevolution:wyvern_crafting_injector' },
+          id: 'draconicevolution:wyvern_crafting_injector'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'forbidden_arcanus:draco_arcanus_chestplate' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_chestpiece' },
+          id: 'draconicevolution:tools/wyvern_chestpiece'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'upgradednetherite:corrupt_upgraded_netherite_bow' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_bow' },
+          id: 'draconicevolution:tools/wyvern_bow'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'upgradednetherite:corrupt_upgraded_netherite_bow' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_bow' },
+          id: 'draconicevolution:tools/wyvern_bow'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'upgradednetherite:corrupt_upgraded_netherite_sword' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_sword' },
+          id: 'draconicevolution:tools/wyvern_sword'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'upgradednetherite:corrupt_upgraded_netherite_pickaxe' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_pickaxe' },
+          id: 'draconicevolution:tools/wyvern_pickaxe'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'upgradednetherite:corrupt_upgraded_netherite_axe' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_axe' },
+          id: 'draconicevolution:tools/wyvern_axe'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'upgradednetherite:corrupt_upgraded_netherite_shovel' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_shovel' },
+          id: 'draconicevolution:tools/wyvern_shovel'
+      },
     ];
 
     recipes.forEach((recipe) => {

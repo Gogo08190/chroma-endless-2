@@ -596,4 +596,51 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('powah:crafting/reactor_nitro')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCCCBA",
+        "BDEFEDB",
+        "GEHHHEG",
+        "GFHIHFG",
+        "GEHHHEG",
+        "BDEFEDB",
+        "ABCCCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "draconicevolution:draconium_core"
+        },
+        "B": {
+          "item": "powah:crystal_niotic"
+        },
+        "C": {
+          "item": "powah:dielectric_rod_horizontal"
+        },
+        "D": {
+          "item": "chroma:thermospiritium"
+        },
+        "E": {
+          "item": "fluxnetworks:flux_block"
+        },
+        "F": {
+          "item": "chroma:mercurial_flarelight"
+        },
+        "G": {
+          "item": "powah:dielectric_rod"
+        },
+        "H": {
+          "item": "botania:elf_glass"
+        },
+        "I": {
+          "item": "industrialforegoing:machine_frame_supreme"
+        }
+      },
+      "result": {
+        "item": "draconicevolution:crafting_core"
+      }
+    }
+  ).id('draconicevolution:crafting_core')
 });

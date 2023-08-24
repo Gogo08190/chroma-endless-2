@@ -88,6 +88,27 @@ onEvent('recipes', (event) => {
           result: Item.of('ironjetpacks:jetpack', '{Id:"ironjetpacks:calorite",Throttle:1.0d}'),
           id: `${id_prefix}niotic_jetpack`
       },
+      {
+          inputs: [
+              { item: 'draconicevolution:draconium_ingot' },
+              { item: 'draconicevolution:draconium_ingot' },
+              { item: 'draconicevolution:draconium_ingot' },
+              { item: 'powah:crystal_nitro' },
+              { item: 'chroma:thermospiritium' },
+              { item: 'minecraft:iron_block' },
+              { item: 'minecraft:iron_block' },
+              { item: 'minecraft:iron_block' },
+              { item: 'minecraft:iron_block' },
+              { item: 'minecraft:iron_block' },
+              { item: 'chroma:thermospiritium' },
+              { item: 'powah:crystal_nitro' }
+          ],
+          catalyst: { item: 'draconicevolution:draconium_core' },
+          powerCost: 100000,
+          powerRate: 1000,
+          result: { item: 'draconicevolution:basic_crafting_injector' },
+          id: 'draconicevolution:basic_crafting_injector'
+      },
     ];
 
     recipes.forEach((recipe) => {
