@@ -41,6 +41,11 @@ onEvent('recipes', (event) => {
         output: 'chroma:enriched_venustar_luminae',
         id: `${id_prefix}enriched_venustar_luminae`
       },
+      {
+        input: 'minecraft:obsidian',
+        output: '4x create:powdered_obsidian',
+        id: `${id_prefix}powdered_obsidian`
+      },
     ];
     recipes.forEach((recipe) => {
         event.recipes.mekanism.enriching(recipe.output, recipe.input).id(recipe.id);
