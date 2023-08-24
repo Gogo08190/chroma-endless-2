@@ -773,7 +773,7 @@ onEvent('recipes', (event) => {
                 D: 'powah:dielectric_paste',
                 C: 'powah:capacitor_nitro',
                 A: 'mekaevolution:supreme_control_circuit',
-                S: 'powah:crystal_spirited',
+                S: 'powah:crystal_nitro',
                 B: Item.of('powah:battery_spirited').weakNBT()
             },
             id: 'powah:crafting/battery_nitro'
@@ -784,7 +784,7 @@ onEvent('recipes', (event) => {
             key: {
                 E: Item.of('powah:energy_cell_spirited').ignoreNBT(),
                 P: 'fluxnetworks:flux_core',
-                B: 'powah:capacitor_spirited',
+                B: 'powah:capacitor_nitro',
                 C: 'mekaevolution:supreme_control_circuit'
             },
             id: 'powah:crafting/energy_cell_nitro'
@@ -885,7 +885,7 @@ onEvent('recipes', (event) => {
             output: 'powah:energy_hopper_nitro',
             pattern: ['DBD', 'CHC', 'DVD'],
             key: {
-                H: Item.of('powah:energy_hopper_niotic').ignoreNBT(),
+                H: Item.of('powah:energy_hopper_spirited').ignoreNBT(),
                 V: 'immersiveengineering:coil_hv',
                 D: 'powah:dielectric_rod',
                 C: 'powah:capacitor_nitro',
