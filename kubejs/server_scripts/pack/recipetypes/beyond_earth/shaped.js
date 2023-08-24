@@ -247,6 +247,50 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}desh_rocket_nose_cone`
         },
+        {
+            output: 'chroma:ostrum_rocket_fin',
+            pattern: ['CTC', 'FTF', 'CTC'],
+            key: {
+                C: '#beyond_earth:compresseds/ostrum',
+                T: '#beyond_earth:compresseds/titanium',
+                F: 'chroma:carbon_fiber'
+            },
+            id: `${id_prefix}ostrum_rocket_fin`
+        },
+        {
+            output: 'chroma:ostrum_rocket_nose_cone',
+            pattern: [' S ', ' C ', 'CFC'],
+            key: {
+                C: '#beyond_earth:compresseds/ostrum',
+                S: 'powah:crystal_nitro',
+                F: 'chroma:carbon_fiber'
+            },
+            id: `${id_prefix}ostrum_rocket_nose_cone`
+        },
+        {
+            output: 'beyond_earth:ostrum_tank',
+            pattern: ['CTC', 'TBT', 'CTC'],
+            key: {
+                C: '#beyond_earth:compresseds/ostrum',
+                T: '#beyond_earth:compresseds/titanium',
+                B: 'industrialforegoing:advanced_black_hole_unit'
+            },
+            id: 'beyond_earth:diamond_tank'
+        },
+        {
+            output: 'beyond_earth:ostrum_engine',
+            pattern: ['CAC', 'FTE', 'BPF'],
+            key: {
+                C: '#beyond_earth:compresseds/ostrum',
+                A: 'chroma:supreme_alloy',
+                F: 'chroma:carbon_fiber',
+                T: 'mekanism:elite_chemical_tank',
+                E: 'beyond_earth:engine_frame',
+                B: '#beyond_earth:compresseds/titanium',
+                P: 'beyond_earth:engine_fan'
+            },
+            id: 'beyond_earth:diamond_engine'
+        },
     ];
 
     recipes.forEach((recipe) => {
