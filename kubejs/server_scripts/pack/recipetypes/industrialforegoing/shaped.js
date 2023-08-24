@@ -636,6 +636,41 @@ onEvent('recipes', (event) => {
           },
           id: 'industrialforegoing:mycelial_crimed'
       },
+      {
+        output: 'industrialforegoing:mycelial_meatallurgic',
+          pattern: ['III', 'IFI', 'CTC'],
+          key: {
+              I: '#forge:ingots',
+              F: '#industrialforegoing:machine_frame/supreme',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:singular_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_meatallurgic'
+      },
+      {
+        output: 'industrialforegoing:mycelial_halitosis',
+          pattern: ['PRP', 'PFP', 'CTC'],
+          key: {
+              P: 'minecraft:purpur_block',
+              R: 'minecraft:end_rod',
+              F: '#industrialforegoing:machine_frame/supreme',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:singular_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_halitosis'
+      },
+      {
+        output: 'industrialforegoing:mycelial_netherstar',
+          pattern: ['PRP', 'PFP', 'CTC'],
+          key: {
+              P: 'minecraft:wither_skeleton_skull',
+              R: 'minecraft:nether_star',
+              F: '#industrialforegoing:machine_frame/supreme',
+              C: 'chroma:netherite_flux_coil',
+              T: Item.of('solarpanels:singular_energy_tablet').ignoreNBT()
+          },
+          id: 'industrialforegoing:mycelial_netherstar'
+      },
     ];
 
     recipes.forEach((recipe) => {

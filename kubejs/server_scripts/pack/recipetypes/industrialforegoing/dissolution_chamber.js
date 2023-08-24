@@ -518,6 +518,44 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'fluxnetworks:fluxcontroller'
         },
+        {
+            inputs: [
+                'industrialforegoing:plastic',
+                'industrialforegoing:machine_frame_advanced',
+                'industrialforegoing:plastic',
+                'mekaevolution:supreme_control_circuit',
+                'mekaevolution:supreme_control_circuit',
+                'fluxnetworks:flux_core',
+                'mekanism:pellet_plutonium',
+                'fluxnetworks:flux_core'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 135,
+            processingTime: 300,
+            outputItem: { item: 'industrialforegoing:machine_frame_supreme', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'industrialforegoing:dissolution_chamber/supreme_machine_frame'
+        },
+        {
+            inputs: [
+                'industrialforegoing:plastic',
+                'industrialforegoing:machine_frame_advanced',
+                'industrialforegoing:plastic',
+                'mekanism:pellet_polonium',
+                'mekanism:pellet_polonium',
+                'fluxnetworks:flux_core',
+                'solarpanels:singular_energy_tablet',
+                'fluxnetworks:flux_core'
+            ],
+            inputFluid: 'industrialforegoing:ether_gas',
+            inputFluidAmount: 500,
+            processingTime: 300,
+            outputItem: { item: 'industrialforegoing:mycelial_reactor', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'industrialforegoing:dissolution_chamber/mycelial_reactor'
+        },
     ];
 
     recipes.forEach((recipe) => {
