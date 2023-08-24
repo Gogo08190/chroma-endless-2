@@ -627,13 +627,27 @@ onEvent('recipes', (event) => {
                 {
                     whitelist: netherBiomes,
                     blacklist: {},
-                    depth_min: 1,
-                    depth_max: 20,
+                    depth_min: 50,
+                    depth_max: 200,
                     weight: 1
                 }
             ],
             catalyst: { item: industrialforegoing.laser_lens.brown },
             id: `${id_prefix}ancient_debris`
+        },
+        {
+            output: { item: 'mysticalagriculture:soulium_ore' },
+            rarity: [
+                {
+                    whitelist: netherBiomes,
+                    blacklist: {},
+                    depth_min: 1,
+                    depth_max: 20,
+                    weight: 12
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.brown },
+            id: `${id_prefix}soulium_ore`
         },
         {
             output: { item: 'undergarden:depthrock_cloggrum_ore' },
