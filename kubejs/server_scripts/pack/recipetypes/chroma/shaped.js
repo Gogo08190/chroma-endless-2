@@ -184,6 +184,48 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}void_miner_laser_core_t2`
       },
+      {
+        output: 'chroma:nebula_extractor_t3_frame',
+          pattern: ['FUF', 'FCF', 'FUF'],
+          key: {
+              F: 'mekanism:hdpe_sheet',
+              C: 'mekaevolution:supreme_control_circuit',
+              U: '#forge:ingots/calorite'
+          },
+          id: `${id_prefix}nebula_extractor_t3_frame`
+      },
+      {
+        output: 'chroma:nebula_extractor_t3_laser_support',
+          pattern: ['AAA', 'UFU', 'FCF'],
+          key: {
+              F: 'mekanism:hdpe_sheet',
+              C: 'mekaevolution:supreme_control_circuit',
+              U: '#forge:ingots/calorite',
+              A: '#beyond_earth:compresseds/graphite'
+          },
+          id: `${id_prefix}nebula_extractor_t3_laser_support`
+      },
+      {
+        output: 'chroma:nebula_extractor_t3_laser_top',
+          pattern: ['AE ', 'AFU', 'AE '],
+          key: {
+              A: 'chroma:supreme_alloy',
+              E: Item.of('solarpanels:singular_energy_tablet').ignoreNBT(),
+              F: '#industrialforegoing:machine_frame/supreme',
+              U: '#forge:ingots/calorite'
+          },
+          id: `${id_prefix}nebula_extractor_t3_laser_top`
+      },
+      {
+        output: 'chroma:nebula_drill_t3',
+          pattern: ['FFF', 'UCU', ' U '],
+          key: {
+              F: 'chroma:nebula_frame',
+              C: 'create:mechanical_drill',
+              U: '#forge:ingots/calorite'
+          },
+          id: `${id_prefix}nebula_drill_t3`
+      },
     ];
 
     recipes.forEach((recipe) => {

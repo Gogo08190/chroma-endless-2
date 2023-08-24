@@ -1293,4 +1293,46 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('megacells:crafting/mega_crafting_unit')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHGF",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "B": {
+          "item": "chroma:nebula_frame"
+        },
+        "C": {
+          "item": "fluxnetworks:flux_block"
+        },
+        "D": {
+          "item": "mekaevolution:supreme_control_circuit"
+        },
+        "E": {
+          "item": "chroma:thermospiritium"
+        },
+        "F": {
+          "item": "powah:energy_cell_nitro"
+        },
+        "G": {
+          "item": "lazierae2:logic_unit"
+        },
+        "H": {
+          "item": "industrialforegoing:machine_frame_supreme"
+        }
+      },
+      "result": {
+        "item": "chroma:nebula_extractor_tier_3"
+      }
+    }
+  ).id(`${id_prefix}nebula_extractor_tier_3`)
 });
