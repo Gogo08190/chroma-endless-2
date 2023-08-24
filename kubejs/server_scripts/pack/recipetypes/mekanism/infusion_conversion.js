@@ -67,14 +67,14 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}niotic_from_enriched`
       },
       {
-        input: { ingredient: { item: 'chroma:mercurial_flarelight' } },
-        output: { amount: 10, infuse_type: 'chroma:mercurial_flarelight' },
-        id: `${id_prefix}mercurial_flarelight`
+        input: { ingredient: { item: 'chroma:venustar_luminae' } },
+        output: { amount: 10, infuse_type: 'chroma:venustar_luminae' },
+        id: `${id_prefix}venustar_luminae`
       },
       {
-        input: { ingredient: { item: 'chroma:enriched_mercurial_flarelight' } },
-        output: { amount: 80, infuse_type: 'chroma:mercurial_flarelight' },
-        id: `${id_prefix}mercurial_flarelight_from_enriched`
+        input: { ingredient: { item: 'chroma:enriched_venustar_luminae' } },
+        output: { amount: 80, infuse_type: 'chroma:venustar_luminae' },
+        id: `${id_prefix}venustar_luminae_from_enriched`
       },
     ]
 

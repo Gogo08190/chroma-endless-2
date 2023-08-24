@@ -4,7 +4,7 @@
   "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
   "recipes": [
     {
-      "uid": "mercurial",
+      "uid": "venustar",
       "duration": 200,
       "outputs": {
         "item": [
@@ -13,7 +13,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "chroma:mercurial_flarelight"
+                "item": "chroma:venustar_luminae"
               }
             },
             "chance": 0.6
@@ -23,7 +23,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "beyond_earth:mercury_stone"
+                "item": "beyond_earth:venus_stone"
               }
             },
             "chance": 0.1
@@ -42,7 +42,7 @@
         {
           "type": "biome",
           "condition": {
-            "biome": "beyond_earth:mercury"
+            "biome": "beyond_earth:venus"
           }
         }
       ]

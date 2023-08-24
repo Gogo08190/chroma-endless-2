@@ -74,8 +74,8 @@ onEvent('item.registry', (event) => {
       'thermospiritium',
       'ostrum_rocket_nose_cone',
       'ostrum_rocket_fin',
-      'mercurial_flarelight',
-      'enriched_mercurial_flarelight'
+      'venustar_luminae',
+      'enriched_venustar_luminae'
     ];
 
     items.forEach((item) => {

@@ -37,9 +37,9 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}enriched_marsova_ignis`
       },
       {
-        input: 'chroma:mercurial_flarelight',
-        output: 'chroma:enriched_mercurial_flarelight',
-        id: `${id_prefix}enriched_mercurial_flarelight`
+        input: 'chroma:venustar_luminae',
+        output: 'chroma:enriched_venustar_luminae',
+        id: `${id_prefix}enriched_venustar_luminae`
       },
     ];
     recipes.forEach((recipe) => {

@@ -103,14 +103,14 @@ onEvent('recipes', (event) => {
       {
         output: 'chroma:cosmic_alloy',
         input: 'chroma:supreme_alloy',
-        infusionInput: 'chroma:mercurial_flarelight',
+        infusionInput: 'chroma:venustar_luminae',
         infusionAmount: 40,
         id: `${id_prefix}cosmic_alloy`
       },
       {
         output: 'mekaevolution:cosmic_control_circuit',
         input: 'mekaevolution:supreme_control_circuit',
-        infusionInput: 'chroma:mercurial_flarelight',
+        infusionInput: 'chroma:venustar_luminae',
         infusionAmount: 40,
         id: 'mekaevolution:cosmic_control_circuit'
       },
