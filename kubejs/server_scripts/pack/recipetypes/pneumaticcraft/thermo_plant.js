@@ -25,7 +25,15 @@ onEvent('recipes', (event) => {
         pressure: 2.0,
         speed: 0.8,
         id: 'rftoolspower:power_core1'
-    },
+      },
+      {
+        fluid_input: { type: 'pneumaticcraft:fluid', fluid: 'thermal:redstone', amount: 100 },
+        item_input: { item: 'extendedcrafting:redstone_ingot', count: 1 },
+        item_output: { item: 'chroma:blank_upgrade', count: 1 },
+        pressure: 2.0,
+        speed: 0.8,
+        id: `${id_prefix}blank_upgrade`
+      },
     ];
 
     recipes.forEach((recipe) => {

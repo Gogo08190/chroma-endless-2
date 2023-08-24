@@ -19,8 +19,13 @@ onEvent('recipes', (event) => {
       },
       {
           output: 'chroma:resin_plate',
-          inputs: ['chroma:raw_resin'],
+          inputs: ['chroma:raw_resin', 'mob_grinding_utils:solid_xp_mould_blank'],
           id: `${id_prefix}resin_plate`
+      },
+      {
+          output: 'mob_grinding_utils:solid_xp_mould_baby',
+          inputs: ['create_confectionery:gingerbread_man'],
+          id: 'mob_grinding_utils:recipe_mould_baby_upgrade'
       },
     ];
 

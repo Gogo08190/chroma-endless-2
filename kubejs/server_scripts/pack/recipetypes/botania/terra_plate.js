@@ -30,61 +30,73 @@ onEvent('recipes', (event) => {
         output: { item: 'botania:natura_pylon' },
         mana: 50000,
         id: 'botania:natura_pylon'
-    },
-    {
-        inputs: [
-            { item: 'botania:life_essence' },
-            { item: 'botania:life_essence' },
-            { item: 'botania:life_essence' },
-            { item: 'chroma:gaia_spreader_core' },
-            { item: 'botania:elven_spreader' }
-        ],
-        output: { item: 'botania:gaia_spreader' },
-        mana: 25000,
-        id: 'botania:gaia_spreader'
-    },
-    {
-        inputs: [
-            { item: 'botania:life_essence' },
-            { item: 'botania:life_essence' },
-            { item: 'botania:life_essence' },
-            { item: 'botania:life_essence' },
-            { item: 'botania:terrasteel_ingot' }
-        ],
-        output: { item: 'botania:gaia_ingot' },
-        mana: 25000,
-        id: 'botania:gaia_ingot'
-    },
-    {
-        inputs: [
-            { item: 'rftoolsbase:infused_enderpearl' },
-            { item: 'rftoolsbase:infused_enderpearl' },
-            { item: 'rftoolsbase:infused_diamond' },
-            { item: 'rftoolsbase:infused_diamond' },
-            { item: 'mekanism:alloy_reinforced' },
-            { item: 'mekanism:alloy_reinforced' },
-            { item: 'rftoolsbase:machine_frame' }
-        ],
-        output: { item: 'rftoolsbase:machine_infuser' },
-        mana: 25000,
-        id: 'rftoolsbase:machine_infuser'
-    },
-    {
-        inputs: [
-            { item: 'mythicbotany:muspelheim_rune' },
-            { item: 'mythicbotany:muspelheim_rune' },
-            { item: 'mythicbotany:muspelheim_rune' },
-            { item: 'mythicbotany:muspelheim_rune' },
-            { item: 'megacells:cell_component_4m' },
-            { item: 'megacells:cell_component_4m' },
-            { item: 'megacells:cell_component_4m' },
-            { item: 'lazierae2:parallel_processor' }
-        ],
-        output: { item: 'megacells:cell_component_16m' },
-        mana: 2500,
-        id: 'megacells:cell_component_16m'
-    },
-
+      },
+      {
+          inputs: [
+              { item: 'botania:life_essence' },
+              { item: 'botania:life_essence' },
+              { item: 'botania:life_essence' },
+              { item: 'chroma:gaia_spreader_core' },
+              { item: 'botania:elven_spreader' }
+          ],
+          output: { item: 'botania:gaia_spreader' },
+          mana: 25000,
+          id: 'botania:gaia_spreader'
+      },
+      {
+          inputs: [
+              { item: 'botania:life_essence' },
+              { item: 'botania:life_essence' },
+              { item: 'botania:life_essence' },
+              { item: 'botania:life_essence' },
+              { item: 'botania:terrasteel_ingot' }
+          ],
+          output: { item: 'botania:gaia_ingot' },
+          mana: 25000,
+          id: 'botania:gaia_ingot'
+      },
+      {
+          inputs: [
+              { item: 'rftoolsbase:infused_enderpearl' },
+              { item: 'rftoolsbase:infused_enderpearl' },
+              { item: 'rftoolsbase:infused_diamond' },
+              { item: 'rftoolsbase:infused_diamond' },
+              { item: 'mekanism:alloy_reinforced' },
+              { item: 'mekanism:alloy_reinforced' },
+              { item: 'rftoolsbase:machine_frame' }
+          ],
+          output: { item: 'rftoolsbase:machine_infuser' },
+          mana: 25000,
+          id: 'rftoolsbase:machine_infuser'
+      },
+      {
+          inputs: [
+              { item: 'mythicbotany:muspelheim_rune' },
+              { item: 'mythicbotany:muspelheim_rune' },
+              { item: 'mythicbotany:muspelheim_rune' },
+              { item: 'mythicbotany:muspelheim_rune' },
+              { item: 'megacells:cell_component_4m' },
+              { item: 'megacells:cell_component_4m' },
+              { item: 'megacells:cell_component_4m' },
+              { item: 'lazierae2:parallel_processor' }
+          ],
+          output: { item: 'megacells:cell_component_16m' },
+          mana: 2500,
+          id: 'megacells:cell_component_16m'
+      },
+      {
+          inputs: [
+              { item: 'botania:life_essence' },
+              { item: 'mob_grinding_utils:nutritious_chicken_feed' },
+              { item: 'mna:animus_dust' },
+              { item: 'mna:animus_dust' },
+              { item: 'mna:animus_dust' },
+              { item: 'mna:animus_dust' }
+          ],
+          output: { item: 'mob_grinding_utils:gm_chicken_feed_cursed' },
+          mana: 5000,
+          id: 'mob_grinding_utils:recipe_cursed_feed'
+      },
     ];
 
     recipes.forEach((recipe) => {

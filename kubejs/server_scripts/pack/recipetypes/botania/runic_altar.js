@@ -13,6 +13,22 @@ onEvent('recipes', (event) => {
         output: Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:calorite"}'),
         id: `${id_prefix}calorite_cell`
       },
+      {
+        inputs: [
+          'blue_skies:pink_brewberry',
+          'blue_skies:crescent_fruit',
+          'blue_skies:black_brewberry',
+          'blue_skies:brewberry',
+          'botania:rune_lust',
+          'mob_grinding_utils:fluid_xp_bucket',
+          'mob_grinding_utils:fluid_xp_bucket',
+          'mob_grinding_utils:fluid_xp_bucket',
+          'mob_grinding_utils:fluid_xp_bucket'
+        ],
+        mana: 20000,
+        output: 'mob_grinding_utils:nutritious_chicken_feed',
+        id: 'mob_grinding_utils:recipe_nutritious_feed'
+      },
     ];
 
     recipes.forEach((recipe) => {
