@@ -7,7 +7,7 @@
   ],
   "key": {
     "X": {
-      "tag": "'forge:plates/brass'"
+      "tag": "forge:plates/brass"
     },
     "B": {
       "type": "mob_grinding_utils:fluid",

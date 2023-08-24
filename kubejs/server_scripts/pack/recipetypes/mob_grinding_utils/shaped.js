@@ -138,7 +138,7 @@ onEvent('recipes', (event) => {
             id: 'mob_grinding_utils:recipe_saw_upgrade_smite'
         },
         {
-            output: 'mob_grinding_utils:saw_upgrade_smite',
+            output: 'mob_grinding_utils:saw_upgrade_sharpness',
             pattern: ['FPF', 'QBR', 'FSF'],
             key: {
                 P: Item.of('blue_skies:pyrope_sword', '{Damage:0}').weakNBT(),
@@ -148,7 +148,7 @@ onEvent('recipes', (event) => {
                 F: '#forge:nuggets/arcane_gold',
                 B: 'chroma:blank_upgrade'
             },
-            id: 'mob_grinding_utils:recipe_saw_upgrade_smite'
+            id: 'mob_grinding_utils:recipe_saw_upgrade_sharpness'
         },
       ];
 
