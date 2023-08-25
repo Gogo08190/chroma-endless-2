@@ -1029,15 +1029,15 @@ onEvent('recipes', (event) => {
             id: 'mekanism:chemical_dissolution_chamber'
         },
         {
-            output: 'mekanism:chemical_dissolution_chamber',
+            output: 'solarpanels:light_absorbing_energy_tablet',
             pattern: ['CEC', 'AFA', 'CEC'],
             key: {
-                C: '#forge:ingots/refined_obsidian',
-                A: 'mekaevolution:cosmic_control_circuit',
+                A: 'chroma:cosmic_alloy',
+                C: 'mekaevolution:cosmic_control_circuit',
                 F: Item.of('solarpanels:singular_energy_tablet').weakNBT(),
                 E: 'chroma:enriched_venustar_luminae'
             },
-            id: 'mekanism:chemical_dissolution_chamber'
+            id: 'solarpanels:light_absorbing_energy_tablet'
         },
         {
             output: 'mekanism:chemical_washer',
