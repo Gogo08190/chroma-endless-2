@@ -76,9 +76,9 @@ onEvent('item.registry', (event) => {
       'ostrum_rocket_fin',
       'venustar_luminae',
       'enriched_venustar_luminae',
-      'shard_crystaltine',
-      'crystal_crystaltine',
-      'clump_crystaltine'
+      'crystaltine_shard',
+      'crystaltine_crystal',
+      'crystaltine_clump'
     ];
 
     items.forEach((item) => {
