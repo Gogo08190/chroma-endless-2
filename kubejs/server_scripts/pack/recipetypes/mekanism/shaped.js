@@ -1009,8 +1009,8 @@ onEvent('recipes', (event) => {
             output: 'mekanism:chemical_oxidizer',
             pattern: ['ACA', 'PFT', 'ACA'],
             key: {
-                A: 'chroma:cosmic_alloy',
-                C: 'mekaevolution:cosmic_control_circuit',
+                A: 'chroma:supreme_alloy',
+                C: 'mekaevolution:supreme_control_circuit',
                 P: '#mekanism:personal_storage',
                 F: 'mekanism:dynamic_tank',
                 T: 'mekanism:basic_chemical_tank'
