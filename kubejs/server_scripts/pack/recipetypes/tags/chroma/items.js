@@ -15,13 +15,13 @@ const TAGS_ITEMS = [
     ["forge:rods/manasteel", "chroma:manasteel_rod"],
     ["forge:rods/netherite", "chroma:netherite_rod"],
 
-    ["forge:ores/crystaltine_ore", "chroma:glacio_crystaltine_ore"],
-    ["mekanism:crystals", "chroma:crystal_crystaltine"],
-    ["mekanism:crystals/crystaltine", "chroma:crystal_crystaltine"],
-    ["mekanism:shards", "chroma:shard_crystaltine"],
-    ["mekanism:shards/crystaltine", "chroma:shard_crystaltine"],
-    ["mekanism:clumps", "chroma:clump_crystaltine"],
-    ["mekanism:clumps/crystaltine", "chroma:clump_crystaltine"],
+    ["forge:ores/crystaltine", "chroma:glacio_crystaltine_ore"],
+    ["mekanism:crystals", "chroma:crystaltine_crystal"],
+    ["mekanism:crystals/crystaltine", "chroma:crystaltine_crystal"],
+    ["mekanism:shards", "chroma:crystaltine_shard"],
+    ["mekanism:shards/crystaltine", "chroma:crystaltine_shard"],
+    ["mekanism:clumps", "chroma:crystaltine_clump"],
+    ["mekanism:clumps/crystaltine", "chroma:crystaltine_clump"],
 ]
 
 onEvent('item.tags', (event) => {

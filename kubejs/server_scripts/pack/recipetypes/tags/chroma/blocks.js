@@ -4,5 +4,5 @@ onEvent('block.tags', (event) => {
     event.add('minecraft:beacon_base_blocks', 'chroma:void_miner_frame_tier1');
     event.add('minecraft:beacon_base_blocks', 'chroma:void_miner_frame_tier2');
     event.add('minecraft:beacon_base_blocks', 'chroma:void_miner_frame_tier3');
-    event.add('forge:ores/crystaltine_ore', 'chroma:glacio_crystaltine_ore');
+    event.add('forge:ores/crystaltine', 'chroma:glacio_crystaltine_ore');
 });
