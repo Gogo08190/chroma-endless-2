@@ -363,6 +363,22 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}thermospiritium`
         },
+        {
+            ingredients: [
+                { item: 'chroma:crystaltine_clump' },
+                { item: 'chroma:crystaltine_clump' },
+                { item: 'chroma:crystaltine_clump' },
+                { item: 'chroma:crystaltine_clump' },
+                { item: 'chroma:crystaltine_clump' },
+                { item: 'chroma:crystaltine_clump' }
+            ],
+            energy: 6000000,
+            result: {
+                item: 'extendedcrafting:crystaltine_ingot',
+                count: 1
+            },
+            id: 'extendedcrafting:crystaltine_ingot'
+        },
     ];
 
     recipes.forEach((recipe) => {
