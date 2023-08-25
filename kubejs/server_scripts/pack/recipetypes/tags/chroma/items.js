@@ -14,6 +14,8 @@ const TAGS_ITEMS = [
     ["forge:rods/electrum", "chroma:electrum_rod"],
     ["forge:rods/manasteel", "chroma:manasteel_rod"],
     ["forge:rods/netherite", "chroma:netherite_rod"],
+
+    ["forge:ores/crystaltine_ore", "chroma:glacio_crystaltine_ore"],
 ]
 
 onEvent('item.tags', (event) => {

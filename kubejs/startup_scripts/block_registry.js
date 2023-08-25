@@ -8,6 +8,7 @@ onEvent('block.registry', (event) => {
       {name: 'raw_cuperargentite_block', displayName: 'Block of Raw Cuperargentite', material: 'stone', hardness: '0.4'},
       {name: 'raw_feranicalumite_block', displayName: 'Block of Raw Feranicalumite', material: 'stone', hardness: '0.4'},
       {name: 'raw_leadurosmate_block', displayName: 'Block of Raw Leadurosmate', material: 'stone', hardness: '0.4'},
+      {name: 'glacio_crystaltine_ore', displayName: 'Glacio Crystaltine Ore', material: 'stone', hardness: '0.6'},
     ];
 
     const parts = [
