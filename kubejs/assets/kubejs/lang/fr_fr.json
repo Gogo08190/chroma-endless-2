@@ -66,6 +66,8 @@
 
   "Stage 1":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+  "chapter.stage.1.title": "Étape 1",
+
   "chapter.stage.1.quest.1.title.1": "Bois",
   "chapter.stage.1.quest.1.subtitle.1": "Un début classique",
   "chapter.stage.1.quest.1.description.1" : "Qu'est-ce que serait Minecraft sans recolter du bois ? Allez hop on y va !",
@@ -271,6 +273,8 @@
   "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des recettes artisanales uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
 
   "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.2.title": "Étape 2",
 
   "chapter.stage.2.quest.1.subtitle.1": "Le Marteau de l'ingénieur",
   "chapter.stage.2.quest.1.description.1": "&9Le Marteau de l'ingénieur&r sera utile pour construire tous vos &cMultiblocs Immersifs&r.",
@@ -604,6 +608,8 @@
 
   "Stage 3":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+  "chapter.stage.3.title": "Étape 3",
+
   "chapter.stage.3.quest.1.subtitle.1": "Un nouveau minerai vert",
   "chapter.stage.3.quest.1.description.1": "Vous pouvez obtenir ce nouveau matériau en le minant.",
 
@@ -893,5 +899,7 @@
   "chapter.stage.3.quest.90.subtitle.1": "Transformation d'élite",
   "chapter.stage.3.quest.90.description.1": "Transforme n'importe quel machines avancées de Mekanism en niveau Élite.",
 
-  "Stage 4":"---------------------------------------------------------------------------------------------------------------------------------------------------"
+  "Stage 4":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.4.title": "Étape 4"
 }

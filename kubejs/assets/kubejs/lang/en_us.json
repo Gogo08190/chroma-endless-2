@@ -66,6 +66,8 @@
 
   "Stage 1":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+  "chapter.stage.1.title": "Stage 1",
+
   "chapter.stage.1.quest.1.title.1": "Wood",
   "chapter.stage.1.quest.1.subtitle.1": "Classic Start",
   "chapter.stage.1.quest.1.description.1" : "What Minecraft would be if you don't break some wood? Let's go collect some !",
@@ -271,6 +273,8 @@
   "chapter.stage.1.quest.51.description.2": "It can be used to create unique crafting recipes like &5&lEssence Of Darkness&r from Chroma Endless 2 !",
 
   "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.2.title": "Stage 2",
 
   "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer",
   "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r.",
@@ -604,6 +608,8 @@
 
   "Stage 3":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+  "chapter.stage.3.title": "Stage 3",
+
   "chapter.stage.3.quest.1.subtitle.1": "A new green ore",
   "chapter.stage.3.quest.1.description.1": "You can get this new material by mining.",
 
@@ -893,5 +899,8 @@
   "chapter.stage.3.quest.90.subtitle.1": "Elite Transforming",
   "chapter.stage.3.quest.90.description.1": "Transforms any Advanced Mekanism into Elite Tier.",
 
-  "Stage 4":"---------------------------------------------------------------------------------------------------------------------------------------------------"
+  "Stage 4":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.4.title": "Stage 4"
+
 }
