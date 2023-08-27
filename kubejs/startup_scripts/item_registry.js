@@ -78,7 +78,9 @@ onEvent('item.registry', (event) => {
       'enriched_venustar_luminae',
       'crystaltine_shard',
       'crystaltine_crystal',
-      'crystaltine_clump'
+      'crystaltine_clump',
+      'calorite_rocket_nose_cone',
+      'calorite_rocket_fin'
     ];
 
     items.forEach((item) => {
