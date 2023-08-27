@@ -776,6 +776,8 @@
 
   "chapter.stage.3.quest.51.subtitle.1": "Basic Auto-Crafting",
   "chapter.stage.3.quest.51.description.1": "Auto Craft Basic Craftings with FE !",
+  "chapter.stage.3.quest.51.description.2": "In order to Auto Craft, don't forget to put any inventory (like a chest) on the top of the Auto Crafting Table.",
+  "chapter.stage.3.quest.51.description.3": "Then setup the wanted craft and save it with Shift + Left Click on the top left corner (1, 2, 3). Note that it will only auto craft the selected saved slot.",
 
   "chapter.stage.3.quest.52.subtitle.1": "Advanced Auto-Crafting",
   "chapter.stage.3.quest.52.description.1": "Auto Craft Advanced Craftings with FE !",
@@ -915,6 +917,9 @@
 
   "chapter.stage.4.quest.4.subtitle.1": "Pressing Resin",
 
+  "chapter.stage.4.quest.5.subtitle.1": "A Better Frame",
+  "chapter.stage.4.quest.5.description.1": "Using the Dissolution Chamber, assemble Plastics, Platinum Ingots, Reinforced Alloy, a Constantan Gear and a Pity Machine Frame with Latex.",
+
   "chapter.stage.4.quest.6.subtitle.1": "Preparation of Crafting Boards",
   "chapter.stage.4.quest.6.description.1": "With the pressure Chamber combine Electrum Nuggets, a Resin Plate and a Redstone Servo.",
 
@@ -1018,4 +1023,97 @@
   "chapter.stage.4.quest.38.subtitle.1": "A new Dimension",
   "chapter.stage.4.quest.38.description.1": "In order to access &2The Undergarden&r you will have to build a portal similar to the &5Nether Portal&r but with Stone Bricks.",
   "chapter.stage.4.quest.38.description.1": "Now right click with your &bCatalyst&r.",
+
+  "chapter.stage.4.quest.39.subtitle.1": "Undergarden Ores : Regalium",
+  "chapter.stage.4.quest.39.description.1": "Find Regalium Ore in &2The Undergarden&r.",
+
+  "chapter.stage.4.quest.40.subtitle.1": "Energizing Regalium",
+  "chapter.stage.4.quest.40.description.1": "Energize a Regalium Crystal and get an &e&lBlazing Crystal !",
+
+  "chapter.stage.4.quest.41.subtitle.1": "The Power of the Sun, in the Palm of My Hand",
+  "chapter.stage.4.quest.41.description.1": "A Better way of generating FE with the Sun. You can use this for the Thermal Evaporation Tower.",
+
+  "chapter.stage.4.quest.42.subtitle.1": "Undergarden Dungeons",
+  "chapter.stage.4.quest.42.description.1": "Beat the Forgotten Guardian and get Forgotten Nuggets in order to craft the Ingot.",
+
+  "chapter.stage.4.quest.43.subtitle.1": "Energizing Forgotten Ingots",
+  "chapter.stage.4.quest.43.description.1": "Energize a Forgotten Ingot and get an &e&lNiotic Crystal !",
+
+  "chapter.stage.4.quest.44.subtitle.1": "Enriching Niotic Crystals",
+
+  "chapter.stage.4.quest.45.subtitle.1": "Infusing Obsidian",
+  "chapter.stage.4.quest.45.description.1": "Simply Infuse an Obsidian Dust with Niotic infusion.",
+
+  "chapter.stage.4.quest.46.subtitle.1": "Osmium Compressing Refined Obsidian",
+
+  "chapter.stage.4.quest.47.subtitle.1": "Ultimate Controling",
+  "chapter.stage.4.quest.47.description.1": "Simply Infuse an Elite Control Circuit with Refined Obsidian infusion.",
+
+  "chapter.stage.4.quest.48.subtitle.1": "Quantum Tablet",
+  "chapter.stage.4.quest.48.description.1": "A really good tablet that can hold 3.60 MFE",
+
+  "chapter.stage.4.quest.49.subtitle.1": "Atomic Alloying",
+  "chapter.stage.4.quest.49.description.1": "Simply Infuse an Reinfoced Alloy with Refined Obsidian infusion.",
+
+  "chapter.stage.4.quest.50.subtitle.1": "Teleportation Master",
+  "chapter.stage.4.quest.50.description.1": "Mainly used as a Crafting Component",
+
+  "chapter.stage.4.quest.51.subtitle.1": "Mining Master",
+  "chapter.stage.4.quest.51.description.1": "With the &4Quantum Compressor&r put 256 Utherium Crystals and The Teleporation Core as Catalyst.",
+
+  "chapter.stage.4.quest.52.subtitle.1": "Mining At It's Best",
+  "chapter.stage.4.quest.52.description.1": "The Digital Miner mines everything you tell him to mine. Check it's recipe on JEI.",
+
+  "chapter.stage.4.quest.53.subtitle.1": "Forgotten Component",
+  "chapter.stage.4.quest.53.description.1": "Simply Energize Forgotten Ingots, Black Steel Plate and a Luminessence.",
+
+  "chapter.stage.4.quest.54.subtitle.1": "Forgotten Catalyst",
+  "chapter.stage.4.quest.54.description.1": "Use the Pressure Chamber to craft the Elite Catalyst.",
+
+  "chapter.stage.4.quest.56.subtitle.1": "Forgotten Crafting Table",
+  "chapter.stage.4.quest.56.description.1": "Using the Dissolution Chamber, assemble Elite Components , Advanced Crafting Tables, Elite Catalyst and a Forgotten Metal Block with Molten Utherium",
+
+  "chapter.stage.4.quest.57.subtitle.1": "Forgotten Auto Crafting Table",
+  "chapter.stage.4.quest.57.description.1": "Using the Ender Crafting, assemble the Elite Auto Crafting Table. Check JEI for the recipe.",
+
+  "chapter.stage.4.quest.58.subtitle.1": "Separating Fluid",
+  "chapter.stage.4.quest.58.description.1": "Separates any compatible fluid into two another fluids.",
+
+  "chapter.stage.4.quest.59.subtitle.1": "Chemical Transformation",
+  "chapter.stage.4.quest.59.description.1": "Condensentrate any Gaz into Fluid and Decondensentrate any fluid into Gaz. ", 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
