@@ -273,7 +273,7 @@ onEvent('recipes', (event) => {
             key: {
                 C: '#beyond_earth:compresseds/ostrum',
                 T: '#beyond_earth:compresseds/titanium',
-                B: 'industrialforegoing:advanced_black_hole_unit'
+                B: 'industrialforegoing:advanced_black_hole_tank'
             },
             id: 'beyond_earth:diamond_tank'
         },
