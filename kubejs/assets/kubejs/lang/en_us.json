@@ -903,10 +903,10 @@
   "Stage 4":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.4.title": "Stage 4",
-   
+
   "chapter.stage.4.quest.1.subtitle.1": "Resin Preparation Step 1",
   "chapter.stage.4.quest.1.description.1": "Combine Carbon , Hydrogen and Oxygen Elements.",
- 
+
   "chapter.stage.4.quest.2.subtitle.1": "Resin Preparation Step 2",
   "chapter.stage.4.quest.2.description.1": "Combine Nickel and Chlorine Elements.",
 
@@ -942,7 +942,7 @@
 
   "chapter.stage.4.quest.14.subtitle.1": "Extra Modulation",
   "chapter.stage.4.quest.14.description.1": "Can upgrade Tubes Modules to unlock extra module configurations. Also used for Crafting Component.",
-  
+
   "chapter.stage.4.quest.15.subtitle.1": "Yes, Another Crafing Method",
   "chapter.stage.4.quest.15.description.1": "To be able to craft higher tier materials, you'll need an &5Assembly System&r, a collection of Assembly Machines.",
   "chapter.stage.4.quest.15.description.2": "These machines communicate with each other when they're horizontally ajacent. Only one machine of each type can exist.",
@@ -955,10 +955,11 @@
   "chapter.stage.4.quest.17.description.1": "With the pressure Chamber combine Oak Logs, Reinforced Stones and a Redstone Servo.",
 
   "chapter.stage.4.quest.18.subtitle.1": "Assembling the First Frame",
-  
+
   "chapter.stage.4.quest.19.subtitle.1": "Tree Extraction",
-  "chapter.stage.4.quest.19.description.1": "Put any Log in front of it and get some Latex !"
+  "chapter.stage.4.quest.19.description.1": "Put any Log in front of it and get some Latex !",
 
-
+  "chapter.stage.4.quest.20.subtitle.1": "Tree Extraction",
+  "chapter.stage.4.quest.20.description.1": "Put any Log in front of it and get some Latex !"
 
 }
