@@ -905,6 +905,51 @@
   "chapter.stage.4.title": "Stage 4",
    
   "chapter.stage.4.quest.1.subtitle.1": "Resin Preparation Step 1",
-  "chapter.stage.4.quest.1.description.1": "Combine Carbon , Hydrogen and Oxygen Elements."
+  "chapter.stage.4.quest.1.description.1": "Combine Carbon , Hydrogen and Oxygen Elements.",
  
+  "chapter.stage.4.quest.2.subtitle.1": "Resin Preparation Step 2",
+  "chapter.stage.4.quest.2.description.1": "Combine Nickel and Chlorine Elements.",
+
+  "chapter.stage.4.quest.3.subtitle.1": "Resin Finally",
+  "chapter.stage.4.quest.3.description.1": "Combine the two previous crafted super elements and get &2Raw Resin&r.",
+
+  "chapter.stage.4.quest.4.subtitle.1": "Pressing Resin",
+
+  "chapter.stage.4.quest.6.subtitle.1": "Preparation of Crafting Boards",
+  "chapter.stage.4.quest.6.description.1": "With the pressure Chamber combine Electrum Nuggets, a Resin Plate and a Redstone Servo.",
+
+  "chapter.stage.4.quest.7.subtitle.1": "Etching",
+  "chapter.stage.4.quest.7.description.1": "Crafted in a Basic Crafting Table, it allows you to craft Unassembled PCB.",
+
+  "chapter.stage.4.quest.8.subtitle.1": "Weird Liquid",
+  "chapter.stage.4.quest.8.description.1": "With the pressure Chamber combine a Bucket of Molten Plastic, Phosphoric Acid, Nitric Acid and Acetic Acid.",
+
+  "chapter.stage.4.quest.9.subtitle.1": "Better than Villagers",
+  "chapter.stage.4.quest.9.description.1": "This tablet is used to order items and fluid similar to villager trading but are delivered by Drones.",
+  "chapter.stage.4.quest.9.description.2": "Pick-up/Drop-off zones must be specified by right-clicking an inventory and/or tank with the tablet.",
+
+  "chapter.stage.4.quest.10.subtitle.1": "Worth Exchange",
+  "chapter.stage.4.quest.10.description.1": "Get this item with Amadron Exchange System.",
+
+  "chapter.stage.4.quest.11.subtitle.1": "A Better Etching",
+  "chapter.stage.4.quest.11.description.1": "Get a better Etching Chance in order to get Unassembled PCB.",
+
+  "chapter.stage.4.quest.12.subtitle.1": "Unassembled PCB Crafting",
+  "chapter.stage.4.quest.12.description.1": "First you will have to go through the Etching Tank. The Assembly Controller will be later.",
+
+  "chapter.stage.4.quest.13.subtitle.1": "PCB : Final Step",
+  "chapter.stage.4.quest.13.description.1": "With the Matter Infuser, infuse Transistors, Capacitors and an Unassembled PCB.",
+
+  "chapter.stage.4.quest.14.subtitle.1": "Extra Modulation",
+  "chapter.stage.4.quest.14.description.1": "Can upgrade Tubes Modules to unlock extra module configurations. Also used for Crafting Component.",
+  
+  "chapter.stage.4.quest.15.subtitle.1": "Yes, Another Crafing Method",
+  "chapter.stage.4.quest.15.description.1": "To be able to craft higher tier materials, you'll need an &5Assembly System&r, a collection of Assembly Machines.",
+  "chapter.stage.4.quest.15.description.2": "These machines communicate with each other when they're horizontally ajacent. Only one machine of each type can exist.",
+  "chapter.stage.4.quest.15.description.3": "These assembly line runs on compressed air, but you only need to suply air to the Assembly Controller to power the whole system.",
+
+  "chapter.stage.4.quest.16.subtitle.1": "Another Worth Exchange",
+  "chapter.stage.4.quest.16.description.1": "Get those programs with Amadron Exchange System. The Drill & Laser programm can also be crafted."
+
+
 }
