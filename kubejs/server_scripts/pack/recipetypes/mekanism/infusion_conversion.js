@@ -76,6 +76,16 @@ onEvent('recipes', (event) => {
         output: { amount: 80, infuse_type: 'chroma:venustar_luminae' },
         id: `${id_prefix}venustar_luminae_from_enriched`
       },
+      {
+        input: { ingredient: { item: 'chroma:eternal_cryostella_polaris' } },
+        output: { amount: 10, infuse_type: 'eternal_cryostella_polaris' },
+        id: `${id_prefix}eternal_cryostella_polaris`
+      },
+      {
+        input: { ingredient: { item: 'chroma:enriched_eternal_cryostella_polaris' } },
+        output: { amount: 80, infuse_type: 'chroma:eternal_cryostella_polaris' },
+        id: `${id_prefix}eternal_cryostella_polaris_from_enriched`
+      },
     ]
 
     recipes.forEach((recipe) => {

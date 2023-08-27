@@ -81,7 +81,9 @@ onEvent('item.registry', (event) => {
       'crystaltine_clump',
       'calorite_rocket_nose_cone',
       'calorite_rocket_fin',
-      'eternal_cryostella_polaris'
+      'eternal_cryostella_polaris',
+      'enriched_eternal_cryostella_polaris'
+
     ];
 
     items.forEach((item) => {
