@@ -21,6 +21,38 @@ onEvent('recipes', (event) => {
           },
           id: 'draconicevolution:components/wyvern_energy_core'
       },
+      {
+        output: 'draconicevolution:draconium_energy_module',
+          pattern: ['NNN', 'ABA', 'NNN'],
+          key: {
+              A: 'draconicevolution:module_core',
+              B: 'fluxnetworks:flux_core',
+              N: 'powah:capacitor_nitro'
+          },
+          id: 'draconicevolution:modules/draconium_energy'
+      },
+      {
+        output: 'draconicevolution:wyvern_shield_capacity_module',
+          pattern: ['NCN', 'ABA', 'NCN'],
+          key: {
+              A: 'draconicevolution:module_core',
+              B: '#forge:ingots/cloggrum',
+              N: '#forge:ingots/draconium',
+              C: '#forge:ingots/calorite'
+          },
+          id: 'draconicevolution:modules/wyvern_shield_capacity'
+      },
+      {
+        output: 'draconicevolution:wyvern_shield_recovery_module',
+          pattern: ['NCN', 'ABA', 'NCN'],
+          key: {
+              A: 'draconicevolution:module_core',
+              B: '#forge:ingots/utherium',
+              N: '#forge:ingots/draconium',
+              C: '#forge:ingots/calorite'
+          },
+          id: 'draconicevolution:modules/wyvern_shield_recovery'
+      },
     ];
 
     recipes.forEach((recipe) => {

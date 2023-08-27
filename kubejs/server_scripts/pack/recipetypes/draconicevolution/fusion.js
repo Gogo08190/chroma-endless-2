@@ -162,6 +162,23 @@ onEvent('recipes', (event) => {
             { item: 'draconicevolution:basic_relay_crystal' }
           ],
           tier: "WYVERN",
+          catalyst: { item: 'forbidden_arcanus:draco_arcanus_hoe' },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:wyvern_hoe' },
+          id: 'draconicevolution:tools/wyvern_hoe'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:basic_relay_crystal' },
+            { item: 'draconicevolution:basic_relay_crystal' }
+          ],
+          tier: "WYVERN",
           catalyst: { item: 'upgradednetherite:corrupt_upgraded_netherite_shovel' },
           total_energy: 8000000,
           result: { item: 'draconicevolution:wyvern_shovel' },
@@ -204,6 +221,24 @@ onEvent('recipes', (event) => {
           total_energy: 100000000,
           result: { item: 'mekanismgenerators:fusion_reactor_controller' },
           id: 'mekanismgenerators:reactor/controller'
+      },
+      {
+          inputs: [
+            { item: 'mekanism:hdpe_sheet' },
+            { item: 'mekanism:hdpe_sheet' },
+            { item: 'mekanism:hdpe_sheet' },
+            { item: 'mekanism:hdpe_sheet' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'mekanism:pellet_polonium' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'draconicevolution:draconium_core' },
+          total_energy: 20000,
+          result: { item: 'draconicevolution:module_core' },
+          id: 'draconicevolution:modules/module_core'
       },
     ];
 
