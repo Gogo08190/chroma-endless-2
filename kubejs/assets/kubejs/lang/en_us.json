@@ -949,7 +949,16 @@
   "chapter.stage.4.quest.15.description.3": "These assembly line runs on compressed air, but you only need to suply air to the Assembly Controller to power the whole system.",
 
   "chapter.stage.4.quest.16.subtitle.1": "Another Worth Exchange",
-  "chapter.stage.4.quest.16.description.1": "Get those programs with Amadron Exchange System. The Drill & Laser programm can also be crafted."
+  "chapter.stage.4.quest.16.description.1": "Get those programs with Amadron Exchange System. The Drill & Laser programm can also be crafted.",
+
+  "chapter.stage.4.quest.17.subtitle.1": "Industrial First Unassembled Frame",
+  "chapter.stage.4.quest.17.description.1": "With the pressure Chamber combine Oak Logs, Reinforced Stones and a Redstone Servo.",
+
+  "chapter.stage.4.quest.18.subtitle.1": "Assembling the First Frame",
+  
+  "chapter.stage.4.quest.19.subtitle.1": "Tree Extraction",
+  "chapter.stage.4.quest.19.description.1": "Put any Log in front of it and get some Latex !"
+
 
 
 }
