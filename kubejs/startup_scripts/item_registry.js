@@ -80,7 +80,8 @@ onEvent('item.registry', (event) => {
       'crystaltine_crystal',
       'crystaltine_clump',
       'calorite_rocket_nose_cone',
-      'calorite_rocket_fin'
+      'calorite_rocket_fin',
+      'eternal_cryostella_polaris'
     ];
 
     items.forEach((item) => {
