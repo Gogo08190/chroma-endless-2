@@ -1,0 +1,38 @@
+{
+  "type": "draconicevolution:draconic_guardian",
+	"subtypes": [],
+  "name": "entity.draconicevolution.draconic_guardian",
+  "name_color": "0x600000",
+  "gui_scale": 0.5,
+  "gui_x_offset": 0.0,
+  "gui_y_offset": 0.0,
+  "gui_z_offset": 0.0,
+  "sim_cost": 163840,
+  "input": {
+    "item": "hostilenetworks:empty_prediction",
+    "count": 1
+  },
+  "base_drop": {
+    "item": "hostilenetworks:end_prediction",
+    "count": 1
+  },
+  "trivia": "hostilenetworks.trivia.draconic_guardian",
+  "fabricator_drops": [
+    {
+      "item": "draconicevolution:small_chaos_frag",
+      "count": 2
+    }
+  ],
+  "tier_data": [
+    6,
+    54,
+    354,
+    1254
+  ],
+  "data_per_kill": [
+    1,
+    4,
+		10,
+		18
+  ]
+}
