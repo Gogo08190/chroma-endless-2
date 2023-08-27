@@ -902,7 +902,10 @@
 
   "Stage 4":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
-  "chapter.stage.4.title": "Stage 4"
+  "chapter.stage.4.title": "Stage 4",
+   
+  "chapter.stage.4.quest.1.subtitle.1": "",
+  "chapter.stage.4.quest.1.description.1": "."
   
-
+    
 }
