@@ -1,6 +1,6 @@
 {
-  "recipes.lychee.item_inside.charoite.condition.description": "Converts around Noon (3:20 - 6:40). Reverts if left out too long...",
   "recipes.lychee.item_inside.moonstone.condition.description": "Converts around Midnight (13:20 - 16:40). Reverts if left out too long...",
+  "recipes.lychee.item_inside.charoite.condition.description": "Converts around Noon (3:20 - 6:40). Reverts if left out too long...",
 
   "chapter.welcome.title": "&lWelcome",
   "chapter.shop.title": "&lShop",
@@ -959,7 +959,63 @@
   "chapter.stage.4.quest.19.subtitle.1": "Tree Extraction",
   "chapter.stage.4.quest.19.description.1": "Put any Log in front of it and get some Latex !",
 
-  "chapter.stage.4.quest.20.subtitle.1": "Tree Extraction",
-  "chapter.stage.4.quest.20.description.1": "Put any Log in front of it and get some Latex !"
+  "chapter.stage.4.quest.20.subtitle.1": "Filling Latex",
 
+  "chapter.stage.4.quest.21.subtitle.1": "Processing Latex",
+  "chapter.stage.4.quest.21.description.1": "Put some Latex and Water and get Tiny Dry Rubber !",
+
+  "chapter.stage.4.quest.22.subtitle.1": "Life in Plastic",
+  "chapter.stage.4.quest.22.description.1": "Assemble Tiny Dry Rubber to get Dry Rubber then smelt it to get Plastic !",
+
+  "chapter.stage.4.quest.23.subtitle.1": "Crafting with Fluids",
+  "chapter.stage.4.quest.23.description.1": "Assemble Items and Fluids to get more advanced Items. You will need Energy too!",
+
+  "chapter.stage.4.quest.24.subtitle.1": "Access Compact Dimension",
+  "chapter.stage.4.quest.24.description.1": "Use the Personnal Shrinking Device on a compact machine to enter it's space. You can also do that to go back to the Overworld.",
+
+  "chapter.stage.4.quest.25.subtitle.1": "Tiny Compact Machine",
+  "chapter.stage.4.quest.25.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls with Molten Copper.",
+
+  "chapter.stage.4.quest.26.subtitle.1": "Small Compact Machine",
+  "chapter.stage.4.quest.26.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls, a Redstone Servo and the Tiny Compact Machine with Molten Iron.",
+
+  "chapter.stage.4.quest.27.subtitle.1": "Normal Compact Machine",
+  "chapter.stage.4.quest.27.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls, an Infused Alloy and the Small Compact Machine with Molten Gold.",
+
+  "chapter.stage.4.quest.28.subtitle.1": "Large Compact Machine",
+  "chapter.stage.4.quest.28.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls, a Reinforced Alloy and the Normal Compact Machine with Molten Obsidian.",
+
+  "chapter.stage.4.quest.29.subtitle.1": "Giant Compact Machine",
+  "chapter.stage.4.quest.29.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls, a Pity Machine Frame and the Large Compact Machine with Molten Diamond.",
+
+  "chapter.stage.4.quest.30.subtitle.1": "Maximum Compact Machine",
+  "chapter.stage.4.quest.30.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls, a Simple Machine Frame and the Giant Compact Machine with Molten Netherite.",
+
+  "chapter.stage.4.quest.31.subtitle.1": "Accessing The Void",
+  "chapter.stage.4.quest.31.description.1": "Using the Miniaturization Crafting, Build the Multiblock with Processed Obsidian Blocks, Obsidian, Dark Glass, Forgotten Metal Blocks, Blazing Crystal Blocks and the Maximum Compact Machine.",
+  "chapter.stage.4.quest.31.description.1": "Check JEI in order to build the multiblock. Don't forget to throw The Void Patch.",
+
+  "chapter.stage.4.quest.31.subtitle.1": "Essential Mineral",
+  "chapter.stage.4.quest.31.description.1": "Magnesium can be obtained by dissolving Light Gray Dye.",
+
+  "chapter.stage.4.quest.32.subtitle.1": "Compacting Magnesium",
+  "chapter.stage.4.quest.32.description.1": "Compact 16 Magnesium elements to get a Dust.",
+
+  "chapter.stage.4.quest.33.subtitle.1": "Smelting the Magnesium Dust",
+
+  "chapter.stage.4.quest.34.subtitle.1": "Shiny Like The Sun",
+  "chapter.stage.4.quest.34.description.1": "Scandium can be obtained by dissolving Deepslate.",
+
+  "chapter.stage.4.quest.35.subtitle.1": "Compacting Scandium",
+  "chapter.stage.4.quest.35.description.1": "Compact 16 Scandium elements to get a Dust.",
+
+  "chapter.stage.4.quest.36.subtitle.1": "Smelting the Scandium Dust",
+
+  "chapter.stage.4.quest.37.subtitle.1": "The Key of Undergarden",
+  "chapter.stage.4.quest.37.description.1": "Using the Dissolution Chamber, assemble Scandium Ingots and Magnesium Ingots with Molten Mana.",
+
+  "chapter.stage.4.quest.38.title": "Visit dimension : &2The Undergarden",
+  "chapter.stage.4.quest.38.subtitle.1": "A new Dimension",
+  "chapter.stage.4.quest.38.description.1": "In order to access &2The Undergarden&r you will have to build a portal similar to the &5Nether Portal&r but with Stone Bricks.",
+  "chapter.stage.4.quest.38.description.1": "Now right click with your &bCatalyst&r.",
 }
