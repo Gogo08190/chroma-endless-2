@@ -1080,40 +1080,91 @@
   "chapter.stage.4.quest.58.description.1": "Separates any compatible fluid into two another fluids.",
 
   "chapter.stage.4.quest.59.subtitle.1": "Chemical Transformation",
-  "chapter.stage.4.quest.59.description.1": "Condensentrate any Gaz into Fluid and Decondensentrate any fluid into Gaz. "
+  "chapter.stage.4.quest.59.description.1": "Condensentrate any Gaz into Fluid and Decondensentrate any fluid into Gaz.",
 
+  "chapter.stage.4.quest.60.subtitle.1": "Enough Pressure",
+  "chapter.stage.4.quest.60.description.1": "Pressurize a Liquid and a Gaz with any item to get a reaction. You will get another item plus sometimes an extra gaz.",
 
+  "chapter.stage.4.quest.61.subtitle.1": "HDPE Creation",
+  "chapter.stage.4.quest.61.description.1": "Simply Pressurize Liquid Ethylene and Oxygen Gaz with Substrate.",
 
+  "chapter.stage.4.quest.62.subtitle.1": "Rod Assemby",
 
+  "chapter.stage.4.quest.63.subtitle.1": "Enriching HDPE",
+  "chapter.stage.4.quest.63.description.1": "Simply use an Enrichment Chamber to get HDPE Sheets.",
 
+  "chapter.stage.4.quest.64.subtitle.1": "Autocrafting Maniac",
+  "chapter.stage.4.quest.64.description.1": "AE2's automated crafting mechanism begins with the &bME Pattern Provider&r. This device serves as a repository for specific items referred to as &bPatterns&r (elaborated on in the subsequent quest). These patterns are designed to encompass recipes that transform input items into specified outputs. A single provider can accommodate up to 9 patterns simultaneously.",
 
+  "chapter.stage.4.quest.65.subtitle.1": "Crafting Assembling",
+  "chapter.stage.4.quest.65.description.1": "Molecular Assemblers possess the capacity to transmit both power and channels to other ME devices linked to them, without consuming a channel themselves. In cases where a Pattern Provider is employed, up to 6 Molecular Assemblers can be linked to it, enabling the execution of multiple crafting tasks concurrently.",
+  "chapter.stage.4.quest.65.description.2": "Each Molecular Assembler (MA) features an exclusive slot designated for a single crafting pattern. This attribute empowers MAs to function autonomously when powered. In this mode, any items inserted into the MA that align with the crafting pattern will be automatically transformed into the resulting product of the pattern.",
 
+  "chapter.stage.4.quest.66.subtitle.1": "Crafts Checker",
+  "chapter.stage.4.quest.66.description.1": "Frequently, you'll find yourself employing multiple pattern providers distributed across your base. To facilitate seamless access to the contents of all providers within your expansive ME network, the &bPattern Access Terminal&r proves invaluable. This terminal enables remote access to the patterns stored in various providers.",
 
+  "chapter.stage.4.quest.67.subtitle.1": "Encode Crafts Part 1",
+  "chapter.stage.4.quest.67.description.1": "Patterns offer the flexibility of holding either a conventional &6crafting&r recipe or a broader '&6processing&r' recipe. Crafting recipes entail the utilization of a &6Molecular Assembler&r positioned on the Provider's interface. Conversely, processing recipes involve sending input items from the provider to external machinery or dedicated processing units.",
 
+  "chapter.stage.4.quest.68.subtitle.1": "Encode Crafts Part 2",
+  "chapter.stage.4.quest.68.description.1": "&bPatterns&r function as repositories for encoded recipes that can be executed by a Pattern Provider. To encode a recipe onto a pattern, the process involves utilizing the &bME Pattern Encoding Terminal&r.",
 
+  "chapter.stage.4.quest.69.subtitle.1": "Autocrafting Component",
+  "chapter.stage.4.quest.69.description.1": "Using the Dissolution Chamber, assemble HDPE Sheets , All Processors, a ME Fluix Glass with Molten Certuz Quartz.",
 
+  "chapter.stage.4.quest.70.subtitle.1": "Operating Autocrafts",
+  "chapter.stage.4.quest.70.description.1": "Prior to executing an auto-crafting operation, you must possess a dedicated device to house the crafting request as well as any intermediate items necessary for multi-step crafts. This specialized device is referred to as a &6crafting CPU&r.",
+  "chapter.stage.4.quest.70.description.2": "A crafting CPU is a composite structure formed by assembling multiple blocks into a coherent unit. At a minimum, it necessitates a &bCrafting Storage&r block, and it can also incorporate additional Crafting Units. The configuration of this multiblock can vary in size, but it must be shaped as a solid cuboid in order to successfully establish and operate.",
 
+  "chapter.stage.4.quest.71.subtitle.1": "Watching Operations",
 
+  "chapter.stage.4.quest.72.subtitle.1": "Speeding Things Up",
+  "chapter.stage.4.quest.72.description.1": "The &bCrafting Co-Processing Unit&r significantly enhances the speed of crafting tasks by enabling pattern providers to either expedite the transfer of items to their linked devices or to collaborate concurrently on the creation of multiple necessary components.",
+  "chapter.stage.4.quest.72.description.2": "The fundamental AE2 co-processor furnishes a single co-processor 'thread' to support these operations. Conversely, the co-processing unit derived from &dMEGA Cells&r offers a remarkable 4 threads within a single block, thereby bolstering the efficiency of crafting processes.",
 
+  "chapter.stage.4.quest.73.subtitle.1": "Another Red Ore?",
 
+  "chapter.stage.4.quest.74.subtitle.1": "Utheric Component",
+  "chapter.stage.4.quest.74.description.1": "Simply Energize Utherium Crystals with Black Steel Slate and a Luminessence.",
 
+  "chapter.stage.4.quest.75.subtitle.1": "Utheric Catalyst",
+  "chapter.stage.4.quest.75.description.1": "Use the Pressure Chamber to craft the Supra Catalyst.",
 
+  "chapter.stage.4.quest.76.subtitle.1": "Extended Frame",
 
+  "chapter.stage.4.quest.77.subtitle.1": "",
+  "chapter.stage.4.quest.77.description.1": ".",
+  "chapter.stage.4.quest.77.description.2": ".",
 
+  "chapter.stage.4.quest.78.subtitle.1": "",
+  "chapter.stage.4.quest.78.description.1": ".",
+  "chapter.stage.4.quest.78.description.2": ".",
 
+  "chapter.stage.4.quest.79.subtitle.1": "",
+  "chapter.stage.4.quest.79.description.1": ".",
+  "chapter.stage.4.quest.79.description.2": ".",
 
+  "chapter.stage.4.quest.80.subtitle.1": "",
+  "chapter.stage.4.quest.80.description.1": ".",
+  "chapter.stage.4.quest.80.description.2": ".",
 
+  "chapter.stage.4.quest.81.subtitle.1": "",
+  "chapter.stage.4.quest.81.description.1": ".",
+  "chapter.stage.4.quest.81.description.2": ".",
 
+  "chapter.stage.4.quest.82.subtitle.1": "",
+  "chapter.stage.4.quest.82.description.1": ".",
+  "chapter.stage.4.quest.82.description.2": ".",
 
+  "chapter.stage.4.quest.83.subtitle.1": "",
+  "chapter.stage.4.quest.83.description.1": ".",
+  "chapter.stage.4.quest.83.description.2": ".",
 
+  "chapter.stage.4.quest.84.subtitle.1": "",
+  "chapter.stage.4.quest.84.description.1": ".",
+  "chapter.stage.4.quest.84.description.2": ".",
 
-
-
-
-
-
-
-
-
-
+  "chapter.stage.4.quest.85.subtitle.1": "",
+  "chapter.stage.4.quest.85.description.1": ".",
+  "chapter.stage.4.quest.85.description.2": "."
 }
