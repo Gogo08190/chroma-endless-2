@@ -531,7 +531,7 @@ onEvent("recipes", (event) => {
           "item": "mekanism:pellet_polonium"
         },
         "I": {
-          "item": "industrialforegoing:machine_frame_supreme"
+          "item": "chroma:void_miner_tier_1"
         },
         "J": {
           "item": "chroma:structure_frame"
