@@ -1132,39 +1132,70 @@
 
   "chapter.stage.4.quest.76.subtitle.1": "Extended Frame",
 
-  "chapter.stage.4.quest.77.subtitle.1": "",
-  "chapter.stage.4.quest.77.description.1": ".",
-  "chapter.stage.4.quest.77.description.2": ".",
+  "chapter.stage.4.quest.77.subtitle.1": "Multi Compressing",
+  "chapter.stage.4.quest.77.description.1": "The &cQuantum Compressor&r allows you to create powerful items. Put any compatible item in the main slot and the corresponding Catalyst on the left.",
+  "chapter.stage.4.quest.77.description.2": "With some energy you will have to put the exact number to create the item that will be in the right slot.",
 
-  "chapter.stage.4.quest.78.subtitle.1": "",
-  "chapter.stage.4.quest.78.description.1": ".",
-  "chapter.stage.4.quest.78.description.2": ".",
+  "chapter.stage.4.quest.78.subtitle.1": "Compressing Carbon",
+  "chapter.stage.4.quest.78.description.1": "With the Quantum Compressor, compress 512 Carbon with the Compress Mold as Catalyst.",
 
-  "chapter.stage.4.quest.79.subtitle.1": "",
-  "chapter.stage.4.quest.79.description.1": ".",
-  "chapter.stage.4.quest.79.description.2": ".",
+  "chapter.stage.4.quest.79.subtitle.1": "Nobody Can Hear You Dying",
+  "chapter.stage.4.quest.79.description.1": "Without this you won't be able to breathe in Space.",
 
-  "chapter.stage.4.quest.80.subtitle.1": "",
-  "chapter.stage.4.quest.80.description.1": ".",
-  "chapter.stage.4.quest.80.description.2": ".",
+  "chapter.stage.4.quest.80.subtitle.1": "Space Suit",
+  "chapter.stage.4.quest.80.description.1": "A Really Good protection for space exploration.",
 
-  "chapter.stage.4.quest.81.subtitle.1": "",
-  "chapter.stage.4.quest.81.description.1": ".",
-  "chapter.stage.4.quest.81.description.2": ".",
+  "chapter.stage.4.quest.81.subtitle.1": "Space Crafting Table",
+  "chapter.stage.4.quest.81.description.1": "Assemble your rockets in this new crafting table.",
 
-  "chapter.stage.4.quest.82.subtitle.1": "",
-  "chapter.stage.4.quest.82.description.1": ".",
-  "chapter.stage.4.quest.82.description.2": ".",
+  "chapter.stage.4.quest.82.subtitle.1": "Your First Rocket",
+  "chapter.stage.4.quest.82.description.1": "Using the Nasa Workbench, craft the T1 Rocket.",
 
-  "chapter.stage.4.quest.83.subtitle.1": "",
-  "chapter.stage.4.quest.83.description.1": ".",
-  "chapter.stage.4.quest.83.description.2": ".",
+  "chapter.stage.4.quest.83.subtitle.1": "Dissolving Emeralds",
+  "chapter.stage.4.quest.83.description.1": "Dissolve some Emeralds to get Chromium.",
 
-  "chapter.stage.4.quest.84.subtitle.1": "",
-  "chapter.stage.4.quest.84.description.1": ".",
-  "chapter.stage.4.quest.84.description.2": ".",
+  "chapter.stage.4.quest.84.subtitle.1": "Dissolving Debris",
+  "chapter.stage.4.quest.84.description.1": "Dissolve some Ancient Debris to get Tungsten.",
 
-  "chapter.stage.4.quest.85.subtitle.1": "",
-  "chapter.stage.4.quest.85.description.1": ".",
-  "chapter.stage.4.quest.85.description.2": "."
+  "chapter.stage.4.quest.85.subtitle.1": "Compacting Chromium",
+
+  "chapter.stage.4.quest.86.subtitle.1": "Compacting Tungsten",
+
+  "chapter.stage.4.quest.87.subtitle.1": "Smelting Compact Chromium",
+
+  "chapter.stage.4.quest.88.subtitle.1": "Smelting Compact Tungsten",
+
+  "chapter.stage.4.quest.89.subtitle.1": "Lauching Rockets",
+  "chapter.stage.4.quest.89.description.1": "In order to go to space, you will have to place your Rockets a 3x3 Launch Pad.",
+
+  "chapter.stage.4.quest.90.subtitle.1": "Dissolving Coal",
+  "chapter.stage.4.quest.90.description.1": "Dissolve some Ancient Debris to get Graphite.",
+
+  "chapter.stage.4.quest.91.subtitle.1": "Compacting Graphite",
+
+  "chapter.stage.4.quest.92.subtitle.1": "Smelting Compact Graphite",
+
+  "chapter.stage.4.quest.93.subtitle.1": "",
+  "chapter.stage.4.quest.93.description.1": ".",
+  "chapter.stage.4.quest.93.description.2": ".",
+
+  "chapter.stage.4.quest.94.subtitle.1": "",
+  "chapter.stage.4.quest.94.description.1": ".",
+  "chapter.stage.4.quest.94.description.2": ".",
+
+  "chapter.stage.4.quest.95.subtitle.1": "",
+  "chapter.stage.4.quest.95.description.1": ".",
+  "chapter.stage.4.quest.95.description.2": ".",
+
+  "chapter.stage.4.quest.96.subtitle.1": "",
+  "chapter.stage.4.quest.96.description.1": ".",
+  "chapter.stage.4.quest.96.description.2": ".",
+
+  "chapter.stage.4.quest.97.subtitle.1": "",
+  "chapter.stage.4.quest.97.description.1": ".",
+  "chapter.stage.4.quest.97.description.2": ".",
+
+  "chapter.stage.4.quest.98.subtitle.1": "",
+  "chapter.stage.4.quest.98.description.1": ".",
+  "chapter.stage.4.quest.98.description.2": ".",
 }
