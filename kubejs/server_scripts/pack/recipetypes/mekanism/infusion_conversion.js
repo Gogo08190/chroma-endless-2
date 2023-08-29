@@ -78,7 +78,7 @@ onEvent('recipes', (event) => {
       },
       {
         input: { ingredient: { item: 'chroma:eternal_cryostella_polaris' } },
-        output: { amount: 10, infuse_type: 'eternal_cryostella_polaris' },
+        output: { amount: 10, infuse_type: 'chroma:eternal_cryostella_polaris' },
         id: `${id_prefix}eternal_cryostella_polaris`
       },
       {
