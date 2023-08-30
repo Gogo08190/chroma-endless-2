@@ -226,6 +226,36 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}nebula_drill_t3`
       },
+      {
+        output: 'chroma:energy_input_tier_3',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'mekaevolution:cosmic_control_circuit',
+              G: 'chroma:void_miner_frame_tier3',
+              C: 'chroma:energy_input_tier_2'
+          },
+          id: `${id_prefix}energy_input_tier_3`
+      },
+      {
+        output: 'chroma:void_item_output_tier_3',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'chroma:cosmic_alloy',
+              G: 'chroma:void_miner_frame_tier3',
+              C: 'chroma:void_item_output_tier_2'
+          },
+          id: `${id_prefix}void_item_output_tier_3`
+      },
+      {
+        output: 'chroma:void_miner_laser_core_t3',
+          pattern: ['ABA', 'ACA', 'ABA'],
+          key: {
+              A: 'chroma:structure_frame',
+              B: 'draconicevolution:wyvern_energy_core',
+              C: 'chroma:void_miner_laser_core_t2'
+          },
+          id: `${id_prefix}void_miner_laser_core_t3`
+      },
     ];
 
     recipes.forEach((recipe) => {

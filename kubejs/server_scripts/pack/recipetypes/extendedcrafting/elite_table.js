@@ -731,4 +731,54 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mekaevolution:cosmic_energy_cube')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABCBAA",
+        "ADEDEDA",
+        "BEFGFEB",
+        "CDGHGDC",
+        "BEFGFEB",
+        "IDEDEDI",
+        "IIIJIII"
+      ],
+      "key": {
+        "A": {
+          "item": "chroma:void_miner_frame_tier3"
+        },
+        "B": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "C": {
+          "item": "mekaevolution:cosmic_control_circuit"
+        },
+        "D": {
+          "item": "beyond_earth:compressed_calorite"
+        },
+        "E": {
+          "item": "chemlib:nobelium"
+        },
+        "F": {
+          "item": "chroma:cosmic_alloy"
+        },
+        "G": {
+          "item": "draconicevolution:wyvern_core"
+        },
+        "H": {
+          "item": "chroma:void_miner_tier_2"
+        },
+        "I": {
+          "item": "chroma:structure_frame"
+        },
+        "J": {
+          "item": "industrialforegoing:laser_lens0"
+        }
+      },
+      "result": {
+        "item": "chroma:void_miner_tier_3"
+      }
+    }
+  ).id(`${id_prefix}void_miner_tier_3`)
 });

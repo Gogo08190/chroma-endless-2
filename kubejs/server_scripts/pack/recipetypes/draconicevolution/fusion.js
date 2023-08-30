@@ -240,6 +240,20 @@ onEvent('recipes', (event) => {
           result: { item: 'draconicevolution:module_core' },
           id: 'draconicevolution:modules/module_core'
       },
+      {
+          inputs: [
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_ingot' },
+            { item: 'draconicevolution:draconium_core' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'chroma:void_miner_frame_tier2' },
+          total_energy: 10000,
+          result: { item: 'chroma:void_miner_frame_tier3' },
+          id: `${id_prefix}void_miner_frame_tier3`
+      },
     ];
 
     recipes.forEach((recipe) => {
