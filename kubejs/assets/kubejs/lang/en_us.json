@@ -996,10 +996,6 @@
   "chapter.stage.4.quest.30.subtitle.1": "Maximum Compact Machine",
   "chapter.stage.4.quest.30.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls, a Simple Machine Frame and the Giant Compact Machine with Molten Netherite.",
 
-  "chapter.stage.4.quest.30bis.subtitle.1": "Accessing The Void",
-  "chapter.stage.4.quest.30bis.description.1": "Using the Miniaturization Crafting, Build the Multiblock with Processed Obsidian Blocks, Obsidian, Dark Glass, Forgotten Metal Blocks, Blazing Crystal Blocks and the Maximum Compact Machine.",
-  "chapter.stage.4.quest.30bis.description.2": "Check JEI in order to build the multiblock. Don't forget to throw The Void Patch.",
-
   "chapter.stage.4.quest.31.subtitle.1": "Essential Mineral",
   "chapter.stage.4.quest.31.description.1": "Magnesium can be obtained by dissolving Light Gray Dye.",
 
@@ -1280,4 +1276,9 @@
 
   "chapter.stage.4.quest.129.subtitle.1": "Matrix Providers",
   "chapter.stage.4.quest.129.description.1": "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.stage.4.quest.130.subtitle.1": "Accessing The Void",
+  "chapter.stage.4.quest.130.description.1": "Using the Miniaturization Crafting, Build the Multiblock with Processed Obsidian Blocks, Obsidian, Dark Glass, Forgotten Metal Blocks, Blazing Crystal Blocks and the Maximum Compact Machine.",
+  "chapter.stage.4.quest.130.description.2": "Check JEI in order to build the multiblock. Don't forget to throw The Void Patch.",
+
 }
