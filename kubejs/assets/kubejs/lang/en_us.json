@@ -15,7 +15,7 @@
   "chapter.welcome.quest.2.description.1" : "FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory. \n\n&6Right-click&r anywhere in map to create a waypoint. \n\n&6Right-click&r on waypoints and death points to edit or delete them. \n\nClick on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading",
 
   "chapter.welcome.quest.3.title.1": "Ultimine",
-  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r is a very useful mod for mining.",
+  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r is a very usefill mod for mining.",
   "chapter.welcome.quest.3.description.2" : "Indeed, with the ² key (by default) you will see a &nwhite outline&r that we will call the &c&lUltimine Zone&r which represents what you will mine.",
   "chapter.welcome.quest.3.description.3" : "This &c&lUltimine Zone&r can be changed. In fact you can see that, if you keep pressing the ² key + mouse scrolling, you can change the shape of this zone and find the one that suits you best.",
 
@@ -170,9 +170,9 @@
   "chapter.stage.1.quest.25.description.1" : "An array of Mechnical Crafters can be used to automate any recipe.",
   "chapter.stage.1.quest.25.description.2" : "All paths have to converge and lead to an output and that on any side of a crafter.",
 
-  "chapter.stage.1.quest.26.subtitle.1": "A really useful component",
+  "chapter.stage.1.quest.26.subtitle.1": "A really usefull component",
   "chapter.stage.1.quest.26.description.1" : "Made with a sequence that you're gonna have to do 5 times,",
-  "chapter.stage.1.quest.26.description.2" : "The Precision Mechanism is going to be used in several useful recipes.",
+  "chapter.stage.1.quest.26.description.2" : "The Precision Mechanism is going to be used in several usefull recipes.",
   "chapter.stage.1.quest.26.description.3" : "Pro Tip : Making an early automation might be a good idea.",
 
   "chapter.stage.1.quest.27.subtitle.1": "Mining With Create !",
@@ -188,11 +188,11 @@
   "chapter.stage.1.quest.30s.description.1" : "Used to locate Ores or Fluid to extract with The Drill or The Well.",
 
   "chapter.stage.1.quest.31.subtitle.1": "Starting Tinker !",
-  "chapter.stage.1.quest.31.description.1" : "Tinker is a really useful mod ! I guess you should look the recipe to go on.",
+  "chapter.stage.1.quest.31.description.1" : "Tinker is a really usefull mod ! I guess you should look the recipe to go on.",
   "chapter.stage.1.quest.31.description.2" : "These first tables will allow you to create your first Tinker Tool !",
 
   "chapter.stage.1.quest.32.subtitle.1": "Store Useless Parts",
-  "chapter.stage.1.quest.32.description.1" : "This special is like said useful to stock your parts that you don't use anymore.",
+  "chapter.stage.1.quest.32.description.1" : "This special is like said usefull to stock your parts that you don't use anymore.",
 
   "chapter.stage.1.quest.33.subtitle.1": "A better, yet for now, chest",
   "chapter.stage.1.quest.33.description.1" : "The Tinker chest can store any item in a total of 64 slots. But note that each slot can only hold 16 items.",
@@ -204,7 +204,7 @@
 
   "chapter.stage.1.quest.35.subtitle.1": "Smelting  Grout",
   "chapter.stage.1.quest.35.description.1" : "Seared Bricks are used to make the parts of the Tinker Smeltery",
-  "chapter.stage.1.quest.35.description.2" : "Go to the next quest to see which parts are going to be useful",
+  "chapter.stage.1.quest.35.description.2" : "Go to the next quest to see which parts are going to be usefull",
 
   "chapter.stage.1.quest.36.title.1": "Melter",
   "chapter.stage.1.quest.36.subtitle.1": "Your first 'Smeltery', The Melter !",
@@ -214,7 +214,7 @@
   "chapter.stage.1.quest.37.title.1": "Smeltery",
   "chapter.stage.1.quest.37.subtitle.1": "The Tinker Smeltery !",
   "chapter.stage.1.quest.37.description.1" : "As we seen sooner in the quests, seared brick is going to be needed (again)",
-  "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be useful to make some parts !",
+  "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be usefull to make some parts !",
 
   "chapter.stage.1.quest.38.subtitle.1": "Gold And Zinc Mix",
 
@@ -278,12 +278,12 @@
   "chapter.stage.2.title": "Stage 2",
 
   "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer",
-  "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r.",
+  "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be usefull to build all of your &cImmersive Multiblocks&r.",
   "chapter.stage.2.quest.1.description.2": "So we suggest that you should keep it somewhere that you will remember !",
 
   "chapter.stage.2.quest.2.title.1": "Look at a complete &6Alloy Kiln",
   "chapter.stage.2.quest.2.subtitle.1": "Build an &5Alloy Kiln",
-  "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really useful to create early alloys.",
+  "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really usefull to create early alloys.",
 
   "chapter.stage.2.quest.3.title.1": "Look at a complete &6Coke Oven",
   "chapter.stage.2.quest.3.subtitle.1": "Build a &6Coke Oven&r",
@@ -666,7 +666,7 @@
   "chapter.stage.3.quest.16.description.1": "Crafting components for Pneumatic Upgrades.",
 
   "chapter.stage.3.quest.17.subtitle.1": "Hot Mixing",
-  "chapter.stage.3.quest.17.description.1": "This item will be useful, so I suggest you do an early automation.",
+  "chapter.stage.3.quest.17.description.1": "This item will be usefull, so I suggest you do an early automation.",
 
   "chapter.stage.3.quest.18.subtitle.1": "Transferring Pression",
   "chapter.stage.3.quest.18.description.1": "Pressure tubes move air between compressors and machines. Tube Modules can be placed on them.",
@@ -721,7 +721,7 @@
   "chapter.stage.3.quest.32.subtitle.1": "A better Control Circuit",
   "chapter.stage.3.quest.32.description.1" : "Simply infuse an Advanced Control Circuit with Compressed Steel infusion.",
 
-  "chapter.stage.3.quest.33.subtitle.1": "Useful Tablet",
+  "chapter.stage.3.quest.33.subtitle.1": "usefull Tablet",
   "chatper.stage.3.quest.33.description.1" : "The &bEnergy Tablet&f is a portable, rechargeable battery pack that can be charged with up to 1,000kJ of energy and can then be used to power other devices. It is also an ingredient in many recipes.",
 
   "chapter.stage.3.quest.34.subtitle.1": "Night is boring",
@@ -1175,27 +1175,38 @@
 
   "chapter.stage.4.quest.92.subtitle.1": "Smelting Compact Graphite",
 
-  "chapter.stage.4.quest.93.subtitle.1": "",
-  "chapter.stage.4.quest.93.description.1": ".",
-  "chapter.stage.4.quest.93.description.2": ".",
+  "chapter.stage.4.quest.93.subtitle.1": "Reactor Structuring",
+  "chapter.stage.4.quest.93.description.1": "Simply Energize Graphite Blocks, Uranium Blocks with Energized Steel Blocks and a Redstone Ingot Block.",
 
-  "chapter.stage.4.quest.94.subtitle.1": "",
-  "chapter.stage.4.quest.94.description.1": ".",
-  "chapter.stage.4.quest.94.description.2": ".",
+  "chapter.stage.4.quest.94.subtitle.1": "Building The Reactor",
+  "chapter.stage.4.quest.94.description.1": "These parts will be usefull to build your custom Reactor.",
 
-  "chapter.stage.4.quest.95.subtitle.1": "",
-  "chapter.stage.4.quest.95.description.1": ".",
-  "chapter.stage.4.quest.95.description.2": ".",
+  "chapter.stage.4.quest.95.subtitle.1": "Reactor Waste",
+  "chapter.stage.4.quest.95.description.1": "In order to work, your Reactor needs Uranium. Cyanite is the waste produced by your reactor.",
 
-  "chapter.stage.4.quest.96.subtitle.1": "",
-  "chapter.stage.4.quest.96.description.1": ".",
-  "chapter.stage.4.quest.96.description.2": ".",
+  "chapter.stage.4.quest.96.subtitle.1": "Reprocesing Waste",
 
-  "chapter.stage.4.quest.97.subtitle.1": "",
-  "chapter.stage.4.quest.97.description.1": ".",
-  "chapter.stage.4.quest.97.description.2": ".",
+  "chapter.stage.4.quest.97.subtitle.1": "Cyanite Recycling",
+  "chapter.stage.4.quest.97.description.1": "Reprocess your Cyanite and create some Blutonium? Simply add water and energy.",
 
-  "chapter.stage.4.quest.98.subtitle.1": "",
-  "chapter.stage.4.quest.98.description.1": ".",
-  "chapter.stage.4.quest.98.description.2": ".",
+  "chapter.stage.4.quest.98.subtitle.1": "Starting Space Compressing",
+  "chapter.stage.4.quest.98.description.1": "Using the Dissolution Chamber, assemble Blutonium Ingots , Blaze Rods and Enderium Blocks with Pink Slime.",
+
+  "chapter.stage.4.quest.99.subtitle.1": "Space Compressor",
+  "chapter.stage.4.quest.99.description.1": "Compress any compatible material.",
+
+  "chapter.stage.4.quest.100.subtitle.1": "Space Refinery",
+  "chapter.stage.4.quest.100.description.1": ".",
+
+  "chapter.stage.4.quest.101.subtitle.1": "",
+  "chapter.stage.4.quest.101.description.1": ".",
+  "chapter.stage.4.quest.101.description.2": ".",
+
+  "chapter.stage.4.quest.102.subtitle.1": "",
+  "chapter.stage.4.quest.102.description.1": ".",
+  "chapter.stage.4.quest.102.description.2": ".",
+
+  "chapter.stage.4.quest.103.subtitle.1": "",
+  "chapter.stage.4.quest.103.description.1": ".",
+  "chapter.stage.4.quest.103.description.2": ".",
 }
