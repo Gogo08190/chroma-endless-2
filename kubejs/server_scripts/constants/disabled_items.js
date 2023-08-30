@@ -70,5 +70,29 @@ const disabledItems = [
   'mysticalagriculture:supremium_furnace',
   'mysticaladaptations:insanium_furnace',
 
-  'wstweaks:lava_blade'
+  'wstweaks:lava_blade',
+
+  'ae2additions:1024k_crafting_storage', 
+  'ae2additions:4096k_crafting_storage',
+  'ae2additions:16384k_crafting_storage',
+  'ae2additions:65536k_crafting_storage',
+  'ae2additions:super_cell_component_1k',
+  'ae2additions:super_cell_component_4k',
+  'ae2additions:super_cell_component_16k',
+  'ae2additions:super_cell_component_64k',
+  'ae2additions:super_cell_component_256k',
+  'ae2additions:super_cell_component_1024k',
+  'ae2additions:super_cell_component_4096k',
+  'ae2additions:super_cell_component_16m',
+  'ae2additions:super_cell_component_65m',
+  'ae2additions:super_cell_housing',
+  'ae2additions:super_cell_1k',
+  'ae2additions:super_cell_4k',
+  'ae2additions:super_cell_16k',
+  'ae2additions:super_cell_64k',
+  'ae2additions:super_cell_256k',
+  'ae2additions:super_cell_1024k',
+  'ae2additions:super_cell_4096k',
+  'ae2additions:super_cell_16m',
+  'ae2additions:super_cell_65m'
 ];
