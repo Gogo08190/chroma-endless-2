@@ -24,5 +24,6 @@
   "block.chroma.nebula_extractor_energy_input": "Nebula Extractor Energy Input",
   "block.chroma.nebula_extractor_tier_1": "Nebula Extractor Controller Tier 1",
   "block.chroma.nebula_extractor_tier_2": "Nebula Extractor Controller Tier 2",
-  "block.chroma.nebula_extractor_tier_3": "Nebula Extractor Controller Tier 3"
+  "block.chroma.nebula_extractor_tier_3": "Nebula Extractor Controller Tier 3",
+  "block.chroma.nebula_extractor_tier_4": "Nebula Extractor Controller Tier 4"
 }
