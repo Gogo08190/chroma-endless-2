@@ -996,9 +996,9 @@
   "chapter.stage.4.quest.30.subtitle.1": "Maximum Compact Machine",
   "chapter.stage.4.quest.30.description.1": "Using the Dissolution Chamber, assemble Compact Machine Walls, a Simple Machine Frame and the Giant Compact Machine with Molten Netherite.",
 
-  "chapter.stage.4.quest.31.subtitle.1": "Accessing The Void",
-  "chapter.stage.4.quest.31.description.1": "Using the Miniaturization Crafting, Build the Multiblock with Processed Obsidian Blocks, Obsidian, Dark Glass, Forgotten Metal Blocks, Blazing Crystal Blocks and the Maximum Compact Machine.",
-  "chapter.stage.4.quest.31.description.1": "Check JEI in order to build the multiblock. Don't forget to throw The Void Patch.",
+  "chapter.stage.4.quest.30bis.subtitle.1": "Accessing The Void",
+  "chapter.stage.4.quest.30bis.description.1": "Using the Miniaturization Crafting, Build the Multiblock with Processed Obsidian Blocks, Obsidian, Dark Glass, Forgotten Metal Blocks, Blazing Crystal Blocks and the Maximum Compact Machine.",
+  "chapter.stage.4.quest.30bis.description.2": "Check JEI in order to build the multiblock. Don't forget to throw The Void Patch.",
 
   "chapter.stage.4.quest.31.subtitle.1": "Essential Mineral",
   "chapter.stage.4.quest.31.description.1": "Magnesium can be obtained by dissolving Light Gray Dye.",
@@ -1192,21 +1192,92 @@
   "chapter.stage.4.quest.98.subtitle.1": "Starting Space Compressing",
   "chapter.stage.4.quest.98.description.1": "Using the Dissolution Chamber, assemble Blutonium Ingots , Blaze Rods and Enderium Blocks with Pink Slime.",
 
-  "chapter.stage.4.quest.99.subtitle.1": "Space Compressor",
-  "chapter.stage.4.quest.99.description.1": "Compress any compatible material.",
+  "chapter.stage.4.quest.99.subtitle.1": "Space Molds",
 
-  "chapter.stage.4.quest.100.subtitle.1": "Space Refinery",
-  "chapter.stage.4.quest.100.description.1": ".",
+  "chapter.stage.4.quest.100.subtitle.1": "Space Compressor",
+  "chapter.stage.4.quest.100.description.1": "Compress any compatible material.",
 
-  "chapter.stage.4.quest.101.subtitle.1": "",
-  "chapter.stage.4.quest.101.description.1": ".",
-  "chapter.stage.4.quest.101.description.2": ".",
+  "chapter.stage.4.quest.101.subtitle.1": "Space Refinery",
+  "chapter.stage.4.quest.101.description.1": "Refines Oil into Fuel for your Rockets .",
 
-  "chapter.stage.4.quest.102.subtitle.1": "",
-  "chapter.stage.4.quest.102.description.1": ".",
-  "chapter.stage.4.quest.102.description.2": ".",
+  "chapter.stage.4.quest.102.subtitle.1": "Rocket Fuel",
 
-  "chapter.stage.4.quest.103.subtitle.1": "",
-  "chapter.stage.4.quest.103.description.1": ".",
-  "chapter.stage.4.quest.103.description.2": ".",
+  "chapter.stage.4.quest.103.subtitle.1": "Fuelling Station",
+  "chapter.stage.4.quest.103.description.1": "Crafted with The Ender Crafting process, the Fuel Loader will load the fuel in your Rockets.",
+
+  "chapter.stage.4.quest.103.subtitle.1": "Solar Tower",
+  "chapter.stage.4.quest.103.description.1": "The &bThermal Evaporation Plant&f is a multiblock structure with the purpose of converting Water to &eBrine&f, which can be further converted to &eLithium&f by the use of a second Thermal Evaporation Plant.",
+  "chapter.stage.4.quest.103.description.2": "The minimum height of the structure is 3 blocks. To increase the internal storage and rate of evaporation, the structure can be raised up to 18 blocks high.",
+
+  "chapter.stage.4.quest.104.subtitle.1": "Boiling Water",
+  "chapter.stage.4.quest.104.description.1": "In order to get Brine put Water in the Thermal Evaporation Tower.",
+
+  "chapter.stage.4.quest.105.subtitle.1": "Crystallizing",
+  "chapter.stage.4.quest.105.description.1": "This allows you to crystallize any compatible Slurry.",
+
+  "chapter.stage.4.quest.106.subtitle.1": "Lithium Crystallizer",
+  "chapter.stage.4.quest.106.description.1": "Crystallize Lithium Gaz in order to get Lithium Dusts.",
+
+  "chapter.stage.4.quest.107.subtitle.1": "Condensing Lithium",
+
+  "chapter.stage.4.quest.108.subtitle.1": "MultiCrafting",
+  "chapter.stage.4.quest.108.description.1": "Allows you to craft Endgame items. Becareful to place the exact number of pillars for each component items.",
+
+  "chapter.stage.4.quest.109.subtitle.1": "Moon Travel",
+  "chapter.stage.4.quest.109.description.1": "At least you are ready to fly to the moon !.",
+
+  "chapter.stage.4.quest.110.subtitle.1": "Excavting Moon Ores",
+
+  "chapter.stage.4.quest.111.subtitle.1": "Combining Press",
+  "chapter.stage.4.quest.111.description.1": "Combine all Applied Energistics Press into one",
+
+  "chapter.stage.4.quest.112.subtitle.1": "Universal Parallel Process",
+  "chapter.stage.4.quest.112.description.1": "Inscribe a Parallel Circuit and a Printed Silicon with the Universal Press to get the Parallel Processor.",
+
+  "chapter.stage.4.quest.113.subtitle.1": "Ultimate Transformation",
+  "chapter.stage.4.quest.113.description.1": "Transforms any Advanced Mekanism into Ultimate Tier",
+
+  "chapter.stage.4.quest.114.subtitle.1": "Really Smart Unit",
+
+  "chapter.stage.4.quest.115.subtitle.1": "Aggregation Energistics",
+  "chapter.stage.4.quest.115.description.1" : "The &bFluix Aggregator&r facilitates in-world crafting by combining Crystal Growth Accelerators.",
+
+  "chapter.stage.4.quest.116.subtitle.1": "A Really Better Inscriber",
+
+  "chapter.stage.4.quest.117.subtitle.1": "Grinding with Flux",
+
+  "chapter.stage.4.quest.118.subtitle.1": "Crafting Requesting Block",
+  "chapter.stage.4.quest.118.description.1" : "The &bME Requester&r is a block essential to an ME network for operation, designed to store up to 6 different types of items. Its configuration can be accessed by right-clicking, and all necessary information is provided there. An additional tip suggests dragging and dropping specific items from the JEI page if they are currently unavailable.",
+  "chapter.stage.4.quest.118.description.2" :"Regarding request batches, while the request count specifies the desired stock quantity, the batch size determines the number of items requested each time the Requester initiates a job. For clarity, consider an example: configuring the Requester with planks, a count of 10, and a batch size of 20, if the stock falls below 10, the Requester will ask for 20 planks at once (not 20 recipes). After crafting, you'll have 20 planks until the count dips below 10 for the next request.",
+
+  "chapter.stage.4.quest.119.subtitle.1": "Extracting Space Nebulation Part 1",
+  "chapter.stage.4.quest.119.description.1": "This first part is containing the blocks for the main core of the Nebula Extractor Multiblock.",
+
+  "chapter.stage.4.quest.120.subtitle.1": "Extracting Space Nebulation Part 2",
+  "chapter.stage.4.quest.120.description.1": "This second part is containing the more decoratives blocks of the Nebula Extractor Multiblock.",
+
+  "chapter.stage.4.quest.121.subtitle.1": "Assemble the Nebula Extractor Tier 1",
+
+  "chapter.stage.4.quest.122.subtitle.1": "First Extraction",
+  "chapter.stage.4.quest.122.description.1": "Extract the Star of the Moon by using the Nebula Extractor in the Moon Desert Biome.",
+
+  "chapter.stage.4.quest.123.subtitle.1": "Enriching Lunaris",
+  "chapter.stage.4.quest.123.description.1": "Get this simply by using the Enrichment Chamber.",
+
+  "chapter.stage.4.quest.124.subtitle.1": "Absolute Alloying",
+  "chapter.stage.4.quest.124.description.1": "Simply Infuse an Atomic Alloy with Lunaris Nova infusion.",
+
+  "chapter.stage.4.quest.125.subtitle.1": "Absolute Controlling",
+  "chapter.stage.4.quest.125.description.1": "Simply Infuse an Ultimate Control Circuit with Lunaris Nova infusion.",
+
+  "chapter.stage.4.quest.126.subtitle.1": "Spectral Storing Tablet",
+
+  "chapter.stage.4.quest.127.subtitle.1": "Induction Storing",
+  "chapter.stage.4.quest.127.description.1": "The Induction Matrix can store a really big amount of FE. These are the main part for building it.",
+
+  "chapter.stage.4.quest.128.subtitle.1": "Matrix Induction Cells",
+  "chapter.stage.4.quest.128.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.stage.4.quest.129.subtitle.1": "Matrix Providers",
+  "chapter.stage.4.quest.129.description.1": "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
 }
