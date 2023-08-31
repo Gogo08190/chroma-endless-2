@@ -22,6 +22,9 @@ const TAGS_ITEMS = [
     ["mekanism:shards/crystaltine", "chroma:crystaltine_shard"],
     ["mekanism:clumps", "chroma:crystaltine_clump"],
     ["mekanism:clumps/crystaltine", "chroma:crystaltine_clump"],
+
+    ["forge:ores/bitumen", "thermal:oil_sand"],
+    ["forge:ores/bitumen", "thermal:oil_red_sand"],
 ]
 
 onEvent('item.tags', (event) => {

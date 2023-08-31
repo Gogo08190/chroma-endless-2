@@ -63,7 +63,7 @@ onEvent('recipes', (event) => {
 
     const recipes = [
         {
-            output: { tag: 'forge:ores/bitumen' },
+            output: { item: 'thermal:oil_sand' },
             rarity: [
                 {
                     whitelist: {},
