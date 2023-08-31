@@ -920,7 +920,7 @@
   "chapter.stage.4.quest.5.subtitle.1": "A Better Frame",
   "chapter.stage.4.quest.5.description.1": "Using the Dissolution Chamber, assemble Plastics, Platinum Ingots, Reinforced Alloy, a Constantan Gear and a Pity Machine Frame with Latex.",
 
-  "chapter.stage.4.quest.6.subtitle.1": "Preparation of Crafting Boards",
+  "chapter.stage.4.quest.6.subtitle.1": "Preparation of Circuits Boards",
   "chapter.stage.4.quest.6.description.1": "With the pressure Chamber combine Electrum Nuggets, a Resin Plate and a Redstone Servo.",
 
   "chapter.stage.4.quest.7.subtitle.1": "Etching",
@@ -954,7 +954,7 @@
   "chapter.stage.4.quest.15.description.3": "These assembly line runs on compressed air, but you only need to suply air to the Assembly Controller to power the whole system.",
 
   "chapter.stage.4.quest.16.subtitle.1": "Another Worth Exchange",
-  "chapter.stage.4.quest.16.description.1": "Get those programs with Amadron Exchange System. The Drill & Laser programm can also be crafted.",
+  "chapter.stage.4.quest.16.description.1": "Get those programs with Amadron Exchange System. The Drill and Laser programm can also be crafted.",
 
   "chapter.stage.4.quest.17.subtitle.1": "Industrial First Unassembled Frame",
   "chapter.stage.4.quest.17.description.1": "With the pressure Chamber combine Oak Logs, Reinforced Stones and a Redstone Servo.",
@@ -1024,7 +1024,7 @@
   "chapter.stage.4.quest.39.description.1": "Find Regalium Ore in &2The Undergarden&r.",
 
   "chapter.stage.4.quest.40.subtitle.1": "Energizing Regalium",
-  "chapter.stage.4.quest.40.description.1": "Energize a Regalium Crystal and get an &e&lBlazing Crystal !",
+  "chapter.stage.4.quest.40.description.1": "Energize a Regalium Crystal and get an &e&lBlazing Crystal&r !",
 
   "chapter.stage.4.quest.41.subtitle.1": "The Power of the Sun, in the Palm of My Hand",
   "chapter.stage.4.quest.41.description.1": "A Better way of generating FE with the Sun. You can use this for the Thermal Evaporation Tower.",
@@ -1033,7 +1033,7 @@
   "chapter.stage.4.quest.42.description.1": "Beat the Forgotten Guardian and get Forgotten Nuggets in order to craft the Ingot.",
 
   "chapter.stage.4.quest.43.subtitle.1": "Energizing Forgotten Ingots",
-  "chapter.stage.4.quest.43.description.1": "Energize a Forgotten Ingot and get an &e&lNiotic Crystal !",
+  "chapter.stage.4.quest.43.description.1": "Energize a Forgotten Ingot and get an &e&lNiotic Crystal&r !",
 
   "chapter.stage.4.quest.44.subtitle.1": "Enriching Niotic Crystals",
 
@@ -1198,8 +1198,8 @@
 
   "chapter.stage.4.quest.102.subtitle.1": "Rocket Fuel",
 
-  "chapter.stage.4.quest.103.subtitle.1": "Fuelling Station",
-  "chapter.stage.4.quest.103.description.1": "Crafted with The Ender Crafting process, the Fuel Loader will load the fuel in your Rockets.",
+  "chapter.stage.4.quest.103b.subtitle.1": "Fuelling Station",
+  "chapter.stage.4.quest.103b.description.1": "Crafted with The Ender Crafting process, the Fuel Loader will load the fuel in your Rockets.",
 
   "chapter.stage.4.quest.103.subtitle.1": "Solar Tower",
   "chapter.stage.4.quest.103.description.1": "The &bThermal Evaporation Plant&f is a multiblock structure with the purpose of converting Water to &eBrine&f, which can be further converted to &eLithium&f by the use of a second Thermal Evaporation Plant.",
@@ -1219,6 +1219,7 @@
   "chapter.stage.4.quest.108.subtitle.1": "MultiCrafting",
   "chapter.stage.4.quest.108.description.1": "Allows you to craft Endgame items. Becareful to place the exact number of pillars for each component items.",
 
+  "chapter.stage.4.quest.109.title.1": "Visit dimension : &cThe Moon",
   "chapter.stage.4.quest.109.subtitle.1": "Moon Travel",
   "chapter.stage.4.quest.109.description.1": "At least you are ready to fly to the moon !.",
 
