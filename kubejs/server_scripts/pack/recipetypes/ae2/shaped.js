@@ -473,6 +473,17 @@ onEvent('recipes', (event) => {
             },
             id: 'ae2:network/crafting/patterns_blank'
         },
+        {
+            output: 'ae2additions:me_wireless_transceiver',
+            pattern: ['SPS', 'WAW', 'SPS'],
+            key: {
+                S: '#forge:ingots/fluix_steel',
+                P: 'ae2:engineering_processor',
+                W: 'ae2:wireless_receiver',
+                A: 'ae2:singularity'
+            },
+            id: 'ae2additions:blocks/wireless_transceiver'
+        },
     ];
 
     recipes.forEach((recipe) => {
