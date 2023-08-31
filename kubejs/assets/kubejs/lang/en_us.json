@@ -1223,7 +1223,7 @@
   "chapter.stage.4.quest.109.subtitle.1": "Moon Travel",
   "chapter.stage.4.quest.109.description.1": "At least you are ready to fly to the moon !",
 
-  "chapter.stage.4.quest.110.subtitle.1": "Excavting Moon Ores",
+  "chapter.stage.4.quest.110.subtitle.1": "Excavating Moon Ores",
 
   "chapter.stage.4.quest.111.subtitle.1": "Combining Press",
   "chapter.stage.4.quest.111.description.1": "Combine all Applied Energistics Press into one",
@@ -1256,10 +1256,10 @@
   "chapter.stage.4.quest.121.subtitle.1": "Assemble the Nebula Extractor Tier 1",
 
   "chapter.stage.4.quest.122.subtitle.1": "First Extraction",
-  "chapter.stage.4.quest.122.description.1": "Extract the Star of the Moon by using the Nebula Extractor in the Moon Desert Biome.",
+  "chapter.stage.4.quest.122.description.1": "Extract the Star of the Moon : Lunaris Nova, by using the Nebula Extractor in the Moon Desert Biome.",
 
   "chapter.stage.4.quest.123.subtitle.1": "Enriching Lunaris",
-  "chapter.stage.4.quest.123.description.1": "Get this simply by using the Enrichment Chamber.",
+  "chapter.stage.4.quest.123.description.1": "Get Compressed Lunaris Nova simply by using the Enrichment Chamber.",
 
   "chapter.stage.4.quest.124.subtitle.1": "Absolute Alloying",
   "chapter.stage.4.quest.124.description.1": "Simply Infuse an Atomic Alloy with Lunaris Nova infusion.",
@@ -1435,49 +1435,52 @@
   "chapter.stage.5.quest.55.subtitle.1": "Building The T2 Rocket",
   "chapter.stage.5.quest.55.description.1": "In the Nasa Workbench assemble all previous asked elements and craft the Tier 2 Rocket.",
 
-  "chapter.stage.5.quest.56.title" : "",
-  "chapter.stage.5.quest.56.subtitle.1": "",
-  "chapter.stage.5.quest.56.description.1": "",
+  "chapter.stage.5.quest.56.title" : "Visit Dimension : &bVenus",
+  "chapter.stage.5.quest.56.subtitle.1": "it's Freezing",
 
-  "chapter.stage.5.quest.57.subtitle.1": "",
-  "chapter.stage.5.quest.57.description.1": "",
+  "chapter.stage.5.quest.57.title": "Visit Dimension : &cMars",
+  "chapter.stage.5.quest.57.subtitle.1": "Hell on a planet",
+  "chapter.stage.5.quest.57.description.1": "On Mars you will find some &cOstrum Ore&r",
 
-  "chapter.stage.5.quest.58.subtitle.1": "",
-  "chapter.stage.5.quest.58.description.1": "",
+  "chapter.stage.5.quest.58.subtitle.1": "Excavating Mars Ores",
 
-  "chapter.stage.5.quest.59.subtitle.1": "",
-  "chapter.stage.5.quest.59.description.1": "",
+  "chapter.stage.5.quest.59.subtitle.1": "T2 Space Nebulation Extraction Part 1",
 
-  "chapter.stage.5.quest.60.subtitle.1": "",
-  "chapter.stage.5.quest.60.description.1": "",
+  "chapter.stage.5.quest.60.subtitle.1": "T2 Space Nebulation Extraction Part 2",
 
-  "chapter.stage.5.quest.61.subtitle.1": "",
-  "chapter.stage.5.quest.61.description.1": "",
+  "chapter.stage.5.quest.61.subtitle.1": "Mars Extraction",
+  "chapter.stage.5.quest.61.description.1": "Extract the Star of Mars : Marsova Ignis, by using the Nebula Extractor in the Mars Desert Biome",
 
-  "chapter.stage.5.quest.62.subtitle.1": "",
-  "chapter.stage.5.quest.62.description.1": "",
+  "chapter.stage.5.quest.62.subtitle.1": "Enriching Marsova",
+  "chapter.stage.5.quest.62.description.1": "Get Compressed Marsova Nova simply by using the Enrichment Chamber.",
 
-  "chapter.stage.5.quest.63.subtitle.1": "",
-  "chapter.stage.5.quest.63.description.1": "",
+  "chapter.stage.5.quest.63.subtitle.1": "Supreme Controlling",
+  "chapter.stage.5.quest.63.description.1": "Simply Infuse an Absolute Control Circuit with Marsova Nova infusion.",
 
-  "chapter.stage.5.quest.64.subtitle.1": "",
-  "chapter.stage.5.quest.64.description.1": "",
+  "chapter.stage.5.quest.64.subtitle.1": "Supreme Alloying",
+  "chapter.stage.5.quest.64.description.1": "Simply Infuse an Absolute Alloy with Marsova Nova infusion.",
 
-  "chapter.stage.5.quest.65.subtitle.1": "",
-  "chapter.stage.5.quest.65.description.1": "",
+  "chapter.stage.5.quest.65.subtitle.1": "Singular Storing Tablet",
 
-  "chapter.stage.5.quest.66.subtitle.1": "",
-  "chapter.stage.5.quest.66.description.1": "",
+  "chapter.stage.5.quest.66.subtitle.1": "Mekanism Fission Reactor",
+  "chapter.stage.5.quest.66.description.1": "The Fission Reactor is used to create Chemical Waste. You'll see how to deal with that later.",
 
-  "chapter.stage.5.quest.67.subtitle.1": "",
-  "chapter.stage.5.quest.67.description.1": "",
+  "chapter.stage.5.quest.67.subtitle.1": "Sun Power... again",
+  "chapter.stage.5.quest.67.description.1": "This machine is only used for 2 things. Transforms Lithium into Tritium and Nuclear Waste into Polonium.",
 
-  "chapter.stage.5.quest.68.subtitle.1": "",
-  "chapter.stage.5.quest.68.description.1": "",
+  "chapter.stage.5.quest.68.subtitle.1": "Isotopes Mixer",
+  "chapter.stage.5.quest.68.description.1": "This machine is only used for 2 things. Transforms Uranium Hexafluoride into Fissile Fuel and Nuclear Waste into Plutonium.",
 
-  "chapter.stage.5.quest.69.subtitle.1": "",
-  "chapter.stage.5.quest.69.description.1": "",
+  "chapter.stage.5.quest.69.subtitle.1": "Reaction Pressurisation",
+  "chapter.stage.5.quest.69.description.1": "Pressurize 2 Fluids with any compatible item and obtain the resulting Item and Waste.",
 
-  "chapter.stage.5.quest.70.subtitle.1": "",
-  "chapter.stage.5.quest.70.description.1": ""
+  "chapter.stage.5.quest.70.subtitle.1": "Creating Plutonium",
+  "chapter.stage.5.quest.70.description.1": "Pressurize the Plutonium Gas with any compatible gas and get some Plutonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
+
+  "chapter.stage.5.quest.71.subtitle.1": "Creating Polonium",
+  "chapter.stage.5.quest.71.description.1": "Pressurize the Polonium Gas with any compatible gas and get some Polonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
+
+  "Stage 6":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.6.title": "Stage 6",
 }
