@@ -1349,80 +1349,73 @@
 
   "chapter.stage.5.quest.24.subtitle.1": "Better Agglomeration",
   "chapter.stage.5.quest.24.description.1": "With the Mana Infuser and the new corresponding multiblock, you will be able to make faster basic Botania Ingots.",
-  "chapter.stage.5.quest.24.description.2": "Now with this you will be able to craft &c&lThe Alfsteel Ingot&r.",
 
+  "chapter.stage.5.quest.25.subtitle.1": "A New Botanical Ingot",
+  "chapter.stage.5.quest.25.description.1": "With the Mana Infuser Multiblock and 2 full Mana Pools, you will be able to get &cAlfsteel&r.",
 
-  "chapter.stage.5.quest.25.subtitle.1": "",
-  "chapter.stage.5.quest.25.description.1": "",
+  "chapter.stage.5.quest.26.subtitle.1": "Mimir has Called",
 
-  "chapter.stage.5.quest.26.subtitle.1": "",
-  "chapter.stage.5.quest.26.description.1": "",
+  "chapter.stage.5.quest.27.subtitle.1": "Divine Water",
+  "chapter.stage.5.quest.27.description.1": "First right click with Gjallarhorn, then by giving a Mana Source, the Branch will fill the Gjallarhorn.",
 
-  "chapter.stage.5.quest.27.subtitle.1": "",
-  "chapter.stage.5.quest.27.description.1": "",
+  "chapter.stage.5.quest.28.subtitle.1": "Drink !",
+  "chapter.stage.5.quest.28.description.1": "After waiting enough, you will get this. Skål !",
 
-  "chapter.stage.5.quest.28.subtitle.1": "",
-  "chapter.stage.5.quest.28.description.1": "",
+  "chapter.stage.5.quest.29.subtitle.1": "New Gaia Loot",
+  "chapter.stage.5.quest.29.description.1": "After drinking the Water from the well of Mimir, you will have to face again the Stage 2 Gaïa. ",
 
-  "chapter.stage.5.quest.29.subtitle.1": "",
-  "chapter.stage.5.quest.29.description.1": "",
+  "chapter.stage.5.quest.30.subtitle.1": "Rune Rituals",
+  "chapter.stage.5.quest.30.description.1": "Mythic Botany adds a new way of crafting advanced items. In fact depending on the number of components you will need the exact same number of Rune Holders and of course the Centrale Rune Holder.",
+  "chapter.stage.5.quest.30.description.2": "Be careful, the items in the between slot must be dropped near the Central Rune Holder.",
 
-  "chapter.stage.5.quest.30.subtitle.1": "",
-  "chapter.stage.5.quest.30.description.1": "",
+  "chapter.stage.5.quest.31.subtitle.1": "You're Not a Vampire",
+  "chapter.stage.5.quest.31.description.1": "Through the Rune Ritual you will have to craft the &4Blood Of Kvasir&r. Don't forget to have a Mana Tablet and your Wand of the Forest.",
 
+  "chapter.stage.5.quest.32.subtitle.1": "Sweet Honey to Paradise",
+  "chapter.stage.5.quest.32.description.1": "Skål ! Again !",
 
-  "chapter.stage.5.quest.31.subtitle.1": "",
-  "chapter.stage.5.quest.31.description.1": "",
+  "chapter.stage.5.quest.33.subtitle.1": "Alfheim Portal",
 
-  "chapter.stage.5.quest.32.subtitle.1": "",
-  "chapter.stage.5.quest.32.description.1": "",
+  "chapter.stage.5.quest.34.subtitle.1": "Travel the Alfheim",
 
-  "chapter.stage.5.quest.33.subtitle.1": "",
-  "chapter.stage.5.quest.33.description.1": "",
+  "chapter.stage.5.quest.35.subtitle.1": "Building the Fission Reactor",
+  "chapter.stage.5.quest.35.description.1": "Gathering multiple crafting methods, The Fission Reactor can separated advanced elements.",
 
-  "chapter.stage.5.quest.34.subtitle.1": "",
-  "chapter.stage.5.quest.34.description.1": "",
+  "chapter.stage.5.quest.36.subtitle.1": "He really does need mint",
+  "chapter.stage.5.quest.36.description.1": "Thanks to the Ender Dragon Prediction get some Dragon Breath",
 
-  "chapter.stage.5.quest.35.subtitle.1": "",
-  "chapter.stage.5.quest.35.description.1": "",
+  "chapter.stage.5.quest.37.subtitle.1": "Dissolving Breath",
+  "chapter.stage.5.quest.37.description.1": "Using the Dissolver, dissolve &5Dragon Breath&r to get Oganesson Elements.",
 
-  "chapter.stage.5.quest.36.subtitle.1": "",
-  "chapter.stage.5.quest.36.description.1": "",
+  "chapter.stage.5.quest.38.subtitle.1": "Oganesson Fission",
+  "chapter.stage.5.quest.38.description.1": "Simply use the Fission Reactor with Oganesson and get some Praseodymium",
 
-  "chapter.stage.5.quest.37.subtitle.1": "",
-  "chapter.stage.5.quest.37.description.1": "",
+  "chapter.stage.5.quest.39.subtitle.1": "Compacting Praseodymium",
 
-  "chapter.stage.5.quest.38.subtitle.1": "",
-  "chapter.stage.5.quest.38.description.1": "",
+  "chapter.stage.5.quest.40.subtitle.1": "Praseodymium Dust Smelting",
 
-  "chapter.stage.5.quest.39.subtitle.1": "",
-  "chapter.stage.5.quest.39.description.1": "",
+  "chapter.stage.5.quest.41.subtitle.1": "Green Transformation",
+  "chapter.stage.5.quest.41.description.1": "Simply Energize a Praseodymium ingot and get Spirited Crystals.",
 
-  "chapter.stage.5.quest.40.subtitle.1": "",
-  "chapter.stage.5.quest.40.description.1": "",
+  "chapter.stage.5.quest.42.subtitle.1": "Ore Generating Multiblock",
+  "chapter.stage.5.quest.42.description.1": "With some Spirited Crystals you will be able to build our custom Ore Miner Multiblock.",
 
-  "chapter.stage.5.quest.41.subtitle.1": "",
-  "chapter.stage.5.quest.41.description.1": "",
+  "chapter.stage.5.quest.43.subtitle.1": "Dissolving End Stone",
+  "chapter.stage.5.quest.43.description.1": "Using the Dissolver, dissolve &5End Stone&r to get Thorium Elements.",
 
-  "chapter.stage.5.quest.42.subtitle.1": "",
-  "chapter.stage.5.quest.42.description.1": "",
+  "chapter.stage.5.quest.44.subtitle.1": "Fissioning Thorium",
+  "chapter.stage.5.quest.44.description.1": "Use the Fission Reactor to get Rhodium.",
 
-  "chapter.stage.5.quest.43.subtitle.1": "",
-  "chapter.stage.5.quest.43.description.1": "",
+  "chapter.stage.5.quest.45.subtitle.1": "Turbine Builder",
+  "chapter.stage.5.quest.45.description.1": "Build Big Reactor Turbines with those casing. To get them simply energize Rhodium Elements with Graphite and Cyanite Blocks.",
 
-  "chapter.stage.5.quest.44.subtitle.1": "",
-  "chapter.stage.5.quest.44.description.1": "",
+  "chapter.stage.5.quest.46.subtitle.1": "Dissolving Ghast Tears",
+  "chapter.stage.5.quest.46.description.1": "Using the Dissolver, dissolve &3Ghast Tears&r to get Polonium Elements.",
 
-  "chapter.stage.5.quest.45.subtitle.1": "",
-  "chapter.stage.5.quest.45.description.1": "",
+  "chapter.stage.5.quest.47.subtitle.1": "Fissioning Polonium",
+  "chapter.stage.5.quest.47.description.1": "Use the Fission Reactor to get Molybdenum.",
 
-  "chapter.stage.5.quest.46.subtitle.1": "",
-  "chapter.stage.5.quest.46.description.1": "",
-
-  "chapter.stage.5.quest.47.subtitle.1": "",
-  "chapter.stage.5.quest.47.description.1": "",
-
-  "chapter.stage.5.quest.48.subtitle.1": "",
+  "chapter.stage.5.quest.48.subtitle.1": "Heat Exchanger Builder",
   "chapter.stage.5.quest.48.description.1": "",
 
   "chapter.stage.5.quest.49.subtitle.1": "",
