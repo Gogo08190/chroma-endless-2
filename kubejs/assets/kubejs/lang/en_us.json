@@ -1286,10 +1286,9 @@
   "chapter.stage.5.title": "Stage 5",
 
   "chapter.stage.5.quest.1.subtitle.1": "A Really Better Frame",
-  "chapter.stage.5.quest.1.description.1": "Using the Dissolution Chamber, assemble Plastics , Absolute Control Circuits , Desh Ingots Rods a Lumium Gear and a Simple Machine Frame with Pink Slime",
-
+  "chapter.stage.5.quest.1.description.1": "Using the Dissolution Chamber, assemble Plastics , Absolute Control Circuits , Desh Ingots Rods a Lumium Gear and a Simple Machine Frame with Pink Slime.",
   "chapter.stage.5.quest.2.subtitle.1": "Mining With Lasers",
-  "chapter.stage.5.quest.2.description.1": "In order to mine with Lasers, you will need 4 of them.",
+  "chapter.stage.5.quest.2.description.1": "In order to generate different kind of ressources with Lasers, you will need 4 of them.",
 
   "chapter.stage.5.quest.3.subtitle.1": "Mining Laser Core",
   "chapter.stage.5.quest.3.description.1": "This is the Main Machine to setup the Mining Laser Drill. Put the 4 Drills like it the image and let ore generates ! ",
@@ -1297,62 +1296,55 @@
   "chapter.stage.5.quest.4.subtitle.1": "Fluid Mining",
   "chapter.stage.5.quest.4.description.1": "As well as the Laser Drill it can mine things but this time is Fluid !",
 
-  "chapter.stage.5.quest.5.subtitle.1": "",
-  "chapter.stage.5.quest.5.description.1": "",
+  "chapter.stage.5.quest.5.subtitle.1": "Wither Stabilizer",
+  "chapter.stage.5.quest.5.description.1": "The Stasis Chamber is a machine added by Industrial Foregoing that uses Forge Energy to freeze and heal any mobs in its working area.",
 
-  "chapter.stage.5.quest.6.subtitle.1": "",
-  "chapter.stage.5.quest.6.description.1": "",
+  "chapter.stage.5.quest.6.subtitle.1": "Drilling the Wither",
+  "chapter.stage.5.quest.6.description.1": "Made in the Dissolution Chamber, the Purple Laser Lens allows you to generate EtherGas",
 
-  "chapter.stage.5.quest.7.subtitle.1": "",
-  "chapter.stage.5.quest.7.description.1": "",
+  "chapter.stage.5.quest.7.subtitle.1": "Generating Ether Gas",
+  "chapter.stage.5.quest.7.description.1": "Using a Laser Drill with a Fluid Laser Base and a Purple Laser Lens produces Ether Gas when placed directly above a Wither. This fluid is required to craft Industrial Foregoing's most expensive items, including its highest tier machine frame. ",
 
-  "chapter.stage.5.quest.8.subtitle.1": "",
-  "chapter.stage.5.quest.8.description.1": "",
+  "chapter.stage.5.quest.8.subtitle.1": "Capturing Mob Souls",
+  "chapter.stage.5.quest.8.description.1": "In order to build any Mob Data Model you will to right click on it.",
 
-  "chapter.stage.5.quest.9.subtitle.1": "",
-  "chapter.stage.5.quest.9.description.1": "",
+  "chapter.stage.5.quest.9.subtitle.1": "Farming by Learning",
+  "chapter.stage.5.quest.9.description.1": ". The deep learner allows you to store a few data models within, and kills you receive will begin to train the model. All models start out in the Faulty state, and must be trained up to Basic in the deep learner.",
 
-  "chapter.stage.5.quest.10.subtitle.1": "",
-  "chapter.stage.5.quest.10.description.1": "",
+  "chapter.stage.5.quest.10.subtitle.1": "Matrix Loot",
+  "chapter.stage.5.quest.10.description.1": "Running simulations requires energy (based on the model type) and a catalyst item, which is usually a Prediction Matrix.",
 
-  "chapter.stage.5.quest.11.subtitle.1": "",
-  "chapter.stage.5.quest.11.description.1": "",
+  "chapter.stage.5.quest.11.subtitle.1": "Prediction Looter",
+  "chapter.stage.5.quest.11.description.1": "Once your model is Basic or higher, you can use the simulation chamber to run simulations of your model. Simulations will always produce a generalized prediction, and may also produce a Mob Prediction, based on the accuracy of the model. The higher tier of the model, the higher the accuracy, up to 99.5% at Self Aware. ",
 
-  "chapter.stage.5.quest.12.subtitle.1": "",
-  "chapter.stage.5.quest.12.description.1": "",
+  "chapter.stage.5.quest.12.subtitle.1": "Gaia Simulation",
+  "chapter.stage.5.quest.12.description.1": "Get a Guardian of Gaia prediction with the Simulation Chamber.",
 
-  "chapter.stage.5.quest.13.subtitle.1": "",
-  "chapter.stage.5.quest.13.description.1": "",
+  "chapter.stage.5.quest.13.subtitle.1": "Loot Fabrication",
+  "chapter.stage.5.quest.13.description.1": "Mob Predictions will need to be processed in a Loot Fabricator, a device which uses power to convert predictions to mob drops. The drops which are available are based on a list of pre-defined items, and a target can be selected for each type of model. The loot fabricator will remember your choices for each type, so you can feed multiple types of predictions into a single fabricator.",
 
-  "chapter.stage.5.quest.14.subtitle.1": "",
-  "chapter.stage.5.quest.14.description.1": "",
+  "chapter.stage.5.quest.14.subtitle.1": "Gaia Looting",
+  "chapter.stage.5.quest.14.description.1": "Thanks to the Guardian of Gaia prediction get some Gaia Skin.",
 
-  "chapter.stage.5.quest.15.subtitle.1": "",
-  "chapter.stage.5.quest.15.description.1": "",
+  "chapter.stage.5.quest.15.subtitle.1": "Automatic Mana Brewer",
 
-  "chapter.stage.5.quest.16.subtitle.1": "",
-  "chapter.stage.5.quest.16.description.1": "",
+  "chapter.stage.5.quest.16.subtitle.1": "Automatic Mana Pool",
 
-  "chapter.stage.5.quest.17.subtitle.1": "",
-  "chapter.stage.5.quest.17.description.1": "",
+  "chapter.stage.5.quest.17.subtitle.1": "Automatic Pure Daisy",
 
-  "chapter.stage.5.quest.18.subtitle.1": "",
-  "chapter.stage.5.quest.18.description.1": "",
+  "chapter.stage.5.quest.18.subtitle.1": "Automatic Runic Altar",
 
-  "chapter.stage.5.quest.19.subtitle.1": "",
-  "chapter.stage.5.quest.19.description.1": "",
+  "chapter.stage.5.quest.19.subtitle.1": "Automatic Agglomeration",
 
-  "chapter.stage.5.quest.20.subtitle.1": "",
-  "chapter.stage.5.quest.20.description.1": "",
+  "chapter.stage.5.quest.20.subtitle.1": "Automatic Apothecary",
 
-  "chapter.stage.5.quest.21.subtitle.1": "",
-  "chapter.stage.5.quest.21.description.1": "",
+  "chapter.stage.5.quest.21.subtitle.1": "Automatic Alfheim Exchange",
 
-  "chapter.stage.5.quest.22.subtitle.1": "",
-  "chapter.stage.5.quest.22.description.1": "",
+  "chapter.stage.5.quest.22.subtitle.1": "Stocking and Sending Mana",
+  "chapter.stage.5.quest.22.description.1": "This is the main block from Botanical Machiney. It allows you to stock Mana and send it to other machines. Don't forget to Sparks with any upgrades you want. (Depending on what you want to do.) ",
 
-  "chapter.stage.5.quest.23.subtitle.1": "",
-  "chapter.stage.5.quest.23.description.1": "",
+  "chapter.stage.5.quest.23.subtitle.1": "Viking Beware",
+  "chapter.stage.5.quest.23.description.1": "Thanks to the Guardian of Gaia prediction get some Asgard Runes.",
 
   "chapter.stage.5.quest.24.subtitle.1": "",
   "chapter.stage.5.quest.24.description.1": "",
