@@ -1219,9 +1219,9 @@
   "chapter.stage.4.quest.108.subtitle.1": "MultiCrafting",
   "chapter.stage.4.quest.108.description.1": "Allows you to craft Endgame items. Becareful to place the exact number of pillars for each component items.",
 
-  "chapter.stage.4.quest.109.title.1": "Visit dimension : &cThe Moon",
+  "chapter.stage.4.quest.109.title.1": "Visit dimension : &6The Moon",
   "chapter.stage.4.quest.109.subtitle.1": "Moon Travel",
-  "chapter.stage.4.quest.109.description.1": "At least you are ready to fly to the moon !.",
+  "chapter.stage.4.quest.109.description.1": "At least you are ready to fly to the moon !",
 
   "chapter.stage.4.quest.110.subtitle.1": "Excavting Moon Ores",
 
@@ -1416,29 +1416,26 @@
   "chapter.stage.5.quest.47.description.1": "Use the Fission Reactor to get Molybdenum.",
 
   "chapter.stage.5.quest.48.subtitle.1": "Heat Exchanger Builder",
-  "chapter.stage.5.quest.48.description.1": "",
+  "chapter.stage.5.quest.48.description.1": "The Heat Exchanger is optional, you can create steam with just the reactor (replace the power tap with two coolant ports, one for water input and the other for steam output).",
+  "chapter.stage.5.quest.48.description.2": "It is only required if you want to pipe a different fluid through the reactor (like sodium).",
 
-  "chapter.stage.5.quest.49.subtitle.1": "",
-  "chapter.stage.5.quest.49.description.1": "",
+  "chapter.stage.5.quest.49.subtitle.1": "Three for One Special",
+  "chapter.stage.5.quest.49.description.1": "The Advanced Compressor can like the normal one to compress any compatible item. But now it can also do Rolling and Extruding.",
 
-  "chapter.stage.5.quest.50.subtitle.1": "",
-  "chapter.stage.5.quest.50.description.1": "",
+  "chapter.stage.5.quest.50.subtitle.1": "Rocket Components Part 1",
 
-  "chapter.stage.5.quest.51.subtitle.1": "",
-  "chapter.stage.5.quest.51.description.1": "",
+  "chapter.stage.5.quest.51.subtitle.1": "Rocket Components Part 2",
 
- "chapter.stage.5.quest.52.subtitle.1": "",
-  "chapter.stage.5.quest.52.description.1": "",
+  "chapter.stage.5.quest.52.subtitle.1": "Rocket Components Part 3",
 
-  "chapter.stage.5.quest.53.subtitle.1": "",
-  "chapter.stage.5.quest.53.description.1": "",
+  "chapter.stage.5.quest.53.subtitle.1": "Rocket Components Part 4",
 
-  "chapter.stage.5.quest.54.subtitle.1": "",
-  "chapter.stage.5.quest.54.description.1": "",
+  "chapter.stage.5.quest.54.subtitle.1": "Rocket Components Part 5",
 
-  "chapter.stage.5.quest.55.subtitle.1": "",
-  "chapter.stage.5.quest.55.description.1": "",
+  "chapter.stage.5.quest.55.subtitle.1": "Building The T2 Rocket",
+  "chapter.stage.5.quest.55.description.1": "In the Nasa Workbench assemble all previous asked elements and craft the Tier 2 Rocket.",
 
+  "chapter.stage.5.quest.56.title" : "",
   "chapter.stage.5.quest.56.subtitle.1": "",
   "chapter.stage.5.quest.56.description.1": "",
 
