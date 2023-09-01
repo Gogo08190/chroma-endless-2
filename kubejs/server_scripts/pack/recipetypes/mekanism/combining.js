@@ -25,6 +25,18 @@ onEvent('recipes', (event) => {
         extrainput: 'minecraft:wheat_seeds',
         output: 'mysticalagriculture:prosperity_seed_base',
         id: 'mysticalagriculture:prosperity_seed_base'
+      },
+      {
+        input: 'mysticalagriculture:prosperity_block',
+        extrainput: 'evilcraft:dark_power_gem',
+        output: 'mysticalagriculture:prosperity_gemstone',
+        id: 'mysticalagriculture:prosperity_gemstone'
+      },
+      {
+        input: 'mysticalagriculture:prosperity_block',
+        extrainput: 'blue_skies:ventium_ingot',
+        output: 'mysticalagriculture:prosperity_ingot',
+        id: 'mysticalagriculture:prosperity_ingot'
       }
     ];
 
