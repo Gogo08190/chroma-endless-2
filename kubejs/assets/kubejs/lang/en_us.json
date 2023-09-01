@@ -1378,6 +1378,7 @@
 
   "chapter.stage.5.quest.34.subtitle.1": "Travel the Alfheim",
 
+  "chapter.stage.5.quest.35.title.1": "Fission Reactor",
   "chapter.stage.5.quest.35.subtitle.1": "Building the Fission Reactor",
   "chapter.stage.5.quest.35.description.1": "Gathering multiple crafting methods, The Fission Reactor can separated advanced elements.",
 
@@ -1397,6 +1398,7 @@
   "chapter.stage.5.quest.41.subtitle.1": "Green Transformation",
   "chapter.stage.5.quest.41.description.1": "Simply Energize a Praseodymium ingot and get Spirited Crystals.",
 
+  "chapter.stage.5.quest.42.title.1": "Void Miner Tier 1",
   "chapter.stage.5.quest.42.subtitle.1": "Ore Generating Multiblock",
   "chapter.stage.5.quest.42.description.1": "With some Spirited Crystals you will be able to build our custom Ore Miner Multiblock.",
 
@@ -1435,50 +1437,50 @@
   "chapter.stage.5.quest.55.subtitle.1": "Building The T2 Rocket",
   "chapter.stage.5.quest.55.description.1": "In the Nasa Workbench assemble all previous asked elements and craft the Tier 2 Rocket.",
 
-  "chapter.stage.5.quest.56.title" : "Visit Dimension : &bVenus",
-  "chapter.stage.5.quest.56.subtitle.1": "it's Freezing",
+  "chapter.stage.5.quest.56.title": "Visit Dimension : &cMars",
+  "chapter.stage.5.quest.56.subtitle.1": "Hell on a planet",
+  "chapter.stage.5.quest.56.description.1": "On Mars you will find some &cOstrum Ore&r",
 
-  "chapter.stage.5.quest.57.title": "Visit Dimension : &cMars",
-  "chapter.stage.5.quest.57.subtitle.1": "Hell on a planet",
-  "chapter.stage.5.quest.57.description.1": "On Mars you will find some &cOstrum Ore&r",
+  "chapter.stage.5.quest.57.subtitle.1": "Excavating Mars Ores",
 
-  "chapter.stage.5.quest.58.subtitle.1": "Excavating Mars Ores",
+  "chapter.stage.5.quest.58.title.1": "Nebula Extractor Tier 2 - Part 1",
+  "chapter.stage.5.quest.58.subtitle.1": "T2 Space Nebulation Extraction Part 1",
 
-  "chapter.stage.5.quest.59.subtitle.1": "T2 Space Nebulation Extraction Part 1",
+  "chapter.stage.5.quest.59.title.1": "Nebula Extractor Tier 2 - Part 2",
+  "chapter.stage.5.quest.59.subtitle.1": "T2 Space Nebulation Extraction Part 2",
 
-  "chapter.stage.5.quest.60.subtitle.1": "T2 Space Nebulation Extraction Part 2",
+  "chapter.stage.5.quest.60.subtitle.1": "Mars Extraction",
+  "chapter.stage.5.quest.60.description.1": "Extract the Star of Mars : Marsova Ignis, by using the Nebula Extractor in the Mars Desert Biome",
 
-  "chapter.stage.5.quest.61.subtitle.1": "Mars Extraction",
-  "chapter.stage.5.quest.61.description.1": "Extract the Star of Mars : Marsova Ignis, by using the Nebula Extractor in the Mars Desert Biome",
+  "chapter.stage.5.quest.61.subtitle.1": "Enriching Marsova",
+  "chapter.stage.5.quest.61.description.1": "Get Compressed Marsova Nova simply by using the Enrichment Chamber.",
 
-  "chapter.stage.5.quest.62.subtitle.1": "Enriching Marsova",
-  "chapter.stage.5.quest.62.description.1": "Get Compressed Marsova Nova simply by using the Enrichment Chamber.",
+  "chapter.stage.5.quest.62.subtitle.1": "Supreme Controlling",
+  "chapter.stage.5.quest.62.description.1": "Simply Infuse an Absolute Control Circuit with Marsova Nova infusion.",
 
-  "chapter.stage.5.quest.63.subtitle.1": "Supreme Controlling",
-  "chapter.stage.5.quest.63.description.1": "Simply Infuse an Absolute Control Circuit with Marsova Nova infusion.",
+  "chapter.stage.5.quest.63.subtitle.1": "Supreme Alloying",
+  "chapter.stage.5.quest.63.description.1": "Simply Infuse an Absolute Alloy with Marsova Nova infusion.",
 
-  "chapter.stage.5.quest.64.subtitle.1": "Supreme Alloying",
-  "chapter.stage.5.quest.64.description.1": "Simply Infuse an Absolute Alloy with Marsova Nova infusion.",
+  "chapter.stage.5.quest.64.subtitle.1": "Singular Storing Tablet",
 
-  "chapter.stage.5.quest.65.subtitle.1": "Singular Storing Tablet",
+  "chapter.stage.5.quest.65.title.1": "Fission Reactor",
+  "chapter.stage.5.quest.65.subtitle.1": "Mekanism Fission Reactor",
+  "chapter.stage.5.quest.65.description.1": "The Fission Reactor is used to create Chemical Waste. You'll see how to deal with that later.",
 
-  "chapter.stage.5.quest.66.subtitle.1": "Mekanism Fission Reactor",
-  "chapter.stage.5.quest.66.description.1": "The Fission Reactor is used to create Chemical Waste. You'll see how to deal with that later.",
+  "chapter.stage.5.quest.66.subtitle.1": "Sun Power... again",
+  "chapter.stage.5.quest.66.description.1": "This machine is only used for 2 things. Transforms Lithium into Tritium and Nuclear Waste into Polonium.",
 
-  "chapter.stage.5.quest.67.subtitle.1": "Sun Power... again",
-  "chapter.stage.5.quest.67.description.1": "This machine is only used for 2 things. Transforms Lithium into Tritium and Nuclear Waste into Polonium.",
+  "chapter.stage.5.quest.67.subtitle.1": "Isotopes Mixer",
+  "chapter.stage.5.quest.67.description.1": "This machine is only used for 2 things. Transforms Uranium Hexafluoride into Fissile Fuel and Nuclear Waste into Plutonium.",
 
-  "chapter.stage.5.quest.68.subtitle.1": "Isotopes Mixer",
-  "chapter.stage.5.quest.68.description.1": "This machine is only used for 2 things. Transforms Uranium Hexafluoride into Fissile Fuel and Nuclear Waste into Plutonium.",
+  "chapter.stage.5.quest.68.subtitle.1": "Reaction Pressurisation",
+  "chapter.stage.5.quest.68.description.1": "Pressurize 2 Fluids with any compatible item and obtain the resulting Item and Waste.",
 
-  "chapter.stage.5.quest.69.subtitle.1": "Reaction Pressurisation",
-  "chapter.stage.5.quest.69.description.1": "Pressurize 2 Fluids with any compatible item and obtain the resulting Item and Waste.",
+  "chapter.stage.5.quest.69.subtitle.1": "Creating Plutonium",
+  "chapter.stage.5.quest.69.description.1": "Pressurize the Plutonium Gas with any compatible gas and get some Plutonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
 
-  "chapter.stage.5.quest.70.subtitle.1": "Creating Plutonium",
-  "chapter.stage.5.quest.70.description.1": "Pressurize the Plutonium Gas with any compatible gas and get some Plutonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
-
-  "chapter.stage.5.quest.71.subtitle.1": "Creating Polonium",
-  "chapter.stage.5.quest.71.description.1": "Pressurize the Polonium Gas with any compatible gas and get some Polonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
+  "chapter.stage.5.quest.70.subtitle.1": "Creating Polonium",
+  "chapter.stage.5.quest.70.description.1": "Pressurize the Polonium Gas with any compatible gas and get some Polonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
 
   "Stage 6":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
