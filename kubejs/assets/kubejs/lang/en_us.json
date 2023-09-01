@@ -721,7 +721,7 @@
   "chapter.stage.3.quest.32.subtitle.1": "A better Control Circuit",
   "chapter.stage.3.quest.32.description.1" : "Simply infuse an Advanced Control Circuit with Compressed Steel infusion.",
 
-  "chapter.stage.3.quest.33.subtitle.1": "usefull Tablet",
+  "chapter.stage.3.quest.33.subtitle.1": "Usefull Tablet",
   "chatper.stage.3.quest.33.description.1" : "The &bEnergy Tablet&f is a portable, rechargeable battery pack that can be charged with up to 1,000kJ of energy and can then be used to power other devices. It is also an ingredient in many recipes.",
 
   "chapter.stage.3.quest.34.subtitle.1": "Night is boring",
@@ -1541,75 +1541,77 @@
   "chapter.stage.6.quest.20.title": "Visit Dimension : &4Mercury",
   "chapter.stage.6.quest.20.subtitle.1": "Hotter Than Hell",
 
-  "chapter.stage.6.quest.21.subtitle.1": "",
-  "chapter.stage.6.quest.21.description.1": "",
+  "chapter.stage.6.quest.21.subtitle.1": "Getting Calorite",
 
-  "chapter.stage.6.quest.22.subtitle.1": "",
-  "chapter.stage.6.quest.22.description.1": "",
+  "chapter.stage.6.quest.22.subtitle.1": "Calorite Ore Smelting",
 
-  "chapter.stage.6.quest.23.subtitle.1": "",
-  "chapter.stage.6.quest.23.description.1": "",
+  "chapter.stage.6.quest.23.title" : "Void Miner Tier 2",
+  "chapter.stage.6.quest.23.subtitle.1": "Better Void Miner",
 
-  "chapter.stage.6.quest.24.subtitle.1": "",
-  "chapter.stage.6.quest.24.description.1": "",
+  "chapter.stage.6.quest.24.subtitle.1": "Draconic Ores",
+  "chapter.stage.6.quest.24.description.1": "With the T2 Void Miner get some Draconium Ore",
 
-  "chapter.stage.6.quest.25.subtitle.1": "",
-  "chapter.stage.6.quest.25.description.1": "",
+  "chapter.stage.6.quest.25.subtitle.1": "Smelting Draconium Ores",
 
-  "chapter.stage.6.quest.26.subtitle.1": "",
-  "chapter.stage.6.quest.26.description.1": "",
+  "chapter.stage.6.quest.26.subtitle.1": "The Starting Core",
 
-  "chapter.stage.6.quest.27.subtitle.1": "",
-  "chapter.stage.6.quest.27.description.1": "",
+  "chapter.stage.6.quest.27.subtitle.1": "Draconic Fusion",
+  "chapter.stage.6.quest.27.description.1": "The Fusion Crafting Core is part of the Fusion Crafting from Draconic Evolution. Depending of the asked tier it can craft a really advanced item.",
 
-  "chapter.stage.6.quest.28.subtitle.1": "",
-  "chapter.stage.6.quest.28.description.1": "",
+  "chapter.stage.6.quest.28.subtitle.1": "The First Crafting Tier",
+  "chapter.stage.6.quest.28.description.1": "The Draconium Fusion Crafting Injector is only capable to craft the Wyvern Fusion Crafting Injector and the Draconium Chest.",
 
-  "chapter.stage.6.quest.29.subtitle.1": "",
-  "chapter.stage.6.quest.29.description.1": "",
+  "chapter.stage.6.quest.29.subtitle.1": "Wyvern Upgrade",
 
-  "chapter.stage.6.quest.30.subtitle.1": "",
-  "chapter.stage.6.quest.30.description.1": "",
+  "chapter.stage.6.quest.30.subtitle.1": "Wyvern Fusion",
+  "chapter.stage.6.quest.30.description.1": "Unlocks the Wyvern tier for your Fusion Crafting Crafts.",
 
-  "chapter.stage.6.quest.31.subtitle.1": "",
-  "chapter.stage.6.quest.31.description.1": "",
 
-  "chapter.stage.6.quest.32.subtitle.1": "",
-  "chapter.stage.6.quest.32.description.1": "",
+  "chapter.stage.6.quest.31.title.1": "Nebula Extractor Tier 3 - Part 1",
+  "chapter.stage.6.quest.31.subtitle.1": "T3 Space Nebulation Extraction Part 1",
 
-  "chapter.stage.6.quest.33.subtitle.1": "",
-  "chapter.stage.6.quest.33.description.1": "",
+  "chapter.stage.6.quest.32.title.1": "Nebula Extractor Tier 3 - Part 2",
+  "chapter.stage.6.quest.32.subtitle.1": "T3 Space Nebulation Extraction Part 2",
 
-  "chapter.stage.6.quest.34.subtitle.1": "",
-  "chapter.stage.6.quest.34.description.1": "",
+  "chapter.stage.6.quest.33.subtitle.1": "Extracting Venus",
+  "chapter.stage.6.quest.33.description.1": "Extract the Star of Venus : Venustar Luminae, by using the Nebula Extractor in the Mars Desert Biome",
 
-  "chapter.stage.6.quest.35.subtitle.1": "",
-  "chapter.stage.6.quest.35.description.1": "",
+  "chapter.stage.6.quest.34.subtitle.1": "Enriching Venstar",
+  "chapter.stage.6.quest.34.description.1": "Get Compressed Venustar Luminae simply by using the Enrichment Chamber",
 
-  "chapter.stage.6.quest.36.subtitle.1": "",
-  "chapter.stage.6.quest.36.description.1": "",
+  "chapter.stage.6.quest.35.subtitle.1": "Cosmic Controlling",
+  "chapter.stage.6.quest.35.description.1": "Simply infuse a Supreme Control Circuit with Venustar Luminae infusion",
 
-  "chapter.stage.6.quest.37.subtitle.1": "",
-  "chapter.stage.6.quest.37.description.1": "",
+  "chapter.stage.6.quest.36.subtitle.1": "Cosmic Alloying",
+  "chapter.stage.6.quest.36.description.1": "Simply infuse a Supreme Alloy with Venustar Luminae infusion.",
 
-  "chapter.stage.6.quest.38.subtitle.1": "",
-  "chapter.stage.6.quest.38.description.1": "",
+  "chapter.stage.6.quest.37.subtitle.1": "Ultimate Reactor",
+  "chapter.stage.6.quest.37.description.1": "The &bFusion Reactor&r is a multiblock structure that allows for variable input rates of 3 types of fuel: Deuterium, Tritium and D-T Fuel. By water cooling the structure, steam can be produced alongside power, which is useful for powering an Industrial Turbine.",
+  "chapter.stage.6.quest.37.description.2": "• 75x Reactor Frame (Build + other reactor parts).",
+  "chapter.stage.6.quest.37.description.3": "• 2x Reactor Port.",
+  "chapter.stage.6.quest.37.description.4": "• 1x Reactor Controller.",
+  "chapter.stage.6.quest.37.description.5": "• 8x Reactor Glass.",
+  "chapter.stage.6.quest.37.description.6": "• 1x Laser Focus Matrix.",
 
-  "chapter.stage.6.quest.39.subtitle.1": "",
-  "chapter.stage.6.quest.39.description.1": "",
+  "chapter.stage.6.quest.38.subtitle.1": "Slurry Transformation",
+  "chapter.stage.6.quest.38.description.1": "Transform any given ores with Sulfuric Acid into it's corresponding Slurry.",
 
-  "chapter.stage.6.quest.40.subtitle.1": "",
-  "chapter.stage.6.quest.40.description.1": "",
+  "chapter.stage.6.quest.39.subtitle.1": "Reactor Starting Setup",
+  "chapter.stage.6.quest.39.description.1": "&bThe Fusion Reactor&r will not start on its own. It requires an outside burst of energy from a charged Laser Amplifier and a small amount of D-T Fuel to begin the fusion process. Once the reaction is jump started, it will begin consuming supplied Deuterium and Tritium, creating plasma and generating power. Alternatively you can use a Resistive Heater heating the reactor to 100.00MK Plasma temperature. This can be done quickest at 10MFE/t usage on the heater",
+  "chapter.stage.6.quest.39.description.2": "&bThe Hohlraum&r stores 10 units of D-T Fuel required for the initial reaction. To fill it up, place it into a Chemical Infuser which is combining Deuterium and Tritium. Place the Hohlraum into the Reactor Controller when it contains the required D-T Fuel.",
+  "chapter.stage.6.quest.39.description.3": "The statistics tab details the required ignition temperature for the reaction to begin. To reach this temperature, a Laser Amplifier must be charged with energy from several Lasers feeding into it, and fired into the Laser Focus Matrix. The energy required to start the reaction it requires 400MFE. It must be injected in one big burst to prevent temperature from dissipating, so adding Redstone sensitivity or increasing the minimum energy required by the Amplifier will prevent it from firing prematurely.",
+  "chapter.stage.6.quest.39.description.4": "With the Hohlraum in the Reactor Controller and enough energy stored in the Amplifier, fire the laser to begin the fusion reaction. If a high enough temperature was achieved, you should immediately see and hear the reactor running. To sustain the reaction, the temperature must not drop below the ignition temperature. Make sure the injection rate is high enough and fuel is constantly being supplied.",
 
-  "chapter.stage.6.quest.41.subtitle.1": "",
-  "chapter.stage.6.quest.41.description.1": "",
+  "chapter.stage.6.quest.40.subtitle.1": "Washing Slurries",
+  "chapter.stage.6.quest.40.description.1": "Combine any Dirty Slurry with its compatible washer and get Clean Slurry.",
 
-  "chapter.stage.6.quest.42.subtitle.1": "",
-  "chapter.stage.6.quest.42.description.1": "",
+  "chapter.stage.6.quest.41.subtitle.1": "Light Absorbing Storing Tablet",
 
-    "chapter.stage.6.quest.43.subtitle.1": "",
-  "chapter.stage.6.quest.43.description.1": "",
+  "chapter.stage.6.quest.42.subtitle.1": "Cosmic Energy Storage",
 
-  "chapter.stage.6.quest.44.subtitle.1": "",
-  "chapter.stage.6.quest.44.description.1": ""
+  "chapter.stage.6.quest.43.subtitle.1": "Chemical Element Fusionner",
+  "chapter.stage.6.quest.43.description.1": "Combine 2 compatibles Chemical Element in order to get a Super Chemical Element.",
+
+  "chapter.stage.6.quest.44.subtitle.1": "Void Miner Tier 3",
+  "chapter.stage.6.quest.44.description.1": "Better Than the Tier 2"
 }
