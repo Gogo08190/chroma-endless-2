@@ -1585,7 +1585,7 @@
   "chapter.stage.6.quest.36.subtitle.1": "Cosmic Alloying",
   "chapter.stage.6.quest.36.description.1": "Simply infuse a Supreme Alloy with Venustar Luminae infusion.",
 
-{{chapter.stage.6.quest.37.title}
+  "chapter.stage.6.quest.37.title" : "The Fusion Reactor",
   "chapter.stage.6.quest.37.subtitle.1": "Ultimate Reactor",
   "chapter.stage.6.quest.37.description.1": "The &bFusion Reactor&r is a multiblock structure that allows for variable input rates of 3 types of fuel: Deuterium, Tritium and D-T Fuel. By water cooling the structure, steam can be produced alongside power, which is useful for powering an Industrial Turbine.",
   "chapter.stage.6.quest.37.description.2": "• 75x Reactor Frame (Build + other reactor parts).",
