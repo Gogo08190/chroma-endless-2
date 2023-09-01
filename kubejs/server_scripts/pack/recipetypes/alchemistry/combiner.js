@@ -20,6 +20,13 @@ onEvent('recipes', (event) => {
       result: { item: 'chroma:raw_resin', count: 2 },
       id: `${id_prefix}raw_resin`
     },
+    {
+      input: [
+        { ingredient: { item: 'mysticalagriculture:tertium_essence' }, count: 4 },
+      ],
+      result: { item: 'mysticalagriculture:imperium_essence', count: 1 },
+      id: 'mysticalagriculture:imperium_essence'
+    },
   ];
 
   recipes.forEach((recipe) => {

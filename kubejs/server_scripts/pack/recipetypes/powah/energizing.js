@@ -379,6 +379,20 @@ onEvent('recipes', (event) => {
             },
             id: 'extendedcrafting:crystaltine_ingot'
         },
+        {
+            ingredients: [
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+            ],
+            energy: 5000,
+            result: {
+                item: 'mysticalagriculture:supremium_essence',
+                count: 1
+            },
+            id: 'mysticalagriculture:supremium_essence'
+        },
     ];
 
     recipes.forEach((recipe) => {

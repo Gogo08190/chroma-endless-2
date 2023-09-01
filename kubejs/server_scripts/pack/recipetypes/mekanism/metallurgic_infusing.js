@@ -121,6 +121,13 @@ onEvent('recipes', (event) => {
         infusionAmount: 10,
         id: `${id_prefix}flux_dust`
       },
+      {
+        output: 'mysticalagriculture:prudentium_essence',
+        input: '4x mysticalagriculture:inferium_essence',
+        infusionInput: 'mekanism:bio',
+        infusionAmount: 10,
+        id: 'mysticalagriculture:prudentium_essence'
+      },
     ];
 
     recipes.forEach((recipe) => {

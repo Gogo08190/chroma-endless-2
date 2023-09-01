@@ -556,6 +556,21 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'industrialforegoing:dissolution_chamber/mycelial_reactor'
         },
+        {
+            inputs: [
+                'mysticalagriculture:supremium_essence',
+                'mysticalagriculture:supremium_essence',
+                'mysticalagriculture:supremium_essence',
+                'mysticalagriculture:supremium_essence',
+            ],
+            inputFluid: 'industrialforegoing:sludge',
+            inputFluidAmount: 100,
+            processingTime: 100,
+            outputItem: { item: 'mysticalagradditions:insanium_essence', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'mysticalagradditions:insanium_essence'
+        },
     ];
 
     recipes.forEach((recipe) => {
