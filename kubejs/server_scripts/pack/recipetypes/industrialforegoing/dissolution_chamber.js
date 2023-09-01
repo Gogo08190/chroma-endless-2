@@ -571,6 +571,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'mysticalagradditions:insanium_essence'
         },
+        {
+            inputs: [
+                'mysticalagriculture:prudentium_essence',
+                'chroma:inferium_seed_base',
+                'mysticalagriculture:prudentium_essence',
+                'mysticalagriculture:dirt_essence',
+                'mysticalagriculture:stone_essence',
+                'mysticalagriculture:prudentium_essence',
+                'mysticalagriculture:ice_essence',
+                'mysticalagriculture:prudentium_essence'
+            ],
+            inputFluid: 'mysticalagradditions:molten_soulium',
+            inputFluidAmount: 100,
+            processingTime: 200,
+            outputItem: { item: 'chroma:prudentium_seed_base', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: `${id_prefix}prudentium_seed_base`
+        },
     ];
 
     recipes.forEach((recipe) => {

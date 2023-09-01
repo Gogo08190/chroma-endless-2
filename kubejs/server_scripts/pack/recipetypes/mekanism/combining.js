@@ -19,6 +19,12 @@ onEvent('recipes', (event) => {
         extrainput: 'minecraft:cobblestone',
         output: 'draconicevolution:overworld_draconium_ore',
         id: 'jaopca:mekanism.material_to_default_ore.draconium'
+      },
+      {
+        input: Item.of('mysticalagriculture:prosperity_shard', 4),
+        extrainput: 'minecraft:wheat_seeds',
+        output: 'mysticalagriculture:prosperity_seed_base',
+        id: 'mysticalagriculture:prosperity_seed_base'
       }
     ];
 

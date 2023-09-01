@@ -41,6 +41,12 @@ onEvent('recipes', (event) => {
             heated: true,
             id: 'pneumaticcraft:reinforced_stone'
         },
+        {
+            inputs: ['mysticalagriculture:prosperity_seed_base', Item.of('mysticalagriculture:inferium_essence', 4), 'mysticalagriculture:water_essence', 'mysticalagriculture:fire_essence', 'mysticalagriculture:earth_essence', 'mysticalagriculture:air_essence'],
+            output: 'chroma:inferium_seed_base',
+            superheated: true,
+            id: `${id_prefix}inferium_seed_base`
+        },
     ];
 
     recipes.forEach((recipe) => {
