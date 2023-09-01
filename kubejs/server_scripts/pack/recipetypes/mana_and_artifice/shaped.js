@@ -27,10 +27,10 @@ onEvent('recipes', (event) => {
             output: 'mna:manaweaving_altar',
             pattern: ['CVC', 'VSV', 'CDC'],
             key: {
-                C: '#mna:gems/chimerite',
+                C: 'mna:decoration/arcane_sandstone',
                 V: '#mna:ingots/vinteum',
                 S: Item.of('tconstruct:large_plate', '{Material:"tconstruct:hepatizon"}'),
-                D: 'minecraft:polished_deepslate_slab'
+                D: 'mna:decoration/arcane_stone'
             },
             id: 'mna:manaweaving_altar'
         },
