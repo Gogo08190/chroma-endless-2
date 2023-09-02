@@ -1416,4 +1416,454 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('solarpanels:light_absorbing_solar_panel')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "EFGFE",
+        "ACDCA",
+        "AAHAA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:black_iron_ingot"
+        },
+        "B": {
+          "item": "packagedauto:me_package_component"
+        },
+        "C": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "D": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "E": {
+          "item": "extendedcrafting:enhanced_ender_catalyst"
+        },
+        "F": {
+          "item": "ae2:energy_cell"
+        },
+        "G": {
+          "item": "extendedcrafting:basic_auto_table"
+        },
+        "H": {
+          "item": "lazierae2:logic_unit"
+        }
+      },
+      "result": {
+        "item": "packagedexcrafting:basic_crafter"
+      }
+    }
+  ).id('packagedexcrafting:basic_crafter_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "EFGFE",
+        "ACDCA",
+        "AAHAA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:black_iron_ingot"
+        },
+        "B": {
+          "item": "packagedauto:me_package_component"
+        },
+        "C": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "D": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "E": {
+          "item": "extendedcrafting:enhanced_ender_catalyst"
+        },
+        "F": {
+          "item": "ae2:energy_cell"
+        },
+        "G": {
+          "item": "extendedcrafting:advanced_auto_table"
+        },
+        "H": {
+          "item": "lazierae2:logic_unit"
+        }
+      },
+      "result": {
+        "item": "packagedexcrafting:advanced_crafter"
+      }
+    }
+  ).id('packagedexcrafting:advanced_crafter_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "EFGFE",
+        "ACDCA",
+        "AAHAA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:black_iron_ingot"
+        },
+        "B": {
+          "item": "packagedauto:me_package_component"
+        },
+        "C": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "D": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "E": {
+          "item": "extendedcrafting:enhanced_ender_catalyst"
+        },
+        "F": {
+          "item": "ae2:energy_cell"
+        },
+        "G": {
+          "item": "extendedcrafting:elite_auto_table"
+        },
+        "H": {
+          "item": "lazierae2:logic_unit"
+        }
+      },
+      "result": {
+        "item": "packagedexcrafting:elite_crafter"
+      }
+    }
+  ).id('packagedexcrafting:elite_crafter_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "EFGFE",
+        "ACDCA",
+        "AAHAA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:black_iron_ingot"
+        },
+        "B": {
+          "item": "packagedauto:me_package_component"
+        },
+        "C": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "D": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "E": {
+          "item": "extendedcrafting:enhanced_ender_catalyst"
+        },
+        "F": {
+          "item": "ae2:energy_cell"
+        },
+        "G": {
+          "item": "extendedcrafting:ultimate_auto_table"
+        },
+        "H": {
+          "item": "lazierae2:logic_unit"
+        }
+      },
+      "result": {
+        "item": "packagedexcrafting:ultimate_crafter"
+      }
+    }
+  ).id('packagedexcrafting:ultimate_crafter_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "EFGFE",
+        "ACDCA",
+        "AAHAA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:enhanced_ender_ingot"
+        },
+        "B": {
+          "item": "packagedauto:me_package_component"
+        },
+        "C": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "D": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "E": {
+          "item": "extendedcrafting:redstone_catalyst"
+        },
+        "F": {
+          "item": "ae2:energy_cell"
+        },
+        "G": {
+          "item": "extendedcrafting:ender_crafter"
+        },
+        "H": {
+          "item": "lazierae2:logic_unit"
+        }
+      },
+      "result": {
+        "item": "packagedexcrafting:ender_crafter"
+      }
+    }
+  ).id('packagedexcrafting:ender_crafter_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "EFGFE",
+        "ACDCA",
+        "AAHAA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:black_iron_ingot"
+        },
+        "B": {
+          "item": "packagedauto:me_package_component"
+        },
+        "C": {
+          "item": "mekanism:ultimate_control_circuit"
+        },
+        "D": {
+          "item": "lazierae2:parallel_processor"
+        },
+        "E": {
+          "item": "extendedcrafting:enhanced_ender_catalyst"
+        },
+        "F": {
+          "item": "ae2:energy_cell"
+        },
+        "G": {
+          "item": "extendedcrafting:crafting_core"
+        },
+        "H": {
+          "item": "lazierae2:logic_unit"
+        }
+      },
+      "result": {
+        "item": "packagedexcrafting:combination_crafter"
+      }
+    }
+  ).id('packagedexcrafting:combination_crafter_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        "B": {
+          "item": "mekanism:ingot_refined_glowstone"
+        },
+        "C": {
+          "item": "extendedcrafting:redstone_catalyst"
+        },
+        "D": {
+          "item": "minecraft:crafting_table"
+        },
+        "E": {
+          "item": "packagedauto:package_component"
+        }
+      },
+      "result": {
+        "item": "packagedauto:encoder"
+      }
+    }
+  ).id('packagedauto:encoder')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        "B": {
+          "item": "extendedcrafting:redstone_ingot"
+        },
+        "C": {
+          "item": "minecraft:piston"
+        },
+        "D": {
+          "item": "minecraft:crafting_table"
+        },
+        "E": {
+          "item": "packagedauto:me_package_component"
+        }
+      },
+      "result": {
+        "item": "packagedauto:packager"
+      }
+    }
+  ).id('packagedauto:packager_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        "B": {
+          "item": "minecraft:glowstone"
+        },
+        "C": {
+          "item": "minecraft:piston"
+        },
+        "D": {
+          "item": "minecraft:crafting_table"
+        },
+        "E": {
+          "item": "packagedauto:me_package_component"
+        }
+      },
+      "result": {
+        "item": "packagedauto:packager_extension"
+      }
+    }
+  ).id('packagedauto:packager_extension_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        "B": {
+          "item": "extendedcrafting:redstone_ingot"
+        },
+        "C": {
+          "item": "minecraft:hopper"
+        },
+        "D": {
+          "item": "minecraft:chest"
+        },
+        "E": {
+          "item": "packagedauto:me_package_component"
+        }
+      },
+      "result": {
+        "item": "packagedauto:unpackager"
+      }
+    }
+  ).id('packagedauto:unpackager_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        "B": {
+          "item": "extendedcrafting:redstone_ingot"
+        },
+        "C": {
+          "item": "minecraft:hopper"
+        },
+        "D": {
+          "item": "minecraft:crafting_table"
+        },
+        "E": {
+          "item": "packagedauto:me_package_component"
+        }
+      },
+      "result": {
+        "item": "packagedauto:crafter"
+      }
+    }
+  ).id('packagedauto:crafter_ae')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:ingot_iron_compressed"
+        },
+        "B": {
+          "item": "minecraft:copper_ingot"
+        },
+        "C": {
+          "item": "minecraft:piston"
+        },
+        "D": {
+          "item": "minecraft:bucket"
+        },
+        "E": {
+          "item": "packagedauto:me_package_component"
+        }
+      },
+      "result": {
+        "item": "packagedauto:fluid_package_filler"
+      }
+    }
+  ).id('packagedauto:fluid_package_filler')
 });
