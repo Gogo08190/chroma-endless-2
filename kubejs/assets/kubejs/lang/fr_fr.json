@@ -1278,5 +1278,12 @@
 
   "chapter.stage.4.quest.130.subtitle.1": "Accès au Vide",
   "chapter.stage.4.quest.130.description.1": "À l'aide de la Fabrication de Miniaturisation, construisez le Multibloc avec des Blocs d'Obsidienne Transformée, de l'Obsidienne, du Verre Sombre, des Blocs de Métal Oublié, des Blocs de Cristal Flamboyant et la Machine Compacte Maximale.",
-  "chapter.stage.4.quest.130.description.2": "Consultez JEI pour construire le multibloc. N'oubliez pas de lancer le Patch du Vide."
+  "chapter.stage.4.quest.130.description.2": "Consultez JEI pour construire le multibloc. N'oubliez pas de lancer le Patch du Vide.",
+
+  "chapter.stage.4.quest.131.title.1": "Comment automatiser Extended Crafting ?",
+  "chapter.stage.4.quest.131.subtitle.1": "Automatisation d'Extended Crafting",
+  "chapter.stage.4.quest.131.description.1": "Pour automatiser Extended Crafting, il est nécessaire de fabriquer &d2 Package Recipe Holders&r et de les encoder avec un &aPackage Recipe Encoder&r.",
+  "chapter.stage.4.quest.131.description.2": "Ensuite, il faut placer un Package Recipe Holder dans un &bPackager&r et l'autre dans un &bUnpackager&r, tous deux connectés à un réseau ME.",
+  "chapter.stage.4.quest.131.description.3": "Le Packager acceptera les objets et les transformera en Paquets de Recettes, tandis que l'Unpackager les prendra et les déposera dans un inventaire adjacent.",
+  "chapter.stage.4.quest.131.description.4": "Les deux machines informent le Réseau ME de ce qu'elles peuvent faire en fonction du package recipe holder, et le Packager, lorsqu'il est connecté, éjecte les paquets dans le réseau."
 }

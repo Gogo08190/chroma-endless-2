@@ -1282,6 +1282,13 @@
   "chapter.stage.4.quest.130.description.1": "Using the Miniaturization Crafting, Build the Multiblock with Processed Obsidian Blocks, Obsidian, Dark Glass, Forgotten Metal Blocks, Blazing Crystal Blocks and the Maximum Compact Machine.",
   "chapter.stage.4.quest.130.description.2": "Check JEI in order to build the multiblock. Don't forget to throw The Void Patch.",
 
+  "chapter.stage.4.quest.131.title.1": "How to automate Extended Crafting ?",
+  "chapter.stage.4.quest.131.subtitle.1": "Automation of Extended Crafting",
+  "chapter.stage.4.quest.131.description.1": "To automate Extended Crafting, one needs to make &d2 Package Recipe Holders&r and encode them with a &aPackage Recipe Encoder&r.",
+  "chapter.stage.4.quest.131.description.2": "Then, one needs to put a Package Recipe Holder in a &bPackager&r, and the other in an &bUnpackager&r, both connected to a ME Network.",
+  "chapter.stage.4.quest.131.description.3": "The Packager will accept items and make them into Recipe Packages and the Unpackager will take them and output items into an adjacent inventory.",
+  "chapter.stage.4.quest.131.description.4": "Both machines tell the ME Network what it can do according to the package recipe holder, and the Packager, when connected, ejects packages into the network.",
+
   "Stage 5":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.5.title": "Stage 5",
