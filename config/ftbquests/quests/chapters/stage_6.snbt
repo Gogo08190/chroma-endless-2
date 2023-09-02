@@ -1,0 +1,972 @@
+{
+	id: "1CB3B1C8998F4A48"
+	group: "23866070F89333B0"
+	order_index: 5
+	filename: "stage_6"
+	title: "{chapter.stage.6.title}"
+	icon: "draconicevolution:wyvern_crafting_injector"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -7.0d
+			y: -9.0d
+			subtitle: "{chapter.stage.6.quest.1.subtitle.1}"
+			description: ["{chapter.stage.6.quest.1.description.1}"]
+			dependencies: ["5D23D1F63DB8A972"]
+			id: "6003513E492D3CFB"
+			tasks: [{
+				id: "463C8549CD14D20E"
+				type: "item"
+				item: "fluxnetworks:flux_dust"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -8.0d
+			subtitle: "{chapter.stage.6.quest.2.subtitle.1}"
+			dependencies: ["6003513E492D3CFB"]
+			id: "3B07BF5A254AA83A"
+			tasks: [{
+				id: "3E591CF50B006ABA"
+				type: "item"
+				item: "fluxnetworks:flux_core"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -7.5d
+			subtitle: "{chapter.stage.6.quest.3.subtitle.1}"
+			dependencies: ["3B07BF5A254AA83A"]
+			id: "1A5A1329185B8418"
+			tasks: [{
+				id: "58FCBAF5CF6D72B8"
+				type: "item"
+				item: "fluxnetworks:flux_block"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -9.0d
+			subtitle: "{chapter.stage.6.quest.4.subtitle.1}"
+			description: ["{chapter.stage.6.quest.4.description.1}"]
+			dependencies: ["1A5A1329185B8418"]
+			id: "6BB234370279719A"
+			tasks: [{
+				id: "4A25D3588D4F188B"
+				type: "item"
+				item: "fluxnetworks:flux_plug"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -8.0d
+			subtitle: "{chapter.stage.6.quest.6.subtitle.1}"
+			description: ["{chapter.stage.6.quest.6.description.1}"]
+			dependencies: ["1A5A1329185B8418"]
+			id: "44B8B7CDEEC0AF50"
+			tasks: [{
+				id: "60D92A5C662FA514"
+				type: "item"
+				item: "fluxnetworks:flux_point"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -9.0d
+			subtitle: "{chapter.stage.6.quest.5.subtitle.1}"
+			description: ["{chapter.stage.6.quest.5.description.1}"]
+			dependencies: ["1A5A1329185B8418"]
+			id: "0D92B9AC99BC6575"
+			tasks: [{
+				id: "67B314D12FDBE2C5"
+				type: "item"
+				item: "fluxnetworks:flux_controller"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -7.0d
+			subtitle: "{chapter.stage.6.quest.7.subtitle.1}"
+			description: ["{chapter.stage.6.quest.7.description.1}"]
+			dependencies: ["1A5A1329185B8418"]
+			id: "7E2F4F8632BA32D0"
+			tasks: [{
+				id: "57973AEF9DAF4614"
+				type: "item"
+				item: "fluxnetworks:basic_flux_storage"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -7.5d
+			subtitle: "{chapter.stage.6.quest.8.subtitle.1}"
+			description: ["{chapter.stage.6.quest.8.description.1}"]
+			dependencies: ["7E2F4F8632BA32D0"]
+			id: "0486A307CD4833B2"
+			tasks: [{
+				id: "33F6D57D6B25316B"
+				type: "item"
+				item: "fluxnetworks:herculean_flux_storage"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -8.5d
+			subtitle: "{chapter.stage.6.quest.9.subtitle.1}"
+			description: ["{chapter.stage.6.quest.9.description.1}"]
+			dependencies: ["0486A307CD4833B2"]
+			id: "27735BFBE6EC57E5"
+			tasks: [{
+				id: "4F7AB7E12FA7F22B"
+				type: "item"
+				item: "fluxnetworks:gargantuan_flux_storage"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -6.0d
+			subtitle: "{chapter.stage.6.quest.10.subtitle.1}"
+			description: ["{chapter.stage.6.quest.10.description.1}"]
+			dependencies: ["3B07BF5A254AA83A"]
+			id: "06531020C9C3AB55"
+			tasks: [{
+				id: "4AA4823DB585EFF1"
+				type: "item"
+				item: "industrialforegoing:machine_frame_supreme"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -5.0d
+			subtitle: "{chapter.stage.6.quest.12.subtitle.1}"
+			description: ["{chapter.stage.6.quest.12.description.1 }"]
+			dependencies: ["6B4CF323A77FF62F"]
+			id: "233931D3717AEC73"
+			tasks: [{
+				id: "03CE2AC2BFD0F842"
+				type: "item"
+				item: "chroma:thermospiritium"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -3.5d
+			shape: "diamond"
+			subtitle: "{chapter.stage.6.quest.13.subtitle.1}"
+			dependencies: ["233931D3717AEC73"]
+			id: "54E4A763BC1AAE99"
+			tasks: [{
+				id: "59CE6607809F9ED3"
+				type: "item"
+				item: "chroma:ostrum_rocket_nose_cone"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -3.0d
+			shape: "diamond"
+			subtitle: "{chapter.stage.6.quest.14.subtitle.1}"
+			dependencies: ["233931D3717AEC73"]
+			id: "1BE8273FF1808537"
+			tasks: [{
+				id: "050E459A851A554F"
+				type: "item"
+				item: "chroma:ostrum_rocket_fin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -2.5d
+			shape: "diamond"
+			subtitle: "{chapter.stage.6.quest.16.subtitle.1}"
+			dependencies: ["233931D3717AEC73"]
+			id: "6EDE74C95FB241EB"
+			tasks: [{
+				id: "27EA9BCC1B43DE41"
+				type: "item"
+				item: "beyond_earth:ostrum_engine"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.0d
+			shape: "diamond"
+			subtitle: "{chapter.stage.6.quest.15.subtitle.1}"
+			dependencies: ["233931D3717AEC73"]
+			id: "70C2DE3B65E80BA5"
+			tasks: [{
+				id: "1A08BC1C7BAF9267"
+				type: "item"
+				item: "beyond_earth:ostrum_tank"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.5d
+			shape: "diamond"
+			subtitle: "{chapter.stage.6.quest.17.subtitle.1}"
+			dependencies: ["233931D3717AEC73"]
+			id: "33955CBB67259F37"
+			tasks: [{
+				id: "5B20830F1395E0B5"
+				type: "item"
+				item: "beyond_earth:compressed_ostrum"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -1.5d
+			shape: "octagon"
+			subtitle: "{chapter.stage.6.quest.18.subtitle.1}"
+			description: ["{chapter.stage.6.quest.18.description.1}"]
+			dependencies: [
+				"1BE8273FF1808537"
+				"70C2DE3B65E80BA5"
+				"54E4A763BC1AAE99"
+				"33955CBB67259F37"
+				"6EDE74C95FB241EB"
+			]
+			size: 1.5d
+			id: "22F3CFF794AD1651"
+			tasks: [{
+				id: "034D51522422CD44"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t3"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.stage.6.quest.20.title}"
+			x: -3.5d
+			y: 0.5d
+			subtitle: "{chapter.stage.6.quest.20.subtitle.1}"
+			dependencies: ["22F3CFF794AD1651"]
+			id: "3BD66E854EE5131C"
+			tasks: [{
+				id: "7AE875447F189568"
+				type: "dimension"
+				icon: "beyond_earth:mercury_globe"
+				dimension: "beyond_earth:mercury"
+			}]
+		}
+		{
+			title: "{chapter.stage.6.quest.19.title}"
+			x: -2.5d
+			y: 0.5d
+			subtitle: "{chapter.stage.6.quest.19.subtitle.1}"
+			description: ["{chapter.stage.6.quest.19.description.1}"]
+			dependencies: ["22F3CFF794AD1651"]
+			id: "63CCB050DF3C13EE"
+			tasks: [{
+				id: "0D8589067E761BAF"
+				type: "dimension"
+				icon: "beyond_earth:venus_globe"
+				dimension: "beyond_earth:venus"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.0d
+			subtitle: "{chapter.stage.6.quest.21.subtitle.1}"
+			dependencies: ["63CCB050DF3C13EE"]
+			id: "25E406D552751C87"
+			tasks: [{
+				id: "4B9F7E49B5556AC9"
+				type: "item"
+				item: "beyond_earth:venus_calorite_ore"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.0d
+			subtitle: "{chapter.stage.6.quest.22.subtitle.1}"
+			dependencies: ["25E406D552751C87"]
+			id: "310C66C63BDE65F0"
+			tasks: [{
+				id: "328D833CD0E600FA"
+				type: "item"
+				item: "beyond_earth:calorite_ingot"
+			}]
+		}
+		{
+			title: "{chapter.stage.6.quest.31.title.1}"
+			x: 1.5d
+			y: -2.5d
+			subtitle: "{chapter.stage.6.quest.31.subtitle.1}"
+			dependencies: ["310C66C63BDE65F0"]
+			id: "06B6197498D35E17"
+			tasks: [
+				{
+					id: "5B2ECD2D43950A71"
+					type: "item"
+					item: "chroma:nebula_extractor_tier_3"
+				}
+				{
+					id: "62CF3F891C597362"
+					type: "item"
+					item: "chroma:nebula_extractor_item_output"
+				}
+				{
+					id: "077CC7B7827D1386"
+					type: "item"
+					item: "chroma:nebula_extractor_energy_input"
+				}
+				{
+					id: "46846F88018470EF"
+					type: "item"
+					item: "chroma:nebula_drill_t3"
+					count: 5L
+				}
+				{
+					id: "0D0371ADC0D3D57B"
+					type: "item"
+					item: "chroma:nebula_frame"
+					count: 235L
+				}
+				{
+					id: "04A800ABB65DAD93"
+					type: "item"
+					item: "chroma:nebula_extractor_t3_frame"
+					count: 56L
+				}
+				{
+					id: "3452FE8B98992DC4"
+					type: "item"
+					item: "chroma:nebula_extractor_t3_laser_support"
+					count: 5L
+				}
+				{
+					id: "7C860696BBF814C4"
+					type: "item"
+					item: "chroma:nebula_extractor_t3_laser_top"
+					count: 5L
+				}
+			]
+		}
+		{
+			title: "{chapter.stage.6.quest.32.title.1}"
+			x: 1.5d
+			y: -1.5d
+			subtitle: "{chapter.stage.6.quest.32.subtitle.1}"
+			dependencies: ["310C66C63BDE65F0"]
+			id: "1E0773A43D2C1146"
+			tasks: [
+				{
+					id: "1474014D932B6A40"
+					type: "item"
+					item: "beyond_earth:calorite_block"
+					count: 10L
+				}
+				{
+					id: "208CAA2A65B7AA16"
+					type: "item"
+					item: "beyond_earth:moon_stone_brick_stairs"
+					count: 39L
+				}
+				{
+					id: "7ED5B90CD147EE5F"
+					type: "item"
+					item: "beyond_earth:moon_stone_brick_slab"
+					count: 12L
+				}
+				{
+					id: "0FB7AD8BF18447C2"
+					type: "item"
+					item: "beyond_earth:blue_iron_plating_block"
+					count: 12L
+				}
+				{
+					id: "28E0E36A84F20667"
+					type: "item"
+					item: "engineersdecor:dark_shingle_roof"
+					count: 21L
+				}
+				{
+					id: "22345A31C5DFD46B"
+					type: "item"
+					item: "engineersdecor:panzerglass_block"
+					count: 82L
+				}
+				{
+					id: "4E1376BB669F961F"
+					type: "item"
+					item: "ae2:sky_stone_stairs"
+					count: 12L
+				}
+				{
+					id: "0289BE6A71C3A753"
+					type: "item"
+					item: "simplylight:illuminant_light_blue_block_on"
+					count: 4L
+				}
+				{
+					id: "02CEB04B3967215F"
+					type: "item"
+					item: "simplylight:illuminant_magenta_block_on"
+					count: 4L
+				}
+				{
+					id: "192FCE115CC1704A"
+					type: "item"
+					item: "immersiveengineering:coil_mv"
+					count: 48L
+				}
+				{
+					id: "41C40D558627F674"
+					type: "item"
+					item: "botania:bifrost_perm"
+					count: 16L
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -2.0d
+			subtitle: "{chapter.stage.6.quest.33.subtitle.1}"
+			description: ["{chapter.stage.6.quest.33.description.1}"]
+			dependencies: [
+				"06B6197498D35E17"
+				"1E0773A43D2C1146"
+			]
+			id: "16F03E1F2ADD971D"
+			tasks: [{
+				id: "1F62470430BF2EDA"
+				type: "item"
+				item: "chroma:venustar_luminae"
+			}]
+		}
+		{
+			title: "{chapter.stage.6.quest.23.title}"
+			icon: "chroma:void_miner_tier_2"
+			x: 0.0d
+			y: -4.0d
+			shape: "octagon"
+			subtitle: "{chapter.stage.6.quest.23.subtitle.1}"
+			dependencies: ["310C66C63BDE65F0"]
+			size: 1.5d
+			id: "2AE0922068E74FB1"
+			tasks: [
+				{
+					id: "474E7F0BA270059B"
+					type: "item"
+					item: "chroma:void_miner_tier_2"
+				}
+				{
+					id: "085A8D8674497992"
+					type: "item"
+					item: "chroma:void_item_output_tier_2"
+				}
+				{
+					id: "1D6882CF979128D0"
+					type: "item"
+					item: "chroma:energy_input_tier_2"
+				}
+				{
+					id: "2350531B3B47F833"
+					type: "item"
+					item: "chroma:void_miner_frame_tier2"
+					count: 52L
+				}
+				{
+					id: "09320B6D157373F5"
+					type: "item"
+					item: "chroma:structure_frame"
+					count: 72L
+				}
+				{
+					id: "1E0E79F45F9249EF"
+					type: "item"
+					item: "chroma:void_miner_laser_core_t2"
+				}
+				{
+					id: "14769A490346A569"
+					type: "item"
+					item: "mna:decoration/arcane_stone_stairs"
+					count: 28L
+				}
+				{
+					id: "1FC4EB0479426C77"
+					type: "item"
+					item: "createdeco:netherite_sheet_stairs"
+					count: 12L
+				}
+				{
+					id: "37A4DD6E01161CEC"
+					type: "item"
+					item: "mna:decoration/arcane_stone_wall"
+					count: 20L
+				}
+				{
+					id: "7ABD2F430FD39641"
+					type: "item"
+					item: "minecraft:red_sandstone_wall"
+				}
+				{
+					id: "6A4E8402C1579AE9"
+					type: "item"
+					item: "minecraft:orange_stained_glass_pane"
+					count: 3L
+				}
+				{
+					id: "65930BDCDEE0D30B"
+					type: "item"
+					item: "minecraft:orange_stained_glass"
+				}
+				{
+					id: "07A79AC9A0F7DCBF"
+					type: "item"
+					item: "minecraft:white_stained_glass"
+					count: 8L
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: -4.5d
+			subtitle: "{chapter.stage.6.quest.24.subtitle.1}"
+			description: ["{chapter.stage.6.quest.24.description.1}"]
+			dependencies: ["2AE0922068E74FB1"]
+			id: "41A8E2B04C279E55"
+			tasks: [{
+				id: "181573F8E452FD74"
+				type: "item"
+				item: "draconicevolution:overworld_draconium_ore"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -6.0d
+			subtitle: "{chapter.stage.6.quest.25.subtitle.1}"
+			dependencies: ["41A8E2B04C279E55"]
+			id: "678BB24E112684D6"
+			tasks: [{
+				id: "5986B0D88122B518"
+				type: "item"
+				item: "draconicevolution:draconium_ingot"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -7.5d
+			subtitle: "{chapter.stage.6.quest.26.subtitle.1}"
+			dependencies: ["678BB24E112684D6"]
+			id: "1952F797B3133E54"
+			tasks: [{
+				id: "5C5336DEF4965D06"
+				type: "item"
+				item: "draconicevolution:draconium_core"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -8.0d
+			subtitle: "{chapter.stage.6.quest.27.subtitle.1}"
+			description: ["{chapter.stage.6.quest.27.description.1}"]
+			dependencies: ["1952F797B3133E54"]
+			id: "5A886BEF811AA52E"
+			tasks: [{
+				id: "0F26D3F00AD67172"
+				type: "item"
+				item: "draconicevolution:crafting_core"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -8.0d
+			subtitle: "{chapter.stage.6.quest.28.subtitle.1}"
+			description: ["{chapter.stage.6.quest.28.description.1}"]
+			dependencies: ["5A886BEF811AA52E"]
+			id: "50A5B1BB1D2A8F29"
+			tasks: [{
+				id: "473A28B2B7DAB4E7"
+				type: "item"
+				item: "draconicevolution:basic_crafting_injector"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -7.0d
+			subtitle: "{chapter.stage.6.quest.29.subtitle.1}"
+			dependencies: ["50A5B1BB1D2A8F29"]
+			id: "6841336870231908"
+			tasks: [{
+				id: "664D0081FB3255DE"
+				type: "item"
+				item: "draconicevolution:wyvern_core"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -5.5d
+			subtitle: "{chapter.stage.6.quest.30.subtitle.1}"
+			description: ["{chapter.stage.6.quest.30.description.1}"]
+			dependencies: ["6841336870231908"]
+			id: "4D3D9EA2AE60AD73"
+			tasks: [{
+				id: "13C126AA3C83A899"
+				type: "item"
+				item: "draconicevolution:wyvern_crafting_injector"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -2.5d
+			subtitle: "{chapter.stage.6.quest.34.subtitle.1}"
+			description: ["{chapter.stage.6.quest.34.description.1}"]
+			dependencies: ["16F03E1F2ADD971D"]
+			id: "7ACC79D4861B7222"
+			tasks: [{
+				id: "0408BC4E9650C2C4"
+				type: "item"
+				item: "chroma:enriched_venustar_luminae"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -3.0d
+			subtitle: "{chapter.stage.6.quest.36.subtitle.1}"
+			description: ["{chapter.stage.6.quest.36.description.1}"]
+			dependencies: ["7ACC79D4861B7222"]
+			id: "4298483C07988405"
+			tasks: [{
+				id: "1E662341A6D91AED"
+				type: "item"
+				item: "chroma:cosmic_alloy"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -2.0d
+			subtitle: "{chapter.stage.6.quest.35.subtitle.1}"
+			description: ["{chapter.stage.6.quest.35.description.1}"]
+			dependencies: ["7ACC79D4861B7222"]
+			id: "5A16D989A0B006D8"
+			tasks: [{
+				id: "0002B94A3D59DECC"
+				type: "item"
+				item: "mekaevolution:cosmic_control_circuit"
+			}]
+		}
+		{
+			title: "{chapter.stage.6.quest.37.title}"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/quests/fusion_cutout.png"
+				}
+			}
+			x: 10.0d
+			y: -4.0d
+			subtitle: "{chapter.stage.6.quest.37.subtitle.1}"
+			description: [
+				"{chapter.stage.6.quest.37.description.1}"
+				""
+				"{chapter.stage.6.quest.37.description.2}"
+				"{chapter.stage.6.quest.37.description.3}"
+				"{chapter.stage.6.quest.37.description.4}"
+				"{chapter.stage.6.quest.37.description.5}"
+				"{chapter.stage.6.quest.37.description.6}"
+			]
+			dependencies: [
+				"5A16D989A0B006D8"
+				"4298483C07988405"
+				"4D3D9EA2AE60AD73"
+			]
+			min_width: 300
+			id: "088ACD13423B4664"
+			tasks: [
+				{
+					id: "17113C7B8AC117B6"
+					type: "item"
+					item: "mekanismgenerators:fusion_reactor_controller"
+				}
+				{
+					id: "4EF381FC77860170"
+					type: "item"
+					item: "mekanismgenerators:fusion_reactor_frame"
+				}
+				{
+					id: "1FBDAA54CC12D183"
+					type: "item"
+					item: "mekanismgenerators:fusion_reactor_port"
+					count: 2L
+				}
+				{
+					id: "3FA560E7732BFEBA"
+					type: "item"
+					item: "mekanismgenerators:reactor_glass"
+				}
+				{
+					id: "2F498B6776DDBBBF"
+					type: "item"
+					item: "mekanismgenerators:laser_focus_matrix"
+				}
+			]
+		}
+		{
+			title: "&6Reactor starter kit"
+			x: 10.0d
+			y: -2.5d
+			subtitle: "{chapter.stage.6.quest.39.subtitle.1}"
+			description: [
+				"{chapter.stage.6.quest.39.description.1}"
+				""
+				"{chapter.stage.6.quest.39.description.2}"
+				""
+				"{chapter.stage.6.quest.39.description.3}"
+				""
+				"{chapter.stage.6.quest.39.description.4}"
+			]
+			dependencies: [
+				"088ACD13423B4664"
+				"63C4CCB233838FE6"
+			]
+			min_width: 400
+			id: "2B69FFBE4D33B590"
+			tasks: [
+				{
+					id: "6B4958126D1B9365"
+					type: "item"
+					item: "mekanism:laser"
+				}
+				{
+					id: "4D40367EF70A516B"
+					type: "item"
+					item: "mekanism:laser_amplifier"
+				}
+				{
+					id: "47D66036F40C3F06"
+					type: "item"
+					item: "mekanismgenerators:hohlraum"
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: -1.0d
+			subtitle: "{chapter.stage.6.quest.41.subtitle.1}"
+			dependencies: [
+				"5A16D989A0B006D8"
+				"4298483C07988405"
+			]
+			id: "63C4CCB233838FE6"
+			tasks: [{
+				id: "68E0A6B121F761B0"
+				type: "item"
+				item: "solarpanels:light_absorbing_energy_tablet"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 0.5d
+			subtitle: "{chapter.stage.6.quest.42.subtitle.1}"
+			dependencies: ["63C4CCB233838FE6"]
+			id: "3A1D49059ADAA7FA"
+			tasks: [{
+				id: "6E4395CFBDF51929"
+				type: "item"
+				item: "mekaevolution:cosmic_energy_cube"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -1.5d
+			subtitle: "{chapter.stage.6.quest.40.subtitle.1}"
+			description: ["{chapter.stage.6.quest.40.description.1}"]
+			dependencies: [
+				"5A16D989A0B006D8"
+				"4298483C07988405"
+			]
+			id: "18F2A1EFE523BD64"
+			tasks: [{
+				id: "0ADEA128A1A02C31"
+				type: "item"
+				item: "mekanism:chemical_washer"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -3.5d
+			subtitle: "{chapter.stage.6.quest.38.subtitle.1}"
+			description: ["{chapter.stage.6.quest.38.description.1}"]
+			dependencies: [
+				"5A16D989A0B006D8"
+				"4298483C07988405"
+			]
+			id: "385DDAD130983B65"
+			tasks: [{
+				id: "52A972C771638005"
+				type: "item"
+				item: "mekanism:chemical_dissolution_chamber"
+			}]
+		}
+		{
+			title: "Fusion Reactor"
+			icon: "alchemistry:fusion_chamber_controller"
+			x: 12.0d
+			y: 1.0d
+			shape: "gear"
+			subtitle: "{chapter.stage.6.quest.43.subtitle.1}"
+			description: ["{chapter.stage.6.quest.43.description.1}"]
+			dependencies: ["3A1D49059ADAA7FA"]
+			size: 2.0d
+			id: "24540845CBC75620"
+			tasks: [
+				{
+					id: "4C1210D9F5656987"
+					type: "item"
+					item: "alchemistry:fusion_chamber_controller"
+				}
+				{
+					id: "7D0C77B9876FD237"
+					type: "item"
+					item: "alchemistry:reactor_casing"
+					count: 59L
+				}
+				{
+					id: "26AD2B3558BB2B6E"
+					type: "item"
+					item: "alchemistry:reactor_glass"
+					count: 35L
+				}
+				{
+					id: "5B90A19D7C57E950"
+					type: "item"
+					item: "alchemistry:fusion_core"
+					count: 3L
+				}
+				{
+					id: "335954A2B5607EC9"
+					type: "item"
+					item: "alchemistry:reactor_energy"
+				}
+				{
+					id: "4C35752999F37AAE"
+					type: "item"
+					item: "alchemistry:reactor_input"
+				}
+				{
+					id: "08A5C56967854B9E"
+					type: "item"
+					item: "alchemistry:reactor_output"
+				}
+			]
+		}
+		{
+			x: -5.5d
+			y: -5.0d
+			subtitle: "{chapter.stage.6.quest.11.subtitle.1}"
+			description: ["{chapter.stage.6.quest.11.description.1}"]
+			dependencies: ["06531020C9C3AB55"]
+			id: "6B4CF323A77FF62F"
+			tasks: [{
+				id: "340C7699C83093C2"
+				type: "item"
+				item: "powah:crystal_nitro"
+			}]
+		}
+		{
+			title: "{chapter.stage.6.quest.44.subtitle.1}"
+			icon: "chroma:void_miner_tier_3"
+			x: 14.5d
+			y: 0.0d
+			shape: "octagon"
+			subtitle: "{chapter.stage.6.quest.44.description.1}"
+			dependencies: ["24540845CBC75620"]
+			size: 1.5d
+			id: "290AA8ACE47BFD05"
+			tasks: [
+				{
+					id: "5DD0D0F375B9D7B4"
+					type: "item"
+					item: "chroma:void_miner_tier_3"
+				}
+				{
+					id: "05B62E01E5AD0CD9"
+					type: "item"
+					item: "chroma:void_item_output_tier_3"
+				}
+				{
+					id: "1BB210C9F809CCFB"
+					type: "item"
+					item: "chroma:energy_input_tier_3"
+				}
+				{
+					id: "7BFD27DEFC562737"
+					type: "item"
+					item: "chroma:void_miner_frame_tier3"
+					count: 241L
+				}
+				{
+					id: "3D54E2E50BD4DD82"
+					type: "item"
+					item: "chroma:structure_frame"
+					count: 120L
+				}
+				{
+					id: "05D832948B11E163"
+					type: "item"
+					item: "chroma:nebula_extractor_t3_frame"
+				}
+				{
+					id: "6A5C15FE67E9AA08"
+					type: "item"
+					item: "mna:decoration/arcane_stone_stairs"
+					count: 24L
+				}
+				{
+					id: "23ACCBFD15CE9B8D"
+					type: "item"
+					item: "createdeco:netherite_sheet_stairs"
+					count: 8L
+				}
+				{
+					id: "18D8B8ED6B028E98"
+					type: "item"
+					item: "architects_palette:oracle_tile_wall"
+				}
+				{
+					id: "34CE8B7F40C060AE"
+					type: "item"
+					item: "architects_palette:onyx_vertical_slab"
+					count: 16L
+				}
+				{
+					id: "0D4204FF58AFF77A"
+					type: "item"
+					item: "architects_palette:onyx_slab"
+					count: 16L
+				}
+				{
+					id: "560CE174E9D74BE7"
+					type: "item"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					count: 28L
+				}
+				{
+					id: "2C5FAE9878368246"
+					type: "item"
+					item: "minecraft:purple_stained_glass_pane"
+					count: 3L
+				}
+				{
+					id: "2C4E0A3B3F65DA50"
+					type: "item"
+					item: "minecraft:purple_stained_glass"
+				}
+				{
+					id: "3A4174B00999629B"
+					type: "item"
+					item: "minecraft:white_stained_glass"
+					count: 8L
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

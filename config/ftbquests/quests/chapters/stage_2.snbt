@@ -3,7 +3,7 @@
 	group: "23866070F89333B0"
 	order_index: 1
 	filename: "stage_2"
-	title: "Stage 2"
+	title: "{chapter.stage.2.title}"
 	icon: {
 		id: "immersiveengineering:hammer"
 		Count: 1

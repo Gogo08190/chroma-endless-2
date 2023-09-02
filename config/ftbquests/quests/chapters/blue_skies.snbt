@@ -1,7 +1,7 @@
 {
 	id: "050A4F018DBFB60E"
 	group: "6E1FC0F5596E1533"
-	order_index: 12
+	order_index: 11
 	filename: "blue_skies"
 	title: "Blue Skies"
 	icon: {
@@ -26,6 +26,7 @@
 				""
 				"{image:chroma:textures/quests/blueskies_gatekeepershouse.png width:200 height:125 align:1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "0F0C79A70AF5E058"
 			tasks: [{
 				id: "3C636BA1F563F644"

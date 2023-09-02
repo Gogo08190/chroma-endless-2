@@ -3,7 +3,7 @@
 	group: "23866070F89333B0"
 	order_index: 2
 	filename: "stage_3"
-	title: "Stage 3"
+	title: "{chapter.stage.3.title}"
 	icon: "pneumaticcraft:air_compressor"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -808,7 +808,13 @@
 			x: 32.5d
 			y: 12.5d
 			subtitle: "{chapter.stage.3.quest.51.subtitle.1}"
-			description: ["{chapter.stage.3.quest.51.description.1}"]
+			description: [
+				"{chapter.stage.3.quest.51.description.1}"
+				""
+				"{chapter.stage.3.quest.51.description.2}"
+				""
+				"{chapter.stage.3.quest.51.description.3}"
+			]
 			dependencies: ["78ABD52B36D196F3"]
 			id: "79D3B3B0E855F1BC"
 			tasks: [{

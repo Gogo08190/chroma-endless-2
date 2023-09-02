@@ -1,0 +1,30 @@
+{
+	id: "08C1FC091DCAAEC7"
+	group: ""
+	order_index: 2
+	filename: "challenges"
+	title: "{chapter.challenges.title}"
+	icon: "minecraft:dragon_head"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 1.0d
+		y: -0.5d
+		id: "5DF51E52C0CF5F0A"
+		tasks: [
+			{
+				id: "4C0BCC391A23DEC6"
+				type: "stat"
+				stat: "ae2:items_inserted"
+				value: 100000
+			}
+			{
+				id: "178AAA1E7E880C9D"
+				type: "stat"
+				stat: "botania:tiny_potatoes_petted"
+				value: 1
+			}
+		]
+	}]
+	quest_links: [ ]
+}

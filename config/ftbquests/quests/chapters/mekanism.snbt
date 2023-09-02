@@ -2165,6 +2165,16 @@
 				}
 			]
 		}
+		{
+			x: -11.0d
+			y: 3.0d
+			id: "383B699DFA7EB21A"
+			tasks: [{
+				id: "2A18A1559316766B"
+				type: "structure"
+				structure: "minecraft:mineshaft"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

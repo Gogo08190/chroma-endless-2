@@ -162,6 +162,8 @@
 				"{chapter.welcome.quest.5.description.1}"
 				""
 				"{chapter.welcome.quest.5.description.2}"
+				""
+				"{chapter.welcome.quest.5.description.3}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			min_width: 300

@@ -1,7 +1,7 @@
 {
 	id: "48F7B7D4223A1E8A"
 	group: "6E1FC0F5596E1533"
-	order_index: 13
+	order_index: 12
 	filename: "evilcraft"
 	title: "EvilCraft"
 	icon: "evilcraft:condensed_blood"
@@ -19,6 +19,7 @@
 				""
 				"To get started, find yourself some &9Dark Gems&r. "
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			size: 2.0d
 			id: "0E07AAA79B6CDD57"
 			tasks: [{

@@ -7,6 +7,637 @@
 	icon: "biggerreactors:reactor_terminal"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	images: [
+		{
+			x: 0.5d
+			y: 9.0d
+			width: 0.5d
+			height: 0.5d
+			rotation: 0.0d
+			image: "cofh_core:textures/gui/icons/icon_information.png"
+			hover: ["Full List of Moderators"]
+			click: "https://biggerseries.net/en/biggerreactors/reactor/moderators"
+			dev: false
+			corner: false
+		}
+		{
+			x: 6.0d
+			y: 20.5d
+			width: 0.5d
+			height: 0.5d
+			rotation: 0.0d
+			image: "cofh_core:textures/gui/icons/icon_information.png"
+			hover: ["Full List of Turbine Coils and Properties"]
+			click: "https://biggerseries.net/en/biggerreactors/turbine/coils"
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: 2.0d
+			y: 13.5d
+			subtitle: "Waste reprocessor"
+			description: [
+				"When provided power and water, this machine can convert cyanite into blutonium, which may be put back into a reactor as fuel."
+				""
+				"{image:chroma:textures/quests/cyanite.png width:260 height:140 align:1}"
+			]
+			dependencies: ["4094AA0E6CCBD59A"]
+			id: "11C57262FD4AFDD2"
+			tasks: [{
+				id: "62A7099C1186C180"
+				type: "item"
+				item: "biggerreactors:cyanite_reprocessor"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 9.5d
+			description: [
+				"To get started with &l&bBigger Reactor&r, you will require a significant amount of &aUranium&r."
+				""
+				"Not only is uranium a fundamental component for the crafts of Bigger Reactor, but it also serves as the primary fuel for the reactor."
+			]
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "1420D26505063D0A"
+			tasks: [{
+				id: "6DC91E574FDB1EA6"
+				type: "item"
+				item: "biggerreactors:uranium_ingot"
+			}]
+		}
+		{
+			x: -6.5d
+			y: 11.0d
+			description: [
+				"To produce &l&8Graphite&r in Chroma Endless 2, follow the detailed process in the quests of &nstage 4&r."
+				""
+				"Just like uranium, Graphite is a major component for the crafts of Bigger Reactor and also serves as a Reactor Moderators (Reactor Coolants)."
+			]
+			dependencies: ["1420D26505063D0A"]
+			id: "5DDBA6269D6C1D16"
+			tasks: [{
+				id: "0549145EC49A00B2"
+				type: "item"
+				item: "biggerreactors:graphite_ingot"
+			}]
+		}
+		{
+			title: "Reactor Control Components"
+			x: -3.5d
+			y: 11.5d
+			shape: "diamond"
+			subtitle: "Everything is under control"
+			description: [
+				"Some components are entirely optional and are not required to build a functioning reactor. These may, however, allow for automation and remote control of reactors."
+				""
+				"&l&bComputer Ports&r allow for control of various reactor functions via Lua scripting with CC: Tweaker."
+				""
+				"&l&bRedstone Ports&r allow for control of various reactor functions via Redstone circuits."
+			]
+			dependencies: ["4A1099D4B901C6A3"]
+			optional: true
+			id: "44951F0949C07BA8"
+			tasks: [
+				{
+					id: "1FE6963BB55DED53"
+					type: "item"
+					item: "biggerreactors:reactor_computer_port"
+				}
+				{
+					id: "726310B3E2A81EE3"
+					type: "item"
+					item: "biggerreactors:reactor_redstone_port"
+				}
+			]
+		}
+		{
+			x: -4.5d
+			y: 10.5d
+			shape: "diamond"
+			subtitle: "I can see clearly now"
+			description: ["&l&bReactor Glass&r functions identically to casings, but may only be used on walls. It allows you to see inside of the reactor."]
+			dependencies: ["4A1099D4B901C6A3"]
+			id: "78DA859FA6B0041E"
+			tasks: [{
+				id: "3D9F81A6B7F762D9"
+				type: "item"
+				item: "biggerreactors:reactor_glass"
+			}]
+		}
+		{
+			title: "&aMy First Passive Reactor"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/quests/passive_reactor_3x3.png"
+				}
+			}
+			x: -1.5d
+			y: 11.5d
+			shape: "rsquare"
+			subtitle: "Build your first reactor"
+			description: [
+				"We'll construct the smallest possible passive reactor, the &b3x3x3&r."
+				"The quest's requirements precisely match what you need to assemble one."
+				""
+				"To assemble this, begin by constructing a 3x3x3 frame using Reactor Casings."
+				""
+				"To operate, your reactor needs :"
+				""
+				"• 1 Reactor Terminal."
+				"• 1 Reactor Fuel Rod"
+				"• 1 Control Rod"
+				"• 2 Reactor Access Ports"
+				"• 1 Power Tap"
+			]
+			dependencies: ["4A1099D4B901C6A3"]
+			size: 2.0d
+			min_width: 270
+			id: "2CDB01D2A8614181"
+			tasks: [
+				{
+					id: "73CD761BDC3B6F37"
+					type: "item"
+					item: "biggerreactors:reactor_terminal"
+				}
+				{
+					id: "469A743B45F89E5A"
+					type: "item"
+					item: "biggerreactors:reactor_casing"
+					count: 21L
+				}
+				{
+					id: "71540FA500B111E8"
+					type: "item"
+					item: "biggerreactors:reactor_access_port"
+					count: 2L
+				}
+				{
+					id: "74EF59AE4E8E0D56"
+					type: "item"
+					item: "biggerreactors:reactor_power_tap"
+				}
+				{
+					id: "0F0E4CE923C9C0EF"
+					type: "item"
+					item: "biggerreactors:reactor_fuel_rod"
+				}
+				{
+					id: "2BC42B8851D58DF5"
+					type: "item"
+					item: "biggerreactors:reactor_control_rod"
+				}
+			]
+		}
+		{
+			x: -5.0d
+			y: 11.5d
+			shape: "diamond"
+			subtitle: "The heart of the Reactor"
+			description: [
+				"&l&bReactor Terminals&r are used to control and monitor the operation of a reactor. They are a required component for all reactors, regardless of type."
+				""
+				"Reactor Terminals have three states, depending on the circumstances of which they're placed :"
+				""
+				"• While by itself or as part of a disassembled reactor, the terminal has a blank (black) screen."
+				"• If placed as part of an offline reactor, the screen will light up with a red flashing cursor."
+				"• If placed as part of an online reactor, the screen will light up green with scrolling text."
+				""
+				"When the terminal is placed as part of an assembled reactor, right clicking it will open up the Reactor Info screen."
+				"The screen provides information about the current state of the reactor, as well as controls for turning the reactor on/off, as well as whether or not to eject Waste."
+				""
+				"The terminal screen provides the following insights :"
+				""
+				"• &6Temperature&r is the measure of how hot the reactor currently is."
+				"• &6RF Generation&r Rate is how much RF is being generated per tick. (Passive Reactors)"
+				"• &6Exhaust Generation Rate&r is how much exhaust is being generated per tick. (Active Reactors)"
+				"• &6Fuel Usage Rate&r is how much fuel is being consumed per tick."
+				"• &6Reactivity&r is how reactive the reactor is."
+				""
+				"{image:chroma:textures/quests/reactor_passive_gui.png width:160 height:100 align:1}"
+			]
+			dependencies: ["5DDBA6269D6C1D16"]
+			size: 1.3d
+			min_width: 400
+			id: "4A1099D4B901C6A3"
+			tasks: [{
+				id: "6B90D329F6AA6DD5"
+				type: "item"
+				item: "biggerreactors:reactor_terminal"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 12.0d
+			shape: "diamond"
+			subtitle: "Items sorting"
+			description: ["&l&bAccess Ports&r are used to insert Fuel and extract Waste."]
+			dependencies: ["4A1099D4B901C6A3"]
+			id: "18FAEAA5B56ADDBF"
+			tasks: [{
+				id: "067958291AA39E71"
+				type: "item"
+				item: "biggerreactors:reactor_access_port"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 12.5d
+			shape: "diamond"
+			subtitle: "Extracting power"
+			description: ["&l&bPower Taps&r are where you extract power from a passive reactor."]
+			dependencies: ["4A1099D4B901C6A3"]
+			id: "1DB31489374C9499"
+			tasks: [{
+				id: "7B172DF22FA9AA5B"
+				type: "item"
+				item: "biggerreactors:reactor_power_tap"
+			}]
+		}
+		{
+			title: "Fuel storage and control"
+			x: -4.0d
+			y: 11.0d
+			shape: "diamond"
+			subtitle: "Radioactivity"
+			description: [
+				"&l&bReactor Fuel Rods&r are used to store Fuel and Waste. They are a required component for all reactors, regardless of type."
+				""
+				"&l&bControl Rods&r are used to maintain control over the reaction."
+			]
+			dependencies: ["4A1099D4B901C6A3"]
+			id: "70EAEAE556272A98"
+			tasks: [
+				{
+					id: "4A03142DD84A36E7"
+					type: "item"
+					item: "biggerreactors:reactor_fuel_rod"
+				}
+				{
+					id: "1E4444D4334D873C"
+					type: "item"
+					item: "biggerreactors:reactor_control_rod"
+				}
+			]
+		}
+		{
+			title: "Reactor Moderators"
+			x: 0.0d
+			y: 9.5d
+			subtitle: "Cooling my reactor"
+			description: [
+				"&l&bReactor Moderators&r (commonly incorrectly referred to as Reactor Coolants) are materials placed inside of a Reactor during construction. When a reactor is in operation, a moderator may change the way the reactor performs depending its properties."
+				""
+				"Moderators have four main properties that affect the reactor simulation:"
+				""
+				"• &aAbsorption:&r The speed at which radiation is absorbed and converted to case heat."
+				"• &aEfficiency:&r How efficiently absorbed radiation is converted into heat."
+				"• &aModeration:&r The effectiveness at which radiation is moderated (\"softened\")."
+				"• &aConductivity:&r How well heat is transferred from the fuel rods to the reactor casing."
+				""
+				"In general, higher values are always better (except for absorption, which may be better or worse depending on your reactor design)."
+			]
+			dependencies: ["2CDB01D2A8614181"]
+			min_width: 300
+			id: "4108CE86E1135BDF"
+			tasks: [{
+				id: "4B286763BC57046C"
+				type: "item"
+				item: "minecraft:diamond_block"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 13.5d
+			subtitle: "Nuclear Waste"
+			description: [
+				"&bCyanite&r is a waste resulting from the combustion of uranium in the passive reactor."
+				""
+				"This component is crucial for advancing in the Bigger Reactor mod."
+			]
+			dependencies: ["2CDB01D2A8614181"]
+			id: "4094AA0E6CCBD59A"
+			tasks: [{
+				id: "526EE9D491C9C3B1"
+				type: "item"
+				item: "biggerreactors:cyanite_ingot"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 14.0d
+			description: ["&bBlutonium&r is used in several crafting recipes, but can also be used in a reactor for fuel, just like Uranium."]
+			dependencies: ["11C57262FD4AFDD2"]
+			id: "03B75A824150B5BE"
+			tasks: [{
+				id: "6928286FB6DD6893"
+				type: "item"
+				item: "biggerreactors:blutonium_ingot"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 12.5d
+			description: [
+				"Now that you have &1Blutonium&r, you can craft &dLudicrite blocks&r in the Dissolution Chamber."
+				""
+				"It's a great Moderators for reactors, he can be used to craft the &cHeat Exchanger Controller&r."
+			]
+			dependencies: ["03B75A824150B5BE"]
+			id: "58C8A8EC97949B00"
+			tasks: [{
+				id: "2328E14554030ADF"
+				type: "item"
+				item: "biggerreactors:ludicrite_block"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 15.5d
+			shape: "diamond"
+			description: [
+				"&bTurbine Terminals&r are the control panels of the turbine. A turbine multi-block will form without a terminal, but you can't do much without it."
+				""
+				"{image:chroma:textures/quests/turbine_ui.png width:160 height:110 align:1}"
+			]
+			dependencies: ["03B75A824150B5BE"]
+			size: 1.3d
+			id: "50BCB89A586B02A4"
+			tasks: [{
+				id: "4E7E8E7CFC55FA99"
+				type: "item"
+				item: "biggerreactors:turbine_terminal"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 16.5d
+			shape: "diamond"
+			dependencies: ["50BCB89A586B02A4"]
+			id: "677CF3DE40D35A99"
+			tasks: [{
+				id: "1DD3E543C0C0FFA8"
+				type: "item"
+				item: "biggerreactors:turbine_glass"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 16.0d
+			shape: "diamond"
+			description: ["&l&bPower Taps&r are used to extract power."]
+			dependencies: ["50BCB89A586B02A4"]
+			id: "6CC5FB99D30E36A1"
+			tasks: [{
+				id: "641BA4B3C4EA58B7"
+				type: "item"
+				item: "biggerreactors:turbine_power_tap"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 17.0d
+			shape: "diamond"
+			description: ["&l&bComputer Ports&r allow for control of various turbine functions via Lua scripting with CC: Tweaker."]
+			dependencies: ["50BCB89A586B02A4"]
+			optional: true
+			id: "267DA85F91C2679A"
+			tasks: [{
+				id: "6F3C2DE169D4EA6B"
+				type: "item"
+				item: "biggerreactors:turbine_computer_port"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 16.5d
+			shape: "diamond"
+			description: [
+				"&l&bRotor Bearings&r are located at each end of the shaft of the turbine. Exactly 2 are required."
+				""
+				"&l&bRotor Shafts&r form the shaft of your turbine that spans end to end and connects to the rotor bearings."
+				""
+				"&l&bRotor Blades&r make the rotor spin by converting the thermal energy of the steam into rotational kinetic energy of the shaft. They are placed onto shaft components and can be multiple blocks in length."
+			]
+			dependencies: ["50BCB89A586B02A4"]
+			min_width: 300
+			id: "2D554ED87A074AA2"
+			tasks: [
+				{
+					id: "4D813370776EDF18"
+					type: "item"
+					item: "biggerreactors:turbine_rotor_bearing"
+				}
+				{
+					id: "664C2DFBDB45639C"
+					type: "item"
+					item: "biggerreactors:turbine_rotor_shaft"
+				}
+				{
+					id: "43C63D6885FD937D"
+					type: "item"
+					item: "biggerreactors:turbine_rotor_blade"
+				}
+			]
+		}
+		{
+			x: 5.0d
+			y: 16.0d
+			shape: "diamond"
+			description: ["&l&bTurbine Fluid Ports&r are used to insert steam and extract water. They provide a UI to set input or output status."]
+			dependencies: ["50BCB89A586B02A4"]
+			id: "68B4B234074939E1"
+			tasks: [{
+				id: "04EAB4F5119AA85F"
+				type: "item"
+				item: "biggerreactors:turbine_fluid_port"
+			}]
+		}
+		{
+			title: "&aMy First Turbine"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/quests/turbine_5x4x5.png"
+				}
+			}
+			x: 4.0d
+			y: 19.0d
+			shape: "rsquare"
+			subtitle: "Beyblade"
+			description: [
+				"We'll construct the smallest possible turbine, the &b5x4x5&r."
+				"The quest's requirements precisely match what you need to assemble one."
+				""
+				"To assemble this, begin by constructing a 5x4x5 frame using Turbine Casings."
+				""
+				"To operate, your turbine needs :"
+				""
+				"• 1 Turbine Terminal"
+				"• 56 Turbine Casings"
+				"• 20 Turbine Glasses"
+				"• 2 Turbine Rotor Bearings"
+				"• 2 Turbine Rotor Shafts"
+				"• 4 Turbine Rotor Blades"
+				"• 2 Turbine Fluid Ports"
+				"• 1 Turbine Power Tap"
+			]
+			dependencies: ["50BCB89A586B02A4"]
+			size: 2.0d
+			min_width: 300
+			id: "01A9C07E7517E60C"
+			tasks: [
+				{
+					id: "70D9B3283BFF03D8"
+					type: "item"
+					item: "biggerreactors:turbine_terminal"
+				}
+				{
+					id: "5C7167A1ACD4B60C"
+					type: "item"
+					item: "biggerreactors:turbine_casing"
+					count: 56L
+				}
+				{
+					id: "63BAB4517ADB3E0B"
+					type: "item"
+					item: "biggerreactors:turbine_glass"
+					count: 20L
+				}
+				{
+					id: "3B5B540BDD51C21E"
+					type: "item"
+					item: "biggerreactors:turbine_rotor_bearing"
+					count: 2L
+				}
+				{
+					id: "6795617EFD630E53"
+					type: "item"
+					item: "biggerreactors:turbine_rotor_shaft"
+					count: 2L
+				}
+				{
+					id: "771DE5B06ADF9FEE"
+					type: "item"
+					item: "biggerreactors:turbine_rotor_blade"
+					count: 4L
+				}
+				{
+					id: "54F2AAE6B054FC9C"
+					type: "item"
+					item: "biggerreactors:turbine_fluid_port"
+					count: 2L
+				}
+				{
+					id: "4CAD674A1D4B53D1"
+					type: "item"
+					item: "biggerreactors:turbine_power_tap"
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: 21.0d
+			subtitle: "Increase Turbine Efficiency"
+			description: [
+				"&l&bTurbine Coils&r are materials placed around a turbine shaft at one end of the turbine during construction."
+				""
+				"The Coils have three main properties that affect turbine simulation :"
+				""
+				"• &aExtraction Rate:&r Affects the RF extracted per tick per RPM."
+				"• &aEfficiency:&r Affects how much of the bonus RF is then turned into output RF."
+				"• &aBonus:&r Applies a final exponential RF bonus onto the extracted RF value ."
+				""
+				"In general, higher values are better."
+			]
+			dependencies: ["01A9C07E7517E60C"]
+			id: "1DBAA2A817FFC381"
+			tasks: [{
+				id: "1C645A376D4B5D32"
+				type: "item"
+				title: "Turbine Coils"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "minecraft:iron_block"
+								Count: 1
+							}
+							{
+								id: "minecraft:copper_block"
+								Count: 1
+							}
+							{
+								id: "mekanism:block_osmium"
+								Count: 1
+							}
+							{
+								id: "immersiveengineering:storage_steel"
+								Count: 1
+							}
+							{
+								id: "thermal:invar_block"
+								Count: 1
+							}
+							{
+								id: "thermal:silver_block"
+								Count: 1
+							}
+							{
+								id: "minecraft:gold_block"
+								Count: 1
+							}
+							{
+								id: "thermal:electrum_block"
+								Count: 1
+							}
+							{
+								id: "thermal:enderium_block"
+								Count: 1
+							}
+							{
+								id: "biggerreactors:ludicrite_block"
+								Count: 1
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Passive to Active Reactor"
+			x: 1.5d
+			y: 19.0d
+			shape: "hexagon"
+			subtitle: "Steam production"
+			description: [
+				"In its passive state, a reactor directly converts fuel into power. However, by adding a &bReactor Coolant Port&r to the reactor's wall, it transitions into an active reactor. This active form uses fuel to heat fluids, such as turning water into &dSteam&r."
+				""
+				"Note that you can't have both a &cPower Tap&r and a Coolant Port on the same reactor."
+				""
+				"Once installed, the reactor's interface will transform, providing more detailed information about its operations. The updated interface will display a tank for the coolant, another for the exhaust, and the &bExhaust Generation Rate&r."
+				""
+				"For example, if you introduce water, this rate will indicate the steam output."
+				""
+				"{image:chroma:textures/quests/reactor_active_gui.png width:160 height:100 align:1}"
+			]
+			dependencies: ["01A9C07E7517E60C"]
+			size: 1.5d
+			min_width: 300
+			id: "08BE93B6847927C6"
+			tasks: [{
+				id: "391164636776484A"
+				type: "item"
+				item: "biggerreactors:reactor_coolant_port"
+				count: 2L
+			}]
+		}
+	]
 	quest_links: [ ]
 }

@@ -1,7 +1,7 @@
 {
 	id: "527B0BF0A15146CA"
 	group: "6E1FC0F5596E1533"
-	order_index: 11
+	order_index: 10
 	filename: "applied_energistics_2"
 	title: "Applied Energistics 2"
 	icon: "ae2:controller"
@@ -17,10 +17,11 @@
 				""
 				"To begin with AE2, mine the mod's crucial resource, &bCertus Quartz&r. From this, you'll obtain Certus Quartz Crystals, yielding both &6Certus Quartz Dust&r and &6Crystals&r."
 				""
-				"For a deeper dive into AE2 beyond this section, refer to the wiki at &o&bappliedenergistics.github.io&f&r."
+				"For a deeper dive into AE2 beyond this section, refer to the wiki at &o&bguide.appliedenergistics.org&f&r."
 				""
 				"&cKeep in mind that the AE2 progression in Chroma Endless 2 differs from the base progression of the mod.&r"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			size: 1.5d
 			id: "02498CADDFE5DEAC"
 			tasks: [
@@ -620,7 +621,7 @@
 		}
 		{
 			x: 11.5d
-			y: -5.5d
+			y: -5.0d
 			shape: "diamond"
 			description: [
 				"At a certain stage in a comprehensive modpack playthrough, even the top-tier standard storage cell might fall short in accommodating the sheer volume of items and resources you gather."
@@ -897,6 +898,7 @@
 				"Additionally, it's important to bear in mind that every individual pylon, regardless of its dimension, consumes one channel. In scenarios involving particularly expansive spaces, it might be prudent to establish a dedicated network equipped with a controller to accommodate all the necessary pylons."
 			]
 			dependencies: ["7761D53AA0265A48"]
+			min_width: 300
 			id: "76E3C83F6521798A"
 			tasks: [{
 				id: "732224790865F058"
@@ -1338,7 +1340,7 @@
 			}]
 		}
 		{
-			x: 15.0d
+			x: 18.0d
 			y: -11.0d
 			description: ["The &bME Export Bus&r operates by intermittently ejecting items listed in its whitelist filter to an external storage destination that the bus is oriented towards. Unlike the Import Bus, the Export Bus is reliant on having a filter in place and cannot function without one."]
 			dependencies: ["47CCBB423DC0B88C"]
@@ -1350,8 +1352,8 @@
 			}]
 		}
 		{
-			x: 18.0d
-			y: -11.0d
+			x: 16.5d
+			y: -11.5d
 			description: ["The &bME Import Bus&r functions by regularly drawing items from the external storage it is directed towards. It can also be configured with optional filtering to exclusively retrieve specific items from the designated inventory."]
 			dependencies: ["47CCBB423DC0B88C"]
 			id: "6B3FAABCCAAE8F01"
@@ -1362,8 +1364,8 @@
 			}]
 		}
 		{
-			x: 16.5d
-			y: -11.5d
+			x: 15.0d
+			y: -11.0d
 			description: [
 				"The &bME Storage Bus&r, when positioned facing an external storage container, bestows upon the container the ability to be seamlessly integrated into the ME network. This integration enables the extraction of items from the container or the insertion of items into it exclusively through ME interfaces."
 				""
@@ -1378,8 +1380,8 @@
 			}]
 		}
 		{
-			x: 15.0d
-			y: -12.5d
+			x: 16.5d
+			y: -13.0d
 			description: [
 				"The &bME Annihilation Plane&r possesses the ability to autonomously dismantle blocks located in front of it. Moreover, any items dropped as a result of block destruction are promptly routed back to the ME network for storage."
 				""
@@ -1412,8 +1414,8 @@
 			}]
 		}
 		{
-			x: 16.5d
-			y: -13.0d
+			x: 15.0d
+			y: -12.5d
 			description: ["The &bCapacity Card&r provides the enhancement of expanding the filter capacity of a bus it's installed in. When Import and Export buses are upgraded with capacity cards, they transition from accommodating a solitary filtered item to their full potential of a nine-slot filter. Similarly, Storage buses undergo a transformation from having 18 slots to supporting up to 63 slots with the aid of a capacity card."]
 			dependencies: ["6CF18F8D359336E7"]
 			id: "12B334E1E6C4F4D8"
@@ -1424,8 +1426,8 @@
 			}]
 		}
 		{
-			x: 16.5d
-			y: -14.5d
+			x: 15.0d
+			y: -14.0d
 			description: ["The &bFuzzy Card&r introduces the capability to match a filtered item irrespective of any (NBT) metadata, which encompasses attributes like damage or enchantments. On the other hand, the &bInverter Card&r serves to toggle the filter on compatible buses, shifting it from a whitelist configuration to a blacklist configuration."]
 			dependencies: ["12B334E1E6C4F4D8"]
 			id: "30458C06F9C72956"
@@ -1821,6 +1823,19 @@
 				id: "4BD8CD1DE49FFEF8"
 				type: "item"
 				item: "lazierae2:parallel_processor"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			shape: "hexagon"
+			dependencies: ["299C31AC2471B903"]
+			size: 1.3d
+			id: "66BB5FCB3DDC7186"
+			tasks: [{
+				id: "0879BF5B561EBC26"
+				type: "item"
+				item: "ae2additions:me_wireless_transceiver"
 			}]
 		}
 	]

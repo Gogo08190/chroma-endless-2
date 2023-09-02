@@ -1,0 +1,1977 @@
+{
+	id: "2393C10CA1C4D814"
+	group: "6E1FC0F5596E1533"
+	order_index: 13
+	filename: "mana_and_artifice"
+	title: "Mana And Artifice"
+	icon: "mna:guide_book"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -6.5d
+			y: -2.5d
+			description: ["This will be one of your most important item. It contains all the knowledge you need to start!"]
+			id: "1208D37DB2DD19C6"
+			tasks: [{
+				id: "6CAAFFCEAD7DED58"
+				type: "item"
+				item: "mna:guide_book"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -0.5d
+			subtitle: "Read the Codex Arcana"
+			description: ["Once you start reading it, knowledge may flow into you. And maybe some magic too?"]
+			dependencies: ["1208D37DB2DD19C6"]
+			id: "561797A04C42F6D5"
+			tasks: [{
+				id: "5B5144C138412D3E"
+				type: "advancement"
+				advancement: "mna:tier_0/codex_trade"
+				criterion: ""
+			}]
+		}
+		{
+			x: -8.5d
+			y: -0.5d
+			description: ["Vinteum is a very important ore, it may be used for many crafts!"]
+			dependencies: ["561797A04C42F6D5"]
+			id: "652F1D9D38D36656"
+			tasks: [{
+				id: "1FA5DC47E17DDC25"
+				type: "item"
+				item: "mna:vinteum_ore"
+			}]
+		}
+		{
+			x: -10.5d
+			y: 0.5d
+			description: [
+				"Refer to the Codex Arcana. (You should be level 5 in magic)"
+				""
+				"Your level is displayed bellow your mana bar."
+			]
+			dependencies: ["652F1D9D38D36656"]
+			id: "661E2C2883D1E853"
+			tasks: [{
+				id: "10F20BF245A7CBC7"
+				type: "item"
+				item: "mna:chimerite_gem"
+			}]
+		}
+		{
+			x: -12.5d
+			y: 0.5d
+			subtitle: "Mana Regen"
+			description: ["Stand close to it will boost your mana regenaration!"]
+			dependencies: ["661E2C2883D1E853"]
+			id: "588EAF2A021236DA"
+			tasks: [{
+				id: "7BFAC30B9C4F8831"
+				type: "item"
+				item: "mna:mana_crystal"
+			}]
+		}
+		{
+			x: -10.5d
+			y: 2.5d
+			description: ["Or at least unlimited durability..."]
+			dependencies: ["661E2C2883D1E853"]
+			id: "52AC3F51B1637D78"
+			tasks: [{
+				id: "14C3AD23325B2B5F"
+				type: "item"
+				item: "mna:manaweaver_wand_advanced"
+			}]
+		}
+		{
+			x: -12.0d
+			y: 2.0d
+			subtitle: "Rune Forger"
+			description: ["Used mostly to create runes. But can be useful for other things. Refer to the Codex Arcana."]
+			dependencies: ["661E2C2883D1E853"]
+			id: "7A1A809E6C19E16E"
+			tasks: [{
+				id: "1938C1DE6CB97252"
+				type: "item"
+				item: "mna:runic_anvil"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 1.5d
+			description: ["This dust may be used to convert an iron ingot to a Vinteum ingot."]
+			dependencies: ["652F1D9D38D36656"]
+			id: "2802816252AF209D"
+			tasks: [{
+				id: "6224A5124E339C59"
+				type: "item"
+				item: "mna:vinteum_dust"
+			}]
+		}
+		{
+			x: -7.0d
+			y: 1.5d
+			description: ["Merge the newly crafted dust with an Iron Ingot."]
+			dependencies: ["2802816252AF209D"]
+			id: "002B81EE35EF4650"
+			tasks: [{
+				id: "56BADBBA5D633C9B"
+				type: "item"
+				item: "mna:vinteum_coated_iron"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 1.5d
+			description: ["Smelt the Coated Ingot in a furnace."]
+			dependencies: ["002B81EE35EF4650"]
+			id: "6946B2C829CBB7BF"
+			tasks: [{
+				id: "110ACB8AEABEBDA7"
+				type: "item"
+				item: "mna:vinteum_ingot"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 3.0d
+			dependencies: ["6946B2C829CBB7BF"]
+			id: "3FD944271A609D62"
+			tasks: [{
+				id: "43266B934D81B7E6"
+				type: "item"
+				item: "mna:superheated_vinteum_ingot"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 1.5d
+			description: ["Once you got Vinteum Ingot, you may want to craft a better wand. That wand is easy to craft and have a better durability!"]
+			dependencies: [
+				"6946B2C829CBB7BF"
+				"108C57CF2EEC246B"
+			]
+			id: "049094B611FEC9BC"
+			tasks: [{
+				id: "48456FB0D9240AA9"
+				type: "item"
+				item: {
+					id: "mna:manaweaver_wand"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: -0.5d
+			description: ["You must start somewhere with magic, why not craft a simple impprovised wand first?"]
+			dependencies: ["561797A04C42F6D5"]
+			id: "108C57CF2EEC246B"
+			tasks: [{
+				id: "0E8BCBA0C65F9773"
+				type: "item"
+				item: {
+					id: "mna:improvised_manaweaver_wand"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -0.5d
+			subtitle: "Your first spells"
+			description: [
+				"Cantrips are simple spells that you can cast with your wand."
+				""
+				"If you hold the control key and right click with the wand, you'll open a menu with all the cantrips you know."
+				""
+				"Each spell have a pattern. The pattern must be reproduced in the air with the wand. For that, simply hold right click and do the pattern related to the spell you want to cast."
+				""
+				"If you don't want to draw the patterns you can also use the raidal menu. For that look at your options and look for Mana and Artifice keybinds."
+			]
+			dependencies: ["108C57CF2EEC246B"]
+			min_width: 300
+			id: "3DFA66287E77B9CB"
+			tasks: [{
+				id: "13E7DD2780FF2B19"
+				type: "checkmark"
+				title: "Cantrips"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.5d
+			subtitle: "Transmute Stone to Arcane Stone"
+			description: ["Use the spell transmute to transform Stone to Arcane Stone."]
+			dependencies: ["3DFA66287E77B9CB"]
+			id: "67505A323D912102"
+			tasks: [{
+				id: "08152D2AA6D976B7"
+				type: "item"
+				item: "mna:decoration/arcane_stone"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.5d
+			subtitle: "Transmute Sandstone to Arcane Sandstone"
+			description: ["Use the spell transmute to transform Sandstone to Arcane Sandstone"]
+			dependencies: ["3DFA66287E77B9CB"]
+			id: "2E46E21C0BAF0C1E"
+			tasks: [{
+				id: "57BC3FDBAFA37AC6"
+				type: "item"
+				item: "mna:decoration/arcane_sandstone"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -4.5d
+			description: [
+				"With this altar you can craft many things. "
+				""
+				"Crafts need items of course, but also may need you to draw some shapes with you wand!"
+				""
+				"For all the crafts possible, you should refer to the occulus. There is a tab with all possibilities for your current tier."
+			]
+			dependencies: [
+				"67505A323D912102"
+				"2E46E21C0BAF0C1E"
+			]
+			min_width: 300
+			id: "35716C3A5960CC71"
+			tasks: [{
+				id: "782C2CE1DDF30339"
+				type: "item"
+				item: "mna:manaweaving_altar"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.5d
+			subtitle: "Path to automation"
+			description: ["Use it near the altar, to not have to draw again!"]
+			dependencies: ["35716C3A5960CC71"]
+			id: "776D4019800B0225"
+			tasks: [{
+				id: "52CE371692947E89"
+				type: "item"
+				item: "mna:manaweave_projector"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -4.5d
+			description: ["Use one pattern on a projector. And then use the projector to \"project\" the pattern on your altar."]
+			dependencies: ["776D4019800B0225"]
+			id: "0614CF89B18DEC6D"
+			tasks: [{
+				id: "4C9F89C8F52D1113"
+				type: "item"
+				item: {
+					id: "mna:manaweaving_pattern_recipe_paper"
+					Count: 1
+					tag: {
+						manaweave_pattern_id: "mna:manaweave_patterns/inverted_split_triangle"
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -7.0d
+			description: ["You can infuse your mana inside it. But why? You should read the Codex Arcana."]
+			dependencies: ["35716C3A5960CC71"]
+			id: "5951E21CD7465019"
+			tasks: [{
+				id: "4524203BE439F674"
+				type: "item"
+				item: {
+					id: "mna:eldritch_orb"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -7.0d
+			description: ["Want to go through a wall? Use this, it will temporary create a way."]
+			dependencies: ["35716C3A5960CC71"]
+			id: "4CBE936CABAF2A67"
+			tasks: [{
+				id: "2510D6FDC8ACE10E"
+				type: "item"
+				item: "mna:transitory_tunnel"
+			}]
+		}
+		{
+			title: "Mage Hoddies"
+			x: -3.0d
+			y: -7.0d
+			description: ["Become a real mage!"]
+			dependencies: ["35716C3A5960CC71"]
+			id: "2E1804E442EAAD9A"
+			tasks: [
+				{
+					id: "54930F7D368DC544"
+					type: "item"
+					item: {
+						id: "mna:mage_hood"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "27BC41F5D63FF75D"
+					type: "item"
+					item: {
+						id: "mna:mage_robes"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "401301F4F5288F52"
+					type: "item"
+					item: {
+						id: "mna:mage_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "63FEBE7DDEC642BE"
+					type: "item"
+					item: {
+						id: "mna:mage_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -4.5d
+			y: -6.0d
+			description: ["I think you should try to swim in lava."]
+			dependencies: ["35716C3A5960CC71"]
+			id: "2B8DF826F6FB3AE7"
+			tasks: [{
+				id: "7B972240DC14D5CE"
+				type: "item"
+				item: {
+					id: "mna:burn_charm"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: -5.0d
+			description: ["When you are too far from your house, use this item."]
+			dependencies: ["35716C3A5960CC71"]
+			id: "07CA05C13181F735"
+			tasks: [{
+				id: "469D34B278115CA1"
+				type: "item"
+				item: {
+					id: "mna:bed_charm"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -5.0d
+			description: ["You should fall from very high with it equipped."]
+			dependencies: ["35716C3A5960CC71"]
+			id: "4F5C44ACBB29DE3B"
+			tasks: [{
+				id: "06AB4EFE38799E4E"
+				type: "item"
+				item: {
+					id: "mna:fall_charm"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -6.0d
+			description: ["If you need some fresh air, under water..."]
+			dependencies: ["35716C3A5960CC71"]
+			id: "42096C510BDD51FA"
+			tasks: [{
+				id: "15028EAB92E47593"
+				type: "item"
+				item: {
+					id: "mna:drown_charm"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -0.5d
+			shape: "diamond"
+			description: ["Glyphs are useful crafting elements, that can be used in Manaweaving Altar or in Rituals."]
+			dependencies: ["3DFA66287E77B9CB"]
+			id: "495F6ECD785C7CCA"
+			tasks: [{
+				id: "3A1E23CC30BF7AF7"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_blank"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.5d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "3423302A1D458769"
+			tasks: [{
+				id: "04156A2E516686FE"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_black"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -0.5d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "67A0AF67488DE705"
+			tasks: [{
+				id: "40D503E84619527A"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_blue"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "00CA0CB9AB07742A"
+			tasks: [{
+				id: "4E0136DBFFFD4DB1"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_brown"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "1FAC266F863F6EC4"
+			tasks: [{
+				id: "1807966A7DA4DF1B"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_cyan"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -0.5d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "09B626C77E08C0E9"
+			tasks: [{
+				id: "34071C1C0FCDF4C3"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_gray"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "1DF6BD3EDD4FB3AA"
+			tasks: [{
+				id: "7B364DBB103849DD"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_green"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "57CE5D23A1E8C932"
+			tasks: [{
+				id: "09E8C45C97F9B3A0"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_light_blue"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "08AE2B53A7E1C44C"
+			tasks: [{
+				id: "27504EB47B8D7C43"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_light_gray"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "42B9B9D1B5BEFF13"
+			tasks: [{
+				id: "40411091C443CE47"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_lime"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "4E01B70B4AB34EAC"
+			tasks: [{
+				id: "64F296C2499AD0CF"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_magenta"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "729D112EF6D0A5C5"
+			tasks: [{
+				id: "61A4628DA9C234EE"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_orange"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "1980758A63490917"
+			tasks: [{
+				id: "2E9021FE54FBD4AD"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_pink"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "2DF785279891B83D"
+			tasks: [{
+				id: "7BCD52F8D5EAD1F2"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_purple"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "6FDD023963A8F154"
+			tasks: [{
+				id: "1FBE81AE4076A266"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_red"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "6647F81DB639AC07"
+			tasks: [{
+				id: "0938DDECECBFC872"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_white"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			shape: "diamond"
+			dependencies: ["495F6ECD785C7CCA"]
+			id: "62C9AC1164FA1800"
+			tasks: [{
+				id: "104D09A5533966DD"
+				type: "item"
+				item: {
+					id: "mna:stone_rune_yellow"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 3.0d
+			subtitle: "Transmute Copper to Transmuted Silver!"
+			description: [
+				"With your newly acquired wand, you can cast a very important spell for the next step. That spell is called \"Transmute\""
+				""
+				"Place a copper block on the floor (Don't drop it, place it), and use the \"Transmute\" spell. Be aware of the pattern if you want to be successful in casting it!"
+			]
+			dependencies: ["3DFA66287E77B9CB"]
+			id: "55373D07F2198568"
+			tasks: [{
+				id: "3732C8CEE7DD29A6"
+				type: "item"
+				item: "mna:transmuted_silver"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 3.0d
+			description: ["Runforge is useful for making Bone Ash. But it also act like a furnace (a slow one, but it's free)."]
+			dependencies: [
+				"495F6ECD785C7CCA"
+				"55373D07F2198568"
+			]
+			id: "7B55E09E0F3FA9EC"
+			tasks: [{
+				id: "645C948C79DF370E"
+				type: "item"
+				item: "mna:runeforge"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			subtitle: "Upgrade your Runeforge"
+			dependencies: ["7B55E09E0F3FA9EC"]
+			id: "2269804DA7336A90"
+			tasks: [{
+				id: "14AB804E5DAA8304"
+				type: "item"
+				item: "mna:brimstone_charm"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 2.0d
+			subtitle: "The base for rituals"
+			dependencies: ["7B55E09E0F3FA9EC"]
+			id: "3E788AC264AA8CD9"
+			tasks: [{
+				id: "6127A69ACACF3693"
+				type: "item"
+				item: "mna:bone_ash"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 3.5d
+			description: ["You'll need that for Arcane Ash."]
+			dependencies: ["3E788AC264AA8CD9"]
+			id: "1B276582A6641C98"
+			tasks: [{
+				id: "61B3E1EEBAD46565"
+				type: "item"
+				item: "mna:arcane_compound"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 5.0d
+			description: ["To get that, you must burn some Arcane Coumpound in your Runeforge"]
+			dependencies: ["1B276582A6641C98"]
+			id: "5F065D88968070F8"
+			tasks: [{
+				id: "18AEBAA8CAAC79C3"
+				type: "item"
+				item: "mna:arcane_ash"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 7.0d
+			dependencies: ["6B54E72345B714F4"]
+			id: "53BF250123754C46"
+			tasks: [{
+				id: "4F73E0C17CA2D253"
+				type: "item"
+				item: {
+					id: "mna:arcanist_ink"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 7.0d
+			description: [
+				"The inscription table will be used to make spells."
+				""
+				"You'll need, Velum, Arcane Ash and Arcanist's Ink. Let's craft that last one."
+			]
+			dependencies: ["5F065D88968070F8"]
+			id: "6B54E72345B714F4"
+			tasks: [{
+				id: "78BB1CAF27B13494"
+				type: "item"
+				item: "mna:inscription_table"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 7.0d
+			description: ["This is an item needed in many crafts. And it can look good in your room isn't it?"]
+			dependencies: ["55373D07F2198568"]
+			id: "421AF2B671AA07B1"
+			tasks: [{
+				id: "709F2EF9AD9EDCCE"
+				type: "item"
+				item: "mna:basic_table"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 5.0d
+			description: ["Okay, that one is only useful to craft the Occulus. But it looks way better than the other one!"]
+			dependencies: ["421AF2B671AA07B1"]
+			id: "399958B386EFFE4E"
+			tasks: [{
+				id: "2A86808E649078B3"
+				type: "item"
+				item: "mna:ornate_table"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 5.0d
+			shape: "octagon"
+			subtitle: "The progression"
+			description: [
+				"The occulus is a very useful item. Once you have placed it you can right click."
+				""
+				"You'll open an UI with many tabs on it. The first one is very important. It displays what you need to do in order to get a better mage."
+			]
+			dependencies: [
+				"2802816252AF209D"
+				"399958B386EFFE4E"
+			]
+			size: 2.0d
+			id: "59158264FA520791"
+			tasks: [{
+				id: "794232E831F171AC"
+				type: "item"
+				item: "mna:occulus"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 8.5d
+			dependencies: ["6B54E72345B714F4"]
+			id: "679B56E2C9E74F88"
+			tasks: [{
+				id: "6B2C015046D8BB63"
+				type: "item"
+				item: "mna:ritual_focus_minor"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 9.5d
+			dependencies: ["679B56E2C9E74F88"]
+			id: "7BC5B334D7BCC630"
+			tasks: [{
+				id: "190779D69F707F0F"
+				type: "item"
+				item: "mna:ritual_focus_lesser"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 10.5d
+			dependencies: ["7BC5B334D7BCC630"]
+			id: "395BCD0B10E11AB5"
+			tasks: [{
+				id: "1993B5F049865083"
+				type: "item"
+				item: "mna:ritual_focus_greater"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 7.0d
+			description: [
+				"You can use it to generate wellspring energy."
+				""
+				"You can see in the occulus how much energy you have."
+			]
+			dependencies: ["421AF2B671AA07B1"]
+			id: "0AA25F320B597F75"
+			tasks: [{
+				id: "3060E471B4F6AE1D"
+				type: "item"
+				item: "mna:eldrin_fume"
+			}]
+		}
+		{
+			x: -8.0d
+			y: 7.0d
+			description: [
+				"Those are used to spend you Wellspring energy. It will extract the energy from your \"network\" and send it to machines that needs it. (Example: Disenchanter)"
+				""
+				"Be careful, if the conduits are too close from each other, they will not work."
+			]
+			dependencies: ["0AA25F320B597F75"]
+			id: "075774E4532B5135"
+			tasks: [{
+				id: "38BCFA93B9CF5A89"
+				type: "item"
+				title: "Lesser Eldrin Conduit"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "mna:lesser_eldrin_conduit_fire"
+								Count: 1
+							}
+							{
+								id: "mna:lesser_eldrin_conduit_water"
+								Count: 1
+							}
+							{
+								id: "mna:lesser_eldrin_conduit_earth"
+								Count: 1
+							}
+							{
+								id: "mna:lesser_eldrin_conduit_air"
+								Count: 1
+							}
+							{
+								id: "mna:lesser_eldrin_conduit_ender"
+								Count: 1
+							}
+							{
+								id: "mna:lesser_eldrin_conduit_arcane"
+								Count: 1
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Eldrin Conduit"
+			x: -10.0d
+			y: 7.0d
+			description: ["Those are better version on the conduit. And they don't nullify each other if too close."]
+			dependencies: ["075774E4532B5135"]
+			id: "5761E856CCCE4602"
+			tasks: [{
+				id: "3CB59826F226296C"
+				type: "item"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "mna:eldrin_conduit_fire"
+								Count: 1
+							}
+							{
+								id: "mna:eldrin_conduit_water"
+								Count: 1
+							}
+							{
+								id: "mna:eldrin_conduit_earth"
+								Count: 1
+							}
+							{
+								id: "mna:eldrin_conduit_air"
+								Count: 1
+							}
+							{
+								id: "mna:eldrin_conduit_ender"
+								Count: 1
+							}
+							{
+								id: "mna:eldrin_conduit_arcane"
+								Count: 1
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 8.5d
+			subtitle: "Workbench for Magicians"
+			description: [
+				"This is a better version of the workbench."
+				""
+				"It has an inventory. It can also remember recipes."
+			]
+			dependencies: ["421AF2B671AA07B1"]
+			id: "49F39FF95095D94C"
+			tasks: [{
+				id: "0D17E5B63F313AE4"
+				type: "item"
+				item: "mna:magicians_workbench"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 9.5d
+			subtitle: "Modify your spell affinity"
+			description: ["Refer to the Codex Acarna."]
+			dependencies: ["421AF2B671AA07B1"]
+			id: "1A6B3A8ADFFA2B00"
+			tasks: [{
+				id: "1E926A178E771A3A"
+				type: "item"
+				item: "mna:affinity_tinker"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 10.5d
+			subtitle: "Copy Spells"
+			description: [
+				"With a book of rote and a rote spell (To have a spell rote, you must use the spell many times), ink, lapis and a receptacle for the spell you can copy the spell."
+				""
+				"You'll also need wellspring energy and a conduit."
+			]
+			dependencies: ["421AF2B671AA07B1"]
+			id: "258D0AB6AD51ED25"
+			tasks: [{
+				id: "0A99796FFBC68581"
+				type: "item"
+				item: "mna:spell_infusion"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 9.5d
+			subtitle: "Disenchant items!"
+			description: [
+				"You'll need Wellsprint Energy, a projection rune and an enchanted item."
+				""
+				"Refer to the codex arcana."
+			]
+			dependencies: ["421AF2B671AA07B1"]
+			id: "5171CCFC2F5E98EC"
+			tasks: [{
+				id: "0A3D7CB15D2E8018"
+				type: "item"
+				item: "mna:disenchanter"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 10.5d
+			subtitle: "Time to study"
+			dependencies: ["421AF2B671AA07B1"]
+			id: "61CE68B6AE291D52"
+			tasks: [{
+				id: "24DA6A67AFABA0ED"
+				type: "item"
+				item: "mna:study_desk"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 9.0d
+			description: ["The Runescribing Table is used to craft various Rune Patterns using a Runesmith's Hammer and Runesmith's Chisel."]
+			dependencies: ["421AF2B671AA07B1"]
+			id: "4260D03CE17E62F4"
+			tasks: [{
+				id: "0C9873169DF5290D"
+				type: "item"
+				item: "mna:runescribing_table"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 8.0d
+			dependencies: ["4260D03CE17E62F4"]
+			id: "42114FDC99C9E6CA"
+			tasks: [{
+				id: "2DA8EE3D52DD90CC"
+				type: "item"
+				item: {
+					id: "mna:runesmith_hammer"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 10.0d
+			dependencies: ["4260D03CE17E62F4"]
+			id: "43BAFD54B8BD6037"
+			tasks: [{
+				id: "2440C6BCAEEF9B8C"
+				type: "item"
+				item: {
+					id: "mna:runesmith_chisel"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 11.0d
+			description: ["Burn it in a Runeforge!"]
+			dependencies: ["4260D03CE17E62F4"]
+			id: "14E0C8F635EAA575"
+			tasks: [{
+				id: "09B6FA4D3F4B5D49"
+				type: "item"
+				item: "mna:rune_clay_plate"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 12.5d
+			shape: "diamond"
+			subtitle: "The base for all runes!"
+			description: ["To create a rune you must draw it. By clicking on each line. You can remove a line by Shift + Click on it (You must have some clay in your table)"]
+			dependencies: ["14E0C8F635EAA575"]
+			id: "56360A05567CE0C2"
+			tasks: [{
+				id: "023E52A6B2B4539C"
+				type: "item"
+				item: "mna:rune_pattern"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 13.0d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "37462C85B87512DD"
+			tasks: [{
+				id: "7BB0AD90BBC04F9A"
+				type: "item"
+				item: "mna:rune_pattern_ritual_metal"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 13.0d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "5ECFD8FBEDAF2E7E"
+			tasks: [{
+				id: "1042D59C2C110D36"
+				type: "item"
+				item: "mna:rune_pattern_defense"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 13.5d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "33D53504CCBD17ED"
+			tasks: [{
+				id: "6FE506C2DB74E37D"
+				type: "item"
+				item: "mna:rune_pattern_aura"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 14.0d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "1F348FDE0B423CE3"
+			tasks: [{
+				id: "323F9E8063A38FAB"
+				type: "item"
+				item: "mna:rune_pattern_projection"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 13.5d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "3569DCFFB8925A4D"
+			tasks: [{
+				id: "29AD2C42BAF349D4"
+				type: "item"
+				item: "mna:rune_pattern_marking"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 13.5d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "41EFFA16232B5D30"
+			tasks: [{
+				id: "2A368C33F3BF8394"
+				type: "item"
+				item: "mna:rune_pattern_air"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 14.0d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "4861111E076D57B0"
+			tasks: [{
+				id: "60006ECF78E5C3E8"
+				type: "item"
+				item: "mna:rune_pattern_earth"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 14.5d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "5119A0D4FF38B5A3"
+			tasks: [{
+				id: "2D3CCC9C1E9ECE40"
+				type: "item"
+				item: "mna:rune_pattern_water"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 13.5d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "2F725B9025F21D88"
+			tasks: [{
+				id: "0B632DC9A68EA326"
+				type: "item"
+				item: "mna:rune_pattern_fire"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 14.5d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "560EB7A33747AD9C"
+			tasks: [{
+				id: "2B8C39225CE0F431"
+				type: "item"
+				item: "mna:rune_pattern_arcane"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 14.0d
+			shape: "diamond"
+			dependencies: ["56360A05567CE0C2"]
+			id: "4411B64C1EED94F0"
+			tasks: [{
+				id: "245E7658B0562182"
+				type: "item"
+				item: "mna:rune_pattern_ender"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 8.5d
+			description: ["But how? Simple! You have two possibilities. For one vellum right click on a water source block with a leather in your hand. For two, right click on a cauldron with leather (Don't forget the water in it)"]
+			dependencies: ["6B54E72345B714F4"]
+			id: "02AFDB73A6664111"
+			tasks: [{
+				id: "5EC4BEA42B894006"
+				type: "item"
+				item: "mna:vellum"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 8.5d
+			dependencies: [
+				"02AFDB73A6664111"
+				"53BF250123754C46"
+			]
+			id: "05B10A9AF24EF0FF"
+			tasks: [{
+				id: "6E470F3E0D5D010D"
+				type: "item"
+				item: "mna:enchanted_vellum"
+			}]
+		}
+		{
+			x: 8.5d
+			y: 8.5d
+			shape: "hexagon"
+			dependencies: [
+				"2FEE2479C9F0A147"
+				"05B10A9AF24EF0FF"
+				"402EE775D322261B"
+			]
+			id: "6403473D9807A920"
+			tasks: [{
+				id: "3795AEF1B0229C1B"
+				type: "item"
+				item: {
+					id: "mna:spell"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 7.0d
+			subtitle: "Rituals: Activation Item"
+			description: [
+				"To activate the rituals, you must use that."
+				""
+				"Right click one time to see where the items must be placed, and a second time to activate the ritual."
+				""
+				"Refer to the Codex Arcana for all the rituals."
+			]
+			dependencies: ["5F065D88968070F8"]
+			id: "2FEE2479C9F0A147"
+			tasks: [{
+				id: "0B3C68C169FDDF4D"
+				type: "item"
+				item: "mna:purified_vinteum_dust"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 5.5d
+			dependencies: ["2FEE2479C9F0A147"]
+			id: "0A22406AF906DE8C"
+			tasks: [{
+				id: "2433CE0D83120A85"
+				type: "item"
+				item: "mna:purified_vinteum_coated_iron"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 4.5d
+			dependencies: ["0A22406AF906DE8C"]
+			id: "729019813741D055"
+			tasks: [{
+				id: "460C70564560F900"
+				type: "item"
+				item: "mna:purified_vinteum_ingot"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 3.5d
+			dependencies: ["729019813741D055"]
+			id: "11E181835809D1F3"
+			tasks: [{
+				id: "03D8AB71EFF4E33F"
+				type: "item"
+				item: "mna:superheated_purified_vinteum_ingot"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 8.5d
+			dependencies: ["6403473D9807A920"]
+			id: "4E705DC5F84A9970"
+			tasks: [{
+				id: "0A0933FAE55E4C10"
+				type: "item"
+				item: "mna:spell_book"
+			}]
+		}
+		{
+			x: 8.5d
+			y: 2.0d
+			description: ["Chalk is used to draw pattern on the gorund. Yeah i know, it's obvious."]
+			dependencies: ["3E788AC264AA8CD9"]
+			id: "402EE775D322261B"
+			tasks: [{
+				id: "691E89BDDB0DC66B"
+				type: "item"
+				item: {
+					id: "mna:wizard_chalk"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: 0.0d
+			description: [
+				"It's a magical backpack. To Open it you must use the control key and right click."
+				""
+				"But it can also be used to store rituals. To do so, you must shift + right click on the ritual pattern. Once it saved you can place it on the ground if you have the needed items in your pouch."
+				""
+				"To select the ritual sotred, use the keybind configured. (Same as the spells shapes)"
+			]
+			dependencies: ["402EE775D322261B"]
+			id: "52F50D461A3B403C"
+			tasks: [{
+				id: "12374AB5205182BB"
+				type: "item"
+				item: "mna:practitioners_pouch"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -1.5d
+			dependencies: ["52F50D461A3B403C"]
+			id: "5446E98D929584BB"
+			tasks: [{
+				id: "0E90626ED03D9F39"
+				type: "item"
+				item: {
+					id: "mna:sorcerous_sewing_set"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: -3.5d
+			dependencies: ["5446E98D929584BB"]
+			id: "445A7B623B675741"
+			tasks: [{
+				id: "5BABBBDC08F28FED"
+				type: "item"
+				item: "mna:patch_glyph"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -3.5d
+			dependencies: ["5446E98D929584BB"]
+			id: "5D26D58E65884A4E"
+			tasks: [{
+				id: "5D025F3CE4992D0E"
+				type: "item"
+				item: "mna:patch_depth"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -4.5d
+			dependencies: ["5D26D58E65884A4E"]
+			id: "6EF92D1CA3209691"
+			tasks: [{
+				id: "2FF5C10512FAB436"
+				type: "item"
+				item: "mna:patch_depth_2"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -3.5d
+			dependencies: ["5446E98D929584BB"]
+			id: "4B57F85E06784773"
+			tasks: [{
+				id: "65BC9E4110E42113"
+				type: "item"
+				item: "mna:patch_speed"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -4.5d
+			dependencies: ["4B57F85E06784773"]
+			id: "25E21F028D8E79C1"
+			tasks: [{
+				id: "11E2B862CB98CBD8"
+				type: "item"
+				item: "mna:patch_speed_2"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -5.5d
+			dependencies: ["25E21F028D8E79C1"]
+			id: "10BA98FE56068E03"
+			tasks: [{
+				id: "0BA73054ABF5F703"
+				type: "item"
+				item: "mna:patch_speed_3"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -3.5d
+			dependencies: ["5446E98D929584BB"]
+			id: "69C9EE7565FC5A71"
+			tasks: [{
+				id: "260801D55132EF12"
+				type: "item"
+				item: "mna:patch_mote"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -3.5d
+			dependencies: ["5446E98D929584BB"]
+			id: "3800DFC0E3F24E86"
+			tasks: [{
+				id: "19AF9300ECBDED66"
+				type: "item"
+				item: "mna:patch_collection"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 1.5d
+			subtitle: "Do the Ritual of Ancient Stone"
+			dependencies: ["402EE775D322261B"]
+			id: "5D67C3F98C0E4755"
+			tasks: [{
+				id: "39F4A148E11E62BA"
+				type: "item"
+				item: "mna:mote_earth"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 2.5d
+			subtitle: "Do the Ritual of the Searing Inferno"
+			dependencies: ["402EE775D322261B"]
+			id: "0A041785C454BD7E"
+			tasks: [{
+				id: "4E5B1CF2AB36D3E1"
+				type: "item"
+				item: "mna:mote_fire"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 0.5d
+			subtitle: "Do the Ritual of the Deep Ocean"
+			dependencies: ["402EE775D322261B"]
+			id: "5BEEFB00D852EBC7"
+			tasks: [{
+				id: "313030DC4453FCB8"
+				type: "item"
+				item: "mna:mote_water"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -0.5d
+			subtitle: "Do th Ritual of Forgotten Lore"
+			dependencies: ["402EE775D322261B"]
+			id: "00136A5E583621AA"
+			tasks: [{
+				id: "6D756F81AD94D9A9"
+				type: "item"
+				item: "mna:mote_arcane"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 3.5d
+			subtitle: "Do the Ritual of the Enless Void"
+			dependencies: ["402EE775D322261B"]
+			id: "26468C54CFEA6878"
+			tasks: [{
+				id: "316858E1FFED5B0D"
+				type: "item"
+				item: "mna:mote_ender"
+			}]
+		}
+		{
+			x: 13.0d
+			y: -0.5d
+			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			dependencies: ["00136A5E583621AA"]
+			id: "16961BFB5E55D69F"
+			tasks: [{
+				id: "7D6CF1AEA28D7376"
+				type: "item"
+				item: "mna:greater_mote_arcane"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 0.5d
+			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			dependencies: ["5BEEFB00D852EBC7"]
+			id: "377F8D51B417E27B"
+			tasks: [{
+				id: "16F901E9C02A5821"
+				type: "item"
+				item: "mna:greater_mote_water"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 1.5d
+			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			dependencies: ["5D67C3F98C0E4755"]
+			id: "64862833B08BF74B"
+			tasks: [{
+				id: "10B611A7C33F386A"
+				type: "item"
+				item: "mna:greater_mote_earth"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 2.5d
+			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			dependencies: ["0A041785C454BD7E"]
+			id: "077A67234CDCED66"
+			tasks: [{
+				id: "00C011E7F1A2877F"
+				type: "item"
+				item: "mna:greater_mote_fire"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 3.5d
+			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			dependencies: ["26468C54CFEA6878"]
+			id: "78A65C7D27258B93"
+			tasks: [{
+				id: "1A28053C3DC69CA2"
+				type: "item"
+				item: "mna:greater_mote_ender"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 4.5d
+			subtitle: "Do the Ritual of Untamed Wind"
+			dependencies: ["402EE775D322261B"]
+			id: "2C7D684EF66F8ECD"
+			tasks: [{
+				id: "0D25D3169C7B87F2"
+				type: "item"
+				item: "mna:mote_air"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 4.5d
+			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			dependencies: ["2C7D684EF66F8ECD"]
+			id: "0E78547B59E584E8"
+			tasks: [{
+				id: "1F5DFFE159D1CA62"
+				type: "item"
+				item: "mna:greater_mote_air"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 10.5d
+			description: ["Constructs are entities you can control to automate things. The station is used for that. Be aware you'll need a tier 2 item (Rune: Marking) to be able to use it properly."]
+			dependencies: ["02AFDB73A6664111"]
+			id: "0D72D6496B179064"
+			tasks: [{
+				id: "6A30396E45DE3418"
+				type: "item"
+				item: "mna:delegation_station"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 13.5d
+			description: ["This is a better delagation station, with way more possibilities."]
+			dependencies: ["58F1BD875D9E849F"]
+			id: "22751881A67FD4CC"
+			tasks: [{
+				id: "00C8AEE9F5E62E94"
+				type: "item"
+				item: "mna:lodestar"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 12.0d
+			subtitle: "The next tier of automation"
+			description: ["With that, you can finally tell to the construct what to do! Refer to the Codex Arcana for more informations."]
+			dependencies: ["0D72D6496B179064"]
+			id: "58F1BD875D9E849F"
+			tasks: [{
+				id: "4461BABC10400610"
+				type: "item"
+				item: "mna:rune_marking"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 12.0d
+			subtitle: "It's time for an upgrade!"
+			dependencies: ["0D72D6496B179064"]
+			id: "418398D2336E9DFD"
+			tasks: [{
+				id: "33D3423367861B85"
+				type: "item"
+				item: "mna:construct_workbench"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 13.5d
+			dependencies: ["418398D2336E9DFD"]
+			id: "57DC9FA02C8CE1D7"
+			tasks: [{
+				id: "001BF536B9EFB93A"
+				type: "item"
+				item: "mna:chimerite_crystal_black"
+			}]
+		}
+		{
+			title: "Construct"
+			x: 7.5d
+			y: 10.5d
+			subtitle: "A animated... thing?"
+			description: [
+				"Place a armor stand, and then on it place every items you have crafted for this quest."
+				""
+				"Then use the animus dust on it."
+			]
+			dependencies: ["0D72D6496B179064"]
+			id: "3E24C47344A9C37E"
+			tasks: [
+				{
+					id: "77EA8BABA4E02274"
+					type: "item"
+					item: "minecraft:armor_stand"
+				}
+				{
+					id: "7B9EBFB81AEDE96A"
+					type: "item"
+					item: "mna:constructs/construct_basic_head_wickerwood"
+				}
+				{
+					id: "1161E88CE2B97061"
+					type: "item"
+					item: "mna:constructs/construct_basic_torso_wickerwood"
+				}
+				{
+					id: "4B8BB6DC1B976627"
+					type: "item"
+					item: "mna:constructs/construct_basic_legs_wickerwood"
+				}
+				{
+					id: "17C459DE26698F74"
+					type: "item"
+					item: "mna:constructs/construct_blade_arm_right_wickerwood"
+				}
+				{
+					id: "18849AB095D06015"
+					type: "item"
+					item: "mna:constructs/construct_grabber_arm_left_wickerwood"
+				}
+			]
+		}
+		{
+			x: 9.5d
+			y: 10.5d
+			dependencies: ["3E24C47344A9C37E"]
+			id: "4A77F375A6A245E1"
+			tasks: [{
+				id: "4F13E26DB05C98DC"
+				type: "item"
+				item: "mna:magic_broom"
+			}]
+		}
+		{
+			x: 9.5d
+			y: 11.5d
+			subtitle: "Control your construct!"
+			description: [
+				"Now that you have a construct. Use this bell to command it directly!"
+				""
+				"Refer to the codex arcana for more informations about constructs."
+			]
+			dependencies: ["3E24C47344A9C37E"]
+			id: "257915D15CE49A8C"
+			tasks: [{
+				id: "40B015A0D00D8615"
+				type: "item"
+				item: "mna:bell_of_bidding"
+			}]
+		}
+		{
+			title: "Wooden Construct"
+			x: 7.5d
+			y: 12.5d
+			shape: "rsquare"
+			dependencies: ["3E24C47344A9C37E"]
+			id: "25CADFEC94B48AFA"
+			tasks: [
+				{
+					id: "5E24FEA3AFD5BF03"
+					type: "item"
+					item: "mna:constructs/construct_basic_head_wood"
+				}
+				{
+					id: "3E0CFFB819B00840"
+					type: "item"
+					item: "mna:constructs/construct_basic_torso_wood"
+				}
+				{
+					id: "06ED02FA6F1BFF92"
+					type: "item"
+					item: "mna:constructs/construct_basic_legs_wood"
+				}
+			]
+		}
+		{
+			title: "Stone Construct"
+			x: 7.5d
+			y: 13.5d
+			shape: "rsquare"
+			dependencies: ["25CADFEC94B48AFA"]
+			id: "3465A66F355A1EC3"
+			tasks: [
+				{
+					id: "0351BA53644048DB"
+					type: "item"
+					item: "mna:constructs/construct_basic_head_stone"
+				}
+				{
+					id: "4B2FBF0BFC9CAD09"
+					type: "item"
+					item: "mna:constructs/construct_basic_torso_stone"
+				}
+				{
+					id: "341E3B9E85FCCCC3"
+					type: "item"
+					item: "mna:constructs/construct_basic_legs_stone"
+				}
+			]
+		}
+		{
+			title: "Iron Construct"
+			x: 7.5d
+			y: 14.5d
+			shape: "rsquare"
+			dependencies: ["3465A66F355A1EC3"]
+			id: "5AD073B85783E9E9"
+			tasks: [
+				{
+					id: "588754955F1FB6C2"
+					type: "item"
+					item: "mna:constructs/construct_basic_head_iron"
+				}
+				{
+					id: "495F78F90BA4082D"
+					type: "item"
+					item: "mna:constructs/construct_basic_torso_iron"
+				}
+				{
+					id: "19041933BD136134"
+					type: "item"
+					item: "mna:constructs/construct_basic_legs_iron"
+				}
+			]
+		}
+		{
+			title: "Gold Construct"
+			x: 7.5d
+			y: 15.5d
+			shape: "rsquare"
+			dependencies: ["5AD073B85783E9E9"]
+			id: "2B964653B2E33C20"
+			tasks: [
+				{
+					id: "23A4B63F810255D5"
+					type: "item"
+					item: "mna:constructs/construct_basic_head_gold"
+				}
+				{
+					id: "03424B26F9454C7F"
+					type: "item"
+					item: "mna:constructs/construct_basic_torso_gold"
+				}
+				{
+					id: "5E4ADAE85066330E"
+					type: "item"
+					item: "mna:constructs/construct_basic_legs_gold"
+				}
+			]
+		}
+		{
+			title: "Diamond Construct"
+			x: 7.5d
+			y: 16.5d
+			shape: "rsquare"
+			dependencies: ["2B964653B2E33C20"]
+			id: "7913A9B83D9D552D"
+			tasks: [
+				{
+					id: "6BE94AB1E8BB2AC5"
+					type: "item"
+					item: "mna:constructs/construct_basic_head_diamond"
+				}
+				{
+					id: "2BD203B1487C2E62"
+					type: "item"
+					item: "mna:constructs/construct_basic_torso_diamond"
+				}
+				{
+					id: "1EEB8AB8E557B57E"
+					type: "item"
+					item: "mna:constructs/construct_basic_legs_diamond"
+				}
+			]
+		}
+		{
+			title: "Obsidian Construct"
+			x: 7.5d
+			y: 17.5d
+			shape: "rsquare"
+			dependencies: ["7913A9B83D9D552D"]
+			id: "495F8337FDB5D50E"
+			tasks: [
+				{
+					id: "40F43414843CA641"
+					type: "item"
+					item: "mna:constructs/construct_basic_head_obsidian"
+				}
+				{
+					id: "7371022C5CC13AC4"
+					type: "item"
+					item: "mna:constructs/construct_basic_torso_obsidian"
+				}
+				{
+					id: "6C1C5215135D80D8"
+					type: "item"
+					item: "mna:constructs/construct_basic_legs_obsidian"
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}
