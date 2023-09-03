@@ -1115,7 +1115,7 @@ onEvent('recipes', (event) => {
             key: {
                 C: 'extendedcrafting:crystaltine_ingot',
                 I: 'mekaevolution:infinite_control_circuit',
-                A: 'immersiveengineering:coil_lv',
+                A: Item.of('solarpanels:photonic_energy_tablet').weakNBT(),
                 P: '#forge:pellets/polonium',
                 L: Item.of('mekanism:laser').ignoreNBT()
             },

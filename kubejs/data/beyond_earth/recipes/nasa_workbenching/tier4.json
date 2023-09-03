@@ -37,7 +37,7 @@
          ],
          "beyond_earth:fin_left":[
             {
-               "item":"chroma:calorite_rocket_fin"
+               "item":"extendedcrafting:ultimate_catalyst"
             },
             {
                "item":"chroma:calorite_rocket_fin"
@@ -45,7 +45,7 @@
          ],
          "beyond_earth:fin_right":[
             {
-               "item":"chroma:calorite_rocket_fin"
+               "item":"extendedcrafting:ultimate_catalyst"
             },
             {
                "item":"chroma:calorite_rocket_fin"
