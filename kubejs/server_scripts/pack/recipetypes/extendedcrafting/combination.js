@@ -109,6 +109,108 @@ onEvent('recipes', (event) => {
           result: { item: 'draconicevolution:basic_crafting_injector' },
           id: 'draconicevolution:basic_crafting_injector'
       },
+      {
+          inputs: [
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'mysticalagriculture:inferium_block' },
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'mysticalagriculture:inferium_block' },
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'mysticalagriculture:inferium_block' },
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'mysticalagriculture:inferium_block' },
+          ],
+          catalyst: { item: 'mysticalagriculture:prosperity_ingot' },
+          powerCost: 10000,
+          powerRate: 100,
+          result: { item: 'mysticalagriculture:inferium_ingot' },
+          id: `${id_prefix}inferium_ingot`
+      },
+      {
+          inputs: [
+              { item: 'mysticalagriculture:prudentium_essence' },
+              { item: 'mysticalagriculture:prudentium_block' },
+              { item: 'mysticalagriculture:prudentium_essence' },
+              { item: 'mysticalagriculture:prudentium_block' },
+              { item: 'mysticalagriculture:prudentium_essence' },
+              { item: 'mysticalagriculture:prudentium_block' },
+              { item: 'mysticalagriculture:prudentium_essence' },
+              { item: 'mysticalagriculture:prudentium_block' },
+          ],
+          catalyst: { item: 'mysticalagriculture:inferium_ingot' },
+          powerCost: 10000,
+          powerRate: 100,
+          result: { item: 'mysticalagriculture:prudentium_ingot' },
+          id: `${id_prefix}prudentium_ingot`
+      },
+      {
+          inputs: [
+              { item: 'mysticalagriculture:tertium_essence' },
+              { item: 'mysticalagriculture:tertium_block' },
+              { item: 'mysticalagriculture:tertium_essence' },
+              { item: 'mysticalagriculture:tertium_block' },
+              { item: 'mysticalagriculture:tertium_essence' },
+              { item: 'mysticalagriculture:tertium_block' },
+              { item: 'mysticalagriculture:tertium_essence' },
+              { item: 'mysticalagriculture:tertium_block' },
+          ],
+          catalyst: { item: 'mysticalagriculture:prudentium_ingot' },
+          powerCost: 10000,
+          powerRate: 100,
+          result: { item: 'mysticalagriculture:tertium_ingot' },
+          id: `${id_prefix}tertium_ingot`
+      },
+      {
+          inputs: [
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'mysticalagriculture:imperium_block' },
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'mysticalagriculture:imperium_block' },
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'mysticalagriculture:imperium_block' },
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'mysticalagriculture:imperium_block' },
+          ],
+          catalyst: { item: 'mysticalagriculture:tertium_ingot' },
+          powerCost: 10000,
+          powerRate: 100,
+          result: { item: 'mysticalagriculture:imperium_ingot' },
+          id: `${id_prefix}imperium_ingot`
+      },
+      {
+          inputs: [
+              { item: 'mysticalagriculture:supremium_essence' },
+              { item: 'mysticalagriculture:supremium_block' },
+              { item: 'mysticalagriculture:supremium_essence' },
+              { item: 'mysticalagriculture:supremium_block' },
+              { item: 'mysticalagriculture:supremium_essence' },
+              { item: 'mysticalagriculture:supremium_block' },
+              { item: 'mysticalagriculture:supremium_essence' },
+              { item: 'mysticalagriculture:supremium_block' },
+          ],
+          catalyst: { item: 'mysticalagriculture:imperium_ingot' },
+          powerCost: 10000,
+          powerRate: 100,
+          result: { item: 'mysticalagriculture:supremium_ingot' },
+          id: `${id_prefix}supremium_ingot`
+      },
+      {
+          inputs: [
+              { item: 'mysticalagradditions:insanium_essence' },
+              { item: 'mysticalagradditions:insanium_block' },
+              { item: 'mysticalagradditions:insanium_essence' },
+              { item: 'mysticalagradditions:insanium_block' },
+              { item: 'mysticalagradditions:insanium_essence' },
+              { item: 'mysticalagradditions:insanium_block' },
+              { item: 'mysticalagradditions:insanium_essence' },
+              { item: 'mysticalagradditions:insanium_block' },
+          ],
+          catalyst: { item: 'mysticalagriculture:supremium_ingot' },
+          powerCost: 10000,
+          powerRate: 100,
+          result: { item: 'mysticalagradditions:insanium_ingot' },
+          id: `${id_prefix}insanium_ingot`
+      },
     ];
 
     recipes.forEach((recipe) => {
