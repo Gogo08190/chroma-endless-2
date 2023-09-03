@@ -298,6 +298,36 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}nebula_drill_t4`
       },
+      {
+        output: 'chroma:energy_input_tier_4',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'mekaevolution:infinite_control_circuit',
+              G: 'chroma:void_miner_frame_tier4',
+              C: 'chroma:energy_input_tier_3'
+          },
+          id: `${id_prefix}energy_input_tier_4`
+      },
+      {
+        output: 'chroma:void_item_output_tier_4',
+          pattern: ['FGF', 'GCG', 'FGF'],
+          key: {
+              F: 'chroma:infinite_alloy',
+              G: 'chroma:void_miner_frame_tier4',
+              C: 'chroma:void_item_output_tier_3'
+          },
+          id: `${id_prefix}void_item_output_tier_4`
+      },
+      {
+        output: 'chroma:void_miner_laser_core_t4',
+          pattern: ['ABA', 'ACA', 'ABA'],
+          key: {
+              A: 'chroma:structure_frame',
+              B: 'draconicevolution:draconic_energy_core',
+              C: 'chroma:void_miner_laser_core_t3'
+          },
+          id: `${id_prefix}void_miner_laser_core_t4`
+      },
     ];
 
     recipes.forEach((recipe) => {

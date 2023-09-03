@@ -781,4 +781,57 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}void_miner_tier_3`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABCBAA",
+        "ADEFEDA",
+        "BEGHGEB",
+        "CFHIHFC",
+        "BEGHGEB",
+        "JDEFEDJ",
+        "JJJKJJJ"
+      ],
+      "key": {
+        "A": {
+          "item": "chroma:void_miner_frame_tier4"
+        },
+        "B": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "C": {
+          "item": "mekanism:pellet_antimatter"
+        },
+        "D": {
+          "item": "extendedcrafting:enhanced_ender_catalyst"
+        },
+        "E": {
+          "item": "extendedcrafting:crystaltine_ingot"
+        },
+        "F": {
+          "item": "mekaevolution:infinite_control_circuit"
+        },
+        "G": {
+          "item": "chroma:infinite_alloy"
+        },
+        "H": {
+          "item": "draconicevolution:awakened_core"
+        },
+        "I": {
+          "item": "chroma:void_miner_tier_3"
+        },
+        "J": {
+          "item": "chroma:structure_frame"
+        },
+        "K": {
+          "item": "industrialforegoing:laser_lens0"
+        }
+      },
+      "result": {
+        "item": "chroma:void_miner_tier_4"
+      }
+    }
+  ).id(`${id_prefix}void_miner_tier_4`)
 });
