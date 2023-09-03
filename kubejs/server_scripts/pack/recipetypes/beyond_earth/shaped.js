@@ -291,6 +291,51 @@ onEvent('recipes', (event) => {
             },
             id: 'beyond_earth:diamond_engine'
         },
+
+        {
+            output: 'chroma:calorite_rocket_fin',
+            pattern: ['CTC', 'FTF', 'CTC'],
+            key: {
+                C: '#beyond_earth:compresseds/calorite',
+                T: '#beyond_earth:compresseds/titanium',
+                F: 'chroma:carbon_fiber'
+            },
+            id: `${id_prefix}calorite_rocket_fin`
+        },
+        {
+            output: 'chroma:calorite_rocket_nose_cone',
+            pattern: [' S ', ' C ', 'CFC'],
+            key: {
+                C: '#beyond_earth:compresseds/calorite',
+                S: '#forge:ingots/bismuth',
+                F: 'chroma:carbon_fiber'
+            },
+            id: `${id_prefix}calorite_rocket_nose_cone`
+        },
+        {
+            output: 'beyond_earth:calorite_tank',
+            pattern: ['CTC', 'TBT', 'CTC'],
+            key: {
+                C: '#beyond_earth:compresseds/calorite',
+                T: '#beyond_earth:compresseds/titanium',
+                B: 'industrialforegoing:supreme_black_hole_tank'
+            },
+            id: 'beyond_earth:calorite_tank'
+        },
+        {
+            output: 'beyond_earth:calorite_engine',
+            pattern: ['CAC', 'FTE', 'BPF'],
+            key: {
+                C: '#beyond_earth:compresseds/calorite',
+                A: 'chroma:cosmic_alloy',
+                F: 'chroma:carbon_fiber',
+                T: 'mekanism:ultimate_chemical_tank',
+                E: 'beyond_earth:engine_frame',
+                B: '#beyond_earth:compresseds/titanium',
+                P: 'beyond_earth:engine_fan'
+            },
+            id: 'beyond_earth:calorite_engine'
+        },
     ];
 
     recipes.forEach((recipe) => {
