@@ -142,6 +142,13 @@ onEvent('recipes', (event) => {
         infusionAmount: 40,
         id: `${id_prefix}infinite_alloy`
       },
+      {
+        output: 'draconicevolution:energy_core_stabilizer',
+        input: 'draconicevolution:particle_generator',
+        infusionInput: 'chroma:eternal_cryostella_polaris',
+        infusionAmount: 40,
+        id: 'draconicevolution:energy_core_stabilizer'
+      },
     ];
 
     recipes.forEach((recipe) => {

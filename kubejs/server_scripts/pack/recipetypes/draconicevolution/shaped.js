@@ -53,6 +53,28 @@ onEvent('recipes', (event) => {
           },
           id: 'draconicevolution:modules/wyvern_shield_recovery'
       },
+      {
+        output: Item.of('draconicevolution:energy_pylon', 2),
+          pattern: ['IEI', 'CFC', 'ILI'],
+          key: {
+              I: '#forge:ingots/draconium',
+              E: 'powah:ender_core',
+              C: 'mekaevolution:infinite_control_circuit',
+              F: 'draconicevolution:wyvern_core',
+              L: 'lazierae2:logic_unit'
+          },
+          id: 'draconicevolution:energy_pylon'
+      },
+      {
+        output: 'draconicevolution:particle_generator',
+          pattern: ['ICI', 'CFC', 'ICI'],
+          key: {
+              I: 'powah:crystal_nitro',
+              C: 'powah:crystal_blazing',
+              F: 'draconicevolution:draconium_core'
+          },
+          id: 'draconicevolution:particle_generator'
+      },
     ];
 
     recipes.forEach((recipe) => {

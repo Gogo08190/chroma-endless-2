@@ -271,6 +271,112 @@ onEvent('recipes', (event) => {
           result: { item: 'extendedcrafting:ultimate_table' },
           id: 'extendedcrafting:ultimate_table'
       },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:awakened_core' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'mekaevolution:infinite_control_circuit' },
+            { item: 'extendedcrafting:crystaltine_ingot' },
+            { item: 'extendedcrafting:crystaltine_ingot' },
+            { item: 'extendedcrafting:crystaltine_ingot' },
+            { item: 'extendedcrafting:crystaltine_ingot' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'draconicevolution:wyvern_crafting_injector', count: 1 },
+          total_energy: 256000,
+          result: { item: 'draconicevolution:awakened_crafting_injector' },
+          id: 'draconicevolution:awakened_crafting_injector'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:awakened_core' },
+            { item: 'draconicevolution:awakened_core' },
+            { item: 'draconicevolution:chaotic_core' },
+            { item: 'minecraft:dragon_egg' },
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'draconicevolution:large_chaos_frag' },
+            { item: 'draconicevolution:large_chaos_frag' },
+            { item: 'draconicevolution:large_chaos_frag' },
+            { item: 'draconicevolution:large_chaos_frag' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'draconicevolution:awakened_crafting_injector', count: 1 },
+          total_energy: 8000000,
+          result: { item: 'draconicevolution:chaotic_crafting_injector' },
+          id: 'draconicevolution:chaotic_crafting_injector'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:dragon_heart' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'chroma:eternal_cryostella_polaris' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'draconicevolution:draconium_block', count: 4 },
+          total_energy: 50000000,
+          result: { item: 'draconicevolution:awakened_draconium_block', count: 4 },
+          id: 'draconicevolution:awakened_draconium_block'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'draconicevolution:wyvern_energy_core' },
+            { item: 'mekaevolution:infinite_control_circuit' },
+            { item: 'draconicevolution:awakened_draconium_ingot' },
+            { item: 'draconicevolution:awakened_draconium_ingot' },
+            { item: 'draconicevolution:awakened_draconium_ingot' },
+            { item: 'draconicevolution:awakened_draconium_ingot' }
+          ],
+          tier: "DRACONIC",
+          catalyst: { item: 'draconicevolution:wyvern_core', count: 1 },
+          total_energy: 1000000,
+          result: { item: 'draconicevolution:draconic_energy_core', count: 1 },
+          id: 'draconicevolution:components/draconic_energy_core'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:draconic_energy_core' },
+            { item: 'draconicevolution:draconic_energy_core' },
+            { item: 'draconicevolution:draconic_energy_core' },
+            { item: 'draconicevolution:draconic_energy_core' },
+            { item: 'mekaevolution:infinite_control_circuit' },
+            { item: 'draconicevolution:medium_chaos_frag' },
+            { item: 'draconicevolution:medium_chaos_frag' },
+            { item: 'draconicevolution:medium_chaos_frag' },
+            { item: 'draconicevolution:medium_chaos_frag' }
+          ],
+          tier: "CHAOTIC",
+          catalyst: { item: 'draconicevolution:awakened_core', count: 1 },
+          total_energy: 10000000,
+          result: { item: 'draconicevolution:chaotic_energy_core', count: 1 },
+          id: 'draconicevolution:components/chaotic_energy_core'
+      },
+      {
+          inputs: [
+            Item.of('hostilenetworks:prediction', '{data_model:{id:"hostilenetworks:ender_dragon"}}'),
+            Item.of('hostilenetworks:prediction', '{data_model:{id:"hostilenetworks:ender_dragon"}}'),
+            { item: 'forbidden_arcanus:golden_dragon_scale' },
+            { item: 'forbidden_arcanus:golden_dragon_scale' },
+            { item: 'draconicevolution:chaotic_core' },
+            { item: 'draconicevolution:dragon_heart' },
+            { item: 'minecraft:dragon_head' },
+            { item: 'draconicevolution:chaos_shard' }
+          ],
+          tier: "CHAOTIC",
+          catalyst: { item: 'hostilenetworks:blank_data_model', count: 1 },
+          total_energy: 100000000,
+          result: Item.of('hostilenetworks:data_model', '{data_model:{data:6,id:"hostilenetworks:draconic_guardian"}}'),
+          id: `${id_prefix}draconic_guardian_data_model`
+      },
     ];
 
     recipes.forEach((recipe) => {

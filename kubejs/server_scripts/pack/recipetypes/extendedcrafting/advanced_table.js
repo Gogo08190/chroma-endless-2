@@ -1944,4 +1944,37 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('solarpanels:photonic_solar_panel')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "draconicevolution:draconium_ingot"
+        },
+        "B": {
+          "item": "mekaevolution:infinite_control_circuit"
+        },
+        "C": {
+          "item": "solarpanels:photonic_energy_tablet"
+        },
+        "D": {
+          "item": "draconicevolution:wyvern_energy_core"
+        },
+        "E": {
+          "item": "draconicevolution:wyvern_core"
+        }
+      },
+      "result": {
+        "item": "draconicevolution:energy_core"
+      }
+    }
+  ).id('draconicevolution:energy_core')
 });
