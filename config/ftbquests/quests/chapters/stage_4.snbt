@@ -1007,8 +1007,8 @@
 			}]
 		}
 		{
-			x: 52.50000000000001d
-			y: -7.65d
+			x: 51.50000000000001d
+			y: -8.65d
 			shape: "diamond"
 			subtitle: "{chapter.stage.4.quest.69.subtitle.1}"
 			description: ["{chapter.stage.4.quest.69.description.1}"]
@@ -1022,8 +1022,8 @@
 			}]
 		}
 		{
-			x: 53.0d
-			y: -8.5d
+			x: 52.0d
+			y: -9.5d
 			shape: "diamond"
 			subtitle: "{chapter.stage.4.quest.72.subtitle.1}"
 			description: [
@@ -1040,8 +1040,8 @@
 			}]
 		}
 		{
-			x: 52.0d
-			y: -8.5d
+			x: 51.0d
+			y: -9.5d
 			shape: "diamond"
 			subtitle: "{chapter.stage.4.quest.70.subtitle.1}"
 			description: [
@@ -1086,8 +1086,8 @@
 			}]
 		}
 		{
-			x: 52.5d
-			y: -9.0d
+			x: 51.5d
+			y: -10.0d
 			shape: "diamond"
 			subtitle: "{chapter.stage.4.quest.71.subtitle.1}"
 			dependencies: ["2429CCCE21B70D82"]
@@ -1230,7 +1230,7 @@
 			}]
 		}
 		{
-			x: 56.5d
+			x: 57.0d
 			y: -9.0d
 			subtitle: "{chapter.stage.4.quest.97.subtitle.1}"
 			description: ["{chapter.stage.4.quest.97.description.1}"]
@@ -1243,7 +1243,7 @@
 			}]
 		}
 		{
-			x: 57.0d
+			x: 57.5d
 			y: -7.0d
 			subtitle: "{chapter.stage.4.quest.98.subtitle.1}"
 			description: ["{chapter.stage.4.quest.98.description.1}"]
@@ -1256,7 +1256,7 @@
 			}]
 		}
 		{
-			x: 57.0d
+			x: 57.5d
 			y: -5.0d
 			subtitle: "{chapter.stage.4.quest.99.subtitle.1}"
 			dependencies: ["4232FC18B5C50197"]
@@ -1284,7 +1284,7 @@
 			}]
 		}
 		{
-			x: 56.5d
+			x: 57.0d
 			y: -3.0d
 			subtitle: "{chapter.stage.4.quest.100.subtitle.1}"
 			description: ["{chapter.stage.4.quest.100.description.1}"]
@@ -2155,6 +2155,165 @@
 						]
 					}
 				}
+			}]
+		}
+		{
+			x: 54.5d
+			y: -8.5d
+			shape: "diamond"
+			dependencies: [
+				"2291AE6860B86723"
+				"446EF5C0FEA200D4"
+			]
+			id: "556420F8394CD4F3"
+			tasks: [{
+				id: "2904822F514DD0D0"
+				type: "item"
+				item: "packagedexcrafting:basic_crafter"
+			}]
+		}
+		{
+			x: 54.0d
+			y: -9.0d
+			shape: "diamond"
+			dependencies: [
+				"2291AE6860B86723"
+				"03ECE761A245EE07"
+			]
+			id: "4EFE203731CDB40E"
+			tasks: [{
+				id: "642D79E7DD37CAC3"
+				type: "item"
+				item: "packagedexcrafting:advanced_crafter"
+			}]
+		}
+		{
+			x: 55.0d
+			y: -9.0d
+			shape: "diamond"
+			dependencies: [
+				"2291AE6860B86723"
+				"3987289A1D1EACEF"
+			]
+			id: "1C8D3080E160D56C"
+			tasks: [{
+				id: "7C33A1F3E8E886E9"
+				type: "item"
+				item: "packagedexcrafting:elite_crafter"
+			}]
+		}
+		{
+			x: 55.5d
+			y: -8.5d
+			shape: "diamond"
+			dependencies: [
+				"2291AE6860B86723"
+				"24D224A2A61EBE84"
+			]
+			id: "15AA052BC88EFB79"
+			tasks: [{
+				id: "2A2BC096C35C594C"
+				type: "item"
+				item: "packagedexcrafting:ender_crafter"
+			}]
+		}
+		{
+			x: 53.5d
+			y: -8.5d
+			shape: "diamond"
+			dependencies: [
+				"2291AE6860B86723"
+				"70B4819A90315175"
+			]
+			id: "21A16318BECB22CA"
+			tasks: [
+				{
+					id: "6E9C5F7B33697480"
+					type: "item"
+					item: "packagedexcrafting:combination_crafter"
+				}
+				{
+					id: "2EDBA873716C7A3C"
+					type: "item"
+					item: "packagedexcrafting:marked_pedestal"
+				}
+			]
+		}
+		{
+			x: 54.5d
+			y: -7.5d
+			shape: "diamond"
+			dependencies: ["433D9C57C454AD52"]
+			id: "2291AE6860B86723"
+			tasks: [{
+				id: "292780D0298FAF0E"
+				type: "item"
+				item: "packagedauto:encoder"
+			}]
+		}
+		{
+			x: 54.5d
+			y: -6.5d
+			shape: "rsquare"
+			dependencies: ["0D59A4ED0682C338"]
+			id: "433D9C57C454AD52"
+			tasks: [{
+				id: "09873B785A0A3948"
+				type: "item"
+				item: "packagedauto:recipe_holder"
+				count: 2L
+			}]
+		}
+		{
+			x: 54.0d
+			y: -8.0d
+			shape: "diamond"
+			description: ["The &bPackager&r will accept items and make them into Recipe Packages"]
+			dependencies: ["2291AE6860B86723"]
+			id: "2B4CA5A4E309C77C"
+			tasks: [{
+				id: "052C8FD261780628"
+				type: "item"
+				item: "packagedauto:packager"
+			}]
+		}
+		{
+			x: 55.0d
+			y: -8.0d
+			shape: "diamond"
+			description: ["The &bUnpackager&r will take them and output items into an adjacent inventory."]
+			dependencies: ["2291AE6860B86723"]
+			id: "3A2EED3A1FB3D5F9"
+			tasks: [{
+				id: "62797D25119DFEC8"
+				type: "item"
+				item: "packagedauto:unpackager"
+			}]
+		}
+		{
+			icon: "packagedauto:package_component"
+			x: 54.5d
+			y: -4.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.4.quest.131.subtitle.1}"
+			description: [
+				"{chapter.stage.4.quest.131.description.1}"
+				""
+				"{chapter.stage.4.quest.131.description.2}"
+				""
+				"{chapter.stage.4.quest.131.description.3}"
+				""
+				"{chapter.stage.4.quest.131.description.4}"
+				"{image:chroma:textures/quests/package.png width:384 height:216 align:1 fit:true}"
+			]
+			dependencies: ["0A677D2C7564BB6F"]
+			size: 1.5d
+			min_width: 400
+			id: "0D59A4ED0682C338"
+			tasks: [{
+				id: "04AAFBE7147C1F71"
+				type: "checkmark"
+				title: "{chapter.stage.4.quest.131.title.1}"
 			}]
 		}
 	]

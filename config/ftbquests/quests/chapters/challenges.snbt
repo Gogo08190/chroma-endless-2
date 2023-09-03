@@ -7,24 +7,129 @@
 	icon: "minecraft:dragon_head"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 1.0d
-		y: -0.5d
-		id: "5DF51E52C0CF5F0A"
-		tasks: [
-			{
-				id: "4C0BCC391A23DEC6"
+	quests: [
+		{
+			x: 0.0d
+			y: -1.0d
+			id: "0B1292772204A5D0"
+			tasks: [{
+				id: "778949662007943A"
 				type: "stat"
+				icon: {
+					id: "ae2:item_storage_cell_64k"
+					Count: 1
+					tag: { }
+				}
 				stat: "ae2:items_inserted"
-				value: 100000
-			}
-			{
-				id: "178AAA1E7E880C9D"
+				value: 1000000
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.0d
+			id: "65CDD90D89742F48"
+			tasks: [{
+				id: "7331E9F5C2ACA33A"
 				type: "stat"
+				icon: "botania:tiny_potato"
 				stat: "botania:tiny_potatoes_petted"
-				value: 1
-			}
-		]
-	}]
+				value: 1000
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			id: "16209855C86CEB93"
+			tasks: [{
+				id: "61D5AC281A2F213A"
+				type: "stat"
+				icon: {
+					id: "tombstone:decorative_tombstone"
+					Count: 1
+					tag: {
+						model_texture: 0
+					}
+				}
+				stat: "minecraft:time_since_death"
+				value: 1000
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			id: "24049E4C6E5CD12B"
+			tasks: [{
+				id: "7E5902E8C5F9B145"
+				type: "stat"
+				title: "1 hour"
+				icon: "supplementaries:clock_block"
+				stat: "minecraft:play_time"
+				value: 72000
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			dependencies: ["24049E4C6E5CD12B"]
+			id: "70291CF98BFF0BDE"
+			tasks: [{
+				id: "0D528A4F23E105BC"
+				type: "stat"
+				title: "10 hours"
+				icon: "supplementaries:clock_block"
+				stat: "minecraft:play_time"
+				value: 720000
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.0d
+			dependencies: ["70291CF98BFF0BDE"]
+			id: "2DD16595D24B3E1D"
+			tasks: [{
+				id: "0CC16265FE70AC8C"
+				type: "stat"
+				title: "100 hours"
+				icon: "supplementaries:clock_block"
+				stat: "minecraft:play_time"
+				value: 7200000
+			}]
+		}
+		{
+			x: 4.0d
+			y: 1.0d
+			dependencies: ["5085CC1BD3A0D94B"]
+			id: "20DBFEBF84B14EA9"
+			tasks: [{
+				id: "2F85784FED4C5B5A"
+				type: "forge_energy"
+				value: 1000000000L
+				max_input: 1000L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["5BC8B957851861BD"]
+			id: "5085CC1BD3A0D94B"
+			tasks: [{
+				id: "5513408F79558604"
+				type: "forge_energy"
+				value: 1000000L
+				max_input: 1000L
+			}]
+		}
+		{
+			x: 4.0d
+			y: -1.0d
+			id: "5BC8B957851861BD"
+			tasks: [{
+				id: "4635F5F581006155"
+				type: "forge_energy"
+				value: 100000L
+				max_input: 1000L
+			}]
+		}
+	]
 	quest_links: [ ]
 }

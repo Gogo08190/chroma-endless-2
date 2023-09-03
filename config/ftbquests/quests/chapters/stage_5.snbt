@@ -41,7 +41,7 @@
 			subtitle: "{chapter.stage.5.quest.3.subtitle.1}"
 			description: [
 				"{chapter.stage.5.quest.3.description.1]"
-				"{image:chroma:textures/quests/laser_drill_explanation.png width:200 height:200 align:1}"
+				"{image:chroma:textures/quests/laser_drill_explanation.png width:220 height:200 align:1}"
 			]
 			dependencies: ["2AC26892B4C7E57A"]
 			id: "7BE28B2B1CCDDAF6"
