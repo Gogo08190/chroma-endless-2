@@ -1089,6 +1089,98 @@ onEvent('recipes', (event) => {
             },
             id: 'solarpanels:light_absorbing_solar_element'
         },
+        {
+            output: 'mekanism:sps_casing',
+            pattern: ['SPS', 'ACA', 'SPS'],
+            key: {
+                P: '#forge:pellets/plutonium',
+                A: '#forge:pellets/polonium',
+                C: 'extendedcrafting:crystaltine_ingot',
+                S: 'mekanism:hdpe_sheet'
+            },
+            id: 'mekanism:sps_casing'
+        },
+        {
+            output: 'mekanism:sps_port',
+            pattern: [' F ', 'FAF', ' F '],
+            key: {
+                F: 'mekanism:sps_casing',
+                A: 'mekaevolution:infinite_control_circuit'
+            },
+            id: 'mekanism:sps_port'
+        },
+        {
+            output: 'mekanism:sps_port',
+            pattern: ['CCC', 'IAI', 'PLP'],
+            key: {
+                C: 'extendedcrafting:crystaltine_ingot',
+                I: 'mekaevolution:infinite_control_circuit',
+                A: 'immersiveengineering:coil_lv',
+                P: '#forge:pellets/polonium',
+                L: Item.of('mekanism:laser').ignoreNBT()
+            },
+            id: 'mekanism:sps_port'
+        },
+        {
+            output: 'solarpanels:photonic_energy_tablet',
+            pattern: ['CEC', 'AFA', 'CEC'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                C: 'mekaevolution:infinite_control_circuit',
+                F: Item.of('solarpanels:light_absorbing_energy_tablet').weakNBT(),
+                E: 'chroma:enriched_eternal_cryostella_polaris'
+            },
+            id: 'solarpanels:photonic_energy_tablet'
+        },
+        {
+            output: Item.of('mekaevolution:infinite_universal_cable', 4),
+            pattern: ['BBB', 'BAB', 'BBB'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                B: 'mekaevolution:cosmic_universal_cable',
+            },
+            id: 'mekaevolution:infinite_universal_cable'
+        },
+        {
+            output: Item.of('mekaevolution:infinite_mechanical_pipe', 4),
+            pattern: ['BBB', 'BAB', 'BBB'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                B: 'mekaevolution:cosmic_mechanical_pipe',
+            },
+            id: 'mekaevolution:infinite_mechanical_pipe'
+        },
+        {
+            output: Item.of('mekaevolution:infinite_logistical_transporter', 4),
+            pattern: ['BBB', 'BAB', 'BBB'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                B: 'mekaevolution:cosmic_logistical_transporter',
+            },
+            id: 'mekaevolution:infinite_logistical_transporter'
+        },
+        {
+            output: 'mekanism:antiprotonic_nucleosynthesizer',
+            pattern: ['ACA', 'PFP', 'ACA'],
+            key: {
+                A: 'chroma:cosmic_alloy',
+                C: 'mekaevolution:infinite_control_circuit',
+                P: '#forge:pellets/antimatter',
+                F: 'mekanism:steel_casing'
+            },
+            id: 'mekanism:antiprotonic_nucleosynthesizer'
+        },
+        {
+            output: 'solarpanels:photonic_solar_element',
+            pattern: ['GGG', 'SSS', 'CNC'],
+            key: {
+                G: '#forge:glass_panes/lime',
+                S: 'chroma:eternal_cryostella_polaris',
+                C: '#mekanism:crystals/uranium',
+                N: 'forbidden_arcanus:dark_nether_star'
+            },
+            id: 'solarpanels:photonic_solar_element'
+        },
     ];
 
     recipes.forEach((recipe) => {

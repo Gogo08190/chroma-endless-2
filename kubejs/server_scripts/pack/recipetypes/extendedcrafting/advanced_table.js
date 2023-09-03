@@ -1902,4 +1902,46 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}nebula_extractor_tier_4`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAA",
+        "BCCCB",
+        "DEFED",
+        "BBGBB",
+        "BHBHB"
+      ],
+      "key": {
+        "A": {
+          "item": "solarpanels:photonic_solar_element"
+        },
+        "B": {
+          "item": "graveyard:dark_iron_ingot"
+        },
+        "C": {
+          "item": "chroma:infinite_alloy"
+        },
+        "D": {
+          "item": "mekanism:ingot_refined_obsidian"
+        },
+        "E": {
+          "item": "extendedcrafting:crystaltine_catalyst"
+        },
+        "F": {
+          "item": "solarpanels:light_absorbing_solar_panel"
+        },
+        "G": {
+          "item": "solarpanels:photonic_energy_tablet"
+        },
+        "H": {
+          "item": "mekaevolution:infinite_control_circuit"
+        }
+      },
+      "result": {
+        "item": "solarpanels:photonic_solar_panel"
+      }
+    }
+  ).id('solarpanels:photonic_solar_panel')
 });

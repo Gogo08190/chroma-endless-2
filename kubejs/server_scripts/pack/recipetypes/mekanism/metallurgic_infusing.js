@@ -128,6 +128,20 @@ onEvent('recipes', (event) => {
         infusionAmount: 10,
         id: 'mysticalagriculture:prudentium_essence'
       },
+      {
+        output: 'mekaevolution:infinite_control_circuit',
+        input: '4x mekaevolution:cosmic_control_circuit',
+        infusionInput: 'chroma:eternal_cryostella_polaris',
+        infusionAmount: 40,
+        id: 'mekaevolution:infinite_control_circuit'
+      },
+      {
+        output: 'chroma:infinite_alloy',
+        input: '4x chroma:cosmic_alloy',
+        infusionInput: 'chroma:eternal_cryostella_polaris',
+        infusionAmount: 40,
+        id: `${id_prefix}infinite_alloy`
+      },
     ];
 
     recipes.forEach((recipe) => {
