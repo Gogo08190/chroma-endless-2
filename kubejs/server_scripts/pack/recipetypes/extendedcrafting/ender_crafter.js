@@ -19,7 +19,7 @@ onEvent('recipes', (event) => {
             C: { item: 'extendedcrafting:redstone_component' },
             R: { item: 'extendedcrafting:redstone_catalyst' },
             B: { item: 'powah:capacitor_hardened' },
-            T: { item: 'extendedcrafting:advanced_auto_table' },
+            T: { item: 'extendedcrafting:advanced_table' },
             N: { item: 'pneumaticcraft:transistor' }
           },
           result: { item: 'extendedcrafting:advanced_auto_table', count: 1 },
@@ -56,6 +56,18 @@ onEvent('recipes', (event) => {
           },
           result: { item: 'beyond_earth_giselle_addon:fuel_loader', count: 1 },
           id: 'beyond_earth_giselle_addon:crafting/fuel_loader'
+      },
+      {
+          pattern: ['CRC', 'BTB', 'CNC'],
+          key: {
+            C: { item: 'extendedcrafting:redstone_component' },
+            R: { item: 'extendedcrafting:redstone_catalyst' },
+            B: { item: 'powah:capacitor_nitro' },
+            T: { item: 'extendedcrafting:ultimate_table' },
+            N: { item: 'pneumaticcraft:transistor' }
+          },
+          result: { item: 'extendedcrafting:ultimate_auto_table', count: 1 },
+          id: 'extendedcrafting:ultimate_auto_table'
       },
     ];
 

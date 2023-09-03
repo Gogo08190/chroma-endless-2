@@ -254,6 +254,23 @@ onEvent('recipes', (event) => {
           result: { item: 'chroma:void_miner_frame_tier3' },
           id: `${id_prefix}void_miner_frame_tier3`
       },
+      {
+          inputs: [
+            { item: 'extendedcrafting:ultimate_component' },
+            { item: 'extendedcrafting:ultimate_component' },
+            { item: 'extendedcrafting:ultimate_component' },
+            { item: 'extendedcrafting:ultimate_component' },
+            { item: 'extendedcrafting:ultimate_catalyst' },
+            { item: 'chemlib:cesium_metal_block' },
+            { item: 'chroma:cosmic_alloy' },
+            { item: 'chroma:cosmic_alloy' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'extendedcrafting:elite_table', count: 2 },
+          total_energy: 300000,
+          result: { item: 'extendedcrafting:ultimate_table' },
+          id: 'extendedcrafting:ultimate_table'
+      },
     ];
 
     recipes.forEach((recipe) => {

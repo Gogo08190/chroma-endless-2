@@ -169,7 +169,34 @@ onEvent('recipes', (event) => {
             pressure: 3.5,
             results: [Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:compressed_gas"}')],
             id: `${id_prefix}compressed_cell`
-        }
+        },
+        {
+            inputs: [
+                { item: 'extendedcrafting:ultimate_component', count: 4 },
+                { item: 'draconicevolution:wyvern_core', count: 1 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'extendedcrafting:ultimate_catalyst', count: 1 }],
+            id: 'extendedcrafting:ultimate_catalyst'
+        },
+        {
+            inputs: [
+                { item: 'extendedcrafting:crystaltine_component', count: 4 },
+                { item: 'mekanism:pellet_polonium', count: 1 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'extendedcrafting:crystaltine_catalyst', count: 1 }],
+            id: 'extendedcrafting:crystaltine_catalyst'
+        },
+        {
+            inputs: [
+                { item: 'extendedcrafting:enhanced_ender_component', count: 4 },
+                { item: 'powah:ender_core', count: 1 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'extendedcrafting:enhanced_ender_catalyst', count: 1 }],
+            id: 'extendedcrafting:enhanced_ender_catalyst'
+        },
     ];
 
     recipes.forEach((recipe) => {

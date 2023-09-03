@@ -369,8 +369,8 @@ onEvent('recipes', (event) => {
                 { item: 'chroma:crystaltine_clump' },
                 { item: 'chroma:crystaltine_clump' },
                 { item: 'chroma:crystaltine_clump' },
-                { item: 'chroma:crystaltine_clump' },
-                { item: 'chroma:crystaltine_clump' }
+                { item: 'chemlib:actinium_ingot' },
+                { item: 'extendedcrafting:ender_star' }
             ],
             energy: 6000000,
             result: {
@@ -384,7 +384,7 @@ onEvent('recipes', (event) => {
                 { item: 'mysticalagriculture:imperium_essence' },
                 { item: 'mysticalagriculture:imperium_essence' },
                 { item: 'mysticalagriculture:imperium_essence' },
-                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' }
             ],
             energy: 5000,
             result: {
@@ -392,6 +392,48 @@ onEvent('recipes', (event) => {
                 count: 1
             },
             id: 'mysticalagriculture:supremium_essence'
+        },
+        {
+            ingredients: [
+                { item: 'extendedcrafting:black_iron_slate' },
+                { item: 'extendedcrafting:luminessence' },
+                { item: 'chemlib:cesium_ingot' },
+                { item: 'chemlib:cesium_ingot' }
+            ],
+            energy: 60000,
+            result: {
+                item: 'extendedcrafting:ultimate_component',
+                count: 1
+            },
+            id: 'extendedcrafting:ultimate_component'
+        },
+        {
+            ingredients: [
+                { item: 'extendedcrafting:black_iron_slate' },
+                { item: 'extendedcrafting:luminessence' },
+                { item: 'extendedcrafting:crystaltine_ingot' },
+                { item: 'extendedcrafting:crystaltine_ingot' }
+            ],
+            energy: 100000,
+            result: {
+                item: 'extendedcrafting:crystaltine_component',
+                count: 1
+            },
+            id: 'extendedcrafting:crystaltine_component'
+        },
+        {
+            ingredients: [
+                { item: 'extendedcrafting:black_iron_slate' },
+                { item: 'extendedcrafting:luminessence' },
+                { item: 'extendedcrafting:enhanced_ender_ingot' },
+                { item: 'extendedcrafting:enhanced_ender_ingot' }
+            ],
+            energy: 25000,
+            result: {
+                item: 'extendedcrafting:enhanced_ender_component',
+                count: 1
+            },
+            id: 'extendedcrafting:enhanced_ender_component'
         },
     ];
 
