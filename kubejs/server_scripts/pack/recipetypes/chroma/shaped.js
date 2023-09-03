@@ -256,6 +256,48 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}void_miner_laser_core_t3`
       },
+      {
+        output: 'chroma:nebula_extractor_t4_frame',
+          pattern: ['FUF', 'FCF', 'FUF'],
+          key: {
+              F: 'mekanism:hdpe_sheet',
+              C: 'mekaevolution:cosmic_control_circuit',
+              U: 'extendedcrafting:crystaltine_ingot'
+          },
+          id: `${id_prefix}nebula_extractor_t4_frame`
+      },
+      {
+        output: 'chroma:nebula_extractor_t4_laser_support',
+          pattern: ['AAA', 'UFU', 'FCF'],
+          key: {
+              F: 'mekanism:hdpe_sheet',
+              C: 'mekaevolution:cosmic_control_circuit',
+              U: 'extendedcrafting:crystaltine_ingot',
+              A: '#beyond_earth:compresseds/graphite'
+          },
+          id: `${id_prefix}nebula_extractor_t4_laser_support`
+      },
+      {
+        output: 'chroma:nebula_extractor_t4_laser_top',
+          pattern: ['AE ', 'AFU', 'AE '],
+          key: {
+              A: 'chroma:cosmic_alloy',
+              E: Item.of('solarpanels:light_absorbing_energy_tablet').ignoreNBT(),
+              F: '#industrialforegoing:machine_frame/supreme',
+              U: 'extendedcrafting:crystaltine_ingot'
+          },
+          id: `${id_prefix}nebula_extractor_t4_laser_top`
+      },
+      {
+        output: 'chroma:nebula_drill_t4',
+          pattern: ['FFF', 'UCU', ' U '],
+          key: {
+              F: 'chroma:nebula_frame',
+              C: 'create:mechanical_drill',
+              U: 'extendedcrafting:crystaltine_ingot'
+          },
+          id: `${id_prefix}nebula_drill_t4`
+      },
     ];
 
     recipes.forEach((recipe) => {

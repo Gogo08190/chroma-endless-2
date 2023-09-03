@@ -1866,4 +1866,40 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('packagedauto:fluid_package_filler')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "CEFEC",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:crystaltine_catalyst"
+        },
+        "B": {
+          "item": "chroma:nebula_frame"
+        },
+        "C": {
+          "item": "draconicevolution:wyvern_core"
+        },
+        "D": {
+          "item": "mekaevolution:cosmic_control_circuit"
+        },
+        "E": {
+          "item": "chroma:cosmic_alloy"
+        },
+        "F": {
+          "item": "industrialforegoing:machine_frame_supreme"
+        }
+      },
+      "result": {
+        "item": "chroma:nebula_extractor_tier_4"
+      }
+    }
+  ).id(`${id_prefix}nebula_extractor_tier_4`)
 });
