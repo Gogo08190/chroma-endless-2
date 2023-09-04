@@ -484,6 +484,15 @@ onEvent('recipes', (event) => {
             },
             id: 'ae2additions:blocks/wireless_transceiver'
         },
+        {
+            output: 'ae2:sky_stone_tank',
+            pattern: ['SSS', 'STS', 'SSS'],
+            key: {
+                S: 'ae2:sky_stone_block',
+                T: 'create:fluid_tank'
+            },
+            id: 'ae2:misc/tank_sky_stone'
+        },
     ];
 
     recipes.forEach((recipe) => {

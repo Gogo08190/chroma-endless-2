@@ -671,6 +671,64 @@ onEvent('recipes', (event) => {
           },
           id: 'industrialforegoing:mycelial_netherstar'
       },
+      {
+        output: 'industrialforegoing:common_black_hole_tank',
+          pattern: ['III', 'BGB', 'BTB'],
+          key: {
+              I: '#forge:ingots/iron',
+              B: 'minecraft:bucket',
+              G: '#forge:gears/iron',
+              T: 'create:fluid_tank'
+          },
+          id: 'industrialforegoing:common_black_hole_tank'
+      },
+      {
+        output: 'industrialforegoing:pity_black_hole_tank',
+          pattern: ['III', 'SGS', 'BTB'],
+          key: {
+              I: 'industrialforegoing:plastic',
+              B: 'minecraft:bucket',
+              S: '#forge:plates/gold',
+              G: 'industrialforegoing:common_black_hole_tank',
+              T: '#industrialforegoing:machine_frame/pity'
+          },
+          id: 'industrialforegoing:pity_black_hole_tank'
+      },
+      {
+        output: 'industrialforegoing:common_black_hole_unit',
+          pattern: ['III', 'CGC', 'CTC'],
+          key: {
+              I: '#forge:ingots/iron',
+              C: '#forge:chests/wooden',
+              G: '#forge:gears/iron',
+              T: 'functionalstorage:oak_1'
+          },
+          id: 'industrialforegoing:common_black_hole_unit'
+      },
+      {
+        output: 'industrialforegoing:pity_black_hole_unit',
+          pattern: ['III', 'PGP', 'CTC'],
+          key: {
+              I: 'industrialforegoing:plastic',
+              C: '#forge:chests/wooden',
+              G: 'industrialforegoing:common_black_hole_unit',
+              P: '#forge:plates/gold',
+              T: '#industrialforegoing:machine_frame/pity'
+          },
+          id: 'industrialforegoing:pity_black_hole_unit'
+      },
+      {
+        output: 'industrialforegoing:simple_black_hole_unit',
+          pattern: ['III', 'PGP', 'CTC'],
+          key: {
+              I: 'industrialforegoing:plastic',
+              C: '#forge:chests/wooden',
+              G: 'industrialforegoing:pity_black_hole_unit',
+              P: '#forge:ingots/scandium',
+              T: '#industrialforegoing:machine_frame/simple'
+          },
+          id: 'industrialforegoing:simple_black_hole_unit'
+      },
     ];
 
     recipes.forEach((recipe) => {

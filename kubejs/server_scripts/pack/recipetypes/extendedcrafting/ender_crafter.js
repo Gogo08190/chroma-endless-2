@@ -69,6 +69,17 @@ onEvent('recipes', (event) => {
           result: { item: 'extendedcrafting:ultimate_auto_table', count: 1 },
           id: 'extendedcrafting:ultimate_auto_table'
       },
+      {
+          pattern: ['PGP', 'CFC', 'PGP'],
+          key: {
+            P: { item: 'chroma:mana_diamond_plate' },
+            G: { item: 'thermal:diamond_gear' },
+            C: { item: 'botania:rune_water' },
+            F: { item: 'functionalstorage:gold_upgrade' }
+          },
+          result: { item: 'functionalstorage:diamond_upgrade', count: 1 },
+          id: 'functionalstorage:diamond_upgrade'
+      },
     ];
 
     recipes.forEach((recipe) => {

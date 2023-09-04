@@ -1181,6 +1181,16 @@ onEvent('recipes', (event) => {
             },
             id: 'solarpanels:photonic_solar_element'
         },
+        {
+            output: 'mekanism:basic_fluid_tank',
+            pattern: ['RPR', 'PTP', 'RPR'],
+            key: {
+                R: '#forge:dusts/redstone',
+                P: '#forge:plates/iron',
+                T: 'thermal:fluid_cell_frame'
+            },
+            id: 'mekanism:fluid_tank/basic'
+        },
     ];
 
     recipes.forEach((recipe) => {

@@ -443,4 +443,128 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('hostilenetworks:loot_fabricator')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+      ],
+      "key": {
+        "A": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "B": {
+          "item": "industrialforegoing:pink_slime_ingot"
+        },
+        "C": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "D": {
+          "item": "industrialforegoing:pity_black_hole_tank"
+        },
+        "E": {
+          "item": "industrialforegoing:machine_frame_simple"
+        }
+      },
+      "result": {
+        "item": "industrialforegoing:simple_black_hole_tank"
+      }
+    }
+  ).id('industrialforegoing:simple_black_hole_tank')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+      ],
+      "key": {
+        "A": {
+          "item": "powah:crystal_spirited"
+        },
+        "B": {
+          "item": "mekanism:pellet_polonium"
+        },
+        "C": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "D": {
+          "item": "industrialforegoing:simple_black_hole_tank"
+        },
+        "E": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        }
+      },
+      "result": {
+        "item": "industrialforegoing:advanced_black_hole_tank"
+      }
+    }
+  ).id('industrialforegoing:advanced_black_hole_tank')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+      ],
+      "key": {
+        "A": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "B": {
+          "item": "industrialforegoing:pink_slime_ingot"
+        },
+        "C": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "D": {
+          "item": "industrialforegoing:simple_black_hole_unit"
+        },
+        "E": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        }
+      },
+      "result": {
+        "item": "industrialforegoing:advanced_black_hole_unit"
+      }
+    }
+  ).id('industrialforegoing:advanced_black_hole_unit')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+      ],
+      "key": {
+        "A": {
+          "item": "mekanism:hdpe_sheet"
+        },
+        "B": {
+          "item": "industrialforegoing:pink_slime_ingot"
+        },
+        "C": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "D": {
+          "item": "mob_grinding_utils:tank"
+        },
+        "E": {
+          "item": "industrialforegoing:machine_frame_simple"
+        }
+      },
+      "result": {
+        "item": "mob_grinding_utils:jumbo_tank"
+      }
+    }
+  ).id('mob_grinding_utils:recipe_jumbotank')
 });

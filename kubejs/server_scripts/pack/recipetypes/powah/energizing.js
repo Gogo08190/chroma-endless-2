@@ -435,6 +435,22 @@ onEvent('recipes', (event) => {
             },
             id: 'extendedcrafting:enhanced_ender_component'
         },
+        {
+            ingredients: [
+                { item: 'functionalstorage:copper_upgrade' },
+                { item: 'thermal:gold_gear' },
+                { item: 'thermal:gold_plate' },
+                { item: 'thermal:gold_plate' },
+                { item: 'thermal:gold_plate' },
+                { item: 'thermal:gold_plate' }
+            ],
+            energy: 2000,
+            result: {
+                item: 'functionalstorage:gold_upgrade',
+                count: 1
+            },
+            id: 'functionalstorage:gold_upgrade'
+        },
     ];
 
     recipes.forEach((recipe) => {

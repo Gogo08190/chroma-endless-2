@@ -149,6 +149,26 @@ onEvent('recipes', (event) => {
           },
           id: 'evilcraft:crafting/effortless_ring'
       },
+      {
+        output: Item.of('evilcraft:dark_tank', '{Fluid:{Amount:0,FluidName:"minecraft:empty"},capacity:16000}'),
+          pattern: [' G ', 'ITI', ' G '],
+          key: {
+              G: '#evilcraft:gems/dark',
+              I: '#forge:ingots/iron',
+              T: 'create:fluid_tank'
+          },
+          id: 'evilcraft:crafting/dark_tank'
+      },
+      {
+        output: Item.of('evilcraft:dark_tank', '{Fluid:{Amount:0,FluidName:"minecraft:empty"},capacity:144000}'),
+          pattern: [' G ', 'ITI', ' G '],
+          key: {
+              G: 'evilcraft:dark_block',
+              I: '#forge:storage_blocks/iron',
+              T: 'create:fluid_tank'
+          },
+          id: 'evilcraft:special/dark_tank_large'
+      },
     ];
 
     recipes.forEach((recipe) => {

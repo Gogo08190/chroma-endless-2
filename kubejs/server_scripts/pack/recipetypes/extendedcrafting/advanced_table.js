@@ -1977,4 +1977,76 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('draconicevolution:energy_core')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABBBA",
+        "BCDCB",
+        "BDEDB",
+        "BCFCB",
+        "ABBBA"
+      ],
+      "key": {
+        "A": {
+          "item": "powah:crystal_nitro"
+        },
+        "B": {
+          "item": "beyond_earth:calorite_ingot"
+        },
+        "C": {
+          "item": "mekaevolution:supreme_control_circuit"
+        },
+        "D": {
+          "item": "mekanism:pellet_plutonium"
+        },
+        "E": {
+          "item": "industrialforegoing:machine_frame_supreme"
+        },
+        "F": {
+          "item": "industrialforegoing:advanced_black_hole_tank"
+        }
+      },
+      "result": {
+        "item": "industrialforegoing:supreme_black_hole_tank"
+      }
+    }
+  ).id('industrialforegoing:supreme_black_hole_tank')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABBBA",
+        "BCDCB",
+        "BDEDB",
+        "BCFCB",
+        "ABBBA"
+      ],
+      "key": {
+        "A": {
+          "item": "powah:crystal_nitro"
+        },
+        "B": {
+          "item": "beyond_earth:calorite_ingot"
+        },
+        "C": {
+          "item": "mekaevolution:supreme_control_circuit"
+        },
+        "D": {
+          "item": "mekanism:pellet_plutonium"
+        },
+        "E": {
+          "item": "industrialforegoing:machine_frame_supreme"
+        },
+        "F": {
+          "item": "industrialforegoing:advanced_black_hole_unit"
+        }
+      },
+      "result": {
+        "item": "industrialforegoing:supreme_black_hole_unit"
+      }
+    }
+  ).id('industrialforegoing:supreme_black_hole_unit')
 });

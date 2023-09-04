@@ -150,6 +150,16 @@ onEvent('recipes', (event) => {
             },
             id: 'mob_grinding_utils:recipe_saw_upgrade_sharpness'
         },
+        {
+            output: 'mob_grinding_utils:tank',
+            pattern: ['PGP', 'GTG', 'PGP'],
+            key: {
+                P: '#forge:plates/iron',
+                G: 'botania:mana_glass',
+                T: 'thermal:fluid_cell_frame'
+            },
+            id: 'mob_grinding_utils:recipe_tank'
+        },
       ];
 
     recipes.forEach((recipe) => {

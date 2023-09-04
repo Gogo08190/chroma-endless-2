@@ -168,6 +168,50 @@ onEvent('recipes', (event) => {
             },
             id: 'pneumaticcraft:advanced_liquid_compressor'
         },
+        {
+            output: 'pneumaticcraft:small_tank',
+            pattern: ['ICI', 'CTC', 'ICI'],
+            key: {
+                I: 'minecraft:iron_bars',
+                C: '#forge:ingots/compressed_iron',
+                T: 'thermal:fluid_cell_frame'
+            },
+            id: 'pneumaticcraft:small_tank'
+        },
+        {
+            output: 'pneumaticcraft:medium_tank',
+            pattern: ['ITI', 'PAP', 'ICI'],
+            key: {
+                I: 'pneumaticcraft:plastic',
+                C: '#industrialforegoing:machine_frame/pity',
+                A: 'pneumaticcraft:pressure_tube',
+                P: '#forge:plates/gold',
+                T: 'pneumaticcraft:small_tank'
+            },
+            id: 'pneumaticcraft:medium_tank'
+        },
+        {
+            output: 'pneumaticcraft:large_tank',
+            pattern: ['ICI', 'PTP', 'ICI'],
+            key: {
+                I: 'pneumaticcraft:plastic',
+                C: 'pneumaticcraft:advanced_pressure_tube',
+                P: '#forge:ingots/scandium',
+                T: 'pneumaticcraft:medium_tank'
+            },
+            id: 'pneumaticcraft:large_tank'
+        },
+        {
+            output: 'pneumaticcraft:large_tank',
+            pattern: ['ICI', 'PTP', 'ICI'],
+            key: {
+                I: '#forge:ingots/desh',
+                C: 'beyond_earth:ice_shard',
+                P: 'pneumaticcraft:volume_upgrade',
+                T: 'pneumaticcraft:large_tank'
+            },
+            id: 'pneumaticcraft:large_tank'
+        },
     ];
 
     recipes.forEach((recipe) => {

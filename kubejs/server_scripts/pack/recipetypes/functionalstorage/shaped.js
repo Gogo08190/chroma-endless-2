@@ -12,6 +12,17 @@ onEvent('recipes', (event) => {
           },
           id: 'functionalstorage:storage_controller'
       },
+      {
+        output: 'functionalstorage:copper_upgrade',
+          pattern: ['PGP', 'DFD', 'PGP'],
+          key: {
+              P: '#forge:plates/copper',
+              G: '#forge:gears/copper',
+              D: '#forge:chests/wooden',
+              F: '#functionalstorage:drawer'
+          },
+          id: 'functionalstorage:copper_upgrade'
+      },
     ];
 
     recipes.forEach((recipe) => {

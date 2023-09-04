@@ -590,6 +590,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: `${id_prefix}prudentium_seed_base`
         },
+        {
+            inputs: [
+                'thermal:netherite_plate',
+                'upgradednetherite:water_upgraded_netherite_ingot',
+                'thermal:netherite_plate',
+                'thermal:netherite_gear',
+                'thermal:netherite_gear',
+                'thermal:netherite_plate',
+                'functionalstorage:diamond_upgrade',
+                'thermal:netherite_plate'
+            ],
+            inputFluid: 'tconstruct:molten_netherite',
+            inputFluidAmount: 144,
+            processingTime: 300,
+            outputItem: { item: 'functionalstorage:netherite_upgrade', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'functionalstorage:netherite_upgrade'
+        },
     ];
 
     recipes.forEach((recipe) => {
