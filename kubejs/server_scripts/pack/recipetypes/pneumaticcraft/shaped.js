@@ -202,7 +202,7 @@ onEvent('recipes', (event) => {
             id: 'pneumaticcraft:large_tank'
         },
         {
-            output: 'pneumaticcraft:large_tank',
+            output: 'pneumaticcraft:huge_tank',
             pattern: ['ICI', 'PTP', 'ICI'],
             key: {
                 I: '#forge:ingots/desh',
@@ -210,7 +210,7 @@ onEvent('recipes', (event) => {
                 P: 'pneumaticcraft:volume_upgrade',
                 T: 'pneumaticcraft:large_tank'
             },
-            id: 'pneumaticcraft:large_tank'
+            id: 'pneumaticcraft:huge_tank'
         },
     ];
 
