@@ -1443,15 +1443,15 @@
   "chapter.stage.5.quest.49.subtitle.1": "Three for One Special",
   "chapter.stage.5.quest.49.description.1": "The Advanced Compressor can like the normal one to compress any compatible item. But now it can also do Rolling and Extruding.",
 
-  "chapter.stage.5.quest.50.subtitle.1": "Rocket Components Part 1",
+  "chapter.stage.5.quest.50.subtitle.1": "T2 Rocket Components Part 1",
 
-  "chapter.stage.5.quest.51.subtitle.1": "Rocket Components Part 2",
+  "chapter.stage.5.quest.51.subtitle.1": "T2 Rocket Components Part 2",
 
-  "chapter.stage.5.quest.52.subtitle.1": "Rocket Components Part 3",
+  "chapter.stage.5.quest.52.subtitle.1": "T2 Rocket Components Part 3",
 
-  "chapter.stage.5.quest.53.subtitle.1": "Rocket Components Part 4",
+  "chapter.stage.5.quest.53.subtitle.1": "T2 Rocket Components Part 4",
 
-  "chapter.stage.5.quest.54.subtitle.1": "Rocket Components Part 5",
+  "chapter.stage.5.quest.54.subtitle.1": "T2 Rocket Components Part 5",
 
   "chapter.stage.5.quest.55.subtitle.1": "Building The T2 Rocket",
   "chapter.stage.5.quest.55.description.1": "In the Nasa Workbench assemble all previous asked elements and craft the Tier 2 Rocket.",
@@ -1585,7 +1585,6 @@
   "chapter.stage.6.quest.30.subtitle.1": "Wyvern Fusion",
   "chapter.stage.6.quest.30.description.1": "Unlocks the Wyvern tier for your Fusion Crafting Crafts.",
 
-
   "chapter.stage.6.quest.31.title.1": "Nebula Extractor Tier 3 - Part 1",
   "chapter.stage.6.quest.31.subtitle.1": "T3 Space Nebulation Extraction Part 1",
 
@@ -1595,7 +1594,7 @@
   "chapter.stage.6.quest.33.subtitle.1": "Extracting Venus",
   "chapter.stage.6.quest.33.description.1": "Extract the Star of Venus : Venustar Luminae, by using the Nebula Extractor in the Mars Desert Biome",
 
-  "chapter.stage.6.quest.34.subtitle.1": "Enriching Venstar",
+  "chapter.stage.6.quest.34.subtitle.1": "Enriching Venustar",
   "chapter.stage.6.quest.34.description.1": "Get Compressed Venustar Luminae simply by using the Enrichment Chamber",
 
   "chapter.stage.6.quest.35.subtitle.1": "Cosmic Controlling",
@@ -1639,148 +1638,140 @@
 
   "chapter.stage.7.title": "Stage 7",
 
-  "chapter.stage.7.quest.1.subtitle.1": "Chemical Fusion",
-  "chapter.stage.7.quest.1.description.1": "With Rhe Fusion Reactor get some Cesium Element.",
+  "chapter.stage.7.quest.1.subtitle.1": "Chemical Cesium Fusion",
+  "chapter.stage.7.quest.1.description.1": "With The Fusion Reactor get some Cesium Element.",
 
-  "chapter.stage.7.quest.2.subtitle.1": "Compacting Cesium ",
+  "chapter.stage.7.quest.2.subtitle.1": "Compacting Cesium",
 
   "chapter.stage.7.quest.3.subtitle.1": "Smelting Cesium Dust",
 
-  "chapter.stage.7.quest.4.subtitle.1": "",
-  "chapter.stage.7.quest.4.description.1": "",
+  "chapter.stage.7.quest.4.subtitle.1": "Cesium Component",
+  "chapter.stage.7.quest.4.description.1": "Simply energize Cesium Ingots with Luminessence and a Black Steel Slate.",
 
-  "chapter.stage.7.quest.5.subtitle.1": "",
-  "chapter.stage.7.quest.5.description.1": "",
+  "chapter.stage.7.quest.5.subtitle.1": "Cesium Catalyst",
+  "chapter.stage.7.quest.5.description.1": "Using the Pressure Chamber combine 4 Ultimate Component and a Wyvern Core.",
 
-  "chapter.stage.7.quest.6.subtitle.1": "",
-  "chapter.stage.7.quest.6.description.1": "",
+  "chapter.stage.7.quest.6.subtitle.1": "Cesium Crafting Table",
+  "chapter.stage.7.quest.6.description.1": "With the Fusion Crafting Core at the Wyvern Tier combine Ultimate Components, Cosmic Alloys with an Ultimate Catalyst and a Cesium Block.",
 
-  "chapter.stage.7.quest.7.subtitle.1": "",
-  "chapter.stage.7.quest.7.description.1": "",
+  "chapter.stage.7.quest.7.subtitle.1": "Autocraft Ultimate Crafts !",
 
-  "chapter.stage.7.quest.8.subtitle.1": "",
-  "chapter.stage.7.quest.8.description.1": "",
+  "chapter.stage.7.quest.8.subtitle.1": "Crafting Maestro",
+  "chapter.stage.7.quest.8.description.1": "You can now autocraft more than 3 recipes ! Don't forget that this works with Applied see Stage 4 for Automation.",
 
-  "chapter.stage.7.quest.9.subtitle.1": "",
-  "chapter.stage.7.quest.9.description.1": "",
+  "chapter.stage.7.quest.9.subtitle.1": "Chemical Bismuth Fusion",
+  "chapter.stage.7.quest.9.description.1": "With The Fusion Reactor get some Cesium Element",
 
-  "chapter.stage.7.quest.10.subtitle.1": "",
-  "chapter.stage.7.quest.10.description.1": "",
+  "chapter.stage.7.quest.10.subtitle.1": "Compacting Bismuth",
 
-  "chapter.stage.7.quest.11.subtitle.1": "",
-  "chapter.stage.7.quest.11.description.1": "",
+  "chapter.stage.7.quest.11.subtitle.1": "Smelting Bism Dust",
 
-  "chapter.stage.7.quest.12.subtitle.1": "",
-  "chapter.stage.7.quest.12.description.1": "",
+  "chapter.stage.7.quest.12.subtitle.1": "T4 Rocket Component Part 1",
 
-  "chapter.stage.7.quest.13.subtitle.1": "",
-  "chapter.stage.7.quest.13.description.1": "",
+  "chapter.stage.7.quest.13.subtitle.1": "T4 Rocket Component Part 2",
 
-  "chapter.stage.7.quest.14.subtitle.1": "",
-  "chapter.stage.7.quest.14.description.1": "",
+  "chapter.stage.7.quest.14.subtitle.1": "T4 Rocket Component Part 3",
 
-  "chapter.stage.7.quest.15.subtitle.1": "",
-  "chapter.stage.7.quest.15.description.1": "",
+  "chapter.stage.7.quest.15.subtitle.1": "T4 Rocket Component Part 4",
 
-  "chapter.stage.7.quest.16.subtitle.1": "",
-  "chapter.stage.7.quest.16.description.1": "",
+  "chapter.stage.7.quest.16.subtitle.1": "T4 Rocket Component Part 5",
 
-  "chapter.stage.7.quest.17.subtitle.1": "",
-  "chapter.stage.7.quest.17.description.1": "",
+  "chapter.stage.7.quest.17.subtitle.1": "Assembling the T4 Rocket",
+  "chapter.stage.7.quest.17.description.1": "In the Nasa Workbench assemble all previous components to craft the T4 Rocket.",
 
-  "chapter.stage.7.quest.18.subtitle.1": "",
-  "chapter.stage.7.quest.18.description.1": "",
+  "chapter.stage.7.quest.18.title": "Visit Dimension : &b&lGlacio&r&",
+  "chapter.stage.7.quest.18.subtitle.1": "Freezing Moon",
+  "chapter.stage.7.quest.18.description.1": "In &bGlacio&r you'll find some Glacio Crystaltine Ore.",
 
-  "chapter.stage.7.quest.19.subtitle.1": "",
-  "chapter.stage.7.quest.19.description.1": "",
+  "chapter.stage.7.quest.19.subtitle.1": "Getting Glacio Crystaltine",
 
-  "chapter.stage.7.quest.20.subtitle.1": "",
-  "chapter.stage.7.quest.20.description.1": "",
+  "chapter.stage.7.quest.20.subtitle.1": "Clumping Glacio",
+  "chapter.stage.7.quest.20.description.1": "With the Purification Chamber get Crystaltine Clump with Oxygen.",
 
-  "chapter.stage.7.quest.21.subtitle.1": "",
-  "chapter.stage.7.quest.21.description.1": "",
+  "chapter.stage.7.quest.21.subtitle.1": "Crystaltine Energizing",
+  "chapter.stage.7.quest.21.description.1": "Silply Energize Crystaltine Clumps with an Actinium Ingot and an Ender Star.",
 
-  "chapter.stage.7.quest.22.subtitle.1": "",
-  "chapter.stage.7.quest.22.description.1": "",
+  "chapter.stage.7.quest.22.subtitle.1": "Glacio Component",
+  "chapter.stage.7.quest.22.description.1": "Simply energize Crystaltine Ingots with a Black Slate and a Luminessence.",
 
-  "chapter.stage.7.quest.23.subtitle.1": "",
-  "chapter.stage.7.quest.23.description.1": "",
+  "chapter.stage.7.quest.23.subtitle.1": "Glacio Catalyst",
+  "chapter.stage.7.quest.23.description.1": "Using the Pressure Chamber, combine 4 Crystaltine Components and a Polonium Pellet.",
 
-  "chapter.stage.7.quest.24.subtitle.1": "",
-  "chapter.stage.7.quest.24.description.1": "",
+  "chapter.stage.7.quest.24.subtitle.1": "T4 Space Nebulation Extraction Part 1",
 
-  "chapter.stage.7.quest.25.subtitle.1": "",
-  "chapter.stage.7.quest.25.description.1": "",
+  "chapter.stage.7.quest.25.subtitle.1": "T4 Space Nebulation Extraction Part 2",
 
-  "chapter.stage.7.quest.26.subtitle.1": "",
-  "chapter.stage.7.quest.26.description.1": "",
+  "chapter.stage.7.quest.26.subtitle.1": "Extracting Glacio",
+  "chapter.stage.7.quest.26.description.1": "Extract the Star of Glacio : Eternal Cryostella Polaris, by using the Nebula Extractor in Glacio ",
 
-  "chapter.stage.7.quest.27.subtitle.1": "",
-  "chapter.stage.7.quest.27.description.1": "",
+  "chapter.stage.7.quest.27.subtitle.1": "Enriching Glacio",
+  "chapter.stage.7.quest.27.description.1": "Get Compressed Eternal Cryostella Polaris simply by using the Enrichment Chamber",
 
-  "chapter.stage.7.quest.28.subtitle.1": "",
-  "chapter.stage.7.quest.28.description.1": "",
+  "chapter.stage.7.quest.28.subtitle.1": "Infinite Alloying",
+  "chapter.stage.7.quest.28.description.1": "Infuse 4 Cosmic Alloys with Eternal Cryostella Polaris infusion.",
 
-  "chapter.stage.7.quest.29.subtitle.1": "",
-  "chapter.stage.7.quest.29.description.1": "",
+  "chapter.stage.7.quest.29.subtitle.1": "Infinite Controlling",
+  "chapter.stage.7.quest.29.description.1": "Infuse 4 Cosmic Control Circuits with Eternal Cryostella Polaris infusion.",
 
-  "chapter.stage.7.quest.30.subtitle.1": "",
-  "chapter.stage.7.quest.30.description.1": "",
+  "chapter.stage.7.quest.30.subtitle.1": "Photonic Energy Storage",
 
-  "chapter.stage.7.quest.31.subtitle.1": "",
-  "chapter.stage.7.quest.31.description.1": "",
+  "chapter.stage.7.quest.31.subtitle.1": "Storing Draconic Energy",
+  "chapter.stage.7.quest.31.description.1": "When fully assembled, RF can be introduced to and extracted from the structure through the use of Energy Pylons. These can be placed anywhere within 16 blocks of the Core, and are activated by placing a block of Glass either above or below the Pylon (depending if it is below or above the Core, respectively), which will turn into a blue orb. Pylons can be toggled between input and output mode by right clicking the orb, and can move 2,147,483,647 RF/t per face.",
+  "chapter.stage.7.quest.31.description.2": "Right-clicking the Energy Core opens an interface to select an Energy Core tier and enable a building guide. Energy Core Stabilizers need to be placed at each cardinal point around the Core, vertically or horizontally as long as it's on the same plane, up to 16 blocks away from the Core.",
 
-  "chapter.stage.7.quest.32.subtitle.1": "",
-  "chapter.stage.7.quest.32.description.1": "",
+  "chapter.stage.7.quest.32.subtitle.1": "Antimatter",
+  "chapter.stage.7.quest.32.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
+  "chapter.stage.7.quest.32.description.2": "The optimal minimal build consists of :",
+  "chapter.stage.7.quest.32.description.3": "• 60 SPS Casings (+12 crafting material for 3 SPS Ports)",
+  "chapter.stage.7.quest.32.description.4": "• 123 Reactor Glass or Structural Glass",
+  "chapter.stage.7.quest.32.description.5": "• 3 SPS Ports",
+  "chapter.stage.7.quest.32.description.6": "• 1 Supercharged Coil",
 
-  "chapter.stage.7.quest.33.subtitle.1": "",
-  "chapter.stage.7.quest.33.description.1": "",
+  "chapter.stage.7.quest.33.subtitle.1": "Crystallizing Antimatter",
+  "chapter.stage.7.quest.33.description.1": "Using the SPS transforms Polonium into Antimatter and then Crystallize it.",
 
-  "chapter.stage.7.quest.34.subtitle.1": "",
-  "chapter.stage.7.quest.34.description.1": "",
+  "chapter.stage.7.quest.34.subtitle.1": "Antimatter Item Generation",
+  "chapter.stage.7.quest.34.description.1": "Generates new items in exchange of Antimatter and any compatible.",
 
-  "chapter.stage.7.quest.35.subtitle.1": "",
-  "chapter.stage.7.quest.35.description.1": "",
+  "chapter.stage.7.quest.35.subtitle.1": "Mega Supra Energy Storage",
 
-  "chapter.stage.7.quest.36.subtitle.1": "",
-  "chapter.stage.7.quest.36.description.1": "",
+  "chapter.stage.7.quest.36.subtitle.1": "Awakening Draconic",
+  "chapter.stage.7.quest.36.description.1": "With the Fusion Crafting Core at the Wyvern Tier combine Draconium Cores, a Dragon Heart, a Draconium Block and Eternal Cryostella Polaris.",
 
-  "chapter.stage.7.quest.37.subtitle.1": "",
-  "chapter.stage.7.quest.37.description.1": "",
+  "chapter.stage.7.quest.37.subtitle.1": "Awakening Core",
+  "chapter.stage.7.quest.37.description.1": "With the Fusion Crafting Core at the Wyvern Tier combine Wyvern Cores, Awakened Draconium Ingots and a Nether Star.",
 
-  "chapter.stage.7.quest.38.subtitle.1": "",
-  "chapter.stage.7.quest.38.description.1": "",
+  "chapter.stage.7.quest.38.subtitle.1": "Void Miner T4",
 
-  "chapter.stage.7.quest.39.subtitle.1": "",
-  "chapter.stage.7.quest.39.description.1": "",
+  "chapter.stage.7.quest.39.subtitle.1": "Awakening Injector",
+  "chapter.stage.7.quest.39.description.1": "With the Fusion Crafting Core at the Wyvern Tier combine Wyvern Cores, an Awakened Draconium Core, Crystaltine Ingots, an Infinite Control Circuit and an Awakened Draconium block with a Wyvern Fusion Crafting Injector.",
 
-  "chapter.stage.7.quest.40.subtitle.1": "",
-  "chapter.stage.7.quest.40.description.1": "",
+  "chapter.stage.7.quest.40.subtitle.1": "Draconic Controller",
+  "chapter.stage.7.quest.40.description.1": "With the Fusion Crafting Core at the Draconic Tier combine Wyvern Energy Controller, an Awakened Draconium Ingots and an Infinite Control Circuit with a Wyvern Core.",
 
-  "chapter.stage.7.quest.41.subtitle.1": "",
-  "chapter.stage.7.quest.41.description.1": "",
+  "chapter.stage.7.quest.41.title": "Kill the &4Choas Guardian",
+  "chapter.stage.7.quest.41.subtitle.1": "Slaying The Beast",
 
-  "chapter.stage.7.quest.42.subtitle.1": "",
-  "chapter.stage.7.quest.42.description.1": "",
+  "chapter.stage.7.quest.42.subtitle.1": "Chaos Loot",
 
-  "chapter.stage.7.quest.43.subtitle.1": "",
-  "chapter.stage.7.quest.43.description.1": "",
+  "chapter.stage.7.quest.43.subtitle.1": "Chaos Controlling",
+  "chapter.stage.7.quest.43.description.1": "With the Fusion Crafting Core at the Chaotic Tier combine Draconic Energy Controller, Small Chaos Fragments Ingots, an Infinite Control Circuit with a Draconic Core.",
 
-  "chapter.stage.7.quest.44.subtitle.1": "",
-  "chapter.stage.7.quest.44.description.1": "",
+  "chapter.stage.7.quest.44.subtitle.1": "Core of Chaos",
+  "chapter.stage.7.quest.44.description.1": "With the Fusion Crafting Core at the Draconic Tier combine Draconic Cores and Awakened Draconium Ingots with Large Chaos Fragments.",
 
-  "chapter.stage.7.quest.45.subtitle.1": "",
-  "chapter.stage.7.quest.45.description.1": "",
+  "chapter.stage.7.quest.45.subtitle.1": "Chaos Injector",
+  "chapter.stage.7.quest.45.description.1": "With the Fusion Crafting Core at the Wyvern Tier combine Draconic Cores, Large Chaos Fragments, a Dragon Egg, an Antimatter Pellet and a Chaotic Core with an Awakened Crafting Injector.",
 
-  "chapter.stage.7.quest.46.subtitle.1": "",
-  "chapter.stage.7.quest.46.description.1": "",
+  "chapter.stage.7.quest.46.subtitle.1": "Farming Chaos",
+  "chapter.stage.7.quest.46.description.1": "With the Fusion Crafting Core at the Chaotic Tier combine Dragon Predictions, Golden Dragon Scales, a Chaotic Core, a Dragon Heart / Head and a Chaos Shard with a Model Framework.",
 
-  "chapter.stage.7.quest.47.subtitle.1": "",
-  "chapter.stage.7.quest.47.description.1": "",
+  "chapter.stage.7.quest.47.subtitle.1": "Chaos Simulation",
+  "chapter.stage.7.quest.47.description.1": "Get a Chaos Guardian prediction with the Simulation Chamber",
 
-  "chapter.stage.7.quest.48.subtitle.1": "",
-  "chapter.stage.7.quest.48.description.1": "",
+  "chapter.stage.7.quest.48.subtitle.1": "Chaos Fabrication Part 1",
+  "chapter.stage.7.quest.48.description.1": "Thanks to the Chaos Guardian prediction get some Tiny Chaos Fragments.",
 
-  "chapter.stage.7.quest.49.subtitle.1": "",
-  "chapter.stage.7.quest.49.description.1": ""
+  "chapter.stage.7.quest.49.subtitle.1": "Chaos Fabrication Part 2",
+  "chapter.stage.7.quest.49.description.1": "Thanks to the Chaos Guardian prediction get some Chaos Hearts."
 }
