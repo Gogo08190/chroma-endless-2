@@ -362,8 +362,8 @@ onEvent('recipes', (event) => {
       },
       {
           inputs: [
-            Item.of('hostilenetworks:prediction', '{data_model:{id:"hostilenetworks:ender_dragon"}}'),
-            Item.of('hostilenetworks:prediction', '{data_model:{id:"hostilenetworks:ender_dragon"}}'),
+            Item.of('hostilenetworks:prediction', '{data_model:{id:"hostilenetworks:ender_dragon"}}').weakNBT().toJson(),
+            Item.of('hostilenetworks:prediction', '{data_model:{id:"hostilenetworks:ender_dragon"}}').weakNBT().toJson(),
             { item: 'forbidden_arcanus:golden_dragon_scale' },
             { item: 'forbidden_arcanus:golden_dragon_scale' },
             { item: 'draconicevolution:chaotic_core' },
