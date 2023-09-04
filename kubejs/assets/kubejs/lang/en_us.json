@@ -1633,5 +1633,154 @@
   "chapter.stage.6.quest.43.description.1": "Combine 2 compatibles Chemical Element in order to get a Super Chemical Element.",
 
   "chapter.stage.6.quest.44.subtitle.1": "Void Miner Tier 3",
-  "chapter.stage.6.quest.44.description.1": "Better Than the Tier 2"
+  "chapter.stage.6.quest.44.description.1": "Better Than the Tier 2",
+
+  "Stage 7":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.7.title": "Stage 7",
+
+  "chapter.stage.7.quest.1.subtitle.1": "Chemical Fusion",
+  "chapter.stage.7.quest.1.description.1": "With Rhe Fusion Reactor get some Cesium Element.",
+
+  "chapter.stage.7.quest.2.subtitle.1": "Compacting Cesium ",
+
+  "chapter.stage.7.quest.3.subtitle.1": "Smelting Cesium Dust",
+
+  "chapter.stage.7.quest.4.subtitle.1": "",
+  "chapter.stage.7.quest.4.description.1": "",
+
+  "chapter.stage.7.quest.5.subtitle.1": "",
+  "chapter.stage.7.quest.5.description.1": "",
+
+  "chapter.stage.7.quest.6.subtitle.1": "",
+  "chapter.stage.7.quest.6.description.1": "",
+
+  "chapter.stage.7.quest.7.subtitle.1": "",
+  "chapter.stage.7.quest.7.description.1": "",
+
+  "chapter.stage.7.quest.8.subtitle.1": "",
+  "chapter.stage.7.quest.8.description.1": "",
+
+  "chapter.stage.7.quest.9.subtitle.1": "",
+  "chapter.stage.7.quest.9.description.1": "",
+
+  "chapter.stage.7.quest.10.subtitle.1": "",
+  "chapter.stage.7.quest.10.description.1": "",
+
+  "chapter.stage.7.quest.11.subtitle.1": "",
+  "chapter.stage.7.quest.11.description.1": "",
+
+  "chapter.stage.7.quest.12.subtitle.1": "",
+  "chapter.stage.7.quest.12.description.1": "",
+
+  "chapter.stage.7.quest.13.subtitle.1": "",
+  "chapter.stage.7.quest.13.description.1": "",
+
+  "chapter.stage.7.quest.14.subtitle.1": "",
+  "chapter.stage.7.quest.14.description.1": "",
+
+  "chapter.stage.7.quest.15.subtitle.1": "",
+  "chapter.stage.7.quest.15.description.1": "",
+
+  "chapter.stage.7.quest.16.subtitle.1": "",
+  "chapter.stage.7.quest.16.description.1": "",
+
+  "chapter.stage.7.quest.17.subtitle.1": "",
+  "chapter.stage.7.quest.17.description.1": "",
+
+  "chapter.stage.7.quest.18.subtitle.1": "",
+  "chapter.stage.7.quest.18.description.1": "",
+
+  "chapter.stage.7.quest.19.subtitle.1": "",
+  "chapter.stage.7.quest.19.description.1": "",
+
+  "chapter.stage.7.quest.20.subtitle.1": "",
+  "chapter.stage.7.quest.20.description.1": "",
+
+  "chapter.stage.7.quest.21.subtitle.1": "",
+  "chapter.stage.7.quest.21.description.1": "",
+
+  "chapter.stage.7.quest.22.subtitle.1": "",
+  "chapter.stage.7.quest.22.description.1": "",
+
+  "chapter.stage.7.quest.23.subtitle.1": "",
+  "chapter.stage.7.quest.23.description.1": "",
+
+  "chapter.stage.7.quest.24.subtitle.1": "",
+  "chapter.stage.7.quest.24.description.1": "",
+
+  "chapter.stage.7.quest.25.subtitle.1": "",
+  "chapter.stage.7.quest.25.description.1": "",
+
+  "chapter.stage.7.quest.26.subtitle.1": "",
+  "chapter.stage.7.quest.26.description.1": "",
+
+  "chapter.stage.7.quest.27.subtitle.1": "",
+  "chapter.stage.7.quest.27.description.1": "",
+
+  "chapter.stage.7.quest.28.subtitle.1": "",
+  "chapter.stage.7.quest.28.description.1": "",
+
+  "chapter.stage.7.quest.29.subtitle.1": "",
+  "chapter.stage.7.quest.29.description.1": "",
+
+  "chapter.stage.7.quest.30.subtitle.1": "",
+  "chapter.stage.7.quest.30.description.1": "",
+
+  "chapter.stage.7.quest.31.subtitle.1": "",
+  "chapter.stage.7.quest.31.description.1": "",
+
+  "chapter.stage.7.quest.32.subtitle.1": "",
+  "chapter.stage.7.quest.32.description.1": "",
+
+  "chapter.stage.7.quest.33.subtitle.1": "",
+  "chapter.stage.7.quest.33.description.1": "",
+
+  "chapter.stage.7.quest.34.subtitle.1": "",
+  "chapter.stage.7.quest.34.description.1": "",
+
+  "chapter.stage.7.quest.35.subtitle.1": "",
+  "chapter.stage.7.quest.35.description.1": "",
+
+  "chapter.stage.7.quest.36.subtitle.1": "",
+  "chapter.stage.7.quest.36.description.1": "",
+
+  "chapter.stage.7.quest.37.subtitle.1": "",
+  "chapter.stage.7.quest.37.description.1": "",
+
+  "chapter.stage.7.quest.38.subtitle.1": "",
+  "chapter.stage.7.quest.38.description.1": "",
+
+  "chapter.stage.7.quest.39.subtitle.1": "",
+  "chapter.stage.7.quest.39.description.1": "",
+
+  "chapter.stage.7.quest.40.subtitle.1": "",
+  "chapter.stage.7.quest.40.description.1": "",
+
+  "chapter.stage.7.quest.41.subtitle.1": "",
+  "chapter.stage.7.quest.41.description.1": "",
+
+  "chapter.stage.7.quest.42.subtitle.1": "",
+  "chapter.stage.7.quest.42.description.1": "",
+
+  "chapter.stage.7.quest.43.subtitle.1": "",
+  "chapter.stage.7.quest.43.description.1": "",
+
+  "chapter.stage.7.quest.44.subtitle.1": "",
+  "chapter.stage.7.quest.44.description.1": "",
+
+  "chapter.stage.7.quest.45.subtitle.1": "",
+  "chapter.stage.7.quest.45.description.1": "",
+
+  "chapter.stage.7.quest.46.subtitle.1": "",
+  "chapter.stage.7.quest.46.description.1": "",
+
+  "chapter.stage.7.quest.47.subtitle.1": "",
+  "chapter.stage.7.quest.47.description.1": "",
+
+  "chapter.stage.7.quest.48.subtitle.1": "",
+  "chapter.stage.7.quest.48.description.1": "",
+
+  "chapter.stage.7.quest.49.subtitle.1": "",
+  "chapter.stage.7.quest.49.description.1": ""
 }
