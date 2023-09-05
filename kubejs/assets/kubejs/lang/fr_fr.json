@@ -1631,5 +1631,177 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
   "chapter.stage.6.quest.43.description.1": "Combine 2 Éléments Chimiques compatibles pour obtenir un Super Élément Chimique.",
 
   "chapter.stage.6.quest.44.subtitle.1": "Mineur du Vide Tier 3",
-  "chapter.stage.6.quest.44.description.1": "Mieux que le Tier 2"
+  "chapter.stage.6.quest.44.description.1": "Mieux que le Tier 2",
+
+  "Stage 7":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.7.title": "Étape 7",
+
+  "chapter.stage.7.quest.1.subtitle.1": "Fusion Chimique de Césium",
+  "chapter.stage.7.quest.1.description.1": "Avec le Réacteur de Fusion, obtenez de l'élément Césium.",
+
+  "chapter.stage.7.quest.2.subtitle.1": "Compactage du Césium",
+
+  "chapter.stage.7.quest.3.subtitle.1": "Fonte de la Poussière de Césium",
+
+  "chapter.stage.7.quest.4.subtitle.1": "Composant de Césium",
+  "chapter.stage.7.quest.4.description.1": "Énergisez simplement les Lingots de Césium avec de la Luminessence et une Ardoise d'Acier Noir.",
+
+  "chapter.stage.7.quest.5.subtitle.1": "Catalyseur de Césium",
+  "chapter.stage.7.quest.5.description.1": "Avec la Chambre de Pression, combinez 4 Composants Ultime et un Cœur de Wyvern.",
+
+  "chapter.stage.7.quest.6.subtitle.1": "Table de Craft de Césium",
+  "chapter.stage.7.quest.6.description.1": "Avec le Cœur de Fusion Craft au niveau Wyvern, combinez des Composants Ultime, des Alliages Cosmiques avec un Catalyseur Ultime et un Bloc de Césium.",
+
+  "chapter.stage.7.quest.7.subtitle.1": "Automatisation des Crafts Ultime !",
+
+  "chapter.stage.7.quest.8.subtitle.1": "Maestro de Craft",
+  "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 recettes ! N'oubliez pas que cela fonctionne avec Applied, voir Étape 4 pour l'Automatisation.",
+
+  "chapter.stage.7.quest.9.subtitle.1": "Fusion Chimique du Bismuth",
+  "chapter.stage.7.quest.9.description.1": "Avec le Réacteur de Fusion, obtenez de l'Élément Césium",
+
+  "chapter.stage.7.quest.10.subtitle.1": "Compression du Bismuth",
+
+  "chapter.stage.7.quest.11.subtitle.1": "Fondre la Poussière de Bismuth",
+
+  "chapter.stage.7.quest.12.subtitle.1": "Composant de Fusée T4 Partie 1",
+
+  "chapter.stage.7.quest.13.subtitle.1": "Composant de Fusée T4 Partie 2",
+
+  "chapter.stage.7.quest.14.subtitle.1": "Composant de Fusée T4 Partie 3",
+
+  "chapter.stage.7.quest.15.subtitle.1": "Composant de Fusée T4 Partie 4",
+
+  "chapter.stage.7.quest.16.subtitle.1": "Composant de Fusée T4 Partie 5",
+
+  "chapter.stage.7.quest.17.subtitle.1": "Assemblage de la Fusée T4",
+  "chapter.stage.7.quest.17.description.1": "Dans l'Établi de la Nasa, assemblez tous les composants précédents pour fabriquer la Fusée T4.",
+
+  "chapter.stage.7.quest.18.title": "Visitez la Dimension : &b&lGlacio&r&",
+  "chapter.stage.7.quest.18.subtitle.1": "Lune Gelée",
+  "chapter.stage.7.quest.18.description.1": "Dans &bGlacio&r vous trouverez du Minerai de Crystaltine Glacio.",
+
+  "chapter.stage.7.quest.19.subtitle.1": "Obtenir la Crystaltine de Glacio",
+
+  "chapter.stage.7.quest.20.subtitle.1": "Agglomération de Glacio",
+  "chapter.stage.7.quest.20.description.1": "Avec la Chambre de Purification, obtenez des Grumeaux de Crystaltine avec de l'Oxygène.",
+
+  "chapter.stage.7.quest.21.subtitle.1": "Énergisation de Crystaltine",
+  "chapter.stage.7.quest.21.description.1": "Énergisez simplement les Grumeaux de Crystaltine avec un Lingot d'Actinium et une Étoile d'Ender.",
+
+  "chapter.stage.7.quest.22.subtitle.1": "Composant Glacio",
+  "chapter.stage.7.quest.22.description.1": "Énergisez simplement les Lingots de Crystaltine avec une Ardoise Noire et une Luminessence.",
+
+  "chapter.stage.7.quest.23.subtitle.1": "Catalyseur Glacio",
+  "chapter.stage.7.quest.23.description.1": "À l'aide de la Chambre sous Pression, combinez 4 Composants de Crystaltine et une Pellet de Polonium.",
+
+  "chapter.stage.7.quest.24.subtitle.1": "Extraction de Nébulation Spatiale T4 Partie 1",
+
+  "chapter.stage.7.quest.25.subtitle.1": "Extraction de Nébulation Spatiale T4 Partie 2",
+
+  "chapter.stage.7.quest.26.subtitle.1": "Extraction de Glacio",
+  "chapter.stage.7.quest.26.description.1": "Extrayez l'Étoile de Glacio : Éternelle Cryostella Polaris, en utilisant l'Extracteur de Nébuleuse dans Glacio",
+
+  "chapter.stage.7.quest.27.subtitle.1": "Enrichissement de Glacio",
+  "chapter.stage.7.quest.27.description.1": "Obtenez l'Éternelle Cryostella Polaris Comprimée simplement en utilisant la Chambre d'Enrichissement",
+
+  "chapter.stage.7.quest.28.subtitle.1": "Alliage Infini",
+  "chapter.stage.7.quest.28.description.1": "Infusez 4 Alliages Cosmiques avec l'infusion d'Éternelle Cryostella Polaris.",
+
+  "chapter.stage.7.quest.29.subtitle.1": "Contrôle Infini",
+  "chapter.stage.7.quest.29.description.1": "Infusez 4 Circuits de Contrôle Cosmiques avec l'infusion d'Éternelle Cryostella Polaris.",
+
+  "chapter.stage.7.quest.30.subtitle.1": "Stockage d'Énergie Photonique",
+
+  "chapter.stage.7.quest.31.subtitle.1": "Stockage de l'Énergie Draconique",
+  "chapter.stage.7.quest.31.description.1": "Le &dStockage d'Énergie Draconique&r est utilisé pour stocker beaucoup d'énergie.",
+  "chapter.stage.7.quest.31.description.2": "Le &dCœur Énergétique&r est au centre de la boule draconique.",
+  "chapter.stage.7.quest.31.description.3": "Les &dEnergy Pylon&r sont utilisés pour insérer ou extraire de l'énergie. Pour fonctionner, vous devez placer un bloc de verre au-dessus ou en dessous du Pylône pour l'activer.",
+  "chapter.stage.7.quest.31.description.4": "Les &dEnergy Core Stabilizer&r sont là pour stabiliser votre Boule Draconique&r.",
+  "chapter.stage.7.quest.31.description.5": "Il doit être à une distance maximale de 8 blocs et minimale de 1 bloc de votre Boule Draconique.",
+  "chapter.stage.7.quest.31.description.6": "&dTier 1&r (Peut stocker 45.5M RF) :",
+  "chapter.stage.7.quest.31.description.7": "• 4 Energy Stabilizer",
+  "chapter.stage.7.quest.31.description.8": "&dTier 2&r (Peut stocker 273M RF) :",
+  "chapter.stage.7.quest.31.description.9": "• 6 Draconium Blocks",
+  "chapter.stage.7.quest.31.description.10": "• 4 Energy Core Stabilizer",
+  "chapter.stage.7.quest.31.description.11": "&dTier 3&r (Peut stocker 1.6G RF) :",
+  "chapter.stage.7.quest.31.description.12": "• 6 Draconium Blocks",
+  "chapter.stage.7.quest.31.description.13": "• 4 Energy Core Stabilizer",
+  "chapter.stage.7.quest.31.description.14": "&dTier 4&r (Peut stocker 9.8G RF) :",
+  "chapter.stage.7.quest.31.description.15": "• 54 Draconium Blocks",
+  "chapter.stage.7.quest.31.description.16": "• 26 Redstone Blocks",
+  "chapter.stage.7.quest.31.description.17": "• 4 Energy Core Stabilizer",
+  "chapter.stage.7.quest.31.description.18": "&dTier 5 &r(Peut stocker 59.3G RF) :",
+  "chapter.stage.7.quest.31.description.19": "• 150 Draconium Blocks",
+  "chapter.stage.7.quest.31.description.20": "• 178 Redstone Blocks",
+  "chapter.stage.7.quest.31.description.21": "• 36 Energy Core Stabilizer",
+  "chapter.stage.7.quest.31.description.22": "&dTier 6&r (Peut stocker 356G RF) :",
+  "chapter.stage.7.quest.31.description.23": "• 150 Draconium Blocks",
+  "chapter.stage.7.quest.31.description.24": "• 178 Redstone Blocks",
+  "chapter.stage.7.quest.31.description.25": "• 36 Energy Core Stabilizer",
+  "chapter.stage.7.quest.31.description.26": "&dTier 7&r (Peut stocker 2.14T RF) :",
+  "chapter.stage.7.quest.31.description.27": "• 210 Draconium Blocks",
+  "chapter.stage.7.quest.31.description.28": "• 328 Redstone Blocks",
+  "chapter.stage.7.quest.31.description.29": "• 36 Energy Core Stabilizer",
+  "chapter.stage.7.quest.31.description.30": "&dTier 8&r (Peut stocker Presque Infini RF ► 9,223,372,036,854,775,807 RF)",
+  "chapter.stage.7.quest.31.description.31": "• 378 Awakned Draconium Blocks",
+  "chapter.stage.7.quest.31.description.32": "• 786 Draconium Blocks",
+  "chapter.stage.7.quest.31.description.33": "• 36 Energy Core Stabilizer",
+
+  "chapter.stage.7.quest.32.subtitle.1": "Antimatière",
+  "chapter.stage.7.quest.32.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
+  "chapter.stage.7.quest.32.description.2": "The optimal minimal build consists of :",
+  "chapter.stage.7.quest.32.description.3": "• 60 Structures du SPS (+12 matériaux de fabrication pour 3 Ports du SPS)",
+  "chapter.stage.7.quest.32.description.4": "• 123 Verres de réacteur ou verre structurel",
+  "chapter.stage.7.quest.32.description.5": "• 3 Ports du SPS",
+  "chapter.stage.7.quest.32.description.6": "• 1 Bobine surchargée",
+
+  "chapter.stage.7.quest.33.subtitle.1": "Cristallisation de l'antimatière",
+  "chapter.stage.7.quest.33.description.1": "L'utilisation du SPS permet de transformer le polonium en antimatière et de la cristalliser.",
+
+  "chapter.stage.7.quest.34.subtitle.1": "Génération d'objets en antimatière",
+  "chapter.stage.7.quest.34.description.1": "Génère de nouveaux objets en échange d'antimatière et de tout ce qui est compatible.",
+
+  "chapter.stage.7.quest.35.subtitle.1": "Stockage d'énergie Mega Supra",
+
+  "chapter.stage.7.quest.36.subtitle.1": "Éveil draconique",
+  "chapter.stage.7.quest.36.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combinez des Draconium Cores, un Dragon Heart et une Eternal Cryostella Polaris avec 4 blocs de Draconium.",
+
+  "chapter.stage.7.quest.37.subtitle.1": "Cœur Awakening",
+  "chapter.stage.7.quest.37.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combinez Wyvern Cores, Awakened Draconium Ingots et une Étoile du Nether.",
+
+  "chapter.stage.7.quest.38.subtitle.1": "Mineur du vide Tier 4",
+
+  "chapter.stage.7.quest.39.subtitle.1": "Injecteur Awakening",
+  "chapter.stage.7.quest.39.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combinez Wyvern Cores, un Awakened Draconium Core, Crystaltine Ingots, un Infinite Control Circuit et un bloc d'Awakened Draconium avec un Wyvern Fusion Crafting Injector.",
+
+  "chapter.stage.7.quest.40.subtitle.1": "Contrôleur draconique",
+  "chapter.stage.7.quest.40.description.1": "Avec le Fusion Crafting Core au tier Draconic, combinez Wyvern Energy Controller, un lingot d'Awakened Draconium et un Infinite Control Circuit avec un Wyvern Core.",
+
+  "chapter.stage.7.quest.41.title": "Tuez le &4Choas Guardian",
+  "chapter.stage.7.quest.41.subtitle.1": "Tuez la bête",
+
+  "chapter.stage.7.quest.42.subtitle.1": "Butin du chaos",
+
+  "chapter.stage.7.quest.43.subtitle.1": "Contrôle du Chaos",
+"chapter.stage.7.quest.43.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combinez un Draconic Energy Controller, des Small Chaos Fragments, un Infinite Control Circuit avec un Draconic Core.",
+
+"chapter.stage.7.quest.44.subtitle.1": "Cœur du Chaos",
+"chapter.stage.7.quest.44.description.1": "Avec le Fusion Crafting Core au tier Draconique, combinez les Draconic Cores et des lingots d'Awakened Draconium avec un Large Chaos Fragments.",
+
+  "chapter.stage.7.quest.45.subtitle.1": "Injecteur Chaotic",
+  "chapter.stage.7.quest.45.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combiner des Draconic Cores, Large Chaos Fragments, un Dragon Egg, un pastille d'Antimatière et un Chaotic Core avec un Awakened Crafting Injector.",
+
+  "chapter.stage.7.quest.46.subtitle.1": "Élevage de Chaos",
+  "chapter.stage.7.quest.46.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combiner des Dragon Predictions, Golden Dragon Scales, un Chaotic Core, un Dragon Heart et tête de dragon et une Chaos Shard avec un Model Framework.",
+
+  "chapter.stage.7.quest.47.subtitle.1": "Simulation Chaotique",
+  "chapter.stage.7.quest.47.description.1": "Obtenez une prédiction du Chaos Guardian avec la Chambre de Simulation.",
+
+  "chapter.stage.7.quest.48.subtitle.1": "Fabrication du Chaos Partie 1",
+  "chapter.stage.7.quest.48.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Tiny Chaos Fragments.",
+
+  "chapter.stage.7.quest.49.subtitle.1": "Fabrication du Chaos Partie 2",
+  "chapter.stage.7.quest.49.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Chaos Hearts."
 }
