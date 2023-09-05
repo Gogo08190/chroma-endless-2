@@ -1498,5 +1498,138 @@
   "chapter.stage.5.quest.69.description.1": "Mettez sous pression le gaz de plutonium avec n'importe quel gaz compatible et obtenez des pastilles de plutonium. Attention, les déchets usés sont radioactifs ! Vous pouvez les stocker dans un baril de déchets radioactifs",
 
   "chapter.stage.5.quest.70.subtitle.1": "Création de polonium",
-  "chapter.stage.5.quest.70.description.1": "Mettez sous pression le gaz de polonium avec n'importe quel gaz compatible et obtenez des pastilles de polonium. Attention, les déchets usés sont radioactifs ! Vous pouvez les stocker dans un baril de déchets radioactifs"
+  "chapter.stage.5.quest.70.description.1": "Mettez sous pression le gaz de polonium avec n'importe quel gaz compatible et obtenez des pastilles de polonium. Attention, les déchets usés sont radioactifs ! Vous pouvez les stocker dans un baril de déchets radioactifs",
+
+  "Stage 6":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.6.title": "Étape 6",
+
+  "chapter.stage.6.quest.1.subtitle.1": "Création de Flux",
+  "chapter.stage.6.quest.1.description.1": "Infusez simplement de la Poussière de Fluix Carbonique avec une infusion de Marsova Ignis.",
+
+  "chapter.stage.6.quest.2.subtitle.1": "Composant de Flux",
+
+  "chapter.stage.6.quest.3.subtitle.1": "Compactage de Flux",
+
+  "chapter.stage.6.quest.4.subtitle.1": "Émetteur d'Énergie Flux",
+  "chapter.stage.6.quest.4.description.1": "Reçoit de l'énergie des blocs adjacents passivement, ajoutant de l'énergie à votre réseau Flux.",
+
+  "chapter.stage.6.quest.5.subtitle.1": "Contrôle de Flux",
+  "chapter.stage.6.quest.5.description.1": "Permet la charge sans fil depuis votre réseau Flux.",
+
+  "chapter.stage.6.quest.6.subtitle.1": "Émetteur d'Énergie Flux",
+  "chapter.stage.6.quest.6.description.1": "Fournit de l'énergie aux blocs adjacents activement, retirant de l'énergie de votre réseau Flux.",
+
+  "chapter.stage.6.quest.7.subtitle.1": "Stockage de Flux Basique",
+  "chapter.stage.6.quest.7.description.1": "Stocke l'énergie pour votre réseau Flux. Capacité énergétique : 2 000 000 FE.",
+
+  "chapter.stage.6.quest.8.subtitle.1": "Stockage de Flux Hercule",
+  "chapter.stage.6.quest.8.description.1": "Stocke l'énergie pour votre réseau Flux. Capacité énergétique : 16 000 000 FE.",
+
+  "chapter.stage.6.quest.9.subtitle.1": "Stockage de Flux Gargantuan",
+  "chapter.stage.6.quest.9.description.1": "Stocke l'énergie pour votre réseau Flux. Capacité énergétique : 128 000 000 FE.",
+
+  "chapter.stage.6.quest.10.subtitle.1": "Chassis Suprême",
+  "chapter.stage.6.quest.10.description.1": "En utilisant la Chambre de Dissolution, assemblez du Plastique, des Lingots de Platine, des Circuits de Contrôle Suprême, des Noyaux de Flux, une Pépite de Plutonium et un Cadre de Machine Avancé avec du Gaz Éther.",
+
+  "chapter.stage.6.quest.11.subtitle.1": "Création de Nitro",
+  "chapter.stage.6.quest.11.description.1": "Énergisez simplement des Blocs de Flux avec un Bloc de Lutetium et du Plutonium.",
+
+  "chapter.stage.6.quest.12.subtitle.1": "Fusion !",
+  "chapter.stage.6.quest.12.description.1": "Énergisez simplement un Cristal Spirituel avec du Calorite et des Lingots de Frosteel.",
+
+  "chapter.stage.6.quest.13.subtitle.1": "Composants de la Fusée T3 Partie 1",
+
+  "chapter.stage.6.quest.14.subtitle.1": "Composants de la Fusée T3 Partie 2",
+
+  "chapter.stage.6.quest.15.subtitle.1": "Composants de la Fusée T3 Partie 3",
+
+  "chapter.stage.6.quest.16.subtitle.1": "Composants de la Fusée T3 Partie 4",
+
+  "chapter.stage.6.quest.17.subtitle.1": "Composants de la Fusée T3 Partie 5",
+
+  "chapter.stage.6.quest.18.subtitle.1": "Assemblage de la Fusée T3",
+  "chapter.stage.6.quest.18.description.1": "Dans l'Établi de la NASA, assemblez tous les composants précédents pour fabriquer la Fusée T3.",
+
+  "chapter.stage.6.quest.19.title": "Visitez la Dimension : &bVénus",
+  "chapter.stage.6.quest.19.subtitle.1": "C'est Glacial",
+  "chapter.stage.6.quest.19.description.1": "Sur Vénus, vous trouverez du minerai de Calorite",
+
+  "chapter.stage.6.quest.20.title": "Visitez la Dimension : &4Mercure",
+  "chapter.stage.6.quest.20.subtitle.1": "Plus Chaud que l'Enfer",
+
+  "chapter.stage.6.quest.21.subtitle.1": "Obtenir du Calorite",
+
+  "chapter.stage.6.quest.22.subtitle.1": "Fusion de Minerai de Calorite",
+
+  "chapter.stage.6.quest.23.title": "Mineur du Vide Tier 2",
+  "chapter.stage.6.quest.23.subtitle.1": "Meilleur Mineur du Vide",
+
+  "chapter.stage.6.quest.24.subtitle.1": "Minerais Draconiques",
+  "chapter.stage.6.quest.24.description.1": "Avec le Mineur du Vide T2, obtenez du Minerai de Draconium",
+
+  "chapter.stage.6.quest.25.subtitle.1": "Fusion des Minerais Draconiques",
+
+  "chapter.stage.6.quest.26.subtitle.1": "Le Noyau Initial",
+
+  "chapter.stage.6.quest.27.subtitle.1": "Fusion Draconique",
+  "chapter.stage.6.quest.27.description.1": "Le Fusion Crafting Core fait partie du Fusion Crafting de Draconic Evolution. Selon le palier demandé, il peut fabriquer un objet très avancé.",
+
+  "chapter.stage.6.quest.28.subtitle.1": "Le Premier Tier de fabrication",
+  "chapter.stage.6.quest.28.description.1": "Le Draconium Fusion Crafting Injector est seulement capable de fabriquer le Wyvern Fusion Crafting Injector et le Coffre Draconium.",
+
+  "chapter.stage.6.quest.29.subtitle.1": "Mise à niveau Wyverne",
+
+  "chapter.stage.6.quest.30.subtitle.1": "Fusion Wyverne",
+  "chapter.stage.6.quest.30.description.1": "Débloque le tier Wyverne pour vos Artisanats de Fusion.",
+
+  "chapter.stage.6.quest.31.title.1": "Extracteur de Nébuleuse Tier 3 - Partie 1",
+  "chapter.stage.6.quest.31.subtitle.1": "Extraction de Nébulisation Spatiale T3 Partie 1",
+
+  "chapter.stage.6.quest.32.title.1": "Extracteur de Nébuleuse Tier 3 - Partie 2",
+  "chapter.stage.6.quest.32.subtitle.1": "Extraction de Nébulisation Spatiale T3 Partie 2",
+
+  "chapter.stage.6.quest.33.subtitle.1": "Extraction de Vénus",
+  "chapter.stage.6.quest.33.description.1": "Extrayez l'Étoile de Vénus : Venustar Luminae, en utilisant l'Extracteur de Nébuleuse dans le Biome Désertique de Mars",
+
+  "chapter.stage.6.quest.34.subtitle.1": "Enrichissement de Venustar",
+  "chapter.stage.6.quest.34.description.1": "Obtenez du Venustar Luminae Compressé simplement en utilisant la Chambre d'Enrichissement",
+
+  "chapter.stage.6.quest.35.subtitle.1": "Contrôle Cosmique",
+  "chapter.stage.6.quest.35.description.1": "Infusez simplement un Circuit de Contrôle Suprême avec l'infusion de Venustar Luminae",
+
+  "chapter.stage.6.quest.36.subtitle.1": "Alliage Cosmique",
+  "chapter.stage.6.quest.36.description.1": "Infusez simplement un Alliage Suprême avec l'infusion de Venustar Luminae.",
+
+  "chapter.stage.6.quest.37.title": "Le Réacteur de Fusion",
+  "chapter.stage.6.quest.37.subtitle.1": "Réacteur Ultime",
+  "chapter.stage.6.quest.37.description.1": "Le &bRéacteur de Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
+  "chapter.stage.6.quest.37.description.2": "• 75x Structure de Reacteur à fusion (Construction + autres pièces du réacteur).",
+  "chapter.stage.6.quest.37.description.3": "• 2x Port de réacteur à fusion.",
+  "chapter.stage.6.quest.37.description.4": "• 1x Contrôleur de réacteur à fusion.",
+  "chapter.stage.6.quest.37.description.5": "• 8x Verre de réacteur.",
+  "chapter.stage.6.quest.37.description.6": "• 1x Matrice de focalisation laser.",
+
+  "chapter.stage.6.quest.38.subtitle.1": "Transformation en Bouillie",
+  "chapter.stage.6.quest.38.description.1": "Transformez n'importe quel minerai avec de l'Acide Sulfurique en sa Bouillie correspondante.",
+
+  "chapter.stage.6.quest.39.subtitle.1": "Configuration de Démarrage du Réacteur",
+  "chapter.stage.6.quest.39.description.1": "&bLe Réacteur de Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
+  "chapter.stage.6.quest.39.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutéri
+um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
+  "chapter.stage.6.quest.39.description.3": "L'onglet statistiques détaille la température d'ignition nécessaire pour que la réaction commence. Pour atteindre cette température, un Amplificateur Laser doit être chargé d'énergie provenant de plusieurs Lasers l'alimentant, et tiré dans la Matrice de Focus Laser. L'énergie nécessaire pour démarrer la réaction requiert 400MFE. Elle doit être injectée en une seule grande impulsion pour éviter que la température ne se dissipe, donc ajouter une sensibilité au Redstone ou augmenter l'énergie minimale requise par l'Amplificateur empêchera son déclenchement prématuré.",
+  "chapter.stage.6.quest.39.description.4": "Avec le Hohlraum dans le Contrôleur de Réacteur et suffisamment d'énergie stockée dans l'Amplificateur, tirez le laser pour commencer la réaction de fusion. Si une température suffisamment élevée a été atteinte, vous devriez immédiatement voir et entendre le réacteur fonctionner. Pour soutenir la réaction, la température ne doit pas descendre en dessous de la température d'ignition. Assurez-vous que le taux d'injection est suffisamment élevé et que le carburant est constamment fourni.",
+
+  "chapter.stage.6.quest.40.subtitle.1": "Lavage des Bouillies",
+  "chapter.stage.6.quest.40.description.1": "Combine n'importe quelle Bouillie Sale avec son laveur compatible et obtenez de la Bouillie Propre.",
+
+  "chapter.stage.6.quest.41.subtitle.1": "Tablette de Stockage Absorbant la Lumière",
+
+  "chapter.stage.6.quest.42.subtitle.1": "Stockage d'Énergie Cosmique",
+
+  "chapter.stage.6.quest.43.subtitle.1": "Fusionneur d'Élément Chimique",
+  "chapter.stage.6.quest.43.description.1": "Combine 2 Éléments Chimiques compatibles pour obtenir un Super Élément Chimique.",
+
+  "chapter.stage.6.quest.44.subtitle.1": "Mineur du Vide Tier 3",
+  "chapter.stage.6.quest.44.description.1": "Mieux que le Tier 2"
 }
