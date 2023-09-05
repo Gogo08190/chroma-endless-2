@@ -1804,5 +1804,61 @@
   "chapter.stage.7.quest.48.description.1": "Thanks to the Chaos Guardian prediction get some Tiny Chaos Fragments.",
 
   "chapter.stage.7.quest.49.subtitle.1": "Chaos Fabrication Part 2",
-  "chapter.stage.7.quest.49.description.1": "Thanks to the Chaos Guardian prediction get some Chaos Hearts."
+  "chapter.stage.7.quest.49.description.1": "Thanks to the Chaos Guardian prediction get some Chaos Hearts.",
+
+  "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.machinery.title": "Heavy Machinery",
+
+  "chapter.machinery.quest.1.subtitle.1": "Immersive Crushing",
+  "chapter.machinery.quest.1.description.1": "The Crusher is a 3×5×3 multiblock added by Immersive Engineering. It is used for crushing ores into grit, which is more efficient than normal smelting.",
+  "chapter.machinery.quest.1.description.2": "The Crusher does not have a GUI. The machine accepts any form of Forge Energy (FE) or Redstone Flux (RF) through the top of the multiblock, through the interface shown below.",
+
+  "chapter.machinery.quest.2.subtitle.1": "Planks Sawing",
+  "chapter.machinery.quest.2.description.1": "The Sawmill is a 3×5×3 wood-processing multiblock added by Immersive Engineering. It turns 1 Log into 6 Planks.",
+
+  "chapter.machinery.quest.3.subtitle.1": "Immersive Autocrafting",
+  "chapter.machinery.quest.3.description.1": "The Assembler is a 3x3x3 multi-block added by Immersive Engineering. It is used to automatically craft items. Recipes can be set inside of the Assembler, as seen to the right. The fluid tanks in the Assembler is also capable to use Fluid Buckets like Treated Wood.",
+
+  "chapter.machinery.quest.4.subtitle.1": "Blueprint Automation",
+  "chapter.machinery.quest.4.description.1": "The Automated Workbench is a 3x2x3 multi-block added by Immersive Engineering. It is an automated version of the Engineer's Workbench. Redstone Flux (RF) is required for the Automated Workbench to function. It is input through where the Light Engineering Block was in the multiblock structure's creation. In the Automated Workbench's GUI, a Engineer's Blueprint must be added in order for it to function.",
+
+  "chapter.machinery.quest.5.subtitle.1": "Storing Fluid",
+  "chapter.machinery.quest.5.description.1": "The Tank will store 512,000 mB (512 Buckets). Liquids can be piped into the top and extracted with bottom blocks. For liquid to be removed a redstone signal is required, additionally, a Fluid Pump (Immersive Engineering) can be used to speed up the output.",
+
+  "chapter.machinery.quest.6.subtitle.1": "Storing Items",
+  "chapter.machinery.quest.6.description.1": "The Sheetmetal Silo will store 41,472 items (the size of 24 Chests). They, however, all must be the same item. Items can be piped into the top block, and removed through the bottom block. Removal of items requires a Redstone signal. The Silo will visually show the item being stored and it's amount on each side of the Silo.",
+
+  "chapter.machinery.quest.7.subtitle.1": "A Better Immersive Fluid Storage",
+  "chapter.machinery.quest.7.description.1": "The oil tank is a self levelling liquid tank bigger than the normal Fluid Tank, with both side : top and bottom fluid ports. It can store 1024B of any non gaseous fluid.",
+
+  "chapter.machinery.quest.8.subtitle.1": "Really Hot Topic",
+  "chapter.machinery.quest.8.description.1": "The Improved Blast Furnace is a multiblock furnace added by Immersive Engineering that alloys Iron with Coal Cokes to produce Steel. It is the upgraded tier of the Crude Blast Furnace, capable of automation and also of greater speeds once Blast Furnace Preheaters are added.",
+  "chapter.machinery.quest.8.description.2": "The Improved Blast Furnace has hatches to automatically export Steel and Slag into adjacent inventories. Coal Coke and Iron may be dropped into the top of the furnace. Steel leaves through the front, and Slag leaves through the back. The holes on either side are for adding the Blast Furnace Preheaters.",
+
+  "chapter.machinery.quest.9.subtitle.1": "Immersive Refining",
+  "chapter.machinery.quest.9.description.1": "The High Pressure Refinery Unit heats and combines fluids within it's main reaction drum. It is integral to secondary process chains in modern petroleum refining, including cracking and desulfurization",
+
+  "chapter.machinery.quest.10.subtitle.1": "Tower Distillation",
+  "chapter.machinery.quest.10.description.1": "The Distillation Tower is a large 4x16x4 multi-block added by Immersive Petroleum used to process fluids into other fluids. It is primarily used to convert Crude Oil into usable Diesel and Gasoline fuels and Lubricant, creating Bitumen as a byproduct.",
+
+  "chapter.machinery.quest.11.subtitle.1": "Oil Finding Tower",
+
+  "chapter.machinery.quest.12.subtitle.1": "Bitumen Cracker",
+  "chapter.machinery.quest.12.description.1": "The Coker is a massive machine that cracks and carbonizes residual bitumen from distillation into petroleum coke and sulfurized diesel.",
+
+  "chapter.machinery.quest.13.subtitle.1": "Ore Generating",
+  "chapter.machinery.quest.13.description.1": "The Excavator is a 8×3×7 multiblock machine added by Immersive Engineering that mines into Mineral Deposits below bedrock.",
+
+  "chapter.machinery.quest.14.subtitle.1": "Pumping Maestro",
+  "chapter.machinery.quest.14.description.1": "The Pumpjack is a 6×4×3 multiblock added by Immersive Petroleum. It extracts fluids like Crude Oil from reservoirs that are below bedrock. A Core Sample Drill tests for these reservoirs. Once it's powered and an empty pipe is connected to either fluid port, the jack pumps at a rate of 15 mB/tick. If there's a reservoir below it, it brings the fluid to the surface. Multiple Pumpjacks in one chunk increases the rate of extraction. If the reservoir is emptied, up to 6 mB/tick of fluid can continue to be extracted from the drained reservoir using a single Pumpjack.",
+
+  "chapter.machinery.quest.15.subtitle.1": "Thunder Power",
+  "chapter.machinery.quest.15.description.1": "The Lightning Rod is relatively simple to make. It uses 8 Copper Coil Blocks, 4 Steel Scaffoldings, 4 HV Capacitors, 4 Light Engineering Blocks, 4 Treated Wood Fences and 3 High-Voltage Coil Blocks.",
+
+  "chapter.machinery.quest.16.subtitle.1": "Ultimate Immersive Generator",
+  "chapter.machinery.quest.16.description.1": "The Diesel Generator is a 3×5×3 multiblock added by Immersive Engineering. It generates Immersive Flux (IF) or Redstone Flux (RF) by burning Biodiesel or other modded fuels. A running Diesel Generator makes a fair amount of noise. The Ear Defenders can selectively muffle its sound."
+}
+
+
 }
