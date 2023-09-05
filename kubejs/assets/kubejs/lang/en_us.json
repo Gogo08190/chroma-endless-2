@@ -1306,7 +1306,7 @@
   "chapter.stage.5.title": "Stage 5",
 
   "chapter.stage.5.quest.1.subtitle.1": "A Really Better Frame",
-  "chapter.stage.5.quest.1.description.1": "Using the Dissolution Chamber, assemble Plastics , Absolute Control Circuits , Desh Ingots Rods a Lumium Gear and a Simple Machine Frame with Pink Slime.",
+  "chapter.stage.5.quest.1.description.1": "Using the Dissolution Chamber, assemble Plastics , Absolute Control Circuits , Desh Ingots, a Lumium Gear and a Simple Machine Frame with Pink Slime.",
   "chapter.stage.5.quest.2.subtitle.1": "Mining With Lasers",
   "chapter.stage.5.quest.2.description.1": "In order to generate different kind of ressources with Lasers, you will need 4 of them.",
 
@@ -1314,7 +1314,7 @@
   "chapter.stage.5.quest.3.description.1": "This is the Main Machine to setup the Mining Laser Drill. Put the 4 Drills like it the image and let ore generates ! ",
 
   "chapter.stage.5.quest.4.subtitle.1": "Fluid Mining",
-  "chapter.stage.5.quest.4.description.1": "As well as the Laser Drill it can mine things but this time is Fluid !",
+  "chapter.stage.5.quest.4.description.1": "As well as the Ore Laser Base it can mine things but this time is Fluid !",
 
   "chapter.stage.5.quest.5.subtitle.1": "Wither Stabilizer",
   "chapter.stage.5.quest.5.description.1": "The Stasis Chamber is a machine added by Industrial Foregoing that uses Forge Energy to freeze and heal any mobs in its working area.",
@@ -1370,7 +1370,7 @@
   "chapter.stage.5.quest.24.description.1": "With the Mana Infuser and the new corresponding multiblock, you will be able to make faster basic Botania Ingots.",
 
   "chapter.stage.5.quest.25.subtitle.1": "A New Botanical Ingot",
-  "chapter.stage.5.quest.25.description.1": "With the Mana Infuser Multiblock and 2 full Mana Pools, you will be able to get &cAlfsteel&r.",
+  "chapter.stage.5.quest.25.description.1": "With the Mana Infuser Multiblock and 2 full Mana Pools, you will be able to get &6Alfsteel&r.",
 
   "chapter.stage.5.quest.26.subtitle.1": "Mimir has Called",
 
@@ -1456,7 +1456,7 @@
   "chapter.stage.5.quest.55.subtitle.1": "Building The T2 Rocket",
   "chapter.stage.5.quest.55.description.1": "In the Nasa Workbench assemble all previous asked elements and craft the Tier 2 Rocket.",
 
-  "chapter.stage.5.quest.56.title": "Visit Dimension : &cMars",
+  "chapter.stage.5.quest.56.title": "Visit Dimension : &cMars&r",
   "chapter.stage.5.quest.56.subtitle.1": "Hell on a planet",
   "chapter.stage.5.quest.56.description.1": "On Mars you will find some &cOstrum Ore&r",
 
@@ -1472,13 +1472,13 @@
   "chapter.stage.5.quest.60.description.1": "Extract the Star of Mars : Marsova Ignis, by using the Nebula Extractor in the Mars Desert Biome",
 
   "chapter.stage.5.quest.61.subtitle.1": "Enriching Marsova",
-  "chapter.stage.5.quest.61.description.1": "Get Compressed Marsova Nova simply by using the Enrichment Chamber.",
+  "chapter.stage.5.quest.61.description.1": "Get Compressed Marsova Ignis simply by using the Enrichment Chamber.",
 
   "chapter.stage.5.quest.62.subtitle.1": "Supreme Controlling",
-  "chapter.stage.5.quest.62.description.1": "Simply Infuse an Absolute Control Circuit with Marsova Nova infusion.",
+  "chapter.stage.5.quest.62.description.1": "Simply Infuse an Absolute Control Circuit with Marsova Ignis infusion.",
 
   "chapter.stage.5.quest.63.subtitle.1": "Supreme Alloying",
-  "chapter.stage.5.quest.63.description.1": "Simply Infuse an Absolute Alloy with Marsova Nova infusion.",
+  "chapter.stage.5.quest.63.description.1": "Simply Infuse an Absolute Alloy with Marsova Ignis infusion.",
 
   "chapter.stage.5.quest.64.subtitle.1": "Singular Storing Tablet",
 

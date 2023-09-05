@@ -1297,5 +1297,206 @@
   "chapter.stage.4.quest.131.description.1": "Pour automatiser Extended Crafting, il est nécessaire de fabriquer &d2 Package Recipe Holders&r et de les encoder avec un &aPackage Recipe Encoder&r.",
   "chapter.stage.4.quest.131.description.2": "Ensuite, il faut placer un Package Recipe Holder dans un &bPackager&r et l'autre dans un &bUnpackager&r, tous deux connectés à un réseau ME.",
   "chapter.stage.4.quest.131.description.3": "Le Packager acceptera les objets et les transformera en Paquets de Recettes, tandis que l'Unpackager les prendra et les déposera dans un inventaire adjacent.",
-  "chapter.stage.4.quest.131.description.4": "Les deux machines informent le Réseau ME de ce qu'elles peuvent faire en fonction du package recipe holder, et le Packager, lorsqu'il est connecté, éjecte les paquets dans le réseau."
+  "chapter.stage.4.quest.131.description.4": "Les deux machines informent le Réseau ME de ce qu'elles peuvent faire en fonction du package recipe holder, et le Packager, lorsqu'il est connecté, éjecte les paquets dans le réseau.",
+
+  "Stage 5":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.stage.5.title": "Étape 5",
+
+  "chapter.stage.5.quest.1.subtitle.1": "Un Chassis Vraiment Meilleur",
+  "chapter.stage.5.quest.1.description.1": "En utilisant la Chambre de dissolution, assemblez du Plastique, des Circuits de Contrôle Absolu, des Lingots de Desh, un Engrenage en Lumium et un Chassis de Machine Simple avec du Pink Slime.",
+
+  "chapter.stage.5.quest.2.subtitle.1": "Miner Avec des Lasers",
+  "chapter.stage.5.quest.2.description.1": "Pour générer différents types de ressources avec des lasers, vous en aurez besoin de 4.",
+
+  "chapter.stage.5.quest.3.subtitle.1": "Noyau de Laser Minier",
+  "chapter.stage.5.quest.3.description.1": "C'est la machine principale pour configurer le laser drill. Placez les 4 Drills comme sur l'image et laissez les minerais se générer !",
+
+  "chapter.stage.5.quest.4.subtitle.1": "Minage de Fluides",
+  "chapter.stage.5.quest.4.description.1": "Tout comme le Ore Laser Base, il peut extraire des choses, mais cette fois-ci sous forme de fluide !",
+
+  "chapter.stage.5.quest.5.subtitle.1": "Stabilisateur de Wither",
+  "chapter.stage.5.quest.5.description.1": "La Chambre de Stase est une machine ajoutée par Industrial Foregoing qui utilise de l'énergie pour geler et soigner tous les monstres dans sa zone de travail.",
+
+  "chapter.stage.5.quest.6.subtitle.1": "Forage du Wither",
+  "chapter.stage.5.quest.6.description.1": "Fabriquée dans la Chambre de dissolution, la Lentille Laser Violette vous permet de générer de l'EtherGas.",
+
+  "chapter.stage.5.quest.7.subtitle.1": "Production d'Ether Gas",
+  "chapter.stage.5.quest.7.description.1": "En utilisant un Laser Drill avec une Fluid Laser Base et une Lentille Laser Violette, vous produirez de l'Ether Gas lorsque le Fluid Laser Base est placé directement au-dessus d'un Wither. Ce fluide est nécessaire pour fabriquer les objets les plus coûteux d'Industrial Foregoing, y compris le chassis de machine de plus haut niveau.",
+
+  "chapter.stage.5.quest.8.subtitle.1": "Capture d'Âmes de Monstres",
+  "chapter.stage.5.quest.8.description.1": "Pour construire n'importe quel Modèle de Données de Monstre, vous devrez faire un clic droit dessus.",
+
+  "chapter.stage.5.quest.9.subtitle.1": "Agriculture par Apprentissage",
+  "chapter.stage.5.quest.9.description.1": "Le Deep Learner vous permet de stocker quelques modèles de données à l'intérieur, et les meurtres que vous effectuez commenceront à entraîner le modèle. Tous les modèles commencent en étant défectueux, et doivent être entraînés jusqu'au niveau de base dans le Deep Learner.",
+
+  "chapter.stage.5.quest.10.subtitle.1": "Butin Matrice",
+  "chapter.stage.5.quest.10.description.1": "Exécuter des simulations nécessite de l'énergie (en fonction du type de modèle) et un élément catalyseur, qui est généralement une Matrice de Prédiction.",
+
+  "chapter.stage.5.quest.11.subtitle.1": "Pilleur de Prédiction",
+  "chapter.stage.5.quest.11.description.1": "Une fois que votre modèle est Basique ou supérieur, vous pouvez utiliser la chambre de simulation pour exécuter des simulations de votre modèle. Les simulations produiront toujours une prédiction généralisée, et peuvent également produire une Prédiction de Mob, en fonction de la précision du modèle. Plus le niveau du modèle est élevé, plus la précision est grande, jusqu'à 99,5% en Self Aware.",
+
+  "chapter.stage.5.quest.12.subtitle.1": "Simulation Gaia",
+  "chapter.stage.5.quest.12.description.1": "Obtenez une prédiction du Gardien de Gaia avec la Chambre de Simulation.",
+
+  "chapter.stage.5.quest.13.subtitle.1": "Fabrication de Butin",
+  "chapter.stage.5.quest.13.description.1": "Les Prédictions de Mob devront être traitées dans un Fabricateur de Butin, un appareil qui utilise de l'énergie pour convertir les prédictions en drops de mobs. Les drops disponibles sont basés sur une liste d'articles prédéfinis, et une cible peut être sélectionnée pour chaque type de modèle. Le fabricateur de butin se souviendra de vos choix pour chaque type, vous pouvez donc alimenter plusieurs types de prédictions dans un seul fabricateur.",
+
+  "chapter.stage.5.quest.14.subtitle.1": "Butin Gaia",
+  "chapter.stage.5.quest.14.description.1": "Grâce à la prédiction du Gardien de Gaia, obtenez du Gaia Skin.",
+
+  "chapter.stage.5.quest.15.subtitle.1": "Brasseur de Mana Automatique",
+
+  "chapter.stage.5.quest.16.subtitle.1": "Bassin de Mana Automatique",
+
+  "chapter.stage.5.quest.17.subtitle.1": "Marguerite Pure Automatique",
+
+  "chapter.stage.5.quest.18.subtitle.1": "Autel Runique Automatique",
+
+  "chapter.stage.5.quest.19.subtitle.1": "Agglomération Automatique",
+
+  "chapter.stage.5.quest.20.subtitle.1": "Apothicaire Automatique",
+
+  "chapter.stage.5.quest.21.subtitle.1": "Échange Automatique d'Alfheim",
+
+  "chapter.stage.5.quest.22.subtitle.1": "Stockage et Envoi de Mana",
+  "chapter.stage.5.quest.22.description.1": "C'est le bloc principal de Botanical machinery. Il vous permet de stocker du Mana et de l'envoyer à d'autres machines. N'oubliez pas d'utiliser les Étincelles avec les améliorations que vous souhaitez. (Selon ce que vous voulez faire.)",
+
+  "chapter.stage.5.quest.23.subtitle.1": "Viking, Prenez Garde",
+  "chapter.stage.5.quest.23.description.1": "Grâce à la prédiction du Gardien de Gaia, obtenez quelques Runes d'Asgard.",
+
+  "chapter.stage.5.quest.24.subtitle.1": "Meilleure Agglomération",
+  "chapter.stage.5.quest.24.description.1": "Avec l'Infuseur de Mana et le nouveau multibloc correspondant, vous pourrez fabriquer plus rapidement les Lingots Basiques de Botania.",
+
+  "chapter.stage.5.quest.25.subtitle.1": "Un Nouveau Lingot Botanique",
+  "chapter.stage.5.quest.25.description.1": "Avec le Multibloc Infuseur de Mana et 2 Bassins de Mana pleins, vous pourrez obtenir de m'&6Alfsteel&r.",
+
+  "chapter.stage.5.quest.26.subtitle.1": "Mimir a Appelé",
+
+  "chapter.stage.5.quest.27.subtitle.1": "Eau Divine",
+  "chapter.stage.5.quest.27.description.1": "D'abord, cliquez droit avec le Gjallarhorn, puis en donnant une Source de Mana, la Branche remplira le Gjallarhorn.",
+
+  "chapter.stage.5.quest.28.subtitle.1": "Buvez !",
+  "chapter.stage.5.quest.28.description.1": "Après avoir attendu suffisamment longtemps, vous obtiendrez ceci. Skål !",
+
+  "chapter.stage.5.quest.29.subtitle.1": "Nouveau Butin Gaia",
+  "chapter.stage.5.quest.29.description.1": "Après avoir bu l'Eau du puits de Mimir, vous devrez à nouveau affronter le Gaïa de Stade 2.",
+
+  "chapter.stage.5.quest.30.subtitle.1": "Rituels de Rune",
+  "chapter.stage.5.quest.30.description.1": "Mythic Botany ajoute une nouvelle manière de fabriquer des objets avancés. En fait, selon le nombre de composants, vous aurez besoin du même nombre exact de Supports de Rune et bien sûr du Support de Rune Central.",
+  "chapter.stage.5.quest.30.description.2": "Soyez prudent, les objets dans l'espace intermédiaire doivent être lâchés près du Support de Rune Central.",
+
+  "chapter.stage.5.quest.31.subtitle.1": "Vous n'êtes Pas un Vampire",
+  "chapter.stage.5.quest.31.description.1": "À travers le Rituel de Rune, vous devrez fabriquer le &4Sang de Kvasir&r. N'oubliez pas d'avoir une Tablette de Mana et votre Baguette de la Forêt.",
+
+  "chapter.stage.5.quest.32.subtitle.1": "Doux Miel au Paradis",
+  "chapter.stage.5.quest.32.description.1": "Skål ! Encore !",
+
+  "chapter.stage.5.quest.33.subtitle.1": "Portail d'Alfheim",
+
+  "chapter.stage.5.quest.34.subtitle.1": "Voyager à Alfheim",
+
+  "chapter.stage.5.quest.35.title.1": "Réacteur de Fission",
+  "chapter.stage.5.quest.35.subtitle.1": "Construire le Réacteur de Fission",
+  "chapter.stage.5.quest.35.description.1": "Combinant plusieurs méthodes de fabrication, le Réacteur de Fission peut séparer des éléments avancés.",
+
+  "chapter.stage.5.quest.36.subtitle.1": "Il a vraiment besoin de menthe",
+  "chapter.stage.5.quest.36.description.1": "Grâce à la prédiction du Dragon de l'End, obtenez un Souffle de Dragon",
+
+  "chapter.stage.5.quest.37.subtitle.1": "Souffle Dissolvant",
+  "chapter.stage.5.quest.37.description.1": "En utilisant le Dissolveur, dissoudre du &5Souffle de Dragon&r pour obtenir des Éléments Oganesson.",
+
+  "chapter.stage.5.quest.38.subtitle.1": "Fission de l'Oganesson",
+  "chapter.stage.5.quest.38.description.1": "Utilisez simplement le Réacteur de Fission avec de l'Oganesson et obtenez du Praseodymium",
+
+  "chapter.stage.5.quest.39.subtitle.1": "Compactage du Praseodymium",
+
+  "chapter.stage.5.quest.40.subtitle.1": "Fusion de la Poussière de Praseodymium",
+
+  "chapter.stage.5.quest.41.subtitle.1": "Transformation Verte",
+  "chapter.stage.5.quest.41.description.1": "Énergisez simplement un lingot de Praseodymium et obtenez des Cristaux Spirituels.",
+
+  "chapter.stage.5.quest.42.title.1": "Mineur du Vide de Tier 1",
+  "chapter.stage.5.quest.42.subtitle.1": "Multibloc Générant des Minerais",
+  "chapter.stage.5.quest.42.description.1": "Avec quelques Cristaux Spirituels, vous pourrez construire notre Mineur de Minerais Multibloc personnalisé.",
+
+  "chapter.stage.5.quest.43.subtitle.1": "Dissolution de la Pierre de l'End",
+  "chapter.stage.5.quest.43.description.1": "En utilisant le Dissolveur, dissoudre de la &5Pierre de l'End&r pour obtenir des Éléments Thorium.",
+
+  "chapter.stage.5.quest.44.subtitle.1": "Fission du Thorium",
+  "chapter.stage.5.quest.44.description.1": "Utilisez le Réacteur de Fission pour obtenir du Rhodium.",
+
+  "chapter.stage.5.quest.45.subtitle.1": "Constructeur de Turbine",
+  "chapter.stage.5.quest.45.description.1": "Construisez de Grandes Turbines. Pour les obtenir, énergisez simplement les Éléments Rhodium avec des Blocs de Graphite et de Cyanite.",
+
+  "chapter.stage.5.quest.46.subtitle.1": "Dissolution des Larmes de Ghast",
+  "chapter.stage.5.quest.46.description.1": "En utilisant le Dissolveur, dissoudre &3Larmes de Ghast&r pour obtenir des Éléments Polonium.",
+
+  "chapter.stage.5.quest.47.subtitle.1": "Fission du Polonium",
+  "chapter.stage.5.quest.47.description.1": "Utilisez le Réacteur de Fission pour obtenir du Molybdenum.",
+
+  "chapter.stage.5.quest.48.subtitle.1": "Constructeur d'Échangeur Thermique",
+  "chapter.stage.5.quest.48.description.1": "L'Échangeur Thermique est facultatif, vous pouvez créer de la vapeur avec juste le réacteur (remplacez la prise de courant par deux ports de refroidissement, un pour l'entrée d'eau et l'autre pour la sortie de vapeur).",
+  "chapter.stage.5.quest.48.description.2": "Il est uniquement nécessaire si vous voulez faire circuler un fluide différent à travers le réacteur (comme le sodium).",
+
+  "chapter.stage.5.quest.49.subtitle.1": "Offre Trois pour Un",
+  "chapter.stage.5.quest.49.description.1": "Le Compresseur Avancé peut, comme le normal, compresser tout article compatible. Mais maintenant, il peut également faire du Laminage et de l'Extrusion.",
+
+  "chapter.stage.5.quest.50.subtitle.1": "Composants de la fusée T2 - Partie 1",
+
+  "chapter.stage.5.quest.51.subtitle.1": "Composants de la fusée T2 - Partie 2",
+
+  "chapter.stage.5.quest.52.subtitle.1": "Composants de la fusée T2 - Partie 3",
+
+  "chapter.stage.5.quest.53.subtitle.1": "Composants de la fusée T2 - Partie 4",
+
+  "chapter.stage.5.quest.54.subtitle.1": "Composants de la fusée T2 - Partie 5",
+
+  "chapter.stage.5.quest.55.subtitle.1": "Construction de la fusée T2",
+  "chapter.stage.5.quest.55.description.1": "Dans l'établi de la NASA, assemblez tous les éléments précédemment demandés et fabriquez la fusée de niveau 2.",
+
+  "chapter.stage.5.quest.56.title": "Visitez la dimension : &cMars&r",
+  "chapter.stage.5.quest.56.subtitle.1": "L'enfer sur une planète",
+  "chapter.stage.5.quest.56.description.1": "Sur Mars, vous trouverez du minerai d'&cOstrum&r",
+
+  "chapter.stage.5.quest.57.subtitle.1": "Extraction des minerais de Mars",
+
+  "chapter.stage.5.quest.58.title.1": "Extracteur de Nébuleuse niveau 2 - Partie 1",
+  "chapter.stage.5.quest.58.subtitle.1": "Extraction de nébulation spatiale T2 - Partie 1",
+
+  "chapter.stage.5.quest.59.title.1": "Extracteur de Nébuleuse niveau 2 - Partie 2",
+  "chapter.stage.5.quest.59.subtitle.1": "Extraction de nébulation spatiale T2 - Partie 2",
+
+  "chapter.stage.5.quest.60.subtitle.1": "Extraction de Mars",
+  "chapter.stage.5.quest.60.description.1": "Extrayez l'étoile de Mars : Marsova Ignis, en utilisant l'extracteur de nébuleuse dans le biome du désert de Mars",
+
+  "chapter.stage.5.quest.61.subtitle.1": "Enrichissement de Marsova",
+  "chapter.stage.5.quest.61.description.1": "Obtenez du Marsova Ignis compressé simplement en utilisant la chambre d'enrichissement.",
+
+  "chapter.stage.5.quest.62.subtitle.1": "Contrôle suprême",
+  "chapter.stage.5.quest.62.description.1": "Infusez simplement un circuit de contrôle absolu avec une infusion de Marsova Ignis.",
+
+  "chapter.stage.5.quest.63.subtitle.1": "Alliage suprême",
+  "chapter.stage.5.quest.63.description.1": "Infusez simplement un alliage absolu avec une infusion de Marsova Ignis.",
+
+  "chapter.stage.5.quest.64.subtitle.1": "Tablette de stockage singulière",
+
+  "chapter.stage.5.quest.65.title.1": "Réacteur à fission",
+  "chapter.stage.5.quest.65.subtitle.1": "Réacteur à fission Mekanism",
+  "chapter.stage.5.quest.65.description.1": "Le réacteur à fission est utilisé pour créer des déchets chimiques. Vous verrez comment gérer cela plus tard.",
+
+  "chapter.stage.5.quest.66.subtitle.1": "Énergie solaire... encore",
+  "chapter.stage.5.quest.66.description.1": "Cette machine est seulement utilisée pour 2 choses. Transforme le lithium en tritium et les déchets nucléaires en polonium.",
+
+  "chapter.stage.5.quest.67.subtitle.1": "Mixeur d'isotopes",
+  "chapter.stage.5.quest.67.description.1": "Cette machine est seulement utilisée pour 2 choses. Transforme l'hexafluorure d'uranium en combustible fissile et les déchets nucléaires en plutonium.",
+
+  "chapter.stage.5.quest.68.subtitle.1": "Pressurisation de la réaction",
+  "chapter.stage.5.quest.68.description.1": "Mettez sous pression 2 fluides avec n'importe quel objet compatible et obtenez l'objet résultant et les déchets.",
+
+  "chapter.stage.5.quest.69.subtitle.1": "Création de plutonium",
+  "chapter.stage.5.quest.69.description.1": "Mettez sous pression le gaz de plutonium avec n'importe quel gaz compatible et obtenez des pastilles de plutonium. Attention, les déchets usés sont radioactifs ! Vous pouvez les stocker dans un baril de déchets radioactifs",
+
+  "chapter.stage.5.quest.70.subtitle.1": "Création de polonium",
+  "chapter.stage.5.quest.70.description.1": "Mettez sous pression le gaz de polonium avec n'importe quel gaz compatible et obtenez des pastilles de polonium. Attention, les déchets usés sont radioactifs ! Vous pouvez les stocker dans un baril de déchets radioactifs"
 }
