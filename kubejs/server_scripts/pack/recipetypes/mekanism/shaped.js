@@ -1136,7 +1136,7 @@ onEvent('recipes', (event) => {
             output: Item.of('mekaevolution:infinite_universal_cable', 4),
             pattern: ['BBB', 'BAB', 'BBB'],
             key: {
-                A: 'chroma:cosmic_alloy',
+                A: 'chroma:infinite_alloy',
                 B: 'mekaevolution:cosmic_universal_cable',
             },
             id: 'mekaevolution:infinite_universal_cable'
@@ -1145,7 +1145,7 @@ onEvent('recipes', (event) => {
             output: Item.of('mekaevolution:infinite_mechanical_pipe', 4),
             pattern: ['BBB', 'BAB', 'BBB'],
             key: {
-                A: 'chroma:cosmic_alloy',
+                A: 'chroma:infinite_alloy',
                 B: 'mekaevolution:cosmic_mechanical_pipe',
             },
             id: 'mekaevolution:infinite_mechanical_pipe'
@@ -1154,7 +1154,7 @@ onEvent('recipes', (event) => {
             output: Item.of('mekaevolution:infinite_logistical_transporter', 4),
             pattern: ['BBB', 'BAB', 'BBB'],
             key: {
-                A: 'chroma:cosmic_alloy',
+                A: 'chroma:infinite_alloy',
                 B: 'mekaevolution:cosmic_logistical_transporter',
             },
             id: 'mekaevolution:infinite_logistical_transporter'
