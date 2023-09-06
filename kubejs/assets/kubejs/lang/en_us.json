@@ -1873,5 +1873,69 @@
 
   "chapter.machinery.quest.16.title.1": "Look at a complete &6Diesel Generator",
   "chapter.machinery.quest.16.subtitle.1": "Ultimate Immersive Generator",
-  "chapter.machinery.quest.16.description.1": "The Diesel Generator is a 3×5×3 multiblock added by Immersive Engineering. It generates Immersive Flux (IF) or Redstone Flux (RF) by burning Biodiesel or other modded fuels. A running Diesel Generator makes a fair amount of noise. The Ear Defenders can selectively muffle its sound."
+  "chapter.machinery.quest.16.description.1": "The Diesel Generator is a 3×5×3 multiblock added by Immersive Engineering. It generates Immersive Flux (IF) or Redstone Flux (RF) by burning Biodiesel or other modded fuels. A running Diesel Generator makes a fair amount of noise. The Ear Defenders can selectively muffle its sound.",
+
+  "Powah":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.powah.title": "Powah",
+
+  "chapter.powah.quest.1.title": "Reactor Tips",
+  "chapter.powah.quest.1.subtitle.1": "The Reactor is a multi-block generator that use Uraninite as main fuel.",
+  "chapter.powah.quest.1.description.1": "To Build it you will need 36 Reactor block in your hand and placing them in a 3X4 replaceable area, then the reactor will complete building itself automatically.",
+  "chapter.powah.quest.1.description.2": "When Generating energy the reactor heats up causing it to consume fuel faster and generating less FE/t, so you need to cool it down using a coolant like water, also you can use a solid coolant like snow or ice for extra coldness, solid coolant require liquid coolant to work.",
+
+  "chapter.powah.quest.2.title": "Solar Panel Tips",
+  "chapter.powah.quest.2.subtitle.1": "Sun Power",
+  "chapter.powah.quest.2.description.1": "The Solar Panel is an FE generator that generates energy when exposed to sunlight, high tiers generates more FE/t, any block that stop light above the Solar panel will stop its production.",
+
+  "chapter.powah.quest.3.title": "Magmator Tips",
+  "chapter.powah.quest.3.subtitle.1": "The Magmator is an FE generator that generates energy from high temp fluids like lava.",
+  "chapter.powah.quest.3.description.1": "High tiers generate more FE/t and it has higher energy output, also they burn the fuel faster with the same energy gained per fuel tick.",
+
+  "chapter.powah.quest.4.title": "Furnator Tips",
+  "chapter.powah.quest.4.subtitle.1": "The Furnator is a FE generator that generates energy from solid Furnace fuel like coal, wood...",
+  "chapter.powah.quest.4.description.1": "High tiers generate more FE/t and it has higher energy output, also they furn the fuel faster with the same energy gained per fuel tick.",
+
+  "chapter.powah.quest.5.title": "Thermo Generators Tips",
+  "chapter.powah.quest.5.subtitle.1": "Hot Stuff",
+  "chapter.powah.quest.5.description.1": "The Thermo Generator is an FE generator that generates energy when placed on top of a high temp block/fluid like lava, require a coolant fluid like water to run.",
+
+  "chapter.powah.quest.6.title": "Battery Tips",
+  "chapter.powah.quest.6.subtitle.1": "Charging",
+  "chapter.powah.quest.6.description.1": "Charge items when is in player inventory, can Also be used to upgrade the capacity of a Ender Network channel by Shift blocking a Battery to an Ender Cell GUI, is the Battery contain energy then will also be applied to the ender network channel.",
+
+  "chapter.powah.quest.7.title": "Energy Cell Tips",
+  "chapter.powah.quest.7.subtitle.1": "The Energy Cell its a block used to store energy.",
+  "chapter.powah.quest.7.description.1": "Can Also be used to add capacity to an Ender Network channel by Shift-clicking it to an Ender Cell GUI, if the Energy Cell contains energy then will also be applied to the ender network channel.",
+
+  "chapter.powah.quest.8.title": "Ender Cell Tips",
+  "chapter.powah.quest.8.subtitle.1": "The Ender Cell its a block used to store energy to a specific channel of the ender network of the owner.",
+  "chapter.powah.quest.8.description.1": "You can acces the energy stored of a selected channel from anywhere in the world if the Ender Cell that you want to transfer power from/to have an active channel with a valid capacity.",
+  "chapter.powah.quest.8.description.2": "You can add capacity to a selected channel by shift-clicking an Energy Cell or Battery to the Ender Cell GUI.",
+  "chapter.powah.quest.8.description.3": "The amout added is the same of the item you've added, max capacity a channel can have is 9E FE.",
+
+  "chapter.powah.quest.9.title": "Tips for Cables",
+  "chapter.powah.quest.9.subtitle.1": "Cable are used to transfer power between machines.",
+  "chapter.powah.quest.9.description.1": "You can change transfer mode by right-clicking a cable using Whrench with Config mode selected.",
+
+  "chapter.powah.quest.10.title": "Gate of Ender",
+  "chapter.powah.quest.10.subtitle.1": "Transferring Ender",
+  "chapter.powah.quest.10.description.1": "Transfer energy between the adjacent block and the ender network.",
+  "chapter.powah.quest.10.description.2": "Unlike the Ender cell you can not upgrade the network from it.",
+
+  "chapter.powah.quest.11.title": "Discharging Energy",
+  "chapter.powah.quest.11.subtitle.1": "Draining",
+  "chapter.powah.quest.11.description.1": "The Energy Discharger its a block used to drain energy out of charged items and them store it to an internal buffer if then connected via cables to extract that stored power and re-using it again.",
+
+  "chapter.powah.quest.12.title": "Hopping Energy",
+  "chapter.powah.quest.12.subtitle.1": "Charging Items",
+  "chapter.powah.quest.12.description.1": "The energy Hopper its a block used to charge chargeable items inside an adjacent inventory like a chest or any block with an accessible inventory and not a not has forge energy.",
+
+  "chapter.powah.quest.13.title": "Player Transmiter",
+  "chapter.powah.quest.13.subtitle.1": "Inventory Charger",
+  "chapter.powah.quest.13.description.1": "The Player Transmitter its a block used to charge items wirelessly in linked player inventory including armor slots and off-hand anywhere in the same dimension when has normal binding card and accross dimension when has a dimensional binding card.",
+
+  "chapter.powah.quest.14.title": "Energizing Rod",
+  "chapter.powah.quest.14.subtitle.1": "Crafting Rods",
+  "chapter.powah.quest.14.description.1": "The Energizing Orb its a block used to energize items, require at least one Energizing Rod in range of 9X9 to work, the energizing speed depends on amout of rods and the rod tier. ",
 }
