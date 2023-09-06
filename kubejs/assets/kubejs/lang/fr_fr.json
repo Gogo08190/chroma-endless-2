@@ -1752,8 +1752,8 @@
   "chapter.stage.7.quest.31.description.33": "• 36 Energy Core Stabilizer",
 
   "chapter.stage.7.quest.32.subtitle.1": "Antimatière",
-  "chapter.stage.7.quest.32.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
-  "chapter.stage.7.quest.32.description.2": "The optimal minimal build consists of :",
+  "chapter.stage.7.quest.32.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs recettes de fin de partie.",
+  "chapter.stage.7.quest.32.description.2": "La construction minimale optimale se compose de :",
   "chapter.stage.7.quest.32.description.3": "• 60 Structures du SPS (+12 matériaux de fabrication pour 3 Ports du SPS)",
   "chapter.stage.7.quest.32.description.4": "• 123 Verres de réacteur ou verre structurel",
   "chapter.stage.7.quest.32.description.5": "• 3 Ports du SPS",
@@ -1787,10 +1787,10 @@
   "chapter.stage.7.quest.42.subtitle.1": "Butin du chaos",
 
   "chapter.stage.7.quest.43.subtitle.1": "Contrôle du Chaos",
-"chapter.stage.7.quest.43.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combinez un Draconic Energy Controller, des Small Chaos Fragments, un Infinite Control Circuit avec un Draconic Core.",
+  "chapter.stage.7.quest.43.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combinez un Draconic Energy Controller, des Small Chaos Fragments, un Infinite Control Circuit avec un Draconic Core.",
 
-"chapter.stage.7.quest.44.subtitle.1": "Cœur du Chaos",
-"chapter.stage.7.quest.44.description.1": "Avec le Fusion Crafting Core au tier Draconique, combinez les Draconic Cores et des lingots d'Awakened Draconium avec un Large Chaos Fragments.",
+  "chapter.stage.7.quest.44.subtitle.1": "Cœur du Chaos",
+  "chapter.stage.7.quest.44.description.1": "Avec le Fusion Crafting Core au tier Draconique, combinez les Draconic Cores et des lingots d'Awakened Draconium avec un Large Chaos Fragments.",
 
   "chapter.stage.7.quest.45.subtitle.1": "Injecteur Chaotic",
   "chapter.stage.7.quest.45.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combiner des Draconic Cores, Large Chaos Fragments, un Dragon Egg, un pastille d'Antimatière et un Chaotic Core avec un Awakened Crafting Injector.",
