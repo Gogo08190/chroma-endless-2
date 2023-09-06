@@ -350,7 +350,7 @@ onEvent('recipes', (event) => {
         {
             inputs: [
                 'industrialforegoing:plastic',
-                'mekaevolution:plasma_sword',
+                'forbidden_arcanus:draco_arcanus_sword',
                 'industrialforegoing:plastic',
                 'mob_grinding_utils:saw',
                 'mob_grinding_utils:saw',
