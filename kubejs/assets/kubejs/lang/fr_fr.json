@@ -1873,5 +1873,69 @@
 
   "chapter.machinery.quest.16.title.1": "Regardez un &6Générateur Diesel&r complet",
   "chapter.machinery.quest.16.subtitle.1": "Générateur d'Immersive ultime",
-  "chapter.machinery.quest.16.description.1": "Le Générateur Diesel est une structure multi-blocs de dimensions 3×5×3 ajoutée par Immersive Engineering. Il génère du Flux Immersif (IF) ou du Flux de Redstone (RF) en brûlant du Biodiesel ou d'autres carburants. Un Générateur Diesel en marche émet un bruit assez important. Les protecteurs d'oreilles peuvent atténuer son bruit."
+  "chapter.machinery.quest.16.description.1": "Le Générateur Diesel est une structure multi-blocs de dimensions 3×5×3 ajoutée par Immersive Engineering. Il génère du Flux Immersif (IF) ou du Flux de Redstone (RF) en brûlant du Biodiesel ou d'autres carburants. Un Générateur Diesel en marche émet un bruit assez important. Les protecteurs d'oreilles peuvent atténuer son bruit.",
+
+  "Powah":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.powah.title": "Powah",
+
+  "chapter.powah.quest.1.title": "Conseils sur les Réacteurs",
+  "chapter.powah.quest.1.subtitle.1": "Le réacteur est un générateur multi-bloc qui utilise l'uraninite comme carburant principal.",
+  "chapter.powah.quest.1.description.1": "Pour le construire, vous aurez besoin de 36 blocs de réacteur dans votre main et de les placer dans une zone remplaçable de 3X4, puis le réacteur terminera sa construction automatiquement.",
+  "chapter.powah.quest.1.description.2": "Lors de la génération d'énergie, le réacteur chauffe, ce qui le pousse à consommer du carburant plus rapidement et à générer moins de FE/t, vous devez donc le refroidir en utilisant un liquide de refroidissement comme l'eau, vous pouvez également utiliser un liquide de refroidissement solide comme la neige ou la glace pour un refroidissement supplémentaire, le refroidissement solide nécessite un refroidissement liquide pour fonctionner.",
+
+  "chapter.powah.quest.2.title": "Conseils sur les Panneaux Solaires",
+  "chapter.powah.quest.2.subtitle.1": "Énergie Solaire",
+  "chapter.powah.quest.2.description.1": "Le panneau solaire est un générateur FE qui génère de l'énergie lorsqu'il est exposé à la lumière du soleil, les niveaux supérieurs génèrent plus de FE/t, tout bloc qui arrête la lumière au-dessus du panneau solaire arrêtera sa production.",
+
+  "chapter.powah.quest.3.title": "Conseils sur les Magmators",
+  "chapter.powah.quest.3.subtitle.1": "Le Magmator est un générateur FE qui génère de l'énergie à partir de fluides à haute température comme la lave.",
+  "chapter.powah.quest.3.description.1": "Les niveaux supérieurs génèrent plus de FE/t et ont une sortie d'énergie plus élevée, de plus, ils brûlent le carburant plus rapidement avec la même énergie gagnée par tic de carburant.",
+
+  "chapter.powah.quest.4.title": "Conseils sur les Chaudières",
+  "chapter.powah.quest.4.subtitle.1": "Le Chaudière est un générateur FE qui génère de l'énergie à partir de combustible solide pour four comme le charbon, le bois...",
+  "chapter.powah.quest.4.description.1": "Les niveaux supérieurs génèrent plus de FE/t et ont une sortie d'énergie plus élevée, de plus, ils consomment le carburant plus rapidement avec la même énergie gagnée par tic de carburant.",
+
+  "chapter.powah.quest.5.title": "Conseils sur les Thermogénérateurs",
+  "chapter.powah.quest.5.subtitle.1": "Trucs Chauds",
+  "chapter.powah.quest.5.description.1": "Le thermogénérateur est un générateur FE qui génère de l'énergie lorsqu'il est placé sur un bloc/fluide à haute température comme la lave, il nécessite un fluide de refroidissement comme l'eau pour fonctionner.",
+
+  "chapter.powah.quest.6.title": "Conseils sur les Piles",
+  "chapter.powah.quest.6.subtitle.1": "Chargement",
+  "chapter.powah.quest.6.description.1": "Charge les objets lorsqu'ils sont dans l'inventaire du joueur, peut également être utilisé pour augmenter la capacité d'un canal de réseau Ender en cliquant dessus avec la touche Maj enfoncée sur une interface GUI de Cellule de l'End, si la batterie contient de l'énergie, elle sera également appliquée au canal de réseau ender.",
+
+  "chapter.powah.quest.7.title": "Conseils sur les Cellules d'énergie",
+  "chapter.powah.quest.7.subtitle.1": "La cellule d'énergie est un bloc utilisé pour stocker de l'énergie.",
+  "chapter.powah.quest.7.description.1": "Peut également être utilisé pour ajouter de la capacité à un canal de réseau Ender en cliquant dessus avec la touche Maj enfoncée sur une interface GUI de cellule de l'End, si la cellule d'énergie contient de l'énergie, elle sera également appliquée au canal de réseau ender.",
+
+  "chapter.powah.quest.8.title": "Conseils sur les Cellules de l'End",
+  "chapter.powah.quest.8.subtitle.1": "La cellule de l'End est un bloc utilisé pour stocker de l'énergie dans un canal spécifique du réseau ender du propriétaire.",
+  "chapter.powah.quest.8.description.1": "Vous pouvez accéder à l'énergie stockée d'un canal sélectionné de n'importe où dans le monde si la cellule de l'End d'où vous souhaitez transférer de l'énergie dispose d'un canal actif avec une capacité valide.",
+  "chapter.powah.quest.8.description.2": "Vous pouvez ajouter de la capacité à un canal sélectionné en cliquant avec la touche Maj sur une cellule d'énergie ou une Batterie dans l'interface GUI de la cellule de l'End.",
+  "chapter.powah.quest.8.description.3": "La quantité ajoutée est la même que celle de l'objet que vous avez ajouté, la capacité maximale qu'un canal peut avoir est de 9E FE.",
+
+  "chapter.powah.quest.9.title": "Conseils sur les Câbles",
+  "chapter.powah.quest.9.subtitle.1": "Les câbles servent à transférer de l'énergie entre les machines.",
+  "chapter.powah.quest.9.description.1": "Vous pouvez changer le mode de transfert en cliquant avec le bouton droit sur un câble en utilisant une clé à molette en mode Config sélectionné.",
+
+  "chapter.powah.quest.10.title": "Porte de l'End",
+  "chapter.powah.quest.10.subtitle.1": "Transfert Ender",
+  "chapter.powah.quest.10.description.1": "Transfère de l'énergie entre le bloc adjacent et le réseau ender.",
+  "chapter.powah.quest.10.description.2": "Contrairement à la cellule de l'End, vous ne pouvez pas améliorer le réseau depuis celle-ci.",
+
+  "chapter.powah.quest.11.title": "Déchargeur d'Énergie",
+  "chapter.powah.quest.11.subtitle.1": "Drainage",
+  "chapter.powah.quest.11.description.1": "Le Déchargeur d'Énergie est un bloc utilisé pour drainer l'énergie des objets chargés et ensuite la stocker dans un tampon interne, puis, s'il est connecté par des câbles, extraire cette énergie stockée pour la réutiliser.",
+
+  "chapter.powah.quest.12.title": "Entonnoir à énergie",
+  "chapter.powah.quest.12.subtitle.1": "Chargement d'Objets",
+  "chapter.powah.quest.12.description.1": "L'entonnoir à énergie est un bloc utilisé pour charger des objets pouvant être chargés à l'intérieur d'un inventaire adjacent, comme un coffre ou tout autre bloc ayant un inventaire accessible et ne possédant pas d'énergie de forge.",
+
+  "chapter.powah.quest.13.title": "Transmetteur Joueur",
+  "chapter.powah.quest.13.subtitle.1": "Chargeur d'Inventaire",
+  "chapter.powah.quest.13.description.1": "Le Transmetteur Joueur est un bloc utilisé pour charger sans fil des objets dans l'inventaire du joueur lié, y compris les emplacements d'armure et la main secondaire, n'importe où dans la même dimension quand il a une carte de liaison normale et entre les dimensions quand il possède une carte de liaison dimensionnelle.",
+
+  "chapter.powah.quest.14.title": "Orbe énergisant",
+  "chapter.powah.quest.14.subtitle.1": "Fabrication d'Orbes",
+  "chapter.powah.quest.14.description.1": "L'Orbe Énergisant est un bloc utilisé pour énergiser des objets. Il nécessite au moins une Orbe énergisant dans une plage de 9X9 pour fonctionner. La vitesse d'énérgisation dépend du nombre d'orbes et du niveau de l'orbe."
 }
