@@ -777,7 +777,7 @@
   "chapter.stage.3.quest.51.subtitle.1": "Basic Auto-Crafting",
   "chapter.stage.3.quest.51.description.1": "Auto Craft Basic Craftings with FE !",
   "chapter.stage.3.quest.51.description.2": "In order to Auto Craft, don't forget to put any inventory (like a chest) on the top of the Auto Crafting Table.",
-  "chapter.stage.3.quest.51.description.3": "Then setup the wanted craft and save it with Shift + Left Click on the top left corner (1, 2, 3). Note that it will only auto craft the selected saved slot.",
+  "chapter.stage.3.quest.51.description.3": "Then setup the wanted craft and save it with Shift + Left Click on the top right corner (1, 2, 3). Note that it will only auto craft the selected saved slot.",
 
   "chapter.stage.3.quest.52.subtitle.1": "Advanced Auto-Crafting",
   "chapter.stage.3.quest.52.description.1": "Auto Craft Advanced Craftings with FE !",
@@ -1307,6 +1307,7 @@
 
   "chapter.stage.5.quest.1.subtitle.1": "A Really Better Frame",
   "chapter.stage.5.quest.1.description.1": "Using the Dissolution Chamber, assemble Plastics , Absolute Control Circuits , Desh Ingots, a Lumium Gear and a Simple Machine Frame with Pink Slime.",
+
   "chapter.stage.5.quest.2.subtitle.1": "Mining With Lasers",
   "chapter.stage.5.quest.2.description.1": "In order to generate different kind of ressources with Lasers, you will need 4 of them.",
 
@@ -1500,7 +1501,6 @@
 
   "chapter.stage.5.quest.70.subtitle.1": "Creating Polonium",
   "chapter.stage.5.quest.70.description.1": "Pressurize the Polonium Gas with any compatible gas and get some Polonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
-
 
   "Stage 6":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
