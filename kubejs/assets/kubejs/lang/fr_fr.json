@@ -776,6 +776,8 @@
 
   "chapter.stage.3.quest.51.subtitle.1": "Artisanat Automatique de Base",
   "chapter.stage.3.quest.51.description.1": "Artisanat Automatique des Artisanats de Base avec des FE !",
+  "chapter.stage.3.quest.51.description.2": "Afin d'automatiser la table, n'oubliez pas de placer un inventaire (comme une coffre) au-dessus de la Table de craft Automatique.",
+  "chapter.stage.3.quest.51.description.3": "Ensuite, configurez la recette souhaitée et enregistrez-la avec Maj + Clic Gauche dans le coin supérieur gauche (1, 2, 3). Notez qu'il ne fabriquera automatiquement que l'emplacement sauvegardé sélectionné.",
 
   "chapter.stage.3.quest.52.subtitle.1": "Artisanat Automatique Avancé",
   "chapter.stage.3.quest.52.description.1": "Artisanat Automatique des Artisanats Avancés avec des FE !",
@@ -1615,8 +1617,7 @@
 
   "chapter.stage.6.quest.39.subtitle.1": "Configuration de Démarrage du Réacteur",
   "chapter.stage.6.quest.39.description.1": "&bLe Réacteur de Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
-  "chapter.stage.6.quest.39.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutéri
-um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
+  "chapter.stage.6.quest.39.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutérium et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
   "chapter.stage.6.quest.39.description.3": "L'onglet statistiques détaille la température d'ignition nécessaire pour que la réaction commence. Pour atteindre cette température, un Amplificateur Laser doit être chargé d'énergie provenant de plusieurs Lasers l'alimentant, et tiré dans la Matrice de Focus Laser. L'énergie nécessaire pour démarrer la réaction requiert 400MFE. Elle doit être injectée en une seule grande impulsion pour éviter que la température ne se dissipe, donc ajouter une sensibilité au Redstone ou augmenter l'énergie minimale requise par l'Amplificateur empêchera son déclenchement prématuré.",
   "chapter.stage.6.quest.39.description.4": "Avec le Hohlraum dans le Contrôleur de Réacteur et suffisamment d'énergie stockée dans l'Amplificateur, tirez le laser pour commencer la réaction de fusion. Si une température suffisamment élevée a été atteinte, vous devriez immédiatement voir et entendre le réacteur fonctionner. Pour soutenir la réaction, la température ne doit pas descendre en dessous de la température d'ignition. Assurez-vous que le taux d'injection est suffisamment élevé et que le carburant est constamment fourni.",
 
@@ -1803,5 +1804,74 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
   "chapter.stage.7.quest.48.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Tiny Chaos Fragments.",
 
   "chapter.stage.7.quest.49.subtitle.1": "Fabrication du Chaos Partie 2",
-  "chapter.stage.7.quest.49.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Chaos Hearts."
+  "chapter.stage.7.quest.49.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Chaos Hearts.",
+
+  "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.machinery.title": "Machinerie Lourde",
+
+  "chapter.machinery.quest.1.title.1": "Regardez un &6Concasseur&r complet",
+  "chapter.machinery.quest.1.subtitle.1": "Concassage Immersif",
+  "chapter.machinery.quest.1.description.1": "Le Concasseur est un multibloc de 3×5×3 ajouté par Immersive Engineering. Il est utilisé pour broyer les minerais en poudre, ce qui est plus efficace que de cuire directement le minerais.",
+  "chapter.machinery.quest.1.description.2": "Le Concasseur n'a pas d'interface graphique. La machine accepte toute forme d'énergie Forge (FE) ou Redstone Flux (RF) par le haut du multibloc.",
+
+  "chapter.machinery.quest.2.title.1": "Regardez une &6Scie a bois&r complète",
+  "chapter.machinery.quest.2.subtitle.1": "Sciage de Planches",
+  "chapter.machinery.quest.2.description.1": "La Scie a bois est un multibloc de traitement du bois 3×5×3 ajouté par Immersive Engineering. Elle transforme 1 Bûche en 6 Planches.",
+
+  "chapter.machinery.quest.3.title.1": "Regardez un &6Assembleur&r complet",
+  "chapter.machinery.quest.3.subtitle.1": "Autocrafting Immersif",
+  "chapter.machinery.quest.3.description.1": "L'Assembleur est un multi-bloc 3x3x3 ajouté par Immersive Engineering. Il est utilisé pour fabriquer automatiquement des objets. Les recettes peuvent être définies à l'intérieur de l'Assembleur. Les réservoirs de liquide dans l'Assembleur sont également capables d'utiliser des seaux de liquide comme pour fabriquer le Bois Traités.",
+
+  "chapter.machinery.quest.4.title.1": "Regardez un &6Atelier de l'Ingénieur Automatisé&r complet",
+  "chapter.machinery.quest.4.subtitle.1": "Automatisation des Plans de l'ingénieur",
+  "chapter.machinery.quest.4.description.1": "L'Atelier de l'ingénieur automatisé est un multi-bloc de 3x2x3 ajouté par Immersive Engineering. C'est une version automatisée de l'Établi de l'ingénieur. Le Flux Redstone (RF) est nécessaire pour que l'Atelier de l'ingénieur automatisé fonctionne. Il est introduit par l'endroit où se trouvait le Bloc d'ingénierie léger lors de la création de la structure multi-bloc. Dans l'interface de l'Atelier de l'ingénieur automatisé, un Plan d'ingénieur doit être ajouté pour qu'il fonctionne.",
+
+  "chapter.machinery.quest.5.title.1": "Regardez un &6Réservoir&r complet",
+  "chapter.machinery.quest.5.subtitle.1": "Stockage de liquide",
+  "chapter.machinery.quest.5.description.1": "Le réservoir peut stocker 512 000 mB (512 seaux). Les liquides peuvent être acheminés par le haut et extraits par les blocs du bas. Pour que le liquide soit retiré, un signal redstone est nécessaire. De plus, une pompe à fluide (Immersive Engineering) peut être utilisée pour accélérer la sortie.",
+
+  "chapter.machinery.quest.6.title.1": "Regardez un &6Silo à objets&r complet",
+  "chapter.machinery.quest.6.subtitle.1": "Stockage d'objets",
+  "chapter.machinery.quest.6.description.1": "Le Silo en Tôle peut stocker 41 472 objets (l'équivalent de 24 coffres). Cependant, tous ces objets doivent être identiques. Les objets peuvent être introduits par le bloc supérieur et retirés par le bloc inférieur. Le retrait des objets nécessite un signal Redstone. Le Silo affichera visuellement l'objet stocké et sa quantité sur chaque côté du Silo.",
+
+  "chapter.machinery.quest.7.title.1": "Regardez un &6Oil Tank&r complet",
+  "chapter.machinery.quest.7.subtitle.1": "Un meilleur stockage de fluides.",
+  "chapter.machinery.quest.7.description.1": "Le Oil Tank est un réservoir de liquide auto-nivelant plus grand que le Fluid Tank normal, avec des ports de fluide en haut et en bas de chaque côté. Il peut stocker 1024B de tout fluide non gazeux.",
+
+  "chapter.machinery.quest.8.title.1": "Regardez un &6Haut fourneau amélioré&r complet",
+  "chapter.machinery.quest.8.subtitle.1": "Sujet brûlant",
+  "chapter.machinery.quest.8.description.1": "Le Haut fourneau amélioré est un four multibloc ajouté par Immersive Engineering qui allie le fer avec du coke pour produire de l'acier. C'est le niveau supérieur du Haut fourneau brut, capable d'être automatisé et plus rapide une fois que les préchauffeurs de haut fourneau sont ajoutés.",
+  "chapter.machinery.quest.8.description.2": "Le Haut fourneau amélioré possède des trappes pour exporter automatiquement l'acier et le slag dans les inventaires adjacents. Le coke et le fer peuvent être introduits par le haut du four. L'acier sort par l'avant, et le slag sort par l'arrière. Les trous de chaque côté servent à ajouter les préchauffeurs de haut fourneau.",
+
+  "chapter.machinery.quest.9.title.1": "Regardez un &6High-Pressure Refinery Unit&r complet",
+  "chapter.machinery.quest.9.subtitle.1": "Raffinage Immersif",
+  "chapter.machinery.quest.9.description.1": "L'High Pressure Refinery Unit chauffe et combine des fluides dans son tambour de réaction principal. Elle est essentielle aux chaînes de processus secondaires dans le raffinage pétrolier moderne, y compris le craquage et la désulfuration.",
+
+  "chapter.machinery.quest.10.title.1": "Regardez un &6Distillation Tower&r complète",
+  "chapter.machinery.quest.10.subtitle.1": "Distillation en colonne",
+  "chapter.machinery.quest.10.description.1": "La Distillation Tower est un grand multi-bloc de 4x16x4 ajouté par Immersive Petroleum, utilisé pour transformer des fluides en d'autres fluides. Elle est principalement utilisée pour convertir le Pétrole Brut en Diesel et Gasoline ainsi qu'en Lubrifiant, créant du bitumen comme sous-produit.",
+
+  "chapter.machinery.quest.11.title.1": "Regardez un &6Derrick&r complet",
+  "chapter.machinery.quest.11.subtitle.1": "Tour de Localisation de Pétrole",
+
+  "chapter.machinery.quest.12.title.1": "Regardez un &6Coker&r complet",
+  "chapter.machinery.quest.12.subtitle.1": "Craqueur de Bitume",
+  "chapter.machinery.quest.12.description.1": "Le Coker est une machine massive qui fissure et carbonise le bitume résiduel de la distillation en coke de pétrole et en diesel sulfuré.",
+
+  "chapter.machinery.quest.13.title.1": "Regardez un &6Excavateur&r complet",
+  "chapter.machinery.quest.13.subtitle.1": "Génération de Minerais",
+  "chapter.machinery.quest.13.description.1": "L'Excavator est une machine multibloc de 8×3×7 ajoutée par Immersive Engineering qui creuse dans les gisements minéraux situés sous le bedrock.",
+
+  "chapter.machinery.quest.14.title.1": "Regardez un &6Pumpjack&r complet",
+  "chapter.machinery.quest.14.subtitle.1": "Maestro de Pompage",
+  "chapter.machinery.quest.14.description.1": "Le Pumpjack est un multibloc de 6×4×3 ajouté par Immersive Petroleum. Il extrait des liquides comme le Crude Oil de réservoirs situés sous le bedrock. Une Foreuse d'échantillonnage teste la présence de ces réservoirs. Une fois alimenté et qu'un tuyau vide est connecté à l'un des ports de liquide, le pumpjack opère à un débit de 15 mB/tick. Si un réservoir est présent en dessous, il amène le Crude Oil à la surface. Plusieurs Pumpjacks dans un même chunk augmentent le taux d'extraction. Si le réservoir est vidé, jusqu'à 6 mB/tick de Crude Oil peuvent continuer à être extraits du réservoir vidé en utilisant un seul Pumpjack.",
+
+  "chapter.machinery.quest.15.title.1": "Regardez un &6Paratonnerre&r complet",
+  "chapter.machinery.quest.15.subtitle.1": "Énergie de l'Orage",
+  "chapter.machinery.quest.15.description.1": "Le Paratonnerre est relativement simple à fabriquer. Il utilise 8 blocs de bobine en cuivre, 4 échafaudages en acier, 4 condensateurs haute tension, 4 blocs d'ingénierie légère, 4 clôtures en bois traité et 3 blocs de bobine haute tension.",
+
+  "chapter.machinery.quest.16.title.1": "Regardez un &6Générateur Diesel&r complet",
+  "chapter.machinery.quest.16.subtitle.1": "Générateur d'Immersive ultime",
+  "chapter.machinery.quest.16.description.1": "Le Générateur Diesel est une structure multi-blocs de dimensions 3×5×3 ajoutée par Immersive Engineering. Il génère du Flux Immersif (IF) ou du Flux de Redstone (RF) en brûlant du Biodiesel ou d'autres carburants. Un Générateur Diesel en marche émet un bruit assez important. Les protecteurs d'oreilles peuvent atténuer son bruit."
 }
