@@ -969,6 +969,7 @@
   "chapter.stage.4.quest.14.subtitle.1": "Extra Modulation",
   "chapter.stage.4.quest.14.description.1": "Can upgrade Tubes Modules to unlock extra module configurations. Also used for Crafting Component.",
 
+  "chapter.stage.4.quest.15.title" : "Pneumatic Assembler",
   "chapter.stage.4.quest.15.subtitle.1": "Yes, Another Crafing Method",
   "chapter.stage.4.quest.15.description.1": "To be able to craft higher tier materials, you'll need an &5Assembly System&r, a collection of Assembly Machines.",
   "chapter.stage.4.quest.15.description.2": "These machines communicate with each other when they're horizontally ajacent. Only one machine of each type can exist.",
@@ -1129,6 +1130,7 @@
   "chapter.stage.4.quest.69.subtitle.1": "Autocrafting Component",
   "chapter.stage.4.quest.69.description.1": "Using the Dissolution Chamber, assemble HDPE Sheets , All Processors, a ME Fluix Glass with Molten Certuz Quartz.",
 
+  "chapter.stage.4.quest.70.title": "Crafting Storages",
   "chapter.stage.4.quest.70.subtitle.1": "Operating Autocrafts",
   "chapter.stage.4.quest.70.description.1": "Prior to executing an auto-crafting operation, you must possess a dedicated device to house the crafting request as well as any intermediate items necessary for multi-step crafts. This specialized device is referred to as a &6crafting CPU&r.",
   "chapter.stage.4.quest.70.description.2": "A crafting CPU is a composite structure formed by assembling multiple blocks into a coherent unit. At a minimum, it necessitates a &bCrafting Storage&r block, and it can also incorporate additional Crafting Units. The configuration of this multiblock can vary in size, but it must be shaped as a solid cuboid in order to successfully establish and operate.",
@@ -1159,7 +1161,8 @@
   "chapter.stage.4.quest.79.subtitle.1": "Nobody Can Hear You Dying",
   "chapter.stage.4.quest.79.description.1": "Without this you won't be able to breathe in Space.",
 
-  "chapter.stage.4.quest.80.subtitle.1": "Space Suit",
+  "chapter.stage.4.quest.80.title" : "Space Armor",
+  "chapter.stage.4.quest.80.subtitle.1": "Space Protection",
   "chapter.stage.4.quest.80.description.1": "A Really Good protection for space exploration.",
 
   "chapter.stage.4.quest.81.subtitle.1": "Space Crafting Table",
@@ -1293,10 +1296,12 @@
   "chapter.stage.4.quest.127.subtitle.1": "Induction Storing",
   "chapter.stage.4.quest.127.description.1": "The Induction Matrix can store a really big amount of FE. These are the main part for building it.",
 
-  "chapter.stage.4.quest.128.subtitle.1": "Matrix Induction Cells",
+  "chapter.stage.4.quest.128.title": "Induction Cells",
+  "chapter.stage.4.quest.128.subtitle.1": "Mekanism Energy Component Part 1",
   "chapter.stage.4.quest.128.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
 
-  "chapter.stage.4.quest.129.subtitle.1": "Matrix Providers",
+  "chapter.stage.4.quest.129.title": "Induction Providers",
+  "chapter.stage.4.quest.129.subtitle.1": "Mekanism Energy Component Part 1",
   "chapter.stage.4.quest.129.description.1": "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
 
   "chapter.stage.4.quest.130.subtitle.1": "Accessing The Void",
@@ -1624,6 +1629,7 @@
   "chapter.stage.6.quest.38.subtitle.1": "Slurry Transformation",
   "chapter.stage.6.quest.38.description.1": "Transform any given ores with Sulfuric Acid into it's corresponding Slurry.",
 
+  "chapter.stage.6.quest.39.title": "THe Fusion Reactor",
   "chapter.stage.6.quest.39.subtitle.1": "Reactor Starting Setup",
   "chapter.stage.6.quest.39.description.1": "&bThe Fusion Reactor&r will not start on its own. It requires an outside burst of energy from a charged Laser Amplifier and a small amount of D-T Fuel to begin the fusion process. Once the reaction is jump started, it will begin consuming supplied Deuterium and Tritium, creating plasma and generating power. Alternatively you can use a Resistive Heater heating the reactor to 100.00MK Plasma temperature. This can be done quickest at 10MFE/t usage on the heater",
   "chapter.stage.6.quest.39.description.2": "&bThe Hohlraum&r stores 10 units of D-T Fuel required for the initial reaction. To fill it up, place it into a Chemical Infuser which is combining Deuterium and Tritium. Place the Hohlraum into the Reactor Controller when it contains the required D-T Fuel.",
@@ -1637,6 +1643,7 @@
 
   "chapter.stage.6.quest.42.subtitle.1": "Cosmic Energy Storage",
 
+  "chapter.stage.6.quest.43.title": "Alchemistry Fusion Reactor",
   "chapter.stage.6.quest.43.subtitle.1": "Chemical Element Fusionner",
   "chapter.stage.6.quest.43.description.1": "Combine 2 compatibles Chemical Element in order to get a Super Chemical Element.",
 
@@ -1724,6 +1731,7 @@
 
   "chapter.stage.7.quest.30.subtitle.1": "Photonic Energy Storage",
 
+  "chapter.stage.7.quest.31.title": "Draconic Energy Storage",
   "chapter.stage.7.quest.31.subtitle.1": "Storing Draconic Energy",
   "chapter.stage.7.quest.31.description.1": "&dDraconic Energy Storage&r is used to store a lot of energy.",
   "chapter.stage.7.quest.31.description.2": "&dThe Energy Core&r is in the center of draconic ball.",
@@ -1759,7 +1767,8 @@
   "chapter.stage.7.quest.31.description.32": "• 786 Draconium Blocks",
   "chapter.stage.7.quest.31.description.33": "• 36 Energy Core Stabilizer",
 
-  "chapter.stage.7.quest.32.subtitle.1": "Antimatter",
+  "chapter.stage.7.quest.32.title": "Antimatter Pellet",
+  "chapter.stage.7.quest.32.subtitle.1": "Purple Pellet",
   "chapter.stage.7.quest.32.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
   "chapter.stage.7.quest.32.description.2": "The optimal minimal build consists of :",
   "chapter.stage.7.quest.32.description.3": "• 60 SPS Casings (+12 crafting material for 3 SPS Ports)",
