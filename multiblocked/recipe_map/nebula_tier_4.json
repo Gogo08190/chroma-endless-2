@@ -1,10 +1,10 @@
 {
-  "name": "nebula_tier_2",
+  "name": "nebula_tier_4",
   "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
   "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
   "recipes": [
     {
-      "uid": "marsova",
+      "uid": "polaris",
       "duration": 200,
       "outputs": {
         "item": [
@@ -13,7 +13,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "chroma:marsova_ignis"
+                "item": "chroma:eternal_cryostella_polaris"
               }
             },
             "chance": 0.6
@@ -23,7 +23,7 @@
               "type": "multiblocked:sized",
               "count": 1,
               "ingredient": {
-                "item": "beyond_earth:mars_stone"
+                "item": "beyond_earth:glacio_stone"
               }
             },
             "chance": 0.1
@@ -33,7 +33,7 @@
       "tickInputs": {
         "forge_energy": [
           {
-            "content": 7500,
+            "content": 20000,
             "chance": 1.0
           }
         ]
@@ -42,23 +42,17 @@
         {
           "type": "biome",
           "condition": {
-            "biome": "beyond_earth:mars_desert"
+            "biome": "beyond_earth:glacio_ice_spikes"
           }
         },
         {
           "type": "biome",
           "condition": {
-            "biome": "beyond_earth:mars_rocky_plains"
-          }
-        },
-        {
-          "type": "biome",
-          "condition": {
-            "biome": "beyond_earth:mars_ice_spikes"
+            "biome": "beyond_earth:glacio"
           }
         }
       ]
     }
   ],
-  "ui": "nebula_tier_2"
+  "ui": "nebula_tier_4"
 }
