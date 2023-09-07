@@ -51,10 +51,15 @@ onEvent('recipes', event => {
 		.veinSize(5, 8)
 		.id("chroma:veins/raw_cobalrite");
 
-	//Fluid extractor recipes (Fluids)
-	// event.recipes.createoreexcavation
-	// 	.extracting(Fluid.of('minecraft:lava', 400), '{"text": "Lava well"}', 10, 100)
-	// 	.biomeWhitelist('minecraft:is_nether')
-	// 	.alwaysInfinite()
-	// 	.id("test");
+	event.recipes.createoreexcavation
+		.extracting(Fluid.of('minecraft:lava', 400), '{"text": "Lava well"}', 10, 100)
+		.biomeWhitelist('minecraft:is_nether')
+		.alwaysInfinite()
+		.id("chroma:reservoir/lava");
+
+	event.recipes.createoreexcavation
+		.extracting(Fluid.of('pneumaticcraft:oil', 400), '{"text": "Oil well"}', 10, 100)
+		.biomeWhitelist('forge:is_overworld')
+		.alwaysInfinite()
+		.id("chroma:reservoir/oil");
 })
