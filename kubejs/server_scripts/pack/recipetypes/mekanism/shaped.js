@@ -1191,6 +1191,16 @@ onEvent('recipes', (event) => {
             },
             id: 'mekanism:fluid_tank/basic'
         },
+        {
+            output: 'mekanism:basic_chemical_tank',
+            pattern: ['RPR', 'PTP', 'RPR'],
+            key: {
+                R: '#forge:dusts/redstone',
+                P: '#forge:ingots/osmium',
+                T: '#mekanism:alloys/infused'
+            },
+            id: 'mekanism:chemical_tank/basic'
+        },
     ];
 
     recipes.forEach((recipe) => {
