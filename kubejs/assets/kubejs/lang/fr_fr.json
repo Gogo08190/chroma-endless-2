@@ -8,7 +8,7 @@
 
   "chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
-  "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
+  "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25%% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
 
   "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
@@ -1345,7 +1345,7 @@
   "chapter.stage.5.quest.10.description.1": "Exécuter des simulations nécessite de l'énergie (en fonction du type de modèle) et un élément catalyseur, qui est généralement une Matrice de Prédiction.",
 
   "chapter.stage.5.quest.11.subtitle.1": "Pilleur de Prédiction",
-  "chapter.stage.5.quest.11.description.1": "Une fois que votre modèle est Basique ou supérieur, vous pouvez utiliser la chambre de simulation pour exécuter des simulations de votre modèle. Les simulations produiront toujours une prédiction généralisée, et peuvent également produire une Prédiction de Mob, en fonction de la précision du modèle. Plus le niveau du modèle est élevé, plus la précision est grande, jusqu'à 99,5% en Self Aware.",
+  "chapter.stage.5.quest.11.description.1": "Une fois que votre modèle est Basique ou supérieur, vous pouvez utiliser la chambre de simulation pour exécuter des simulations de votre modèle. Les simulations produiront toujours une prédiction généralisée, et peuvent également produire une Prédiction de Mob, en fonction de la précision du modèle. Plus le niveau du modèle est élevé, plus la précision est grande, jusqu'à 99,5%% en Self Aware.",
 
   "chapter.stage.5.quest.12.subtitle.1": "Simulation Gaia",
   "chapter.stage.5.quest.12.description.1": "Obtenez une prédiction du Gardien de Gaia avec la Chambre de Simulation.",

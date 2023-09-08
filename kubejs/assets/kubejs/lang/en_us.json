@@ -8,7 +8,7 @@
 
   "chapter.welcome.quest.1.title.1": "Get a server!",
   "chapter.welcome.quest.1.description.1": "BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use.",
-  "chapter.welcome.quest.1.description.2": "Use the code &l&bCHROMATECH&r to get 25% off your first month as a new customer for one of their game servers.",
+  "chapter.welcome.quest.1.description.2": "Use the code &l&bCHROMATECH&r to get 25%% off your first month as a new customer for one of their game servers.",
   "chapter.welcome.quest.1.description.3" : "Promo code : &l&aCHROMATECH&r",
 
   "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
@@ -1350,7 +1350,7 @@
   "chapter.stage.5.quest.10.description.1": "Running simulations requires energy (based on the model type) and a catalyst item, which is usually a Prediction Matrix.",
 
   "chapter.stage.5.quest.11.subtitle.1": "Prediction Looter",
-  "chapter.stage.5.quest.11.description.1": "Once your model is Basic or higher, you can use the simulation chamber to run simulations of your model. Simulations will always produce a generalized prediction, and may also produce a Mob Prediction, based on the accuracy of the model. The higher tier of the model, the higher the accuracy, up to 99.5% at Self Aware. ",
+  "chapter.stage.5.quest.11.description.1": "Once your model is Basic or higher, you can use the simulation chamber to run simulations of your model. Simulations will always produce a generalized prediction, and may also produce a Mob Prediction, based on the accuracy of the model. The higher tier of the model, the higher the accuracy, up to 99.5%% at Self Aware. ",
 
   "chapter.stage.5.quest.12.subtitle.1": "Gaia Simulation",
   "chapter.stage.5.quest.12.description.1": "Get a Guardian of Gaia prediction with the Simulation Chamber.",
@@ -1978,7 +1978,7 @@
   "chapter.thermal.quest.5.description.1": "The Expanded RF Coil augment scales RF storage and transfer by 4.",
 
   "chapter.thermal.quest.6.subtitle.1": "Efficient Power",
-  "chapter.thermal.quest.6.description.1": "The Flux Efficiency augment reduces the RF required per operation, scaling it by 0.9, but also decreases the maximum RF usage rate of the machine by 10%.",
+  "chapter.thermal.quest.6.description.1": "The Flux Efficiency augment reduces the RF required per operation, scaling it by 0.9, but also decreases the maximum RF usage rate of the machine by 10%%.",
 
   "chapter.thermal.quest.7.subtitle.1": "Range Upgrade",
   "chapter.thermal.quest.7.description.1": "The Radial Enhancement Augment allows your tool or machine to affect a greater area around it.",
@@ -1994,22 +1994,22 @@
   "chapter.thermal.quest.10.description.1": "The Expanded Tank Construction augment scales the size of all fluid storage in machine, device, dynamo, or tool by 4.",
 
   "chapter.thermal.quest.11.subtitle.1": "Better Dynamo",
-  "chapter.thermal.quest.11.description.1": "The Auxiliary Reaction Chamber augment inscreases maximum generation of a dynamo by 100% but scales the efficiency by 0.9.",
+  "chapter.thermal.quest.11.description.1": "The Auxiliary Reaction Chamber augment inscreases maximum generation of a dynamo by 100%% but scales the efficiency by 0.9.",
 
   "chapter.thermal.quest.12.subtitle.1": "Secondary Output",
-  "chapter.thermal.quest.12.description.1": "The Auxilliary Process Sieve augment increases chance of secondary output by 15% but scales the energy per operation by 1.25.",
+  "chapter.thermal.quest.12.description.1": "The Auxilliary Process Sieve augment increases chance of secondary output by 15%% but scales the energy per operation by 1.25.",
 
   "chapter.thermal.quest.13.subtitle.1": "Automation Augment",
   "chapter.thermal.quest.13.description.1": "The Cyclical Processing augment allows a machine's valid outputs to be fed back into its outputs slot(s). Usefull for automation.",
 
   "chapter.thermal.quest.14.subtitle.1": "Amplification",
-  "chapter.thermal.quest.14.description.1": "The Flux Linkage Amplifier augment increases maximun RF usage rate by 100% but also scales the RF per operation by 1.1.",
+  "chapter.thermal.quest.14.description.1": "The Flux Linkage Amplifier augment increases maximun RF usage rate by 100%% but also scales the RF per operation by 1.1.",
 
   "chapter.thermal.quest.15.subtitle.1": "Potion Upgrader",
-  "chapter.thermal.quest.15.description.1": "The Alchemical Extender augment increases duration of potion by 100%. Has no effect on potion that have instant, on-time effects.",
+  "chapter.thermal.quest.15.description.1": "The Alchemical Extender augment increases duration of potion by 100%%. Has no effect on potion that have instant, on-time effects.",
 
   "chapter.thermal.quest.16.subtitle.1": "Potion Amplifier",
-  "chapter.thermal.quest.16.description.1": "The Alchemical Amplifier augment increases the effect of the stored potion by 1 level but descreases its duration by 25%.",
+  "chapter.thermal.quest.16.description.1": "The Alchemical Amplifier augment increases the effect of the stored potion by 1 level but descreases its duration by 25%%.",
 
   "chapter.thermal.quest.17.subtitle.1": "FE Upgrader",
   "chapter.thermal.quest.17.description.1": "The High-Flux RF Coil augment scales the RF storage by 2 and the RF transfer by 6.",
