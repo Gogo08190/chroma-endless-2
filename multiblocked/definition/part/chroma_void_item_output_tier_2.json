@@ -2,7 +2,7 @@
   "version": 3,
   "location": "chroma:void_item_output_tier_2",
   "traits": {
-    "background": "multiblocked:textures/gui/9_slot.png",
+    "background": "multiblocked:textures/gui/63_slot.png",
     "item": [
       {
         "cIO": 1,
@@ -74,6 +74,438 @@
         "mIO": 1,
         "x": 97,
         "y": 89,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 43,
+        "y": 53,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 43,
+        "y": 71,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 43,
+        "y": 89,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 61,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 79,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 61,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 43,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 97,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 79,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 43,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 25,
+        "y": 89,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 7,
+        "y": 89,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 7,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 25,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 7,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 25,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 97,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 7,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 25,
+        "y": 53,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 7,
+        "y": 53,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 25,
+        "y": 71,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 7,
+        "y": 71,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 61,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 43,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 25,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 115,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 151,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 133,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 115,
+        "y": 125,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 151,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 133,
+        "y": 107,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 151,
+        "y": 53,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 133,
+        "y": 53,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 115,
+        "y": 53,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 151,
+        "y": 71,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 133,
+        "y": 71,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 115,
+        "y": 71,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 151,
+        "y": 89,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 133,
+        "y": 89,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 115,
+        "y": 89,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 151,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 133,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 115,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 97,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 79,
+        "y": 35,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 61,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 79,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 97,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 115,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 133,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 151,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 7,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 25,
+        "y": 17,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 2,
+        "mIO": 1,
+        "x": 43,
+        "y": 17,
         "autoIO": true
       }
     ]
