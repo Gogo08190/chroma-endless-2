@@ -1,11 +1,11 @@
 {
-  "name": "void_miner_tier_1",
+  "name": "void_miner_tier_3",
   "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
   "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
   "recipes": [
     {
-      "uid": "void_miner_tier_1",
-      "duration": 200,
+      "uid": "void_miner_tier_3",
+      "duration": 50,
       "outputs": {
         "item": [
           {
@@ -16,7 +16,7 @@
                 "item": "thermal:niter_ore"
               }
             },
-            "chance": 0.24
+            "chance": 0.44
           },
           {
             "content": {
@@ -26,7 +26,7 @@
                 "item": "thermal:silver_ore"
               }
             },
-            "chance": 0.38
+            "chance": 0.58
           },
           {
             "content": {
@@ -36,7 +36,7 @@
                 "item": "thermal:sulfur_ore"
               }
             },
-            "chance": 0.22
+            "chance": 0.42
           },
           {
             "content": {
@@ -46,7 +46,7 @@
                 "item": "thermal:tin_ore"
               }
             },
-            "chance": 0.46
+            "chance": 0.66
           },
           {
             "content": {
@@ -56,7 +56,7 @@
                 "item": "thermal:nickel_ore"
               }
             },
-            "chance": 0.23
+            "chance": 0.43
           },
           {
             "content": {
@@ -66,7 +66,7 @@
                 "item": "thermal:lead_ore"
               }
             },
-            "chance": 0.5
+            "chance": 0.7
           },
           {
             "content": {
@@ -76,7 +76,7 @@
                 "item": "thermal:cinnabar_ore"
               }
             },
-            "chance": 0.19
+            "chance": 0.39
           },
           {
             "content": {
@@ -86,7 +86,7 @@
                 "item": "thermal:apatite_ore"
               }
             },
-            "chance": 0.23
+            "chance": 0.43
           },
           {
             "content": {
@@ -96,7 +96,7 @@
                 "item": "rftoolsbase:dimensionalshard_overworld"
               }
             },
-            "chance": 0.25
+            "chance": 0.45
           },
           {
             "content": {
@@ -106,7 +106,7 @@
                 "item": "powah:uraninite_ore"
               }
             },
-            "chance": 0.19
+            "chance": 0.39
           },
           {
             "content": {
@@ -116,7 +116,7 @@
                 "item": "mysticalagriculture:prosperity_ore"
               }
             },
-            "chance": 0.3
+            "chance": 0.5
           },
           {
             "content": {
@@ -126,7 +126,7 @@
                 "item": "mysticalagriculture:inferium_ore"
               }
             },
-            "chance": 0.4
+            "chance": 0.6
           },
           {
             "content": {
@@ -136,7 +136,7 @@
                 "item": "mna:vinteum_ore"
               }
             },
-            "chance": 0.11
+            "chance": 0.31
           },
           {
             "content": {
@@ -146,7 +146,7 @@
                 "item": "mekanism:osmium_ore"
               }
             },
-            "chance": 0.35
+            "chance": 0.55
           },
           {
             "content": {
@@ -156,7 +156,7 @@
                 "item": "minecraft:coal_ore"
               }
             },
-            "chance": 0.9
+            "chance": 1.0
           },
           {
             "content": {
@@ -166,7 +166,7 @@
                 "item": "minecraft:copper_ore"
               }
             },
-            "chance": 0.58
+            "chance": 0.78
           },
           {
             "content": {
@@ -176,7 +176,7 @@
                 "item": "minecraft:diamond_ore"
               }
             },
-            "chance": 0.21
+            "chance": 0.41
           },
           {
             "content": {
@@ -186,7 +186,7 @@
                 "item": "minecraft:emerald_ore"
               }
             },
-            "chance": 0.15
+            "chance": 0.35
           },
           {
             "content": {
@@ -196,7 +196,7 @@
                 "item": "minecraft:gold_ore"
               }
             },
-            "chance": 0.39
+            "chance": 0.55
           },
           {
             "content": {
@@ -206,7 +206,7 @@
                 "item": "minecraft:iron_ore"
               }
             },
-            "chance": 0.75
+            "chance": 0.95
           },
           {
             "content": {
@@ -216,7 +216,7 @@
                 "item": "minecraft:lapis_ore"
               }
             },
-            "chance": 0.34
+            "chance": 0.54
           },
           {
             "content": {
@@ -226,7 +226,7 @@
                 "item": "minecraft:redstone_ore"
               }
             },
-            "chance": 0.34
+            "chance": 0.54
           },
           {
             "content": {
@@ -236,7 +236,7 @@
                 "item": "mekanism:fluorite_ore"
               }
             },
-            "chance": 0.5
+            "chance": 0.6
           },
           {
             "content": {
@@ -246,7 +246,7 @@
                 "item": "immersiveengineering:ore_aluminum"
               }
             },
-            "chance": 0.42
+            "chance": 0.62
           },
           {
             "content": {
@@ -256,7 +256,7 @@
                 "item": "forbidden_arcanus:xpetrified_ore"
               }
             },
-            "chance": 0.05
+            "chance": 0.25
           },
           {
             "content": {
@@ -266,7 +266,7 @@
                 "item": "forbidden_arcanus:runic_stone"
               }
             },
-            "chance": 0.01
+            "chance": 0.21
           },
           {
             "content": {
@@ -276,7 +276,7 @@
                 "item": "forbidden_arcanus:arcane_crystal_ore"
               }
             },
-            "chance": 0.05
+            "chance": 0.25
           },
           {
             "content": {
@@ -286,7 +286,7 @@
                 "item": "evilcraft:dark_ore"
               }
             },
-            "chance": 0.12
+            "chance": 0.32
           },
           {
             "content": {
@@ -296,7 +296,7 @@
                 "item": "create:zinc_ore"
               }
             },
-            "chance": 0.18
+            "chance": 0.38
           },
           {
             "content": {
@@ -306,7 +306,7 @@
                 "item": "biggerreactors:uranium_ore"
               }
             },
-            "chance": 0.14
+            "chance": 0.44
           },
           {
             "content": {
@@ -316,14 +316,224 @@
                 "item": "ae2:quartz_ore"
               }
             },
-            "chance": 0.23
+            "chance": 0.43
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "draconicevolution:overworld_draconium_ore"
+              }
+            },
+            "chance": 0.48
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "mythicbotany:dragonstone_ore"
+              }
+            },
+            "chance": 0.12
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "mythicbotany:elementium_ore"
+              }
+            },
+            "chance": 0.12
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "tconstruct:cobalt_ore"
+              }
+            },
+            "chance": 0.36
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "undergarden:depthrock_cloggrum_ore"
+              }
+            },
+            "chance": 0.3
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "undergarden:depthrock_regalium_ore"
+              }
+            },
+            "chance": 0.3
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "undergarden:depthrock_utherium_ore"
+              }
+            },
+            "chance": 0.3
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "undergarden:shiverstone_froststeel_ore"
+              }
+            },
+            "chance": 0.3
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:horizonite_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:falsite_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:everbright_pyrope_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:everbright_moonstone_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:everbright_diopside_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:everbright_charoite_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:everbright_aquite_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "blue_skies:ventium_ore"
+              }
+            },
+            "chance": 0.2
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:moon_desh_ore"
+              }
+            },
+            "chance": 0.1
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:mars_ostrum_ore"
+              }
+            },
+            "chance": 0.06
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:venus_calorite_ore"
+              }
+            },
+            "chance": 0.03
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:moon_cheese_ore"
+              }
+            },
+            "chance": 0.15
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:moon_ice_shard_ore"
+              }
+            },
+            "chance": 0.12
           }
         ]
       },
       "tickInputs": {
         "forge_energy": [
           {
-            "content": 1250,
+            "content": 20000,
             "chance": 1.0
           }
         ]
