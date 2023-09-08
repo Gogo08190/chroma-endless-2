@@ -45,7 +45,7 @@
       "parent": "working"
     }
   },
-  "recipeMap": "void_miner_tier_1",
+  "recipeMap": "void_miner_tier_2",
   "basePattern": {
     "structureDir": [
       "LEFT",
