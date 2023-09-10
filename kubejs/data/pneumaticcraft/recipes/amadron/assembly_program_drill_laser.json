@@ -1,0 +1,16 @@
+{
+  "type": "pneumaticcraft:amadron",
+  "id": "pneumaticcraft:amadron/assembly_program_drill_laser",
+  "input": {
+    "type": "ITEM",
+    "id": "numismaticoverhaul:gold_coin",
+    "amount": 1
+  },
+  "output": {
+    "type": "ITEM",
+    "id": "pneumaticcraft:assembly_program_drill_laser",
+    "amount": 1
+  },
+  "static": true,
+  "level": 0
+}

@@ -1,0 +1,16 @@
+{
+  "type": "pneumaticcraft:amadron",
+  "id": "pneumaticcraft:amadron/emerald_to_lubricant",
+  "input": {
+    "type": "ITEM",
+    "id": "numismaticoverhaul:silver_coin",
+    "amount": 30
+  },
+  "output": {
+    "type": "FLUID",
+    "id": "pneumaticcraft:lubricant",
+    "amount": 1000
+  },
+  "static": true,
+  "level": 0
+}

@@ -1,0 +1,16 @@
+{
+  "type": "pneumaticcraft:amadron",
+  "id": "pneumaticcraft:amadron/kerosene_to_emerald",
+  "input": {
+    "type": "FLUID",
+    "id": "pneumaticcraft:kerosene",
+    "amount": 3000
+  },
+  "output": {
+    "type": "ITEM",
+    "id": "numismaticoverhaul:silver_coin",
+    "amount": 6
+  },
+  "static": true,
+  "level": 0
+}
