@@ -1,0 +1,6 @@
+{
+    "parent": "mekanism:block/basic_cube",
+    "textures": {
+        "all": "chroma:block/particle_accelerator/electromagnetic_condenser"
+    }
+}

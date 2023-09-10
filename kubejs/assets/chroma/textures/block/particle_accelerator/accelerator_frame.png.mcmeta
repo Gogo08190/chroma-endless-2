@@ -1,0 +1,1 @@
+{"ctm":{"ctm_version":1,"type":"CTM","layer":"SOLID","textures":["chroma:block/particle_accelerator/accelerator_frame-ctm"],"extra":{"connect_to":[{"block":"chroma:accelerator_frame"}]}}}
