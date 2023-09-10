@@ -40,9 +40,9 @@
       },
       "conditions": [
         {
-          "type": "biome",
+          "type": "dimension",
           "condition": {
-            "biome": "beyond_earth:moon_desert"
+            "dim": "beyond_earth:moon"
           }
         }
       ]

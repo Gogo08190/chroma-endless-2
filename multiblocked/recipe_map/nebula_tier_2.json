@@ -40,21 +40,9 @@
       },
       "conditions": [
         {
-          "type": "biome",
+          "type": "dimension",
           "condition": {
-            "biome": "beyond_earth:mars_desert"
-          }
-        },
-        {
-          "type": "biome",
-          "condition": {
-            "biome": "beyond_earth:mars_rocky_plains"
-          }
-        },
-        {
-          "type": "biome",
-          "condition": {
-            "biome": "beyond_earth:mars_ice_spikes"
+            "dim": "beyond_earth:mars"
           }
         }
       ]

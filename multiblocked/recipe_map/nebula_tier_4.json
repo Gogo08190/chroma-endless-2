@@ -40,15 +40,9 @@
       },
       "conditions": [
         {
-          "type": "biome",
+          "type": "dimension",
           "condition": {
-            "biome": "beyond_earth:glacio_ice_spikes"
-          }
-        },
-        {
-          "type": "biome",
-          "condition": {
-            "biome": "beyond_earth:glacio"
+            "dim": "beyond_earth:glacio"
           }
         }
       ]

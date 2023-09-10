@@ -40,15 +40,9 @@
       },
       "conditions": [
         {
-          "type": "biome",
+          "type": "dimension",
           "condition": {
-            "biome": "beyond_earth:venus_desert"
-          }
-        },
-        {
-          "type": "biome",
-          "condition": {
-            "biome": "beyond_earth:infernal_venus_barrens"
+            "dim": "beyond_earth:venus"
           }
         }
       ]
