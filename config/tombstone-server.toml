@@ -84,7 +84,7 @@
 	#Voodoo Poppet [false/true|default:true]
 	allow_voodoo_poppet = true
 	#Familiar Receptacle [false/true|default:true]
-	allow_familiar_receptacle = true
+	allow_familiar_receptacle = false
 	#Book of Disenchantment [false/true|default:true]
 	allow_book_of_disenchantment = true
 	#Scroll of Preservation [false/true|default:true]
@@ -144,7 +144,7 @@
 	#Magic Scroll [false/true|default:true]
 	allow_magic_scroll = true
 	#Familiar Stone [false/true|default:true]
-	allow_familiar_stone = true
+	allow_familiar_stone = false
 	#Merchant Stone [false/true|default:true]
 	allow_merchant_stone = true
 
@@ -154,4 +154,3 @@
 	fix_anvil_custom_name = true
 	#fix the RepairCost:0 added by the anvil & grindstone in nbt preventing theses items to stack [false/true|default:true]
 	fix_repair_cost_zero = true
-
