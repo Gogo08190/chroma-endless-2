@@ -25,5 +25,15 @@
   "block.chroma.nebula_extractor_tier_1": "Nebula Extractor Controller Tier 1",
   "block.chroma.nebula_extractor_tier_2": "Nebula Extractor Controller Tier 2",
   "block.chroma.nebula_extractor_tier_3": "Nebula Extractor Controller Tier 3",
-  "block.chroma.nebula_extractor_tier_4": "Nebula Extractor Controller Tier 4"
+  "block.chroma.nebula_extractor_tier_4": "Nebula Extractor Controller Tier 4",
+  "multiblocked.recipe_map.void_miner_tier_1": "Void Miner Tier 1 - Generated Resources",
+  "multiblocked.recipe_map.void_miner_tier_2": "Void Miner Tier 2 - Generated Resources",
+  "multiblocked.recipe_map.void_miner_tier_3": "Void Miner Tier 3 - Generated Resources",
+  "multiblocked.recipe_map.void_miner_tier_4": "Void Miner Tier 4 - Generated Resources",
+  "multiblocked.recipe_map.nebula_tier_1": "Nebula Extractor Tier 1 - Generated Resources",
+  "multiblocked.recipe_map.nebula_tier_2": "Nebula Extractor Tier 2 - Generated Resources",
+  "multiblocked.recipe_map.nebula_tier_3": "Nebula Extractor Tier 3 - Generated Resources",
+  "multiblocked.recipe_map.nebula_tier_4": "Nebula Extractor Tier 4 - Generated Resources",
+  "multiblocked.recipe_map.improved_coke_oven": "Improved Coke Oven",
+  "multiblocked.recipe_map.basic_sieving_machine": "Basic Sieving Machine"
 }
