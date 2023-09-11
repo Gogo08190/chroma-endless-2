@@ -2152,6 +2152,169 @@
   "chapter.thermal.quest.54.description.1": "The Sequential Fabricator is a machine that automatically crafts items.",
 
   "chapter.thermal.quest.55.subtitle.1": "More Energy Storage",
-  "chapter.thermal.quest.55.description.1" : "Adds 250kFE to the Energy Storage."
+  "chapter.thermal.quest.55.description.1" : "Adds 250kFE to the Energy Storage.",
+
+  "Forbidden and Arcanus":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.forbidden.title": "Forbidden and Arcanus",
+
+  "chapter.forbidden.quest.1.title": "You're a Wizard !",
+  "chapter.forbidden.quest.1.subtitle.1": "Starting the Mod",
+
+  "chapter.forbidden.quest.2.title": "Edelwood Trees",
+  "chapter.forbidden.quest.2.subtitle.1": "Weird Looking Tree",
+  "chapter.forbidden.quest.2.description.1": "Found within the Dark Forest biome, the Edelwood Tree looks like a small tree that has been chopped in half.",
+  "chapter.forbidden.quest.2.description.2": "You'll need to break the branches off and collect the logs, as these are used for crafting various items within the mod.",
+
+  "chapter.forbidden.quest.3.subtitle.1": "Powerful Bucket",
+  "chapter.forbidden.quest.3.description.1": "The Edelwood bucket can store more than one bucket of liquid, and can also be used to capture small animals like chickens or squids.",
+  "chapter.forbidden.quest.3.description.2": "In order to carry Lava you'll need the Permafrost Enchant.",
+
+  "chapter.forbidden.quest.4.subtitle.1": "Black Matter",
+  "chapter.forbidden.quest.4.description.1": "Smelting &bEdelwood&r will give you Dark Matter. You can make Black Holes with this.",
+
+  "chapter.forbidden.quest.5.subtitle.1": "Breaking Spawners",
+  "chapter.forbidden.quest.5.description.1": "Breaking spawners will now drop &bSpawner Scraps&r.",
+
+  "chapter.forbidden.quest.6.subtitle.1": "Capturing",
+  "chapter.forbidden.quest.6.description.1": "The &bQuantum Catcher&r is used to capture and transport mobs.",
+
+  "chapter.forbidden.quest.7.subtitle.1": "Aureal Viewer",
+  "chapter.forbidden.quest.7.description.1": "The &bLens of Veritatis&r is used to see Aureal entities. These are entities that will grant Aureal when killed, but will also increase your corruption....",
+
+  "chapter.forbidden.quest.8.subtitle.1": "Sky Grass",
+  "chapter.forbidden.quest.8.description.1": "Have you seen the random floating island in the sky? Not the slime one, but the tiny one?",
+  "chapter.forbidden.quest.8.description.2": "These have the Nipa plant on them. You can break these and relocate them.",
+  "chapter.forbidden.quest.8.description.3": "They produce Arcane Crystal Dust Specks over time, which can be used to create Arcane Crystal Dust.",
+
+  "chapter.forbidden.quest.9.subtitle.1": "Thaumcraft is back ?",
+  "chapter.forbidden.quest.9.description.1": "Killing passive mobs will increase your corruption. Killing &bAureal Entities&r has a higher chance to increase your corruption.",
+  "chapter.forbidden.quest.9.description.2": "Be careful! At higher levels of corruption, negative things will happen!",
+  "chapter.forbidden.quest.9.description.3": "Making a Sanity Meter will give your UI an upgrade to show your total corruption, for those who want to hit new high scores and such.",
+
+  "chapter.forbidden.quest.10.subtitle.1": "Flying ... Almost",
+
+  "chapter.forbidden.quest.11.subtitle.1": "Main Crystal",
+  "chapter.forbidden.quest.11.description.1": "This is the main resource in the mod. Go out and mine some!",
+
+  "chapter.forbidden.quest.12.subtitle.1": "Smelting Arcane Crystals",
+
+  "chapter.forbidden.quest.13.subtitle.1": "Super Bone Meal",
+  "chapter.forbidden.quest.13.description.1": "Using this bone meal on Farmland will convert it to Magical Farmland.",
+  "chapter.forbidden.quest.13.description.2": "Crops will produce double the output when grown on Magical Farmland.",
+
+  "chapter.forbidden.quest.14.subtitle.1": "Too Much Corruption",
+  "chapter.forbidden.quest.14.description.1": "Used to corrupt Souls and Runes. You'll need this for later.",
+  "chapter.forbidden.quest.14.description.2": "If you throw down Dark Matter, then throw down Corrupti Dust, it'll create a Black Hole. Feed it small entities like Arrows or Experience Orbs, and it'll produce Xpetrified Orbs.",
+
+  "chapter.forbidden.quest.15.subtitle.1": "Component Dust",
+  "chapter.forbidden.quest.15.description.1": "Using our Arcane Crystal Dust, we'll need to combine it with other dusts and powders to create Mundabiter Dust.",
+  "chapter.forbidden.quest.15.description.2": "This dust is used in several recipes, as well as activating the Hephaestus Forge.",
+
+  "chapter.forbidden.quest.16.subtitle.1": "Golden Arcane",
+  "chapter.forbidden.quest.16.description.1": "The &6Arcane Gold Ingot&r is needed to continue your progression in the mod.",
+  "chapter.forbidden.quest.16.description.2": "It's used for a lot of stuff, and it's also pretty.",
+
+  "chapter.forbidden.quest.17.title": "&6Arcane Gold Armor",
+  "chapter.forbidden.quest.17.subtitle.1": "Arcane Armor",
+  "chapter.forbidden.quest.17.description.1": "&6Arcane Gold&r can be used to craft armor, which is stronger than Diamonds!",
+
+  "chapter.forbidden.quest.18.subtitle.1": "Arcane Pickaxe",
+  "chapter.forbidden.quest.18.description.1": "A Silk-Touch Pickaxe !",
+
+  "chapter.forbidden.quest.19.subtitle.1": "Growing Arcane Gold",
+  "chapter.forbidden.quest.19.description.1": "These can be planted to grow Arcane Gold Nuggets.",
+  "chapter.forbidden.quest.19.description.2": "To create one, you'll need to find Yellow Orchids.",
+
+  "chapter.forbidden.quest.20.subtitle.1": "Mobs X-Ray Activated !",
+  "chapter.forbidden.quest.20.description.1": "This gives X-Ray vision for mobs, highlighting them from afar to make it easier to spot them.",
+
+  "chapter.forbidden.quest.21.subtitle.1": "Dragon Head Crusher",
+  "chapter.forbidden.quest.21.description.1": "The Mystical Dagger is used to break Dragon Heads down to Dragon Scales.",
+  "chapter.forbidden.quest.21.description.2": "When killing mobs with it with a test tube in your inventory, it will also collect blood.",
+
+  "chapter.forbidden.quest.22.subtitle.1": "Dragon Hunter",
+  "chapter.forbidden.quest.22.description.1": "Combining a Dragon Head with a Mystical Dagger will give you &bDragon Scales&r.",
+
+  "chapter.forbidden.quest.23.title": "Draco Arcanus Armor",
+  "chapter.forbidden.quest.23.subtitle.1": "Dragon Slayer",
+  "chapter.forbidden.quest.23.description.1": "Better than Netherite Armor !",
+
+  "chapter.forbidden.quest.24.title": "",
+  "chapter.forbidden.quest.24.subtitle.1": "",
+  "chapter.forbidden.quest.24.description.1": "",
+
+  "chapter.forbidden.quest.25.title": "",
+  "chapter.forbidden.quest.25.subtitle.1": "",
+  "chapter.forbidden.quest.25.description.1": "",
+
+  "chapter.forbidden.quest.26.title": "",
+  "chapter.forbidden.quest.26.subtitle.1": "",
+  "chapter.forbidden.quest.26.description.1": "",
+
+  "chapter.forbidden.quest.27.title": "",
+  "chapter.forbidden.quest.27.subtitle.1": "",
+  "chapter.forbidden.quest.27.description.1": "",
+
+  "chapter.forbidden.quest.28.title": "",
+  "chapter.forbidden.quest.28.subtitle.1": "",
+  "chapter.forbidden.quest.28.description.1": "",
+
+  "chapter.forbidden.quest.29.title": "",
+  "chapter.forbidden.quest.29.subtitle.1": "",
+  "chapter.forbidden.quest.29.description.1": "",
+
+  "chapter.forbidden.quest.30.title": "",
+  "chapter.forbidden.quest.30.subtitle.1": "",
+  "chapter.forbidden.quest.30.description.1": "",
+
+  "chapter.forbidden.quest.31.title": "",
+  "chapter.forbidden.quest.31.subtitle.1": "",
+  "chapter.forbidden.quest.31.description.1": "",
+
+  "chapter.forbidden.quest.32.title": "",
+  "chapter.forbidden.quest.32.subtitle.1": "",
+  "chapter.forbidden.quest.32.description.1": "",
+
+  "chapter.forbidden.quest.33.title": "",
+  "chapter.forbidden.quest.33.subtitle.1": "",
+  "chapter.forbidden.quest.33.description.1": "",
+
+  "chapter.forbidden.quest.34.title": "",
+  "chapter.forbidden.quest.34.subtitle.1": "",
+  "chapter.forbidden.quest.34.description.1": "",
+
+  "chapter.forbidden.quest.35.title": "",
+  "chapter.forbidden.quest.35.subtitle.1": "",
+  "chapter.forbidden.quest.35.description.1": "",
+
+  "chapter.forbidden.quest.36.title": "",
+  "chapter.forbidden.quest.36.subtitle.1": "",
+  "chapter.forbidden.quest.36.description.1": "",
+
+  "chapter.forbidden.quest.37.title": "",
+  "chapter.forbidden.quest.37.subtitle.1": "",
+  "chapter.forbidden.quest.37.description.1": "",
+
+  "chapter.forbidden.quest.38.title": "",
+  "chapter.forbidden.quest.38.subtitle.1": "",
+  "chapter.forbidden.quest.38.description.1": "",
+
+  "chapter.forbidden.quest.39.title": "",
+  "chapter.forbidden.quest.39.subtitle.1": "",
+  "chapter.forbidden.quest.39.description.1": "",
+
+  "chapter.forbidden.quest.40.title": "",
+  "chapter.forbidden.quest.40.subtitle.1": "",
+  "chapter.forbidden.quest.40.description.1": "",
+
+  "chapter.forbidden.quest.41.title": "",
+  "chapter.forbidden.quest.41.subtitle.1": "",
+  "chapter.forbidden.quest.41.description.1": "",
+
+  "chapter.forbidden.quest.42.title": "",
+  "chapter.forbidden.quest.42.subtitle.1": "",
+  "chapter.forbidden.quest.42.description.1": ""
+
 
 }
