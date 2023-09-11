@@ -18,7 +18,7 @@ onEvent('block.registry', (event) => {
       {name: 'void_miner_frame_tier4', displayName: '§dStructure Frame Tier 4'},
       {name: 'structure_frame', displayName: '§7Structure Panel'},
       {name: 'nebula_frame', displayName: '§7Nebula Extractor Panel'},
-      {name: 'accelerator_frame', displayName: '§6Particle Accelerator casing'},
+      {name: 'accelerator_frame', displayName: '§6Particle Accelerator Casing'},
       {name: 'electromagnetic_condenser', displayName: '§dElectromagnetic Condenser'},
       {name: 'accelerator_coil', displayName: '§dAccelerator Coil'}
 
