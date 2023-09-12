@@ -2309,5 +2309,629 @@
 
   "chapter.forbidden.quest.42.subtitle.1": "Repair Talisman",
   "chapter.forbidden.quest.42.description.1": "The &6Stella Eternal&r has 3 charges, and when right-clicked, it can fully repair all of your items in your inventory.",
-  "chapter.forbidden.quest.42.description.1": "The main purpose of this is to give the enchant &9Unbreakable&r to an item, which is done by combining it with the tool in a Smithing Table."
+  "chapter.forbidden.quest.42.description.1": "The main purpose of this is to give the enchant &9Unbreakable&r to an item, which is done by combining it with the tool in a Smithing Table.",
+
+  "Mekanism":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.mekanism.title": "Mekanism",
+
+  "----------------------------------------------------",
+
+  "chapter.mekanism.quest.1.subtitle.1": "Basic Fluid Storage",
+  "chapter.mekanism.quest.1.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &a32,000 mB&r.",
+
+  "chapter.mekanism.quest.2.subtitle.1": "Advanced Fluid Storage",
+  "chapter.mekanism.quest.2.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &464,000 mB&r.",
+
+  "chapter.mekanism.quest.3.subtitle.1": "Elite Fluid Storage",
+  "chapter.mekanism.quest.3.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &b128,000 mB&r.",
+
+  "chapter.mekanism.quest.4.subtitle.1": "Ultimate Fluid Storage",
+  "chapter.mekanism.quest.4.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &5256,000 mB&r.",
+
+  "chapter.mekanism.quest.5.subtitle.1": "Basic Gas Tank",
+  "chapter.mekanism.quest.5.description.1": "Chemical Tanks are used to store Gases. This tank can store &a64,000 mB&r.",
+
+  "chapter.mekanism.quest.6.subtitle.1": "Advanced Gas Tank",
+  "chapter.mekanism.quest.6.description.1": "Chemical Tanks are used to store Gases. This tank can store &4256,000 mB&r.",
+
+  "chapter.mekanism.quest.7.subtitle.1": "Elite Gas Tank",
+  "chapter.mekanism.quest.7.description.1": "Chemical Tanks are used to store Gases. This tank can store &b1,024,000 mB&r.",
+
+  "chapter.mekanism.quest.8.subtitle.1": "Ultimate Gas Tank",
+  "chapter.mekanism.quest.8.description.1": "Chemical Tanks are used to store Gases. This tank can store &58,192,000 mB&r.",
+
+  "chapter.mekanism.quest.9.subtitle.1": "Ultimate Bin",
+  "chapter.mekanism.quest.9.description.1": "A block used to store large quantities  of a single type of item. This bin can store &5262,144 Items&r.",
+
+  "chapter.mekanism.quest.10.subtitle.1": "Elite Bin",
+  "chapter.mekanism.quest.10.description.1": "A block used to store large quantities  of a single type of item. This bin can store &b32,768 Items&r.",
+
+  "chapter.mekanism.quest.11.subtitle.1": "Advanced Bin",
+  "chapter.mekanism.quest.11.description.1": "A block used to store large quantities  of a single type of item. This bin can store &48,192 Items&r.",
+
+  "chapter.mekanism.quest.12.subtitle.1": "Basic Bin",
+  "chapter.mekanism.quest.12.description.1": "A block used to store large quantities  of a single type of item. This bin can store &a4,096 Items&r",
+
+  "----------------------------------------------------",
+
+  "chapter.mekanism.quest.13.subtitle.1": "Advanced Solar Panel",
+  "chapter.mekanism.quest.13.description.1": "The &bAdvanced Solar Generator&f is a highly upgraded version of the basic Solar Generator.",
+
+  "chapter.mekanism.quest.14.subtitle.1": "A really good WindMill",
+  "chapter.mekanism.quest.14.description.1": "A &bWind Turbine's&f giant blades harness the force of the wind to generate &6power&f. Each Wind Turbine requires a fairly large 1x1x5 area. The machine will generate power day and night, in sun or rain, but the turbine must have a clear view of the sky.",
+
+  "chapter.mekanism.quest.15.subtitle.1": "Careful it's Hot",
+  "chapter.mekanism.quest.15.description.1": "A &bHeat Generator&f converts &4heat energy&f into &6power&f. This is often the first generator to craft because, although it provides only a small amount of power, it is enough to start the mod.",
+
+  "chapter.mekanism.quest.16.subtitle.1": "Gas Recycling",
+  "chapter.mekanism.quest.16.description.1": "A &bGas-Burning Generator&f creates power by consuming any burnable gas for example the Hydrogen produced by an Electrolytic Separator or Ethylene.",
+
+  "chapter.mekanism.quest.17.subtitle.1": "Ecologic Energy",
+  "chapter.mekanism.quest.17.description.1": "&bBio-Generators&f produce electricity from &aBio Fuel&f.",
+
+  "----------------------------------------------------",
+
+  "chapter.mekanism.quest.18.title": "The Fusion Reactor",
+  "chapter.mekanism.quest.18.subtitle.1": "Powering The World",
+  "chapter.mekanism.quest.18.description.1": "The &bFusion Reactor&r is a multiblock structure that allows for variable input rates of 3 types of fuel: Deuterium, Tritium and D-T Fuel. By water cooling the structure, steam can be produced alongside power, which is useful for powering an Industrial Turbine.",
+  "chapter.mekanism.quest.18.description.2": "• 75x Reactor Frame (Build + other reactor parts)",
+  "chapter.mekanism.quest.18.description.3": "• 2x Reactor Port",
+  "chapter.mekanism.quest.18.description.4": "• 1x Reactor Controller",
+  "chapter.mekanism.quest.18.description.5": "• 8x Reactor Glass",
+  "chapter.mekanism.quest.18.description.6": "• 1x Laser Focus Matrix",
+
+  "chapter.mekanism.quest.19.title": "&6Reactor starter kit",
+  "chapter.mekanism.quest.19.subtitle.1": "Powering the Beast",
+  "chapter.mekanism.quest.19.description.1": "&bThe Fusion Reactor&r will not start on its own. It requires an outside burst of energy from a charged Laser Amplifier and a small amount of D-T Fuel to begin the fusion process. Once the reaction is jump started, it will begin consuming supplied Deuterium and Tritium, creating plasma and generating power. Alternatively you can use a Resistive Heater heating the reactor to 100.00MK Plasma temperature. This can be done quickest at 10MFE/t usage on the heater",
+  "chapter.mekanism.quest.19.description.2": "&bThe Hohlraum&r stores 10 units of D-T Fuel required for the initial reaction. To fill it up, place it into a Chemical Infuser which is combining Deuterium and Tritium. Place the Hohlraum into the Reactor Controller when it contains the required D-T Fuel.",
+  "chapter.mekanism.quest.19.description.3": "The statistics tab details the required ignition temperature for the reaction to begin. To reach this temperature, a Laser Amplifier must be charged with energy from several Lasers feeding into it, and fired into the Laser Focus Matrix. The energy required to start the reaction it requires 400MFE. It must be injected in one big burst to prevent temperature from dissipating, so adding Redstone sensitivity or increasing the minimum energy required by the Amplifier will prevent it from firing prematurely.",
+  "chapter.mekanism.quest.19.description.4": "With the Hohlraum in the Reactor Controller and enough energy stored in the Amplifier, fire the laser to begin the fusion reaction. If a high enough temperature was achieved, you should immediately see and hear the reactor running. To sustain the reaction, the temperature must not drop below the ignition temperature. Make sure the injection rate is high enough and fuel is constantly being supplied.",
+
+  "chapter.mekanism.quest.20.title": "Supercritical Phase Shifter",
+  "chapter.mekanism.quest.20.subtitle.1": "SPS Reactor",
+  "chapter.mekanism.quest.20.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
+  "chapter.mekanism.quest.20.description.2": "The optimal minimal build consists of :",
+  "chapter.mekanism.quest.20.description.3": "• 60 SPS Casings (+12 crafting material for 3 SPS Ports)",
+  "chapter.mekanism.quest.20.description.4": "• 123 Reactor Glass or Structural Glass",
+  "chapter.mekanism.quest.20.description.5": "• 3 SPS Ports",
+  "chapter.mekanism.quest.20.description.6": "• 1 Supercharged Coil",
+
+  "chapter.mekanism.quest.21.subtitle.1": "Creating Antimatter",
+  "chapter.mekanism.quest.21.description.1": "With the SPS and Polonium Gas create Antimatter gas.",
+
+  "chapter.mekanism.quest.22.title": "Turbine Reactor",
+  "chapter.mekanism.quest.22.subtitle.1": "Steam goes BRRRR",
+  "chapter.mekanism.quest.22.description.1": "The &bTurbine Casing&f is a pressure-resistant casing that is used in the creation of the &cIndustrial Turbine&f multi block structure.",
+  "chapter.mekanism.quest.22.description.2": "The &bElectromagnetic Coil&f is a block used in creating several multi-block structures, including the Thermoelectric Boiler.",
+
+"----------------------------------------------------",
+
+  "chapter.mekanism.quest.23.subtitle.1": "Basic Solar Panel",
+  "chapter.mekanism.quest.23.description.1": "Generates 18.80 FE/t.",
+
+  "chapter.mekanism.quest.24.subtitle.1": "Green Solar Panel",
+  "chapter.mekanism.quest.24.description.1" : "Generates 123.34 kFE/t",
+
+  "chapter.mekanism.quest.25.subtitle.1": "Red Solar Panel",
+  "chapter.mekanism.quest.25.description.1": "Generates 41.11 kFE/t",
+
+  "chapter.mekanism.quest.26.subtitle.1": "Pink Solar Panel",
+  "chapter.mekanism.quest.26.description.1": "Generates 13.70 kFE/t",
+
+  "chapter.mekanism.quest.27.subtitle.1": "Yellow Solar Panel",
+  "chapter.mekanism.quest.27.description.1": "Generates 4.56 kFE/t",
+
+  "chapter.mekanism.quest.28.subtitle.1": "Purple Solar Panel",
+  "chapter.mekanism.quest.28.description.1": "Generates 1.52 kFE/t",
+
+  "chapter.mekanism.quest.29.subtitle.1": "Cyan Solar Panel",
+  "chapter.mekanism.quest.29.description.1": "Generates 507.60 FE/t",
+
+  "chapter.mekanism.quest.30.subtitle.1": "Blue Solar Panel",
+  "chapter.mekanism.quest.30.description.1": "Generates 160.20 FE/t",
+
+  "chapter.mekanism.quest.31.subtitle.1": "Black Solar Panel",
+  "chapter.mekanism.quest.31.description.1": "Generates 56.40 FE/t",
+
+  "----------------------------------------------------",
+
+  "chapter.mekanism.quest.32.subtitle.1": "Absolute Storage",
+  "chapter.mekanism.quest.32.description.1": "An &bEnergy Cube&f is an advanced type of battery that is compatible with multiple energy systems. Energy can be input from 5 sides, and output on 1 side.",
+  "chapter.mekanism.quest.32.description.2": "This Cube can store 409.60 MFE.",
+
+  "chapter.mekanism.quest.33.subtitle.1": "Supreme Storage",
+  "chapter.mekanism.quest.33.description.1": "This Cube can store 1.63 GFE",
+
+  "chapter.mekanism.quest.34.subtitle.1": "Cosmic Storage",
+  "chapter.mekanism.quest.34.description.1": "This Cube can store 6.55 GFE",
+
+  "chapter.mekanism.quest.35.subtitle.1": "Infinite Storage",
+  "chapter.mekanism.quest.35.description.1": "This Cube can store 26.21 GFE",
+
+  "chapter.mekanism.quest.36.subtitle.1": "Ultimate Storage",
+  "chapter.mekanism.quest.36.description.1": "This Cube can store 102.40 MFE",
+
+  "chapter.mekanism.quest.37.subtitle.1": "Elite Storage",
+  "chapter.mekanism.quest.37.description.1": "This Cube can store 25.60 MFE",
+
+  "chapter.mekanism.quest.38.subtitle.1": "Advanced Storage",
+  "chapter.mekanism.quest.38.description.1": "This Cube can store 6.40 MFE",
+
+  "chapter.mekanism.quest.39.subtitle.1": "Basic Storage",
+  "chapter.mekanism.quest.39.description.1": "This Cube can store 1.60 MFE",
+
+  "chapter.mekanism.quest.40.title": "",
+  "chapter.mekanism.quest.40.subtitle.1": "",
+  "chapter.mekanism.quest.40.description.1": "",
+
+  "chapter.mekanism.quest.41.title": "",
+  "chapter.mekanism.quest.41.subtitle.1": "",
+  "chapter.mekanism.quest.41.description.1": "",
+
+  "chapter.mekanism.quest.42.title": "",
+  "chapter.mekanism.quest.42.subtitle.1": "",
+  "chapter.mekanism.quest.42.description.1": "",
+
+  "chapter.mekanism.quest.43.title": "",
+  "chapter.mekanism.quest.43.subtitle.1": "",
+  "chapter.mekanism.quest.43.description.1": "",
+
+  "chapter.mekanism.quest.44.title": "",
+  "chapter.mekanism.quest.44.subtitle.1": "",
+  "chapter.mekanism.quest.44.description.1": "",
+
+  "chapter.mekanism.quest.45.title": "",
+  "chapter.mekanism.quest.45.subtitle.1": "",
+  "chapter.mekanism.quest.45.description.1": "",
+
+  "chapter.mekanism.quest.46.title": "",
+  "chapter.mekanism.quest.46.subtitle.1": "",
+  "chapter.mekanism.quest.46.description.1": "",
+
+  "chapter.mekanism.quest.47.title": "",
+  "chapter.mekanism.quest.47.subtitle.1": "",
+  "chapter.mekanism.quest.47.description.1": "",
+
+  "chapter.mekanism.quest.48.title": "",
+  "chapter.mekanism.quest.48.subtitle.1": "",
+  "chapter.mekanism.quest.48.description.1": "",
+
+  "chapter.mekanism.quest.49.title": "",
+  "chapter.mekanism.quest.49.subtitle.1": "",
+  "chapter.mekanism.quest.49.description.1": "",
+
+  "chapter.mekanism.quest.50.title": "",
+  "chapter.mekanism.quest.50.subtitle.1": "",
+  "chapter.mekanism.quest.50.description.1": "",
+
+  "chapter.mekanism.quest.51.title": "",
+  "chapter.mekanism.quest.51.subtitle.1": "",
+  "chapter.mekanism.quest.51.description.1": "",
+
+  "chapter.mekanism.quest.52.title": "",
+  "chapter.mekanism.quest.52.subtitle.1": "",
+  "chapter.mekanism.quest.52.description.1": "",
+
+  "chapter.mekanism.quest.53.title": "",
+  "chapter.mekanism.quest.53.subtitle.1": "",
+  "chapter.mekanism.quest.53.description.1": "",
+
+  "chapter.mekanism.quest.54.title": "",
+  "chapter.mekanism.quest.54.subtitle.1": "",
+  "chapter.mekanism.quest.54.description.1": "",
+
+  "chapter.mekanism.quest.55.title": "",
+  "chapter.mekanism.quest.55.subtitle.1": "",
+  "chapter.mekanism.quest.55.description.1": "",
+
+  "chapter.mekanism.quest.56.title": "",
+  "chapter.mekanism.quest.56.subtitle.1": "",
+  "chapter.mekanism.quest.56.description.1": "",
+
+  "chapter.mekanism.quest.57.title": "",
+  "chapter.mekanism.quest.57.subtitle.1": "",
+  "chapter.mekanism.quest.57.description.1": "",
+
+  "chapter.mekanism.quest.58.title": "",
+  "chapter.mekanism.quest.58.subtitle.1": "",
+  "chapter.mekanism.quest.58.description.1": "",
+
+  "chapter.mekanism.quest.59.title": "",
+  "chapter.mekanism.quest.59.subtitle.1": "",
+  "chapter.mekanism.quest.59.description.1": "",
+
+  "chapter.mekanism.quest.60.title": "",
+  "chapter.mekanism.quest.60.subtitle.1": "",
+  "chapter.mekanism.quest.60.description.1": "",
+
+  "chapter.mekanism.quest.61.title": "",
+  "chapter.mekanism.quest.61.subtitle.1": "",
+  "chapter.mekanism.quest.61.description.1": "",
+
+  "chapter.mekanism.quest.62.title": "",
+  "chapter.mekanism.quest.62.subtitle.1": "",
+  "chapter.mekanism.quest.62.description.1": "",
+
+  "chapter.mekanism.quest.63.title": "",
+  "chapter.mekanism.quest.63.subtitle.1": "",
+  "chapter.mekanism.quest.63.description.1": "",
+
+  "chapter.mekanism.quest.64.title": "",
+  "chapter.mekanism.quest.64.subtitle.1": "",
+  "chapter.mekanism.quest.64.description.1": "",
+
+  "chapter.mekanism.quest.65.title": "",
+  "chapter.mekanism.quest.65.subtitle.1": "",
+  "chapter.mekanism.quest.65.description.1": "",
+
+  "chapter.mekanism.quest.66.title": "",
+  "chapter.mekanism.quest.66.subtitle.1": "",
+  "chapter.mekanism.quest.66.description.1": "",
+
+  "chapter.mekanism.quest.67.title": "",
+  "chapter.mekanism.quest.67.subtitle.1": "",
+  "chapter.mekanism.quest.67.description.1": "",
+
+  "chapter.mekanism.quest.68.title": "",
+  "chapter.mekanism.quest.68.subtitle.1": "",
+  "chapter.mekanism.quest.68.description.1": "",
+
+  "chapter.mekanism.quest.69.title": "",
+  "chapter.mekanism.quest.69.subtitle.1": "",
+  "chapter.mekanism.quest.69.description.1": "",
+
+  "chapter.mekanism.quest.70.title": "",
+  "chapter.mekanism.quest.70.subtitle.1": "",
+  "chapter.mekanism.quest.70.description.1": "",
+
+  "chapter.mekanism.quest.71.title": "",
+  "chapter.mekanism.quest.71.subtitle.1": "",
+  "chapter.mekanism.quest.71.description.1": "",
+
+  "chapter.mekanism.quest.72.title": "",
+  "chapter.mekanism.quest.72.subtitle.1": "",
+  "chapter.mekanism.quest.72.description.1": "",
+
+  "chapter.mekanism.quest.73.title": "",
+  "chapter.mekanism.quest.73.subtitle.1": "",
+  "chapter.mekanism.quest.73.description.1": "",
+
+  "chapter.mekanism.quest.74.title": "",
+  "chapter.mekanism.quest.74.subtitle.1": "",
+  "chapter.mekanism.quest.74.description.1": "",
+
+  "chapter.mekanism.quest.75.title": "",
+  "chapter.mekanism.quest.75.subtitle.1": "",
+  "chapter.mekanism.quest.75.description.1": "",
+
+  "chapter.mekanism.quest.76.title": "",
+  "chapter.mekanism.quest.76.subtitle.1": "",
+  "chapter.mekanism.quest.76.description.1": "",
+
+  "chapter.mekanism.quest.77.title": "",
+  "chapter.mekanism.quest.77.subtitle.1": "",
+  "chapter.mekanism.quest.77.description.1": "",
+
+  "chapter.mekanism.quest.78.title": "",
+  "chapter.mekanism.quest.78.subtitle.1": "",
+  "chapter.mekanism.quest.78.description.1": "",
+
+  "chapter.mekanism.quest.79.title": "",
+  "chapter.mekanism.quest.79.subtitle.1": "",
+  "chapter.mekanism.quest.79.description.1": "",
+
+  "chapter.mekanism.quest.80.title": "",
+  "chapter.mekanism.quest.80.subtitle.1": "",
+  "chapter.mekanism.quest.80.description.1": "",
+
+  "chapter.mekanism.quest.81.title": "",
+  "chapter.mekanism.quest.81.subtitle.1": "",
+  "chapter.mekanism.quest.81.description.1": "",
+
+  "chapter.mekanism.quest.82.title": "",
+  "chapter.mekanism.quest.82.subtitle.1": "",
+  "chapter.mekanism.quest.82.description.1": "",
+
+  "chapter.mekanism.quest.83.title": "",
+  "chapter.mekanism.quest.83.subtitle.1": "",
+  "chapter.mekanism.quest.83.description.1": "",
+
+  "chapter.mekanism.quest.84.title": "",
+  "chapter.mekanism.quest.84.subtitle.1": "",
+  "chapter.mekanism.quest.84.description.1": "",
+
+  "chapter.mekanism.quest.85.title": "",
+  "chapter.mekanism.quest.85.subtitle.1": "",
+  "chapter.mekanism.quest.85.description.1": "",
+
+  "chapter.mekanism.quest.86.title": "",
+  "chapter.mekanism.quest.86.subtitle.1": "",
+  "chapter.mekanism.quest.86.description.1": "",
+
+  "chapter.mekanism.quest.87.title": "",
+  "chapter.mekanism.quest.87.subtitle.1": "",
+  "chapter.mekanism.quest.87.description.1": "",
+
+  "chapter.mekanism.quest.88.title": "",
+  "chapter.mekanism.quest.88.subtitle.1": "",
+  "chapter.mekanism.quest.88.description.1": "",
+
+  "chapter.mekanism.quest.89.title": "",
+  "chapter.mekanism.quest.89.subtitle.1": "",
+  "chapter.mekanism.quest.89.description.1": "",
+
+  "chapter.mekanism.quest.90.title": "",
+  "chapter.mekanism.quest.90.subtitle.1": "",
+  "chapter.mekanism.quest.90.description.1": "",
+
+  "chapter.mekanism.quest.91.title": "",
+  "chapter.mekanism.quest.91.subtitle.1": "",
+  "chapter.mekanism.quest.91.description.1": "",
+
+  "chapter.mekanism.quest.92.title": "",
+  "chapter.mekanism.quest.92.subtitle.1": "",
+  "chapter.mekanism.quest.92.description.1": "",
+
+  "chapter.mekanism.quest.93.title": "",
+  "chapter.mekanism.quest.93.subtitle.1": "",
+  "chapter.mekanism.quest.93.description.1": "",
+
+  "chapter.mekanism.quest.94.title": "",
+  "chapter.mekanism.quest.94.subtitle.1": "",
+  "chapter.mekanism.quest.94.description.1": "",
+
+  "chapter.mekanism.quest.95.title": "",
+  "chapter.mekanism.quest.95.subtitle.1": "",
+  "chapter.mekanism.quest.95.description.1": "",
+
+  "chapter.mekanism.quest.96.title": "",
+  "chapter.mekanism.quest.96.subtitle.1": "",
+  "chapter.mekanism.quest.96.description.1": "",
+
+  "chapter.mekanism.quest.97.title": "",
+  "chapter.mekanism.quest.97.subtitle.1": "",
+  "chapter.mekanism.quest.97.description.1": "",
+
+  "chapter.mekanism.quest.98.title": "",
+  "chapter.mekanism.quest.98.subtitle.1": "",
+  "chapter.mekanism.quest.98.description.1": "",
+
+  "chapter.mekanism.quest.99.title": "",
+  "chapter.mekanism.quest.99.subtitle.1": "",
+  "chapter.mekanism.quest.99.description.1": "",
+
+  "chapter.mekanism.quest.100.title": "",
+  "chapter.mekanism.quest.100.subtitle.1": "",
+  "chapter.mekanism.quest.100.description.1": "",
+
+  "chapter.mekanism.quest.101.title": "",
+  "chapter.mekanism.quest.101.subtitle.1": "",
+  "chapter.mekanism.quest.101.description.1": "",
+
+  "chapter.mekanism.quest.102.title": "",
+  "chapter.mekanism.quest.102.subtitle.1": "",
+  "chapter.mekanism.quest.102.description.1": "",
+
+  "chapter.mekanism.quest.103.title": "",
+  "chapter.mekanism.quest.103.subtitle.1": "",
+  "chapter.mekanism.quest.103.description.1": "",
+
+  "chapter.mekanism.quest.104.title": "",
+  "chapter.mekanism.quest.104.subtitle.1": "",
+  "chapter.mekanism.quest.104.description.1": "",
+
+  "chapter.mekanism.quest.105.title": "",
+  "chapter.mekanism.quest.105.subtitle.1": "",
+  "chapter.mekanism.quest.105.description.1": "",
+
+  "chapter.mekanism.quest.106.title": "",
+  "chapter.mekanism.quest.106.subtitle.1": "",
+  "chapter.mekanism.quest.106.description.1": "",
+
+  "chapter.mekanism.quest.107.title": "",
+  "chapter.mekanism.quest.107.subtitle.1": "",
+  "chapter.mekanism.quest.107.description.1": "",
+
+  "chapter.mekanism.quest.108.title": "",
+  "chapter.mekanism.quest.108.subtitle.1": "",
+  "chapter.mekanism.quest.108.description.1": "",
+
+  "chapter.mekanism.quest.109.title": "",
+  "chapter.mekanism.quest.109.subtitle.1": "",
+  "chapter.mekanism.quest.109.description.1": "",
+
+  "chapter.mekanism.quest.110.title": "",
+  "chapter.mekanism.quest.110.subtitle.1": "",
+  "chapter.mekanism.quest.110.description.1": "",
+
+  "chapter.mekanism.quest.111.title": "",
+  "chapter.mekanism.quest.111.subtitle.1": "",
+  "chapter.mekanism.quest.111.description.1": "",
+
+  "chapter.mekanism.quest.112.title": "",
+  "chapter.mekanism.quest.112.subtitle.1": "",
+  "chapter.mekanism.quest.112.description.1": "",
+
+  "chapter.mekanism.quest.113.title": "",
+  "chapter.mekanism.quest.113.subtitle.1": "",
+  "chapter.mekanism.quest.113.description.1": "",
+
+  "chapter.mekanism.quest.114.title": "",
+  "chapter.mekanism.quest.114.subtitle.1": "",
+  "chapter.mekanism.quest.114.description.1": "",
+
+  "chapter.mekanism.quest.115.title": "",
+  "chapter.mekanism.quest.115.subtitle.1": "",
+  "chapter.mekanism.quest.115.description.1": "",
+
+  "chapter.mekanism.quest.116.title": "",
+  "chapter.mekanism.quest.116.subtitle.1": "",
+  "chapter.mekanism.quest.116.description.1": "",
+
+  "chapter.mekanism.quest.117.title": "",
+  "chapter.mekanism.quest.117.subtitle.1": "",
+  "chapter.mekanism.quest.117.description.1": "",
+
+  "chapter.mekanism.quest.118.title": "",
+  "chapter.mekanism.quest.118.subtitle.1": "",
+  "chapter.mekanism.quest.118.description.1": "",
+
+  "chapter.mekanism.quest.119.title": "",
+  "chapter.mekanism.quest.119.subtitle.1": "",
+  "chapter.mekanism.quest.119.description.1": "",
+
+  "chapter.mekanism.quest.120.title": "",
+  "chapter.mekanism.quest.120.subtitle.1": "",
+  "chapter.mekanism.quest.120.description.1": "",
+
+  "chapter.mekanism.quest.121.title": "",
+  "chapter.mekanism.quest.121.subtitle.1": "",
+  "chapter.mekanism.quest.121.description.1": "",
+
+  "chapter.mekanism.quest.122.title": "",
+  "chapter.mekanism.quest.122.subtitle.1": "",
+  "chapter.mekanism.quest.122.description.1": "",
+
+  "chapter.mekanism.quest.123.title": "",
+  "chapter.mekanism.quest.123.subtitle.1": "",
+  "chapter.mekanism.quest.123.description.1": "",
+
+  "chapter.mekanism.quest.124.title": "",
+  "chapter.mekanism.quest.124.subtitle.1": "",
+  "chapter.mekanism.quest.124.description.1": "",
+
+  "chapter.mekanism.quest.125.title": "",
+  "chapter.mekanism.quest.125.subtitle.1": "",
+  "chapter.mekanism.quest.125.description.1": "",
+
+  "chapter.mekanism.quest.126.title": "",
+  "chapter.mekanism.quest.126.subtitle.1": "",
+  "chapter.mekanism.quest.126.description.1": "",
+
+  "chapter.mekanism.quest.127.title": "",
+  "chapter.mekanism.quest.127.subtitle.1": "",
+  "chapter.mekanism.quest.127.description.1": "",
+
+  "chapter.mekanism.quest.128.title": "",
+  "chapter.mekanism.quest.128.subtitle.1": "",
+  "chapter.mekanism.quest.128.description.1": "",
+
+  "chapter.mekanism.quest.129.title": "",
+  "chapter.mekanism.quest.129.subtitle.1": "",
+  "chapter.mekanism.quest.129.description.1": "",
+
+  "chapter.mekanism.quest.130.title": "",
+  "chapter.mekanism.quest.130.subtitle.1": "",
+  "chapter.mekanism.quest.130.description.1": "",
+
+  "chapter.mekanism.quest.131.title": "",
+  "chapter.mekanism.quest.131.subtitle.1": "",
+  "chapter.mekanism.quest.131.description.1": "",
+
+  "chapter.mekanism.quest.132.title": "",
+  "chapter.mekanism.quest.132.subtitle.1": "",
+  "chapter.mekanism.quest.132.description.1": "",
+
+  "chapter.mekanism.quest.133.title": "",
+  "chapter.mekanism.quest.133.subtitle.1": "",
+  "chapter.mekanism.quest.133.description.1": "",
+
+  "chapter.mekanism.quest.134.title": "",
+  "chapter.mekanism.quest.134.subtitle.1": "",
+  "chapter.mekanism.quest.134.description.1": "",
+
+  "chapter.mekanism.quest.135.title": "",
+  "chapter.mekanism.quest.135.subtitle.1": "",
+  "chapter.mekanism.quest.135.description.1": "",
+
+  "chapter.mekanism.quest.136.title": "",
+  "chapter.mekanism.quest.136.subtitle.1": "",
+  "chapter.mekanism.quest.136.description.1": "",
+
+  "chapter.mekanism.quest.137.title": "",
+  "chapter.mekanism.quest.137.subtitle.1": "",
+  "chapter.mekanism.quest.137.description.1": "",
+
+  "chapter.mekanism.quest.138.title": "",
+  "chapter.mekanism.quest.138.subtitle.1": "",
+  "chapter.mekanism.quest.138.description.1": "",
+
+  "chapter.mekanism.quest.139.title": "",
+  "chapter.mekanism.quest.139.subtitle.1": "",
+  "chapter.mekanism.quest.139.description.1": "",
+
+  "chapter.mekanism.quest.140.title": "",
+  "chapter.mekanism.quest.140.subtitle.1": "",
+  "chapter.mekanism.quest.140.description.1": "",
+
+  "chapter.mekanism.quest.141.title": "",
+  "chapter.mekanism.quest.141.subtitle.1": "",
+  "chapter.mekanism.quest.141.description.1": "",
+
+  "chapter.mekanism.quest.142.title": "",
+  "chapter.mekanism.quest.142.subtitle.1": "",
+  "chapter.mekanism.quest.142.description.1": "",
+
+  "chapter.mekanism.quest.143.title": "",
+  "chapter.mekanism.quest.143.subtitle.1": "",
+  "chapter.mekanism.quest.143.description.1": "",
+
+  "chapter.mekanism.quest.144.title": "",
+  "chapter.mekanism.quest.144.subtitle.1": "",
+  "chapter.mekanism.quest.144.description.1": "",
+
+  "chapter.mekanism.quest.145.title": "",
+  "chapter.mekanism.quest.145.subtitle.1": "",
+  "chapter.mekanism.quest.145.description.1": "",
+
+  "chapter.mekanism.quest.146.title": "",
+  "chapter.mekanism.quest.146.subtitle.1": "",
+  "chapter.mekanism.quest.146.description.1": "",
+
+  "chapter.mekanism.quest.147.title": "",
+  "chapter.mekanism.quest.147.subtitle.1": "",
+  "chapter.mekanism.quest.147.description.1": "",
+
+  "chapter.mekanism.quest.148.title": "",
+  "chapter.mekanism.quest.148.subtitle.1": "",
+  "chapter.mekanism.quest.148.description.1": "",
+
+  "chapter.mekanism.quest.149.title": "",
+  "chapter.mekanism.quest.149.subtitle.1": "",
+  "chapter.mekanism.quest.149.description.1": "",
+
+  "chapter.mekanism.quest.150.title": "",
+  "chapter.mekanism.quest.150.subtitle.1": "",
+  "chapter.mekanism.quest.150.description.1": "",
+
+  "chapter.mekanism.quest.151.title": "",
+  "chapter.mekanism.quest.151.subtitle.1": "",
+  "chapter.mekanism.quest.151.description.1": "",
+
+  "chapter.mekanism.quest.152.title": "",
+  "chapter.mekanism.quest.152.subtitle.1": "",
+  "chapter.mekanism.quest.152.description.1": "",
+
+  "chapter.mekanism.quest.153.title": "",
+  "chapter.mekanism.quest.153.subtitle.1": "",
+  "chapter.mekanism.quest.153.description.1": "",
+
+  "chapter.mekanism.quest.154.title": "",
+  "chapter.mekanism.quest.154.subtitle.1": "",
+  "chapter.mekanism.quest.154.description.1": "",
+
+  "chapter.mekanism.quest.155.title": "",
+  "chapter.mekanism.quest.155.subtitle.1": "",
+  "chapter.mekanism.quest.155.description.1": "",
+
+  "chapter.mekanism.quest.156.title": "",
+  "chapter.mekanism.quest.156.subtitle.1": "",
+  "chapter.mekanism.quest.156.description.1": "",
+
+  "chapter.mekanism.quest.157.title": "",
+  "chapter.mekanism.quest.157.subtitle.1": "",
+  "chapter.mekanism.quest.157.description.1": ""
+
+
 }
