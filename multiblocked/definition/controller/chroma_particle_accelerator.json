@@ -20,23 +20,26 @@
   "status": {
     "unformed": {
       "renderer": {
-        "modelLocation": "multiblocked:particle_accelerator_controller",
-        "type": "imodel",
+        "baseTexture": "multiblocked:casing/accelerator_frame",
+        "frontTexture": "multiblocked:casing/particle_off",
+        "type": "gregtech",
         "postRenderer": false
       }
     },
     "idle": {
       "renderer": {
-        "modelLocation": "multiblocked:particle_accelerator_controller_idle",
-        "type": "imodel",
+        "baseTexture": "multiblocked:casing/accelerator_frame",
+        "frontTexture": "multiblocked:casing/particle_idle",
+        "type": "gregtech",
         "postRenderer": false
       },
       "parent": "unformed"
     },
     "working": {
       "renderer": {
-        "modelLocation": "multiblocked:particle_accelerator_controller_active",
-        "type": "imodel",
+        "baseTexture": "multiblocked:casing/accelerator_frame",
+        "frontTexture": "multiblocked:casing/particle_active",
+        "type": "gregtech",
         "postRenderer": false
       },
       "parent": "idle"
