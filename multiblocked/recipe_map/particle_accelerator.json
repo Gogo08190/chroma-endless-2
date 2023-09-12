@@ -1,0 +1,63 @@
+{
+  "name": "particle_accelerator",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "creative_essence",
+      "duration": 200,
+      "inputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "mysticalagradditions:insanium_essence"
+              }
+            },
+            "chance": 1.0
+          }
+        ],
+        "fluid": [
+          {
+            "content": {
+              "fluid": "mekanismgenerators:deuterium",
+              "amount": 1000
+            },
+            "chance": 1.0
+          },
+          {
+            "content": {
+              "fluid": "chemlib:helium_fluid",
+              "amount": 1000
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "mysticalagradditions:creative_essence"
+              }
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "tickInputs": {
+        "forge_energy": [
+          {
+            "content": 250000,
+            "chance": 1.0
+          }
+        ]
+      }
+    }
+  ]
+}
