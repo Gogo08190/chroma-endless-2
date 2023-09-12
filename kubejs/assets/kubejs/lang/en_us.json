@@ -2461,265 +2461,210 @@
   "chapter.mekanism.quest.39.subtitle.1": "Basic Storage",
   "chapter.mekanism.quest.39.description.1": "This Cube can store 1.60 MFE",
 
-  "chapter.mekanism.quest.40.title": "",
-  "chapter.mekanism.quest.40.subtitle.1": "",
-  "chapter.mekanism.quest.40.description.1": "",
-
-  "chapter.mekanism.quest.41.title": "",
-  "chapter.mekanism.quest.41.subtitle.1": "",
-  "chapter.mekanism.quest.41.description.1": "",
-
-  "chapter.mekanism.quest.42.title": "",
-  "chapter.mekanism.quest.42.subtitle.1": "",
-  "chapter.mekanism.quest.42.description.1": "",
-
-  "chapter.mekanism.quest.43.title": "",
-  "chapter.mekanism.quest.43.subtitle.1": "",
-  "chapter.mekanism.quest.43.description.1": "",
-
-  "chapter.mekanism.quest.44.title": "",
-  "chapter.mekanism.quest.44.subtitle.1": "",
-  "chapter.mekanism.quest.44.description.1": "",
-
-  "chapter.mekanism.quest.45.title": "",
-  "chapter.mekanism.quest.45.subtitle.1": "",
-  "chapter.mekanism.quest.45.description.1": "",
-
-  "chapter.mekanism.quest.46.title": "",
-  "chapter.mekanism.quest.46.subtitle.1": "",
-  "chapter.mekanism.quest.46.description.1": "",
-
-  "chapter.mekanism.quest.47.title": "",
-  "chapter.mekanism.quest.47.subtitle.1": "",
-  "chapter.mekanism.quest.47.description.1": "",
-
-  "chapter.mekanism.quest.48.title": "",
-  "chapter.mekanism.quest.48.subtitle.1": "",
-  "chapter.mekanism.quest.48.description.1": "",
-
-  "chapter.mekanism.quest.49.title": "",
-  "chapter.mekanism.quest.49.subtitle.1": "",
-  "chapter.mekanism.quest.49.description.1": "",
-
-  "chapter.mekanism.quest.50.title": "",
-  "chapter.mekanism.quest.50.subtitle.1": "",
-  "chapter.mekanism.quest.50.description.1": "",
-
-  "chapter.mekanism.quest.51.title": "",
-  "chapter.mekanism.quest.51.subtitle.1": "",
-  "chapter.mekanism.quest.51.description.1": "",
-
-  "chapter.mekanism.quest.52.title": "",
-  "chapter.mekanism.quest.52.subtitle.1": "",
-  "chapter.mekanism.quest.52.description.1": "",
-
-  "chapter.mekanism.quest.53.title": "",
-  "chapter.mekanism.quest.53.subtitle.1": "",
-  "chapter.mekanism.quest.53.description.1": "",
-
-  "chapter.mekanism.quest.54.title": "",
-  "chapter.mekanism.quest.54.subtitle.1": "",
-  "chapter.mekanism.quest.54.description.1": "",
-
-  "chapter.mekanism.quest.55.title": "",
-  "chapter.mekanism.quest.55.subtitle.1": "",
-  "chapter.mekanism.quest.55.description.1": "",
-
-  "chapter.mekanism.quest.56.title": "",
-  "chapter.mekanism.quest.56.subtitle.1": "",
-  "chapter.mekanism.quest.56.description.1": "",
-
-  "chapter.mekanism.quest.57.title": "",
-  "chapter.mekanism.quest.57.subtitle.1": "",
-  "chapter.mekanism.quest.57.description.1": "",
-
-  "chapter.mekanism.quest.58.title": "",
-  "chapter.mekanism.quest.58.subtitle.1": "",
-  "chapter.mekanism.quest.58.description.1": "",
-
-  "chapter.mekanism.quest.59.title": "",
-  "chapter.mekanism.quest.59.subtitle.1": "",
-  "chapter.mekanism.quest.59.description.1": "",
-
-  "chapter.mekanism.quest.60.title": "",
-  "chapter.mekanism.quest.60.subtitle.1": "",
-  "chapter.mekanism.quest.60.description.1": "",
-
-  "chapter.mekanism.quest.61.title": "",
-  "chapter.mekanism.quest.61.subtitle.1": "",
-  "chapter.mekanism.quest.61.description.1": "",
-
-  "chapter.mekanism.quest.62.title": "",
-  "chapter.mekanism.quest.62.subtitle.1": "",
-  "chapter.mekanism.quest.62.description.1": "",
-
-  "chapter.mekanism.quest.63.title": "",
-  "chapter.mekanism.quest.63.subtitle.1": "",
-  "chapter.mekanism.quest.63.description.1": "",
-
-  "chapter.mekanism.quest.64.title": "",
-  "chapter.mekanism.quest.64.subtitle.1": "",
-  "chapter.mekanism.quest.64.description.1": "",
-
-  "chapter.mekanism.quest.65.title": "",
-  "chapter.mekanism.quest.65.subtitle.1": "",
-  "chapter.mekanism.quest.65.description.1": "",
-
-  "chapter.mekanism.quest.66.title": "",
-  "chapter.mekanism.quest.66.subtitle.1": "",
-  "chapter.mekanism.quest.66.description.1": "",
-
-  "chapter.mekanism.quest.67.title": "",
-  "chapter.mekanism.quest.67.subtitle.1": "",
-  "chapter.mekanism.quest.67.description.1": "",
-
-  "chapter.mekanism.quest.68.title": "",
-  "chapter.mekanism.quest.68.subtitle.1": "",
-  "chapter.mekanism.quest.68.description.1": "",
-
-  "chapter.mekanism.quest.69.title": "",
-  "chapter.mekanism.quest.69.subtitle.1": "",
-  "chapter.mekanism.quest.69.description.1": "",
-
-  "chapter.mekanism.quest.70.title": "",
-  "chapter.mekanism.quest.70.subtitle.1": "",
-  "chapter.mekanism.quest.70.description.1": "",
-
-  "chapter.mekanism.quest.71.title": "",
-  "chapter.mekanism.quest.71.subtitle.1": "",
-  "chapter.mekanism.quest.71.description.1": "",
-
-  "chapter.mekanism.quest.72.title": "",
-  "chapter.mekanism.quest.72.subtitle.1": "",
-  "chapter.mekanism.quest.72.description.1": "",
-
-  "chapter.mekanism.quest.73.title": "",
-  "chapter.mekanism.quest.73.subtitle.1": "",
-  "chapter.mekanism.quest.73.description.1": "",
-
-  "chapter.mekanism.quest.74.title": "",
-  "chapter.mekanism.quest.74.subtitle.1": "",
-  "chapter.mekanism.quest.74.description.1": "",
-
-  "chapter.mekanism.quest.75.title": "",
-  "chapter.mekanism.quest.75.subtitle.1": "",
-  "chapter.mekanism.quest.75.description.1": "",
-
-  "chapter.mekanism.quest.76.title": "",
-  "chapter.mekanism.quest.76.subtitle.1": "",
-  "chapter.mekanism.quest.76.description.1": "",
-
-  "chapter.mekanism.quest.77.title": "",
-  "chapter.mekanism.quest.77.subtitle.1": "",
-  "chapter.mekanism.quest.77.description.1": "",
-
-  "chapter.mekanism.quest.78.title": "",
-  "chapter.mekanism.quest.78.subtitle.1": "",
-  "chapter.mekanism.quest.78.description.1": "",
-
-  "chapter.mekanism.quest.79.title": "",
-  "chapter.mekanism.quest.79.subtitle.1": "",
-  "chapter.mekanism.quest.79.description.1": "",
-
-  "chapter.mekanism.quest.80.title": "",
-  "chapter.mekanism.quest.80.subtitle.1": "",
-  "chapter.mekanism.quest.80.description.1": "",
-
-  "chapter.mekanism.quest.81.title": "",
-  "chapter.mekanism.quest.81.subtitle.1": "",
-  "chapter.mekanism.quest.81.description.1": "",
-
-  "chapter.mekanism.quest.82.title": "",
-  "chapter.mekanism.quest.82.subtitle.1": "",
-  "chapter.mekanism.quest.82.description.1": "",
-
-  "chapter.mekanism.quest.83.title": "",
-  "chapter.mekanism.quest.83.subtitle.1": "",
-  "chapter.mekanism.quest.83.description.1": "",
-
-  "chapter.mekanism.quest.84.title": "",
-  "chapter.mekanism.quest.84.subtitle.1": "",
-  "chapter.mekanism.quest.84.description.1": "",
-
-  "chapter.mekanism.quest.85.title": "",
-  "chapter.mekanism.quest.85.subtitle.1": "",
-  "chapter.mekanism.quest.85.description.1": "",
-
-  "chapter.mekanism.quest.86.title": "",
-  "chapter.mekanism.quest.86.subtitle.1": "",
-  "chapter.mekanism.quest.86.description.1": "",
-
-  "chapter.mekanism.quest.87.title": "",
-  "chapter.mekanism.quest.87.subtitle.1": "",
-  "chapter.mekanism.quest.87.description.1": "",
-
-  "chapter.mekanism.quest.88.title": "",
-  "chapter.mekanism.quest.88.subtitle.1": "",
-  "chapter.mekanism.quest.88.description.1": "",
-
-  "chapter.mekanism.quest.89.title": "",
-  "chapter.mekanism.quest.89.subtitle.1": "",
-  "chapter.mekanism.quest.89.description.1": "",
-
-  "chapter.mekanism.quest.90.title": "",
-  "chapter.mekanism.quest.90.subtitle.1": "",
-  "chapter.mekanism.quest.90.description.1": "",
-
-  "chapter.mekanism.quest.91.title": "",
-  "chapter.mekanism.quest.91.subtitle.1": "",
-  "chapter.mekanism.quest.91.description.1": "",
-
-  "chapter.mekanism.quest.92.title": "",
-  "chapter.mekanism.quest.92.subtitle.1": "",
-  "chapter.mekanism.quest.92.description.1": "",
-
-  "chapter.mekanism.quest.93.title": "",
-  "chapter.mekanism.quest.93.subtitle.1": "",
-  "chapter.mekanism.quest.93.description.1": "",
-
-  "chapter.mekanism.quest.94.title": "",
-  "chapter.mekanism.quest.94.subtitle.1": "",
-  "chapter.mekanism.quest.94.description.1": "",
-
-  "chapter.mekanism.quest.95.title": "",
-  "chapter.mekanism.quest.95.subtitle.1": "",
-  "chapter.mekanism.quest.95.description.1": "",
-
-  "chapter.mekanism.quest.96.title": "",
-  "chapter.mekanism.quest.96.subtitle.1": "",
-  "chapter.mekanism.quest.96.description.1": "",
-
-  "chapter.mekanism.quest.97.title": "",
-  "chapter.mekanism.quest.97.subtitle.1": "",
-  "chapter.mekanism.quest.97.description.1": "",
-
-  "chapter.mekanism.quest.98.title": "",
-  "chapter.mekanism.quest.98.subtitle.1": "",
-  "chapter.mekanism.quest.98.description.1": "",
-
-  "chapter.mekanism.quest.99.title": "",
-  "chapter.mekanism.quest.99.subtitle.1": "",
-  "chapter.mekanism.quest.99.description.1": "",
-
-  "chapter.mekanism.quest.100.title": "",
-  "chapter.mekanism.quest.100.subtitle.1": "",
-  "chapter.mekanism.quest.100.description.1": "",
-
-  "chapter.mekanism.quest.101.title": "",
-  "chapter.mekanism.quest.101.subtitle.1": "",
-  "chapter.mekanism.quest.101.description.1": "",
-
-  "chapter.mekanism.quest.102.title": "",
-  "chapter.mekanism.quest.102.subtitle.1": "",
-  "chapter.mekanism.quest.102.description.1": "",
-
-  "chapter.mekanism.quest.103.title": "",
-  "chapter.mekanism.quest.103.subtitle.1": "",
-  "chapter.mekanism.quest.103.description.1": "",
-
-  "chapter.mekanism.quest.104.title": "",
-  "chapter.mekanism.quest.104.subtitle.1": "",
-  "chapter.mekanism.quest.104.description.1": "",
+  "chapter.mekanism.quest.40.title": "Induction Matrix",
+  "chapter.mekanism.quest.40.subtitle.1": "Storage Complex",
+  "chapter.mekanism.quest.40.description.1": "&bInduction Casing&f makes up the multi-block that is the &eInduction Matrix&f, an &6energy storage&f structure that can hold a large amount of energy.",
+
+  "chapter.mekanism.quest.41.subtitle.1": "Providing Matrix : Basic",
+  "chapter.mekanism.quest.41.description.1": "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.42.subtitle.1": "Providing Matrix : Advanced",
+  "chapter.mekanism.quest.42.description.1" : "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.43.subtitle.1": "Providing Matrix : Elite",
+  "chapter.mekanism.quest.43.description.1" : "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.44.subtitle.1": "Providing Matrix : Ultimate",
+  "chapter.mekanism.quest.44.description.1" : "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.45.subtitle.1": "Basic Cell",
+  "chapter.mekanism.quest.45.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.mekanism.quest.46.subtitle.1": "Advanced Cell",
+  "chapter.mekanism.quest.46.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.mekanism.quest.47.subtitle.1": "Elite Cell",
+  "chapter.mekanism.quest.47.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.mekanism.quest.48.subtitle.1": "Ultimate Cell",
+  "chapter.mekanism.quest.48.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+"----------------------------------------------------",
+
+  "chapter.mekanism.quest.49.subtitle.1": "Enriching",
+  "chapter.mekanism.quest.49.description.1": "This machine uses energy to extract &6dusts &rout of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the &6Crusher&f, this machine is the pulverizer equivalent in other mods.",
+  "chapter.mekanism.quest.49.description.2": "Can also be used to turn Coal or Charcoal into &2Compressed Carbon&r, Redstone into &2Compressed Redstone&r, Diamond into &2Compressed Diamond&r and Refined Obsidian Dust into &2Compressed Obsidian&r, all of which are used in the &6Metallurgic Infuser&f.",
+
+  "chapter.mekanism.quest.50.subtitle.1": "Furnace with FE",
+  "chapter.mekanism.quest.50.description.1": "The &benergized smelter&f is your basic &5electric furnace&f that uses energy instead of fuel to &6smelt items&f.",
+
+  "chapter.mekanism.quest.51.subtitle.1": "Creating Ores",
+  "chapter.mekanism.quest.51.description.1": "The &bCombiner&f allows the player to create an &aore block&f from &28 dusts&f.",
+
+  "chapter.mekanism.quest.52.subtitle.1": "Clumping",
+  "chapter.mekanism.quest.52.description.1": "The &bPurification Chamber&f uses &7oxygen&f to refine Ores and shards into &eclumps&f. Each ore makes 3 clumps, whereas each shard only gives one clump.",
+
+  "chapter.mekanism.quest.53.subtitle.1": "Gas Extraction",
+  "chapter.mekanism.quest.53.description.1": "The &bElectrolytic Separator&f sends controlled amounts of direct current into a fluid, causing the atoms in the fluid to break their bonds. This process of electrolysis is used to &ecreate some very useful gases&f from some rather ordinary fluids.",
+
+  "chapter.mekanism.quest.54.subtitle.1": "Chemical Transformation",
+  "chapter.mekanism.quest.54.description.1": "The &bRotary Condensentrator&f is used for converting substances between liquid and gaseous forms at a rate of 1:1.",
+  "chapter.mekanism.quest.54.description.2": "It has two modes:",
+  "chapter.mekanism.quest.54.description.3": "&6Decondensentrating&f, which turns Liquids into Gases.",
+  "chapter.mekanism.quest.54.description.4": "&6Condensentrating&f, which turns Gases into Liquids.",
+
+  "chapter.mekanism.quest.55.subtitle.1": "HDPE Creation",
+  "chapter.mekanism.quest.55.description.1": "The &bPressurized Reaction Chamber (PRC)&f is used primarily to create &1Substrate&f (to create HDPE Pellets), &1HDPE Pellets&f (to create HDPE Sheets), and &1Ethylene&f (an efficient source of fuel used in the Gas-Burning Generator).",
+
+  "chapter.mekanism.quest.56.subtitle.1": "Gas Fusion",
+  "chapter.mekanism.quest.56.description.1": "The &bChemical Infuser&f combines or reacts two gases to create another gas.",
+
+  "chapter.mekanism.quest.57.subtitle.1": "Cleaning",
+  "chapter.mekanism.quest.57.description.1": "The &bChemical Crystallizer&f turns Clean Slurry into Crystals and Lithium into Lithium Dust.",
+
+  "chapter.mekanism.quest.58.subtitle.1": "Slurry Creation",
+  "chapter.mekanism.quest.58.description.1": "The &bChemical Dissolution Chamber&f is the first machine in the &cx5 ore processing setup&f. It turns &6raw ores&f into &6slurry&f using Sulfuric Acid.",
+
+  "chapter.mekanism.quest.59.subtitle.1": "Gas Maker",
+  "chapter.mekanism.quest.59.description.1": "The &bChemical Oxidizer&f is used for making gases from materials.",
+
+  "chapter.mekanism.quest.60.subtitle.1": "Cleaning Slurries",
+  "chapter.mekanism.quest.60.description.1": "The &bChemical Washer&f turns Slurry into Clean Slurry using Water.",
+
+  "chapter.mekanism.quest.61.subtitle.1": "Gas to Shards",
+  "chapter.mekanism.quest.61.description.1": "The &bChemical Injection Chamber&f uses Hydrogen Chloride gas to turn ores into 4 Shards.",
+
+  "chapter.mekanism.quest.62.subtitle.1": "Sawing Woods for Planks",
+
+  "chapter.mekanism.quest.63.subtitle.1": "Osmium Compressing",
+  "chapter.mekanism.quest.63.description.1": "The &bOsmium Compressor&f is used to create &aRefined Obsidian Ingots &ffrom Refined Obsidian Dust and &aGlowstone Ingots&f from Glowstone Dust.",
+
+  "chapter.mekanism.quest.64.subtitle.1": "Crushing Items",
+
+  "chapter.mekanism.quest.65.subtitle.1": "Stabilizing Energy",
+  "chapter.mekanism.quest.65.description.1": "The &bEnergy Upgrade&f upgrade allows you to increase the &epower storage capacity&f of a Mekanism machine which has an upgrade slot, as well as &ereduce its power consumption&f.",
+
+  "chapter.mekanism.quest.66.subtitle.1": "Stop the Noise !",
+  "chapter.mekanism.quest.66.description.1": "The &bMuffling Upgrade&r reduces noise from Mekanism machinery. This upgrade works well with the Precision Sawmill, as it produces a lot of noise when active.",
+
+  "chapter.mekanism.quest.67.subtitle.1": "Stoning",
+  "chapter.mekanism.quest.67.description.1": "Added a Stone Generator Upgrade. When installed in a Digital Miner, this upgrade is capable of fulfilling “replace stack” requests of both Stone and Cobblestone",
+
+  "chapter.mekanism.quest.68.subtitle.1": "Alloying",
+  "chapter.mekanism.quest.68.description.1": "The &bMetallurgic Infuser&f is the first step in the Mekanism tech tree. The &bMetallurgic Infuser&f is a machine used in the production of &aSteel Ingots&f, &aBronze Ingot&f, &aEnriched Alloy&f, and &aObsidian Ingots&f.",
+
+  "chapter.mekanism.quest.69.subtitle.1": "Gotta go Fast",
+  "chapter.mekanism.quest.69.description.1": "The &bSpeed upgrade&f is made to &eprocess items faster&f, you can install 8 of these in each Mekanism machine.",
+
+  "chapter.mekanism.quest.70.subtitle.1": "Heavy Water",
+  "chapter.mekanism.quest.70.description.1": "The &bFilter Upgrade&f is an upgrade that, when used in the &eElectric Pump&f, allows the Electric Pump to produce &9Heavy Water&f.",
+
+  "chapter.mekanism.quest.71.subtitle.1": "Efficient Gas",
+  "chapter.mekanism.quest.71.description.1": "The &bGas Upgrade&f allows you to &eincrease the gas usage efficiency&f of a Mekanism machine which allows it.",
+
+"----------------------------------------------------",
+
+  "chapter.mekanism.quest.72.subtitle.1": "QIO Manager",
+  "chapter.mekanism.quest.72.description.1": "&dQIO Dashboards&r allow users to interface with the contents of a QIO Drive Array. It looks similar to a chest inventory, but you can search, sort and scroll through. It shows all items of one type as a single stack, even if there are thousands of them. In order to access a drive array, the dashboard must be set to the same frequency as the drive array.",
+
+  "chapter.mekanism.quest.73.subtitle.1": "Basic QIO",
+  "chapter.mekanism.quest.73.description.1": "&bQIO Drives&r are inserted into a Drive Array, allowing it to store more items. Each drive has a number of items and item types it can contain.",
+  "chapter.mekanism.quest.73.description.2": "A basic QIO drive can contain 16 000 items and 128 item types.",
+
+  "chapter.mekanism.quest.74.subtitle.1": "Advanced QIO",
+  "chapter.mekanism.quest.74.description.1": "A Advanced QIO drive can contain 128 000 items and 256 item types.",
+
+  "chapter.mekanism.quest.75.subtitle.1": "Exporting",
+  "chapter.mekanism.quest.75.description.1": "A QIO-linked item export unit. Place on a block and export contents from your QIO systeme to the block.",
+
+  "chapter.mekanism.quest.76.subtitle.1": "Time-Dilating QIO",
+  "chapter.mekanism.quest.76.description.1": "A Time-Dilating QIO drive can contain 1 048 000 items and 1 024 item types",
+
+  "chapter.mekanism.quest.77.subtitle.1": "Supermassive QIO",
+  "chapter.mekanism.quest.77.description.1": "A Supermassive QIO drive can contain 16 000 000 000 items and 8 192 item types",
+
+  "chapter.mekanism.quest.78.subtitle.1": "Portable Storage",
+
+  "chapter.mekanism.quest.79.subtitle.1": "Absolute QIO",
+  "chapter.mekanism.quest.79.description.1": "An Absolute QIO drive can contain 128 000 000 000 items and 32 768 item types",
+
+  "chapter.mekanism.quest.80.subtitle.1": "Supreme QIO",
+  "chapter.mekanism.quest.80.description.1": "A Supreme QIO drive can contain 1 048 000 000 000 items and 131 072 item types",
+
+  "chapter.mekanism.quest.81.subtitle.1": "Importing",
+  "chapter.mekanism.quest.81.description.1": "A QIO-linked item import unit. Place on a block and import its contents to your QIO system.",
+
+  "chapter.mekanism.quest.82.subtitle.1": "Cosmic QIO",
+  "chapter.mekanism.quest.82.description.1": "A Cosmic QIO drive can contain 8 000 000 000 000 items and 131 072 item types",
+
+  "chapter.mekanism.quest.83.subtitle.1": "Infinite QIO",
+  "chapter.mekanism.quest.83.description.1": "An Infinite QIO drive can contain 16 000 000 000 000 items and 2 097 152 item types",
+
+  "chapter.mekanism.quest.84.subtitle.1": "QIO Docking Bay",
+  "chapter.mekanism.quest.84.description.1": "&bQIO Drive Array&r is a blocks that contains QIO Drives and wirelessly transmits their contents to other QIO devices.",
+  "chapter.mekanism.quest.84.description.2": "In order to work, the drive array must be set to a frequency.",
+
+"----------------------------------------------------",
+
+  "chapter.mekanism.quest.85.subtitle.1": "First Enery Cable",
+  "chapter.mekanism.quest.85.description.1": "&bUniversal Cables&f are Mekanism's way to transfer power. Capacity : 3.20 kFE/t",
+
+  "chapter.mekanism.quest.86.subtitle.1": "Advanced Enery Cable",
+  "chapter.mekanism.quest.86.description.1": "Capacity : 51.20 kFE/t.",
+
+  "chapter.mekanism.quest.87.subtitle.1": "Elite Enery Cable",
+  "chapter.mekanism.quest.87.description.1": "Capacity : 409.60 kFE/t.",
+
+  "chapter.mekanism.quest.88.subtitle.1": "Ultimate Enery Cable",
+  "chapter.mekanism.quest.88.description.1": "Capacity : 3.27 MFE/t.",
+
+  "chapter.mekanism.quest.89.subtitle.1": "Absolute Enery Cable",
+  "chapter.mekanism.quest.89.description.1": "Capacity : 26.21 MFE/t.",
+
+  "chapter.mekanism.quest.90.subtitle.1": "Supreme Enery Cable",
+  "chapter.mekanism.quest.90.description.1": "Capacity : 209.71 MFE/t.",
+
+  "chapter.mekanism.quest.91.subtitle.1": "Cosmic Enery Cable",
+  "chapter.mekanism.quest.91.description.1": "Capacity : 1.67 GFE/t.",
+
+  "chapter.mekanism.quest.92.subtitle.1": "Infinite Enery Cable",
+  "chapter.mekanism.quest.92.description.1": "Capacity : 13.42 GFE/t.",
+
+  "chapter.mekanism.quest.93.subtitle.1": "Basic Gas Pipe",
+  "chapter.mekanism.quest.93.description.1": "&bPressurized Tubes&f are used to transport Gases. Capacity : 4k MB.",
+
+  "chapter.mekanism.quest.94.subtitle.1": "Advanced Gas Pipe",
+  "chapter.mekanism.quest.94.description.1": "Capacity : 16k MB",
+
+  "chapter.mekanism.quest.95.subtitle.1": "Elite Gas Pipe",
+  "chapter.mekanism.quest.95.description.1": "Capacity : 256k MB",
+
+  "chapter.mekanism.quest.96.subtitle.1": "Ultimate Gas Pipe",
+  "chapter.mekanism.quest.96.description.1": "Capacity : 1024k MB",
+
+  "chapter.mekanism.quest.97.subtitle.1": "Basic Fluid Pipe",
+  "chapter.mekanism.quest.97.description.1": "&bMechanical Pipe&f is the fluid pipe for Mekanism logistics. It can be used to connect to any blocks with Fluid Handlers in them. Capacity : 2k MB.",
+
+  "chapter.mekanism.quest.98.subtitle.1": "Advanced Fluid Pipe",
+  "chapter.mekanism.quest.98.description.1": "Capacity : 8k MB.",
+
+  "chapter.mekanism.quest.99.subtitle.1": "Elite Fluid Pipe",
+  "chapter.mekanism.quest.99.description.1": "Capacity : 32k MB.",
+
+  "chapter.mekanism.quest.100.subtitle.1": "Ultimate Fluid Pipe",
+  "chapter.mekanism.quest.100.description.1": "Capacity : 128k MB.",
+
+  "chapter.mekanism.quest.101.subtitle.1": "Absolute Fluid Pipe",
+  "chapter.mekanism.quest.101.description.1": "Capacity : 512k MB.",
+
+  "chapter.mekanism.quest.102.subtitle.1": "Supreme Fluid Pipe",
+  "chapter.mekanism.quest.102.description.1": "Capacity : 2048k MB.",
+
+  "chapter.mekanism.quest.103.subtitle.1": "Cosmic Fluid Pipe",
+  "chapter.mekanism.quest.103.description.1": "Capacity : 8192k MB.",
+
+  "chapter.mekanism.quest.104.subtitle.1": "Infinite Fluid Pipe",
+  "chapter.mekanism.quest.104.description.1": "Capacity : 32768k MB.",
 
   "chapter.mekanism.quest.105.title": "",
   "chapter.mekanism.quest.105.subtitle.1": "",
