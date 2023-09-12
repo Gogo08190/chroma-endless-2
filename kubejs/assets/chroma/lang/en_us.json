@@ -35,5 +35,8 @@
   "multiblocked.recipe_map.nebula_tier_3": "Nebula Extractor Tier 3 - Generated Resources",
   "multiblocked.recipe_map.nebula_tier_4": "Nebula Extractor Tier 4 - Generated Resources",
   "multiblocked.recipe_map.improved_coke_oven": "Improved Coke Oven",
-  "multiblocked.recipe_map.basic_sieving_machine": "Basic Sieving Machine"
+  "multiblocked.recipe_map.basic_sieving_machine": "Basic Sieving Machine",
+  "block.chroma.accelerator_item_input": "Particle Accelerator Item Input",
+  "block.chroma.accelerator_item_output": "Particle Accelerator Item Output",
+  "block.chroma.accelerator_energy_input": "Particle Accelerator Energy Input"
 }
