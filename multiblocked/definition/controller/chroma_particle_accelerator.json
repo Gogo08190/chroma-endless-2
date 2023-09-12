@@ -48,7 +48,7 @@
       "parent": "working"
     }
   },
-  "recipeMap": "empty",
+  "recipeMap": "particle_accelerator",
   "basePattern": {
     "structureDir": [
       "FRONT",
