@@ -2315,8 +2315,6 @@
 
   "chapter.mekanism.title": "Mekanism",
 
-  "----------------------------------------------------",
-
   "chapter.mekanism.quest.1.subtitle.1": "Basic Fluid Storage",
   "chapter.mekanism.quest.1.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &a32,000 mB&r.",
 
@@ -2353,8 +2351,6 @@
   "chapter.mekanism.quest.12.subtitle.1": "Basic Bin",
   "chapter.mekanism.quest.12.description.1": "A block used to store large quantities  of a single type of item. This bin can store &a4,096 Items&r",
 
-  "----------------------------------------------------",
-
   "chapter.mekanism.quest.13.subtitle.1": "Advanced Solar Panel",
   "chapter.mekanism.quest.13.description.1": "The &bAdvanced Solar Generator&f is a highly upgraded version of the basic Solar Generator.",
 
@@ -2369,8 +2365,6 @@
 
   "chapter.mekanism.quest.17.subtitle.1": "Ecologic Energy",
   "chapter.mekanism.quest.17.description.1": "&bBio-Generators&f produce electricity from &aBio Fuel&f.",
-
-  "----------------------------------------------------",
 
   "chapter.mekanism.quest.18.title": "The Fusion Reactor",
   "chapter.mekanism.quest.18.subtitle.1": "Powering The World",
@@ -2405,8 +2399,6 @@
   "chapter.mekanism.quest.22.description.1": "The &bTurbine Casing&f is a pressure-resistant casing that is used in the creation of the &cIndustrial Turbine&f multi block structure.",
   "chapter.mekanism.quest.22.description.2": "The &bElectromagnetic Coil&f is a block used in creating several multi-block structures, including the Thermoelectric Boiler.",
 
-"----------------------------------------------------",
-
   "chapter.mekanism.quest.23.subtitle.1": "Basic Solar Panel",
   "chapter.mekanism.quest.23.description.1": "Generates 18.80 FE/t.",
 
@@ -2433,8 +2425,6 @@
 
   "chapter.mekanism.quest.31.subtitle.1": "Black Solar Panel",
   "chapter.mekanism.quest.31.description.1": "Generates 56.40 FE/t",
-
-  "----------------------------------------------------",
 
   "chapter.mekanism.quest.32.subtitle.1": "Absolute Storage",
   "chapter.mekanism.quest.32.description.1": "An &bEnergy Cube&f is an advanced type of battery that is compatible with multiple energy systems. Energy can be input from 5 sides, and output on 1 side.",
@@ -2488,8 +2478,6 @@
 
   "chapter.mekanism.quest.48.subtitle.1": "Ultimate Cell",
   "chapter.mekanism.quest.48.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
-
-"----------------------------------------------------",
 
   "chapter.mekanism.quest.49.subtitle.1": "Enriching",
   "chapter.mekanism.quest.49.description.1": "This machine uses energy to extract &6dusts &rout of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the &6Crusher&f, this machine is the pulverizer equivalent in other mods.",
@@ -2562,8 +2550,6 @@
   "chapter.mekanism.quest.71.subtitle.1": "Efficient Gas",
   "chapter.mekanism.quest.71.description.1": "The &bGas Upgrade&f allows you to &eincrease the gas usage efficiency&f of a Mekanism machine which allows it.",
 
-"----------------------------------------------------",
-
   "chapter.mekanism.quest.72.subtitle.1": "QIO Manager",
   "chapter.mekanism.quest.72.description.1": "&dQIO Dashboards&r allow users to interface with the contents of a QIO Drive Array. It looks similar to a chest inventory, but you can search, sort and scroll through. It shows all items of one type as a single stack, even if there are thousands of them. In order to access a drive array, the dashboard must be set to the same frequency as the drive array.",
 
@@ -2603,8 +2589,6 @@
   "chapter.mekanism.quest.84.subtitle.1": "QIO Docking Bay",
   "chapter.mekanism.quest.84.description.1": "&bQIO Drive Array&r is a blocks that contains QIO Drives and wirelessly transmits their contents to other QIO devices.",
   "chapter.mekanism.quest.84.description.2": "In order to work, the drive array must be set to a frequency.",
-
-"----------------------------------------------------",
 
   "chapter.mekanism.quest.85.subtitle.1": "First Enery Cable",
   "chapter.mekanism.quest.85.description.1": "&bUniversal Cables&f are Mekanism's way to transfer power. Capacity : 3.20 kFE/t",
