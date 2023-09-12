@@ -39,5 +39,6 @@
   "block.chroma.accelerator_item_input": "Particle Accelerator Item Input",
   "block.chroma.accelerator_item_output": "Particle Accelerator Item Output",
   "block.chroma.accelerator_energy_input": "Particle Accelerator Energy Input",
-  "block.chroma.accelerator_energy_input": "Particle Accelerator Energy Input",
+  "block.chroma.particle_accelerator": "Particle Accelerator Controller",
+  "multiblocked.recipe_map.particle_accelerator": "Particle Accelerator"
 }
