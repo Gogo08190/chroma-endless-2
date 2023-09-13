@@ -191,6 +191,7 @@
 			}]
 		}
 		{
+			title: "{chapter.stage.4.quest.15.title)"
 			x: 25.0d
 			y: 3.0d
 			subtitle: "{chapter.stage.4.quest.15.subtitle.1}"
@@ -1040,6 +1041,7 @@
 			}]
 		}
 		{
+			title: "{chapter.stage.4.quest.70.title}"
 			x: 51.0d
 			y: -9.5d
 			shape: "diamond"
@@ -1339,7 +1341,7 @@
 			}]
 		}
 		{
-			title: "Space Armor"
+			title: "{chapter.stage.4.quest.80.title}"
 			x: 51.5d
 			y: -2.5d
 			subtitle: "{chapter.stage.4.quest.80.subtitle.1}"
@@ -2081,6 +2083,7 @@
 			]
 		}
 		{
+			title: "{chapter.stage.4.quest.128.title}"
 			x: 58.5d
 			y: 7.0d
 			subtitle: "{chapter.stage.4.quest.128.subtitle.1}"
@@ -2121,6 +2124,7 @@
 			}]
 		}
 		{
+			title: "{chapter.stage.4.quest.129.title}"
 			x: 59.5d
 			y: 7.5d
 			subtitle: "{chapter.stage.4.quest.129.subtitle.1}"

@@ -11,7 +11,24 @@
 			x: 0.0d
 			y: -1.0d
 			shape: "gear"
+			subtitle: "{chapter.welcome.quest.12.subtitle.1}"
+			description: [
+				"{chapter.welcome.quest.12.description.1}"
+				""
+				"{chapter.welcome.quest.12.description.2}"
+				""
+				"{chapter.welcome.quest.12.description.3}"
+				""
+				"{chapter.welcome.quest.12.description.4}"
+				""
+				"{chapter.welcome.quest.12.description.5}"
+				""
+				"{chapter.welcome.quest.12.description.6}"
+				""
+				"{chapter.welcome.quest.12.description.7}"
+			]
 			size: 2.0d
+			min_width: 400
 			id: "51B5C098A8CFF70E"
 			tasks: [{
 				id: "22CCC233665C2319"

@@ -157,6 +157,11 @@
 		{
 			x: 14.0d
 			y: 4.0d
+			dependencies: [
+				"4A2C1EF0D7BEB25B"
+				"0F637CFEAD9104E1"
+				"07880249468AFCF2"
+			]
 			id: "4F34BF3C271BFB2D"
 			tasks: [{
 				id: "0BBCA9BA341508AA"
@@ -167,6 +172,10 @@
 		{
 			x: 14.0d
 			y: 5.0d
+			dependencies: [
+				"4F34BF3C271BFB2D"
+				"7714304326462DA3"
+			]
 			id: "0530D79DF09F82AF"
 			tasks: [{
 				id: "5F7133AB374433D5"
@@ -177,6 +186,10 @@
 		{
 			x: 14.0d
 			y: 6.0d
+			dependencies: [
+				"0530D79DF09F82AF"
+				"2EDE3BD25868FFBB"
+			]
 			id: "1E7E353FF46C1567"
 			tasks: [{
 				id: "7D30080FDF4ED529"
@@ -187,6 +200,10 @@
 		{
 			x: 14.0d
 			y: 7.0d
+			dependencies: [
+				"1E7E353FF46C1567"
+				"54F44984708794E0"
+			]
 			id: "608369708AAC8247"
 			tasks: [{
 				id: "314E779519EADC2C"
@@ -196,7 +213,11 @@
 		}
 		{
 			x: 14.0d
-			y: 9.0d
+			y: 8.0d
+			dependencies: [
+				"608369708AAC8247"
+				"73E831BF0F3928CE"
+			]
 			id: "655B1F8BA02A91A8"
 			tasks: [{
 				id: "32E89238ADB80389"
@@ -206,7 +227,11 @@
 		}
 		{
 			x: 14.0d
-			y: 8.0d
+			y: 9.0d
+			dependencies: [
+				"655B1F8BA02A91A8"
+				"56F78957770B6527"
+			]
 			id: "33E6ABA39BF06837"
 			tasks: [{
 				id: "5E83156A58A86B1A"
@@ -217,6 +242,11 @@
 		{
 			x: 13.0d
 			y: 4.0d
+			dependencies: [
+				"7379508342AA6E87"
+				"4A2C1EF0D7BEB25B"
+				"07880249468AFCF2"
+			]
 			id: "4A0230BA3EF2028C"
 			tasks: [{
 				id: "34F2BB57A472C497"
@@ -231,6 +261,10 @@
 		{
 			x: 13.0d
 			y: 5.0d
+			dependencies: [
+				"4A0230BA3EF2028C"
+				"7714304326462DA3"
+			]
 			id: "5CB5214A10E26D49"
 			tasks: [{
 				id: "764056864C74C157"
@@ -245,6 +279,10 @@
 		{
 			x: 13.0d
 			y: 6.0d
+			dependencies: [
+				"5CB5214A10E26D49"
+				"2EDE3BD25868FFBB"
+			]
 			id: "02970E2063914F2B"
 			tasks: [{
 				id: "0A9DC97683C955DE"
@@ -259,6 +297,10 @@
 		{
 			x: 13.0d
 			y: 7.0d
+			dependencies: [
+				"02970E2063914F2B"
+				"54F44984708794E0"
+			]
 			id: "39A6FEEFC304E48D"
 			tasks: [{
 				id: "40F686A0D0AE3683"
@@ -273,6 +315,7 @@
 		{
 			x: 13.0d
 			y: 8.0d
+			dependencies: ["39A6FEEFC304E48D"]
 			id: "49C24E60717E3C34"
 			tasks: [{
 				id: "406EB7750BA9ACA3"
@@ -287,6 +330,10 @@
 		{
 			x: 13.0d
 			y: 9.0d
+			dependencies: [
+				"49C24E60717E3C34"
+				"56F78957770B6527"
+			]
 			id: "700CF952079D7050"
 			tasks: [{
 				id: "73D084389E2B3496"
@@ -301,6 +348,7 @@
 		{
 			x: 15.0d
 			y: 4.0d
+			dependencies: ["4A2C1EF0D7BEB25B"]
 			id: "540D56A0A4036A8A"
 			tasks: [{
 				id: "3F310B5AD367F56A"
@@ -311,6 +359,10 @@
 		{
 			x: 15.0d
 			y: 5.0d
+			dependencies: [
+				"540D56A0A4036A8A"
+				"7714304326462DA3"
+			]
 			id: "09513F2EAD04185B"
 			tasks: [{
 				id: "160136A22A5D6941"
@@ -321,6 +373,10 @@
 		{
 			x: 15.0d
 			y: 6.0d
+			dependencies: [
+				"09513F2EAD04185B"
+				"2EDE3BD25868FFBB"
+			]
 			id: "29112E0A7080B3DF"
 			tasks: [{
 				id: "4A86E8BD4A322C39"
@@ -331,6 +387,10 @@
 		{
 			x: 15.0d
 			y: 7.0d
+			dependencies: [
+				"29112E0A7080B3DF"
+				"54F44984708794E0"
+			]
 			id: "66AF7CAEE794434D"
 			tasks: [{
 				id: "472AB91A3D93B603"
@@ -341,6 +401,10 @@
 		{
 			x: 15.0d
 			y: 8.0d
+			dependencies: [
+				"66AF7CAEE794434D"
+				"73E831BF0F3928CE"
+			]
 			id: "3D267F640F6AF4E1"
 			tasks: [{
 				id: "589B7FA84490D032"
@@ -351,6 +415,10 @@
 		{
 			x: 15.0d
 			y: 9.0d
+			dependencies: [
+				"3D267F640F6AF4E1"
+				"56F78957770B6527"
+			]
 			id: "612060B21A4D5F76"
 			tasks: [{
 				id: "7D1FB86ABA60163C"
@@ -361,6 +429,7 @@
 		{
 			x: 20.0d
 			y: 4.0d
+			dependencies: ["42711FDEA144101E"]
 			id: "2BD63CFDBC95B910"
 			tasks: [{
 				id: "588103FBE6CFA835"
@@ -371,6 +440,7 @@
 		{
 			x: 20.0d
 			y: 5.0d
+			dependencies: ["7714304326462DA3"]
 			id: "08AAD3A4EA840349"
 			tasks: [{
 				id: "3CEB5403328383B1"
@@ -381,6 +451,7 @@
 		{
 			x: 20.0d
 			y: 6.0d
+			dependencies: ["2EDE3BD25868FFBB"]
 			id: "364EDF8D48F3C605"
 			tasks: [{
 				id: "6066665B30E3088E"
@@ -391,6 +462,7 @@
 		{
 			x: 20.0d
 			y: 7.0d
+			dependencies: ["54F44984708794E0"]
 			id: "235D18861335D9BF"
 			tasks: [{
 				id: "4A85775197C4B92B"
@@ -401,6 +473,7 @@
 		{
 			x: 20.0d
 			y: 8.0d
+			dependencies: ["73E831BF0F3928CE"]
 			id: "6091F4BB929E97E2"
 			tasks: [{
 				id: "15ABFFF022BB88C6"
@@ -411,6 +484,7 @@
 		{
 			x: 20.0d
 			y: 9.0d
+			dependencies: ["56F78957770B6527"]
 			id: "5C3CC9234240E1D7"
 			tasks: [{
 				id: "504C8D07971D3395"
@@ -421,6 +495,10 @@
 		{
 			x: 21.0d
 			y: 4.0d
+			dependencies: [
+				"55D4E4CB80D386B1"
+				"588103FBE6CFA835"
+			]
 			id: "4E91FFB5CF7C140F"
 			tasks: [{
 				id: "005960043E1EC5C4"
@@ -431,6 +509,10 @@
 		{
 			x: 21.0d
 			y: 5.0d
+			dependencies: [
+				"3CEB5403328383B1"
+				"55D4E4CB80D386B1"
+			]
 			id: "386361B7D1CB0F94"
 			tasks: [{
 				id: "2D2085CC20A85B9C"
@@ -441,6 +523,10 @@
 		{
 			x: 21.0d
 			y: 6.0d
+			dependencies: [
+				"5BC5869ED199C23F"
+				"6066665B30E3088E"
+			]
 			id: "34EB3228A53A6D5C"
 			tasks: [{
 				id: "3A8B7147B00F14EF"
@@ -451,6 +537,10 @@
 		{
 			x: 21.0d
 			y: 7.0d
+			dependencies: [
+				"4A85775197C4B92B"
+				"33DE31D68754CB4E"
+			]
 			id: "534DC322F8583F95"
 			tasks: [{
 				id: "00B2C6012F44663B"
@@ -461,6 +551,10 @@
 		{
 			x: 21.0d
 			y: 8.0d
+			dependencies: [
+				"15ABFFF022BB88C6"
+				"3C9E127F765A9483"
+			]
 			id: "3FA7D25979B4699E"
 			tasks: [{
 				id: "2B5631F11412EA3E"
@@ -471,6 +565,10 @@
 		{
 			x: 21.0d
 			y: 9.0d
+			dependencies: [
+				"504C8D07971D3395"
+				"512D0B0260B40184"
+			]
 			id: "72C656A06D87DF74"
 			tasks: [{
 				id: "4723D6FD0C6A755F"
@@ -481,6 +579,10 @@
 		{
 			x: 26.5d
 			y: 4.0d
+			dependencies: [
+				"4A2C1EF0D7BEB25B"
+				"34F2BB57A472C497"
+			]
 			id: "1F3DCEFCA141FE16"
 			tasks: [{
 				id: "625D050668F37922"
@@ -491,6 +593,11 @@
 		{
 			x: 26.5d
 			y: 5.0d
+			dependencies: [
+				"1F3DCEFCA141FE16"
+				"7714304326462DA3"
+				"764056864C74C157"
+			]
 			id: "3B87AB6D219B41A5"
 			tasks: [{
 				id: "7871B9BEC95A7FB3"
@@ -501,6 +608,11 @@
 		{
 			x: 26.5d
 			y: 6.0d
+			dependencies: [
+				"3B87AB6D219B41A5"
+				"2EDE3BD25868FFBB"
+				"0A9DC97683C955DE"
+			]
 			id: "21D66B97101F30C1"
 			tasks: [{
 				id: "6208407FEAD68CC4"
@@ -511,6 +623,11 @@
 		{
 			x: 26.5d
 			y: 7.0d
+			dependencies: [
+				"21D66B97101F30C1"
+				"54F44984708794E0"
+				"40F686A0D0AE3683"
+			]
 			id: "01315276A5EB72BA"
 			tasks: [{
 				id: "7110E711773414D0"
@@ -521,6 +638,11 @@
 		{
 			x: 26.5d
 			y: 8.0d
+			dependencies: [
+				"01315276A5EB72BA"
+				"406EB7750BA9ACA3"
+				"73E831BF0F3928CE"
+			]
 			id: "32765AAB67F70AD8"
 			tasks: [{
 				id: "2A84690E0FFC7E4A"
@@ -531,6 +653,11 @@
 		{
 			x: 26.5d
 			y: 9.0d
+			dependencies: [
+				"32765AAB67F70AD8"
+				"56F78957770B6527"
+				"73D084389E2B3496"
+			]
 			id: "1DC91F70AA0804B8"
 			tasks: [{
 				id: "0E4720D5AAEBA5B1"
@@ -541,6 +668,11 @@
 		{
 			x: 9.5d
 			y: 4.0d
+			dependencies: [
+				"07880249468AFCF2"
+				"0F637CFEAD9104E1"
+				"0D3B7BCD89143A0E"
+			]
 			id: "46C0298A18689A8E"
 			tasks: [{
 				id: "2C9014891AEDFD29"
@@ -551,6 +683,11 @@
 		{
 			x: 9.5d
 			y: 5.0d
+			dependencies: [
+				"46C0298A18689A8E"
+				"07880249468AFCF2"
+				"7714304326462DA3"
+			]
 			id: "5BB0C2AC0AD1366A"
 			tasks: [{
 				id: "4A8E8AD87F6ED9FC"
@@ -561,6 +698,11 @@
 		{
 			x: 9.5d
 			y: 6.0d
+			dependencies: [
+				"5BB0C2AC0AD1366A"
+				"6A6CD169877E3DD4"
+				"2EDE3BD25868FFBB"
+			]
 			id: "1055104CB6573345"
 			tasks: [{
 				id: "2B6E5E4B93621B5A"
@@ -571,6 +713,11 @@
 		{
 			x: 9.5d
 			y: 7.0d
+			dependencies: [
+				"1055104CB6573345"
+				"54F44984708794E0"
+				"4A9E8CC4C422F19C"
+			]
 			id: "2AEFAD269FEFA23F"
 			tasks: [{
 				id: "32DA5B0BC972DEBD"
@@ -581,6 +728,11 @@
 		{
 			x: 9.5d
 			y: 8.0d
+			dependencies: [
+				"2AEFAD269FEFA23F"
+				"73E831BF0F3928CE"
+				"50BEBF114CEB848D"
+			]
 			id: "4A35124370950793"
 			tasks: [{
 				id: "08054D5546206D47"
@@ -591,6 +743,11 @@
 		{
 			x: 9.5d
 			y: 9.0d
+			dependencies: [
+				"4A35124370950793"
+				"56F78957770B6527"
+				"2F47117134A461CA"
+			]
 			id: "189848FF62547D65"
 			tasks: [{
 				id: "4E03C946FD7F64A4"
@@ -601,6 +758,10 @@
 		{
 			x: 8.5d
 			y: 4.0d
+			dependencies: [
+				"0F637CFEAD9104E1"
+				"0D3B7BCD89143A0E"
+			]
 			id: "7273233ABACB4A44"
 			tasks: [{
 				id: "556CE4968E2AB7FA"
@@ -611,6 +772,11 @@
 		{
 			x: 8.5d
 			y: 5.0d
+			dependencies: [
+				"7273233ABACB4A44"
+				"7714304326462DA3"
+				"55D4E4CB80D386B1"
+			]
 			id: "3F1C4A720EB6B709"
 			tasks: [{
 				id: "7B2A458790696EAB"
@@ -621,6 +787,11 @@
 		{
 			x: 8.5d
 			y: 6.0d
+			dependencies: [
+				"3F1C4A720EB6B709"
+				"5BC5869ED199C23F"
+				"2EDE3BD25868FFBB"
+			]
 			id: "50F6CBF43B017F2C"
 			tasks: [{
 				id: "6B02C1439D71515E"
@@ -631,6 +802,11 @@
 		{
 			x: 8.5d
 			y: 7.0d
+			dependencies: [
+				"50F6CBF43B017F2C"
+				"33DE31D68754CB4E"
+				"54F44984708794E0"
+			]
 			id: "7DFDE386E6E40B9F"
 			tasks: [{
 				id: "01BCB28AA2542CCD"
@@ -641,6 +817,11 @@
 		{
 			x: 8.5d
 			y: 8.0d
+			dependencies: [
+				"7DFDE386E6E40B9F"
+				"73E831BF0F3928CE"
+				"3C9E127F765A9483"
+			]
 			id: "4F714F0F7F5AA5F8"
 			tasks: [{
 				id: "4FE7EA6E6762E13D"
@@ -651,6 +832,11 @@
 		{
 			x: 8.5d
 			y: 9.0d
+			dependencies: [
+				"4F714F0F7F5AA5F8"
+				"512D0B0260B40184"
+				"56F78957770B6527"
+			]
 			id: "44D983B7C28339CF"
 			tasks: [{
 				id: "0203443F55615F13"
@@ -661,6 +847,11 @@
 		{
 			x: 7.5d
 			y: 4.0d
+			dependencies: [
+				"07880249468AFCF2"
+				"0D3B7BCD89143A0E"
+				"0F637CFEAD9104E1"
+			]
 			id: "3895C4A05D711C15"
 			tasks: [{
 				id: "4F68028C53CB66B5"
@@ -671,6 +862,11 @@
 		{
 			x: 7.5d
 			y: 5.0d
+			dependencies: [
+				"3895C4A05D711C15"
+				"07880249468AFCF2"
+				"7714304326462DA3"
+			]
 			id: "494604D15DAA0E49"
 			tasks: [{
 				id: "212756B3EE0B82D9"
@@ -681,6 +877,11 @@
 		{
 			x: 7.5d
 			y: 6.0d
+			dependencies: [
+				"494604D15DAA0E49"
+				"6A6CD169877E3DD4"
+				"2EDE3BD25868FFBB"
+			]
 			id: "1715986078AD9039"
 			tasks: [{
 				id: "35974F3F1ADD3C22"
@@ -691,6 +892,11 @@
 		{
 			x: 7.5d
 			y: 7.0d
+			dependencies: [
+				"1715986078AD9039"
+				"54F44984708794E0"
+				"4A9E8CC4C422F19C"
+			]
 			id: "792355C03E966AFC"
 			tasks: [{
 				id: "7DF16A8CF85191CC"
@@ -701,6 +907,11 @@
 		{
 			x: 7.5d
 			y: 8.0d
+			dependencies: [
+				"792355C03E966AFC"
+				"50BEBF114CEB848D"
+				"73E831BF0F3928CE"
+			]
 			id: "153F260A35D215A4"
 			tasks: [{
 				id: "1EE055E5B510C28C"
@@ -711,7 +922,11 @@
 		{
 			x: 7.5d
 			y: 9.0d
-			dependencies: ["6B4CF323A77FF62F"]
+			dependencies: [
+				"153F260A35D215A4"
+				"56F78957770B6527"
+				"2F47117134A461CA"
+			]
 			id: "4429257E367FCEC9"
 			tasks: [{
 				id: "0621E79031D495EC"
@@ -722,6 +937,11 @@
 		{
 			x: 6.5d
 			y: 4.0d
+			dependencies: [
+				"0F637CFEAD9104E1"
+				"4A2C1EF0D7BEB25B"
+				"07880249468AFCF2"
+			]
 			id: "7B29E9096560F457"
 			tasks: [{
 				id: "4EE68E2130B90E3B"
@@ -732,6 +952,11 @@
 		{
 			x: 6.5d
 			y: 5.0d
+			dependencies: [
+				"7B29E9096560F457"
+				"07880249468AFCF2"
+				"7714304326462DA3"
+			]
 			id: "551DB04FB0E32E74"
 			tasks: [{
 				id: "55874E9CCBED11CB"
@@ -742,6 +967,12 @@
 		{
 			x: 6.5d
 			y: 6.0d
+			dependencies: [
+				"551DB04FB0E32E74"
+				"6A6CD169877E3DD4"
+				"2EDE3BD25868FFBB"
+				"4D3386CEDFB66283"
+			]
 			id: "1C0A05B83BDFB813"
 			tasks: [{
 				id: "1A1E802BAE624C74"
@@ -752,6 +983,13 @@
 		{
 			x: 6.5d
 			y: 7.0d
+			dependencies: [
+				"1C0A05B83BDFB813"
+				"6CC9251FAC383224"
+				"4A9E8CC4C422F19C"
+				"54F44984708794E0"
+				"4D3386CEDFB66283"
+			]
 			id: "0A139249EA1D85B5"
 			tasks: [{
 				id: "7046A8AEE4E4A3E7"
@@ -762,6 +1000,13 @@
 		{
 			x: 6.5d
 			y: 8.0d
+			dependencies: [
+				"0A139249EA1D85B5"
+				"2FDAFED2A7A209E3"
+				"7CF713989B400337"
+				"50BEBF114CEB848D"
+				"2A951E69F0CB4ACF"
+			]
 			id: "7859785DB0DB0C75"
 			tasks: [{
 				id: "14B9EFF2E155E697"
@@ -772,6 +1017,15 @@
 		{
 			x: 6.5d
 			y: 9.0d
+			dependencies: [
+				"7859785DB0DB0C75"
+				"2191346972B755DB"
+				"5D23D1F63DB8A972"
+				"340C7699C83093C2"
+				"2F47117134A461CA"
+				"06531020C9C3AB55"
+				"2FDAFED2A7A209E3"
+			]
 			id: "231C6BAEFF79C293"
 			tasks: [{
 				id: "63BE11A27C72E7D4"
@@ -782,6 +1036,10 @@
 		{
 			x: 25.5d
 			y: 4.0d
+			dependencies: [
+				"4A2C1EF0D7BEB25B"
+				"0F637CFEAD9104E1"
+			]
 			id: "199D53F23AF8D3B2"
 			tasks: [{
 				id: "2E6F62FDFA9EBBFC"
@@ -792,6 +1050,10 @@
 		{
 			x: 25.5d
 			y: 5.0d
+			dependencies: [
+				"199D53F23AF8D3B2"
+				"7714304326462DA3"
+			]
 			id: "38D70871AA6D45FA"
 			tasks: [{
 				id: "7713DF5EE118296F"
@@ -802,6 +1064,10 @@
 		{
 			x: 25.5d
 			y: 6.0d
+			dependencies: [
+				"38D70871AA6D45FA"
+				"2EDE3BD25868FFBB"
+			]
 			id: "0CBF3FFB0CCF0F77"
 			tasks: [{
 				id: "52C9DE3BD62156C6"
@@ -812,6 +1078,10 @@
 		{
 			x: 25.5d
 			y: 7.0d
+			dependencies: [
+				"0CBF3FFB0CCF0F77"
+				"54F44984708794E0"
+			]
 			id: "1AE60EEAE141085B"
 			tasks: [{
 				id: "2420B5FF996A0D0D"
@@ -822,6 +1092,10 @@
 		{
 			x: 25.5d
 			y: 8.0d
+			dependencies: [
+				"1AE60EEAE141085B"
+				"73E831BF0F3928CE"
+			]
 			id: "1688F9FCC36D85BD"
 			tasks: [{
 				id: "2CF075C22A5A3A12"
@@ -832,6 +1106,10 @@
 		{
 			x: 25.5d
 			y: 9.0d
+			dependencies: [
+				"1688F9FCC36D85BD"
+				"56F78957770B6527"
+			]
 			id: "1F3CCC67B76F07C2"
 			tasks: [{
 				id: "15EFC2AECA4011E6"
@@ -842,6 +1120,11 @@
 		{
 			x: 24.5d
 			y: 4.0d
+			dependencies: [
+				"0F637CFEAD9104E1"
+				"34F2BB57A472C497"
+				"4A2C1EF0D7BEB25B"
+			]
 			id: "71456709168281B6"
 			tasks: [{
 				id: "5B7D03BACB6BE3C0"
@@ -852,6 +1135,11 @@
 		{
 			x: 24.5d
 			y: 5.0d
+			dependencies: [
+				"71456709168281B6"
+				"7714304326462DA3"
+				"764056864C74C157"
+			]
 			id: "11783677B0E9F90D"
 			tasks: [{
 				id: "3EE9CB72D77776E2"
@@ -862,6 +1150,7 @@
 		{
 			x: 24.5d
 			y: 6.0d
+			dependencies: ["11783677B0E9F90D"]
 			id: "4CAA3F1D87744FD1"
 			tasks: [{
 				id: "7695C3F4006E13A6"
@@ -872,6 +1161,11 @@
 		{
 			x: 24.5d
 			y: 7.0d
+			dependencies: [
+				"4CAA3F1D87744FD1"
+				"0A9DC97683C955DE"
+				"2EDE3BD25868FFBB"
+			]
 			id: "1CFF53F17FEC19B3"
 			tasks: [{
 				id: "7EF794915CE51891"
@@ -882,6 +1176,11 @@
 		{
 			x: 24.5d
 			y: 8.0d
+			dependencies: [
+				"1CFF53F17FEC19B3"
+				"406EB7750BA9ACA3"
+				"73E831BF0F3928CE"
+			]
 			id: "0BCBC63741925F49"
 			tasks: [{
 				id: "1FFAE9AFDA476430"
@@ -892,6 +1191,11 @@
 		{
 			x: 24.5d
 			y: 9.0d
+			dependencies: [
+				"0BCBC63741925F49"
+				"73D084389E2B3496"
+				"56F78957770B6527"
+			]
 			id: "0743662F9666F7D5"
 			tasks: [{
 				id: "47A636643C9C2F7D"
@@ -902,6 +1206,12 @@
 		{
 			x: 23.5d
 			y: 4.0d
+			dependencies: [
+				"34F2BB57A472C497"
+				"708EC01DACF36233"
+				"0F637CFEAD9104E1"
+				"5B7D03BACB6BE3C0"
+			]
 			id: "7B7CC166F299A9C2"
 			tasks: [{
 				id: "2B3C88CA42064E8B"
@@ -912,6 +1222,12 @@
 		{
 			x: 23.5d
 			y: 5.0d
+			dependencies: [
+				"7B7CC166F299A9C2"
+				"3EE9CB72D77776E2"
+				"7714304326462DA3"
+				"764056864C74C157"
+			]
 			id: "7A93259D105B0906"
 			tasks: [{
 				id: "320FC42D52FA02ED"
@@ -922,6 +1238,12 @@
 		{
 			x: 23.5d
 			y: 6.0d
+			dependencies: [
+				"7A93259D105B0906"
+				"7695C3F4006E13A6"
+				"2EDE3BD25868FFBB"
+				"0A9DC97683C955DE"
+			]
 			id: "1D4A6D9CEBFBFA71"
 			tasks: [{
 				id: "442C146255B34BFB"
@@ -932,6 +1254,12 @@
 		{
 			x: 23.5d
 			y: 7.0d
+			dependencies: [
+				"1D4A6D9CEBFBFA71"
+				"7EF794915CE51891"
+				"54F44984708794E0"
+				"40F686A0D0AE3683"
+			]
 			id: "2FAD11AD03F38236"
 			tasks: [{
 				id: "21A267BE3C7B70F9"
@@ -942,6 +1270,12 @@
 		{
 			x: 23.5d
 			y: 8.0d
+			dependencies: [
+				"2FAD11AD03F38236"
+				"73E831BF0F3928CE"
+				"1FFAE9AFDA476430"
+				"406EB7750BA9ACA3"
+			]
 			id: "5AE52BEC2B23120F"
 			tasks: [{
 				id: "479C5B182490790E"
@@ -952,6 +1286,12 @@
 		{
 			x: 23.5d
 			y: 9.0d
+			dependencies: [
+				"5AE52BEC2B23120F"
+				"47A636643C9C2F7D"
+				"56F78957770B6527"
+				"73D084389E2B3496"
+			]
 			id: "2A6CB30B6ED84818"
 			tasks: [{
 				id: "5BD379379F12BC03"
@@ -960,6 +1300,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.1.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -970,16 +1311,17 @@
 			x: 6.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "The Reactor is a multi-block generator that use Uraninite as main fuel."
+			subtitle: "{chapter.powah.quest.1.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/reactor.png width:200 height:100 align:1}"
 				""
-				"To Build it you will need 36 Reactor block in your hand and placing them in a 3X4 replaceable area, then the reactor will complete building itself automatically."
+				"{chapter.powah.quest.1.description.1}"
 				""
 				"{image:powah:textures/gui/book/images/reactor_gui.png width:150 height:60 align:1}"
 				""
-				"When Generating energy the reactor heats up causing it to consume fuel faster and generating less FE/t, so you need to cool it down using a coolant like water, also you can use a solid coolant like snow or ice for extra coldness, solid coolant require liquid coolant to work."
+				"{chapter.powah.quest.1.description.2}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "4EC540CD9C0239A7"
 			tasks: [{
 				id: "572C320001028A23"
@@ -988,6 +1330,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.2.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -998,12 +1341,13 @@
 			x: 7.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Solar Panel"
+			subtitle: "{chapter.powah.quest.2.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/solar_panel.png width:100 height:50 align:1 fit:true}"
 				""
-				"The Solar Panel is an FE generator that generates energy when exposed to sunlight, high tiers generates more FE/t, any block that stop light above the Solar panel will stop its production."
+				"{chapter.powah.quest.2.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "1DFE1FF0AEEAB951"
 			tasks: [{
 				id: "21D4C821D0CC2353"
@@ -1012,6 +1356,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.3.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1022,12 +1367,13 @@
 			x: 8.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "The Magmator is an FE generator that generates energy from high temp fluids like lava."
+			subtitle: "{chapter.powah.quest.3.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/magmator.png width:100 height:50 align:1 fit:true}"
 				""
-				"High tiers generate more FE/t and it has higher energy output, also they burn the fuel faster with the same energy gained per fuel tick."
+				"{chapter.powah.quest.3.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "063CC66449C55CAF"
 			tasks: [{
 				id: "5E5FB9093D7A5264"
@@ -1036,6 +1382,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.4.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1046,12 +1393,13 @@
 			x: 9.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "The Furnator is a FE generator that generates energy from solid Furnace fuel like coal, wood..."
+			subtitle: "{chapter.powah.quest.4.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/furnator.png width:100 height:50 align:1 fit:true}"
 				""
-				"High tiers generate more FE/t and it has higher energy output, also they furn the fuel faster with the same energy gained per fuel tick."
+				"{chapter.powah.quest.4.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "516BF496D8E3E63F"
 			tasks: [{
 				id: "37F1167E6ACD542F"
@@ -1060,6 +1408,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.6.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1070,8 +1419,9 @@
 			x: 13.0d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Battery"
-			description: ["Charge items when is in player inventory, can Also be used to upgrade the capacity of a Ender Network channel by Shift blocking a Battery to an Ender Cell GUI, is the Battery contain energy then will also be applied to the ender network channel."]
+			subtitle: "{chapter.powah.quest.6.subtitle.1}"
+			description: ["{chapter.powah.quest.6.description.1}"]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "44B131ECDAA019DF"
 			tasks: [{
 				id: "3EB5B31664F171E0"
@@ -1080,6 +1430,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.8.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1090,16 +1441,17 @@
 			x: 15.0d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "The Ender Cell its a block used to store energy to a specific channel of the ender network of the owner."
+			subtitle: "{chapter.powah.quest.8.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/ender_cell.png width:100 height:50 align:1 fit:true}"
 				""
-				"You can acces the energy stored of a selected channel from anywhere in the world if the Ender Cell that you want to transfer power from/to have an active channel with a valid capacity."
+				"{chapter.powah.quest.8.description.1}"
 				""
-				"You can add capacity to a selected channel by shift-clicking an Energy Cell or Battery to the Ender Cell GUI."
+				"{chapter.powah.quest.8.description.2}"
 				""
-				"The amout added is the same of the item you've added, max capacity a channel can have is 9E FE."
+				"{chapter.powah.quest.8.description.3}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "4F61A478444F1BC3"
 			tasks: [{
 				id: "0F63E8544E710C00"
@@ -1108,6 +1460,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.7.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1118,12 +1471,13 @@
 			x: 14.0d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "The Energy Cell its a block used to store energy."
+			subtitle: "{chapter.powah.quest.7.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/energy_cell.png width:100 height:50 align:1 fit:true}"
 				""
-				"Can Also be used to add capacity to an Ender Network channel by Shift-clicking it to an Ender Cell GUI, if the Energy Cell contains energy then will also be applied to the ender network channel."
+				"{chapter.powah.quest.7.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "4D819BA80A4F5B12"
 			tasks: [{
 				id: "4C423FA1A113D370"
@@ -1134,6 +1488,7 @@
 		{
 			x: 17.5d
 			y: 4.0d
+			dependencies: ["0D3B7BCD89143A0E"]
 			id: "70F8AC5714ED41DC"
 			tasks: [{
 				id: "708EC01DACF36233"
@@ -1144,6 +1499,10 @@
 		{
 			x: 17.5d
 			y: 5.0d
+			dependencies: [
+				"70F8AC5714ED41DC"
+				"187A18B2102BE3E4"
+			]
 			id: "6315628D0D446B6C"
 			tasks: [{
 				id: "7714304326462DA3"
@@ -1154,6 +1513,10 @@
 		{
 			x: 17.5d
 			y: 6.0d
+			dependencies: [
+				"70F8AC5714ED41DC"
+				"403619F3725E9E65"
+			]
 			id: "17453839C26CCD7A"
 			tasks: [{
 				id: "2EDE3BD25868FFBB"
@@ -1164,6 +1527,10 @@
 		{
 			x: 17.5d
 			y: 7.0d
+			dependencies: [
+				"70F8AC5714ED41DC"
+				"16C209001685D725"
+			]
 			id: "46589BE6EA9B74BB"
 			tasks: [{
 				id: "54F44984708794E0"
@@ -1174,6 +1541,10 @@
 		{
 			x: 17.5d
 			y: 8.0d
+			dependencies: [
+				"70F8AC5714ED41DC"
+				"7CF713989B400337"
+			]
 			id: "259615E882B706AA"
 			tasks: [{
 				id: "73E831BF0F3928CE"
@@ -1184,6 +1555,10 @@
 		{
 			x: 17.5d
 			y: 9.0d
+			dependencies: [
+				"70F8AC5714ED41DC"
+				"6B4CF323A77FF62F"
+			]
 			id: "65881E27F2FB6695"
 			tasks: [{
 				id: "56F78957770B6527"
@@ -1192,6 +1567,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.9.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1202,12 +1578,13 @@
 			x: 20.0d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Cable are used to transfer power between machines."
+			subtitle: "{chapter.powah.quest.9.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/energy_cable.png width:100 height:50 align:1 fit:true}"
 				""
-				"You can change transfer mode by right-clicking a cable using Whrench with Config mode selected."
+				"{chapter.powah.quest.9.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "200131DF70EF6F4C"
 			tasks: [{
 				id: "688B01659876D19E"
@@ -1216,6 +1593,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.10.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1226,14 +1604,15 @@
 			x: 21.0d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Ender Gate"
+			subtitle: "{chapter.powah.quest.10.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/ender_gate.png width:100 height:50 align:1 fit:true}"
 				""
-				"Transfer energy between the adjacent block and the ender network."
+				"{chapter.powah.quest.10.description.1}"
 				""
-				"Unlike the Ender cell you can not upgrade the network from it."
+				"{chapter.powah.quest.10.description.2}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "09DCABD74F4D7594"
 			tasks: [{
 				id: "0DE090723064DF77"
@@ -1242,6 +1621,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.11.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1252,12 +1632,12 @@
 			x: 23.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Energy Discharger"
+			subtitle: "{chapter.powah.quest.11.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/energy_discharger.png width:100 height:50 align:1 fit:true}"
-				""
-				"The Energy Discharger its a block used to drain energy out of charged items and them store it to an internal buffer if then connected via cables to extract that stored power and re-using it again."
+				"{chapter.powah.quest.11.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "6927182561507510"
 			tasks: [{
 				id: "0A1717E596A257BF"
@@ -1266,6 +1646,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.12.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1276,12 +1657,13 @@
 			x: 24.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Energy Hopper"
+			subtitle: "{chapter.powah.quest.12.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/energy_hopper.png width:100 height:50 align:1 fit:true}"
 				""
-				"The energy Hopper its a block used to charge chargeable items inside an adjacent inventory like a chest or any block with an accessible inventory and not a not has forge energy."
+				"{chapter.powah.quest.12.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "1AAEDC4DB3C99950"
 			tasks: [{
 				id: "638AD662AFE59DAB"
@@ -1290,6 +1672,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.13.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1300,12 +1683,13 @@
 			x: 25.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Player Transmitter"
+			subtitle: "{chapter.powah.quest.13.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/player_transmitter.png width:100 height:50 align:1 fit:true}"
 				""
-				"The Player Transmitter its a block used to charge items wirelessly in linked player inventory including armor slots and off-hand anywhere in the same dimension when has normal binding card and accross dimension when has a dimensional binding card."
+				"{chapter.powah.quest.13.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "52C8A637C52B35EF"
 			tasks: [{
 				id: "6971488C49F71BEA"
@@ -1314,6 +1698,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.14.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1324,12 +1709,13 @@
 			x: 26.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Energizing Rod"
+			subtitle: "{chapter.powah.quest.14.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/energizing.png width:100 height:50 align:1 fit:true}"
 				""
-				"The Energizing Orb its a block used to energize items, require at least one Energizing Rod in range of 9X9 to work, the energizing speed depends on amout of rods and the rod tier. "
+				"{chapter.powah.quest.14.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "70974BF0940FFA48"
 			tasks: [{
 				id: "1BB95AF17F158648"
@@ -1340,6 +1726,11 @@
 		{
 			x: 10.5d
 			y: 9.0d
+			dependencies: [
+				"482CDB595254636E"
+				"512D0B0260B40184"
+				"56F78957770B6527"
+			]
 			id: "6E6A0223DFDDB0B2"
 			tasks: [{
 				id: "6E0731CC7D6ED32D"
@@ -1350,6 +1741,11 @@
 		{
 			x: 10.5d
 			y: 8.0d
+			dependencies: [
+				"22E879B58C61D070"
+				"3C9E127F765A9483"
+				"73E831BF0F3928CE"
+			]
 			id: "482CDB595254636E"
 			tasks: [{
 				id: "0AA355B7DB4925AC"
@@ -1360,6 +1756,11 @@
 		{
 			x: 10.5d
 			y: 7.0d
+			dependencies: [
+				"5E5F086A71EA2042"
+				"33DE31D68754CB4E"
+				"54F44984708794E0"
+			]
 			id: "22E879B58C61D070"
 			tasks: [{
 				id: "256218BA73A2D0FD"
@@ -1370,6 +1771,11 @@
 		{
 			x: 10.5d
 			y: 6.0d
+			dependencies: [
+				"345CE4C0BA68EF8B"
+				"2EDE3BD25868FFBB"
+				"5BC5869ED199C23F"
+			]
 			id: "5E5F086A71EA2042"
 			tasks: [{
 				id: "43579CE2F03A78C7"
@@ -1380,6 +1786,11 @@
 		{
 			x: 10.5d
 			y: 5.0d
+			dependencies: [
+				"3043BB1CE5FA3090"
+				"55D4E4CB80D386B1"
+				"7714304326462DA3"
+			]
 			id: "345CE4C0BA68EF8B"
 			tasks: [{
 				id: "15BD5E72A1CBB38F"
@@ -1390,6 +1801,11 @@
 		{
 			x: 10.5d
 			y: 4.0d
+			dependencies: [
+				"55D4E4CB80D386B1"
+				"0F637CFEAD9104E1"
+				"0D3B7BCD89143A0E"
+			]
 			id: "3043BB1CE5FA3090"
 			tasks: [{
 				id: "76967BE6F9FEE4E6"
@@ -1398,6 +1814,7 @@
 			}]
 		}
 		{
+			title: "{chapter.powah.quest.5.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -1408,12 +1825,13 @@
 			x: 10.5d
 			y: 10.0d
 			shape: "diamond"
-			subtitle: "Thermo Generator"
+			subtitle: "{chapter.powah.quest.5.subtitle.1}"
 			description: [
 				"{image:powah:textures/gui/book/images/thermo_generator.png width:100 height:50 align:1 fit:true}"
 				""
-				"The Thermo Generator is an FE generator that generates energy when placed on top of a high temp block/fluid like lava, require a coolant fluid like water to run."
+				"{chapter.powah.quest.5.description.1}"
 			]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "51A73DEC24F73143"
 			tasks: [{
 				id: "0ADFB1D81C171EDE"

@@ -9,12 +9,13 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 0.0d
-			y: -1.0d
+			x: 8.0d
+			y: 0.0d
 			id: "0B1292772204A5D0"
 			tasks: [{
 				id: "778949662007943A"
 				type: "stat"
+				title: "Add: 100K item to your ME Storage System"
 				icon: {
 					id: "ae2:item_storage_cell_64k"
 					Count: 1
@@ -25,7 +26,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: 8.0d
 			y: -1.0d
 			id: "65CDD90D89742F48"
 			tasks: [{
@@ -37,8 +38,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: -1.0d
+			x: 7.0d
+			y: 1.0d
 			id: "16209855C86CEB93"
 			tasks: [{
 				id: "61D5AC281A2F213A"
@@ -128,6 +129,103 @@
 				type: "forge_energy"
 				value: 100000L
 				max_input: 1000L
+			}]
+		}
+		{
+			x: 5.0d
+			y: -1.0d
+			id: "62876211627DFE04"
+			tasks: [{
+				id: "705677AA5ADDBDA7"
+				type: "kill"
+				entity: "minecraft:wither"
+				value: 100L
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			id: "7BCFA4DF4DACE204"
+			tasks: [{
+				id: "0B6FE0E31A9185B5"
+				type: "fluid"
+				fluid: "minecraft:flowing_lava"
+				amount: 1000000000L
+			}]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			id: "78D29B5A044B58FB"
+			tasks: [{
+				id: "29685DFDCB838EE5"
+				type: "xp"
+				title: "XP Levels: &a3,000"
+				value: 3000L
+				points: false
+			}]
+		}
+		{
+			x: 5.0d
+			y: 1.0d
+			id: "41E60944015F5083"
+			tasks: [{
+				id: "16F5060D547FC29A"
+				type: "stat"
+				title: "Enchant: 500x Items"
+				icon: "minecraft:enchanting_table"
+				stat: "minecraft:enchant_item"
+				value: 500
+			}]
+		}
+		{
+			x: 6.0d
+			y: 1.0d
+			id: "443BF18289FEA101"
+			tasks: [{
+				id: "33AB0BA8914531B1"
+				type: "stat"
+				title: "Bred: 1,500 Animals"
+				icon: "artifacts:crystal_heart"
+				stat: "minecraft:animals_bred"
+				value: 1500
+			}]
+		}
+		{
+			x: 7.0d
+			y: -1.0d
+			id: "363900DE60F021AE"
+			tasks: [{
+				id: "5A8716E35706B30E"
+				type: "stat"
+				title: "Kill: 1,000,000 Mobs"
+				icon: "apotheosis:boss_summoner"
+				stat: "minecraft:mob_kills"
+				value: 1000000
+			}]
+		}
+		{
+			x: 7.0d
+			y: 0.0d
+			id: "4C44EC53E43BF6E3"
+			tasks: [{
+				id: "12BD84D37DDA2BBF"
+				type: "stat"
+				title: "Make: 1,000 trades with Villagers"
+				stat: "minecraft:traded_with_villager"
+				value: 1000
+			}]
+		}
+		{
+			x: 5.0d
+			y: 0.0d
+			id: "01B0988B7786A73D"
+			tasks: [{
+				id: "563BDE5B42CF614E"
+				type: "item"
+				item: "chemlib:water"
+				count: 1000000L
+				consume_items: true
 			}]
 		}
 	]

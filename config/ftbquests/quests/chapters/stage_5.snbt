@@ -1128,6 +1128,7 @@
 		}
 		{
 			title: "{chapter.stage.5.quest.42.title.1}"
+			icon: "chroma:void_miner_tier_1"
 			x: 23.25d
 			y: 4.5d
 			shape: "gear"

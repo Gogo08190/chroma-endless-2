@@ -12,6 +12,7 @@
 			x: -6.5d
 			y: -2.5d
 			description: ["This will be one of your most important item. It contains all the knowledge you need to start!"]
+			dependencies: ["48A13293AFC0DB85"]
 			id: "1208D37DB2DD19C6"
 			tasks: [{
 				id: "6CAAFFCEAD7DED58"
@@ -751,6 +752,11 @@
 			x: 1.5d
 			y: 4.5d
 			subtitle: "Upgrade your Runeforge"
+			description: [
+				"Right-clicking with the Brimstone Charm on a Runeform will allow you to enhance it."
+				""
+				"Runeforge speeds up the transformation of items."
+			]
 			dependencies: ["7B55E09E0F3FA9EC"]
 			id: "2269804DA7336A90"
 			tasks: [{

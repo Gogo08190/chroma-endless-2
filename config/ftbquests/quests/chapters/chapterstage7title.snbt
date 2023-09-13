@@ -11,6 +11,8 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			subtitle: "{chapter.stage.7.quest.1.subtitle.1}"
+			description: ["{chapter.stage.7.quest.1.description.1}"]
 			dependencies: ["24540845CBC75620"]
 			id: "09881D2F3ECA0E6C"
 			tasks: [{
@@ -22,6 +24,7 @@
 		{
 			x: 0.5d
 			y: 1.5d
+			subtitle: "{chapter.stage.7.quest.2.subtitle.1}"
 			dependencies: ["09881D2F3ECA0E6C"]
 			id: "5E5FE11ADC1DCE47"
 			tasks: [{
@@ -33,6 +36,7 @@
 		{
 			x: 2.0d
 			y: 2.5d
+			subtitle: "{chapter.stage.7.quest.3.subtitle.1}"
 			dependencies: ["5E5FE11ADC1DCE47"]
 			id: "0C35B3F42C184E24"
 			tasks: [{
@@ -44,6 +48,8 @@
 		{
 			x: 3.5d
 			y: 2.5d
+			subtitle: "{chapter.stage.7.quest.4.subtitle.1}"
+			description: ["{chapter.stage.7.quest.4.description.1}"]
 			dependencies: ["0C35B3F42C184E24"]
 			id: "18B8FB33AA979AED"
 			tasks: [{
@@ -55,6 +61,8 @@
 		{
 			x: 5.0d
 			y: 2.5d
+			subtitle: "{chapter.stage.7.quest.5.subtitle.1}"
+			description: ["{chapter.stage.7.quest.5.description.1}"]
 			dependencies: ["18B8FB33AA979AED"]
 			id: "052ED53C7BFE67F5"
 			tasks: [{
@@ -66,6 +74,8 @@
 		{
 			x: 6.5d
 			y: 2.5d
+			subtitle: "{chapter.stage.7.quest.6.subtitle.1}"
+			description: ["{chapter.stage.7.quest.6.description.1}"]
 			dependencies: ["052ED53C7BFE67F5"]
 			id: "4CC844E6755B5FA2"
 			tasks: [{
@@ -77,6 +87,7 @@
 		{
 			x: 8.0d
 			y: 1.5d
+			subtitle: "{chapter.stage.7.quest.7.subtitle.1}"
 			dependencies: ["4CC844E6755B5FA2"]
 			id: "44D18A2D00CC6CA4"
 			tasks: [{
@@ -88,6 +99,8 @@
 		{
 			x: 10.0d
 			y: 1.5d
+			subtitle: "{chapter.stage.7.quest.8.subtitle.1}"
+			description: ["{chapter.stage.7.quest.8.description.1}"]
 			dependencies: ["44D18A2D00CC6CA4"]
 			id: "3CB12664656C250D"
 			tasks: [{
@@ -100,6 +113,7 @@
 			x: 4.5d
 			y: 7.5d
 			shape: "diamond"
+			subtitle: "{chapter.stage.7.quest.13.subtitle.1}"
 			dependencies: ["491A979D9768B1CB"]
 			id: "12059E77C60D0C8A"
 			tasks: [{
@@ -112,6 +126,7 @@
 			x: 5.0d
 			y: 7.0d
 			shape: "diamond"
+			subtitle: "{chapter.stage.7.quest.12.subtitle.1}"
 			dependencies: ["491A979D9768B1CB"]
 			id: "553833AC954E3DE5"
 			tasks: [{
@@ -124,6 +139,7 @@
 			x: 6.0d
 			y: 8.0d
 			shape: "diamond"
+			subtitle: "{chapter.stage.7.quest.16.subtitle.1}"
 			dependencies: ["491A979D9768B1CB"]
 			id: "7BB34085E3DF69C5"
 			tasks: [{
@@ -136,6 +152,7 @@
 			x: 4.0d
 			y: 8.0d
 			shape: "diamond"
+			subtitle: "{chapter.stage.7.quest.15.subtitle.1}"
 			dependencies: ["491A979D9768B1CB"]
 			id: "7209622531308085"
 			tasks: [{
@@ -148,6 +165,7 @@
 			x: 5.5d
 			y: 7.5d
 			shape: "diamond"
+			subtitle: "{chapter.stage.7.quest.14.subtitle.1}"
 			dependencies: ["491A979D9768B1CB"]
 			id: "1493AB2BD50F5FCB"
 			tasks: [{
@@ -160,6 +178,8 @@
 			x: 5.0d
 			y: 9.0d
 			shape: "octagon"
+			subtitle: "{chapter.stage.7.quest.17.subtitle.1}"
+			description: ["{chapter.stage.7.quest.17.description.1}"]
 			dependencies: [
 				"12059E77C60D0C8A"
 				"7209622531308085"
@@ -180,8 +200,11 @@
 			}]
 		}
 		{
+			title: "{chapter.stage.7.quest.18.title}"
 			x: 7.5d
 			y: 9.0d
+			subtitle: "{chapter.stage.7.quest.18.subtitle.1}"
+			description: ["{chapter.stage.7.quest.18.description.1}"]
 			dependencies: ["46502E6BD2DDED7F"]
 			id: "3E4758B1AF6FDD8D"
 			tasks: [{
@@ -194,6 +217,7 @@
 		{
 			x: 9.0d
 			y: 8.0d
+			subtitle: "{chapter.stage.7.quest.19.subtitle.1}"
 			dependencies: ["3E4758B1AF6FDD8D"]
 			id: "57F004F1D5BF86E8"
 			tasks: [{
@@ -205,6 +229,8 @@
 		{
 			x: 10.0d
 			y: 7.0d
+			subtitle: "{chapter.stage.7.quest.20.subtitle.1}"
+			description: ["{chapter.stage.7.quest.20.description.1}"]
 			dependencies: ["57F004F1D5BF86E8"]
 			id: "1B8A11828A1B2A86"
 			tasks: [{
@@ -216,6 +242,8 @@
 		{
 			x: 11.0d
 			y: 5.5d
+			subtitle: "{chapter.stage.7.quest.21.subtitle.1}"
+			description: ["{chapter.stage.7.quest.21.description.1}"]
 			dependencies: ["1B8A11828A1B2A86"]
 			id: "6D0C7C568AC768C8"
 			tasks: [{
@@ -227,6 +255,8 @@
 		{
 			x: 13.0d
 			y: 5.5d
+			subtitle: "{chapter.stage.7.quest.22.subtitle.1}"
+			description: ["{chapter.stage.7.quest.22.description.1}"]
 			dependencies: ["6D0C7C568AC768C8"]
 			id: "19E62E5AE03A6611"
 			tasks: [{
@@ -238,6 +268,8 @@
 		{
 			x: 14.5d
 			y: 6.0d
+			subtitle: "{chapter.stage.7.quest.23.subtitle.1}"
+			description: ["{chapter.stage.7.quest.23.description.1}"]
 			dependencies: ["19E62E5AE03A6611"]
 			id: "16BAF8D51754655F"
 			tasks: [{
@@ -250,6 +282,7 @@
 			title: "Nebula Extractor Tier 4 - Part 1"
 			x: 14.0d
 			y: 7.5d
+			subtitle: "{chapter.stage.7.quest.24.subtitle.1}"
 			dependencies: ["16BAF8D51754655F"]
 			id: "6420158B43AAB45A"
 			tasks: [
@@ -304,6 +337,7 @@
 			title: "Nebula Extractor Tier 4 - Part 2"
 			x: 15.0d
 			y: 7.5d
+			subtitle: "{chapter.stage.7.quest.25.subtitle.1}"
 			dependencies: ["16BAF8D51754655F"]
 			id: "7D3A51D97F125E78"
 			tasks: [
@@ -378,6 +412,8 @@
 		{
 			x: 14.5d
 			y: 9.0d
+			subtitle: "{chapter.stage.7.quest.26.subtitle.1}"
+			description: ["{chapter.stage.7.quest.26.description.1}"]
 			dependencies: [
 				"7D3A51D97F125E78"
 				"6420158B43AAB45A"
@@ -403,6 +439,8 @@
 		{
 			x: 13.0d
 			y: 11.5d
+			subtitle: "{chapter.stage.7.quest.29.subtitle.1}"
+			description: ["{chapter.stage.7.quest.29.description.1}"]
 			dependencies: ["3EC6F5A341C1113C"]
 			id: "5A1A6AD70392E5F2"
 			tasks: [{
@@ -414,6 +452,8 @@
 		{
 			x: 12.0d
 			y: 11.5d
+			subtitle: "{chapter.stage.7.quest.28.subtitle.1}"
+			description: ["{chapter.stage.7.quest.28.description.1}"]
 			dependencies: ["3EC6F5A341C1113C"]
 			id: "16BF35F89FC49046"
 			tasks: [{
@@ -425,6 +465,7 @@
 		{
 			x: 12.5d
 			y: 13.0d
+			subtitle: "{chapter.stage.7.quest.30.subtitle.1}"
 			dependencies: [
 				"16BF35F89FC49046"
 				"5A1A6AD70392E5F2"
@@ -447,15 +488,16 @@
 			}
 			x: 11.0d
 			y: 14.0d
+			subtitle: "{chapter.stage.7.quest.32.subtitle.1}"
 			description: [
-				"A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes."
+				"{chapter.stage.7.quest.32.description.1}"
 				""
-				"The optimal minimal build consists of :"
+				"{chapter.stage.7.quest.32.description.2}"
 				""
-				"• 60 SPS Casings (+12 crafting material for 3 SPS Ports)"
-				"• 123 Reactor Glass or Structural Glass"
-				"• 3 SPS Ports"
-				"• 1 Supercharged Coil"
+				"{chapter.stage.7.quest.32.description.3}"
+				"{chapter.stage.7.quest.32.description.4}"
+				"{chapter.stage.7.quest.32.description.5}"
+				"{chapter.stage.7.quest.32.description.6}"
 			]
 			dependencies: ["2DFA80F449445FB0"]
 			min_width: 300
@@ -465,7 +507,7 @@
 					id: "02E59DB19D99A43E"
 					type: "item"
 					item: "mekanism:sps_casing"
-					count: 101L
+					count: 60L
 				}
 				{
 					id: "36E06482EC90BF82"
@@ -482,13 +524,16 @@
 					id: "5397C65C34FC4F01"
 					type: "item"
 					item: "mekanismgenerators:reactor_glass"
-					count: 80L
+					count: 123L
 				}
 			]
 		}
 		{
+			title: "{chapter.stage.7.quest.32.title}"
 			x: 9.0d
 			y: 14.0d
+			subtitle: "{chapter.stage.7.quest.33.subtitle.1}"
+			description: ["{chapter.stage.7.quest.33.description.1}"]
 			dependencies: ["0F488A62965549C0"]
 			id: "1EBD316BA5724440"
 			tasks: [{
@@ -500,6 +545,7 @@
 		{
 			x: 9.0d
 			y: 16.0d
+			subtitle: "{chapter.stage.7.quest.35.subtitle.1}"
 			dependencies: ["1EBD316BA5724440"]
 			id: "6887A0C7EAC6065F"
 			tasks: [{
@@ -511,6 +557,8 @@
 		{
 			x: 7.0d
 			y: 14.0d
+			subtitle: "{chapter.stage.7.quest.34.subtitle.1}"
+			description: ["{chapter.stage.7.quest.34.description.1}"]
 			dependencies: ["1EBD316BA5724440"]
 			id: "0BACDAB9609C69CE"
 			tasks: [{
@@ -520,12 +568,60 @@
 			}]
 		}
 		{
-			title: "Draconic Energy Storage"
+			title: "{chapter.stage.7.quest.31.title}"
 			x: 14.0d
 			y: 14.0d
 			shape: "hexagon"
+			subtitle: "{chapter.stage.7.quest.31.subtitle.1}"
+			description: [
+				"{chapter.stage.7.quest.31.description.1}"
+				""
+				"{chapter.stage.7.quest.31.description.2}"
+				""
+				"{chapter.stage.7.quest.31.description.3}"
+				""
+				"{chapter.stage.7.quest.31.description.4}"
+				"{chapter.stage.7.quest.31.description.5}"
+				""
+				"{chapter.stage.7.quest.31.description.6}"
+				"{chapter.stage.7.quest.31.description.7}"
+				""
+				"{chapter.stage.7.quest.31.description.8}"
+				"{chapter.stage.7.quest.31.description.9}"
+				"{chapter.stage.7.quest.31.description.10}"
+				""
+				"{chapter.stage.7.quest.31.description.11}"
+				"{chapter.stage.7.quest.31.description.12}"
+				"{chapter.stage.7.quest.31.description.13}"
+				""
+				"{chapter.stage.7.quest.31.description.14}"
+				"{chapter.stage.7.quest.31.description.15}"
+				"{chapter.stage.7.quest.31.description.16}"
+				"{chapter.stage.7.quest.31.description.17}"
+				""
+				"{chapter.stage.7.quest.31.description.18}"
+				"{chapter.stage.7.quest.31.description.19}"
+				"{chapter.stage.7.quest.31.description.20}"
+				"{chapter.stage.7.quest.31.description.21}"
+				""
+				"{chapter.stage.7.quest.31.description.22}"
+				"{chapter.stage.7.quest.31.description.23}"
+				"{chapter.stage.7.quest.31.description.24}"
+				"{chapter.stage.7.quest.31.description.25}"
+				""
+				"{chapter.stage.7.quest.31.description.26}"
+				"{chapter.stage.7.quest.31.description.27}"
+				"{chapter.stage.7.quest.31.description.28}"
+				"{chapter.stage.7.quest.31.description.29}"
+				""
+				"{chapter.stage.7.quest.31.description.30}"
+				"{chapter.stage.7.quest.31.description.31}"
+				"{chapter.stage.7.quest.31.description.32}"
+				"{chapter.stage.7.quest.31.description.33}"
+			]
 			dependencies: ["2DFA80F449445FB0"]
 			size: 1.5d
+			min_width: 400
 			id: "54C1CEEE1D319C61"
 			tasks: [
 				{
@@ -548,6 +644,8 @@
 		{
 			x: 16.5d
 			y: 10.0d
+			subtitle: "{chapter.stage.7.quest.36.subtitle.1}"
+			description: ["{chapter.stage.7.quest.36.description.1}"]
 			dependencies: ["0E1E534ED0D9232A"]
 			id: "5FEA9C36FBDAC5D4"
 			tasks: [{
@@ -561,6 +659,7 @@
 			x: 19.0d
 			y: 11.0d
 			shape: "octagon"
+			subtitle: "{chapter.stage.7.quest.38.subtitle.1}"
 			dependencies: ["3CF214332A7251D2"]
 			size: 1.5d
 			id: "50D3D2AD649D2394"
@@ -633,6 +732,8 @@
 		{
 			x: 16.5d
 			y: 13.0d
+			subtitle: "{chapter.stage.7.quest.39.subtitle.1}"
+			description: ["{chapter.stage.7.quest.39.description.1}"]
 			dependencies: [
 				"3CF214332A7251D2"
 				"5A1A6AD70392E5F2"
@@ -647,6 +748,8 @@
 		{
 			x: 17.0d
 			y: 11.5d
+			subtitle: "{chapter.stage.7.quest.37.subtitle.1}"
+			description: ["{chapter.stage.7.quest.37.description.1}"]
 			dependencies: ["5FEA9C36FBDAC5D4"]
 			id: "3CF214332A7251D2"
 			tasks: [{
@@ -658,6 +761,8 @@
 		{
 			x: 18.0d
 			y: 14.0d
+			subtitle: "{chapter.stage.7.quest.40.subtitle.1}"
+			description: ["{chapter.stage.7.quest.40.description.1}"]
 			dependencies: ["267431BB9C00604D"]
 			id: "75A78D1793E09B31"
 			tasks: [{
@@ -669,6 +774,7 @@
 		{
 			x: 18.0d
 			y: 17.0d
+			subtitle: "{chapter.stage.7.quest.42.subtitle.1}"
 			dependencies: ["29EBA11A334141F6"]
 			id: "5C2E4E06A851BC2D"
 			tasks: [{
@@ -678,8 +784,10 @@
 			}]
 		}
 		{
+			title: "{chapter.stage.7.quest.41.title}"
 			x: 18.5d
 			y: 15.5d
+			subtitle: "{chapter.stage.7.quest.41.subtitle.1}"
 			dependencies: ["75A78D1793E09B31"]
 			id: "29EBA11A334141F6"
 			tasks: [{
@@ -699,6 +807,8 @@
 		{
 			x: 16.5d
 			y: 17.5d
+			subtitle: "{chapter.stage.7.quest.44.subtitle.1}"
+			description: ["{chapter.stage.7.quest.44.description.1}"]
 			dependencies: ["5C2E4E06A851BC2D"]
 			id: "062BEE0953494B0E"
 			tasks: [{
@@ -710,6 +820,8 @@
 		{
 			x: 14.5d
 			y: 17.5d
+			subtitle: "{chapter.stage.7.quest.45.subtitle.1}"
+			description: ["{chapter.stage.7.quest.45.description.1}"]
 			dependencies: ["062BEE0953494B0E"]
 			id: "75563F4B188961C3"
 			tasks: [{
@@ -721,6 +833,8 @@
 		{
 			x: 12.5d
 			y: 17.5d
+			subtitle: "{chapter.stage.7.quest.46.subtitle.1}"
+			description: ["{chapter.stage.7.quest.46.description.1}"]
 			dependencies: ["75563F4B188961C3"]
 			id: "7CB7FE1BC655A10D"
 			tasks: [{
@@ -740,6 +854,8 @@
 		{
 			x: 12.5d
 			y: 19.0d
+			subtitle: "{chapter.stage.7.quest.47.subtitle.1}"
+			description: ["{chapter.stage.7.quest.47.description.1}"]
 			dependencies: ["7CB7FE1BC655A10D"]
 			id: "3CAF531D039F5972"
 			tasks: [{
@@ -760,6 +876,8 @@
 		{
 			x: 12.0d
 			y: 20.5d
+			subtitle: "{chapter.stage.7.quest.48.subtitle.1}"
+			description: ["{chapter.stage.7.quest.48.description.1}"]
 			dependencies: ["3CAF531D039F5972"]
 			id: "1B0A3E442A13BA03"
 			tasks: [{
@@ -771,6 +889,8 @@
 		{
 			x: 13.0d
 			y: 20.5d
+			subtitle: "{chapter.stage.7.quest.49.subtitle.1}"
+			description: ["{chapter.stage.7.quest.49.description.1}"]
 			dependencies: ["3CAF531D039F5972"]
 			id: "782E719DB8456B03"
 			tasks: [{
@@ -782,6 +902,8 @@
 		{
 			x: 19.5d
 			y: 18.0d
+			subtitle: "{chapter.stage.7.quest.43.subtitle.1}"
+			description: ["{chapter.stage.7.quest.43.description.1}"]
 			dependencies: ["5C2E4E06A851BC2D"]
 			id: "78D7DB5F78B34082"
 			tasks: [{
@@ -793,6 +915,8 @@
 		{
 			x: 3.5d
 			y: 4.0d
+			subtitle: "{chapter.stage.7.quest.9.subtitle.1}"
+			description: ["{chapter.stage.7.quest.9.description.1}"]
 			dependencies: ["18B8FB33AA979AED"]
 			id: "4D1C28963927F298"
 			tasks: [{
@@ -804,6 +928,7 @@
 		{
 			x: 5.0d
 			y: 4.0d
+			subtitle: "{chapter.stage.7.quest.10.subtitle.1}"
 			dependencies: ["4D1C28963927F298"]
 			id: "6448A1E933717142"
 			tasks: [{
@@ -815,6 +940,7 @@
 		{
 			x: 5.0d
 			y: 5.5d
+			subtitle: "{chapter.stage.7.quest.11.subtitle.1}"
 			dependencies: ["6448A1E933717142"]
 			id: "491A979D9768B1CB"
 			tasks: [{

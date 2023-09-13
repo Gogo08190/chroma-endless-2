@@ -15,7 +15,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 9.5d
+			x: 8.0d
 			y: 1.5d
 			subtitle: "{chapter.stage.2.quest.3.subtitle.1}"
 			description: ["{chapter.stage.2.quest.3.description.1}"]
@@ -32,7 +32,7 @@
 			}]
 		}
 		{
-			x: 8.0d
+			x: 6.5d
 			y: 1.0d
 			subtitle: "{chapter.stage.2.quest.2.subtitle.1}"
 			description: ["{chapter.stage.2.quest.2.description.1}"]
@@ -49,7 +49,7 @@
 			}]
 		}
 		{
-			x: 10.0d
+			x: 8.5d
 			y: 3.0d
 			subtitle: "{chapter.stage.2.quest.4.subtitle.1}"
 			description: ["{chapter.stage.2.quest.4.description.1}"]
@@ -131,7 +131,7 @@
 				""
 				"{chapter.stage.2.quest.5.description.2}"
 			]
-			dependencies: ["3A8FD39A74BFEC82"]
+			dependencies: ["4E0E34A0AC440055"]
 			id: "1DF0F7DDAAFED205"
 			tasks: [{
 				id: "23A1A4540F67E01C"
@@ -1150,7 +1150,7 @@
 			}]
 		}
 		{
-			x: 9.5d
+			x: 8.0d
 			y: -0.5d
 			shape: "gear"
 			subtitle: "{chapter.stage.2.quest.1.subtitle.1}"
@@ -1354,7 +1354,7 @@
 			tasks: [{
 				id: "6163C7F39BBE1823"
 				type: "item"
-				title: "Energy Accumulator"
+				title: "{chapter.stage.2.quest.13.title.1}"
 				item: {
 					id: "itemfilters:or"
 					Count: 1
@@ -1655,6 +1655,17 @@
 				id: "5838ED9C144F89CC"
 				type: "item"
 				item: "blue_skies:ventium_ingot"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 3.0d
+			dependencies: ["3A8FD39A74BFEC82"]
+			id: "4E0E34A0AC440055"
+			tasks: [{
+				id: "1091CA21E5592E1E"
+				type: "item"
+				item: "immersiveengineering:ingot_steel"
 			}]
 		}
 	]

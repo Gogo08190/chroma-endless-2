@@ -13,29 +13,208 @@
 	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "Diamond Ring"
-		icon: "angelring:itemdiamondring"
-		x: -3.5d
-		y: -1.5d
-		can_repeat: true
-		id: "35570798E92E1C7A"
-		tasks: [{
-			id: "4DFDA2F86B8E4937"
-			type: "item"
-			item: {
-				id: "numismaticoverhaul:gold_coin"
-				Count: 1
-				tag: { }
-			}
-			consume_items: true
-		}]
-		rewards: [{
-			id: "2C00FB702E9D9CDD"
-			type: "item"
-			team_reward: false
-			item: "angelring:itemdiamondring"
-		}]
-	}]
+	images: [
+		{
+			x: -6.5d
+			y: -1.0d
+			width: 0.1d
+			height: 10.0d
+			rotation: 0.0d
+			image: "chroma:textures/block/dielectric_paste_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 1.0d
+			y: -1.0d
+			width: 0.1d
+			height: 10.0d
+			rotation: 0.0d
+			image: "chroma:textures/block/dielectric_paste_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 7.5d
+			y: -1.0d
+			width: 0.1d
+			height: 10.0d
+			rotation: 0.0d
+			image: "chroma:textures/block/dielectric_paste_block.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			title: "Diamond Ring"
+			icon: "angelring:itemdiamondring"
+			x: -3.5d
+			y: -1.5d
+			can_repeat: true
+			id: "35570798E92E1C7A"
+			tasks: [{
+				id: "4DFDA2F86B8E4937"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2C00FB702E9D9CDD"
+				type: "item"
+				team_reward: false
+				item: "angelring:itemdiamondring"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.5d
+			id: "79DE50F8845B3870"
+			tasks: [{
+				id: "1D20306302A2CA2B"
+				type: "item"
+				item: {
+					id: "ironjetpacks:jetpack"
+					Count: 1
+					tag: {
+						Id: "ironjetpacks:creative"
+						Throttle: 1.0d
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -0.5d
+			id: "3465A705743BCD94"
+			tasks: [{
+				id: "451B2EA8FC9B5B65"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1
+					tag: {
+						slot: "upgrades"
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -1.5d
+			id: "21C2130F067D434F"
+			tasks: [{
+				id: "6E260D1058388E2B"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1
+					tag: {
+						slot: "defense"
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -0.5d
+			id: "49E6AC61663A4544"
+			tasks: [{
+				id: "1A3E3DC173694A2F"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1
+					tag: {
+						slot: "abilities"
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -1.5d
+			id: "040737FEF3913759"
+			tasks: [{
+				id: "128F791DFB389236"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1
+					tag: {
+						slot: "souls"
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -0.5d
+			id: "3596DE6D09D5A377"
+			tasks: [{
+				id: "368119973173A02F"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1
+					tag: {
+						slot: "sensor"
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: -0.5d
+			id: "16ED97F971E942B3"
+			tasks: [{
+				id: "21E5389AD8379963"
+				type: "item"
+				item: "create:creative_blaze_cake"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 2.0d
+			id: "300537E738AF88CB"
+			tasks: [{
+				id: "218EFA228500670C"
+				type: "item"
+				item: "ftbquests:screen_1"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			id: "334D4F73B00ADCBD"
+			tasks: [{
+				id: "5CC15604A1F0623B"
+				type: "forge_energy"
+				value: 1000000L
+				max_input: 1000L
+			}]
+		}
+		{
+			x: 2.5d
+			y: -1.5d
+			id: "4325F778D7825FE1"
+			tasks: [{
+				id: "48FEF77EC550CE9A"
+				type: "fluid"
+				fluid: "minecraft:water"
+				amount: 1000000L
+			}]
+		}
+	]
 	quest_links: [ ]
 }

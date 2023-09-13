@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 0
 	filename: "heavy_machinery"
-	title: "Heavy Machinery"
+	title: "{chapter.machinery.title}"
 	icon: "immersiveengineering:diesel_generator"
 	default_quest_shape: "square"
 	default_hide_dependency_lines: false
@@ -49,12 +49,18 @@
 		{
 			x: -5.0d
 			y: -3.0d
+			subtitle: "{chapter.machinery.quest.1.subtitle.1}"
+			description: [
+				"{chapter.machinery.quest.1.description.1}"
+				""
+				"{chapter.machinery.quest.1.description.2}"
+			]
 			dependencies: ["5399655B3844833B"]
 			id: "7E6373B80FFD8631"
 			tasks: [{
 				id: "5B11B83CB91D1CA6"
 				type: "observation"
-				title: "Look at a complete &6Crusher"
+				title: "{chapter.machinery.quest.1.title.1}"
 				icon: "immersiveengineering:crusher"
 				timer: 0L
 				observe_type: 0
@@ -64,12 +70,14 @@
 		{
 			x: -3.0d
 			y: -3.0d
+			subtitle: "{chapter.machinery.quest.2.subtitle.1}"
+			description: ["{chapter.machinery.quest.2.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "0599F9EB6DDDEE3A"
 			tasks: [{
 				id: "2116368A034FCF45"
 				type: "observation"
-				title: "Look at a complete &6Sawmill"
+				title: "{chapter.machinery.quest.2.title.1}"
 				icon: "immersiveengineering:sawmill"
 				timer: 0L
 				observe_type: 0
@@ -79,12 +87,14 @@
 		{
 			x: -1.0d
 			y: -3.0d
+			subtitle: "{chapter.machinery.quest.3.subtitle.1}"
+			description: ["{chapter.machinery.quest.3.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "323F7A82FF054015"
 			tasks: [{
 				id: "2DBE69187067D23E"
 				type: "observation"
-				title: "Look at a complete &6Assembler"
+				title: "{chapter.machinery.quest.3.subtitle.1}"
 				icon: "immersiveengineering:assembler"
 				timer: 0L
 				observe_type: 0
@@ -94,12 +104,14 @@
 		{
 			x: 1.0d
 			y: -3.0d
+			subtitle: "{chapter.machinery.quest.4.subtitle.1}"
+			description: ["{chapter.machinery.quest.4.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "6ACE497DE8FA2C98"
 			tasks: [{
 				id: "1527045932BF089A"
 				type: "observation"
-				title: "Look at a complete &6Automated Engineer's Workbench"
+				title: "{chapter.machinery.quest.4.title.1}"
 				icon: "immersiveengineering:auto_workbench"
 				timer: 0L
 				observe_type: 0
@@ -109,12 +121,18 @@
 		{
 			x: 1.0d
 			y: -1.0d
+			subtitle: "{chapter.machinery.quest.8.subtitle.1}"
+			description: [
+				"{chapter.machinery.quest.8.description.1}"
+				""
+				"{chapter.machinery.quest.8.description.2}"
+			]
 			dependencies: ["5399655B3844833B"]
 			id: "341E2F628FC8E7E4"
 			tasks: [{
 				id: "5CE15CBF6D5F2ED2"
 				type: "observation"
-				title: "Look at a complete &6Improved Blast Furnace"
+				title: "{chapter.machinery.quest.8.title.1}"
 				icon: "immersiveengineering:advanced_blast_furnace"
 				timer: 0L
 				observe_type: 0
@@ -124,12 +142,14 @@
 		{
 			x: 1.0d
 			y: 3.0d
+			subtitle: "{chapter.machinery.quest.16.subtitle.1}"
+			description: ["{chapter.machinery.quest.16.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "3528E1AC057425E4"
 			tasks: [{
 				id: "474A0EB7D5A8E854"
 				type: "observation"
-				title: "Look at a complete &6Diesel Generator"
+				title: "{chapter.machinery.quest.16.title.1}"
 				icon: "immersiveengineering:diesel_generator"
 				timer: 0L
 				observe_type: 0
@@ -139,12 +159,14 @@
 		{
 			x: -5.0d
 			y: 3.0d
+			subtitle: "{chapter.machinery.quest.13.subtitle.1}"
+			description: ["{chapter.machinery.quest.13.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "4BA5B4C98D19B622"
 			tasks: [{
 				id: "6A89D717DB1A47F5"
 				type: "observation"
-				title: "Look at a complete &6Excavator"
+				title: "{chapter.machinery.quest.13.title.1}"
 				icon: "immersiveengineering:excavator"
 				timer: 0L
 				observe_type: 0
@@ -154,12 +176,14 @@
 		{
 			x: -1.0d
 			y: 3.0d
+			subtitle: "{chapter.machinery.quest.15.subtitle.1}"
+			description: ["{chapter.machinery.quest.15.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "18208A3C2FBD9AF4"
 			tasks: [{
 				id: "59665470C1FDDC0C"
 				type: "observation"
-				title: "Look at a complete &6Lightning Rod"
+				title: "{chapter.machinery.quest.15.title.1}"
 				icon: "immersiveengineering:lightning_rod"
 				timer: 0L
 				observe_type: 0
@@ -169,12 +193,14 @@
 		{
 			x: -5.0d
 			y: -1.0d
+			subtitle: "{chapter.machinery.quest.5.subtitle.1}"
+			description: ["{chapter.machinery.quest.5.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "268E4CFEB7D93DC9"
 			tasks: [{
 				id: "6C2405EB0546334F"
 				type: "observation"
-				title: "Look at a complete &6Fluid Tank"
+				title: "{chapter.machinery.quest.5.title.1}"
 				icon: "immersiveengineering:tank"
 				timer: 0L
 				observe_type: 0
@@ -184,12 +210,13 @@
 		{
 			x: -3.0d
 			y: -1.0d
+			subtitle: "{chapter.machinery.quest.6.subtitle.1}"
 			dependencies: ["5399655B3844833B"]
 			id: "47166708FC276A2A"
 			tasks: [{
 				id: "187CC1A927C0D1A3"
 				type: "observation"
-				title: "Look at a complete &6Item Silo"
+				title: "{chapter.machinery.quest.6.title.1}"
 				icon: "immersiveengineering:silo"
 				timer: 0L
 				observe_type: 0
@@ -199,12 +226,14 @@
 		{
 			x: -3.0d
 			y: 1.0d
+			subtitle: "{chapter.machinery.quest.10.subtitle.1}"
+			description: ["{chapter.machinery.quest.10.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "7FABDB6AC418A9D0"
 			tasks: [{
 				id: "76A799527D3875B1"
 				type: "observation"
-				title: "Look at a complete &6Distillation Tower"
+				title: "{chapter.machinery.quest.10.title.1)"
 				icon: "immersivepetroleum:distillation_tower"
 				timer: 0L
 				observe_type: 0
@@ -214,12 +243,14 @@
 		{
 			x: -3.0d
 			y: 3.0d
+			subtitle: "{chapter.machinery.quest.14.subtitle.1}"
+			description: ["{chapter.machinery.quest.14.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "57CC194659B5DD92"
 			tasks: [{
 				id: "65C356478E500FCB"
 				type: "observation"
-				title: "Look at a complete &6Pumpjack"
+				title: "{chapter.machinery.quest.14.title.1}"
 				icon: "immersivepetroleum:pumpjack"
 				timer: 0L
 				observe_type: 0
@@ -229,12 +260,14 @@
 		{
 			x: 1.0d
 			y: 1.0d
+			subtitle: "{chapter.machinery.quest.12.subtitle.1}"
+			description: ["{chapter.machinery.quest.12.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "541CD3626DC89D75"
 			tasks: [{
 				id: "5A085E7EEDF668AB"
 				type: "observation"
-				title: "Look at a complete &6Coker"
+				title: "{chapter.machinery.quest.12.title.1}"
 				icon: "immersivepetroleum:coker_unit"
 				timer: 0L
 				observe_type: 0
@@ -244,12 +277,14 @@
 		{
 			x: -5.0d
 			y: 1.0d
+			subtitle: "{chapter.machinery.quest.9.subtitle.1}"
+			description: ["{chapter.machinery.quest.9.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "17225D250D551076"
 			tasks: [{
 				id: "186AFB1DCB0F7FA6"
 				type: "observation"
-				title: "Look at a complete &6High-Pressure Refinery Unit"
+				title: "{chapter.machinery.quest.9.title.1}"
 				icon: "immersivepetroleum:hydrotreater"
 				timer: 0L
 				observe_type: 0
@@ -259,12 +294,13 @@
 		{
 			x: -1.0d
 			y: 1.0d
+			subtitle: "{chapter.machinery.quest.11.subtitle.1}"
 			dependencies: ["5399655B3844833B"]
 			id: "615E0DDF6AA8BA0C"
 			tasks: [{
 				id: "60ECC63396401310"
 				type: "observation"
-				title: "Look at a complete &6Derrick"
+				title: "{chapter.machinery.quest.11.title.1}"
 				icon: "immersivepetroleum:derrick"
 				timer: 0L
 				observe_type: 0
@@ -274,12 +310,14 @@
 		{
 			x: -1.0d
 			y: -1.0d
+			subtitle: "{chapter.machinery.quest.7.subtitle.1}"
+			description: ["{chapter.machinery.quest.7.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "3328D244359964DF"
 			tasks: [{
 				id: "484AF5426FB2AE6E"
 				type: "observation"
-				title: "Look at a complete &6Oil Tank"
+				title: "{chapter.machinery.quest.7.title.1}"
 				icon: "immersivepetroleum:oiltank"
 				timer: 0L
 				observe_type: 0

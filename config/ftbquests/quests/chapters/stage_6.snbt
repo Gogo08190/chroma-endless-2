@@ -709,7 +709,7 @@
 			]
 		}
 		{
-			title: "&6Reactor starter kit"
+			title: "{chapter.stage.6.quest.39.title}"
 			x: 10.0d
 			y: -2.5d
 			subtitle: "{chapter.stage.6.quest.39.subtitle.1}"
@@ -806,7 +806,7 @@
 			}]
 		}
 		{
-			title: "Fusion Reactor"
+			title: "{chapter.stage.6.quest.43.title}"
 			icon: "alchemistry:fusion_chamber_controller"
 			x: 12.0d
 			y: 1.0d
