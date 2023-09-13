@@ -1629,7 +1629,7 @@
   "chapter.stage.6.quest.38.subtitle.1": "Slurry Transformation",
   "chapter.stage.6.quest.38.description.1": "Transform any given ores with Sulfuric Acid into it's corresponding Slurry.",
 
-  "chapter.stage.6.quest.39.title": "The Fusion Reactor",
+  "chapter.stage.6.quest.39.title": "Reactor Starter Kit",
   "chapter.stage.6.quest.39.subtitle.1": "Reactor Starting Setup",
   "chapter.stage.6.quest.39.description.1": "&bThe Fusion Reactor&r will not start on its own. It requires an outside burst of energy from a charged Laser Amplifier and a small amount of D-T Fuel to begin the fusion process. Once the reaction is jump started, it will begin consuming supplied Deuterium and Tritium, creating plasma and generating power. Alternatively you can use a Resistive Heater heating the reactor to 100.00MK Plasma temperature. This can be done quickest at 10MFE/t usage on the heater",
   "chapter.stage.6.quest.39.description.2": "&bThe Hohlraum&r stores 10 units of D-T Fuel required for the initial reaction. To fill it up, place it into a Chemical Infuser which is combining Deuterium and Tritium. Place the Hohlraum into the Reactor Controller when it contains the required D-T Fuel.",
@@ -1767,7 +1767,7 @@
   "chapter.stage.7.quest.31.description.32": "• 786 Draconium Blocks",
   "chapter.stage.7.quest.31.description.33": "• 36 Energy Core Stabilizer",
 
-  "chapter.stage.7.quest.32.title": "Antimatter Pellet",
+  "chapter.stage.7.quest.32.title": "Supercritical Phase Shifter",
   "chapter.stage.7.quest.32.subtitle.1": "Purple Pellet",
   "chapter.stage.7.quest.32.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
   "chapter.stage.7.quest.32.description.2": "The optimal minimal build consists of :",
@@ -2813,5 +2813,5 @@
 
   "chapter.mekanism.quest.156.subtitle.1": "Ultimate Mekanism Pickaxe",
 
-  "chapter.mekanism.quest.157.subtitle.1": "Mekanism Ultimate Tool",
+  "chapter.mekanism.quest.157.subtitle.1": "Mekanism Ultimate Tool"
 }
