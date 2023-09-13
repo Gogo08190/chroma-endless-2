@@ -969,6 +969,7 @@
   "chapter.stage.4.quest.14.subtitle.1": "Modulation Supplémentaire",
   "chapter.stage.4.quest.14.description.1": "Peut améliorer les Modules de Tubes pour débloquer des configurations de modules supplémentaires. Également utilisé pour les Composants de fabrication.",
 
+  "chapter.stage.4.quest.15.title" : "Assembleur Pneumatique",
   "chapter.stage.4.quest.15.subtitle.1": "Oui, une Autre Méthode de fabricaton",
   "chapter.stage.4.quest.15.description.1": "Pour pouvoir fabriquer des matériaux de niveau supérieur, vous aurez besoin d'un &5Système d'Assemblage&r, une collection de Machines d'Assemblage.",
   "chapter.stage.4.quest.15.description.2": "Ces machines communiquent entre elles lorsqu'elles sont adjacentes horizontalement. Seule une machine de chaque type peut exister.",
@@ -1129,6 +1130,7 @@
   "chapter.stage.4.quest.69.subtitle.1": "Composant d'Autocrafting",
   "chapter.stage.4.quest.69.description.1": "Utilisez la Chambre de Dissolution pour assembler des Feuilles de HDPE, tous les Processeurs, un Verre de Fluix ME avec du Quartz Certus fondu.",
 
+  "chapter.stage.4.quest.70.title": "Stockage de fabrication",
   "chapter.stage.4.quest.70.subtitle.1": "Opérer les Autocrafts",
   "chapter.stage.4.quest.70.description.1": "Avant d'exécuter une opération d'autocrafting, vous devez disposer d'un dispositif dédié pour abriter la demande de fabrication ainsi que les objets intermédiaires nécessaires aux crafts en plusieurs étapes. Ce dispositif spécialisé est appelé &6Unité de Fabrication CPU&r.",
   "chapter.stage.4.quest.70.description.2": "Un CPU de fabrication est une structure composite formée en assemblant plusieurs blocs en une unité cohérente. Au minimum, il nécessite un bloc de &bStockage de Fabrication&r, et il peut également incorporer des Unités de Fabrication supplémentaires. La configuration de ce multibloc peut varier en taille, mais elle doit être en forme de cuboïde solide pour s'établir et fonctionner avec succès.",
@@ -1159,6 +1161,7 @@
   "chapter.stage.4.quest.79.subtitle.1": "Personne ne Peut Vous Entendre Mourir",
   "chapter.stage.4.quest.79.description.1": "Sans ceci, vous ne pourrez pas respirer dans l'Espace.",
 
+  "chapter.stage.4.quest.80.title" : "Armure spatiale",
   "chapter.stage.4.quest.80.subtitle.1": "Combinaison Spatiale",
   "chapter.stage.4.quest.80.description.1": "Une protection vraiment efficace pour l'exploration spatiale.",
 
@@ -1293,9 +1296,11 @@
   "chapter.stage.4.quest.127.subtitle.1": "Stockage par Induction",
   "chapter.stage.4.quest.127.description.1": "La Matrice d'Induction peut stocker une quantité vraiment importante de FE. Ce sont les principales composantes pour la construire.",
 
+  "chapter.stage.4.quest.128.title": "Cellules d'induction",
   "chapter.stage.4.quest.128.subtitle.1": "Cellules de Matrice d'Induction",
   "chapter.stage.4.quest.128.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daugmente la capacité totale de stockage d'énergie&f d'une Matrice.",
 
+  "chapter.stage.4.quest.129.title": "Fournisseurs d'induction",
   "chapter.stage.4.quest.129.subtitle.1": "Fournisseurs de Matrice",
   "chapter.stage.4.quest.129.description.1": "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut délivrer par tick&f à travers le Port d'Induction.",
 
@@ -1624,6 +1629,7 @@
   "chapter.stage.6.quest.38.subtitle.1": "Transformation en Bouillie",
   "chapter.stage.6.quest.38.description.1": "Transformez n'importe quel minerai avec de l'Acide Sulfurique en sa Bouillie correspondante.",
 
+  "chapter.stage.6.quest.39.title": "Le Réacteur à Fusion",
   "chapter.stage.6.quest.39.subtitle.1": "Configuration de Démarrage du Réacteur",
   "chapter.stage.6.quest.39.description.1": "&bLe Réacteur de Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
   "chapter.stage.6.quest.39.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutérium et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
@@ -1637,6 +1643,7 @@
 
   "chapter.stage.6.quest.42.subtitle.1": "Stockage d'Énergie Cosmique",
 
+  "chapter.stage.6.quest.43.title": "Réacteur de fusion alchimique",
   "chapter.stage.6.quest.43.subtitle.1": "Fusionneur d'Élément Chimique",
   "chapter.stage.6.quest.43.description.1": "Combine 2 Éléments Chimiques compatibles pour obtenir un Super Élément Chimique.",
 
@@ -1724,6 +1731,7 @@
 
   "chapter.stage.7.quest.30.subtitle.1": "Stockage d'Énergie Photonique",
 
+  "chapter.stage.7.quest.31.title": "Stockage d'énergie draconique",
   "chapter.stage.7.quest.31.subtitle.1": "Stockage de l'Énergie Draconique",
   "chapter.stage.7.quest.31.description.1": "Le &dStockage d'Énergie Draconique&r est utilisé pour stocker beaucoup d'énergie.",
   "chapter.stage.7.quest.31.description.2": "Le &dCœur Énergétique&r est au centre de la boule draconique.",
@@ -1759,6 +1767,7 @@
   "chapter.stage.7.quest.31.description.32": "• 786 Draconium Blocks",
   "chapter.stage.7.quest.31.description.33": "• 36 Energy Core Stabilizer",
 
+  "chapter.stage.7.quest.32.title": "Pastille d'antimatière",
   "chapter.stage.7.quest.32.subtitle.1": "Antimatière",
   "chapter.stage.7.quest.32.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs recettes de fin de partie.",
   "chapter.stage.7.quest.32.description.2": "La construction minimale optimale se compose de :",
