@@ -2152,5 +2152,162 @@
   "chapter.thermal.quest.54.description.1": "Le Fabricant Séquentiel est une machine qui fabrique automatiquement des objets.",
 
   "chapter.thermal.quest.55.subtitle.1": "Plus de stockage d'énergie",
-  "chapter.thermal.quest.55.description.1" : "Ajoute 250kFE au stockage d'énergie."
+  "chapter.thermal.quest.55.description.1" : "Ajoute 250kFE au stockage d'énergie.",
+
+  "Forbidden and Arcanus":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.forbidden.title": "Forbidden and Arcanus",
+
+  "chapter.forbidden.quest.1.title": "Tu es un sorcier !",
+  "chapter.forbidden.quest.1.subtitle.1": "Démarrage du Mod",
+
+  "chapter.forbidden.quest.2.title": "Arbres Edelwood",
+  "chapter.forbidden.quest.2.subtitle.1": "Arbre Étrange",
+  "chapter.forbidden.quest.2.description.1": "Trouvé dans le biome de la Forêt Sombre, l'Arbre Edelwood ressemble à un petit arbre coupé en deux.",
+  "chapter.forbidden.quest.2.description.2": "Vous devrez casser les branches et collecter les bûches, car elles sont utilisées pour fabriquer divers objets dans le mod.",
+
+  "chapter.forbidden.quest.3.subtitle.1": "Seau Puissant",
+  "chapter.forbidden.quest.3.description.1": "Le seau Edelwood peut stocker plus d'un seau de liquide et peut également être utilisé pour capturer de petits animaux comme les poulets ou les calamars.",
+  "chapter.forbidden.quest.3.description.2": "Pour transporter de la lave, vous aurez besoin de l'enchantement Permafrost.",
+
+  "chapter.forbidden.quest.4.subtitle.1": "Matière Noire",
+  "chapter.forbidden.quest.4.description.1": "La fusion de l'Edelwood vous donnera de la Matière Noire. Vous pouvez créer des Trous Noirs avec cela.",
+
+  "chapter.forbidden.quest.5.subtitle.1": "Casser des Générateurs",
+  "chapter.forbidden.quest.5.description.1": "Casser des générateurs va maintenant vous donner des &bDéchets de Générateur&r.",
+
+  "chapter.forbidden.quest.6.subtitle.1": "Capture",
+  "chapter.forbidden.quest.6.description.1": "Le &bCaptureur Quantique&r est utilisé pour capturer et transporter des mobs.",
+
+  "chapter.forbidden.quest.7.subtitle.1": "Vision Aureal",
+  "chapter.forbidden.quest.7.description.1": "La &bLentille de Veritatis&r est utilisée pour voir les entités Aureal. Ce sont des entités qui accordent de l'Aureal lorsqu'elles sont tuées, mais qui augmentent également votre corruption....",
+
+  "chapter.forbidden.quest.8.subtitle.1": "Herbe Céleste",
+  "chapter.forbidden.quest.8.description.1": "Avez-vous vu l'île flottante aléatoire dans le ciel ? Pas celle en slime, mais la petite ?",
+  "chapter.forbidden.quest.8.description.2": "Elles ont la plante Nipa. Vous pouvez les casser et les déplacer.",
+  "chapter.forbidden.quest.8.description.3": "Elles produisent au fil du temps des Étincelles de Poussière de Cristal Arcane, qui peuvent être utilisées pour créer de la Poussière de Cristal Arcane.",
+
+  "chapter.forbidden.quest.9.subtitle.1": "Thaumcraft est de retour ?",
+  "chapter.forbidden.quest.9.description.1": "Tuer des mobs passifs augmentera votre corruption. Tuer des &bEntités Aureal&r a plus de chances d'augmenter votre corruption.",
+  "chapter.forbidden.quest.9.description.2": "Soyez prudent ! À des niveaux de corruption plus élevés, des choses négatives se produiront !",
+  "chapter.forbidden.quest.9.description.3": "Fabriquer un Indicateur de Santé mettra à niveau votre interface utilisateur pour afficher votre corruption totale, pour ceux qui veulent battre de nouveaux records.",
+
+  "chapter.forbidden.quest.10.subtitle.1": "Vol... Presque",
+
+  "chapter.forbidden.quest.11.subtitle.1": "Cristal Principal",
+  "chapter.forbidden.quest.11.description.1": "Il s'agit de la principale ressource du mod. Allez en chercher !",
+
+  "chapter.forbidden.quest.12.subtitle.1": "Fusion de Cristaux Arcanes",
+
+  "chapter.forbidden.quest.13.subtitle.1": "Super Engrais d'Os",
+  "chapter.forbidden.quest.13.description.1": "L'utilisation de cet engrais d'os sur des terres arables les transformera en terres arables magiques.",
+  "chapter.forbidden.quest.13.description.2": "Les cultures produiront le double de la récolte lorsqu'elles poussent sur des terres arables magiques.",
+
+  "chapter.forbidden.quest.14.subtitle.1": "Trop de Corruption",
+  "chapter.forbidden.quest.14.description.1": "Utilisé pour corrompre des âmes et des runes. Vous en aurez besoin plus tard.",
+  "chapter.forbidden.quest.14.description.2": "Si vous jetez de la Matière Noire, puis de la Poussière de Corrupti, vous créerez un Trou Noir. Nourrissez-le avec de petites entités comme des flèches ou des orbes d'expérience, et il produira des Orbes Xpétrifiés.",
+
+  "chapter.forbidden.quest.15.subtitle.1": "Poussière de Composant",
+  "chapter.forbidden.quest.15.description.1": "En utilisant notre Poussière de Cristal Arcane, nous devrons la combiner avec d'autres poussières et poudres pour créer de la Poussière de Mundabiter.",
+  "chapter.forbidden.quest.15.description.2": "Cette poussière est utilisée dans plusieurs recettes, ainsi que pour activer la Forge d'Héphaïstos.",
+
+  "chapter.forbidden.quest.16.subtitle.1": "L'Or Arcane Doré",
+  "chapter.forbidden.quest.16.description.1": "L'Ingot d'Or Arcane &6&r est nécessaire pour continuer votre progression dans le mod.",
+  "chapter.forbidden.quest.16.description.2": "Il est utilisé pour beaucoup de choses, et il est aussi joli.",
+
+  "chapter.forbidden.quest.17.title": "&6Armure en Or Arcane&r",
+  "chapter.forbidden.quest.17.subtitle.1": "Armure Arcane",
+  "chapter.forbidden.quest.17.description.1": "&6L'or Arcane&r peut être utilisé pour fabriquer une armure, qui est plus résistante que le diamant !",
+
+  "chapter.forbidden.quest.18.subtitle.1": "Pioche Arcane",
+  "chapter.forbidden.quest.18.description.1": "Une pioche à toucher de soie !",
+
+  "chapter.forbidden.quest.19.subtitle.1": "Culture de l'Or Arcane",
+  "chapter.forbidden.quest.19.description.1": "Celles-ci peuvent être plantées pour faire pousser des pépites d'or Arcane.",
+  "chapter.forbidden.quest.19.description.2": "Pour en créer une, vous devrez trouver des Orchidées Jaunes.",
+
+  "chapter.forbidden.quest.20.subtitle.1": "Activation des Rayons X pour les Mobs !",
+  "chapter.forbidden.quest.20.description.1": "Cela donne la vision aux rayons X pour les mobs, les mettant en évidence de loin pour les repérer plus facilement.",
+
+  "chapter.forbidden.quest.21.subtitle.1": "Concasseur de Têtes de Dragon",
+  "chapter.forbidden.quest.21.description.1": "Le Dague Mystique est utilisé pour décomposer les têtes de dragon en écailles de dragon.",
+  "chapter.forbidden.quest.21.description.2": "Lorsque vous tuez des mobs avec une fiole d'essai dans votre inventaire, elle collectera également du sang.",
+
+  "chapter.forbidden.quest.22.subtitle.1": "Chasseur de Dragon",
+  "chapter.forbidden.quest.22.description.1": "La combinaison d'une tête de dragon avec un dague mystique vous donnera des &bÉcailles de Dragon&r.",
+
+  "chapter.forbidden.quest.23.title": "Armure Draco Arcanus",
+  "chapter.forbidden.quest.23.subtitle.1": "Tueur de Dragon",
+  "chapter.forbidden.quest.23.description.1": "Mieux que l'armure de Netherite !",
+
+  "chapter.forbidden.quest.24.subtitle.1": "Foudre Éclair",
+  "chapter.forbidden.quest.24.description.1": "Le sceptre tire des orbes d'énergie lorsqu'il est chargé avec un clic droit. S'il touche un mob, il le frappera de foudre.",
+
+  "chapter.forbidden.quest.25.title": "Écailles de Dragon Améliorées",
+  "chapter.forbidden.quest.25.subtitle.1": "Amélioration des Écailles",
+  "chapter.forbidden.quest.25.description.1": "L'Écaille de Dragon peut être transformée en Écailles de Dragon Doré et Aquatique.",
+  "chapter.forbidden.quest.25.description.2": "Elles sont principalement utilisées pour fabriquer &dl'armure Tyr&r.",
+
+  "chapter.forbidden.quest.26.title": "Armure Tyr",
+  "chapter.forbidden.quest.26.subtitle.1": "Mieux que Draco Arcanus !",
+
+  "chapter.forbidden.quest.27.subtitle.1": "Œuf d'Or",
+
+  "chapter.forbidden.quest.28.subtitle.1": "Préparation à la Forge",
+  "chapter.forbidden.quest.28.description.1": "Vous avez probablement déjà acquis de la Pierre Sombre, mais nous en aurons besoin pour fabriquer la forge.",
+
+  "chapter.forbidden.quest.29.title": "La &5Forge d'Héphaïstos&r.",
+  "chapter.forbidden.quest.29.subtitle.1": "Forgeron Arcane",
+  "chapter.forbidden.quest.29.description.1": "Nous utiliserons toute cette Pierre Sombre pour créer la &5Forge d'Héphaïstos&r.",
+  "chapter.forbidden.quest.29.description.2": "Une fois que vous avez tous les blocs nécessaires, vous devrez construire la plate-forme de la forge.",
+  "chapter.forbidden.quest.29.description.3": "Pour voir comment construire la plate-forme, recherchez dans JEI la forge, puis maintenez 'Z' pour afficher la réflexion.",
+
+  "chapter.forbidden.quest.30.title": "Socles de Pierre Sombre",
+  "chapter.forbidden.quest.30.subtitle.1": "Socles de la Forge",
+  "chapter.forbidden.quest.30.description.1": "Pour enchanter des objets, vous aurez besoin de socles de pierre sombre placés autour de la forge.",
+  "chapter.forbidden.quest.30.description.2": "Assurez-vous de les placer sur de la Pierre Sombre Polie Ciselée Arcane.",
+
+  "chapter.forbidden.quest.31.subtitle.1": "Obélisque",
+  "chapter.forbidden.quest.31.description.1": "Pour créer un Obélisque de Cristal Arcane, placez un bloc de Pierre Sombre Polie Ciselée Arcane, puis placez deux blocs de Cristal Arcane au-dessus.",
+  "chapter.forbidden.quest.31.description.2": "Cliquez avec de la Poussière de Mundabitur et vous créerez l'obélisque.",
+  "chapter.forbidden.quest.31.description.3": "Lorsqu'il est placé sur un bloc de Pierre Sombre Polie Ciselée Arcane sur la structure de la Forge d'Héphaïstos, il générera lentement de l'Aureal au fil du temps.",
+
+  "chapter.forbidden.quest.32.subtitle.1": "Âmes en Bouteille",
+  "chapter.forbidden.quest.32.description.1": "Les &dBouteilles d'Aureal&r se trouvent dans les coffres de butin, mais elles peuvent aussi être fabriquées avec de la Poussière de Cristal Arcane.",
+  "chapter.forbidden.quest.32.description.2": "Vous pouvez également générer de l'Aureal avec des Obélisques de Cristal Arcane.",
+
+  "chapter.forbidden.quest.33.subtitle.1": "Tubes de Sang",
+  "chapter.forbidden.quest.33.description.1": "Le sang est collecté en fabriquant des fioles d'essai, puis en tuant des mobs avec le Dague Mystique.",
+  "chapter.forbidden.quest.33.description.2": "Remarque : la fiole d'essai doit être dans votre inventaire lorsque vous tuez des mobs.",
+
+  "chapter.forbidden.quest.34.subtitle.1": "Énergie pour la Forge",
+  "chapter.forbidden.quest.34.description.1": "La Forge nécessite 4 objets différents pour fonctionner : de l'Aureal, des âmes, du sang et de l'expérience. Pour en savoir plus, suivez les quêtes en coin.",
+
+  "chapter.forbidden.quest.35.subtitle.1": "Âmes Gratuites",
+  "chapter.forbidden.quest.35.description.1": "Les âmes sont collectées en créant un &bExtracteur d'Âmes&r, puis en l'utilisant sur du Sable d'Âme.",
+
+  "chapter.forbidden.quest.36.subtitle.1": "Carburant pour la Forge",
+  "chapter.forbidden.quest.36.description.1": "Cela va dans le côté droit de la forge. Vous pouvez également y mettre des &aOrbes Xpétrifiés&r.",
+
+  "chapter.forbidden.quest.37.title": "Marteau du Forgeron",
+  "chapter.forbidden.quest.37.subtitle.1": "Rituel du Marteau",
+  "chapter.forbidden.quest.37.description.1": "Pour effectuer un rituel, placez les ingrédients sur les socles de pierre sombre.",
+  "chapter.forbidden.quest.37.description.2": "Vous aurez besoin d'un &6Marteau du Forgeron&r pour activer le rituel. Pour ce faire, cliquez droit sur la Forge avec le Marteau.",
+
+  "chapter.forbidden.quest.38.title": "Création de Livre Enchanté",
+  "chapter.forbidden.quest.38.subtitle.1": "Enchantement",
+  "chapter.forbidden.quest.38.description.1": "La Forge d'Héphaïstos est également utilisée pour créer des Enchantements. Consultez JEI pour voir tous les différents Enchantements que vous pouvez créer !",
+
+  "chapter.forbidden.quest.39.subtitle.1": "Enchantement Enflammé",
+  "chapter.forbidden.quest.39.description.1": "Cet objet peut être combiné avec un outil pour ajouter l'enchantement &6Enflammé&r, qui fait fondre automatiquement les blocs lorsqu'ils sont récoltés, ou les enflamme.",
+
+  "chapter.forbidden.quest.40.subtitle.1": "Stella Arcanum",
+  "chapter.forbidden.quest.40.description.1": "Vous trouverez du minerai de Stella Arcanum profondément sous terre. Soyez prudent lorsque vous minez.",
+
+  "chapter.forbidden.quest.41.subtitle.1": "Expérimenté",
+  "chapter.forbidden.quest.41.description.1": "Cette substance est partout. Elle peut être utilisée pour vous octroyer de l'expérience, ou pour fabriquer l'Éternel Stella.",
+
+  "chapter.forbidden.quest.42.subtitle.1": "Talisman de Réparation",
+  "chapter.forbidden.quest.42.description.1": "&6L'Éternel Stella&r a 3 charges, et lorsqu'il est cliqué avec le bouton droit, il peut réparer entièrement tous les objets de votre inventaire.",
+  "chapter.forbidden.quest.42.description.2": "Le but principal de cela est de conférer l'enchantement &9Incassable&r à un objet, ce qui se fait en le combinant avec l'outil dans une Table de Forgeron."
 }
