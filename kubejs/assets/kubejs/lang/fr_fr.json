@@ -1955,5 +1955,202 @@
 
   "chapter.powah.quest.14.title": "Orbe énergisant",
   "chapter.powah.quest.14.subtitle.1": "Fabrication d'Orbes",
-  "chapter.powah.quest.14.description.1": "L'Orbe Énergisant est un bloc utilisé pour énergiser des objets. Il nécessite au moins une Orbe énergisant dans une plage de 9X9 pour fonctionner. La vitesse d'énérgisation dépend du nombre d'orbes et du niveau de l'orbe."
+  "chapter.powah.quest.14.description.1": "L'Orbe Énergisant est un bloc utilisé pour énergiser des objets. Il nécessite au moins une Orbe énergisant dans une plage de 9X9 pour fonctionner. La vitesse d'énérgisation dépend du nombre d'orbes et du niveau de l'orbe.",
+
+  "Thermal":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.thermal.title": "Thermal",
+
+  "chapter.thermal.quest.1.title": "Amélioration de base",
+  "chapter.thermal.quest.1.subtitle.1": "Amélioration de composant",
+
+  "chapter.thermal.quest.2.title": "Filtre de fluide",
+  "chapter.thermal.quest.2.subtitle.1": "Restrictif",
+  "chapter.thermal.quest.2.description.1": "Permet une restriction du fluide.",
+
+  "chapter.thermal.quest.3.subtitle.1": "Économiseur d'FE",
+  "chapter.thermal.quest.3.description.1": "Empêche la perte de RF après saturation de la bobine.",
+
+  "chapter.thermal.quest.4.subtitle.1": "Catalyseur d'escalade",
+  "chapter.thermal.quest.4.description.1": "L'augmentation de la chambre de récupération catalytique fait évoluer la chance qu'un catalyseur soit utilisé de 0,8x, mais augmente également l'énergie utilisée par opération de 1,25x.",
+
+  "chapter.thermal.quest.5.subtitle.1": "Plus d'énergie !",
+  "chapter.thermal.quest.5.description.1": "L'augmentation de la bobine RF élargie échelonne le stockage et le transfert de RF par 4.",
+
+  "chapter.thermal.quest.6.subtitle.1": "Puissance efficace",
+  "chapter.thermal.quest.6.description.1": "L'augmentation de l'efficacité du flux réduit la RF requise par opération, l'échelonnant de 0,9, mais diminue également le taux d'utilisation RF maximum de la machine de 10%%.",
+
+  "chapter.thermal.quest.7.subtitle.1": "Mise à niveau de la portée",
+  "chapter.thermal.quest.7.description.1": "L'augmentation d'amélioration radiale permet à votre outil ou machine d'affecter une zone plus grande autour d'elle.",
+  "chapter.thermal.quest.7.description.2": "Chaque augmentation augmentera la zone maximale d'un bloc dans chaque direction.",
+
+  "chapter.thermal.quest.8.subtitle.1": "Carburant efficace",
+  "chapter.thermal.quest.8.description.1": "Augmente l'efficacité du carburant.",
+
+  "chapter.thermal.quest.9.subtitle.1": "Destructeur auxiliaire",
+  "chapter.thermal.quest.9.description.1": "Détruit les sorties d'objets non primaires en excès.",
+
+  "chapter.thermal.quest.10.subtitle.1": "Plus de fluide",
+  "chapter.thermal.quest.10.description.1": "L'augmentation de construction de réservoir élargie échelonne la taille de tous les réservoirs de fluide dans une machine, un dispositif, un générateur ou un outil par 4.",
+
+  "chapter.thermal.quest.11.subtitle.1": "Meilleur générateur",
+  "chapter.thermal.quest.11.description.1": "L'augmentation de chambre de réaction auxiliaire augmente la génération maximale d'un générateur de 100%% mais échelonne l'efficacité de 0,9.",
+
+  "chapter.thermal.quest.12.subtitle.1": "Sortie secondaire",
+  "chapter.thermal.quest.12.description.1": "L'augmentation de tamis de processus auxiliaire augmente la chance de sortie secondaire de 15%% mais échelonne l'énergie par opération de 1,25.",
+
+  "chapter.thermal.quest.13.subtitle.1": "Augmentation d'automatisation",
+  "chapter.thermal.quest.13.description.1": "L'augmentation de traitement cyclique permet aux sorties valides d'une machine d'être renvoyées dans son ou ses emplacements de sortie. Utile pour l'automatisation.",
+
+  "chapter.thermal.quest.14.subtitle.1": "Amplification",
+  "chapter.thermal.quest.14.description.1": "L'augmentation d'amplificateur de liaison de flux augmente le taux d'utilisation RF maximum de 100%% mais échelonne également la RF par opération de 1,1.",
+
+  "chapter.thermal.quest.15.subtitle.1": "Améliorateur de potion",
+  "chapter.thermal.quest.15.description.1": "L'augmentation d'extension alchimique augmente la durée de la potion de 100%%. N'a aucun effet sur les potions à effet instantané ou à effet ponctuel.",
+
+  "chapter.thermal.quest.16.subtitle.1": "Amplificateur de potion",
+  "chapter.thermal.quest.16.description.1": "L'augmentation d'amplificateur alchimique augmente l'effet de la potion stockée d'un niveau mais réduit sa durée de 25%%.",
+
+  "chapter.thermal.quest.17.subtitle.1": "Améliorateur d'FE",
+  "chapter.thermal.quest.17.description.1": "L'augmentation de bobine RF haute densité échelonne le stockage RF par 2 et le transfert RF par 6.",
+
+  "chapter.thermal.quest.18.subtitle.1": "Gardeur d'XP",
+  "chapter.thermal.quest.18.description.1": "Permet de stocker et de récupérer de l'XP.",
+
+  "chapter.thermal.quest.19.subtitle.1": "Puissance de filtration",
+  "chapter.thermal.quest.19.description.1": "L'augmentation de filtre d'objets permet à une machine, un dispositif ou un équipement d'accepter sélectivement des objets.",
+  "chapter.thermal.quest.19.description.2": "Le filtre peut être configuré dans une interface graphique distincte, accessible en faisant un clic droit en maintenant la touche Maj enfoncée sur le bloc ou l'objet dans lequel il est installé, ou par le biais d'un onglet dans l'interface graphique du bloc.",
+  "chapter.thermal.quest.19.description.3": "Jusqu'à 15 objets peuvent être ajoutés au filtre, avec la possibilité de passer entre une liste d'autorisation/d'interdiction et de faire correspondre/ignorer les données NBT.",
+
+  "chapter.thermal.quest.20.subtitle.1": "Énergie fossile",
+  "chapter.thermal.quest.20.description.1": "La Dynamo Stirling utilise des objets inflammables pour produire de la RF.",
+
+  "chapter.thermal.quest.21.subtitle.1": "Seau d'énergie",
+  "chapter.thermal.quest.21.description.1": "La Dynamo de Compression utilise des combustibles liquides inflammables tels que l'huile d'arbre pour produire de la RF.",
+
+  "chapter.thermal.quest.22.subtitle.1": "Argent, argent !",
+  "chapter.thermal.quest.22.description.1": "La Dynamo Numismatique utilise des pièces de monnaie pour produire de la RF.",
+
+  "chapter.thermal.quest.23.subtitle.1": "Cristaux brillants",
+  "chapter.thermal.quest.23.description.1": "La Dynamo Lapidaire utilise des cristaux et des gemmes pour produire de la RF.",
+
+  "chapter.thermal.quest.24.subtitle.1": "Enchanté",
+  "chapter.thermal.quest.24.description.1": "La Dynamo de Désenchantement utilise des objets enchantés tels que des livres pour produire de la RF.",
+
+  "chapter.thermal.quest.25.subtitle.1": "NOURRITURE !",
+  "chapter.thermal.quest.25.description.1": "La Dynamo Gourmande utilise de la nourriture pour produire de la RF.",
+
+  "chapter.thermal.quest.26.subtitle.1": "Poubelle",
+  "chapter.thermal.quest.26.description.1": "Le nullificateur est un dispositif qui peut supprimer tous les objets et les fluides qui y sont insérés.",
+  "chapter.thermal.quest.26.description.2": "Les objets/fluides insérés automatiquement sont instantanément supprimés, tandis que les objets insérés manuellement via l'interface graphique sont temporairement stockés jusqu'à ce que le bouton de suppression soit pressé.",
+  "chapter.thermal.quest.26.description.3": "Il est compatible avec les augmentations de type filtre pour restreindre ce qu'il peut accepter.",
+  "chapter.thermal.quest.26.description.4": "Le contrôle par redstone n'affecte que l'insertion automatique d'objets/fluides.",
+
+  "chapter.thermal.quest.27.subtitle.1": "Énergie pour les objets",
+  "chapter.thermal.quest.27.description.1": "Utilisé pour augmenter, charger et remplir des objets.",
+
+  "chapter.thermal.quest.28.subtitle.1": "Extracteur de miel",
+  "chapter.thermal.quest.28.description.1": "Le Hive Hopper est un dispositif qui peut extraire des rayons de miel et du miel liquide lorsqu'il est placé sous une ruche.",
+
+  "chapter.thermal.quest.29.subtitle.1": "Dangers de la déforestation",
+  "chapter.thermal.quest.29.description.1": "L'Extracteur Arboreal est un dispositif qui extrait du fluide d'un arbre adjacent.",
+  "chapter.thermal.quest.29.description.2": "Peut éventuellement prendre de l'engrais pour augmenter le taux de production.",
+  "chapter.thermal.quest.29.description.3": "Le bonemeal augmente la production de 1,5x pendant 8 cycles, tandis que le phyto-gro augmente de 2,0x pendant 16 cycles.",
+  "chapter.thermal.quest.29.description.4": "Différents arbres produisent différents fluides ; utilisez JEI pour voir les recettes disponibles.",
+
+  "chapter.thermal.quest.30.subtitle.1": "Plantes en croissance",
+  "chapter.thermal.quest.30.description.1": "L'Infuseur de Phyto-Terre est un dispositif qui utilise de la RF pour accélérer la croissance des cultures sur la phyto-terre à proximité. Dans sa forme de base, il infuse une zone de 3x3x3 autour de lui, qui peut être améliorée en utilisant des augmentations d'amélioration radiale jusqu'à 7x3x7.",
+  "chapter.thermal.quest.30.description.2": "Les composants intégraux augmentent l'effet d'accélération de la croissance.",
+
+  "chapter.thermal.quest.31.subtitle.1": "Absorbeur",
+  "chapter.thermal.quest.31.description.1": "Le Vacuumulateur est un dispositif qui peut ramasser des objets dans sa zone d'effet.",
+  "chapter.thermal.quest.31.description.2": "Il peut ramasser des orbes d'XP lorsqu'une augmentation de concentrateur de connaissances est installée.",
+  "chapter.thermal.quest.31.description.3": "À la base, le vacuumulateur collecte dans une zone de 9x9x9 centrée sur lui, ce qui peut être augmenté jusqu'à 15x15x15 en utilisant des augmentations d'amélioration radiale.",
+
+  "chapter.thermal.quest.32.subtitle.1": "Chargeur rapide",
+  "chapter.thermal.quest.32.description.1": "Utilisé pour charger rapidement plusieurs objets.",
+
+  "chapter.thermal.quest.33.subtitle.1": "Écologique",
+  "chapter.thermal.quest.33.description.1": "Produisez du compost à partir de déchets organiques.",
+
+  "chapter.thermal.quest.34.subtitle.1": "Machine de pêche",
+  "chapter.thermal.quest.34.description.1": "L'Entangleur aquatique est un dispositif qui peut attraper passivement des poissons lorsqu'il est placé dans une étendue d'eau.",
+  "chapter.thermal.quest.34.description.2": "La vitesse à laquelle il attrape des poissons dépend du biome, de la météo et de la configuration de l'augmentation, mais il a un taux de base de 1 capture toutes les quelques minutes.",
+
+  "chapter.thermal.quest.35.subtitle.1": "Eau infinie",
+  "chapter.thermal.quest.35.description.1": "L'Accumulateur aqueux est un dispositif qui générera de l'eau à l'infini pour vos besoins.",
+  "chapter.thermal.quest.35.description.2": "Pour qu'il produise de l'eau, il doit y avoir au moins deux blocs sources adjacents sur les côtés du dispositif.",
+  "chapter.thermal.quest.35.description.3": "Les blocs sources au-dessus ou en dessous du dispositif ne seront pas pris en compte.",
+
+  "chapter.thermal.quest.36.subtitle.1": "Potion pour les créatures",
+  "chapter.thermal.quest.36.description.1": "Le Diffuseur Décoctif est un dispositif qui consommera périodiquement un fluide de potion pour propager des effets de potion aux créatures à proximité.",
+  "chapter.thermal.quest.36.description.2": "Les effets accordés de cette manière durent 1/4 moins longtemps par rapport à une potion normale.",
+  "chapter.thermal.quest.36.description.3": "Il arrête automatiquement son fonctionnement lorsqu'aucune créature n'est dans sa zone d'effet.",
+  "chapter.thermal.quest.36.description.4": "À la base, le diffuseur propage les effets de potion dans une zone de 9x9x9 centrée sur lui, ce qui peut être augmenté jusqu'à 15x15x15 en utilisant des augmentations d'amélioration radiale.",
+
+  "chapter.thermal.quest.37.subtitle.1": "Créateur de pierre",
+  "chapter.thermal.quest.37.description.1": "L'Extrudeuse Ignée est un dispositif qui générera de la pierre à l'infini lorsqu'elle est entourée de blocs et de fluides appropriés.",
+  "chapter.thermal.quest.37.description.2": "Elle nécessite un bloc source de lave adjacent et un bloc de refroidissement adjacent ; elle peut éventuellement prendre un bloc en dessous.",
+
+  "chapter.thermal.quest.38.subtitle.1": "Réservoir de fluide thermique",
+  "chapter.thermal.quest.38.description.1": "La cellule de fluide peut être utilisée pour stocker et distribuer des fluides.",
+
+  "chapter.thermal.quest.39.subtitle.1": "Stockage d'énergie",
+  "chapter.thermal.quest.39.description.1": "La cellule Redstone Flux peut être utilisée pour stocker et distribuer le Redstone Flux.",
+
+  "chapter.thermal.quest.40.subtitle.1": "Four à flux",
+  "chapter.thermal.quest.40.description.1": "Le Four à Redstone est une machine qui fait fondre vos objets comme un four traditionnel.",
+
+  "chapter.thermal.quest.41.subtitle.1": "Un autre Broyeur",
+  "chapter.thermal.quest.41.description.1": "Le Séparateur Centrifuge est une machine qui sépare les objets en leurs composants. Par exemple, les alliages se transforment en poudres de leur métal de base.",
+  "chapter.thermal.quest.41.description.2": "Il est également efficace pour extraire des colorants à partir de fleurs.",
+
+  "chapter.thermal.quest.42.subtitle.1": "Création de combustible",
+  "chapter.thermal.quest.42.description.1": "Le Pyrolyseur est une machine qui décompose des substances dans un environnement à faible teneur en oxygène à l'aide de la chaleur.",
+  "chapter.thermal.quest.42.description.2": "Il est généralement utilisé pour convertir la matière organique et le charbon en combustibles plus propres et durables.",
+
+  "chapter.thermal.quest.43.subtitle.1": "Découpage de planches",
+  "chapter.thermal.quest.43.description.1": "La Scierie est une machine qui coupe des troncs en planches de manière plus efficace que la fabrication. Elle produit de la sciure comme sous-produit.",
+
+  "chapter.thermal.quest.44.subtitle.1": "Emballage d'objets",
+  "chapter.thermal.quest.44.description.1": "La Presse Multiservo est une machine qui peut accepter diverses matrices afin de façonner les métaux sous différentes formes et (dé)emballer des blocs et des objets.",
+
+  "chapter.thermal.quest.45.subtitle.1": "Remplisseur de liquide",
+  "chapter.thermal.quest.45.description.1": "L'Encapsulateur de Liquide est une machine qui remplit des objets contenant des liquides, tels que des seaux et des bouteilles.",
+  "chapter.thermal.quest.45.description.2":  "Peut être utilisé pour remplir automatiquement les bouteilles avec du liquide de potion provenant de l'Imbiber Alchimique.",
+
+  "chapter.thermal.quest.46.subtitle.1": "Broyage",
+  "chapter.thermal.quest.46.description.1": "Le Broyeur est une machine qui écrase des objets et des minerais. Il améliore les rendements de minerais, qui peuvent être encore augmentés à l'aide d'augmentations et de catalyseurs.",
+
+  "chapter.thermal.quest.47.subtitle.1": "Fusion de l'acier",
+  "chapter.thermal.quest.47.description.1": "La Creuset de Magma est une machine qui fait fondre des objets en liquides.",
+
+  "chapter.thermal.quest.48.subtitle.1": "Brasseur de potions",
+  "chapter.thermal.quest.48.description.1": "L'Imbiber Alchimique est une machine qui brasse des potions.",
+  "chapter.thermal.quest.48.description.2": "Il crée du liquide de potion au lieu de brasser directement dans une bouteille.",
+  "chapter.thermal.quest.48.description.3": "Un ingrédient suffit pour brasser un seau, qui peut remplir 4 bouteilles.",
+
+  "chapter.thermal.quest.49.subtitle.1": "Meilleur four",
+  "chapter.thermal.quest.49.description.1": "Le Four à Induction est une machine qui fait fondre plusieurs objets ensemble, produisant des alliages.",
+  "chapter.thermal.quest.49.description.2": "Il peut également fondre des minerais en lingots et en gemmes, ce qui est affecté par des catalyseurs.",
+  "chapter.thermal.quest.49.description.3": "La fusion des minerais a une chance de produire de la scorie riche en tant que produit secondaire, qui peut être utilisée comme minerai catalyseur pour fabriquer du phyto-gro.",
+
+  "chapter.thermal.quest.50.subtitle.1": "Solidification",
+  "chapter.thermal.quest.50.description.1": "Le Blast Chiller est une machine qui refroidit et cristallise des liquides tels que l'eau et les métaux fondus sous forme solide.",
+  "chapter.thermal.quest.50.description.2": "Accepte divers moules pour modifier la forme du produit final.",
+
+  "chapter.thermal.quest.51.subtitle.1": "Retransformation",
+  "chapter.thermal.quest.51.description.1": "Le Cristalliseur est une machine qui peut convertir certaines poudres en gemmes.",
+
+  "chapter.thermal.quest.52.subtitle.1": "Reproduction végétale",
+  "chapter.thermal.quest.52.description.1": "Le Phytogenic Insolateur est une machine qui utilise de la RF, de l'eau et éventuellement de l'engrais pour faire pousser des cultures, des fleurs et des arbres.",
+
+  "chapter.thermal.quest.53.subtitle.1": "Raffinerie",
+  "chapter.thermal.quest.53.description.1": "La Distillation Fractionnée est une machine qui raffine des fluides tels que la résine et la sève.",
+
+  "chapter.thermal.quest.54.subtitle.1": "Auto-constructeur",
+  "chapter.thermal.quest.54.description.1": "Le Fabricant Séquentiel est une machine qui fabrique automatiquement des objets.",
+
+  "chapter.thermal.quest.55.subtitle.1": "Plus de stockage d'énergie",
+  "chapter.thermal.quest.55.description.1" : "Ajoute 250kFE au stockage d'énergie."
 }
