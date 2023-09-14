@@ -8,7 +8,7 @@
 
   "chapter.welcome.quest.1.title.1": "Get a server!",
   "chapter.welcome.quest.1.description.1": "BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use.",
-  "chapter.welcome.quest.1.description.2": "Use the code &l&bCHROMATECH&r to get 25% off your first month as a new customer for one of their game servers.",
+  "chapter.welcome.quest.1.description.2": "Use the code &l&bCHROMATECH&r to get 25%% off your first month as a new customer for one of their game servers.",
   "chapter.welcome.quest.1.description.3" : "Promo code : &l&aCHROMATECH&r",
 
   "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
@@ -61,6 +61,14 @@
   "chapter.welcome.quest.11.description.1" : "If you would like to help us with translating quests into different languages, you can do so directly on the modpack's Github.",
 
   "chapter.welcome.quest.12.title.1": "Welcome to Chroma Endless 2!",
+  "chapter.welcome.quest.12.subtitle.1": "Chroma Endless 2: The Fusion of Magic, Technology, and Exploration",
+  "chapter.welcome.quest.12.description.1": "Dive into a redefined and perfected Minecraft universe! Chroma Endless 2 offers you an expert gaming experience where each step is meticulously crafted to challenge, intrigue, and reward players.",
+  "chapter.welcome.quest.12.description.2": "&lKey Features:&r",
+  "chapter.welcome.quest.12.description.3": "&6&lProgressive Progression:&r The world doesn't just unveil itself; it beckons you to learn, evolve, and master each mod and mechanic step by step.",
+  "chapter.welcome.quest.12.description.4": "&b&lTechnology and Magic:&r Combine the wonders of cutting-edge technology with the mysteries of arcane magic. Whether you're aiming to build imposing machinery or cast potent spells, Chroma Endless 2 caters to all tech enthusiasts and budding sorcerers.",
+  "chapter.welcome.quest.12.description.5": "&a&lBoundless Exploration:&r Venture into new biomes, uncharted dimensions, and distant planets. Encounter astonishing creatures and uncover hidden treasures reserved for those daring to stray off the beaten path.",
+  "chapter.welcome.quest.12.description.6": "&e&lProgressive Quests:&r To aid your adventures, a detailed quest system will guide you through the intricacies of the modpack, offering challenges suited for both novices and veterans.",
+  "chapter.welcome.quest.12.description.7": "Embark on an adventure and uncover a world where possibilities truly have no end. Chroma Endless 2 is more than just a modpack; it's a tale you weave, a challenge you tackle, and a mystery you unfold.",
 
   "chapter.group.1" : "&e-- &l&6Main Progression&r &e--",
   "chapter.group.2" : "&e-- &l&6Secondary Quests&r &e--",
@@ -329,6 +337,7 @@
   "chapter.stage.2.quest.12.description.2": "To build this structure, you can see the &6Engineer's Manual&r.",
   "chapter.stage.2.quest.12.description.3": "ProTip : The red block is where you should click to form the multiblock.",
 
+  "chapter.stage.2.quest.13.title.1": "Energy Accumulator",
   "chapter.stage.2.quest.13.subtitle.1": "Stocking &cIF&r",
   "chapter.stage.2.quest.13.description.1": "Accumulators can stock &cIF&r.",
   "chapter.stage.2.quest.13.description.2": "You can use the hammer to adjust the configuration of each side.",
@@ -777,7 +786,7 @@
   "chapter.stage.3.quest.51.subtitle.1": "Basic Auto-Crafting",
   "chapter.stage.3.quest.51.description.1": "Auto Craft Basic Craftings with FE !",
   "chapter.stage.3.quest.51.description.2": "In order to Auto Craft, don't forget to put any inventory (like a chest) on the top of the Auto Crafting Table.",
-  "chapter.stage.3.quest.51.description.3": "Then setup the wanted craft and save it with Shift + Left Click on the top left corner (1, 2, 3). Note that it will only auto craft the selected saved slot.",
+  "chapter.stage.3.quest.51.description.3": "Then setup the wanted craft and save it with Shift + Left Click on the top right corner (1, 2, 3). Note that it will only auto craft the selected saved slot.",
 
   "chapter.stage.3.quest.52.subtitle.1": "Advanced Auto-Crafting",
   "chapter.stage.3.quest.52.description.1": "Auto Craft Advanced Craftings with FE !",
@@ -960,6 +969,7 @@
   "chapter.stage.4.quest.14.subtitle.1": "Extra Modulation",
   "chapter.stage.4.quest.14.description.1": "Can upgrade Tubes Modules to unlock extra module configurations. Also used for Crafting Component.",
 
+  "chapter.stage.4.quest.15.title" : "Pneumatic Assembler",
   "chapter.stage.4.quest.15.subtitle.1": "Yes, Another Crafing Method",
   "chapter.stage.4.quest.15.description.1": "To be able to craft higher tier materials, you'll need an &5Assembly System&r, a collection of Assembly Machines.",
   "chapter.stage.4.quest.15.description.2": "These machines communicate with each other when they're horizontally ajacent. Only one machine of each type can exist.",
@@ -1120,6 +1130,7 @@
   "chapter.stage.4.quest.69.subtitle.1": "Autocrafting Component",
   "chapter.stage.4.quest.69.description.1": "Using the Dissolution Chamber, assemble HDPE Sheets , All Processors, a ME Fluix Glass with Molten Certuz Quartz.",
 
+  "chapter.stage.4.quest.70.title": "Crafting Storages",
   "chapter.stage.4.quest.70.subtitle.1": "Operating Autocrafts",
   "chapter.stage.4.quest.70.description.1": "Prior to executing an auto-crafting operation, you must possess a dedicated device to house the crafting request as well as any intermediate items necessary for multi-step crafts. This specialized device is referred to as a &6crafting CPU&r.",
   "chapter.stage.4.quest.70.description.2": "A crafting CPU is a composite structure formed by assembling multiple blocks into a coherent unit. At a minimum, it necessitates a &bCrafting Storage&r block, and it can also incorporate additional Crafting Units. The configuration of this multiblock can vary in size, but it must be shaped as a solid cuboid in order to successfully establish and operate.",
@@ -1150,7 +1161,8 @@
   "chapter.stage.4.quest.79.subtitle.1": "Nobody Can Hear You Dying",
   "chapter.stage.4.quest.79.description.1": "Without this you won't be able to breathe in Space.",
 
-  "chapter.stage.4.quest.80.subtitle.1": "Space Suit",
+  "chapter.stage.4.quest.80.title" : "Space Armor",
+  "chapter.stage.4.quest.80.subtitle.1": "Space Protection",
   "chapter.stage.4.quest.80.description.1": "A Really Good protection for space exploration.",
 
   "chapter.stage.4.quest.81.subtitle.1": "Space Crafting Table",
@@ -1284,10 +1296,12 @@
   "chapter.stage.4.quest.127.subtitle.1": "Induction Storing",
   "chapter.stage.4.quest.127.description.1": "The Induction Matrix can store a really big amount of FE. These are the main part for building it.",
 
-  "chapter.stage.4.quest.128.subtitle.1": "Matrix Induction Cells",
+  "chapter.stage.4.quest.128.title": "Induction Cells",
+  "chapter.stage.4.quest.128.subtitle.1": "Mekanism Energy Component Part 1",
   "chapter.stage.4.quest.128.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
 
-  "chapter.stage.4.quest.129.subtitle.1": "Matrix Providers",
+  "chapter.stage.4.quest.129.title": "Induction Providers",
+  "chapter.stage.4.quest.129.subtitle.1": "Mekanism Energy Component Part 1",
   "chapter.stage.4.quest.129.description.1": "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
 
   "chapter.stage.4.quest.130.subtitle.1": "Accessing The Void",
@@ -1307,6 +1321,7 @@
 
   "chapter.stage.5.quest.1.subtitle.1": "A Really Better Frame",
   "chapter.stage.5.quest.1.description.1": "Using the Dissolution Chamber, assemble Plastics , Absolute Control Circuits , Desh Ingots, a Lumium Gear and a Simple Machine Frame with Pink Slime.",
+
   "chapter.stage.5.quest.2.subtitle.1": "Mining With Lasers",
   "chapter.stage.5.quest.2.description.1": "In order to generate different kind of ressources with Lasers, you will need 4 of them.",
 
@@ -1335,7 +1350,7 @@
   "chapter.stage.5.quest.10.description.1": "Running simulations requires energy (based on the model type) and a catalyst item, which is usually a Prediction Matrix.",
 
   "chapter.stage.5.quest.11.subtitle.1": "Prediction Looter",
-  "chapter.stage.5.quest.11.description.1": "Once your model is Basic or higher, you can use the simulation chamber to run simulations of your model. Simulations will always produce a generalized prediction, and may also produce a Mob Prediction, based on the accuracy of the model. The higher tier of the model, the higher the accuracy, up to 99.5% at Self Aware. ",
+  "chapter.stage.5.quest.11.description.1": "Once your model is Basic or higher, you can use the simulation chamber to run simulations of your model. Simulations will always produce a generalized prediction, and may also produce a Mob Prediction, based on the accuracy of the model. The higher tier of the model, the higher the accuracy, up to 99.5%% at Self Aware. ",
 
   "chapter.stage.5.quest.12.subtitle.1": "Gaia Simulation",
   "chapter.stage.5.quest.12.description.1": "Get a Guardian of Gaia prediction with the Simulation Chamber.",
@@ -1501,7 +1516,6 @@
   "chapter.stage.5.quest.70.subtitle.1": "Creating Polonium",
   "chapter.stage.5.quest.70.description.1": "Pressurize the Polonium Gas with any compatible gas and get some Polonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
 
-
   "Stage 6":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.6.title": "Stage 6",
@@ -1615,6 +1629,7 @@
   "chapter.stage.6.quest.38.subtitle.1": "Slurry Transformation",
   "chapter.stage.6.quest.38.description.1": "Transform any given ores with Sulfuric Acid into it's corresponding Slurry.",
 
+  "chapter.stage.6.quest.39.title": "Reactor Starter Kit",
   "chapter.stage.6.quest.39.subtitle.1": "Reactor Starting Setup",
   "chapter.stage.6.quest.39.description.1": "&bThe Fusion Reactor&r will not start on its own. It requires an outside burst of energy from a charged Laser Amplifier and a small amount of D-T Fuel to begin the fusion process. Once the reaction is jump started, it will begin consuming supplied Deuterium and Tritium, creating plasma and generating power. Alternatively you can use a Resistive Heater heating the reactor to 100.00MK Plasma temperature. This can be done quickest at 10MFE/t usage on the heater",
   "chapter.stage.6.quest.39.description.2": "&bThe Hohlraum&r stores 10 units of D-T Fuel required for the initial reaction. To fill it up, place it into a Chemical Infuser which is combining Deuterium and Tritium. Place the Hohlraum into the Reactor Controller when it contains the required D-T Fuel.",
@@ -1628,6 +1643,7 @@
 
   "chapter.stage.6.quest.42.subtitle.1": "Cosmic Energy Storage",
 
+  "chapter.stage.6.quest.43.title": "Alchemistry Fusion Reactor",
   "chapter.stage.6.quest.43.subtitle.1": "Chemical Element Fusionner",
   "chapter.stage.6.quest.43.description.1": "Combine 2 compatibles Chemical Element in order to get a Super Chemical Element.",
 
@@ -1657,7 +1673,7 @@
   "chapter.stage.7.quest.7.subtitle.1": "Autocraft Ultimate Crafts !",
 
   "chapter.stage.7.quest.8.subtitle.1": "Crafting Maestro",
-  "chapter.stage.7.quest.8.description.1": "You can now autocraft more than 3 recipes ! Don't forget that this works with Applied. Look at the Stage 4 page quest for crafting automation.",
+  "chapter.stage.7.quest.8.description.1": "You can now autocraft more than 3 recipes ! Don't forget that this works with Applied see Stage 4 for Automation.",
 
   "chapter.stage.7.quest.9.subtitle.1": "Chemical Bismuth Fusion",
   "chapter.stage.7.quest.9.description.1": "With The Fusion Reactor get some Cesium Element",
@@ -1715,6 +1731,7 @@
 
   "chapter.stage.7.quest.30.subtitle.1": "Photonic Energy Storage",
 
+  "chapter.stage.7.quest.31.title": "Draconic Energy Storage",
   "chapter.stage.7.quest.31.subtitle.1": "Storing Draconic Energy",
   "chapter.stage.7.quest.31.description.1": "&dDraconic Energy Storage&r is used to store a lot of energy.",
   "chapter.stage.7.quest.31.description.2": "&dThe Energy Core&r is in the center of draconic ball.",
@@ -1750,7 +1767,8 @@
   "chapter.stage.7.quest.31.description.32": "• 786 Draconium Blocks",
   "chapter.stage.7.quest.31.description.33": "• 36 Energy Core Stabilizer",
 
-  "chapter.stage.7.quest.32.subtitle.1": "Antimatter",
+  "chapter.stage.7.quest.32.title": "Supercritical Phase Shifter",
+  "chapter.stage.7.quest.32.subtitle.1": "Purple Pellet",
   "chapter.stage.7.quest.32.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
   "chapter.stage.7.quest.32.description.2": "The optimal minimal build consists of :",
   "chapter.stage.7.quest.32.description.3": "• 60 SPS Casings (+12 crafting material for 3 SPS Ports)",
@@ -1782,7 +1800,6 @@
 
   "chapter.stage.7.quest.41.title": "Kill the &4Choas Guardian",
   "chapter.stage.7.quest.41.subtitle.1": "Slaying The Beast",
-  "chapter.stage.7.quest.41.description.1": "To fight against the boss, you need to find a combat area on a 10,000 x 10,000 block grid. For example, one can be found at coordinates x = -10000 and z = 10000",
 
   "chapter.stage.7.quest.42.subtitle.1": "Chaos Loot",
 
@@ -1811,52 +1828,990 @@
 
   "chapter.machinery.title": "Heavy Machinery",
 
+  "chapter.machinery.quest.1.title.1": "Look at a complete &6Crusher",
   "chapter.machinery.quest.1.subtitle.1": "Immersive Crushing",
   "chapter.machinery.quest.1.description.1": "The Crusher is a 3×5×3 multiblock added by Immersive Engineering. It is used for crushing ores into grit, which is more efficient than normal smelting.",
-  "chapter.machinery.quest.1.description.2": "The Crusher does not have a GUI. The machine accepts any form of Forge Energy (FE) or Redstone Flux (RF) through the top of the multiblock, through the interface shown below.",
+  "chapter.machinery.quest.1.description.2": "The Crusher does not have a GUI. The machine accepts any form of Forge Energy (FE) or Redstone Flux (RF) through the top of the multiblock.",
 
+  "chapter.machinery.quest.2.title.1": "Look at a complete &6Sawmill",
   "chapter.machinery.quest.2.subtitle.1": "Planks Sawing",
   "chapter.machinery.quest.2.description.1": "The Sawmill is a 3×5×3 wood-processing multiblock added by Immersive Engineering. It turns 1 Log into 6 Planks.",
 
+  "chapter.machinery.quest.3.title.1": "Look at a complete &6Assembler",
   "chapter.machinery.quest.3.subtitle.1": "Immersive Autocrafting",
-  "chapter.machinery.quest.3.description.1": "The Assembler is a 3x3x3 multi-block added by Immersive Engineering. It is used to automatically craft items. Recipes can be set inside of the Assembler, as seen to the right. The fluid tanks in the Assembler is also capable to use Fluid Buckets like Treated Wood.",
+  "chapter.machinery.quest.3.description.1": "The Assembler is a 3x3x3 multi-block added by Immersive Engineering. It is used to automatically craft items. Recipes can be set inside of the Assembler. The fluid tanks in the Assembler is also capable to use Fluid Buckets like Treated Wood.",
 
+  "chapter.machinery.quest.4.title.1": "Look at a complete &6Automated Engineer's Workbench",
   "chapter.machinery.quest.4.subtitle.1": "Blueprint Automation",
   "chapter.machinery.quest.4.description.1": "The Automated Workbench is a 3x2x3 multi-block added by Immersive Engineering. It is an automated version of the Engineer's Workbench. Redstone Flux (RF) is required for the Automated Workbench to function. It is input through where the Light Engineering Block was in the multiblock structure's creation. In the Automated Workbench's GUI, a Engineer's Blueprint must be added in order for it to function.",
 
+  "chapter.machinery.quest.5.title.1": "Look at a complete &6Fluid Tank",
   "chapter.machinery.quest.5.subtitle.1": "Storing Fluid",
   "chapter.machinery.quest.5.description.1": "The Tank will store 512,000 mB (512 Buckets). Liquids can be piped into the top and extracted with bottom blocks. For liquid to be removed a redstone signal is required, additionally, a Fluid Pump (Immersive Engineering) can be used to speed up the output.",
 
+  "chapter.machinery.quest.6.title.1": "Look at a complete &6Item Silo",
   "chapter.machinery.quest.6.subtitle.1": "Storing Items",
   "chapter.machinery.quest.6.description.1": "The Sheetmetal Silo will store 41,472 items (the size of 24 Chests). They, however, all must be the same item. Items can be piped into the top block, and removed through the bottom block. Removal of items requires a Redstone signal. The Silo will visually show the item being stored and it's amount on each side of the Silo.",
 
+  "chapter.machinery.quest.7.title.1": "Look at a complete &6Oil Tank",
   "chapter.machinery.quest.7.subtitle.1": "A Better Immersive Fluid Storage",
   "chapter.machinery.quest.7.description.1": "The oil tank is a self levelling liquid tank bigger than the normal Fluid Tank, with both side : top and bottom fluid ports. It can store 1024B of any non gaseous fluid.",
 
+  "chapter.machinery.quest.8.title.1": "Look at a complete &6Improved Blast Furnace",
   "chapter.machinery.quest.8.subtitle.1": "Really Hot Topic",
   "chapter.machinery.quest.8.description.1": "The Improved Blast Furnace is a multiblock furnace added by Immersive Engineering that alloys Iron with Coal Cokes to produce Steel. It is the upgraded tier of the Crude Blast Furnace, capable of automation and also of greater speeds once Blast Furnace Preheaters are added.",
   "chapter.machinery.quest.8.description.2": "The Improved Blast Furnace has hatches to automatically export Steel and Slag into adjacent inventories. Coal Coke and Iron may be dropped into the top of the furnace. Steel leaves through the front, and Slag leaves through the back. The holes on either side are for adding the Blast Furnace Preheaters.",
 
+  "chapter.machinery.quest.9.title.1": "Look at a complete &6High-Pressure Refinery Unit",
   "chapter.machinery.quest.9.subtitle.1": "Immersive Refining",
-  "chapter.machinery.quest.9.description.1": "The High Pressure Refinery Unit heats and combines fluids within it's main reaction drum. It is integral to secondary process chains in modern petroleum refining, including cracking and desulfurization",
+  "chapter.machinery.quest.9.description.1": "The High Pressure Refinery Unit heats and combines fluids within it's main reaction drum. It is integral to secondary process chains in modern petroleum refining, including cracking and desulfurization.",
 
+  "chapter.machinery.quest.10.title.1": "Look at a complete &6Distillation Tower",
   "chapter.machinery.quest.10.subtitle.1": "Tower Distillation",
   "chapter.machinery.quest.10.description.1": "The Distillation Tower is a large 4x16x4 multi-block added by Immersive Petroleum used to process fluids into other fluids. It is primarily used to convert Crude Oil into usable Diesel and Gasoline fuels and Lubricant, creating Bitumen as a byproduct.",
 
+  "chapter.machinery.quest.11.title.1": "Look at a complete &6Derrick",
   "chapter.machinery.quest.11.subtitle.1": "Oil Finding Tower",
 
+  "chapter.machinery.quest.12.title.1": "Look at a complete &6Coker",
   "chapter.machinery.quest.12.subtitle.1": "Bitumen Cracker",
   "chapter.machinery.quest.12.description.1": "The Coker is a massive machine that cracks and carbonizes residual bitumen from distillation into petroleum coke and sulfurized diesel.",
 
+  "chapter.machinery.quest.13.title.1": "Look at a complete &6Excavator",
   "chapter.machinery.quest.13.subtitle.1": "Ore Generating",
   "chapter.machinery.quest.13.description.1": "The Excavator is a 8×3×7 multiblock machine added by Immersive Engineering that mines into Mineral Deposits below bedrock.",
 
+  "chapter.machinery.quest.14.title.1": "Look at a complete &6Pumpjack",
   "chapter.machinery.quest.14.subtitle.1": "Pumping Maestro",
   "chapter.machinery.quest.14.description.1": "The Pumpjack is a 6×4×3 multiblock added by Immersive Petroleum. It extracts fluids like Crude Oil from reservoirs that are below bedrock. A Core Sample Drill tests for these reservoirs. Once it's powered and an empty pipe is connected to either fluid port, the jack pumps at a rate of 15 mB/tick. If there's a reservoir below it, it brings the fluid to the surface. Multiple Pumpjacks in one chunk increases the rate of extraction. If the reservoir is emptied, up to 6 mB/tick of fluid can continue to be extracted from the drained reservoir using a single Pumpjack.",
 
+  "chapter.machinery.quest.15.title.1": "Look at a complete &6Lightning Rod",
   "chapter.machinery.quest.15.subtitle.1": "Thunder Power",
   "chapter.machinery.quest.15.description.1": "The Lightning Rod is relatively simple to make. It uses 8 Copper Coil Blocks, 4 Steel Scaffoldings, 4 HV Capacitors, 4 Light Engineering Blocks, 4 Treated Wood Fences and 3 High-Voltage Coil Blocks.",
 
+  "chapter.machinery.quest.16.title.1": "Look at a complete &6Diesel Generator",
   "chapter.machinery.quest.16.subtitle.1": "Ultimate Immersive Generator",
-  "chapter.machinery.quest.16.description.1": "The Diesel Generator is a 3×5×3 multiblock added by Immersive Engineering. It generates Immersive Flux (IF) or Redstone Flux (RF) by burning Biodiesel or other modded fuels. A running Diesel Generator makes a fair amount of noise. The Ear Defenders can selectively muffle its sound."
+  "chapter.machinery.quest.16.description.1": "The Diesel Generator is a 3×5×3 multiblock added by Immersive Engineering. It generates Immersive Flux (IF) or Redstone Flux (RF) by burning Biodiesel or other modded fuels. A running Diesel Generator makes a fair amount of noise. The Ear Defenders can selectively muffle its sound.",
+
+  "Powah":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.powah.title": "Powah",
+
+  "chapter.powah.quest.1.title": "Reactor Tips",
+  "chapter.powah.quest.1.subtitle.1": "The Reactor is a multi-block generator that use Uraninite as main fuel.",
+  "chapter.powah.quest.1.description.1": "To Build it you will need 36 Reactor block in your hand and placing them in a 3X4 replaceable area, then the reactor will complete building itself automatically.",
+  "chapter.powah.quest.1.description.2": "When Generating energy the reactor heats up causing it to consume fuel faster and generating less FE/t, so you need to cool it down using a coolant like water, also you can use a solid coolant like snow or ice for extra coldness, solid coolant require liquid coolant to work.",
+
+  "chapter.powah.quest.2.title": "Solar Panel Tips",
+  "chapter.powah.quest.2.subtitle.1": "Sun Power",
+  "chapter.powah.quest.2.description.1": "The Solar Panel is an FE generator that generates energy when exposed to sunlight, high tiers generates more FE/t, any block that stop light above the Solar panel will stop its production.",
+
+  "chapter.powah.quest.3.title": "Magmator Tips",
+  "chapter.powah.quest.3.subtitle.1": "The Magmator is an FE generator that generates energy from high temp fluids like lava.",
+  "chapter.powah.quest.3.description.1": "High tiers generate more FE/t and it has higher energy output, also they burn the fuel faster with the same energy gained per fuel tick.",
+
+  "chapter.powah.quest.4.title": "Furnator Tips",
+  "chapter.powah.quest.4.subtitle.1": "The Furnator is a FE generator that generates energy from solid Furnace fuel like coal, wood...",
+  "chapter.powah.quest.4.description.1": "High tiers generate more FE/t and it has higher energy output, also they furn the fuel faster with the same energy gained per fuel tick.",
+
+  "chapter.powah.quest.5.title": "Thermo Generators Tips",
+  "chapter.powah.quest.5.subtitle.1": "Hot Stuff",
+  "chapter.powah.quest.5.description.1": "The Thermo Generator is an FE generator that generates energy when placed on top of a high temp block/fluid like lava, require a coolant fluid like water to run.",
+
+  "chapter.powah.quest.6.title": "Battery Tips",
+  "chapter.powah.quest.6.subtitle.1": "Charging",
+  "chapter.powah.quest.6.description.1": "Charge items when is in player inventory, can Also be used to upgrade the capacity of a Ender Network channel by Shift blocking a Battery to an Ender Cell GUI, is the Battery contain energy then will also be applied to the ender network channel.",
+
+  "chapter.powah.quest.7.title": "Energy Cell Tips",
+  "chapter.powah.quest.7.subtitle.1": "The Energy Cell its a block used to store energy.",
+  "chapter.powah.quest.7.description.1": "Can Also be used to add capacity to an Ender Network channel by Shift-clicking it to an Ender Cell GUI, if the Energy Cell contains energy then will also be applied to the ender network channel.",
+
+  "chapter.powah.quest.8.title": "Ender Cell Tips",
+  "chapter.powah.quest.8.subtitle.1": "The Ender Cell its a block used to store energy to a specific channel of the ender network of the owner.",
+  "chapter.powah.quest.8.description.1": "You can acces the energy stored of a selected channel from anywhere in the world if the Ender Cell that you want to transfer power from/to have an active channel with a valid capacity.",
+  "chapter.powah.quest.8.description.2": "You can add capacity to a selected channel by shift-clicking an Energy Cell or Battery to the Ender Cell GUI.",
+  "chapter.powah.quest.8.description.3": "The amout added is the same of the item you've added, max capacity a channel can have is 9E FE.",
+
+  "chapter.powah.quest.9.title": "Tips for Cables",
+  "chapter.powah.quest.9.subtitle.1": "Cable are used to transfer power between machines.",
+  "chapter.powah.quest.9.description.1": "You can change transfer mode by right-clicking a cable using Whrench with Config mode selected.",
+
+  "chapter.powah.quest.10.title": "Gate of Ender",
+  "chapter.powah.quest.10.subtitle.1": "Transferring Ender",
+  "chapter.powah.quest.10.description.1": "Transfer energy between the adjacent block and the ender network.",
+  "chapter.powah.quest.10.description.2": "Unlike the Ender cell you can not upgrade the network from it.",
+
+  "chapter.powah.quest.11.title": "Discharging Energy",
+  "chapter.powah.quest.11.subtitle.1": "Draining",
+  "chapter.powah.quest.11.description.1": "The Energy Discharger its a block used to drain energy out of charged items and them store it to an internal buffer if then connected via cables to extract that stored power and re-using it again.",
+
+  "chapter.powah.quest.12.title": "Hopping Energy",
+  "chapter.powah.quest.12.subtitle.1": "Charging Items",
+  "chapter.powah.quest.12.description.1": "The energy Hopper its a block used to charge chargeable items inside an adjacent inventory like a chest or any block with an accessible inventory and not a not has forge energy.",
+
+  "chapter.powah.quest.13.title": "Player Transmiter",
+  "chapter.powah.quest.13.subtitle.1": "Inventory Charger",
+  "chapter.powah.quest.13.description.1": "The Player Transmitter its a block used to charge items wirelessly in linked player inventory including armor slots and off-hand anywhere in the same dimension when has normal binding card and accross dimension when has a dimensional binding card.",
+
+  "chapter.powah.quest.14.title": "Energizing Rod",
+  "chapter.powah.quest.14.subtitle.1": "Crafting Rods",
+  "chapter.powah.quest.14.description.1": "The Energizing Orb its a block used to energize items, require at least one Energizing Rod in range of 9X9 to work, the energizing speed depends on amout of rods and the rod tier. ",
+
+  "Thermal":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.thermal.title": "Thermal",
+
+  "chapter.thermal.quest.1.title": "Augment Base",
+  "chapter.thermal.quest.1.subtitle.1": "Upgrade Component",
+
+  "chapter.thermal.quest.2.title": "Fluid Filter",
+  "chapter.thermal.quest.2.subtitle.1": "Restrictive",
+  "chapter.thermal.quest.2.description.1": "Allows for fluid restriction.",
+
+  "chapter.thermal.quest.3.subtitle.1": "FE Saver",
+  "chapter.thermal.quest.3.description.1": "Prevent RF from being lost after coil saturation.",
+
+  "chapter.thermal.quest.4.subtitle.1": "Scaling Catalyst",
+  "chapter.thermal.quest.4.description.1": "The Catalytic Reclamation Chamber augment scales the chance for a catalyst to be used by 0.8x but also scales the energy used per operation by 1.25x.",
+
+  "chapter.thermal.quest.5.subtitle.1": "More Energy !",
+  "chapter.thermal.quest.5.description.1": "The Expanded RF Coil augment scales RF storage and transfer by 4.",
+
+  "chapter.thermal.quest.6.subtitle.1": "Efficient Power",
+  "chapter.thermal.quest.6.description.1": "The Flux Efficiency augment reduces the RF required per operation, scaling it by 0.9, but also decreases the maximum RF usage rate of the machine by 10%%.",
+
+  "chapter.thermal.quest.7.subtitle.1": "Range Upgrade",
+  "chapter.thermal.quest.7.description.1": "The Radial Enhancement Augment allows your tool or machine to affect a greater area around it.",
+  "chapter.thermal.quest.7.description.2": "Each aygment will increase the maximum area by 1 block in every direction.",
+
+  "chapter.thermal.quest.8.subtitle.1": "Efficient Fuel",
+  "chapter.thermal.quest.8.description.1": "Increase fuel efficiency.",
+
+  "chapter.thermal.quest.9.subtitle.1": "Auxiliary Destroyer",
+  "chapter.thermal.quest.9.description.1": "Destroys excess non-primary item outputs.",
+
+  "chapter.thermal.quest.10.subtitle.1": "More Fluid",
+  "chapter.thermal.quest.10.description.1": "The Expanded Tank Construction augment scales the size of all fluid storage in machine, device, dynamo, or tool by 4.",
+
+  "chapter.thermal.quest.11.subtitle.1": "Better Dynamo",
+  "chapter.thermal.quest.11.description.1": "The Auxiliary Reaction Chamber augment inscreases maximum generation of a dynamo by 100%% but scales the efficiency by 0.9.",
+
+  "chapter.thermal.quest.12.subtitle.1": "Secondary Output",
+  "chapter.thermal.quest.12.description.1": "The Auxilliary Process Sieve augment increases chance of secondary output by 15%% but scales the energy per operation by 1.25.",
+
+  "chapter.thermal.quest.13.subtitle.1": "Automation Augment",
+  "chapter.thermal.quest.13.description.1": "The Cyclical Processing augment allows a machine's valid outputs to be fed back into its outputs slot(s). Usefull for automation.",
+
+  "chapter.thermal.quest.14.subtitle.1": "Amplification",
+  "chapter.thermal.quest.14.description.1": "The Flux Linkage Amplifier augment increases maximun RF usage rate by 100%% but also scales the RF per operation by 1.1.",
+
+  "chapter.thermal.quest.15.subtitle.1": "Potion Upgrader",
+  "chapter.thermal.quest.15.description.1": "The Alchemical Extender augment increases duration of potion by 100%%. Has no effect on potion that have instant, on-time effects.",
+
+  "chapter.thermal.quest.16.subtitle.1": "Potion Amplifier",
+  "chapter.thermal.quest.16.description.1": "The Alchemical Amplifier augment increases the effect of the stored potion by 1 level but descreases its duration by 25%%.",
+
+  "chapter.thermal.quest.17.subtitle.1": "FE Upgrader",
+  "chapter.thermal.quest.17.description.1": "The High-Flux RF Coil augment scales the RF storage by 2 and the RF transfer by 6.",
+
+  "chapter.thermal.quest.18.subtitle.1": "XP Keeper",
+  "chapter.thermal.quest.18.description.1": "Allow XP to be stored and retrieved.",
+
+  "chapter.thermal.quest.19.subtitle.1": "Filtering Power",
+  "chapter.thermal.quest.19.description.1": "The Item Filter augment allows a machine, device, or piece of equipement to selectively accept items.",
+  "chapter.thermal.quest.19.description.2": "The filter can be configured in a separate GUI, accessible by shift right-clicking the block or item it is installed in, or through a tab in the block's GUI.",
+  "chapter.thermal.quest.19.description.3": "Up to 15 items can be added to the filter, with option to change between allow/deny list and to match/ignore NBT.",
+
+  "chapter.thermal.quest.20.subtitle.1": "Fossil Energy",
+  "chapter.thermal.quest.20.description.1": "The Stirling Dynamo uses burnable items to produce RF.",
+
+  "chapter.thermal.quest.21.subtitle.1": "Energy Bucket",
+  "chapter.thermal.quest.21.description.1": "The Compression Dynamo uses burnable liquid fuels such as tree oil to produce RF.",
+
+  "chapter.thermal.quest.22.subtitle.1": "Money, money!",
+  "chapter.thermal.quest.22.description.1": "The Numismatic Dynamo uses coins to produce RF.",
+
+  "chapter.thermal.quest.23.subtitle.1": "Shining Crystals",
+  "chapter.thermal.quest.23.description.1": "The Lapidary Dynamo uses crystals and gems to produce RF.",
+
+  "chapter.thermal.quest.24.subtitle.1": "Enchanted",
+  "chapter.thermal.quest.24.description.1": "The Disenchantment Dynamo uses enchanted items such as books to produce RF.",
+
+  "chapter.thermal.quest.25.subtitle.1": "FOOD !",
+  "chapter.thermal.quest.25.description.1": "The Gourmand Dynamo uses food to produce RF.",
+
+  "chapter.thermal.quest.26.subtitle.1": "Trash Can",
+  "chapter.thermal.quest.26.description.1": "The nullifer is a device that can void all items and fluids that are inserted into it.",
+  "chapter.thermal.quest.26.description.2": "Item/fluids that are input automatically are instantly voided, while items inserted manually through the GUI are temporarily stored until the trash button is pressed.",
+  "chapter.thermal.quest.26.description.3": "It is compatible with filter type augments to restrict what it can accept.",
+  "chapter.thermal.quest.26.description.4": "Redstone control only affects the automatic insertion of item/fluids.",
+
+  "chapter.thermal.quest.27.subtitle.1": "Energy for Items",
+  "chapter.thermal.quest.27.description.1": "Used to augment, charge, and fill items.",
+
+  "chapter.thermal.quest.28.subtitle.1": "Honey Extractor",
+  "chapter.thermal.quest.28.description.1": "The Hive Hopper is a device that can extract honeycombs and liquid honey when placed under a beehive.",
+
+  "chapter.thermal.quest.29.subtitle.1": "Deforestation Dangers",
+  "chapter.thermal.quest.29.description.1": "The Arboreal Extractor is a device that extracts fluid from an adjacent tree.",
+  "chapter.thermal.quest.29.description.2": "Can optionally take fertilizer to boost production rate.",
+  "chapter.thermal.quest.29.description.3": "Bonemeal boosts output by 1.5x for 8 cycles, while phyto-gro boosts by 2.0x for 16 cycles.",
+  "chapter.thermal.quest.29.description.4": "Different trees produce different fluids; use JEI to see the available recipes.",
+
+  "chapter.thermal.quest.30.subtitle.1": "Growing Plants",
+  "chapter.thermal.quest.30.description.1": "The Phyto-Soil Infuser is a device that uses RF in order to speed up the growth of crops on nearby phyto-soil, In its base form, it infuses a 3x3x3 area around it, which can be upgraded using radial enhancement augments to up to 7x3x7.",
+  "chapter.thermal.quest.30.description.2": "Integral components increase the growth boost effect.",
+
+  "chapter.thermal.quest.31.subtitle.1": "Absorber",
+  "chapter.thermal.quest.31.description.1": "The Vacuumulator is a device that can pick up items in its area of effect.",
+  "chapter.thermal.quest.31.description.2": "It can pick up EXP orbs when a knowledge concentrator augment is installed.",
+  "chapter.thermal.quest.31.description.3": "At base, the vacuumulator collects in a 9x9x9 area centered on it, which can be augmented up to 15x15x15 using radial enhancement augments.",
+
+  "chapter.thermal.quest.32.subtitle.1": "Fast Charger",
+  "chapter.thermal.quest.32.description.1": "Using to charge multiple items quickly.",
+
+  "chapter.thermal.quest.33.subtitle.1": "Ecologic",
+  "chapter.thermal.quest.33.description.1": "Produce compost from organic waste.",
+
+  "chapter.thermal.quest.34.subtitle.1": "Fishing Machine",
+  "chapter.thermal.quest.34.description.1": "The aquatic Entangler is a device that can passively catch fish when it is placed in a body of water.",
+  "chapter.thermal.quest.34.description.2": "The rate at which it catches fish depends on the biome, weather, and augment configuration, but it has a base rate of 1 catch every few minutes.",
+
+  "chapter.thermal.quest.35.subtitle.1": "Infinite Water",
+  "chapter.thermal.quest.35.description.1": "The Aqueous Accumulator is a device that will generate infinite water for your needs.",
+  "chapter.thermal.quest.35.description.2": "In order for it to produce water there must be at least two source blocks adjacent to the sides of the device.",
+  "chapter.thermal.quest.35.description.3": "Source blocks above or below the device will not count.",
+
+  "chapter.thermal.quest.36.subtitle.1": "Potion for Mobs",
+  "chapter.thermal.quest.36.description.1": "The Decoctive Diffuser is a device that will periodically consume potion fluid to spread potion effects to nearby mobs.",
+  "chapter.thermal.quest.36.description.2": "Effects granted this way last 1/4 as long compared to a regular potion.",
+  "chapter.thermal.quest.36.description.3": "It automatically halts operation when no mobs are in its area of effect.",
+  "chapter.thermal.quest.36.description.4": "At base, the diffuser spreads potion effects in a 9x9x9 area centered on it, which can be augmented up to 15x15x15 using radial enhancement augments.",
+
+  "chapter.thermal.quest.37.subtitle.1": "Stone Creator",
+  "chapter.thermal.quest.37.description.1": "The Igneous Extruder is a device that will generate infinite stone when surrounded with the appropriate blocks and fluids.",
+  "chapter.thermal.quest.37.description.2": "It requires an adjacent lava source block and a adjacent collant block; it can optionally take a block underneath.",
+
+  "chapter.thermal.quest.38.subtitle.1": "Thermal Fluid Tank",
+  "chapter.thermal.quest.38.description.1": "The fluid Cell can be used to store and distribute fluids.",
+
+  "chapter.thermal.quest.39.subtitle.1": "Energy Storage",
+  "chapter.thermal.quest.39.description.1": "The Redstone Flux Cell can be used to store and distribute Redstone Flux.",
+
+  "chapter.thermal.quest.40.subtitle.1": "Flux Furnace",
+  "chapter.thermal.quest.40.description.1": "The Redstone Furnace is a machine that smelts your items like a traditional furnace.",
+
+  "chapter.thermal.quest.41.subtitle.1": "Another Pulverizer",
+  "chapter.thermal.quest.41.description.1": "The Centrifugal Separator is a machine that separates items into their components. E.g. alloy blends into their base metal dusts.",
+  "chapter.thermal.quest.41.description.2": "It is also effecient at extracting dyes from flowers.",
+
+  "chapter.thermal.quest.42.subtitle.1": "Fuel Creation",
+  "chapter.thermal.quest.42.description.1": "The Pyrolyzer is a machine that decomposes substances in a low-oxygen environment using heat.",
+  "chapter.thermal.quest.42.description.2": "Typically used to convert organic matter and coal into cleaner, longer-lasting fuels.",
+
+  "chapter.thermal.quest.43.subtitle.1": "Cutting Planks",
+  "chapter.thermal.quest.43.description.1": "The Sawmill is a machine that cuts logs into planks more efficiently than crafting. It produces Sawdust as a byproduct.",
+
+  "chapter.thermal.quest.44.subtitle.1": "Packaging Items",
+  "chapter.thermal.quest.44.description.1": "The Multiservo Press is a machine that can accept a variety of dies in order to shape metals into different forms and (un)pack bloks and items.",
+
+  "chapter.thermal.quest.45.subtitle.1": "Fluid Filler",
+  "chapter.thermal.quest.45.description.1": "The Fluid Encapsulator is a machine that fills items that hold fluids, sush as buckets and bottles.",
+  "chapter.thermal.quest.45.description.2":  "an be used to automatically fill bottles with potion fluid from the Alchemical Imbuer.",
+
+  "chapter.thermal.quest.46.subtitle.1": "Smashing",
+  "chapter.thermal.quest.46.description.1": "The Pulverizer is a machine that crushes items and ores. Improves ore yields, which can be further increased using augments and catalysts.",
+
+  "chapter.thermal.quest.47.subtitle.1": "Melting Steel",
+  "chapter.thermal.quest.47.description.1": "The Magma Crucible is a machine that melts items into fluids.",
+
+  "chapter.thermal.quest.48.subtitle.1": "Potion Brewer",
+  "chapter.thermal.quest.48.description.1": "The Alchemical Imbuer is a machine that brews potions.",
+  "chapter.thermal.quest.48.description.2": "Creates potion fluid as opposed to brewing directly in a bottle.",
+  "chapter.thermal.quest.48.description.3": "One ingredient is enough to brew one bucket, which can fill 4 bottles.",
+
+  "chapter.thermal.quest.49.subtitle.1": "Better Furnace",
+  "chapter.thermal.quest.49.description.1": "The Induction Smelter is a machine that smelts multiple items together, producing alloys.",
+  "chapter.thermal.quest.49.description.2": "It can also smelt ores into ingots and gem, which is affected by catalysts.",
+  "chapter.thermal.quest.49.description.3": "Smelting ores has a chance to produce rich slag as a secondary output, which cann be used as a catalyst ore to make phyto-gro.",
+
+  "chapter.thermal.quest.50.subtitle.1": "Solidifier",
+  "chapter.thermal.quest.50.description.1": "The Blast Chiller is a machine that cools down and crystallizes liquids such as water and molten metals into their solid forms.",
+  "chapter.thermal.quest.50.description.2": "Accepts various casts to alter the shape of the end product.",
+
+  "chapter.thermal.quest.51.subtitle.1": "Retransforming",
+  "chapter.thermal.quest.51.description.1": "The Crystallizer is a machine can convert certain powders into gems.",
+
+  "chapter.thermal.quest.52.subtitle.1": "Plant Reproduction",
+  "chapter.thermal.quest.52.description.1": "The Phytogenic Insolator is a machine that uses RF, water, and optionally fertilizer in order to grow crops, flowers, and trees.",
+
+  "chapter.thermal.quest.53.subtitle.1": "Refinery",
+  "chapter.thermal.quest.53.description.1": "The Fractionating Still is a machine refines fluids such as Resin and Sap.",
+
+  "chapter.thermal.quest.54.subtitle.1": "AutoCrafter",
+  "chapter.thermal.quest.54.description.1": "The Sequential Fabricator is a machine that automatically crafts items.",
+
+  "chapter.thermal.quest.55.subtitle.1": "More Energy Storage",
+  "chapter.thermal.quest.55.description.1" : "Adds 250kFE to the Energy Storage.",
+
+  "Forbidden and Arcanus":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.forbidden.title": "Forbidden and Arcanus",
+
+  "chapter.forbidden.quest.1.title": "You're a Wizard !",
+  "chapter.forbidden.quest.1.subtitle.1": "Starting the Mod",
+
+  "chapter.forbidden.quest.2.title": "Edelwood Trees",
+  "chapter.forbidden.quest.2.subtitle.1": "Weird Looking Tree",
+  "chapter.forbidden.quest.2.description.1": "Found within the Dark Forest biome, the Edelwood Tree looks like a small tree that has been chopped in half.",
+  "chapter.forbidden.quest.2.description.2": "You'll need to break the branches off and collect the logs, as these are used for crafting various items within the mod.",
+
+  "chapter.forbidden.quest.3.subtitle.1": "Powerful Bucket",
+  "chapter.forbidden.quest.3.description.1": "The Edelwood bucket can store more than one bucket of liquid, and can also be used to capture small animals like chickens or squids.",
+  "chapter.forbidden.quest.3.description.2": "In order to carry Lava you'll need the Permafrost Enchant.",
+
+  "chapter.forbidden.quest.4.subtitle.1": "Black Matter",
+  "chapter.forbidden.quest.4.description.1": "Smelting &bEdelwood&r will give you Dark Matter. You can make Black Holes with this.",
+
+  "chapter.forbidden.quest.5.subtitle.1": "Breaking Spawners",
+  "chapter.forbidden.quest.5.description.1": "Breaking spawners will now drop &bSpawner Scraps&r.",
+
+  "chapter.forbidden.quest.6.subtitle.1": "Capturing",
+  "chapter.forbidden.quest.6.description.1": "The &bQuantum Catcher&r is used to capture and transport mobs.",
+
+  "chapter.forbidden.quest.7.subtitle.1": "Aureal Viewer",
+  "chapter.forbidden.quest.7.description.1": "The &bLens of Veritatis&r is used to see Aureal entities. These are entities that will grant Aureal when killed, but will also increase your corruption....",
+
+  "chapter.forbidden.quest.8.subtitle.1": "Sky Grass",
+  "chapter.forbidden.quest.8.description.1": "Have you seen the random floating island in the sky? Not the slime one, but the tiny one?",
+  "chapter.forbidden.quest.8.description.2": "These have the Nipa plant on them. You can break these and relocate them.",
+  "chapter.forbidden.quest.8.description.3": "They produce Arcane Crystal Dust Specks over time, which can be used to create Arcane Crystal Dust.",
+
+  "chapter.forbidden.quest.9.subtitle.1": "Thaumcraft is back ?",
+  "chapter.forbidden.quest.9.description.1": "Killing passive mobs will increase your corruption. Killing &bAureal Entities&r has a higher chance to increase your corruption.",
+  "chapter.forbidden.quest.9.description.2": "Be careful! At higher levels of corruption, negative things will happen!",
+  "chapter.forbidden.quest.9.description.3": "Making a Sanity Meter will give your UI an upgrade to show your total corruption, for those who want to hit new high scores and such.",
+
+  "chapter.forbidden.quest.10.subtitle.1": "Flying ... Almost",
+
+  "chapter.forbidden.quest.11.subtitle.1": "Main Crystal",
+  "chapter.forbidden.quest.11.description.1": "This is the main resource in the mod. Go out and mine some!",
+
+  "chapter.forbidden.quest.12.subtitle.1": "Smelting Arcane Crystals",
+
+  "chapter.forbidden.quest.13.subtitle.1": "Super Bone Meal",
+  "chapter.forbidden.quest.13.description.1": "Using this bone meal on Farmland will convert it to Magical Farmland.",
+  "chapter.forbidden.quest.13.description.2": "Crops will produce double the output when grown on Magical Farmland.",
+
+  "chapter.forbidden.quest.14.subtitle.1": "Too Much Corruption",
+  "chapter.forbidden.quest.14.description.1": "Used to corrupt Souls and Runes. You'll need this for later.",
+  "chapter.forbidden.quest.14.description.2": "If you throw down Dark Matter, then throw down Corrupti Dust, it'll create a Black Hole. Feed it small entities like Arrows or Experience Orbs, and it'll produce Xpetrified Orbs.",
+
+  "chapter.forbidden.quest.15.subtitle.1": "Component Dust",
+  "chapter.forbidden.quest.15.description.1": "Using our Arcane Crystal Dust, we'll need to combine it with other dusts and powders to create Mundabiter Dust.",
+  "chapter.forbidden.quest.15.description.2": "This dust is used in several recipes, as well as activating the Hephaestus Forge.",
+
+  "chapter.forbidden.quest.16.subtitle.1": "Golden Arcane",
+  "chapter.forbidden.quest.16.description.1": "The &6Arcane Gold Ingot&r is needed to continue your progression in the mod.",
+  "chapter.forbidden.quest.16.description.2": "It's used for a lot of stuff, and it's also pretty.",
+
+  "chapter.forbidden.quest.17.title": "&6Arcane Gold Armor",
+  "chapter.forbidden.quest.17.subtitle.1": "Arcane Armor",
+  "chapter.forbidden.quest.17.description.1": "&6Arcane Gold&r can be used to craft armor, which is stronger than Diamonds!",
+
+  "chapter.forbidden.quest.18.subtitle.1": "Arcane Pickaxe",
+  "chapter.forbidden.quest.18.description.1": "A Silk-Touch Pickaxe !",
+
+  "chapter.forbidden.quest.19.subtitle.1": "Growing Arcane Gold",
+  "chapter.forbidden.quest.19.description.1": "These can be planted to grow Arcane Gold Nuggets.",
+  "chapter.forbidden.quest.19.description.2": "To create one, you'll need to find Yellow Orchids.",
+
+  "chapter.forbidden.quest.20.subtitle.1": "Mobs X-Ray Activated !",
+  "chapter.forbidden.quest.20.description.1": "This gives X-Ray vision for mobs, highlighting them from afar to make it easier to spot them.",
+
+  "chapter.forbidden.quest.21.subtitle.1": "Dragon Head Crusher",
+  "chapter.forbidden.quest.21.description.1": "The Mystical Dagger is used to break Dragon Heads down to Dragon Scales.",
+  "chapter.forbidden.quest.21.description.2": "When killing mobs with it with a test tube in your inventory, it will also collect blood.",
+
+  "chapter.forbidden.quest.22.subtitle.1": "Dragon Hunter",
+  "chapter.forbidden.quest.22.description.1": "Combining a Dragon Head with a Mystical Dagger will give you &bDragon Scales&r.",
+
+  "chapter.forbidden.quest.23.title": "Draco Arcanus Armor",
+  "chapter.forbidden.quest.23.subtitle.1": "Dragon Slayer",
+  "chapter.forbidden.quest.23.description.1": "Better than Netherite Armor !",
+
+  "chapter.forbidden.quest.24.subtitle.1": "Thunder Bolt",
+  "chapter.forbidden.quest.24.description.1": "The Scepter shoots out energy orbs when charged up with Right-Click. If a mob is hit, it'll strike it with lightning.",
+
+  "chapter.forbidden.quest.25.title": "Better Dragon Scales",
+  "chapter.forbidden.quest.25.subtitle.1": "Upgrading Scales",
+  "chapter.forbidden.quest.25.description.1": "The Dragon Scale can be made into a Golden and Aquatic Dragon Scales.",
+  "chapter.forbidden.quest.25.description.2": "These are mainly used to craft &dTyr Armor&r.",
+
+  "chapter.forbidden.quest.26.title": "Tyr Armor",
+  "chapter.forbidden.quest.26.subtitle.1": "Better than Draco Arcanus !",
+
+  "chapter.forbidden.quest.27.subtitle.1": "Golden Egg",
+
+  "chapter.forbidden.quest.28.subtitle.1": "Preparing to Forge",
+  "chapter.forbidden.quest.28.description.1": "You've probably already acquired some Darkstone, but we'll need it to craft the forge.",
+
+  "chapter.forbidden.quest.29.title": "The &5Hephaestus Forge&r.",
+  "chapter.forbidden.quest.29.subtitle.1": "Arcane Forgerer",
+  "chapter.forbidden.quest.29.description.1": "We'll be using all of that Darkstone to create the &5Hephaestus Forge&r.",
+  "chapter.forbidden.quest.29.description.2": "Once you have all of the blocks needed, you'll need to build the platform for the forge.",
+  "chapter.forbidden.quest.29.description.3": "To see how to build the platform, search in JEI for the forge, then hold 'W' to view the ponder.",
+
+  "chapter.forbidden.quest.30.title": "Darkstone Pedestals",
+  "chapter.forbidden.quest.30.subtitle.1": "Forge Pedestals",
+  "chapter.forbidden.quest.30.description.1": "To enchant items, you'll need Darkstone Pedestals placed around the Forge.",
+  "chapter.forbidden.quest.30.description.2": "Make sure to place these on the Arcane Chiseled Polished Darkstone.",
+
+  "chapter.forbidden.quest.31.subtitle.1": "Obelisk",
+  "chapter.forbidden.quest.31.description.1": "To create an Arcane Crystal Obelisk, place down an Arcane Polished Darkstone block, then place two Arcane Crystal Blocks on top of it.",
+  "chapter.forbidden.quest.31.description.2": "Right-click with Mundabitur Dust and you'll create the obelisk.",
+  "chapter.forbidden.quest.31.description.3": "When placed on a Arcane Chiseled Polished Darkstone block on the Hephaestus Forge structure, it will slowly generate Aureal over time.",
+
+  "chapter.forbidden.quest.32.subtitle.1": "Souls in Bottle",
+  "chapter.forbidden.quest.32.description.1": "&dAureal Bottles&r can be found in loot chests, but they can also be crafted using Arcane Crystal Dust.",
+  "chapter.forbidden.quest.32.description.2": "You can also generate Aureal with Arcane Crystal Obelisks.",
+
+  "chapter.forbidden.quest.33.subtitle.1": "Blood Tubes",
+  "chapter.forbidden.quest.33.description.1": "Blood is collected by crafting Test Tubes, then killing mobs with the Mystical Dagger.",
+  "chapter.forbidden.quest.33.description.2": "Note: The Test Tube must be in your inventory when killing mobs.",
+
+  "chapter.forbidden.quest.34.subtitle.1": "Power to The Forge",
+  "chapter.forbidden.quest.34.description.1": "The Forge requires 4 different items to be powered: Aureal, Souls, Blood, and Experience. To learn more, follow the corner quests.",
+
+  "chapter.forbidden.quest.35.subtitle.1": "Free Souls",
+  "chapter.forbidden.quest.35.description.1": "Souls are gathered by creating a &bSoul Extractor&r, and then using it on Soul Sand.",
+
+  "chapter.forbidden.quest.36.subtitle.1": "Forge Fuel",
+  "chapter.forbidden.quest.36.description.1": "This goes in the right side of the forge. You can also put &aXpetrified Orbs&r.",
+
+  "chapter.forbidden.quest.37.title": "Blacksmith Gavel",
+  "chapter.forbidden.quest.37.subtitle.1": "Hammer Ritual",
+  "chapter.forbidden.quest.37.description.1": "To perform a ritual, place the ingredients on the Arcane Pedestals.",
+  "chapter.forbidden.quest.37.description.2": "You'll need a &6Blacksmith's Gavel&r to activate the ritual. To do this, right click on the Forge with the Gavel.",
+
+  "chapter.forbidden.quest.38.title": "Creating Enchanted Book",
+  "chapter.forbidden.quest.38.subtitle.1": "Echanting",
+  "chapter.forbidden.quest.38.description.1": "The Hephaestus Forge is also used for creating Enchants. Check out JEI to see all of the different Enchants you can create!",
+
+  "chapter.forbidden.quest.39.subtitle.1": "Fiery Enchant",
+  "chapter.forbidden.quest.39.description.1": "This item can be combined with a tool to add the &6Fiery&r enchant, which auto-smelts blocks when harvested, or sets things ablaze.",
+
+  "chapter.forbidden.quest.40.subtitle.1": "Stella Arcanum",
+  "chapter.forbidden.quest.40.description.1": "You'll find the Stella Arcanum ore deep underground. Careful when mining.",
+
+  "chapter.forbidden.quest.41.subtitle.1": "Experienced",
+  "chapter.forbidden.quest.41.description.1": "This stuff is everywhere. It can be used to give yourself experience, or used to make the Stella Eternal.",
+
+  "chapter.forbidden.quest.42.subtitle.1": "Repair Talisman",
+  "chapter.forbidden.quest.42.description.1": "The &6Stella Eternal&r has 3 charges, and when right-clicked, it can fully repair all of your items in your inventory.",
+  "chapter.forbidden.quest.42.description.2": "The main purpose of this is to give the enchant &9Unbreakable&r to an item, which is done by combining it with the tool in a Smithing Table.",
+
+  "Mekanism":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.mekanism.title": "Mekanism",
+
+  "chapter.mekanism.quest.1.subtitle.1": "Basic Fluid Storage",
+  "chapter.mekanism.quest.1.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &a32,000 mB&r.",
+
+  "chapter.mekanism.quest.2.subtitle.1": "Advanced Fluid Storage",
+  "chapter.mekanism.quest.2.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &464,000 mB&r.",
+
+  "chapter.mekanism.quest.3.subtitle.1": "Elite Fluid Storage",
+  "chapter.mekanism.quest.3.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &b128,000 mB&r.",
+
+  "chapter.mekanism.quest.4.subtitle.1": "Ultimate Fluid Storage",
+  "chapter.mekanism.quest.4.description.1": "&bFluid Tanks&f are storage blocks to store &efluids&f. This tank can store &5256,000 mB&r.",
+
+  "chapter.mekanism.quest.5.subtitle.1": "Basic Gas Tank",
+  "chapter.mekanism.quest.5.description.1": "Chemical Tanks are used to store Gases. This tank can store &a64,000 mB&r.",
+
+  "chapter.mekanism.quest.6.subtitle.1": "Advanced Gas Tank",
+  "chapter.mekanism.quest.6.description.1": "Chemical Tanks are used to store Gases. This tank can store &4256,000 mB&r.",
+
+  "chapter.mekanism.quest.7.subtitle.1": "Elite Gas Tank",
+  "chapter.mekanism.quest.7.description.1": "Chemical Tanks are used to store Gases. This tank can store &b1,024,000 mB&r.",
+
+  "chapter.mekanism.quest.8.subtitle.1": "Ultimate Gas Tank",
+  "chapter.mekanism.quest.8.description.1": "Chemical Tanks are used to store Gases. This tank can store &58,192,000 mB&r.",
+
+  "chapter.mekanism.quest.9.subtitle.1": "Ultimate Bin",
+  "chapter.mekanism.quest.9.description.1": "A block used to store large quantities  of a single type of item. This bin can store &5262,144 Items&r.",
+
+  "chapter.mekanism.quest.10.subtitle.1": "Elite Bin",
+  "chapter.mekanism.quest.10.description.1": "A block used to store large quantities  of a single type of item. This bin can store &b32,768 Items&r.",
+
+  "chapter.mekanism.quest.11.subtitle.1": "Advanced Bin",
+  "chapter.mekanism.quest.11.description.1": "A block used to store large quantities  of a single type of item. This bin can store &48,192 Items&r.",
+
+  "chapter.mekanism.quest.12.subtitle.1": "Basic Bin",
+  "chapter.mekanism.quest.12.description.1": "A block used to store large quantities  of a single type of item. This bin can store &a4,096 Items&r",
+
+  "chapter.mekanism.quest.13.subtitle.1": "Advanced Solar Panel",
+  "chapter.mekanism.quest.13.description.1": "The &bAdvanced Solar Generator&f is a highly upgraded version of the basic Solar Generator.",
+
+  "chapter.mekanism.quest.14.subtitle.1": "A really good WindMill",
+  "chapter.mekanism.quest.14.description.1": "A &bWind Turbine's&f giant blades harness the force of the wind to generate &6power&f. Each Wind Turbine requires a fairly large 1x1x5 area. The machine will generate power day and night, in sun or rain, but the turbine must have a clear view of the sky.",
+
+  "chapter.mekanism.quest.15.subtitle.1": "Careful it's Hot",
+  "chapter.mekanism.quest.15.description.1": "A &bHeat Generator&f converts &4heat energy&f into &6power&f. This is often the first generator to craft because, although it provides only a small amount of power, it is enough to start the mod.",
+
+  "chapter.mekanism.quest.16.subtitle.1": "Gas Recycling",
+  "chapter.mekanism.quest.16.description.1": "A &bGas-Burning Generator&f creates power by consuming any burnable gas for example the Hydrogen produced by an Electrolytic Separator or Ethylene.",
+
+  "chapter.mekanism.quest.17.subtitle.1": "Ecologic Energy",
+  "chapter.mekanism.quest.17.description.1": "&bBio-Generators&f produce electricity from &aBio Fuel&f.",
+
+  "chapter.mekanism.quest.18.title": "The Fusion Reactor",
+  "chapter.mekanism.quest.18.subtitle.1": "Powering The World",
+  "chapter.mekanism.quest.18.description.1": "The &bFusion Reactor&r is a multiblock structure that allows for variable input rates of 3 types of fuel: Deuterium, Tritium and D-T Fuel. By water cooling the structure, steam can be produced alongside power, which is useful for powering an Industrial Turbine.",
+  "chapter.mekanism.quest.18.description.2": "• 75x Reactor Frame (Build + other reactor parts)",
+  "chapter.mekanism.quest.18.description.3": "• 2x Reactor Port",
+  "chapter.mekanism.quest.18.description.4": "• 1x Reactor Controller",
+  "chapter.mekanism.quest.18.description.5": "• 8x Reactor Glass",
+  "chapter.mekanism.quest.18.description.6": "• 1x Laser Focus Matrix",
+
+  "chapter.mekanism.quest.19.title": "&6Reactor starter kit",
+  "chapter.mekanism.quest.19.subtitle.1": "Powering the Beast",
+  "chapter.mekanism.quest.19.description.1": "&bThe Fusion Reactor&r will not start on its own. It requires an outside burst of energy from a charged Laser Amplifier and a small amount of D-T Fuel to begin the fusion process. Once the reaction is jump started, it will begin consuming supplied Deuterium and Tritium, creating plasma and generating power. Alternatively you can use a Resistive Heater heating the reactor to 100.00MK Plasma temperature. This can be done quickest at 10MFE/t usage on the heater",
+  "chapter.mekanism.quest.19.description.2": "&bThe Hohlraum&r stores 10 units of D-T Fuel required for the initial reaction. To fill it up, place it into a Chemical Infuser which is combining Deuterium and Tritium. Place the Hohlraum into the Reactor Controller when it contains the required D-T Fuel.",
+  "chapter.mekanism.quest.19.description.3": "The statistics tab details the required ignition temperature for the reaction to begin. To reach this temperature, a Laser Amplifier must be charged with energy from several Lasers feeding into it, and fired into the Laser Focus Matrix. The energy required to start the reaction it requires 400MFE. It must be injected in one big burst to prevent temperature from dissipating, so adding Redstone sensitivity or increasing the minimum energy required by the Amplifier will prevent it from firing prematurely.",
+  "chapter.mekanism.quest.19.description.4": "With the Hohlraum in the Reactor Controller and enough energy stored in the Amplifier, fire the laser to begin the fusion reaction. If a high enough temperature was achieved, you should immediately see and hear the reactor running. To sustain the reaction, the temperature must not drop below the ignition temperature. Make sure the injection rate is high enough and fuel is constantly being supplied.",
+
+  "chapter.mekanism.quest.20.title": "Supercritical Phase Shifter",
+  "chapter.mekanism.quest.20.subtitle.1": "SPS Reactor",
+  "chapter.mekanism.quest.20.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
+  "chapter.mekanism.quest.20.description.2": "The optimal minimal build consists of :",
+  "chapter.mekanism.quest.20.description.3": "• 60 SPS Casings (+12 crafting material for 3 SPS Ports)",
+  "chapter.mekanism.quest.20.description.4": "• 123 Reactor Glass or Structural Glass",
+  "chapter.mekanism.quest.20.description.5": "• 3 SPS Ports",
+  "chapter.mekanism.quest.20.description.6": "• 1 Supercharged Coil",
+
+  "chapter.mekanism.quest.21.subtitle.1": "Creating Antimatter",
+  "chapter.mekanism.quest.21.description.1": "With the SPS and Polonium Gas create Antimatter gas.",
+
+  "chapter.mekanism.quest.22.title": "Turbine Reactor",
+  "chapter.mekanism.quest.22.subtitle.1": "Steam goes BRRRR",
+  "chapter.mekanism.quest.22.description.1": "The &bTurbine Casing&f is a pressure-resistant casing that is used in the creation of the &cIndustrial Turbine&f multi block structure.",
+  "chapter.mekanism.quest.22.description.2": "The &bElectromagnetic Coil&f is a block used in creating several multi-block structures, including the Thermoelectric Boiler.",
+
+  "chapter.mekanism.quest.23.subtitle.1": "Basic Solar Panel",
+  "chapter.mekanism.quest.23.description.1": "Generates 18.80 FE/t.",
+
+  "chapter.mekanism.quest.24.subtitle.1": "Green Solar Panel",
+  "chapter.mekanism.quest.24.description.1" : "Generates 123.34 kFE/t",
+
+  "chapter.mekanism.quest.25.subtitle.1": "Red Solar Panel",
+  "chapter.mekanism.quest.25.description.1": "Generates 41.11 kFE/t",
+
+  "chapter.mekanism.quest.26.subtitle.1": "Pink Solar Panel",
+  "chapter.mekanism.quest.26.description.1": "Generates 13.70 kFE/t",
+
+  "chapter.mekanism.quest.27.subtitle.1": "Yellow Solar Panel",
+  "chapter.mekanism.quest.27.description.1": "Generates 4.56 kFE/t",
+
+  "chapter.mekanism.quest.28.subtitle.1": "Purple Solar Panel",
+  "chapter.mekanism.quest.28.description.1": "Generates 1.52 kFE/t",
+
+  "chapter.mekanism.quest.29.subtitle.1": "Cyan Solar Panel",
+  "chapter.mekanism.quest.29.description.1": "Generates 507.60 FE/t",
+
+  "chapter.mekanism.quest.30.subtitle.1": "Blue Solar Panel",
+  "chapter.mekanism.quest.30.description.1": "Generates 160.20 FE/t",
+
+  "chapter.mekanism.quest.31.subtitle.1": "Black Solar Panel",
+  "chapter.mekanism.quest.31.description.1": "Generates 56.40 FE/t",
+
+  "chapter.mekanism.quest.32.subtitle.1": "Absolute Storage",
+  "chapter.mekanism.quest.32.description.1": "An &bEnergy Cube&f is an advanced type of battery that is compatible with multiple energy systems. Energy can be input from 5 sides, and output on 1 side.",
+  "chapter.mekanism.quest.32.description.2": "This Cube can store 409.60 MFE.",
+
+  "chapter.mekanism.quest.33.subtitle.1": "Supreme Storage",
+  "chapter.mekanism.quest.33.description.1": "This Cube can store 1.63 GFE",
+
+  "chapter.mekanism.quest.34.subtitle.1": "Cosmic Storage",
+  "chapter.mekanism.quest.34.description.1": "This Cube can store 6.55 GFE",
+
+  "chapter.mekanism.quest.35.subtitle.1": "Infinite Storage",
+  "chapter.mekanism.quest.35.description.1": "This Cube can store 26.21 GFE",
+
+  "chapter.mekanism.quest.36.subtitle.1": "Ultimate Storage",
+  "chapter.mekanism.quest.36.description.1": "This Cube can store 102.40 MFE",
+
+  "chapter.mekanism.quest.37.subtitle.1": "Elite Storage",
+  "chapter.mekanism.quest.37.description.1": "This Cube can store 25.60 MFE",
+
+  "chapter.mekanism.quest.38.subtitle.1": "Advanced Storage",
+  "chapter.mekanism.quest.38.description.1": "This Cube can store 6.40 MFE",
+
+  "chapter.mekanism.quest.39.subtitle.1": "Basic Storage",
+  "chapter.mekanism.quest.39.description.1": "This Cube can store 1.60 MFE",
+
+  "chapter.mekanism.quest.40.title": "Induction Matrix",
+  "chapter.mekanism.quest.40.subtitle.1": "Storage Complex",
+  "chapter.mekanism.quest.40.description.1": "&bInduction Casing&f makes up the multi-block that is the &eInduction Matrix&f, an &6energy storage&f structure that can hold a large amount of energy.",
+
+  "chapter.mekanism.quest.41.subtitle.1": "Providing Matrix : Basic",
+  "chapter.mekanism.quest.41.description.1": "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.42.subtitle.1": "Providing Matrix : Advanced",
+  "chapter.mekanism.quest.42.description.1" : "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.43.subtitle.1": "Providing Matrix : Elite",
+  "chapter.mekanism.quest.43.description.1" : "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.44.subtitle.1": "Providing Matrix : Ultimate",
+  "chapter.mekanism.quest.44.description.1" : "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+
+  "chapter.mekanism.quest.45.subtitle.1": "Basic Cell",
+  "chapter.mekanism.quest.45.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.mekanism.quest.46.subtitle.1": "Advanced Cell",
+  "chapter.mekanism.quest.46.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.mekanism.quest.47.subtitle.1": "Elite Cell",
+  "chapter.mekanism.quest.47.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.mekanism.quest.48.subtitle.1": "Ultimate Cell",
+  "chapter.mekanism.quest.48.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+
+  "chapter.mekanism.quest.49.subtitle.1": "Enriching",
+  "chapter.mekanism.quest.49.description.1": "This machine uses energy to extract &6dusts &rout of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the &6Crusher&f, this machine is the pulverizer equivalent in other mods.",
+  "chapter.mekanism.quest.49.description.2": "Can also be used to turn Coal or Charcoal into &2Compressed Carbon&r, Redstone into &2Compressed Redstone&r, Diamond into &2Compressed Diamond&r and Refined Obsidian Dust into &2Compressed Obsidian&r, all of which are used in the &6Metallurgic Infuser&f.",
+
+  "chapter.mekanism.quest.50.subtitle.1": "Furnace with FE",
+  "chapter.mekanism.quest.50.description.1": "The &benergized smelter&f is your basic &5electric furnace&f that uses energy instead of fuel to &6smelt items&f.",
+
+  "chapter.mekanism.quest.51.subtitle.1": "Creating Ores",
+  "chapter.mekanism.quest.51.description.1": "The &bCombiner&f allows the player to create an &aore block&f from &28 dusts&f.",
+
+  "chapter.mekanism.quest.52.subtitle.1": "Clumping",
+  "chapter.mekanism.quest.52.description.1": "The &bPurification Chamber&f uses &7oxygen&f to refine Ores and shards into &eclumps&f. Each ore makes 3 clumps, whereas each shard only gives one clump.",
+
+  "chapter.mekanism.quest.53.subtitle.1": "Gas Extraction",
+  "chapter.mekanism.quest.53.description.1": "The &bElectrolytic Separator&f sends controlled amounts of direct current into a fluid, causing the atoms in the fluid to break their bonds. This process of electrolysis is used to &ecreate some very useful gases&f from some rather ordinary fluids.",
+
+  "chapter.mekanism.quest.54.subtitle.1": "Chemical Transformation",
+  "chapter.mekanism.quest.54.description.1": "The &bRotary Condensentrator&f is used for converting substances between liquid and gaseous forms at a rate of 1:1.",
+  "chapter.mekanism.quest.54.description.2": "It has two modes:",
+  "chapter.mekanism.quest.54.description.3": "&6Decondensentrating&f, which turns Liquids into Gases.",
+  "chapter.mekanism.quest.54.description.4": "&6Condensentrating&f, which turns Gases into Liquids.",
+
+  "chapter.mekanism.quest.55.subtitle.1": "HDPE Creation",
+  "chapter.mekanism.quest.55.description.1": "The &bPressurized Reaction Chamber (PRC)&f is used primarily to create &1Substrate&f (to create HDPE Pellets), &1HDPE Pellets&f (to create HDPE Sheets), and &1Ethylene&f (an efficient source of fuel used in the Gas-Burning Generator).",
+
+  "chapter.mekanism.quest.56.subtitle.1": "Gas Fusion",
+  "chapter.mekanism.quest.56.description.1": "The &bChemical Infuser&f combines or reacts two gases to create another gas.",
+
+  "chapter.mekanism.quest.57.subtitle.1": "Cleaning",
+  "chapter.mekanism.quest.57.description.1": "The &bChemical Crystallizer&f turns Clean Slurry into Crystals and Lithium into Lithium Dust.",
+
+  "chapter.mekanism.quest.58.subtitle.1": "Slurry Creation",
+  "chapter.mekanism.quest.58.description.1": "The &bChemical Dissolution Chamber&f is the first machine in the &cx5 ore processing setup&f. It turns &6raw ores&f into &6slurry&f using Sulfuric Acid.",
+
+  "chapter.mekanism.quest.59.subtitle.1": "Gas Maker",
+  "chapter.mekanism.quest.59.description.1": "The &bChemical Oxidizer&f is used for making gases from materials.",
+
+  "chapter.mekanism.quest.60.subtitle.1": "Cleaning Slurries",
+  "chapter.mekanism.quest.60.description.1": "The &bChemical Washer&f turns Slurry into Clean Slurry using Water.",
+
+  "chapter.mekanism.quest.61.subtitle.1": "Gas to Shards",
+  "chapter.mekanism.quest.61.description.1": "The &bChemical Injection Chamber&f uses Hydrogen Chloride gas to turn ores into 4 Shards.",
+
+  "chapter.mekanism.quest.62.subtitle.1": "Sawing Woods for Planks",
+
+  "chapter.mekanism.quest.63.subtitle.1": "Osmium Compressing",
+  "chapter.mekanism.quest.63.description.1": "The &bOsmium Compressor&f is used to create &aRefined Obsidian Ingots &ffrom Refined Obsidian Dust and &aGlowstone Ingots&f from Glowstone Dust.",
+
+  "chapter.mekanism.quest.64.subtitle.1": "Crushing Items",
+
+  "chapter.mekanism.quest.65.subtitle.1": "Stabilizing Energy",
+  "chapter.mekanism.quest.65.description.1": "The &bEnergy Upgrade&f upgrade allows you to increase the &epower storage capacity&f of a Mekanism machine which has an upgrade slot, as well as &ereduce its power consumption&f.",
+
+  "chapter.mekanism.quest.66.subtitle.1": "Stop the Noise !",
+  "chapter.mekanism.quest.66.description.1": "The &bMuffling Upgrade&r reduces noise from Mekanism machinery. This upgrade works well with the Precision Sawmill, as it produces a lot of noise when active.",
+
+  "chapter.mekanism.quest.67.subtitle.1": "Stoning",
+  "chapter.mekanism.quest.67.description.1": "Added a Stone Generator Upgrade. When installed in a Digital Miner, this upgrade is capable of fulfilling “replace stack” requests of both Stone and Cobblestone",
+
+  "chapter.mekanism.quest.68.subtitle.1": "Alloying",
+  "chapter.mekanism.quest.68.description.1": "The &bMetallurgic Infuser&f is the first step in the Mekanism tech tree. The &bMetallurgic Infuser&f is a machine used in the production of &aSteel Ingots&f, &aBronze Ingot&f, &aEnriched Alloy&f, and &aObsidian Ingots&f.",
+
+  "chapter.mekanism.quest.69.subtitle.1": "Gotta go Fast",
+  "chapter.mekanism.quest.69.description.1": "The &bSpeed upgrade&f is made to &eprocess items faster&f, you can install 8 of these in each Mekanism machine.",
+
+  "chapter.mekanism.quest.70.subtitle.1": "Heavy Water",
+  "chapter.mekanism.quest.70.description.1": "The &bFilter Upgrade&f is an upgrade that, when used in the &eElectric Pump&f, allows the Electric Pump to produce &9Heavy Water&f.",
+
+  "chapter.mekanism.quest.71.subtitle.1": "Efficient Gas",
+  "chapter.mekanism.quest.71.description.1": "The &bGas Upgrade&f allows you to &eincrease the gas usage efficiency&f of a Mekanism machine which allows it.",
+
+  "chapter.mekanism.quest.72.subtitle.1": "QIO Manager",
+  "chapter.mekanism.quest.72.description.1": "&dQIO Dashboards&r allow users to interface with the contents of a QIO Drive Array. It looks similar to a chest inventory, but you can search, sort and scroll through. It shows all items of one type as a single stack, even if there are thousands of them. In order to access a drive array, the dashboard must be set to the same frequency as the drive array.",
+
+  "chapter.mekanism.quest.73.subtitle.1": "Basic QIO",
+  "chapter.mekanism.quest.73.description.1": "&bQIO Drives&r are inserted into a Drive Array, allowing it to store more items. Each drive has a number of items and item types it can contain.",
+  "chapter.mekanism.quest.73.description.2": "A basic QIO drive can contain 16 000 items and 128 item types.",
+
+  "chapter.mekanism.quest.74.subtitle.1": "Advanced QIO",
+  "chapter.mekanism.quest.74.description.1": "A Advanced QIO drive can contain 128 000 items and 256 item types.",
+
+  "chapter.mekanism.quest.75.subtitle.1": "Exporting",
+  "chapter.mekanism.quest.75.description.1": "A QIO-linked item export unit. Place on a block and export contents from your QIO systeme to the block.",
+
+  "chapter.mekanism.quest.76.subtitle.1": "Time-Dilating QIO",
+  "chapter.mekanism.quest.76.description.1": "A Time-Dilating QIO drive can contain 1 048 000 items and 1 024 item types",
+
+  "chapter.mekanism.quest.77.subtitle.1": "Supermassive QIO",
+  "chapter.mekanism.quest.77.description.1": "A Supermassive QIO drive can contain 16 000 000 000 items and 8 192 item types",
+
+  "chapter.mekanism.quest.78.subtitle.1": "Portable Storage",
+
+  "chapter.mekanism.quest.79.subtitle.1": "Absolute QIO",
+  "chapter.mekanism.quest.79.description.1": "An Absolute QIO drive can contain 128 000 000 000 items and 32 768 item types",
+
+  "chapter.mekanism.quest.80.subtitle.1": "Supreme QIO",
+  "chapter.mekanism.quest.80.description.1": "A Supreme QIO drive can contain 1 048 000 000 000 items and 131 072 item types",
+
+  "chapter.mekanism.quest.81.subtitle.1": "Importing",
+  "chapter.mekanism.quest.81.description.1": "A QIO-linked item import unit. Place on a block and import its contents to your QIO system.",
+
+  "chapter.mekanism.quest.82.subtitle.1": "Cosmic QIO",
+  "chapter.mekanism.quest.82.description.1": "A Cosmic QIO drive can contain 8 000 000 000 000 items and 131 072 item types",
+
+  "chapter.mekanism.quest.83.subtitle.1": "Infinite QIO",
+  "chapter.mekanism.quest.83.description.1": "An Infinite QIO drive can contain 16 000 000 000 000 items and 2 097 152 item types",
+
+  "chapter.mekanism.quest.84.subtitle.1": "QIO Docking Bay",
+  "chapter.mekanism.quest.84.description.1": "&bQIO Drive Array&r is a blocks that contains QIO Drives and wirelessly transmits their contents to other QIO devices.",
+  "chapter.mekanism.quest.84.description.2": "In order to work, the drive array must be set to a frequency.",
+
+  "chapter.mekanism.quest.85.subtitle.1": "First Enery Cable",
+  "chapter.mekanism.quest.85.description.1": "&bUniversal Cables&f are Mekanism's way to transfer power. Capacity : 3.20 kFE/t",
+
+  "chapter.mekanism.quest.86.subtitle.1": "Advanced Enery Cable",
+  "chapter.mekanism.quest.86.description.1": "Capacity : 51.20 kFE/t.",
+
+  "chapter.mekanism.quest.87.subtitle.1": "Elite Enery Cable",
+  "chapter.mekanism.quest.87.description.1": "Capacity : 409.60 kFE/t.",
+
+  "chapter.mekanism.quest.88.subtitle.1": "Ultimate Enery Cable",
+  "chapter.mekanism.quest.88.description.1": "Capacity : 3.27 MFE/t.",
+
+  "chapter.mekanism.quest.89.subtitle.1": "Absolute Enery Cable",
+  "chapter.mekanism.quest.89.description.1": "Capacity : 26.21 MFE/t.",
+
+  "chapter.mekanism.quest.90.subtitle.1": "Supreme Enery Cable",
+  "chapter.mekanism.quest.90.description.1": "Capacity : 209.71 MFE/t.",
+
+  "chapter.mekanism.quest.91.subtitle.1": "Cosmic Enery Cable",
+  "chapter.mekanism.quest.91.description.1": "Capacity : 1.67 GFE/t.",
+
+  "chapter.mekanism.quest.92.subtitle.1": "Infinite Enery Cable",
+  "chapter.mekanism.quest.92.description.1": "Capacity : 13.42 GFE/t.",
+
+  "chapter.mekanism.quest.93.subtitle.1": "Basic Gas Pipe",
+  "chapter.mekanism.quest.93.description.1": "&bPressurized Tubes&f are used to transport Gases. Capacity : 4k MB.",
+
+  "chapter.mekanism.quest.94.subtitle.1": "Advanced Gas Pipe",
+  "chapter.mekanism.quest.94.description.1": "Capacity : 16k MB",
+
+  "chapter.mekanism.quest.95.subtitle.1": "Elite Gas Pipe",
+  "chapter.mekanism.quest.95.description.1": "Capacity : 256k MB",
+
+  "chapter.mekanism.quest.96.subtitle.1": "Ultimate Gas Pipe",
+  "chapter.mekanism.quest.96.description.1": "Capacity : 1024k MB",
+
+  "chapter.mekanism.quest.97.subtitle.1": "Basic Fluid Pipe",
+  "chapter.mekanism.quest.97.description.1": "&bMechanical Pipe&f is the fluid pipe for Mekanism logistics. It can be used to connect to any blocks with Fluid Handlers in them. Capacity : 2k MB.",
+
+  "chapter.mekanism.quest.98.subtitle.1": "Advanced Fluid Pipe",
+  "chapter.mekanism.quest.98.description.1": "Capacity : 8k MB.",
+
+  "chapter.mekanism.quest.99.subtitle.1": "Elite Fluid Pipe",
+  "chapter.mekanism.quest.99.description.1": "Capacity : 32k MB.",
+
+  "chapter.mekanism.quest.100.subtitle.1": "Ultimate Fluid Pipe",
+  "chapter.mekanism.quest.100.description.1": "Capacity : 128k MB.",
+
+  "chapter.mekanism.quest.101.subtitle.1": "Absolute Fluid Pipe",
+  "chapter.mekanism.quest.101.description.1": "Capacity : 512k MB.",
+
+  "chapter.mekanism.quest.102.subtitle.1": "Supreme Fluid Pipe",
+  "chapter.mekanism.quest.102.description.1": "Capacity : 2048k MB.",
+
+  "chapter.mekanism.quest.103.subtitle.1": "Cosmic Fluid Pipe",
+  "chapter.mekanism.quest.103.description.1": "Capacity : 8192k MB.",
+
+  "chapter.mekanism.quest.104.subtitle.1": "Infinite Fluid Pipe",
+  "chapter.mekanism.quest.104.description.1": "Capacity : 32768k MB.",
+
+  "chapter.mekanism.quest.105.subtitle.1": "Basic Heat Pipe",
+  "chapter.mekanism.quest.105.description.1": "Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat.",
+
+  "chapter.mekanism.quest.106.subtitle.1": "Advanced Heat Pipe",
+  "chapter.mekanism.quest.106.description.1": "Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat.",
+
+  "chapter.mekanism.quest.107.subtitle.1": "Elite Heat Pipe",
+  "chapter.mekanism.quest.107.description.1": "Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat.",
+
+  "chapter.mekanism.quest.108.subtitle.1": "Ultimate Heat Pipe",
+  "chapter.mekanism.quest.108.description.1": "Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat.",
+
+  "chapter.mekanism.quest.109.subtitle.1": "Basic Transport Pipe",
+  "chapter.mekanism.quest.109.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 1 m/s.",
+
+  "chapter.mekanism.quest.110.subtitle.1": "Advanced Transport Pipe",
+  "chapter.mekanism.quest.110.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 2 m/s.",
+
+  "chapter.mekanism.quest.111.subtitle.1": "Elite Transport Pipe",
+  "chapter.mekanism.quest.111.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 4 m/s.",
+
+  "chapter.mekanism.quest.112.subtitle.1": "Ultimate Transport Pipe",
+  "chapter.mekanism.quest.112.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 10 m/s.",
+
+  "chapter.mekanism.quest.113.subtitle.1": "Absolute Transport Pipe",
+  "chapter.mekanism.quest.113.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 20 m/s.",
+
+  "chapter.mekanism.quest.114.subtitle.1": "Supreme Transport Pipe",
+  "chapter.mekanism.quest.114.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 40 m/s.",
+
+  "chapter.mekanism.quest.115.subtitle.1": "Cosmic Transport Pipe",
+  "chapter.mekanism.quest.115.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 80 m/s.",
+
+  "chapter.mekanism.quest.116.subtitle.1": "Infinite Transport Pipe",
+  "chapter.mekanism.quest.116.description.1": "&bLogistical Transporter&r are used for transport item. Speed : 160 m/s.",
+
+  "chapter.mekanism.quest.117.subtitle.1": "Ultimate Helmet",
+
+  "chapter.mekanism.quest.118.subtitle.1": "Ultimate Chestplate",
+
+  "chapter.mekanism.quest.119.subtitle.1": "Ultimate Leggings",
+
+  "chapter.mekanism.quest.120.subtitle.1": "Ultimate Boots",
+
+  "chapter.mekanism.quest.121.subtitle.1": "Hyper Modulation",
+
+  "chapter.mekanism.quest.122.subtitle.1": "More Ores",
+  "chapter.mekanism.quest.122.description.1": "Increases Ore Yields",
+
+  "chapter.mekanism.quest.123.subtitle.1": "Magnetic Boots",
+  "chapter.mekanism.quest.123.description.1": "&bMagnetic Attraction Unit&r is a Module that is applied to the Mekasuit Boots.",
+  "chapter.mekanism.quest.123.description.2": "As the item Flavor text states '[The unit] Uses Powerful Magnets to draw distant items towards the player', you can install up to 4 on one pair of boots.",
+
+  "chapter.mekanism.quest.124.subtitle.1": "Lava Protection",
+  "chapter.mekanism.quest.124.description.1": "Harnesses geothermal energy from the surronding environment and improves protection against damage from heat sources. Install multiple for faster charging and greater protection.",
+
+  "chapter.mekanism.quest.125.subtitle.1": "Energy Distribution",
+  "chapter.mekanism.quest.125.description.1": "&bCharge Distribution Units&r are modules that distributes gained energy evenly to all MekaSuit armor pieces. Normally if you have installed Solar Recharging Units onto your MekaSuit Helmet, only the helmet will gain all the energy it's producing. With the Charge Distribution Unit installed, the produced energy will be evenly distributed throughout all MekaSuit armor pieces.",
+
+  "chapter.mekanism.quest.126.subtitle.1": "Here comes the BOOM",
+  "chapter.mekanism.quest.126.description.1": "Uses controlled explosiosn to destroy nearby blocks in the target plane.",
+
+  "chapter.mekanism.quest.127.subtitle.1": "Freezing Water",
+  "chapter.mekanism.quest.127.description.1": "uses liquid hydrogen to freeze any water the player walks on? Install multiple for a greater range.",
+
+  "chapter.mekanism.quest.128.subtitle.1": "x2 Energy",
+  "chapter.mekanism.quest.128.description.1": "&bEnergy Units&r are modules that will double the current energy capacity of the selected MekaSuit armor piece.",
+
+  "chapter.mekanism.quest.129.subtitle.1": "Precision on point",
+  "chapter.mekanism.quest.129.description.1": "Allows creation of energy blades for precise cutting. Doesn't add laser swords.",
+
+  "chapter.mekanism.quest.130.subtitle.1": "Lasers? No thanks",
+  "chapter.mekanism.quest.130.description.1": "Refracts and safely dissipates lasers that hit any MekaSuit Armor piece. ",
+
+  "chapter.mekanism.quest.131.subtitle.1": "Ultimine",
+  "chapter.mekanism.quest.131.description.1": "&bVein Mining Unit&r allows for quick mining of ore deposits and rapid felling of trees.",
+
+  "chapter.mekanism.quest.132.subtitle.1": "Jetpacked",
+  "chapter.mekanism.quest.132.description.1": "&bJetpack Units&r are modules that allows your MekaSuit Bodyarmor to have the functions of a Jetpack.",
+  "chapter.mekanism.quest.132.description.2": "Once applied, the MekaSuit Bodyarmor will have an internal storage for hydrogen (48,000mb).",
+  "chapter.mekanism.quest.132.description.3": "The Jetpack Unit is best paired with the Electrolytic Breathing Unit. Doing so allows the accumulation of hydrogen when underwater or in the rain. ",
+
+  "chapter.mekanism.quest.133.subtitle.1": "Radi-action",
+  "chapter.mekanism.quest.133.description.1": "Displays the ambient radiation level in the HUD.",
+
+  "chapter.mekanism.quest.134.subtitle.1": "Radioactive Protection",
+  "chapter.mekanism.quest.134.description.1": "&bRadiation Shielding Units&r are modules that allows your MekaSuit armor piece to act like the respective Hazmat Suit pieces and provide protection from radiation.",
+
+  "chapter.mekanism.quest.135.subtitle.1": "Easy Farming",
+  "chapter.mekanism.quest.135.description.1": "&bThe Farming unit&r is a Module that is applied to the Meka-Tool. It Gives the tool several agriculture-based functions, Up to 4 can be stacked on one tool.",
+  "chapter.mekanism.quest.135.description.2": "The Farming unit unlocks the following abilities in the Meka-tool :",
+  "chapter.mekanism.quest.135.description.3": "• Soil tilling",
+  "chapter.mekanism.quest.135.description.4": "• Log stripping",
+  "chapter.mekanism.quest.135.description.5": "• Soil flattening",
+
+  "chapter.mekanism.quest.136.subtitle.1": "Careful Handler",
+  "chapter.mekanism.quest.136.description.1": "&bThe Silk Touch Unit&r is a Module in Mekanism that is installed onto the Meka-Tool, which gives the tool the property of the Silk-Touch Enchantment.",
+
+  "chapter.mekanism.quest.137.subtitle.1": "Radiation Meter",
+  "chapter.mekanism.quest.137.description.1": "&bDosimeter Units&r are modules that will display your radiation dose in the HUD on the bottom right corner.",
+
+  "chapter.mekanism.quest.138.subtitle.1": "Fast Miner",
+  "chapter.mekanism.quest.138.description.1": "&bThe Excavation Escalation Unit&r is a module that when added to a Meka-Tool Increases the Mining speed of all blocks.",
+
+  "chapter.mekanism.quest.139.subtitle.1": "Potion effect, no thanks",
+  "chapter.mekanism.quest.139.description.1": "&bInhalation Purification Units&r are modules that can protect the player from selected potion effects including beneficial, neutral, and harmful ones.",
+
+  "chapter.mekanism.quest.140.subtitle.1": "Mob Slayer",
+  "chapter.mekanism.quest.140.description.1": "&bThe Attack Amplification Unit&r Is a Module that Amplifies Melee attacks to both players and mobs. It can only be applied to the Meka-Tool.",
+
+  "chapter.mekanism.quest.141.subtitle.1": "Sun in my pockets",
+  "chapter.mekanism.quest.141.description.1": "&bSolar Recharging Units&r are modules that charge your MekaSuit during direct exposure to sunlight.",
+
+  "chapter.mekanism.quest.142.subtitle.1": "Teleportation !",
+  "chapter.mekanism.quest.142.description.1": "&bTeleportation Unit &rprovides for quick travel to nearby blocks.",
+
+  "chapter.mekanism.quest.143.subtitle.1": "Under The Sea",
+  "chapter.mekanism.quest.143.description.1": "&bElectrolytic Breathing Units&r are modules that allows you to breathe underwater.",
+  "chapter.mekanism.quest.143.description.2": "In addition, if the Jetpack Unit is installed onto the MekaSuit Bodyarmor, it will automatically begin to refuel its hydrogen supply while underwater or out in the rain.",
+
+  "chapter.mekanism.quest.144.subtitle.1": "Choo-choo",
+  "chapter.mekanism.quest.144.description.1": "&bLocomotive Boosting Units&r are modules that will allow you to boost your sprinting speed and jumping distance.",
+  "chapter.mekanism.quest.144.description.2": "It can be configured from 0.0 sprint boost, to a 0.5 sprint boost. Note that your hunger consumption would also increase.",
+
+  "chapter.mekanism.quest.145.subtitle.1": "Kangaroo",
+  "chapter.mekanism.quest.145.description.1": "&bHydraulic Propulsion Units&r are modules that allows you to climb over a maximum of 2 blocks. It also allows you to jump higher when you hold Left Control and jump (LCrtl+Spacebar).",
+
+  "chapter.mekanism.quest.146.subtitle.1": "It's Feeding Time",
+  "chapter.mekanism.quest.146.description.1": "&bNutritional Injection Units&r are modules that can be installed on a MekaSuit Helmet to remove the need to manually eat.",
+  "chapter.mekanism.quest.146.description.2": "When installed, the MekaSuit helmet will have an internal storage for Nutritional Paste (128,000mb).",
+
+  "chapter.mekanism.quest.147.subtitle.1": "Who needs wings?",
+  "chapter.mekanism.quest.147.description.1": "&bGravitational Modulating Units&r are modules that allows the user to utilize creative flight.",
+  "chapter.mekanism.quest.147.description.2": "If the MekaSuit bodyarmor also has a Jetpack Unit installed, the Jetpack Unit will be automatically disabled if the Gravitational Modulating Unit is enabled, and vice versa.",
+
+  "chapter.mekanism.quest.148.subtitle.1": "Wings of Plastic",
+  "chapter.mekanism.quest.148.description.1": "Applies an HDPE Reinforced Elytra to the MekaSuit.",
+
+  "chapter.mekanism.quest.149.subtitle.1": "Night Vision",
+  "chapter.mekanism.quest.149.description.1": "&bVision Enhancement Units&r are modules that can be installed on a MekaSuit Helmet to improve night vision.",
+
+  "chapter.mekanism.quest.150.subtitle.1": "Moses",
+  "chapter.mekanism.quest.150.description.1": "Uses advanced technology to repel water, lowering the resistance felt while moving through it.",
+
+  "chapter.mekanism.quest.151.subtitle.1": "Acid, No thanks",
+  "chapter.mekanism.quest.151.description.1": "Don't damage from acid rain in Beyond Earth dimensions.",
+
+  "chapter.mekanism.quest.152.subtitle.1": "Grounding Limitation",
+  "chapter.mekanism.quest.152.description.1": "Allows the user to act as though they are on solid ground.",
+
+  "chapter.mekanism.quest.153.subtitle.1": "Breathing",
+  "chapter.mekanism.quest.153.description.1": "Can breath in Beyond Earth dimensions.",
+  "chapter.mekanism.quest.153.description.2": "Will also fill held item with oxygen when in rain, water.",
+  "chapter.mekanism.quest.153.description.3": "Require enabled 'Oxygen Can' in inventory.",
+
+  "chapter.mekanism.quest.154.subtitle.1": "Burning No More",
+  "chapter.mekanism.quest.154.description.1": "You will no longer be in fire on Beyond Earth Dimensions.",
+
+  "chapter.mekanism.quest.155.subtitle.1": "Normal Gravitation",
+  "chapter.mekanism.quest.155.description.1": "Sets the Gravitation to normal on Beyond Earth dimensions.",
+
+  "chapter.mekanism.quest.156.subtitle.1": "Ultimate Mekanism Pickaxe",
+
+  "chapter.mekanism.quest.157.subtitle.1": "Mekanism Ultimate Tool"
 }

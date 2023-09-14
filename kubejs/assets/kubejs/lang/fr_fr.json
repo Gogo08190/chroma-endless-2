@@ -8,7 +8,7 @@
 
   "chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
-  "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
+  "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25%% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
 
   "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
@@ -61,6 +61,14 @@
   "chapter.welcome.quest.11.description.1" : "Si vous souhaitez nous aider dans la traduction des quêtes dans différentes langues, vous pouvez le faire directement sur le Github du modpack.",
 
   "chapter.welcome.quest.12.title.1": "Bienvenue dans Chroma Endless 2 !",
+  "chapter.welcome.quest.12.subtitle.1": "Chroma Endless 2: La Fusion de la Magie, de la Technologie et de l'Exploration",
+  "chapter.welcome.quest.12.description.1": "Plongez dans un univers Minecraft redéfini et perfectionné! Chroma Endless 2 vous offre une expérience de jeu experte où chaque étape est soigneusement conçue pour défier, intriguer et récompenser les joueurs.",
+  "chapter.welcome.quest.12.description.2": "&lCaractéristiques principales :&r",
+  "chapter.welcome.quest.12.description.3": "&6&lProgrès Progressif :&r Le monde ne s'ouvre pas d'un coup; il vous incite à apprendre, à évoluer et à maîtriser chaque mod et mécanique étape par étape.",
+  "chapter.welcome.quest.12.description.4": "&b&lTechnologie et Magie :&r Fusionnez les merveilles de la technologie avancée avec les mystères de la magie arcane. Que vous souhaitiez construire d'imposantes machines ou lancer des sorts puissants, Chroma Endless 2 a quelque chose pour satisfaire tous les technophiles et magiciens en herbe.",
+  "chapter.welcome.quest.12.description.5": "&a&lExploration Sans Frontières :&r Partez à la découverte de nouveaux biomes, de dimensions inexplorées et de planètes lointaines. Rencontrez des créatures étonnantes et dénichez des trésors cachés réservés à ceux qui osent s'aventurer hors des sentiers battus.",
+  "chapter.welcome.quest.12.description.6": "&e&lQuêtes Progressives :&r Pour guider vos aventures, un système de quêtes détaillé vous aidera à comprendre les intrications du modpack, offrant des défis à la fois pour les novices et les vétérans.",
+  "chapter.welcome.quest.12.description.7": "Rejoignez l'aventure et découvrez un monde où les possibilités sont vraiment infinies. Chroma Endless 2 est plus qu'un simple modpack; c'est une histoire que vous écrivez, un défi que vous relevez et un mystère que vous révélez.",
 
   "chapter.group.1" : "&e-- &l&6Avancement Principal&r &e--",
   "chapter.group.2" : "&e-- &l&6Quêtes Secondaires&r &e--",
@@ -329,6 +337,7 @@
   "chapter.stage.2.quest.12.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.12.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
+  "chapter.stage.2.quest.13.title.1": "Condensateur",
   "chapter.stage.2.quest.13.subtitle.1": "Stockage de l'&cIF&r",
   "chapter.stage.2.quest.13.description.1": "Les condensateurs peuvent stocker de l'&cIF&r.",
   "chapter.stage.2.quest.13.description.2": "Vous pouvez utiliser le marteau pour ajuster la configuration de chaque côté.",
@@ -776,6 +785,8 @@
 
   "chapter.stage.3.quest.51.subtitle.1": "Artisanat Automatique de Base",
   "chapter.stage.3.quest.51.description.1": "Artisanat Automatique des Artisanats de Base avec des FE !",
+  "chapter.stage.3.quest.51.description.2": "Afin d'automatiser la table, n'oubliez pas de placer un inventaire (comme une coffre) au-dessus de la Table de craft Automatique.",
+  "chapter.stage.3.quest.51.description.3": "Ensuite, configurez la recette souhaitée et enregistrez-la avec Maj + Clic Gauche dans le coin supérieur gauche (1, 2, 3). Notez qu'il ne fabriquera automatiquement que l'emplacement sauvegardé sélectionné.",
 
   "chapter.stage.3.quest.52.subtitle.1": "Artisanat Automatique Avancé",
   "chapter.stage.3.quest.52.description.1": "Artisanat Automatique des Artisanats Avancés avec des FE !",
@@ -958,6 +969,7 @@
   "chapter.stage.4.quest.14.subtitle.1": "Modulation Supplémentaire",
   "chapter.stage.4.quest.14.description.1": "Peut améliorer les Modules de Tubes pour débloquer des configurations de modules supplémentaires. Également utilisé pour les Composants de fabrication.",
 
+  "chapter.stage.4.quest.15.title" : "Assembleur Pneumatique",
   "chapter.stage.4.quest.15.subtitle.1": "Oui, une Autre Méthode de fabricaton",
   "chapter.stage.4.quest.15.description.1": "Pour pouvoir fabriquer des matériaux de niveau supérieur, vous aurez besoin d'un &5Système d'Assemblage&r, une collection de Machines d'Assemblage.",
   "chapter.stage.4.quest.15.description.2": "Ces machines communiquent entre elles lorsqu'elles sont adjacentes horizontalement. Seule une machine de chaque type peut exister.",
@@ -1118,6 +1130,7 @@
   "chapter.stage.4.quest.69.subtitle.1": "Composant d'Autocrafting",
   "chapter.stage.4.quest.69.description.1": "Utilisez la Chambre de Dissolution pour assembler des Feuilles de HDPE, tous les Processeurs, un Verre de Fluix ME avec du Quartz Certus fondu.",
 
+  "chapter.stage.4.quest.70.title": "Stockage de fabrication",
   "chapter.stage.4.quest.70.subtitle.1": "Opérer les Autocrafts",
   "chapter.stage.4.quest.70.description.1": "Avant d'exécuter une opération d'autocrafting, vous devez disposer d'un dispositif dédié pour abriter la demande de fabrication ainsi que les objets intermédiaires nécessaires aux crafts en plusieurs étapes. Ce dispositif spécialisé est appelé &6Unité de Fabrication CPU&r.",
   "chapter.stage.4.quest.70.description.2": "Un CPU de fabrication est une structure composite formée en assemblant plusieurs blocs en une unité cohérente. Au minimum, il nécessite un bloc de &bStockage de Fabrication&r, et il peut également incorporer des Unités de Fabrication supplémentaires. La configuration de ce multibloc peut varier en taille, mais elle doit être en forme de cuboïde solide pour s'établir et fonctionner avec succès.",
@@ -1148,6 +1161,7 @@
   "chapter.stage.4.quest.79.subtitle.1": "Personne ne Peut Vous Entendre Mourir",
   "chapter.stage.4.quest.79.description.1": "Sans ceci, vous ne pourrez pas respirer dans l'Espace.",
 
+  "chapter.stage.4.quest.80.title" : "Armure spatiale",
   "chapter.stage.4.quest.80.subtitle.1": "Combinaison Spatiale",
   "chapter.stage.4.quest.80.description.1": "Une protection vraiment efficace pour l'exploration spatiale.",
 
@@ -1282,9 +1296,11 @@
   "chapter.stage.4.quest.127.subtitle.1": "Stockage par Induction",
   "chapter.stage.4.quest.127.description.1": "La Matrice d'Induction peut stocker une quantité vraiment importante de FE. Ce sont les principales composantes pour la construire.",
 
+  "chapter.stage.4.quest.128.title": "Cellules d'induction",
   "chapter.stage.4.quest.128.subtitle.1": "Cellules de Matrice d'Induction",
   "chapter.stage.4.quest.128.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daugmente la capacité totale de stockage d'énergie&f d'une Matrice.",
 
+  "chapter.stage.4.quest.129.title": "Fournisseurs d'induction",
   "chapter.stage.4.quest.129.subtitle.1": "Fournisseurs de Matrice",
   "chapter.stage.4.quest.129.description.1": "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut délivrer par tick&f à travers le Port d'Induction.",
 
@@ -1334,7 +1350,7 @@
   "chapter.stage.5.quest.10.description.1": "Exécuter des simulations nécessite de l'énergie (en fonction du type de modèle) et un élément catalyseur, qui est généralement une Matrice de Prédiction.",
 
   "chapter.stage.5.quest.11.subtitle.1": "Pilleur de Prédiction",
-  "chapter.stage.5.quest.11.description.1": "Une fois que votre modèle est Basique ou supérieur, vous pouvez utiliser la chambre de simulation pour exécuter des simulations de votre modèle. Les simulations produiront toujours une prédiction généralisée, et peuvent également produire une Prédiction de Mob, en fonction de la précision du modèle. Plus le niveau du modèle est élevé, plus la précision est grande, jusqu'à 99,5% en Self Aware.",
+  "chapter.stage.5.quest.11.description.1": "Une fois que votre modèle est Basique ou supérieur, vous pouvez utiliser la chambre de simulation pour exécuter des simulations de votre modèle. Les simulations produiront toujours une prédiction généralisée, et peuvent également produire une Prédiction de Mob, en fonction de la précision du modèle. Plus le niveau du modèle est élevé, plus la précision est grande, jusqu'à 99,5%% en Self Aware.",
 
   "chapter.stage.5.quest.12.subtitle.1": "Simulation Gaia",
   "chapter.stage.5.quest.12.description.1": "Obtenez une prédiction du Gardien de Gaia avec la Chambre de Simulation.",
@@ -1601,7 +1617,7 @@
   "chapter.stage.6.quest.36.subtitle.1": "Alliage Cosmique",
   "chapter.stage.6.quest.36.description.1": "Infusez simplement un Alliage Suprême avec l'infusion de Venustar Luminae.",
 
-  "chapter.stage.6.quest.37.title": "Le Réacteur de Fusion",
+  "chapter.stage.6.quest.37.title": "Le Réacteur à Fusion",
   "chapter.stage.6.quest.37.subtitle.1": "Réacteur Ultime",
   "chapter.stage.6.quest.37.description.1": "Le &bRéacteur de Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
   "chapter.stage.6.quest.37.description.2": "• 75x Structure de Reacteur à fusion (Construction + autres pièces du réacteur).",
@@ -1613,10 +1629,10 @@
   "chapter.stage.6.quest.38.subtitle.1": "Transformation en Bouillie",
   "chapter.stage.6.quest.38.description.1": "Transformez n'importe quel minerai avec de l'Acide Sulfurique en sa Bouillie correspondante.",
 
+  "chapter.stage.6.quest.39.title": "Kit de Démarrage pour Réacteur",
   "chapter.stage.6.quest.39.subtitle.1": "Configuration de Démarrage du Réacteur",
   "chapter.stage.6.quest.39.description.1": "&bLe Réacteur de Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
-  "chapter.stage.6.quest.39.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutéri
-um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
+  "chapter.stage.6.quest.39.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutérium et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
   "chapter.stage.6.quest.39.description.3": "L'onglet statistiques détaille la température d'ignition nécessaire pour que la réaction commence. Pour atteindre cette température, un Amplificateur Laser doit être chargé d'énergie provenant de plusieurs Lasers l'alimentant, et tiré dans la Matrice de Focus Laser. L'énergie nécessaire pour démarrer la réaction requiert 400MFE. Elle doit être injectée en une seule grande impulsion pour éviter que la température ne se dissipe, donc ajouter une sensibilité au Redstone ou augmenter l'énergie minimale requise par l'Amplificateur empêchera son déclenchement prématuré.",
   "chapter.stage.6.quest.39.description.4": "Avec le Hohlraum dans le Contrôleur de Réacteur et suffisamment d'énergie stockée dans l'Amplificateur, tirez le laser pour commencer la réaction de fusion. Si une température suffisamment élevée a été atteinte, vous devriez immédiatement voir et entendre le réacteur fonctionner. Pour soutenir la réaction, la température ne doit pas descendre en dessous de la température d'ignition. Assurez-vous que le taux d'injection est suffisamment élevé et que le carburant est constamment fourni.",
 
@@ -1627,6 +1643,7 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
 
   "chapter.stage.6.quest.42.subtitle.1": "Stockage d'Énergie Cosmique",
 
+  "chapter.stage.6.quest.43.title": "Réacteur de fusion alchimique",
   "chapter.stage.6.quest.43.subtitle.1": "Fusionneur d'Élément Chimique",
   "chapter.stage.6.quest.43.description.1": "Combine 2 Éléments Chimiques compatibles pour obtenir un Super Élément Chimique.",
 
@@ -1656,7 +1673,7 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
   "chapter.stage.7.quest.7.subtitle.1": "Automatisation des Crafts Ultime !",
 
   "chapter.stage.7.quest.8.subtitle.1": "Maestro de Craft",
-  "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 recettes ! N'oubliez pas que cela fonctionne avec Applied. Voir étape 4 de la page des quêtes pour automatiser les crafts.",
+  "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 recettes ! N'oubliez pas que cela fonctionne avec Applied, voir Étape 4 pour l'Automatisation.",
 
   "chapter.stage.7.quest.9.subtitle.1": "Fusion Chimique du Bismuth",
   "chapter.stage.7.quest.9.description.1": "Avec le Réacteur de Fusion, obtenez de l'Élément Césium",
@@ -1714,6 +1731,7 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
 
   "chapter.stage.7.quest.30.subtitle.1": "Stockage d'Énergie Photonique",
 
+  "chapter.stage.7.quest.31.title": "Stockage d'énergie draconique",
   "chapter.stage.7.quest.31.subtitle.1": "Stockage de l'Énergie Draconique",
   "chapter.stage.7.quest.31.description.1": "Le &dStockage d'Énergie Draconique&r est utilisé pour stocker beaucoup d'énergie.",
   "chapter.stage.7.quest.31.description.2": "Le &dCœur Énergétique&r est au centre de la boule draconique.",
@@ -1749,9 +1767,10 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
   "chapter.stage.7.quest.31.description.32": "• 786 Draconium Blocks",
   "chapter.stage.7.quest.31.description.33": "• 36 Energy Core Stabilizer",
 
+  "chapter.stage.7.quest.32.title": "Déphaseur en phase supercritique",
   "chapter.stage.7.quest.32.subtitle.1": "Antimatière",
-  "chapter.stage.7.quest.32.description.1": "A &dSupercritical Phase Shifter&r is a multiblock structure that consumes large amount of energy and polonium gas to create antimatter gas, which can be crystallized into antimatter pellets. Antimatter pellets are used in a number of endgame recipes.",
-  "chapter.stage.7.quest.32.description.2": "The optimal minimal build consists of :",
+  "chapter.stage.7.quest.32.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs recettes de fin de partie.",
+  "chapter.stage.7.quest.32.description.2": "La construction minimale optimale se compose de :",
   "chapter.stage.7.quest.32.description.3": "• 60 Structures du SPS (+12 matériaux de fabrication pour 3 Ports du SPS)",
   "chapter.stage.7.quest.32.description.4": "• 123 Verres de réacteur ou verre structurel",
   "chapter.stage.7.quest.32.description.5": "• 3 Ports du SPS",
@@ -1781,15 +1800,14 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
 
   "chapter.stage.7.quest.41.title": "Tuez le &4Choas Guardian",
   "chapter.stage.7.quest.41.subtitle.1": "Tuez la bête",
-  "chapter.stage.7.quest.41.description.1": "Pour affronter le boss, il faut trouver sur une grille de 10000 blocs sur 10000 blocs une zone de combat. Par exemple, on peut en trouver aux coordonnées x = -10000 et z = 10000",
 
   "chapter.stage.7.quest.42.subtitle.1": "Butin du chaos",
 
   "chapter.stage.7.quest.43.subtitle.1": "Contrôle du Chaos",
-"chapter.stage.7.quest.43.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combinez un Draconic Energy Controller, des Small Chaos Fragments, un Infinite Control Circuit avec un Draconic Core.",
+  "chapter.stage.7.quest.43.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combinez un Draconic Energy Controller, des Small Chaos Fragments, un Infinite Control Circuit avec un Draconic Core.",
 
-"chapter.stage.7.quest.44.subtitle.1": "Cœur du Chaos",
-"chapter.stage.7.quest.44.description.1": "Avec le Fusion Crafting Core au tier Draconique, combinez les Draconic Cores et des lingots d'Awakened Draconium avec un Large Chaos Fragments.",
+  "chapter.stage.7.quest.44.subtitle.1": "Cœur du Chaos",
+  "chapter.stage.7.quest.44.description.1": "Avec le Fusion Crafting Core au tier Draconique, combinez les Draconic Cores et des lingots d'Awakened Draconium avec un Large Chaos Fragments.",
 
   "chapter.stage.7.quest.45.subtitle.1": "Injecteur Chaotic",
   "chapter.stage.7.quest.45.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combiner des Draconic Cores, Large Chaos Fragments, un Dragon Egg, un pastille d'Antimatière et un Chaotic Core avec un Awakened Crafting Injector.",
@@ -1804,5 +1822,996 @@ um et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il 
   "chapter.stage.7.quest.48.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Tiny Chaos Fragments.",
 
   "chapter.stage.7.quest.49.subtitle.1": "Fabrication du Chaos Partie 2",
-  "chapter.stage.7.quest.49.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Chaos Hearts."
+  "chapter.stage.7.quest.49.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Chaos Hearts.",
+
+  "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.machinery.title": "Machinerie Lourde",
+
+  "chapter.machinery.quest.1.title.1": "Regardez un &6Concasseur&r complet",
+  "chapter.machinery.quest.1.subtitle.1": "Concassage Immersif",
+  "chapter.machinery.quest.1.description.1": "Le Concasseur est un multibloc de 3×5×3 ajouté par Immersive Engineering. Il est utilisé pour broyer les minerais en poudre, ce qui est plus efficace que de cuire directement le minerais.",
+  "chapter.machinery.quest.1.description.2": "Le Concasseur n'a pas d'interface graphique. La machine accepte toute forme d'énergie Forge (FE) ou Redstone Flux (RF) par le haut du multibloc.",
+
+  "chapter.machinery.quest.2.title.1": "Regardez une &6Scie a bois&r complète",
+  "chapter.machinery.quest.2.subtitle.1": "Sciage de Planches",
+  "chapter.machinery.quest.2.description.1": "La Scie a bois est un multibloc de traitement du bois 3×5×3 ajouté par Immersive Engineering. Elle transforme 1 Bûche en 6 Planches.",
+
+  "chapter.machinery.quest.3.title.1": "Regardez un &6Assembleur&r complet",
+  "chapter.machinery.quest.3.subtitle.1": "Autocrafting Immersif",
+  "chapter.machinery.quest.3.description.1": "L'Assembleur est un multi-bloc 3x3x3 ajouté par Immersive Engineering. Il est utilisé pour fabriquer automatiquement des objets. Les recettes peuvent être définies à l'intérieur de l'Assembleur. Les réservoirs de liquide dans l'Assembleur sont également capables d'utiliser des seaux de liquide comme pour fabriquer le Bois Traités.",
+
+  "chapter.machinery.quest.4.title.1": "Regardez un &6Atelier de l'Ingénieur Automatisé&r complet",
+  "chapter.machinery.quest.4.subtitle.1": "Automatisation des Plans de l'ingénieur",
+  "chapter.machinery.quest.4.description.1": "L'Atelier de l'ingénieur automatisé est un multi-bloc de 3x2x3 ajouté par Immersive Engineering. C'est une version automatisée de l'Établi de l'ingénieur. Le Flux Redstone (RF) est nécessaire pour que l'Atelier de l'ingénieur automatisé fonctionne. Il est introduit par l'endroit où se trouvait le Bloc d'ingénierie léger lors de la création de la structure multi-bloc. Dans l'interface de l'Atelier de l'ingénieur automatisé, un Plan d'ingénieur doit être ajouté pour qu'il fonctionne.",
+
+  "chapter.machinery.quest.5.title.1": "Regardez un &6Réservoir&r complet",
+  "chapter.machinery.quest.5.subtitle.1": "Stockage de liquide",
+  "chapter.machinery.quest.5.description.1": "Le réservoir peut stocker 512 000 mB (512 seaux). Les liquides peuvent être acheminés par le haut et extraits par les blocs du bas. Pour que le liquide soit retiré, un signal redstone est nécessaire. De plus, une pompe à fluide (Immersive Engineering) peut être utilisée pour accélérer la sortie.",
+
+  "chapter.machinery.quest.6.title.1": "Regardez un &6Silo à objets&r complet",
+  "chapter.machinery.quest.6.subtitle.1": "Stockage d'objets",
+  "chapter.machinery.quest.6.description.1": "Le Silo en Tôle peut stocker 41 472 objets (l'équivalent de 24 coffres). Cependant, tous ces objets doivent être identiques. Les objets peuvent être introduits par le bloc supérieur et retirés par le bloc inférieur. Le retrait des objets nécessite un signal Redstone. Le Silo affichera visuellement l'objet stocké et sa quantité sur chaque côté du Silo.",
+
+  "chapter.machinery.quest.7.title.1": "Regardez un &6Oil Tank&r complet",
+  "chapter.machinery.quest.7.subtitle.1": "Un meilleur stockage de fluides.",
+  "chapter.machinery.quest.7.description.1": "Le Oil Tank est un réservoir de liquide auto-nivelant plus grand que le Fluid Tank normal, avec des ports de fluide en haut et en bas de chaque côté. Il peut stocker 1024B de tout fluide non gazeux.",
+
+  "chapter.machinery.quest.8.title.1": "Regardez un &6Haut fourneau amélioré&r complet",
+  "chapter.machinery.quest.8.subtitle.1": "Sujet brûlant",
+  "chapter.machinery.quest.8.description.1": "Le Haut fourneau amélioré est un four multibloc ajouté par Immersive Engineering qui allie le fer avec du coke pour produire de l'acier. C'est le niveau supérieur du Haut fourneau brut, capable d'être automatisé et plus rapide une fois que les préchauffeurs de haut fourneau sont ajoutés.",
+  "chapter.machinery.quest.8.description.2": "Le Haut fourneau amélioré possède des trappes pour exporter automatiquement l'acier et le slag dans les inventaires adjacents. Le coke et le fer peuvent être introduits par le haut du four. L'acier sort par l'avant, et le slag sort par l'arrière. Les trous de chaque côté servent à ajouter les préchauffeurs de haut fourneau.",
+
+  "chapter.machinery.quest.9.title.1": "Regardez un &6High-Pressure Refinery Unit&r complet",
+  "chapter.machinery.quest.9.subtitle.1": "Raffinage Immersif",
+  "chapter.machinery.quest.9.description.1": "L'High Pressure Refinery Unit chauffe et combine des fluides dans son tambour de réaction principal. Elle est essentielle aux chaînes de processus secondaires dans le raffinage pétrolier moderne, y compris le craquage et la désulfuration.",
+
+  "chapter.machinery.quest.10.title.1": "Regardez un &6Distillation Tower&r complète",
+  "chapter.machinery.quest.10.subtitle.1": "Distillation en colonne",
+  "chapter.machinery.quest.10.description.1": "La Distillation Tower est un grand multi-bloc de 4x16x4 ajouté par Immersive Petroleum, utilisé pour transformer des fluides en d'autres fluides. Elle est principalement utilisée pour convertir le Pétrole Brut en Diesel et Gasoline ainsi qu'en Lubrifiant, créant du bitumen comme sous-produit.",
+
+  "chapter.machinery.quest.11.title.1": "Regardez un &6Derrick&r complet",
+  "chapter.machinery.quest.11.subtitle.1": "Tour de Localisation de Pétrole",
+
+  "chapter.machinery.quest.12.title.1": "Regardez un &6Coker&r complet",
+  "chapter.machinery.quest.12.subtitle.1": "Craqueur de Bitume",
+  "chapter.machinery.quest.12.description.1": "Le Coker est une machine massive qui fissure et carbonise le bitume résiduel de la distillation en coke de pétrole et en diesel sulfuré.",
+
+  "chapter.machinery.quest.13.title.1": "Regardez un &6Excavateur&r complet",
+  "chapter.machinery.quest.13.subtitle.1": "Génération de Minerais",
+  "chapter.machinery.quest.13.description.1": "L'Excavator est une machine multibloc de 8×3×7 ajoutée par Immersive Engineering qui creuse dans les gisements minéraux situés sous le bedrock.",
+
+  "chapter.machinery.quest.14.title.1": "Regardez un &6Pumpjack&r complet",
+  "chapter.machinery.quest.14.subtitle.1": "Maestro de Pompage",
+  "chapter.machinery.quest.14.description.1": "Le Pumpjack est un multibloc de 6×4×3 ajouté par Immersive Petroleum. Il extrait des liquides comme le Crude Oil de réservoirs situés sous le bedrock. Une Foreuse d'échantillonnage teste la présence de ces réservoirs. Une fois alimenté et qu'un tuyau vide est connecté à l'un des ports de liquide, le pumpjack opère à un débit de 15 mB/tick. Si un réservoir est présent en dessous, il amène le Crude Oil à la surface. Plusieurs Pumpjacks dans un même chunk augmentent le taux d'extraction. Si le réservoir est vidé, jusqu'à 6 mB/tick de Crude Oil peuvent continuer à être extraits du réservoir vidé en utilisant un seul Pumpjack.",
+
+  "chapter.machinery.quest.15.title.1": "Regardez un &6Paratonnerre&r complet",
+  "chapter.machinery.quest.15.subtitle.1": "Énergie de l'Orage",
+  "chapter.machinery.quest.15.description.1": "Le Paratonnerre est relativement simple à fabriquer. Il utilise 8 blocs de bobine en cuivre, 4 échafaudages en acier, 4 condensateurs haute tension, 4 blocs d'ingénierie légère, 4 clôtures en bois traité et 3 blocs de bobine haute tension.",
+
+  "chapter.machinery.quest.16.title.1": "Regardez un &6Générateur Diesel&r complet",
+  "chapter.machinery.quest.16.subtitle.1": "Générateur d'Immersive ultime",
+  "chapter.machinery.quest.16.description.1": "Le Générateur Diesel est une structure multi-blocs de dimensions 3×5×3 ajoutée par Immersive Engineering. Il génère du Flux Immersif (IF) ou du Flux de Redstone (RF) en brûlant du Biodiesel ou d'autres carburants. Un Générateur Diesel en marche émet un bruit assez important. Les protecteurs d'oreilles peuvent atténuer son bruit.",
+
+  "Powah":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.powah.title": "Powah",
+
+  "chapter.powah.quest.1.title": "Conseils sur les Réacteurs",
+  "chapter.powah.quest.1.subtitle.1": "Le réacteur est un générateur multi-bloc qui utilise l'uraninite comme carburant principal.",
+  "chapter.powah.quest.1.description.1": "Pour le construire, vous aurez besoin de 36 blocs de réacteur dans votre main et de les placer dans une zone remplaçable de 3X4, puis le réacteur terminera sa construction automatiquement.",
+  "chapter.powah.quest.1.description.2": "Lors de la génération d'énergie, le réacteur chauffe, ce qui le pousse à consommer du carburant plus rapidement et à générer moins de FE/t, vous devez donc le refroidir en utilisant un liquide de refroidissement comme l'eau, vous pouvez également utiliser un liquide de refroidissement solide comme la neige ou la glace pour un refroidissement supplémentaire, le refroidissement solide nécessite un refroidissement liquide pour fonctionner.",
+
+  "chapter.powah.quest.2.title": "Conseils sur les Panneaux Solaires",
+  "chapter.powah.quest.2.subtitle.1": "Énergie Solaire",
+  "chapter.powah.quest.2.description.1": "Le panneau solaire est un générateur FE qui génère de l'énergie lorsqu'il est exposé à la lumière du soleil, les niveaux supérieurs génèrent plus de FE/t, tout bloc qui arrête la lumière au-dessus du panneau solaire arrêtera sa production.",
+
+  "chapter.powah.quest.3.title": "Conseils sur les Magmators",
+  "chapter.powah.quest.3.subtitle.1": "Le Magmator est un générateur FE qui génère de l'énergie à partir de fluides à haute température comme la lave.",
+  "chapter.powah.quest.3.description.1": "Les niveaux supérieurs génèrent plus de FE/t et ont une sortie d'énergie plus élevée, de plus, ils brûlent le carburant plus rapidement avec la même énergie gagnée par tic de carburant.",
+
+  "chapter.powah.quest.4.title": "Conseils sur les Chaudières",
+  "chapter.powah.quest.4.subtitle.1": "Le Chaudière est un générateur FE qui génère de l'énergie à partir de combustible solide pour four comme le charbon, le bois...",
+  "chapter.powah.quest.4.description.1": "Les niveaux supérieurs génèrent plus de FE/t et ont une sortie d'énergie plus élevée, de plus, ils consomment le carburant plus rapidement avec la même énergie gagnée par tic de carburant.",
+
+  "chapter.powah.quest.5.title": "Conseils sur les Thermogénérateurs",
+  "chapter.powah.quest.5.subtitle.1": "Trucs Chauds",
+  "chapter.powah.quest.5.description.1": "Le thermogénérateur est un générateur FE qui génère de l'énergie lorsqu'il est placé sur un bloc/fluide à haute température comme la lave, il nécessite un fluide de refroidissement comme l'eau pour fonctionner.",
+
+  "chapter.powah.quest.6.title": "Conseils sur les Piles",
+  "chapter.powah.quest.6.subtitle.1": "Chargement",
+  "chapter.powah.quest.6.description.1": "Charge les objets lorsqu'ils sont dans l'inventaire du joueur, peut également être utilisé pour augmenter la capacité d'un canal de réseau Ender en cliquant dessus avec la touche Maj enfoncée sur une interface GUI de Cellule de l'End, si la batterie contient de l'énergie, elle sera également appliquée au canal de réseau ender.",
+
+  "chapter.powah.quest.7.title": "Conseils sur les Cellules d'énergie",
+  "chapter.powah.quest.7.subtitle.1": "La cellule d'énergie est un bloc utilisé pour stocker de l'énergie.",
+  "chapter.powah.quest.7.description.1": "Peut également être utilisé pour ajouter de la capacité à un canal de réseau Ender en cliquant dessus avec la touche Maj enfoncée sur une interface GUI de cellule de l'End, si la cellule d'énergie contient de l'énergie, elle sera également appliquée au canal de réseau ender.",
+
+  "chapter.powah.quest.8.title": "Conseils sur les Cellules de l'End",
+  "chapter.powah.quest.8.subtitle.1": "La cellule de l'End est un bloc utilisé pour stocker de l'énergie dans un canal spécifique du réseau ender du propriétaire.",
+  "chapter.powah.quest.8.description.1": "Vous pouvez accéder à l'énergie stockée d'un canal sélectionné de n'importe où dans le monde si la cellule de l'End d'où vous souhaitez transférer de l'énergie dispose d'un canal actif avec une capacité valide.",
+  "chapter.powah.quest.8.description.2": "Vous pouvez ajouter de la capacité à un canal sélectionné en cliquant avec la touche Maj sur une cellule d'énergie ou une Batterie dans l'interface GUI de la cellule de l'End.",
+  "chapter.powah.quest.8.description.3": "La quantité ajoutée est la même que celle de l'objet que vous avez ajouté, la capacité maximale qu'un canal peut avoir est de 9E FE.",
+
+  "chapter.powah.quest.9.title": "Conseils sur les Câbles",
+  "chapter.powah.quest.9.subtitle.1": "Les câbles servent à transférer de l'énergie entre les machines.",
+  "chapter.powah.quest.9.description.1": "Vous pouvez changer le mode de transfert en cliquant avec le bouton droit sur un câble en utilisant une clé à molette en mode Config sélectionné.",
+
+  "chapter.powah.quest.10.title": "Porte de l'End",
+  "chapter.powah.quest.10.subtitle.1": "Transfert Ender",
+  "chapter.powah.quest.10.description.1": "Transfère de l'énergie entre le bloc adjacent et le réseau ender.",
+  "chapter.powah.quest.10.description.2": "Contrairement à la cellule de l'End, vous ne pouvez pas améliorer le réseau depuis celle-ci.",
+
+  "chapter.powah.quest.11.title": "Déchargeur d'Énergie",
+  "chapter.powah.quest.11.subtitle.1": "Drainage",
+  "chapter.powah.quest.11.description.1": "Le Déchargeur d'Énergie est un bloc utilisé pour drainer l'énergie des objets chargés et ensuite la stocker dans un tampon interne, puis, s'il est connecté par des câbles, extraire cette énergie stockée pour la réutiliser.",
+
+  "chapter.powah.quest.12.title": "Entonnoir à énergie",
+  "chapter.powah.quest.12.subtitle.1": "Chargement d'Objets",
+  "chapter.powah.quest.12.description.1": "L'entonnoir à énergie est un bloc utilisé pour charger des objets pouvant être chargés à l'intérieur d'un inventaire adjacent, comme un coffre ou tout autre bloc ayant un inventaire accessible et ne possédant pas d'énergie de forge.",
+
+  "chapter.powah.quest.13.title": "Transmetteur Joueur",
+  "chapter.powah.quest.13.subtitle.1": "Chargeur d'Inventaire",
+  "chapter.powah.quest.13.description.1": "Le Transmetteur Joueur est un bloc utilisé pour charger sans fil des objets dans l'inventaire du joueur lié, y compris les emplacements d'armure et la main secondaire, n'importe où dans la même dimension quand il a une carte de liaison normale et entre les dimensions quand il possède une carte de liaison dimensionnelle.",
+
+  "chapter.powah.quest.14.title": "Orbe énergisant",
+  "chapter.powah.quest.14.subtitle.1": "Fabrication d'Orbes",
+  "chapter.powah.quest.14.description.1": "L'Orbe Énergisant est un bloc utilisé pour énergiser des objets. Il nécessite au moins une Orbe énergisant dans une plage de 9X9 pour fonctionner. La vitesse d'énérgisation dépend du nombre d'orbes et du niveau de l'orbe.",
+
+  "Thermal":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.thermal.title": "Thermal",
+
+  "chapter.thermal.quest.1.title": "Amélioration de base",
+  "chapter.thermal.quest.1.subtitle.1": "Amélioration de composant",
+
+  "chapter.thermal.quest.2.title": "Filtre de fluide",
+  "chapter.thermal.quest.2.subtitle.1": "Restrictif",
+  "chapter.thermal.quest.2.description.1": "Permet une restriction du fluide.",
+
+  "chapter.thermal.quest.3.subtitle.1": "Économiseur d'FE",
+  "chapter.thermal.quest.3.description.1": "Empêche la perte de RF après saturation de la bobine.",
+
+  "chapter.thermal.quest.4.subtitle.1": "Catalyseur d'escalade",
+  "chapter.thermal.quest.4.description.1": "L'augmentation de la chambre de récupération catalytique fait évoluer la chance qu'un catalyseur soit utilisé de 0,8x, mais augmente également l'énergie utilisée par opération de 1,25x.",
+
+  "chapter.thermal.quest.5.subtitle.1": "Plus d'énergie !",
+  "chapter.thermal.quest.5.description.1": "L'augmentation de la bobine RF élargie échelonne le stockage et le transfert de RF par 4.",
+
+  "chapter.thermal.quest.6.subtitle.1": "Puissance efficace",
+  "chapter.thermal.quest.6.description.1": "L'augmentation de l'efficacité du flux réduit la RF requise par opération, l'échelonnant de 0,9, mais diminue également le taux d'utilisation RF maximum de la machine de 10%%.",
+
+  "chapter.thermal.quest.7.subtitle.1": "Mise à niveau de la portée",
+  "chapter.thermal.quest.7.description.1": "L'augmentation d'amélioration radiale permet à votre outil ou machine d'affecter une zone plus grande autour d'elle.",
+  "chapter.thermal.quest.7.description.2": "Chaque augmentation augmentera la zone maximale d'un bloc dans chaque direction.",
+
+  "chapter.thermal.quest.8.subtitle.1": "Carburant efficace",
+  "chapter.thermal.quest.8.description.1": "Augmente l'efficacité du carburant.",
+
+  "chapter.thermal.quest.9.subtitle.1": "Destructeur auxiliaire",
+  "chapter.thermal.quest.9.description.1": "Détruit les sorties d'objets non primaires en excès.",
+
+  "chapter.thermal.quest.10.subtitle.1": "Plus de fluide",
+  "chapter.thermal.quest.10.description.1": "L'augmentation de construction de réservoir élargie échelonne la taille de tous les réservoirs de fluide dans une machine, un dispositif, un générateur ou un outil par 4.",
+
+  "chapter.thermal.quest.11.subtitle.1": "Meilleur générateur",
+  "chapter.thermal.quest.11.description.1": "L'augmentation de chambre de réaction auxiliaire augmente la génération maximale d'un générateur de 100%% mais échelonne l'efficacité de 0,9.",
+
+  "chapter.thermal.quest.12.subtitle.1": "Sortie secondaire",
+  "chapter.thermal.quest.12.description.1": "L'augmentation de tamis de processus auxiliaire augmente la chance de sortie secondaire de 15%% mais échelonne l'énergie par opération de 1,25.",
+
+  "chapter.thermal.quest.13.subtitle.1": "Augmentation d'automatisation",
+  "chapter.thermal.quest.13.description.1": "L'augmentation de traitement cyclique permet aux sorties valides d'une machine d'être renvoyées dans son ou ses emplacements de sortie. Utile pour l'automatisation.",
+
+  "chapter.thermal.quest.14.subtitle.1": "Amplification",
+  "chapter.thermal.quest.14.description.1": "L'augmentation d'amplificateur de liaison de flux augmente le taux d'utilisation RF maximum de 100%% mais échelonne également la RF par opération de 1,1.",
+
+  "chapter.thermal.quest.15.subtitle.1": "Améliorateur de potion",
+  "chapter.thermal.quest.15.description.1": "L'augmentation d'extension alchimique augmente la durée de la potion de 100%%. N'a aucun effet sur les potions à effet instantané ou à effet ponctuel.",
+
+  "chapter.thermal.quest.16.subtitle.1": "Amplificateur de potion",
+  "chapter.thermal.quest.16.description.1": "L'augmentation d'amplificateur alchimique augmente l'effet de la potion stockée d'un niveau mais réduit sa durée de 25%%.",
+
+  "chapter.thermal.quest.17.subtitle.1": "Améliorateur d'FE",
+  "chapter.thermal.quest.17.description.1": "L'augmentation de bobine RF haute densité échelonne le stockage RF par 2 et le transfert RF par 6.",
+
+  "chapter.thermal.quest.18.subtitle.1": "Gardeur d'XP",
+  "chapter.thermal.quest.18.description.1": "Permet de stocker et de récupérer de l'XP.",
+
+  "chapter.thermal.quest.19.subtitle.1": "Puissance de filtration",
+  "chapter.thermal.quest.19.description.1": "L'augmentation de filtre d'objets permet à une machine, un dispositif ou un équipement d'accepter sélectivement des objets.",
+  "chapter.thermal.quest.19.description.2": "Le filtre peut être configuré dans une interface graphique distincte, accessible en faisant un clic droit en maintenant la touche Maj enfoncée sur le bloc ou l'objet dans lequel il est installé, ou par le biais d'un onglet dans l'interface graphique du bloc.",
+  "chapter.thermal.quest.19.description.3": "Jusqu'à 15 objets peuvent être ajoutés au filtre, avec la possibilité de passer entre une liste d'autorisation/d'interdiction et de faire correspondre/ignorer les données NBT.",
+
+  "chapter.thermal.quest.20.subtitle.1": "Énergie fossile",
+  "chapter.thermal.quest.20.description.1": "La Dynamo Stirling utilise des objets inflammables pour produire de la RF.",
+
+  "chapter.thermal.quest.21.subtitle.1": "Seau d'énergie",
+  "chapter.thermal.quest.21.description.1": "La Dynamo de Compression utilise des combustibles liquides inflammables tels que l'huile d'arbre pour produire de la RF.",
+
+  "chapter.thermal.quest.22.subtitle.1": "Argent, argent !",
+  "chapter.thermal.quest.22.description.1": "La Dynamo Numismatique utilise des pièces de monnaie pour produire de la RF.",
+
+  "chapter.thermal.quest.23.subtitle.1": "Cristaux brillants",
+  "chapter.thermal.quest.23.description.1": "La Dynamo Lapidaire utilise des cristaux et des gemmes pour produire de la RF.",
+
+  "chapter.thermal.quest.24.subtitle.1": "Enchanté",
+  "chapter.thermal.quest.24.description.1": "La Dynamo de Désenchantement utilise des objets enchantés tels que des livres pour produire de la RF.",
+
+  "chapter.thermal.quest.25.subtitle.1": "NOURRITURE !",
+  "chapter.thermal.quest.25.description.1": "La Dynamo Gourmande utilise de la nourriture pour produire de la RF.",
+
+  "chapter.thermal.quest.26.subtitle.1": "Poubelle",
+  "chapter.thermal.quest.26.description.1": "Le nullificateur est un dispositif qui peut supprimer tous les objets et les fluides qui y sont insérés.",
+  "chapter.thermal.quest.26.description.2": "Les objets/fluides insérés automatiquement sont instantanément supprimés, tandis que les objets insérés manuellement via l'interface graphique sont temporairement stockés jusqu'à ce que le bouton de suppression soit pressé.",
+  "chapter.thermal.quest.26.description.3": "Il est compatible avec les augmentations de type filtre pour restreindre ce qu'il peut accepter.",
+  "chapter.thermal.quest.26.description.4": "Le contrôle par redstone n'affecte que l'insertion automatique d'objets/fluides.",
+
+  "chapter.thermal.quest.27.subtitle.1": "Énergie pour les objets",
+  "chapter.thermal.quest.27.description.1": "Utilisé pour augmenter, charger et remplir des objets.",
+
+  "chapter.thermal.quest.28.subtitle.1": "Extracteur de miel",
+  "chapter.thermal.quest.28.description.1": "Le Hive Hopper est un dispositif qui peut extraire des rayons de miel et du miel liquide lorsqu'il est placé sous une ruche.",
+
+  "chapter.thermal.quest.29.subtitle.1": "Dangers de la déforestation",
+  "chapter.thermal.quest.29.description.1": "L'Extracteur Arboreal est un dispositif qui extrait du fluide d'un arbre adjacent.",
+  "chapter.thermal.quest.29.description.2": "Peut éventuellement prendre de l'engrais pour augmenter le taux de production.",
+  "chapter.thermal.quest.29.description.3": "Le bonemeal augmente la production de 1,5x pendant 8 cycles, tandis que le phyto-gro augmente de 2,0x pendant 16 cycles.",
+  "chapter.thermal.quest.29.description.4": "Différents arbres produisent différents fluides ; utilisez JEI pour voir les recettes disponibles.",
+
+  "chapter.thermal.quest.30.subtitle.1": "Plantes en croissance",
+  "chapter.thermal.quest.30.description.1": "L'Infuseur de Phyto-Terre est un dispositif qui utilise de la RF pour accélérer la croissance des cultures sur la phyto-terre à proximité. Dans sa forme de base, il infuse une zone de 3x3x3 autour de lui, qui peut être améliorée en utilisant des augmentations d'amélioration radiale jusqu'à 7x3x7.",
+  "chapter.thermal.quest.30.description.2": "Les composants intégraux augmentent l'effet d'accélération de la croissance.",
+
+  "chapter.thermal.quest.31.subtitle.1": "Absorbeur",
+  "chapter.thermal.quest.31.description.1": "Le Vacuumulateur est un dispositif qui peut ramasser des objets dans sa zone d'effet.",
+  "chapter.thermal.quest.31.description.2": "Il peut ramasser des orbes d'XP lorsqu'une augmentation de concentrateur de connaissances est installée.",
+  "chapter.thermal.quest.31.description.3": "À la base, le vacuumulateur collecte dans une zone de 9x9x9 centrée sur lui, ce qui peut être augmenté jusqu'à 15x15x15 en utilisant des augmentations d'amélioration radiale.",
+
+  "chapter.thermal.quest.32.subtitle.1": "Chargeur rapide",
+  "chapter.thermal.quest.32.description.1": "Utilisé pour charger rapidement plusieurs objets.",
+
+  "chapter.thermal.quest.33.subtitle.1": "Écologique",
+  "chapter.thermal.quest.33.description.1": "Produisez du compost à partir de déchets organiques.",
+
+  "chapter.thermal.quest.34.subtitle.1": "Machine de pêche",
+  "chapter.thermal.quest.34.description.1": "L'Entangleur aquatique est un dispositif qui peut attraper passivement des poissons lorsqu'il est placé dans une étendue d'eau.",
+  "chapter.thermal.quest.34.description.2": "La vitesse à laquelle il attrape des poissons dépend du biome, de la météo et de la configuration de l'augmentation, mais il a un taux de base de 1 capture toutes les quelques minutes.",
+
+  "chapter.thermal.quest.35.subtitle.1": "Eau infinie",
+  "chapter.thermal.quest.35.description.1": "L'Accumulateur aqueux est un dispositif qui générera de l'eau à l'infini pour vos besoins.",
+  "chapter.thermal.quest.35.description.2": "Pour qu'il produise de l'eau, il doit y avoir au moins deux blocs sources adjacents sur les côtés du dispositif.",
+  "chapter.thermal.quest.35.description.3": "Les blocs sources au-dessus ou en dessous du dispositif ne seront pas pris en compte.",
+
+  "chapter.thermal.quest.36.subtitle.1": "Potion pour les créatures",
+  "chapter.thermal.quest.36.description.1": "Le Diffuseur Décoctif est un dispositif qui consommera périodiquement un fluide de potion pour propager des effets de potion aux créatures à proximité.",
+  "chapter.thermal.quest.36.description.2": "Les effets accordés de cette manière durent 1/4 moins longtemps par rapport à une potion normale.",
+  "chapter.thermal.quest.36.description.3": "Il arrête automatiquement son fonctionnement lorsqu'aucune créature n'est dans sa zone d'effet.",
+  "chapter.thermal.quest.36.description.4": "À la base, le diffuseur propage les effets de potion dans une zone de 9x9x9 centrée sur lui, ce qui peut être augmenté jusqu'à 15x15x15 en utilisant des augmentations d'amélioration radiale.",
+
+  "chapter.thermal.quest.37.subtitle.1": "Créateur de pierre",
+  "chapter.thermal.quest.37.description.1": "L'Extrudeuse Ignée est un dispositif qui générera de la pierre à l'infini lorsqu'elle est entourée de blocs et de fluides appropriés.",
+  "chapter.thermal.quest.37.description.2": "Elle nécessite un bloc source de lave adjacent et un bloc de refroidissement adjacent ; elle peut éventuellement prendre un bloc en dessous.",
+
+  "chapter.thermal.quest.38.subtitle.1": "Réservoir de fluide thermique",
+  "chapter.thermal.quest.38.description.1": "La cellule de fluide peut être utilisée pour stocker et distribuer des fluides.",
+
+  "chapter.thermal.quest.39.subtitle.1": "Stockage d'énergie",
+  "chapter.thermal.quest.39.description.1": "La cellule Redstone Flux peut être utilisée pour stocker et distribuer le Redstone Flux.",
+
+  "chapter.thermal.quest.40.subtitle.1": "Four à flux",
+  "chapter.thermal.quest.40.description.1": "Le Four à Redstone est une machine qui fait fondre vos objets comme un four traditionnel.",
+
+  "chapter.thermal.quest.41.subtitle.1": "Un autre Broyeur",
+  "chapter.thermal.quest.41.description.1": "Le Séparateur Centrifuge est une machine qui sépare les objets en leurs composants. Par exemple, les alliages se transforment en poudres de leur métal de base.",
+  "chapter.thermal.quest.41.description.2": "Il est également efficace pour extraire des colorants à partir de fleurs.",
+
+  "chapter.thermal.quest.42.subtitle.1": "Création de combustible",
+  "chapter.thermal.quest.42.description.1": "Le Pyrolyseur est une machine qui décompose des substances dans un environnement à faible teneur en oxygène à l'aide de la chaleur.",
+  "chapter.thermal.quest.42.description.2": "Il est généralement utilisé pour convertir la matière organique et le charbon en combustibles plus propres et durables.",
+
+  "chapter.thermal.quest.43.subtitle.1": "Découpage de planches",
+  "chapter.thermal.quest.43.description.1": "La Scierie est une machine qui coupe des troncs en planches de manière plus efficace que la fabrication. Elle produit de la sciure comme sous-produit.",
+
+  "chapter.thermal.quest.44.subtitle.1": "Emballage d'objets",
+  "chapter.thermal.quest.44.description.1": "La Presse Multiservo est une machine qui peut accepter diverses matrices afin de façonner les métaux sous différentes formes et (dé)emballer des blocs et des objets.",
+
+  "chapter.thermal.quest.45.subtitle.1": "Remplisseur de liquide",
+  "chapter.thermal.quest.45.description.1": "L'Encapsulateur de Liquide est une machine qui remplit des objets contenant des liquides, tels que des seaux et des bouteilles.",
+  "chapter.thermal.quest.45.description.2":  "Peut être utilisé pour remplir automatiquement les bouteilles avec du liquide de potion provenant de l'Imbiber Alchimique.",
+
+  "chapter.thermal.quest.46.subtitle.1": "Broyage",
+  "chapter.thermal.quest.46.description.1": "Le Broyeur est une machine qui écrase des objets et des minerais. Il améliore les rendements de minerais, qui peuvent être encore augmentés à l'aide d'augmentations et de catalyseurs.",
+
+  "chapter.thermal.quest.47.subtitle.1": "Fusion de l'acier",
+  "chapter.thermal.quest.47.description.1": "La Creuset de Magma est une machine qui fait fondre des objets en liquides.",
+
+  "chapter.thermal.quest.48.subtitle.1": "Brasseur de potions",
+  "chapter.thermal.quest.48.description.1": "L'Imbiber Alchimique est une machine qui brasse des potions.",
+  "chapter.thermal.quest.48.description.2": "Il crée du liquide de potion au lieu de brasser directement dans une bouteille.",
+  "chapter.thermal.quest.48.description.3": "Un ingrédient suffit pour brasser un seau, qui peut remplir 4 bouteilles.",
+
+  "chapter.thermal.quest.49.subtitle.1": "Meilleur four",
+  "chapter.thermal.quest.49.description.1": "Le Four à Induction est une machine qui fait fondre plusieurs objets ensemble, produisant des alliages.",
+  "chapter.thermal.quest.49.description.2": "Il peut également fondre des minerais en lingots et en gemmes, ce qui est affecté par des catalyseurs.",
+  "chapter.thermal.quest.49.description.3": "La fusion des minerais a une chance de produire de la scorie riche en tant que produit secondaire, qui peut être utilisée comme minerai catalyseur pour fabriquer du phyto-gro.",
+
+  "chapter.thermal.quest.50.subtitle.1": "Solidification",
+  "chapter.thermal.quest.50.description.1": "Le Blast Chiller est une machine qui refroidit et cristallise des liquides tels que l'eau et les métaux fondus sous forme solide.",
+  "chapter.thermal.quest.50.description.2": "Accepte divers moules pour modifier la forme du produit final.",
+
+  "chapter.thermal.quest.51.subtitle.1": "Retransformation",
+  "chapter.thermal.quest.51.description.1": "Le Cristalliseur est une machine qui peut convertir certaines poudres en gemmes.",
+
+  "chapter.thermal.quest.52.subtitle.1": "Reproduction végétale",
+  "chapter.thermal.quest.52.description.1": "Le Phytogenic Insolateur est une machine qui utilise de la RF, de l'eau et éventuellement de l'engrais pour faire pousser des cultures, des fleurs et des arbres.",
+
+  "chapter.thermal.quest.53.subtitle.1": "Raffinerie",
+  "chapter.thermal.quest.53.description.1": "La Distillation Fractionnée est une machine qui raffine des fluides tels que la résine et la sève.",
+
+  "chapter.thermal.quest.54.subtitle.1": "Auto-constructeur",
+  "chapter.thermal.quest.54.description.1": "Le Fabricant Séquentiel est une machine qui fabrique automatiquement des objets.",
+
+  "chapter.thermal.quest.55.subtitle.1": "Plus de stockage d'énergie",
+  "chapter.thermal.quest.55.description.1" : "Ajoute 250kFE au stockage d'énergie.",
+
+  "Forbidden and Arcanus":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.forbidden.title": "Forbidden and Arcanus",
+
+  "chapter.forbidden.quest.1.title": "Tu es un sorcier !",
+  "chapter.forbidden.quest.1.subtitle.1": "Démarrage du Mod",
+
+  "chapter.forbidden.quest.2.title": "Arbres Edelwood",
+  "chapter.forbidden.quest.2.subtitle.1": "Arbre Étrange",
+  "chapter.forbidden.quest.2.description.1": "Trouvé dans le biome de la Forêt Sombre, l'Arbre Edelwood ressemble à un petit arbre coupé en deux.",
+  "chapter.forbidden.quest.2.description.2": "Vous devrez casser les branches et collecter les bûches, car elles sont utilisées pour fabriquer divers objets dans le mod.",
+
+  "chapter.forbidden.quest.3.subtitle.1": "Seau Puissant",
+  "chapter.forbidden.quest.3.description.1": "Le seau Edelwood peut stocker plus d'un seau de liquide et peut également être utilisé pour capturer de petits animaux comme les poulets ou les calamars.",
+  "chapter.forbidden.quest.3.description.2": "Pour transporter de la lave, vous aurez besoin de l'enchantement Permafrost.",
+
+  "chapter.forbidden.quest.4.subtitle.1": "Matière Noire",
+  "chapter.forbidden.quest.4.description.1": "La fusion de l'Edelwood vous donnera de la Matière Noire. Vous pouvez créer des Trous Noirs avec cela.",
+
+  "chapter.forbidden.quest.5.subtitle.1": "Casser des Générateurs",
+  "chapter.forbidden.quest.5.description.1": "Casser des générateurs va maintenant vous donner des &bDéchets de Générateur&r.",
+
+  "chapter.forbidden.quest.6.subtitle.1": "Capture",
+  "chapter.forbidden.quest.6.description.1": "Le &bCaptureur Quantique&r est utilisé pour capturer et transporter des mobs.",
+
+  "chapter.forbidden.quest.7.subtitle.1": "Vision Aureal",
+  "chapter.forbidden.quest.7.description.1": "La &bLentille de Veritatis&r est utilisée pour voir les entités Aureal. Ce sont des entités qui accordent de l'Aureal lorsqu'elles sont tuées, mais qui augmentent également votre corruption....",
+
+  "chapter.forbidden.quest.8.subtitle.1": "Herbe Céleste",
+  "chapter.forbidden.quest.8.description.1": "Avez-vous vu l'île flottante aléatoire dans le ciel ? Pas celle en slime, mais la petite ?",
+  "chapter.forbidden.quest.8.description.2": "Elles ont la plante Nipa. Vous pouvez les casser et les déplacer.",
+  "chapter.forbidden.quest.8.description.3": "Elles produisent au fil du temps des Étincelles de Poussière de Cristal Arcane, qui peuvent être utilisées pour créer de la Poussière de Cristal Arcane.",
+
+  "chapter.forbidden.quest.9.subtitle.1": "Thaumcraft est de retour ?",
+  "chapter.forbidden.quest.9.description.1": "Tuer des mobs passifs augmentera votre corruption. Tuer des &bEntités Aureal&r a plus de chances d'augmenter votre corruption.",
+  "chapter.forbidden.quest.9.description.2": "Soyez prudent ! À des niveaux de corruption plus élevés, des choses négatives se produiront !",
+  "chapter.forbidden.quest.9.description.3": "Fabriquer un Indicateur de Santé mettra à niveau votre interface utilisateur pour afficher votre corruption totale, pour ceux qui veulent battre de nouveaux records.",
+
+  "chapter.forbidden.quest.10.subtitle.1": "Vol... Presque",
+
+  "chapter.forbidden.quest.11.subtitle.1": "Cristal Principal",
+  "chapter.forbidden.quest.11.description.1": "Il s'agit de la principale ressource du mod. Allez en chercher !",
+
+  "chapter.forbidden.quest.12.subtitle.1": "Fusion de Cristaux Arcanes",
+
+  "chapter.forbidden.quest.13.subtitle.1": "Super Engrais d'Os",
+  "chapter.forbidden.quest.13.description.1": "L'utilisation de cet engrais d'os sur des terres arables les transformera en terres arables magiques.",
+  "chapter.forbidden.quest.13.description.2": "Les cultures produiront le double de la récolte lorsqu'elles poussent sur des terres arables magiques.",
+
+  "chapter.forbidden.quest.14.subtitle.1": "Trop de Corruption",
+  "chapter.forbidden.quest.14.description.1": "Utilisé pour corrompre des âmes et des runes. Vous en aurez besoin plus tard.",
+  "chapter.forbidden.quest.14.description.2": "Si vous jetez de la Matière Noire, puis de la Poussière de Corrupti, vous créerez un Trou Noir. Nourrissez-le avec de petites entités comme des flèches ou des orbes d'expérience, et il produira des Orbes Xpétrifiés.",
+
+  "chapter.forbidden.quest.15.subtitle.1": "Poussière de Composant",
+  "chapter.forbidden.quest.15.description.1": "En utilisant notre Poussière de Cristal Arcane, nous devrons la combiner avec d'autres poussières et poudres pour créer de la Poussière de Mundabiter.",
+  "chapter.forbidden.quest.15.description.2": "Cette poussière est utilisée dans plusieurs recettes, ainsi que pour activer la Forge d'Héphaïstos.",
+
+  "chapter.forbidden.quest.16.subtitle.1": "L'Or Arcane Doré",
+  "chapter.forbidden.quest.16.description.1": "L'Ingot d'Or Arcane &6&r est nécessaire pour continuer votre progression dans le mod.",
+  "chapter.forbidden.quest.16.description.2": "Il est utilisé pour beaucoup de choses, et il est aussi joli.",
+
+  "chapter.forbidden.quest.17.title": "&6Armure en Or Arcane&r",
+  "chapter.forbidden.quest.17.subtitle.1": "Armure Arcane",
+  "chapter.forbidden.quest.17.description.1": "&6L'or Arcane&r peut être utilisé pour fabriquer une armure, qui est plus résistante que le diamant !",
+
+  "chapter.forbidden.quest.18.subtitle.1": "Pioche Arcane",
+  "chapter.forbidden.quest.18.description.1": "Une pioche à toucher de soie !",
+
+  "chapter.forbidden.quest.19.subtitle.1": "Culture de l'Or Arcane",
+  "chapter.forbidden.quest.19.description.1": "Celles-ci peuvent être plantées pour faire pousser des pépites d'or Arcane.",
+  "chapter.forbidden.quest.19.description.2": "Pour en créer une, vous devrez trouver des Orchidées Jaunes.",
+
+  "chapter.forbidden.quest.20.subtitle.1": "Activation des Rayons X pour les Mobs !",
+  "chapter.forbidden.quest.20.description.1": "Cela donne la vision aux rayons X pour les mobs, les mettant en évidence de loin pour les repérer plus facilement.",
+
+  "chapter.forbidden.quest.21.subtitle.1": "Concasseur de Têtes de Dragon",
+  "chapter.forbidden.quest.21.description.1": "Le Dague Mystique est utilisé pour décomposer les têtes de dragon en écailles de dragon.",
+  "chapter.forbidden.quest.21.description.2": "Lorsque vous tuez des mobs avec une fiole d'essai dans votre inventaire, elle collectera également du sang.",
+
+  "chapter.forbidden.quest.22.subtitle.1": "Chasseur de Dragon",
+  "chapter.forbidden.quest.22.description.1": "La combinaison d'une tête de dragon avec un dague mystique vous donnera des &bÉcailles de Dragon&r.",
+
+  "chapter.forbidden.quest.23.title": "Armure Draco Arcanus",
+  "chapter.forbidden.quest.23.subtitle.1": "Tueur de Dragon",
+  "chapter.forbidden.quest.23.description.1": "Mieux que l'armure de Netherite !",
+
+  "chapter.forbidden.quest.24.subtitle.1": "Foudre Éclair",
+  "chapter.forbidden.quest.24.description.1": "Le sceptre tire des orbes d'énergie lorsqu'il est chargé avec un clic droit. S'il touche un mob, il le frappera de foudre.",
+
+  "chapter.forbidden.quest.25.title": "Écailles de Dragon Améliorées",
+  "chapter.forbidden.quest.25.subtitle.1": "Amélioration des Écailles",
+  "chapter.forbidden.quest.25.description.1": "L'Écaille de Dragon peut être transformée en Écailles de Dragon Doré et Aquatique.",
+  "chapter.forbidden.quest.25.description.2": "Elles sont principalement utilisées pour fabriquer &dl'armure Tyr&r.",
+
+  "chapter.forbidden.quest.26.title": "Armure Tyr",
+  "chapter.forbidden.quest.26.subtitle.1": "Mieux que Draco Arcanus !",
+
+  "chapter.forbidden.quest.27.subtitle.1": "Œuf d'Or",
+
+  "chapter.forbidden.quest.28.subtitle.1": "Préparation à la Forge",
+  "chapter.forbidden.quest.28.description.1": "Vous avez probablement déjà acquis de la Pierre Sombre, mais nous en aurons besoin pour fabriquer la forge.",
+
+  "chapter.forbidden.quest.29.title": "La &5Forge d'Héphaïstos&r.",
+  "chapter.forbidden.quest.29.subtitle.1": "Forgeron Arcane",
+  "chapter.forbidden.quest.29.description.1": "Nous utiliserons toute cette Pierre Sombre pour créer la &5Forge d'Héphaïstos&r.",
+  "chapter.forbidden.quest.29.description.2": "Une fois que vous avez tous les blocs nécessaires, vous devrez construire la plate-forme de la forge.",
+  "chapter.forbidden.quest.29.description.3": "Pour voir comment construire la plate-forme, recherchez dans JEI la forge, puis maintenez 'Z' pour afficher la réflexion.",
+
+  "chapter.forbidden.quest.30.title": "Socles de Pierre Sombre",
+  "chapter.forbidden.quest.30.subtitle.1": "Socles de la Forge",
+  "chapter.forbidden.quest.30.description.1": "Pour enchanter des objets, vous aurez besoin de socles de pierre sombre placés autour de la forge.",
+  "chapter.forbidden.quest.30.description.2": "Assurez-vous de les placer sur de la Pierre Sombre Polie Ciselée Arcane.",
+
+  "chapter.forbidden.quest.31.subtitle.1": "Obélisque",
+  "chapter.forbidden.quest.31.description.1": "Pour créer un Obélisque de Cristal Arcane, placez un bloc de Pierre Sombre Polie Ciselée Arcane, puis placez deux blocs de Cristal Arcane au-dessus.",
+  "chapter.forbidden.quest.31.description.2": "Cliquez avec de la Poussière de Mundabitur et vous créerez l'obélisque.",
+  "chapter.forbidden.quest.31.description.3": "Lorsqu'il est placé sur un bloc de Pierre Sombre Polie Ciselée Arcane sur la structure de la Forge d'Héphaïstos, il générera lentement de l'Aureal au fil du temps.",
+
+  "chapter.forbidden.quest.32.subtitle.1": "Âmes en Bouteille",
+  "chapter.forbidden.quest.32.description.1": "Les &dBouteilles d'Aureal&r se trouvent dans les coffres de butin, mais elles peuvent aussi être fabriquées avec de la Poussière de Cristal Arcane.",
+  "chapter.forbidden.quest.32.description.2": "Vous pouvez également générer de l'Aureal avec des Obélisques de Cristal Arcane.",
+
+  "chapter.forbidden.quest.33.subtitle.1": "Tubes de Sang",
+  "chapter.forbidden.quest.33.description.1": "Le sang est collecté en fabriquant des fioles d'essai, puis en tuant des mobs avec le Dague Mystique.",
+  "chapter.forbidden.quest.33.description.2": "Remarque : la fiole d'essai doit être dans votre inventaire lorsque vous tuez des mobs.",
+
+  "chapter.forbidden.quest.34.subtitle.1": "Énergie pour la Forge",
+  "chapter.forbidden.quest.34.description.1": "La Forge nécessite 4 objets différents pour fonctionner : de l'Aureal, des âmes, du sang et de l'expérience. Pour en savoir plus, suivez les quêtes en coin.",
+
+  "chapter.forbidden.quest.35.subtitle.1": "Âmes Gratuites",
+  "chapter.forbidden.quest.35.description.1": "Les âmes sont collectées en créant un &bExtracteur d'Âmes&r, puis en l'utilisant sur du Sable d'Âme.",
+
+  "chapter.forbidden.quest.36.subtitle.1": "Carburant pour la Forge",
+  "chapter.forbidden.quest.36.description.1": "Cela va dans le côté droit de la forge. Vous pouvez également y mettre des &aOrbes Xpétrifiés&r.",
+
+  "chapter.forbidden.quest.37.title": "Marteau du Forgeron",
+  "chapter.forbidden.quest.37.subtitle.1": "Rituel du Marteau",
+  "chapter.forbidden.quest.37.description.1": "Pour effectuer un rituel, placez les ingrédients sur les socles de pierre sombre.",
+  "chapter.forbidden.quest.37.description.2": "Vous aurez besoin d'un &6Marteau du Forgeron&r pour activer le rituel. Pour ce faire, cliquez droit sur la Forge avec le Marteau.",
+
+  "chapter.forbidden.quest.38.title": "Création de Livre Enchanté",
+  "chapter.forbidden.quest.38.subtitle.1": "Enchantement",
+  "chapter.forbidden.quest.38.description.1": "La Forge d'Héphaïstos est également utilisée pour créer des Enchantements. Consultez JEI pour voir tous les différents Enchantements que vous pouvez créer !",
+
+  "chapter.forbidden.quest.39.subtitle.1": "Enchantement Enflammé",
+  "chapter.forbidden.quest.39.description.1": "Cet objet peut être combiné avec un outil pour ajouter l'enchantement &6Enflammé&r, qui fait fondre automatiquement les blocs lorsqu'ils sont récoltés, ou les enflamme.",
+
+  "chapter.forbidden.quest.40.subtitle.1": "Stella Arcanum",
+  "chapter.forbidden.quest.40.description.1": "Vous trouverez du minerai de Stella Arcanum profondément sous terre. Soyez prudent lorsque vous minez.",
+
+  "chapter.forbidden.quest.41.subtitle.1": "Expérimenté",
+  "chapter.forbidden.quest.41.description.1": "Cette substance est partout. Elle peut être utilisée pour vous octroyer de l'expérience, ou pour fabriquer l'Éternel Stella.",
+
+  "chapter.forbidden.quest.42.subtitle.1": "Talisman de Réparation",
+  "chapter.forbidden.quest.42.description.1": "&6L'Éternel Stella&r a 3 charges, et lorsqu'il est cliqué avec le bouton droit, il peut réparer entièrement tous les objets de votre inventaire.",
+  "chapter.forbidden.quest.42.description.2": "Le but principal de cela est de conférer l'enchantement &9Incassable&r à un objet, ce qui se fait en le combinant avec l'outil dans une Table de Forgeron.",
+
+  "Mekanism":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.mekanism.title": "Mekanism",
+
+  "chapter.mekanism.quest.1.subtitle.1": "Stockage de Fluides de Base",
+  "chapter.mekanism.quest.1.description.1": "Les &bRéservoirs de Fluides&f sont des blocs de stockage pour conserver des &efluides&f. Ce réservoir peut stocker &a32 000 mB&r.",
+
+  "chapter.mekanism.quest.2.subtitle.1": "Stockage de Fluides Avancé",
+  "chapter.mekanism.quest.2.description.1": "Les &bRéservoirs de Fluides&f sont des blocs de stockage pour conserver des &efluides&f. Ce réservoir peut stocker &464 000 mB&r.",
+
+  "chapter.mekanism.quest.3.subtitle.1": "Stockage de Fluides Élite",
+  "chapter.mekanism.quest.3.description.1": "Les &bRéservoirs de Fluides&f sont des blocs de stockage pour conserver des &efluides&f. Ce réservoir peut stocker &b128 000 mB&r.",
+
+  "chapter.mekanism.quest.4.subtitle.1": "Stockage de Fluides Ultime",
+  "chapter.mekanism.quest.4.description.1": "Les &bRéservoirs de Fluides&f sont des blocs de stockage pour conserver des &efluides&f. Ce réservoir peut stocker &5256 000 mB&r.",
+
+  "chapter.mekanism.quest.5.subtitle.1": "Réservoir chimique Basique",
+  "chapter.mekanism.quest.5.description.1": "Les Réservoirs Chimiques sont utilisés pour stocker des Gaz. Ce réservoir peut stocker &a64 000 mB&r.",
+
+  "chapter.mekanism.quest.6.subtitle.1": "Réservoir chimique Avancé",
+  "chapter.mekanism.quest.6.description.1": "Les Réservoirs Chimiques sont utilisés pour stocker des Gaz. Ce réservoir peut stocker &4256 000 mB&r.",
+
+  "chapter.mekanism.quest.7.subtitle.1": "Réservoir chimique Élite",
+  "chapter.mekanism.quest.7.description.1": "Les Réservoirs Chimiques sont utilisés pour stocker des Gaz. Ce réservoir peut stocker &b1 024 000 mB&r.",
+
+  "chapter.mekanism.quest.8.subtitle.1": "Réservoir chimique Ultime",
+  "chapter.mekanism.quest.8.description.1": "Les Réservoirs Chimiques sont utilisés pour stocker des Gaz. Ce réservoir peut stocker &58 192 000 mB&r.",
+
+  "chapter.mekanism.quest.9.subtitle.1": "Boire Ultime",
+  "chapter.mekanism.quest.9.description.1": "Un bloc utilisé pour stocker de grandes quantités d'un seul type d'objet. Cette benne peut stocker &5262 144 Objets&r.",
+
+  "chapter.mekanism.quest.10.subtitle.1": "Boire Élite",
+  "chapter.mekanism.quest.10.description.1": "Un bloc utilisé pour stocker de grandes quantités d'un seul type d'objet. Cette benne peut stocker &b32 768 Objets&r.",
+
+  "chapter.mekanism.quest.11.subtitle.1": "Boire Avancée",
+  "chapter.mekanism.quest.11.description.1": "Un bloc utilisé pour stocker de grandes quantités d'un seul type d'objet. Cette benne peut stocker &48 192 Objets&r.",
+
+  "chapter.mekanism.quest.12.subtitle.1": "Boire Basique",
+  "chapter.mekanism.quest.12.description.1": "Un bloc utilisé pour stocker de grandes quantités d'un seul type d'objet. Cette benne peut stocker &a4 096 Objets&r.",
+
+  "chapter.mekanism.quest.13.subtitle.1": "Panneau Solaire Avancé",
+  "chapter.mekanism.quest.13.description.1": "Le &bGénérateur Solaire Avancé&f est une version hautement améliorée du générateur solaire de base.",
+
+  "chapter.mekanism.quest.14.subtitle.1": "Une Éolienne vraiment performante",
+  "chapter.mekanism.quest.14.description.1": "Les pales géantes d'une &bTurbine Éolienne&f exploitent la force du vent pour générer de l'&6énergie&f. Chaque Turbine Éolienne nécessite une zone assez grande de 1x1x5. La machine générera de l'énergie jour et nuit, sous le soleil ou sous la pluie, mais la turbine doit avoir une vue dégagée vers le ciel.",
+
+  "chapter.mekanism.quest.15.subtitle.1": "Faites attention, ça chauffe",
+  "chapter.mekanism.quest.15.description.1": "Un &bGénérateur de Chaleur&f convertit l'&4énergie thermique&f en &6énergie&f. C'est souvent le premier générateur à fabriquer car, bien qu'il fournisse seulement une petite quantité d'énergie, c'est suffisant pour démarrer le mod.",
+
+  "chapter.mekanism.quest.16.subtitle.1": "Recyclage de Gaz",
+  "chapter.mekanism.quest.16.description.1": "Un &bGénérateur à Gaz&f produit de l'énergie en consommant n'importe quel gaz inflammable, par exemple l'Hydrogène produit par un Séparateur Électrolytique ou de l'Éthylène.",
+
+  "chapter.mekanism.quest.17.subtitle.1": "Énergie Écologique",
+  "chapter.mekanism.quest.17.description.1": "Les &bBio-Générateurs&f produisent de l'électricité à partir de &aBio Carburant&f.",
+
+  "chapter.mekanism.quest.18.title": "Le Réacteur de Fusion",
+  "chapter.mekanism.quest.18.subtitle.1": "Réacteur Ultime",
+  "chapter.mekanism.quest.18.description.1": "Le &bRéacteur de Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
+  "chapter.mekanism.quest.18.description.2": "• 75x Structure de Reacteur à fusion (Construction + autres pièces du réacteur).",
+  "chapter.mekanism.quest.18.description.3": "• 2x Port de réacteur à fusion.",
+  "chapter.mekanism.quest.18.description.4": "• 1x Contrôleur de réacteur à fusion.",
+  "chapter.mekanism.quest.18.description.5": "• 8x Verre de réacteur.",
+  "chapter.mekanism.quest.18.description.6": "• 1x Matrice de focalisation laser.",
+
+  "chapter.mekanism.quest.19.title": "Kit de Démarrage pour Réacteur",
+  "chapter.mekanism.quest.19.subtitle.1": "Configuration de Démarrage du Réacteur",
+  "chapter.mekanism.quest.19.description.1": "&bLe Réacteur de Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
+  "chapter.mekanism.quest.19.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutérium et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
+  "chapter.mekanism.quest.19.description.3": "L'onglet statistiques détaille la température d'ignition nécessaire pour que la réaction commence. Pour atteindre cette température, un Amplificateur Laser doit être chargé d'énergie provenant de plusieurs Lasers l'alimentant, et tiré dans la Matrice de Focus Laser. L'énergie nécessaire pour démarrer la réaction requiert 400MFE. Elle doit être injectée en une seule grande impulsion pour éviter que la température ne se dissipe, donc ajouter une sensibilité au Redstone ou augmenter l'énergie minimale requise par l'Amplificateur empêchera son déclenchement prématuré.",
+  "chapter.mekanism.quest.19.description.4": "Avec le Hohlraum dans le Contrôleur de Réacteur et suffisamment d'énergie stockée dans l'Amplificateur, tirez le laser pour commencer la réaction de fusion. Si une température suffisamment élevée a été atteinte, vous devriez immédiatement voir et entendre le réacteur fonctionner. Pour soutenir la réaction, la température ne doit pas descendre en dessous de la température d'ignition. Assurez-vous que le taux d'injection est suffisamment élevé et que le carburant est constamment fourni.",
+
+  "chapter.mekanism.quest.20.title": "Déphaseur en phase supercritique",
+  "chapter.mekanism.quest.20.subtitle.1": "Antimatière",
+  "chapter.mekanism.quest.20.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs recettes de fin de partie.",
+  "chapter.mekanism.quest.20.description.2": "La construction minimale optimale se compose de :",
+  "chapter.mekanism.quest.20.description.3": "• 60 Structures du SPS (+12 matériaux de fabrication pour 3 Ports du SPS)",
+  "chapter.mekanism.quest.20.description.4": "• 123 Verres de réacteur ou verre structurel",
+  "chapter.mekanism.quest.20.description.5": "• 3 Ports du SPS",
+  "chapter.mekanism.quest.20.description.6": "• 1 Bobine surchargée",
+
+  "chapter.mekanism.quest.21.subtitle.1": "Création d'Antimatière",
+  "chapter.mekanism.quest.21.description.1": "Avec le SPS et du Gaz de Polonium, créez de l'antimatière.",
+
+  "chapter.mekanism.quest.22.title": "Réacteur de Turbine",
+  "chapter.mekanism.quest.22.subtitle.1": "La Vapeur tourne à toute vitesse",
+  "chapter.mekanism.quest.22.description.1": "La &bStructure de Turbine&f est un boîtier résistant à la pression utilisé dans la création de la structure multi-blocs de la &cTurbine Industrielle&f.",
+  "chapter.mekanism.quest.22.description.2": "La &bBobine Électromagnétique&f est un bloc utilisé dans la création de plusieurs structures multi-blocs, y compris la Chaudière Thermoelectrique.",
+
+  "chapter.mekanism.quest.23.subtitle.1": "Panneau Solaire de Base",
+  "chapter.mekanism.quest.23.description.1": "Génère 18,80 FE/t.",
+
+  "chapter.mekanism.quest.24.subtitle.1": "Panneau Solaire Vert",
+  "chapter.mekanism.quest.24.description.1" : "Génère 123,34 kFE/t",
+
+  "chapter.mekanism.quest.25.subtitle.1": "Panneau Solaire Rouge",
+  "chapter.mekanism.quest.25.description.1": "Génère 41,11 kFE/t",
+
+  "chapter.mekanism.quest.26.subtitle.1": "Panneau Solaire Rose",
+  "chapter.mekanism.quest.26.description.1": "Génère 13,70 kFE/t",
+
+  "chapter.mekanism.quest.27.subtitle.1": "Panneau Solaire Jaune",
+  "chapter.mekanism.quest.27.description.1": "Génère 4,56 kFE/t",
+
+  "chapter.mekanism.quest.28.subtitle.1": "Panneau Solaire Violet",
+  "chapter.mekanism.quest.28.description.1": "Génère 1,52 kFE/t",
+
+  "chapter.mekanism.quest.29.subtitle.1": "Panneau Solaire Cyan",
+  "chapter.mekanism.quest.29.description.1": "Génère 507,60 FE/t",
+
+  "chapter.mekanism.quest.30.subtitle.1": "Panneau Solaire Bleu",
+  "chapter.mekanism.quest.30.description.1": "Génère 160,20 FE/t",
+
+  "chapter.mekanism.quest.31.subtitle.1": "Panneau Solaire Noir",
+  "chapter.mekanism.quest.31.description.1": "Génère 56,40 FE/t",
+
+  "chapter.mekanism.quest.32.subtitle.1": "Stockage Absolu",
+  "chapter.mekanism.quest.32.description.1": "Un &bCube d'Énergie&f est un type avancé de batterie compatible avec plusieurs systèmes d'énergie. L'énergie peut être entrée par 5 côtés et sortie par 1 côté.",
+  "chapter.mekanism.quest.32.description.2": "Ce Cube peut stocker 409,60 MFE.",
+
+  "chapter.mekanism.quest.33.subtitle.1": "Stockage Suprême",
+  "chapter.mekanism.quest.33.description.1": "Ce Cube peut stocker 1,63 GFE",
+
+  "chapter.mekanism.quest.34.subtitle.1": "Stockage Cosmique",
+  "chapter.mekanism.quest.34.description.1": "Ce Cube peut stocker 6,55 GFE",
+
+  "chapter.mekanism.quest.35.subtitle.1": "Stockage Infini",
+  "chapter.mekanism.quest.35.description.1": "Ce Cube peut stocker 26,21 GFE",
+
+  "chapter.mekanism.quest.36.subtitle.1": "Stockage Ultime",
+  "chapter.mekanism.quest.36.description.1": "Ce Cube peut stocker 102,40 MFE",
+
+  "chapter.mekanism.quest.37.subtitle.1": "Stockage Élite",
+  "chapter.mekanism.quest.37.description.1": "Ce Cube peut stocker 25,60 MFE",
+
+  "chapter.mekanism.quest.38.subtitle.1": "Stockage Avancé",
+  "chapter.mekanism.quest.38.description.1": "Ce Cube peut stocker 6,40 MFE",
+
+  "chapter.mekanism.quest.39.subtitle.1": "Stockage Basique",
+  "chapter.mekanism.quest.39.description.1": "Ce Cube peut stocker 1,60 MFE",
+
+  "chapter.mekanism.quest.40.title": "Matrice d'Induction",
+  "chapter.mekanism.quest.40.subtitle.1": "Complexe de Stockage",
+  "chapter.mekanism.quest.40.description.1": "La &bCarcasse d'Induction&f forme la structure multi-blocs de la &eMatrice d'Induction&f, une structure de &6stockage d'énergie&f capable de stocker une grande quantité d'énergie.",
+
+  "chapter.mekanism.quest.41.subtitle.1": "Fourniture de Matrice : Basique",
+  "chapter.mekanism.quest.41.description.1": "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+
+  "chapter.mekanism.quest.42.subtitle.1": "Fourniture de Matrice : Avancée",
+  "chapter.mekanism.quest.42.description.1" : "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+
+  "chapter.mekanism.quest.43.subtitle.1": "Fourniture de Matrice : Élite",
+  "chapter.mekanism.quest.43.description.1" : "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+
+  "chapter.mekanism.quest.44.subtitle.1": "Fourniture de Matrice : Ultime",
+  "chapter.mekanism.quest.44.description.1" : "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+
+  "chapter.mekanism.quest.45.subtitle.1": "Cellule Basique",
+  "chapter.mekanism.quest.45.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daccroît la capacité de stockage totale d'énergie&f d'une Matrice.",
+
+  "chapter.mekanism.quest.46.subtitle.1": "Cellule Avancée",
+  "chapter.mekanism.quest.46.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daccroît la capacité de stockage totale d'énergie&f d'une Matrice.",
+
+  "chapter.mekanism.quest.47.subtitle.1": "Cellule Élite",
+  "chapter.mekanism.quest.47.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daccroît la capacité de stockage totale d'énergie&f d'une Matrice.",
+
+  "chapter.mekanism.quest.48.subtitle.1": "Cellule Ultime",
+  "chapter.mekanism.quest.48.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daccroît la capacité de stockage totale d'énergie&f d'une Matrice.",
+
+  "chapter.mekanism.quest.49.subtitle.1": "Enrichissement",
+  "chapter.mekanism.quest.49.description.1": "Cette machine utilise de l'énergie pour extraire des &6poussières&f de certains blocs et minerais, ce qui est essentiel pour produire différents types d'outils. À ne pas confondre avec le &6Broyeur&f, cette machine est l'équivalent du pulvérisateur dans d'autres mods.",
+  "chapter.mekanism.quest.49.description.2": "Peut également être utilisée pour transformer le charbon ou le charbon de bois en &2Carbone Comprimé&r, la redstone en &2Redstone Compressée&r, le diamant en &2Diamant Comprimé&r et la poussière d'obsidienne raffinée en &2Obsidienne Compressée&r, tous utilisés dans l'&6Infuseur Métallurgique&f.",
+
+  "chapter.mekanism.quest.50.subtitle.1": "Four avec FE",
+  "chapter.mekanism.quest.50.description.1": "Le &bfour énergisé&f est votre &5four électrique&f de base qui utilise de l'énergie au lieu de carburant pour &6fondre des objets&f.",
+
+  "chapter.mekanism.quest.51.subtitle.1": "Création de Minerais",
+  "chapter.mekanism.quest.51.description.1": "Le &bCombineur&f permet au joueur de créer un &abloc de minerai&f à partir de &28 poussières&f.",
+
+  "chapter.mekanism.quest.52.subtitle.1": "Agrégation",
+  "chapter.mekanism.quest.52.description.1": "La &bChambre de Purification&f utilise de l'&7oxygène&f pour raffiner les minerais et les éclats en &agrume&f. Chaque minerai produit 3 agrumes, tandis que chaque éclat n'en donne qu'un.",
+
+  "chapter.mekanism.quest.53.subtitle.1": "Extraction de Gaz",
+  "chapter.mekanism.quest.53.description.1": "Le &bSéparateur Électrolytique&f envoie des courants continus contrôlés dans un fluide, provoquant la rupture des liaisons entre les atomes du fluide. Ce processus d'électrolyse est utilisé pour &ecréer certains gaz très utiles&f à partir de fluides assez ordinaires.",
+
+  "chapter.mekanism.quest.54.subtitle.1": "Transformation Chimique",
+  "chapter.mekanism.quest.54.description.1": "Le &bCondensentrator Rotatif&f est utilisé pour convertir des substances entre leurs formes liquides et gazeuses à un taux de 1:1.",
+  "chapter.mekanism.quest.54.description.2": "Il possède deux modes :",
+  "chapter.mekanism.quest.54.description.3": "&6Décondensation&f, qui transforme les liquides en gaz.",
+  "chapter.mekanism.quest.54.description.4": "&6Condensation&f, qui transforme les gaz en liquides.",
+
+  "chapter.mekanism.quest.55.subtitle.1": "Création de HDPE",
+  "chapter.mekanism.quest.55.description.1": "La &bChambre de Réaction Pressurisée (PRC)&f est principalement utilisée pour créer &1Substrat&f (pour créer des Pépites de HDPE), des &1Pépites de HDPE&f (pour créer des Feuilles de HDPE) et de l'&1Éthylène&f (une source de carburant efficace utilisée dans le Générateur à Combustion de Gaz).",
+
+  "chapter.mekanism.quest.56.subtitle.1": "Fusion de Gaz",
+  "chapter.mekanism.quest.56.description.1": "L'&bInfuseur Chimique&f combine ou réagit deux gaz pour créer un autre gaz.",
+
+  "chapter.mekanism.quest.57.subtitle.1": "Nettoyage",
+  "chapter.mekanism.quest.57.description.1": "Le &bCristallisoir Chimique&f transforme la lisier propre en cristaux et le lithium en poussière de lithium.",
+
+  "chapter.mekanism.quest.58.subtitle.1": "Création de Boues",
+  "chapter.mekanism.quest.58.description.1": "La &bChambre de Dissolution Chimique&f est la première machine dans la &cconfiguration de traitement de minerai x5&f. Elle transforme les &6minerais bruts&f en &6lisier&r en utilisant de l'acide sulfurique.",
+
+  "chapter.mekanism.quest.59.subtitle.1": "Fabrication de Gaz",
+  "chapter.mekanism.quest.59.description.1": "L'&bOxydant Chimique&f est utilisé pour fabriquer des gaz à partir de matériaux.",
+
+  "chapter.mekanism.quest.60.subtitle.1": "Nettoyage des Lisiers",
+  "chapter.mekanism.quest.60.description.1": "La &bLaveuse Chimique&f transforme la lisier en lisier propre en utilisant de l'eau.",
+
+  "chapter.mekanism.quest.61.subtitle.1": "Transformation de Gaz en Éclats",
+  "chapter.mekanism.quest.61.description.1": "La &bChambre d'Injection Chimique&f utilise du gaz d'Hydrogène Chloré pour transformer les minerais en 4 éclats.",
+
+  "chapter.mekanism.quest.62.subtitle.1": "Sciage de Bois pour des Planches",
+
+  "chapter.mekanism.quest.63.subtitle.1": "Compression d'Osmium",
+  "chapter.mekanism.quest.63.description.1": "Le &bCompresseur d'Osmium&f est utilisé pour créer des &aLingots d'Obsidienne Raffinée &fà partir de Poussière d'Obsidienne Raffinée et des &aLingots de Lumillons&f à partir de Poussière de Lumillons.",
+
+  "chapter.mekanism.quest.64.subtitle.1": "Broyage d'Objets",
+
+  "chapter.mekanism.quest.65.subtitle.1": "Stabilisation de l'Énergie",
+  "chapter.mekanism.quest.65.description.1": "L'amélioration &bEnergy Upgrade&f vous permet d'augmenter la &ecapacité de stockage d'énergie&f d'une machine Mekanism disposant d'un emplacement pour les améliorations, ainsi que de &eréduire sa consommation d'énergie&f.",
+
+  "chapter.mekanism.quest.66.subtitle.1": "Arrêtez le Bruit !",
+  "chapter.mekanism.quest.66.description.1": "La mise à niveau &bMuffling Upgrade&f réduit le bruit des machines Mekanism. Cette amélioration fonctionne bien avec la Scierie de Précision, car elle produit beaucoup de bruit lorsqu'elle est active.",
+
+  "chapter.mekanism.quest.67.subtitle.1": "Pierre à Plats",
+  "chapter.mekanism.quest.67.description.1": "Ajout d'une amélioration de Générateur de Pierre. Lorsqu'elle est installée dans une Mine Numérique, cette amélioration est capable de répondre aux demandes de "remplacer la pile" à la fois de Pierre et de Pierre de Cobblestone.",
+
+  "chapter.mekanism.quest.68.subtitle.1": "Alliage",
+  "chapter.mekanism.quest.68.description.1": "L'&bInfuseur Métallurgique&f est la première étape dans l'arbre technologique de Mekanism. L'&bInfuseur Métallurgique&f est une machine utilisée dans la production de &aLingots d'Acier&f, de &aLingot de Bronze&f, d'&aAlliage Enrichi&f et de &aLingots d'Obsidienne&f.",
+
+  "chapter.mekanism.quest.69.subtitle.1": "Faut Aller Vite",
+  "chapter.mekanism.quest.69.description.1": "L'amélioration de &bvitesse&f est conçue pour &etraiter les objets plus rapidement&f, vous pouvez installer 8 de ces améliorations dans chaque machine Mekanism.",
+
+  "chapter.mekanism.quest.70.subtitle.1": "Eau Lourde",
+  "chapter.mekanism.quest.70.description.1": "L'amélioration de &bfiltre&f est une amélioration qui, lorsqu'elle est utilisée dans la &epompe électrique&f, permet à la pompe électrique de produire de l'&9eau lourde&f.",
+
+  "chapter.mekanism.quest.71.subtitle.1": "Gaz Économique",
+  "chapter.mekanism.quest.71.description.1": "L'amélioration de &bgaz&f vous permet d'&eaugmenter l'efficacité d'utilisation du gaz&f d'une machine Mekanism qui le permet.",
+
+  "chapter.mekanism.quest.72.subtitle.1": "Gestionnaire QIO",
+  "chapter.mekanism.quest.72.description.1": "Les &dpavés de bord QIO&r permettent aux utilisateurs d'interagir avec le contenu d'un tableau de disques QIO. Il ressemble à un inventaire de coffre, mais vous pouvez rechercher, trier et faire défiler. Il affiche tous les objets d'un même type sous forme d'une seule pile, même s'il y en a des milliers. Pour accéder à un tableau de disques, le pavé de bord doit être réglé sur la même fréquence que le tableau de disques.",
+
+  "chapter.mekanism.quest.73.subtitle.1": "QIO de Base",
+  "chapter.mekanism.quest.73.description.1": "Les &bdisques QIO&r sont insérés dans un tableau de disques, ce qui lui permet de stocker plus d'objets. Chaque disque a un nombre d'objets et de types d'objets qu'il peut contenir.",
+  "chapter.mekanism.quest.73.description.2": "Un disque QIO de base peut contenir 16 000 objets et 128 types d'objets.",
+
+  "chapter.mekanism.quest.74.subtitle.1": "QIO Avancé",
+  "chapter.mekanism.quest.74.description.1": "Un disque QIO avancé peut contenir 128 000 objets et 256 types d'objets.",
+
+  "chapter.mekanism.quest.75.subtitle.1": "Exportation",
+  "chapter.mekanism.quest.75.description.1": "Une unité d'exportation d'objets liée à QIO. Placez-la sur un bloc et exportez le contenu de votre système QIO vers le bloc.",
+
+  "chapter.mekanism.quest.76.subtitle.1": "QIO à Dilatation Temporelle",
+  "chapter.mekanism.quest.76.description.1": "Un disque QIO à dilatation temporelle peut contenir 1 048 000 objets et 1 024 types d'objets.",
+
+  "chapter.mekanism.quest.77.subtitle.1": "QIO Supermassif",
+  "chapter.mekanism.quest.77.description.1": "Un disque QIO supermassif peut contenir 16 000 000 000 objets et 8 192 types d'objets.",
+
+  "chapter.mekanism.quest.78.subtitle.1": "Stockage Portable",
+
+  "chapter.mekanism.quest.79.subtitle.1": "QIO Absolu",
+  "chapter.mekanism.quest.79.description.1": "Un disque QIO absolu peut contenir 128 000 000 000 objets et 32 768 types d'objets.",
+
+  "chapter.mekanism.quest.80.subtitle.1": "QIO Suprême",
+  "chapter.mekanism.quest.80.description.1": "Un disque QIO suprême peut contenir 1 048 000 000 000 objets et 131 072 types d'objets",
+
+  "chapter.mekanism.quest.81.subtitle.1": "Importation",
+  "chapter.mekanism.quest.81.description.1": "Une unité d'importation d'objets liée à QIO. Placez-la sur un bloc et importez son contenu dans votre système QIO.",
+
+  "chapter.mekanism.quest.82.subtitle.1": "QIO Cosmique",
+  "chapter.mekanism.quest.82.description.1": "Un disque QIO cosmique peut contenir 8 000 000 000 000 objets et 131 072 types d'objets",
+
+  "chapter.mekanism.quest.83.subtitle.1": "QIO Infini",
+  "chapter.mekanism.quest.83.description.1": "Un disque QIO infini peut contenir 16 000 000 000 000 objets et 2 097 152 types d'objets",
+
+  "chapter.mekanism.quest.84.subtitle.1": "Baie d'Accueil QIO",
+  "chapter.mekanism.quest.84.description.1": "Le &bServeur du QIO&r est un bloc qui contient des Lecteurs QIO et transmet sans fil leur contenu à d'autres dispositifs QIO.",
+  "chapter.mekanism.quest.84.description.2": "Pour fonctionner, le tableau de disques doit être réglé sur une fréquence.",
+
+  "chapter.mekanism.quest.85.subtitle.1": "Premier Câble d'Énergie",
+  "chapter.mekanism.quest.85.description.1": "Les &bCâbles Universels&f sont le moyen de transfert de puissance de Mekanism. Capacité : 3,20 kFE/t",
+
+  "chapter.mekanism.quest.86.subtitle.1": "Câble d'Énergie Avancé",
+  "chapter.mekanism.quest.86.description.1": "Capacité : 51,20 kFE/t.",
+
+  "chapter.mekanism.quest.87.subtitle.1": "Câble d'Énergie Élite",
+  "chapter.mekanism.quest.87.description.1": "Capacité : 409,60 kFE/t.",
+
+  "chapter.mekanism.quest.88.subtitle.1": "Câble d'Énergie Ultime",
+  "chapter.mekanism.quest.88.description.1": "Capacité : 3,27 MFE/t.",
+
+  "chapter.mekanism.quest.89.subtitle.1": "Câble d'Énergie Absolu",
+  "chapter.mekanism.quest.89.description.1": "Capacité : 26,21 MFE/t.",
+
+  "chapter.mekanism.quest.90.subtitle.1": "Câble d'Énergie Suprême",
+  "chapter.mekanism.quest.90.description.1": "Capacité : 209,71 MFE/t.",
+
+  "chapter.mekanism.quest.91.subtitle.1": "Câble d'Énergie Cosmique",
+  "chapter.mekanism.quest.91.description.1": "Capacité : 1,67 GFE/t.",
+
+  "chapter.mekanism.quest.92.subtitle.1": "Câble d'Énergie Infini",
+  "chapter.mekanism.quest.92.description.1": "Capacité : 13,42 GFE/t.",
+
+  "chapter.mekanism.quest.93.subtitle.1": "Conduit de Gaz de Base",
+  "chapter.mekanism.quest.93.description.1": "Les &bTubes Pressurisés&f sont utilisés pour transporter des gaz. Capacité : 4k MB.",
+
+  "chapter.mekanism.quest.94.subtitle.1": "Conduit de Gaz Avancée",
+  "chapter.mekanism.quest.94.description.1": "Capacité : 16k MB",
+
+  "chapter.mekanism.quest.95.subtitle.1": "Conduit de Gaz Élite",
+  "chapter.mekanism.quest.95.description.1": "Capacité : 256k MB",
+
+  "chapter.mekanism.quest.96.subtitle.1": "Conduit de Gaz Ultime",
+  "chapter.mekanism.quest.96.description.1": "Capacité : 1024k MB",
+
+  "chapter.mekanism.quest.97.subtitle.1": "Conduit de Liquides de Base",
+  "chapter.mekanism.quest.97.description.1": "Le &bTuyau Mécanique&f est le tuyau de liquide pour la logistique de Mekanism. Il peut être utilisé pour se connecter à n'importe quels blocs dotés de Manipulateurs de Liquides. Capacité : 2k MB.",
+
+  "chapter.mekanism.quest.98.subtitle.1": "Conduit de Liquides Avancée",
+  "chapter.mekanism.quest.98.description.1": "Capacité : 8k MB.",
+
+  "chapter.mekanism.quest.99.subtitle.1": "Conduit de Liquides Élite",
+  "chapter.mekanism.quest.99.description.1": "Capacité : 32k MB.",
+
+  "chapter.mekanism.quest.100.subtitle.1": "Conduit de Liquides Ultime",
+  "chapter.mekanism.quest.100.description.1": "Capacité : 128k MB.",
+
+  "chapter.mekanism.quest.101.subtitle.1": "Conduit de Liquides Absolue",
+  "chapter.mekanism.quest.101.description.1": "Capacité : 512k MB.",
+
+  "chapter.mekanism.quest.102.subtitle.1": "Conduit de Liquides Suprême",
+  "chapter.mekanism.quest.102.description.1": "Capacité : 2048k MB.",
+
+  "chapter.mekanism.quest.103.subtitle.1": "Conduit de Liquides Cosmique",
+  "chapter.mekanism.quest.103.description.1": "Capacité : 8192k MB.",
+
+  "chapter.mekanism.quest.104.subtitle.1": "Conduit de Liquides Infinie",
+  "chapter.mekanism.quest.104.description.1": "Capacité : 32768k MB.",
+
+  "chapter.mekanism.quest.105.subtitle.1": "Conduit de Chaleur de Base",
+  "chapter.mekanism.quest.105.description.1": "Similaire au Câble Universel, le &bConducteur Thermodynamique&f est la méthode de Mekanism pour transférer la puissance sous forme de chaleur.",
+
+  "chapter.mekanism.quest.106.subtitle.1": "Conduit de Chaleur Avancée",
+  "chapter.mekanism.quest.106.description.1": "Similaire au Câble Universel, le &bConducteur Thermodynamique&f est la méthode de Mekanism pour transférer la puissance sous forme de chaleur.",
+
+  "chapter.mekanism.quest.107.subtitle.1": "Conduit de Chaleur Élite",
+  "chapter.mekanism.quest.107.description.1": "Similaire au Câble Universel, le &bConducteur Thermodynamique&f est la méthode de Mekanism pour transférer la puissance sous forme de chaleur.",
+
+  "chapter.mekanism.quest.108.subtitle.1": "Conduit de Chaleur Ultime",
+  "chapter.mekanism.quest.108.description.1": "Similaire au Câble Universel, le &bConducteur Thermodynamique&f est la méthode de Mekanism pour transférer la puissance sous forme de chaleur.",
+
+  "chapter.mekanism.quest.109.subtitle.1": "Conduit de Transport de Base",
+  "chapter.mekanism.quest.109.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 1 m/s.",
+
+  "chapter.mekanism.quest.110.subtitle.1": "Conduit de Transport Avancée",
+  "chapter.mekanism.quest.110.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 2 m/s.",
+
+  "chapter.mekanism.quest.111.subtitle.1": "Conduit de Transport Élite",
+  "chapter.mekanism.quest.111.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 4 m/s.",
+
+  "chapter.mekanism.quest.112.subtitle.1": "Conduit de Transport Ultime",
+  "chapter.mekanism.quest.112.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 10 m/s.",
+
+  "chapter.mekanism.quest.113.subtitle.1": "Conduit de Transport Absolue",
+  "chapter.mekanism.quest.113.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 20 m/s.",
+
+  "chapter.mekanism.quest.114.subtitle.1": "Conduit de Transport Suprême",
+  "chapter.mekanism.quest.114.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 40 m/s.",
+
+  "chapter.mekanism.quest.115.subtitle.1": "Conduit de Transport Cosmique",
+  "chapter.mekanism.quest.115.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 80 m/s.",
+
+  "chapter.mekanism.quest.116.subtitle.1": "Conduit de Transport Infinie",
+  "chapter.mekanism.quest.116.description.1": "Les &bTransporteurs Logistiques&r sont utilisés pour le transport d'objets. Vitesse : 160 m/s.",
+
+  "chapter.mekanism.quest.117.subtitle.1": "Casque Ultime",
+
+  "chapter.mekanism.quest.118.subtitle.1": "Plastron Ultime",
+
+  "chapter.mekanism.quest.119.subtitle.1": "Jambières Ultime",
+
+  "chapter.mekanism.quest.120.subtitle.1": "Bottes Ultime",
+
+  "chapter.mekanism.quest.121.subtitle.1": "Hyper Modulation",
+
+  "chapter.mekanism.quest.122.subtitle.1": "Plus de Minerais",
+  "chapter.mekanism.quest.122.description.1": "Augmente les rendements des minerais",
+
+  "chapter.mekanism.quest.123.subtitle.1": "Bottes Magnétiques",
+  "chapter.mekanism.quest.123.description.1": "L'&bUnité d'Attraction Magnétique&r est un module appliqué aux bottes Mekasuit.",
+  "chapter.mekanism.quest.123.description.2": "Comme l'indique la description de l'objet '[L'unité] Utilise de puissants aimants pour attirer les objets éloignés vers le joueur', vous pouvez en installer jusqu'à 4 sur une paire de bottes.",
+
+  "chapter.mekanism.quest.124.subtitle.1": "Protection Contre la Lave",
+  "chapter.mekanism.quest.124.description.1": "Exploite l'énergie géothermique de l'environnement environnant et améliore la protection contre les dégâts causés par les sources de chaleur. Installez-en plusieurs pour une charge plus rapide et une meilleure protection.",
+
+  "chapter.mekanism.quest.125.subtitle.1": "Distribution d'Énergie",
+  "chapter.mekanism.quest.125.description.1": "Les &bUnités de Distribution de Charge&r sont des modules qui distribuent de manière égale l'énergie gagnée à toutes les pièces d'armure MekaSuit. Normalement, si vous avez installé des Unités de Recharge Solaire sur votre Casque MekaSuit, seul le casque bénéficiera de toute l'énergie qu'il produit. Avec l'Unité de Distribution de Charge installée, l'énergie produite sera répartie uniformément dans toutes les pièces d'armure MekaSuit.",
+
+  "chapter.mekanism.quest.126.subtitle.1": "Voici l'Explosion",
+  "chapter.mekanism.quest.126.description.1": "Utilise des explosions contrôlées pour détruire les blocs environnants dans le plan cible.",
+
+  "chapter.mekanism.quest.127.subtitle.1": "Eau Gelée",
+  "chapter.mekanism.quest.127.description.1": "Utilise de l'hydrogène liquide pour geler toute l'eau sur laquelle le joueur marche. Installez-en plusieurs pour une plus grande portée.",
+
+  "chapter.mekanism.quest.128.subtitle.1": "x2 Énergie",
+  "chapter.mekanism.quest.128.description.1": "Les &bUnités d'Énergie&r sont des modules qui doubleront la capacité énergétique actuelle de la pièce d'armure MekaSuit sélectionnée.",
+
+  "chapter.mekanism.quest.129.subtitle.1": "Précision Inégalée",
+  "chapter.mekanism.quest.129.description.1": "Permet la création de lames d'énergie pour des coupes précises. N'ajoute pas d'épées laser.",
+
+  "chapter.mekanism.quest.130.subtitle.1": "Des lasers ? Non merci",
+  "chapter.mekanism.quest.130.description.1": "Réfracte et dissipe en toute sécurité les lasers qui touchent n'importe quelle pièce d'armure MekaSuit.",
+
+  "chapter.mekanism.quest.131.subtitle.1": "Ultimine",
+  "chapter.mekanism.quest.131.description.1": "L'&bUnité d'Extraction de Veine&r permet une extraction rapide des gisements de minerais et l'abattage rapide des arbres.",
+
+  "chapter.mekanism.quest.132.subtitle.1": "Propulsé par Jet",
+  "chapter.mekanism.quest.132.description.1": "Les &bUnités de Jetpack&r sont des modules qui permettent à votre Armure Corporelle MekaSuit d'avoir les fonctions d'un jetpack.",
+  "chapter.mekanism.quest.132.description.2": "Une fois appliqué, l'Armure Corporelle MekaSuit disposera d'un stockage interne pour l'hydrogène (48 000 mb).",
+  "chapter.mekanism.quest.132.description.3": "L'Unité de Jetpack est mieux associée à l'Unité de Respiration Électrolytique. Cela permet d'accumuler de l'hydrogène lorsque vous êtes sous l'eau ou sous la pluie.",
+
+  "chapter.mekanism.quest.133.subtitle.1": "Radi-Action",
+  "chapter.mekanism.quest.133.description.1": "Affiche le niveau de radiation ambiant dans l'HUD.",
+
+  "chapter.mekanism.quest.134.subtitle.1": "Protection contre les Radiations",
+  "chapter.mekanism.quest.134.description.1": "Les &bUnités de Protection contre les Radiations&r sont des modules qui permettent à votre pièce d'armure MekaSuit d'agir comme les pièces respectives de la Combinaison Hazmat et de vous protéger contre les radiations.",
+
+  "chapter.mekanism.quest.135.subtitle.1": "Agriculture Facile",
+  "chapter.mekanism.quest.135.description.1": "L'&bUnité Agricole&r est un module qui est appliqué à l'Outil Meka. Elle donne à l'outil plusieurs fonctions liées à l'agriculture. Jusqu'à 4 peuvent être empilés sur un seul outil.",
+  "chapter.mekanism.quest.135.description.2": "L'Unité Agricole débloque les capacités suivantes dans l'Outil Meka :",
+  "chapter.mekanism.quest.135.description.3": "• Labourage de la terre",
+  "chapter.mekanism.quest.135.description.4": "• Décapage de bois",
+  "chapter.mekanism.quest.135.description.5": "• Nivellement du sol",
+
+  "chapter.mekanism.quest.136.subtitle.1": "Manipulateur Prudent",
+  "chapter.mekanism.quest.136.description.1": "L'&bUnité Toucher de Soie&r est un module dans Mekanism qui est installé sur l'Outil Meka, ce qui confère à l'outil la propriété de l'enchantement Toucher de Soie.",
+
+  "chapter.mekanism.quest.137.subtitle.1": "Compteur de Radiation",
+  "chapter.mekanism.quest.137.description.1": "Les &bUnités de Dosimètre&r sont des modules qui afficheront votre dose de radiation dans l'HUD en bas à droite.",
+
+  "chapter.mekanism.quest.138.subtitle.1": "Mineur Rapide",
+  "chapter.mekanism.quest.138.description.1": "L'&bUnité d'Escalade d'Excavation&r est un module qui, lorsqu'il est ajouté à un Outil Meka, augmente la vitesse de minage de tous les blocs.",
+
+  "chapter.mekanism.quest.139.subtitle.1": "Effet de Potion, non merci",
+  "chapter.mekanism.quest.139.description.1": "Les &bUnités de Purification par Inhalation&r sont des modules qui peuvent protéger le joueur contre certains effets de potion sélectionnés, y compris les effets bénéfiques, neutres et nocifs.",
+
+  "chapter.mekanism.quest.140.subtitle.1": "Tueur de Mobs",
+  "chapter.mekanism.quest.140.description.1": "L'&bUnité d'Amplification d'Attaque&r est un module qui amplifie les attaques au corps à corps à la fois sur les joueurs et les monstres. Il ne peut être appliqué qu'à l'Outil Meka.",
+
+  "chapter.mekanism.quest.141.subtitle.1": "Soleil dans mes Poches",
+  "chapter.mekanism.quest.141.description.1": "Les &bUnités de Recharge Solaire&r sont des modules qui chargent votre MekaSuit lorsqu'il est exposé directement à la lumière du soleil.",
+
+  "chapter.mekanism.quest.142.subtitle.1": "Téléportation !",
+  "chapter.mekanism.quest.142.description.1": "L'&bUnité de Téléportation&r permet de se déplacer rapidement vers des blocs proches.",
+
+  "chapter.mekanism.quest.143.subtitle.1": "Sous la Mer",
+  "chapter.mekanism.quest.143.description.1": "Les &bUnités de Respiration Électrolytique&r sont des modules qui vous permettent de respirer sous l'eau.",
+  "chapter.mekanism.quest.143.description.2": "De plus, si l'Unité de Jetpack est installée sur l'Armure Corporelle MekaSuit, elle commencera automatiquement à recharger son approvisionnement en hydrogène sous l'eau ou sous la pluie.",
+
+  "chapter.mekanism.quest.144.subtitle.1": "Choo-Choo",
+  "chapter.mekanism.quest.144.description.1": "Les &bUnités de Boost Locomotif&r sont des modules qui vous permettront d'augmenter votre vitesse de sprint et la distance de saut.",
+  "chapter.mekanism.quest.144.description.2": "Elles peuvent être configurées de 0,0 à 0,5 de boost de sprint. Notez que votre consommation de faim augmentera également.",
+
+  "chapter.mekanism.quest.145.subtitle.1": "Kangourou",
+  "chapter.mekanism.quest.145.description.1": "Les &bUnités de Propulsion Hydraulique&r sont des modules qui vous permettent de grimper sur un maximum de 2 blocs. Elles vous permettent également de sauter plus haut lorsque vous maintenez la touche Contrôle Gauche enfoncée et que vous sautez (Ctrl gauche+Espace).",
+
+  "chapter.mekanism.quest.146.subtitle.1": "C'est l'Heure de Manger",
+  "chapter.mekanism.quest.146.description.1": "Les &bUnités d'Injection Nutritionnelle&r sont des modules qui peuvent être installés sur un Casque MekaSuit pour supprimer le besoin de manger manuellement.",
+  "chapter.mekanism.quest.146.description.2": "Lorsqu'ils sont installés, le Casque MekaSuit disposera d'un stockage interne de Pâte Nutritionnelle (128 000 mb).",
+
+  "chapter.mekanism.quest.147.subtitle.1": "Qui a besoin d'ailes ?",
+  "chapter.mekanism.quest.147.description.1": "Les &bUnités de Modulation Gravitationnelle&r sont des modules qui permettent à l'utilisateur d'utiliser le vol créatif.",
+  "chapter.mekanism.quest.147.description.2": "Si l'Armure Corporelle MekaSuit a également une Unité de Jetpack installée, l'Unité de Jetpack sera automatiquement désactivée si l'Unité de Modulation Gravitationnelle est activée, et vice versa.",
+
+  "chapter.mekanism.quest.148.subtitle.1": "Ailes en Plastique",
+  "chapter.mekanism.quest.148.description.1": "Applique une Élytre Renforcée en HDPE à l'Armure Corporelle MekaSuit.",
+
+  "chapter.mekanism.quest.149.subtitle.1": "Vision Nocturne",
+  "chapter.mekanism.quest.149.description.1": "Les &bUnités d'Amélioration de la Vision&r sont des modules qui peuvent être installés sur un Casque MekaSuit pour améliorer la vision nocturne.",
+
+  "chapter.mekanism.quest.150.subtitle.1": "Moïse",
+  "chapter.mekanism.quest.150.description.1": "Utilise une technologie avancée pour repousser l'eau, réduisant la résistance ressentie lors du déplacement à travers celle-ci.",
+
+  "chapter.mekanism.quest.151.subtitle.1": "Acide, non merci",
+  "chapter.mekanism.quest.151.description.1": "Ne subit pas de dégâts de pluie acide dans les dimensions de Beyond Earth.",
+
+  "chapter.mekanism.quest.152.subtitle.1": "Limitation de Mise à la Terre",
+  "chapter.mekanism.quest.152.description.1": "Permet à l'utilisateur d'agir comme s'il était sur un sol solide.",
+
+  "chapter.mekanism.quest.153.subtitle.1": "Respiration",
+  "chapter.mekanism.quest.153.description.1": "Peut respirer dans les dimensions de Beyond Earth.",
+  "chapter.mekanism.quest.153.description.2": "Remplira également l'objet tenu avec de l'oxygène lorsqu'il est sous la pluie ou dans l'eau.",
+  "chapter.mekanism.quest.153.description.3": "Nécessite une 'Canette d'Oxygène' activée dans l'inventaire.",
+
+  "chapter.mekanism.quest.154.subtitle.1": "Fin des Brûlures",
+  "chapter.mekanism.quest.154.description.1": "Vous ne serez plus en feu dans les dimensions de Beyond Earth.",
+
+  "chapter.mekanism.quest.155.subtitle.1": "Gravitation Normale",
+  "chapter.mekanism.quest.155.description.1": "Définit la gravitation comme normale dans les dimensions de Beyond Earth.",
+
+  "chapter.mekanism.quest.156.subtitle.1": "Pioche Mekanism Ultime",
+
+  "chapter.mekanism.quest.157.subtitle.1": "Outil Ultime Mekanism"
 }
