@@ -1673,7 +1673,7 @@
   "chapter.stage.7.quest.7.subtitle.1": "Autocraft Ultimate Crafts !",
 
   "chapter.stage.7.quest.8.subtitle.1": "Crafting Maestro",
-  "chapter.stage.7.quest.8.description.1": "You can now autocraft more than 3 recipes ! Don't forget that this works with Applied see Stage 4 for Automation.",
+  "chapter.stage.7.quest.8.description.1": "You can now autocraft more than 3 recipes ! Don't forget that this works with Applied. Look at Stage 4 for Crafting Automation.",
 
   "chapter.stage.7.quest.9.subtitle.1": "Chemical Bismuth Fusion",
   "chapter.stage.7.quest.9.description.1": "With The Fusion Reactor get some Cesium Element",
@@ -1800,6 +1800,7 @@
 
   "chapter.stage.7.quest.41.title": "Kill the &4Choas Guardian",
   "chapter.stage.7.quest.41.subtitle.1": "Slaying The Beast",
+  "chapter.stage.7.quest.41.description.1": "To fight against the boss, you need to find a combat area on a 10,000 x 10,000 block grid. For example, one can be found at coordinates x = -10000 and z = 10000",
 
   "chapter.stage.7.quest.42.subtitle.1": "Chaos Loot",
 

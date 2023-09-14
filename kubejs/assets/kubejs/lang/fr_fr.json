@@ -1497,8 +1497,8 @@
 
   "chapter.stage.5.quest.64.subtitle.1": "Tablette de stockage singulière",
 
-  "chapter.stage.5.quest.65.title.1": "Réacteur à fission",
-  "chapter.stage.5.quest.65.subtitle.1": "Réacteur à fission Mekanism",
+  "chapter.stage.5.quest.65.title.1": "Réacteur de fission",
+  "chapter.stage.5.quest.65.subtitle.1": "Réacteur de fission Mekanism",
   "chapter.stage.5.quest.65.description.1": "Le réacteur à fission est utilisé pour créer des déchets chimiques. Vous verrez comment gérer cela plus tard.",
 
   "chapter.stage.5.quest.66.subtitle.1": "Énergie solaire... encore",
@@ -1617,7 +1617,7 @@
   "chapter.stage.6.quest.36.subtitle.1": "Alliage Cosmique",
   "chapter.stage.6.quest.36.description.1": "Infusez simplement un Alliage Suprême avec l'infusion de Venustar Luminae.",
 
-  "chapter.stage.6.quest.37.title": "Le Réacteur à Fusion",
+  "chapter.stage.6.quest.37.title": "Le Réacteur de Fusion",
   "chapter.stage.6.quest.37.subtitle.1": "Réacteur Ultime",
   "chapter.stage.6.quest.37.description.1": "Le &bRéacteur de Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
   "chapter.stage.6.quest.37.description.2": "• 75x Structure de Reacteur à fusion (Construction + autres pièces du réacteur).",
@@ -1673,7 +1673,7 @@
   "chapter.stage.7.quest.7.subtitle.1": "Automatisation des Crafts Ultime !",
 
   "chapter.stage.7.quest.8.subtitle.1": "Maestro de Craft",
-  "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 recettes ! N'oubliez pas que cela fonctionne avec Applied, voir Étape 4 pour l'Automatisation.",
+  "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 recettes ! N'oubliez pas que cela fonctionne avec Applied. Voir l'Étape 4 pour pour automatiser les crafts.",
 
   "chapter.stage.7.quest.9.subtitle.1": "Fusion Chimique du Bismuth",
   "chapter.stage.7.quest.9.description.1": "Avec le Réacteur de Fusion, obtenez de l'Élément Césium",
@@ -1800,6 +1800,7 @@
 
   "chapter.stage.7.quest.41.title": "Tuez le &4Choas Guardian",
   "chapter.stage.7.quest.41.subtitle.1": "Tuez la bête",
+  "chapter.stage.7.quest.41.description.1": "Pour affronter le boss, il faut trouver sur une grille de 10000 blocs sur 10000 blocs une zone de combat. Par exemple, on peut en trouver aux coordonnées x = -10000 et z = 10000",
 
   "chapter.stage.7.quest.42.subtitle.1": "Butin du chaos",
 
@@ -2536,7 +2537,7 @@
   "chapter.mekanism.quest.66.description.1": "La mise à niveau &bMuffling Upgrade&f réduit le bruit des machines Mekanism. Cette amélioration fonctionne bien avec la Scierie de Précision, car elle produit beaucoup de bruit lorsqu'elle est active.",
 
   "chapter.mekanism.quest.67.subtitle.1": "Pierre à Plats",
-  "chapter.mekanism.quest.67.description.1": "Ajout d'une amélioration de Générateur de Pierre. Lorsqu'elle est installée dans une Mine Numérique, cette amélioration est capable de répondre aux demandes de "remplacer la pile" à la fois de Pierre et de Pierre de Cobblestone.",
+  "chapter.mekanism.quest.67.description.1": "Ajout d'une amélioration de Générateur de Pierre. Lorsqu'elle est installée dans une Mine Numérique, cette amélioration est capable de répondre aux demandes de 'remplacer la pile' à la fois de Pierre et de Pierre de Cobblestone.",
 
   "chapter.mekanism.quest.68.subtitle.1": "Alliage",
   "chapter.mekanism.quest.68.description.1": "L'&bInfuseur Métallurgique&f est la première étape dans l'arbre technologique de Mekanism. L'&bInfuseur Métallurgique&f est une machine utilisée dans la production de &aLingots d'Acier&f, de &aLingot de Bronze&f, d'&aAlliage Enrichi&f et de &aLingots d'Obsidienne&f.",
