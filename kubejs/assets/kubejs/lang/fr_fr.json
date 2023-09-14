@@ -1412,9 +1412,9 @@
 
   "chapter.stage.5.quest.34.subtitle.1": "Voyager à Alfheim",
 
-  "chapter.stage.5.quest.35.title.1": "Réacteur de Fission",
-  "chapter.stage.5.quest.35.subtitle.1": "Construire le Réacteur de Fission",
-  "chapter.stage.5.quest.35.description.1": "Combinant plusieurs méthodes de fabrication, le Réacteur de Fission peut séparer des éléments avancés.",
+  "chapter.stage.5.quest.35.title.1": "Réacteur à Fission",
+  "chapter.stage.5.quest.35.subtitle.1": "Construire le Réacteur à Fission",
+  "chapter.stage.5.quest.35.description.1": "Combinant plusieurs méthodes de fabrication, le Réacteur à Fission peut séparer des éléments avancés.",
 
   "chapter.stage.5.quest.36.subtitle.1": "Il a vraiment besoin de menthe",
   "chapter.stage.5.quest.36.description.1": "Grâce à la prédiction du Dragon de l'End, obtenez un Souffle de Dragon",
@@ -1423,7 +1423,7 @@
   "chapter.stage.5.quest.37.description.1": "En utilisant le Dissolveur, dissoudre du &5Souffle de Dragon&r pour obtenir des Éléments Oganesson.",
 
   "chapter.stage.5.quest.38.subtitle.1": "Fission de l'Oganesson",
-  "chapter.stage.5.quest.38.description.1": "Utilisez simplement le Réacteur de Fission avec de l'Oganesson et obtenez du Praseodymium",
+  "chapter.stage.5.quest.38.description.1": "Utilisez simplement le Réacteur à Fission avec de l'Oganesson et obtenez du Praseodymium",
 
   "chapter.stage.5.quest.39.subtitle.1": "Compactage du Praseodymium",
 
@@ -1440,7 +1440,7 @@
   "chapter.stage.5.quest.43.description.1": "En utilisant le Dissolveur, dissoudre de la &5Pierre de l'End&r pour obtenir des Éléments Thorium.",
 
   "chapter.stage.5.quest.44.subtitle.1": "Fission du Thorium",
-  "chapter.stage.5.quest.44.description.1": "Utilisez le Réacteur de Fission pour obtenir du Rhodium.",
+  "chapter.stage.5.quest.44.description.1": "Utilisez le Réacteur à Fission pour obtenir du Rhodium.",
 
   "chapter.stage.5.quest.45.subtitle.1": "Constructeur de Turbine",
   "chapter.stage.5.quest.45.description.1": "Construisez de Grandes Turbines. Pour les obtenir, énergisez simplement les Éléments Rhodium avec des Blocs de Graphite et de Cyanite.",
@@ -1449,7 +1449,7 @@
   "chapter.stage.5.quest.46.description.1": "En utilisant le Dissolveur, dissoudre &3Larmes de Ghast&r pour obtenir des Éléments Polonium.",
 
   "chapter.stage.5.quest.47.subtitle.1": "Fission du Polonium",
-  "chapter.stage.5.quest.47.description.1": "Utilisez le Réacteur de Fission pour obtenir du Molybdenum.",
+  "chapter.stage.5.quest.47.description.1": "Utilisez le Réacteur à Fission pour obtenir du Molybdenum.",
 
   "chapter.stage.5.quest.48.subtitle.1": "Constructeur d'Échangeur Thermique",
   "chapter.stage.5.quest.48.description.1": "L'Échangeur Thermique est facultatif, vous pouvez créer de la vapeur avec juste le réacteur (remplacez la prise de courant par deux ports de refroidissement, un pour l'entrée d'eau et l'autre pour la sortie de vapeur).",
@@ -1497,8 +1497,8 @@
 
   "chapter.stage.5.quest.64.subtitle.1": "Tablette de stockage singulière",
 
-  "chapter.stage.5.quest.65.title.1": "Réacteur de fission",
-  "chapter.stage.5.quest.65.subtitle.1": "Réacteur de fission Mekanism",
+  "chapter.stage.5.quest.65.title.1": "Réacteur à fission",
+  "chapter.stage.5.quest.65.subtitle.1": "Réacteur à fission Mekanism",
   "chapter.stage.5.quest.65.description.1": "Le réacteur à fission est utilisé pour créer des déchets chimiques. Vous verrez comment gérer cela plus tard.",
 
   "chapter.stage.5.quest.66.subtitle.1": "Énergie solaire... encore",
@@ -1617,9 +1617,9 @@
   "chapter.stage.6.quest.36.subtitle.1": "Alliage Cosmique",
   "chapter.stage.6.quest.36.description.1": "Infusez simplement un Alliage Suprême avec l'infusion de Venustar Luminae.",
 
-  "chapter.stage.6.quest.37.title": "Le Réacteur de Fusion",
+  "chapter.stage.6.quest.37.title": "Le Réacteur à Fusion",
   "chapter.stage.6.quest.37.subtitle.1": "Réacteur Ultime",
-  "chapter.stage.6.quest.37.description.1": "Le &bRéacteur de Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
+  "chapter.stage.6.quest.37.description.1": "Le &bRéacteur à Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
   "chapter.stage.6.quest.37.description.2": "• 75x Structure de Reacteur à fusion (Construction + autres pièces du réacteur).",
   "chapter.stage.6.quest.37.description.3": "• 2x Port de réacteur à fusion.",
   "chapter.stage.6.quest.37.description.4": "• 1x Contrôleur de réacteur à fusion.",
@@ -1631,7 +1631,7 @@
 
   "chapter.stage.6.quest.39.title": "Kit de Démarrage pour Réacteur",
   "chapter.stage.6.quest.39.subtitle.1": "Configuration de Démarrage du Réacteur",
-  "chapter.stage.6.quest.39.description.1": "&bLe Réacteur de Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
+  "chapter.stage.6.quest.39.description.1": "&bLe Réacteur à Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
   "chapter.stage.6.quest.39.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutérium et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
   "chapter.stage.6.quest.39.description.3": "L'onglet statistiques détaille la température d'ignition nécessaire pour que la réaction commence. Pour atteindre cette température, un Amplificateur Laser doit être chargé d'énergie provenant de plusieurs Lasers l'alimentant, et tiré dans la Matrice de Focus Laser. L'énergie nécessaire pour démarrer la réaction requiert 400MFE. Elle doit être injectée en une seule grande impulsion pour éviter que la température ne se dissipe, donc ajouter une sensibilité au Redstone ou augmenter l'énergie minimale requise par l'Amplificateur empêchera son déclenchement prématuré.",
   "chapter.stage.6.quest.39.description.4": "Avec le Hohlraum dans le Contrôleur de Réacteur et suffisamment d'énergie stockée dans l'Amplificateur, tirez le laser pour commencer la réaction de fusion. Si une température suffisamment élevée a été atteinte, vous devriez immédiatement voir et entendre le réacteur fonctionner. Pour soutenir la réaction, la température ne doit pas descendre en dessous de la température d'ignition. Assurez-vous que le taux d'injection est suffisamment élevé et que le carburant est constamment fourni.",
@@ -1643,7 +1643,7 @@
 
   "chapter.stage.6.quest.42.subtitle.1": "Stockage d'Énergie Cosmique",
 
-  "chapter.stage.6.quest.43.title": "Réacteur de fusion alchimique",
+  "chapter.stage.6.quest.43.title": "Réacteur à fusion alchimique",
   "chapter.stage.6.quest.43.subtitle.1": "Fusionneur d'Élément Chimique",
   "chapter.stage.6.quest.43.description.1": "Combine 2 Éléments Chimiques compatibles pour obtenir un Super Élément Chimique.",
 
@@ -1655,7 +1655,7 @@
   "chapter.stage.7.title": "Étape 7",
 
   "chapter.stage.7.quest.1.subtitle.1": "Fusion Chimique de Césium",
-  "chapter.stage.7.quest.1.description.1": "Avec le Réacteur de Fusion, obtenez de l'élément Césium.",
+  "chapter.stage.7.quest.1.description.1": "Avec le Réacteur à Fusion, obtenez de l'élément Césium.",
 
   "chapter.stage.7.quest.2.subtitle.1": "Compactage du Césium",
 
@@ -1676,7 +1676,7 @@
   "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 recettes ! N'oubliez pas que cela fonctionne avec Applied. Voir l'Étape 4 pour pour automatiser les crafts.",
 
   "chapter.stage.7.quest.9.subtitle.1": "Fusion Chimique du Bismuth",
-  "chapter.stage.7.quest.9.description.1": "Avec le Réacteur de Fusion, obtenez de l'Élément Césium",
+  "chapter.stage.7.quest.9.description.1": "Avec le Réacteur à Fusion, obtenez de l'Élément Bismuth",
 
   "chapter.stage.7.quest.10.subtitle.1": "Compression du Bismuth",
 
@@ -2367,9 +2367,9 @@
   "chapter.mekanism.quest.17.subtitle.1": "Énergie Écologique",
   "chapter.mekanism.quest.17.description.1": "Les &bBio-Générateurs&f produisent de l'électricité à partir de &aBio Carburant&f.",
 
-  "chapter.mekanism.quest.18.title": "Le Réacteur de Fusion",
+  "chapter.mekanism.quest.18.title": "Le Réacteur à Fusion",
   "chapter.mekanism.quest.18.subtitle.1": "Réacteur Ultime",
-  "chapter.mekanism.quest.18.description.1": "Le &bRéacteur de Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
+  "chapter.mekanism.quest.18.description.1": "Le &bRéacteur à Fusion&r est une structure multi-blocs qui permet des taux d'entrée variables de 3 types de carburant : Deutérium, Tritium et Carburant D-T. En refroidissant la structure avec de l'eau, de la vapeur peut être produite en parallèle de l'énergie, ce qui est utile pour alimenter une Turbine Industrielle.",
   "chapter.mekanism.quest.18.description.2": "• 75x Structure de Reacteur à fusion (Construction + autres pièces du réacteur).",
   "chapter.mekanism.quest.18.description.3": "• 2x Port de réacteur à fusion.",
   "chapter.mekanism.quest.18.description.4": "• 1x Contrôleur de réacteur à fusion.",
@@ -2378,7 +2378,7 @@
 
   "chapter.mekanism.quest.19.title": "Kit de Démarrage pour Réacteur",
   "chapter.mekanism.quest.19.subtitle.1": "Configuration de Démarrage du Réacteur",
-  "chapter.mekanism.quest.19.description.1": "&bLe Réacteur de Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
+  "chapter.mekanism.quest.19.description.1": "&bLe Réacteur à Fusion&r ne démarrera pas de lui-même. Il nécessite une impulsion d'énergie extérieure d'un Amplificateur Laser chargé et une petite quantité de Carburant D-T pour commencer le processus de fusion. Une fois la réaction amorcée, il commencera à consommer du Deutérium et du Tritium fournis, créant du plasma et générant de l'énergie. Alternativement, vous pouvez utiliser un Chauffage Résistif pour chauffer le réacteur à une température de Plasma de 100.00MK. Cela peut être fait le plus rapidement à 10MFE/t d'utilisation sur le chauffage",
   "chapter.mekanism.quest.19.description.2": "&bLe Hohlraum&r stocke 10 unités de Carburant D-T nécessaires pour la réaction initiale. Pour le remplir, placez-le dans un Infuseur Chimique qui combine le Deutérium et le Tritium. Placez le Hohlraum dans le Contrôleur de Réacteur lorsqu'il contient le Carburant D-T requis.",
   "chapter.mekanism.quest.19.description.3": "L'onglet statistiques détaille la température d'ignition nécessaire pour que la réaction commence. Pour atteindre cette température, un Amplificateur Laser doit être chargé d'énergie provenant de plusieurs Lasers l'alimentant, et tiré dans la Matrice de Focus Laser. L'énergie nécessaire pour démarrer la réaction requiert 400MFE. Elle doit être injectée en une seule grande impulsion pour éviter que la température ne se dissipe, donc ajouter une sensibilité au Redstone ou augmenter l'énergie minimale requise par l'Amplificateur empêchera son déclenchement prématuré.",
   "chapter.mekanism.quest.19.description.4": "Avec le Hohlraum dans le Contrôleur de Réacteur et suffisamment d'énergie stockée dans l'Amplificateur, tirez le laser pour commencer la réaction de fusion. Si une température suffisamment élevée a été atteinte, vous devriez immédiatement voir et entendre le réacteur fonctionner. Pour soutenir la réaction, la température ne doit pas descendre en dessous de la température d'ignition. Assurez-vous que le taux d'injection est suffisamment élevé et que le carburant est constamment fourni.",
@@ -2395,7 +2395,7 @@
   "chapter.mekanism.quest.21.subtitle.1": "Création d'Antimatière",
   "chapter.mekanism.quest.21.description.1": "Avec le SPS et du Gaz de Polonium, créez de l'antimatière.",
 
-  "chapter.mekanism.quest.22.title": "Réacteur de Turbine",
+  "chapter.mekanism.quest.22.title": "Réacteur à Turbine",
   "chapter.mekanism.quest.22.subtitle.1": "La Vapeur tourne à toute vitesse",
   "chapter.mekanism.quest.22.description.1": "La &bStructure de Turbine&f est un boîtier résistant à la pression utilisé dans la création de la structure multi-blocs de la &cTurbine Industrielle&f.",
   "chapter.mekanism.quest.22.description.2": "La &bBobine Électromagnétique&f est un bloc utilisé dans la création de plusieurs structures multi-blocs, y compris la Chaudière Thermoelectrique.",
