@@ -477,13 +477,23 @@
               }
             },
             "chance": 0.1
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "minecraft:nether_quartz_ore"
+              }
+            },
+            "chance": 0.18
           }
         ]
       },
       "tickInputs": {
         "forge_energy": [
           {
-            "content": 5000,
+            "content": 15000,
             "chance": 1.0
           }
         ]
