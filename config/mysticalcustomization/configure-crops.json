@@ -28,5 +28,11 @@
   },
   "mysticalagriculture:draconium": {
     "tier": "mysticalagradditions:6"
+  },
+  "mysticalcustomization:alfsteel": {
+    "tier": "mysticalagradditions:6"
+  },
+  "mysticalcustomization:calorite": {
+    "tier": "mysticalagradditions:6"
   }
 }

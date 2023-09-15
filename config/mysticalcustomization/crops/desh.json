@@ -1,0 +1,18 @@
+{
+	"name": "Desh",
+	"type": "mysticalagriculture:resource",
+	"tier": "mysticalagriculture:4",
+	"ingredient": {
+		"item": "beyond_earth:desh_ingot"
+	},
+	"color": "d38b4c",
+	"textures": {
+		"flower": "mysticalagriculture:block/flower_ingot",
+		"essence": "mysticalagriculture:item/essence_ingot"
+	},
+	"recipes": {
+    "crafting": false,
+    "infusion": false,
+    "reprocessor": false
+  }
+}

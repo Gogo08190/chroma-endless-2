@@ -1,0 +1,18 @@
+{
+	"name": "Alfsteel",
+	"type": "mysticalagriculture:resource",
+	"tier": "mysticalagriculture:5",
+	"ingredient": {
+		"item": "mythicbotany:alfsteel_ingot"
+	},
+	"color": "eb7b00",
+	"textures": {
+		"flower": "mysticalagriculture:block/flower_ingot",
+		"essence": "mysticalagriculture:item/essence_ingot"
+	},
+	"recipes": {
+    "crafting": false,
+    "infusion": false,
+    "reprocessor": false
+  }
+}

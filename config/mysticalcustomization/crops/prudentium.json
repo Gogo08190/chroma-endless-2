@@ -9,5 +9,10 @@
 	"textures": {
 		"flower": "mysticalagriculture:block/flower_dust",
 		"essence": "mysticalagriculture:item/essence_dust"
-	}
+	},
+	"recipes": {
+    "crafting": false,
+    "infusion": false,
+    "reprocessor": false
+  }
 }
