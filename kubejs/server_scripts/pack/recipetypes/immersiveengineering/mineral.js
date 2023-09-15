@@ -200,8 +200,9 @@ onEvent('recipes', (event) => {
             },
             {
                 ores: [
-                    { chance: 0.7, output: { tag: 'forge:ores/uranium' } },
-                    { chance: 0.3, output: { tag: 'forge:ores/lead' } }
+                    { chance: 0.7, output: { item: 'biggerreactors:uranium_ore' } },
+                    { chance: 0.3, output: { tag: 'forge:ores/lead' } },
+                    { chance: 0.1, output: { tag: 'forge:ores/uraninite' } }
                 ],
                 dimensions: ['minecraft:overworld', 'undergarden:undergarden'],
                 weight: 10,
@@ -365,7 +366,8 @@ onEvent('recipes', (event) => {
             },
             {
                 ores: [
-                    { chance: 0.6, output: { item: 'beyond_earth:glacio_ice_shard_ore' } }
+                    { chance: 0.6, output: { item: 'beyond_earth:glacio_ice_shard_ore' } },
+                    { chance: 0.01, output: { item: 'chroma:glacio_crystaltine_ore' } }
                 ],
                 dimensions: ['beyond_earth:glacio'],
                 weight: 5,
