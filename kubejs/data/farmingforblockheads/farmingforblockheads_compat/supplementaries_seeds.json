@@ -1,0 +1,16 @@
+{
+  "modId": "supplementaries",
+  "group": {
+    "name": "Supplementaries Seeds",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "chroma:farmer_coin"
+    },
+    "defaultCategory": "farmingforblockheads:seeds"
+  },
+  "customEntries": [
+    {
+      "output": "supplementaries:flax_seeds"
+    }
+  ]
+}

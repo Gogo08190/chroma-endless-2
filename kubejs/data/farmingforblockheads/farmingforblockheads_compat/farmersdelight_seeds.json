@@ -1,0 +1,22 @@
+{
+  "modId": "farmersdelight",
+  "group": {
+    "name": "Farmers Delight Seeds",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "chroma:farmer_coin"
+    },
+    "defaultCategory": "farmingforblockheads:seeds"
+  },
+  "customEntries": [
+    {
+      "output": "farmersdelight:cabbage_seeds"
+    },
+    {
+      "output": "farmersdelight:rice"
+    },
+    {
+      "output": "farmersdelight:tomato_seeds"
+    }
+  ]
+}
