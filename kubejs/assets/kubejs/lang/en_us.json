@@ -1382,7 +1382,7 @@
   "chapter.stage.5.quest.23.description.1": "Thanks to the Guardian of Gaia prediction get some Asgard Runes.",
 
   "chapter.stage.5.quest.24.subtitle.1": "Better Agglomeration",
-  "chapter.stage.5.quest.24.description.1": "With the Mana Infuser and the new corresponding multiblock, you will be able to make faster basic Botania Ingots and &6Alfsteel&r.",
+  "chapter.stage.5.quest.24.description.1": "With the Mana Infuser and the new corresponding multiblock, you will be able to make faster basic Botania Ingots.",
 
   "chapter.stage.5.quest.25.subtitle.1": "A New Botanical Ingot",
   "chapter.stage.5.quest.25.description.1": "With the Mana Infuser Multiblock and 2 full Mana Pools, you will be able to get &6Alfsteel&r.",
@@ -2814,6 +2814,17 @@
 
   "chapter.mekanism.quest.156.subtitle.1": "Ultimate Mekanism Pickaxe",
 
-  "chapter.mekanism.quest.157.subtitle.1": "Mekanism Ultimate Tool"
+  "chapter.mekanism.quest.157.subtitle.1": "Mekanism Ultimate Tool",
+
+  "Hostile Neural Network":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.hostile.3.title": "Hostile Neural Network",
+
+  "chapter.hostile.quest.1.subtitle.1": "Prediction Creation",
+  "chapter.hostile.quest.1.description.1": "The Simulation Chamber creates Predictions depending on the inserted Data Model. With some Prediction Matrix you will create one Generalized and a small chance to get Specific Predictions.",
+  "chapter.hostile.quest.1.description.2":  "Note that if the tier is higher, the chance of getting Specific Predictions will be higher .",
+
+  "chapter.hostile.quest.2.subtitle.1": "XL Looting",
+  "chapter.hostile.quest.2.description.1": "The Loot Fabricator creates loots depending on the inserted Specific Prediction. For example : Cow Prediction will generate Raw Beef and Leather.",
   
 }
