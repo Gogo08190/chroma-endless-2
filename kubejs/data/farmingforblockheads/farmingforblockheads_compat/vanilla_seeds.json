@@ -4,7 +4,7 @@
     "name": "Vanilla Seeds",
     "enabledByDefault": true,
     "defaultPayment": {
-      "item": "numismaticoverhaul:silver_coin"
+      "item": "chroma:farmer_coin"
     },
     "defaultCategory": "farmingforblockheads:seeds"
   },
