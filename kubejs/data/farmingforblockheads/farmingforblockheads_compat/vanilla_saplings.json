@@ -26,6 +26,18 @@
     },
     {
       "output": "minecraft:dark_oak_sapling"
+    },
+    {
+        "output": "pizzacraft:olive_sapling"
+    },
+    {
+        "output": "sushigocrafting:avocado_sapling"
+    },
+    {
+        "output": "forbidden_arcanus:cherrywood_sapling"
+    },
+    {
+        "output": "forbidden_arcanus:mysterywood_sapling"
     }
   ]
 }

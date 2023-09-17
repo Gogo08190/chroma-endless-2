@@ -44,6 +44,27 @@
     },
     {
       "output": "minecraft:lily_of_the_valley"
+    },
+    {
+        "output": "mna:desert_nova"
+    },
+    {
+        "output": "mna:wakebloom"
+    },
+    {
+        "output": "mna:tarma_root"
+    },
+    {
+        "output": "mna:cerublossom"
+    },
+    {
+        "output": "mna:aum"
+    },
+    {
+        "output": "forbidden_arcanus:yellow_orchid"
+    },
+    {
+        "output": "delightful:salmonberry_pips"
     }
   ]
 }
