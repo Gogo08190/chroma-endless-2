@@ -83,7 +83,8 @@ onEvent('item.registry', (event) => {
       'calorite_rocket_fin',
       'eternal_cryostella_polaris',
       'enriched_eternal_cryostella_polaris',
-      'farmer_coin'
+      'farmer_coin',
+      'mixed_tier_2_essence'
 
     ];
 
