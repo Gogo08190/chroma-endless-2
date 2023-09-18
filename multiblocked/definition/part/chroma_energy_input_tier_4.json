@@ -14,8 +14,8 @@
       "texture": "multiblocked:textures/gui/energy_bar.png",
       "fillDirection": "LEFT_TO_RIGHT",
       "capacity": 10000000,
-      "maxReceive": 262144,
-      "maxExtract": 262144
+      "maxReceive": 3000000,
+      "maxExtract": 3000000
     }
   },
   "properties": {
