@@ -189,6 +189,49 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}steel_jetpack`
         },
+        {
+            output: 'chroma:mixed_tier_2_essence',
+            pattern: ['ABCDEFGH'],
+            key: {
+                A: 'mysticalagriculture:amethyst_essence',
+                B: 'mysticalagriculture:sulfur_essence',
+                C: 'mysticalagriculture:saltpeter_essence',
+                D: 'mysticalagriculture:obsidian_essence',
+                E: 'mysticalagriculture:nether_essence',
+                F: 'mysticalagriculture:end_essence',
+                G: 'mysticalagriculture:honey_essence',
+                H: 'mysticalagriculture:nature_essence'
+            },
+            id: `${id_prefix}mixed_tier_2_essence`
+        },
+        {
+            output: 'chroma:mixed_tier_4_essence',
+            pattern: ['ABCDEFGH'],
+            key: {
+                A: 'mysticalagriculture:refined_obsidian_essence',
+                B: 'mysticalagriculture:fluix_essence',
+                C: 'mysticalagriculture:hop_graphite_essence',
+                D: 'mysticalagriculture:blazing_crystal_essence',
+                E: 'mysticalagriculture:elementium_essence',
+                F: 'mysticalagriculture:compressed_iron_essence',
+                G: 'mysticalagriculture:forgotten_essence',
+                H: 'mysticalagriculture:desh_essence'
+            },
+            id: `${id_prefix}mixed_tier_4_essence`
+        },
+        {
+            output: 'chroma:mixed_tier_3_essence',
+            pattern: ['ABCDEF'],
+            key: {
+                A: 'mysticalagriculture:amethyst_bronze_essence',
+                B: 'mysticalagriculture:bronze_essence',
+                C: 'mysticalagriculture:slimesteel_essence',
+                D: 'mysticalagriculture:silicon_essence',
+                E: 'mysticalagriculture:pig_iron_essence',
+                F: 'mysticalagriculture:brass_essence'
+            },
+            id: `${id_prefix}mixed_tier_3_essence`
+        },
     ];
 
     recipes.forEach((recipe) => {
