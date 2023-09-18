@@ -2838,5 +2838,66 @@
 
   "The Undergarden":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
-  "chapter.undergarden.1.title": "The Undergarden",
+  "chapter.undergarden.title": "The Undergarden",
+
+  "chapter.undergarden.1.title": "Visit dimension : &2The Undergarden&r.",
+  "chapter.undergarden.1.subtitle": "A secret Garden",
+  "chapter.undergarden.1.description.1": "The Undergarden is a dark, subterranean world located deep below the bedrock of the Overworld. The flora here has adapted to their conditions and can grow anywhere, independent of light. Strange creatures call these dark lands home, and are plagued by the invasive Rotspawn, monsters originating from a chaotic, mysterious realm.",
+
+  "chapter.undergarden.2.subtitle": "Careful it's not gold",
+  "chapter.undergarden.2.description.1": "A soft, lustrous metal used for trading with Stoneborn.",
+
+  "chapter.undergarden.3.title": "Kill 10 &bForgotten Guardians&r",
+  "chapter.undergarden.3.subtitle": "The Forgotten Guardian is a mini-boss mob",
+  "chapter.undergarden.3.description.1": "A soft, lustrous metal used for trading with Stoneborn.",
+  "chapter.undergarden.3.description.2": "&bYou can find bottles containing Forgotten Guardian in the catacombs chest !",
+
+  "chapter.undergarden.4.title": "Kill 10 &6RotBeasts&r",
+  "chapter.undergarden.4.subtitle": "The Rotbeast is a hostile mobs native to The Otherside",
+  "chapter.undergarden.4.description.1": "The Rotbeast can spawn on any solid block with a light level below 7. They have an increased chance of spawning in the Barren Abyss.",
+
+  "chapter.undergarden.5.title": "Kill 10 &6Rotlings&r",
+  "chapter.undergarden.5.subtitle": "The Rotling is a hostile mobs native to The Otherside",
+  "chapter.undergarden.5.description.1": "The Rotling can spawn on any solid block with a light level below 7. They have an increased chance of spawning in the Barren Abyss.",
+
+  "chapter.undergarden.6.title": "Kill 10 &6Rotwalkers&r",
+  "chapter.undergarden.6.subtitle": "The Rotwalker is a hostile mobs native to The Otherside",
+  "chapter.undergarden.6.description.1": "The Rotwalker can spawn on any solid block with a light level below 7. They have an increased chance of spawning in the Barren Abyss.",
+
+  "chapter.undergarden.7.title": "Kill 10 &6Nargoyles&r",
+  "chapter.undergarden.7.subtitle": "The Nargoyle is a hostile mobs native to The Otherside",
+  "chapter.undergarden.7.description.1": "The Nargoyle will wander around. When it spots a player, it will run towards them and attack by leaping at them.",
+  "chapter.undergarden.7.description.2": "Cavern Creatures can spawn on any solid block with a light level below 7 below Y 32.",
+
+  "chapter.undergarden.8.subtitle": "A smooth piece of Depthrock, the perfect ammunition for a Slingshot",
+
+  "chapter.undergarden.9.subtitle": "A Dimensional bed",
+  "chapter.undergarden.9.description.1": "A bed unique to the Undergarden, with the same functions and features as the original bed in the Overworld, it saves your spawn point in the Undergarden. &cUsing it in the Overworld will cause a violent explosion !",
+
+  "chapter.undergarden.10.title": "Kill 10 &6Brutes&r",
+  "chapter.undergarden.10.subtitle": "The Brute is a hostile mobs native to The Otherside",
+  "chapter.undergarden.10.description.1": "Brutes will naturally spawn in groups of 4 and are found in the dense forest, forgotten field, gronglegrowth, smogstem forest, and wigglewood forest biomes without any light level requirements.",
+
+  "chapter.undergarden.11.subtitle": "Boom !",
+  "chapter.undergarden.11.description.1": "A makeshift projectile explosive, often sold by shady Stoneborn.",
+
+  "chapter.undergarden.12.title": "Kill 10 &6Stoneborns&r",
+  "chapter.undergarden.12.subtitle": "The Stoneborn is a neutral mob",
+  "chapter.undergarden.12.description.1": "The Stoneborn wanders around slowly and will look at other entities and players. If a player interacts with a Stoneborn, a trade will be initiated. If attacked, it will become hostile and will call for help from other Stoneborn.",
+  "chapter.undergarden.12.description.2": "&cIf a Stoneborn is outside of the Undergarden for more than 15 seconds, it will explode, killing itself and destroying a small amount of land.",
+
+  "chapter.undergarden.13.title": "Kill 10 &6Munchers&r",
+  "chapter.undergarden.13.subtitle": "The Muncher is a hostile mobs native to The Otherside",
+  "chapter.undergarden.13.description.1": "The Muncher will wander around. When it senses a player, it will run towards them and bite them.",
+  "chapter.undergarden.13.description.2": "If there is a block that the muncher can break, separating it and the player, it will break its way towards the player. Upon breaking a block, the Muncher heals for 1 health.",
+
+  "chapter.undergarden.14.title": "&5Discover every Undergarden biome",
+  "chapter.undergarden.14.subtitle" : "Undergarden Traveller",
+
+  "chapter.undergarden.15.title": "&aTrade with a Stoneborn",
+  "chapter.undergarden.15.subtitle" : "What A Deal !",
+
+  "chapter.undergarden.15.title": "&aCreate a Forgotten Minion",
+  "chapter.undergarden.15.subtitle" : "Master of Puppets",
+  "chapter.undergarden.15.description.1": "Create a Forgotten Minion using a Forgotten Block and a Carved Gloomgourd."
 }
