@@ -97,6 +97,19 @@ onEvent('recipes', (event) => {
           mana: 5000,
           id: 'mob_grinding_utils:recipe_cursed_feed'
       },
+      {
+          inputs: [
+              { item: 'chroma:prudentium_seed_base' },
+              { item: 'chroma:mixed_tier_2_essence' },
+              { item: 'mysticalagriculture:tertium_essence' },
+              { item: 'mysticalagriculture:tertium_essence' },
+              { item: 'mysticalagriculture:tertium_essence' },
+              { item: 'mysticalagriculture:tertium_essence' }
+          ],
+          output: { item: 'chroma:tertium_seed_base' },
+          mana: 5000,
+          id: `${id_prefix}tertium_seed_base`
+      },
     ];
 
     recipes.forEach((recipe) => {

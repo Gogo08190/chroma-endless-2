@@ -9,6 +9,13 @@ onEvent('recipes', (event) => {
               duration: 100,
               id: `${id_prefix}void_miner_frame_tier4`
           },
+          {
+              output: Item.of('chroma:insanium_seed_base'),
+              itemInput: { ingredient: { item: 'chroma:supremium_seed_base' } },
+              gasInput: { amount: 250, gas: 'mekanism:antimatter' },
+              duration: 100,
+              id: `${id_prefix}supremium_seed_base`
+          },
         ]
     };
 

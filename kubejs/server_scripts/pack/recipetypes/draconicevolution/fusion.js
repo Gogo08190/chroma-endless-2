@@ -377,6 +377,23 @@ onEvent('recipes', (event) => {
           result: Item.of('hostilenetworks:data_model', '{data_model:{data:6,id:"hostilenetworks:draconic_guardian"}}'),
           id: `${id_prefix}draconic_guardian_data_model`
       },
+      {
+          inputs: [
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'chroma:mixed_tier_4_essence' },
+            { item: 'chroma:mixed_tier_4_essence' },
+            { item: 'chroma:mixed_tier_4_essence' },
+            { item: 'chroma:mixed_tier_4_essence' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'chroma:imperium_seed_base', count: 1 },
+          total_energy: 20000,
+          result: { item: 'chroma:supremium_seed_base', count: 1 },
+          id: `${id_prefix}supremium_seed_base`
+      },
     ];
 
     recipes.forEach((recipe) => {

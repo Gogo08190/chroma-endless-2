@@ -451,6 +451,22 @@ onEvent('recipes', (event) => {
             },
             id: 'functionalstorage:gold_upgrade'
         },
+        {
+            ingredients: [
+                { item: 'chroma:tertium_seed_base' },
+                { item: 'chroma:mixed_tier_3_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' }
+            ],
+            energy: 5000,
+            result: {
+                item: 'chroma:imperium_seed_base',
+                count: 1
+            },
+            id: `${id_prefix}imperium_seed_base`
+        },
     ];
 
     recipes.forEach((recipe) => {
