@@ -2822,9 +2822,21 @@
 
   "chapter.hostile.quest.1.subtitle.1": "Prediction Creation",
   "chapter.hostile.quest.1.description.1": "The Simulation Chamber creates Predictions depending on the inserted Data Model. With some Prediction Matrix you will create one Generalized and a small chance to get Specific Predictions.",
-  "chapter.hostile.quest.1.description.2":  "Note that if the tier is higher, the chance of getting Specific Predictions will be higher .",
+  "chapter.hostile.quest.1.description.2":  "Note that if the tier is higher, the chance of getting Specific Predictions will be higher.",
 
   "chapter.hostile.quest.2.subtitle.1": "XL Looting",
-  "chapter.hostile.quest.2.description.1": "The Loot Fabricator creates loots depending on the inserted Specific Prediction. For example : Cow Prediction will generate Raw Beef and Leather."
+  "chapter.hostile.quest.2.description.1": "The Loot Fabricator creates loots depending on the inserted Specific Prediction. For example : Cow Prediction will generate Raw Beef and Leather.",
 
+  "chapter.hostile.quest.3.subtitle.1": "Capturing Mob Souls",
+  "chapter.hostile.quest.3.description.1": "In order to build any Mob Data Model you will to right click on it.",
+
+  "chapter.hostile.quest.4.subtitle.1": "Farming by Learning",
+  "chapter.hostile.quest.4.description.1": "The deep learner allows you to store a few data models within, and kills you receive will begin to train the model. All models start out in the Faulty state, and must be trained up to Basic in the deep learner.",
+
+  "chapter.hostile.quest.5.subtitle.1": "Matrix Loot",
+  "chapter.hostile.quest.5.description.1": "Running simulations requires energy (based on the model type) and a catalyst item, which is usually a Prediction Matrix.",
+
+  "The Undergarden":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.undergarden.1.title": "The Undergarden",
 }
