@@ -7,6 +7,13 @@ onEvent('fluid.registry', (event) => {
         texture: 0x85c0e6,
         display: '§3Molten Mana'
       },
+      //Molten Insanium
+      {
+        type: 'thick',
+        id: 'molten_insanium',
+        texture: 0x940cef,
+        display: 'Molten Insanium'
+      },
     ];
 
     fluids.forEach((fluid) => {

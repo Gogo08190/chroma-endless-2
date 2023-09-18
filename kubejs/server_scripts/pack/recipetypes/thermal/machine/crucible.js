@@ -145,6 +145,78 @@ onEvent('recipes', (event) => {
           energy: 20000,
           id: `${id_prefix}certus_quartz_block`
       },
+      {
+          output: Fluid.of('mysticalagradditions:molten_inferium', 144),
+          input: 'mysticalagriculture:inferium_ingot',
+          energy: 5000,
+          id: `${id_prefix}molten_inferium_from_ingot`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_inferium', 1296),
+          input: 'mysticalagriculture:inferium_ingot_block',
+          energy: 40000,
+          id: `${id_prefix}molten_inferium_from_block`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_prudentium', 144),
+          input: 'mysticalagriculture:prudentium_ingot',
+          energy: 5000,
+          id: `${id_prefix}molten_prudentium_from_ingot`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_prudentium', 1296),
+          input: 'mysticalagriculture:prudentium_ingot_block',
+          energy: 40000,
+          id: `${id_prefix}molten_prudentium_from_block`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_tertium', 144),
+          input: 'mysticalagriculture:tertium_ingot',
+          energy: 5000,
+          id: `${id_prefix}molten_tertium_from_ingot`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_tertium', 1296),
+          input: 'mysticalagriculture:tertium_ingot_block',
+          energy: 40000,
+          id: `${id_prefix}molten_tertium_from_block`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_imperium', 144),
+          input: 'mysticalagriculture:imperium_ingot',
+          energy: 5000,
+          id: `${id_prefix}molten_imperium_from_ingot`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_imperium', 1296),
+          input: 'mysticalagriculture:imperium_ingot_block',
+          energy: 40000,
+          id: `${id_prefix}molten_imperium_from_block`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_supremium', 144),
+          input: 'mysticalagriculture:supremium_ingot',
+          energy: 5000,
+          id: `${id_prefix}molten_supremium_from_ingot`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_supremium', 1296),
+          input: 'mysticalagriculture:supremium_ingot_block',
+          energy: 40000,
+          id: `${id_prefix}molten_supremium_from_block`
+      },
+      {
+          output: Fluid.of('chroma:molten_insanium', 144),
+          input: 'mysticalagradditions:insanium_ingot',
+          energy: 5000,
+          id: `${id_prefix}molten_insanium_from_ingot`
+      },
+      {
+          output: Fluid.of('chroma:molten_insanium', 1296),
+          input: 'mysticalagradditions:insanium_ingot_block',
+          energy: 40000,
+          id: `${id_prefix}molten_insanium_from_block`
+      },
     ];
 
     recipes.forEach((recipe) => {

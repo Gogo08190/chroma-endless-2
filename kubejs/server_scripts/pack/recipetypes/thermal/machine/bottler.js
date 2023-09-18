@@ -36,6 +36,48 @@ onEvent('recipes', (event) => {
             energy: 1000,
             id: 'modularrouters:fluid_module'
         },
+        {
+            input: 'mysticalagriculture:prosperity_gemstone',
+            fluid: Fluid.of('mysticalagradditions:molten_inferium', 144),
+            output: 'mysticalagriculture:inferium_gemstone',
+            energy: 1000,
+            id: `${id_prefix}:inferium_gemstone`
+        },
+        {
+            input: 'mysticalagriculture:inferium_gemstone',
+            fluid: Fluid.of('mysticalagradditions:molten_prudentium', 144),
+            output: 'mysticalagriculture:prudentium_gemstone',
+            energy: 1000,
+            id: `${id_prefix}:prudentium_gemstone`
+        },
+        {
+            input: 'mysticalagriculture:prudentium_gemstone',
+            fluid: Fluid.of('mysticalagradditions:molten_tertium', 144),
+            output: 'mysticalagriculture:tertium_gemstone',
+            energy: 1000,
+            id: `${id_prefix}:tertium_gemstone`
+        },
+        {
+            input: 'mysticalagriculture:tertium_gemstone',
+            fluid: Fluid.of('mysticalagradditions:molten_imperium', 144),
+            output: 'mysticalagriculture:imperium_gemstone',
+            energy: 1000,
+            id: `${id_prefix}:imperium_gemstone`
+        },
+        {
+            input: 'mysticalagriculture:imperium_gemstone',
+            fluid: Fluid.of('mysticalagradditions:molten_supremium', 144),
+            output: 'mysticalagriculture:supremium_gemstone',
+            energy: 1000,
+            id: `${id_prefix}:supremium_gemstone`
+        },
+        {
+            input: 'mysticalagriculture:supremium_gemstone',
+            fluid: Fluid.of('chroma:molten_insanium', 144),
+            output: 'mysticalagradditions:insanium_gemstone',
+            energy: 1000,
+            id: `${id_prefix}:insanium_gemstone`
+        },
     ];
 
     recipes.forEach((recipe) => {
