@@ -84,7 +84,9 @@ onEvent('item.registry', (event) => {
       'eternal_cryostella_polaris',
       'enriched_eternal_cryostella_polaris',
       'farmer_coin',
-      'mixed_tier_2_essence'
+      'mixed_tier_2_essence',
+      'mixed_tier_3_essence',
+      'mixed_tier_4_essence'
 
     ];
 
