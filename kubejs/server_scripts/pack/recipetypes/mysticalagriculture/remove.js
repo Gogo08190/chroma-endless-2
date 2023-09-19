@@ -5,6 +5,7 @@ onEvent('recipes', (event) => {
         'mysticalagriculture:imperium_block_combine',
         'mysticalagriculture:tertium_block_combine',
         'mysticalagriculture:prudentium_block_combine',
+        'mysticalagriculture:mystical_fertilizer'
     ];
 
     const outputRemovals = [
