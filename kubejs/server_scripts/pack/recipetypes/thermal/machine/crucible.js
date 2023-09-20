@@ -235,6 +235,18 @@ onEvent('recipes', (event) => {
           energy: 40000,
           id: 'thermal:machines/crucible/crucible_obsidian_to_lava'
       },
+      {
+          output: Fluid.of('tconstruct:molten_amethyst', 100),
+          input: 'minecraft:amethyst_shard',
+          energy: 3000,
+          id: `${id_prefix}molten_amethyst_from_shard`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_amethyst', 400),
+          input: 'minecraft:amethyst_block',
+          energy: 10000,
+          id: `${id_prefix}molten_amethyst_from_block`
+      },
     ];
 
     recipes.forEach((recipe) => {
