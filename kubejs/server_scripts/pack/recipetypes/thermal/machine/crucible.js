@@ -217,6 +217,12 @@ onEvent('recipes', (event) => {
           energy: 40000,
           id: `${id_prefix}molten_insanium_from_block`
       },
+      {
+          output: Fluid.of('tconstruct:molten_obsidian', 1000),
+          input: 'minecraft:obsidian',
+          energy: 40000,
+          id: 'thermal:machines/crucible/crucible_obsidian_to_lava'
+      },
     ];
 
     recipes.forEach((recipe) => {
