@@ -1508,7 +1508,7 @@
   "chapter.stage.5.quest.67.description.1": "Cette machine est seulement utilisée pour 2 choses. Transforme l'hexafluorure d'uranium en combustible fissile et les déchets nucléaires en plutonium.",
 
   "chapter.stage.5.quest.68.subtitle.1": "Pressurisation de la réaction",
-  "chapter.stage.5.quest.68.description.1": "Mettez sous pression 2 fluides avec n'importe quel objet compatible et obtenez l'objet résultant et les déchets.",
+  "chapter.stage.5.quest.68.description.1": "Mettez sous pression un liquide et un gaz avec n'importe quel item pour obtenir une réaction. Vous obtiendrez un autre item ainsi que parfois un gaz supplémentaire.",
 
   "chapter.stage.5.quest.69.subtitle.1": "Création de plutonium",
   "chapter.stage.5.quest.69.description.1": "Mettez sous pression le gaz de plutonium avec n'importe quel gaz compatible et obtenez des pastilles de plutonium. Attention, les déchets usés sont radioactifs ! Vous pouvez les stocker dans un baril de déchets radioactifs",

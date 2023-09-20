@@ -1508,7 +1508,7 @@
   "chapter.stage.5.quest.67.description.1": "This machine is only used for 2 things. Transforms Uranium Hexafluoride into Fissile Fuel and Nuclear Waste into Plutonium.",
 
   "chapter.stage.5.quest.68.subtitle.1": "Reaction Pressurisation",
-  "chapter.stage.5.quest.68.description.1": "Pressurize 2 Fluids with any compatible item and obtain the resulting Item and Waste.",
+  "chapter.stage.5.quest.68.description.1": "Pressurize a Liquid and a Gaz with any item to get a reaction. You will get another item plus sometimes an extra gaz.",
 
   "chapter.stage.5.quest.69.subtitle.1": "Creating Plutonium",
   "chapter.stage.5.quest.69.description.1": "Pressurize the Plutonium Gas with any compatible gas and get some Plutonium Pellet. Be careful the Spent Waste is radioactive! You can stock it into Radioactive Waste Barrel",
