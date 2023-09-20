@@ -218,6 +218,18 @@ onEvent('recipes', (event) => {
           id: `${id_prefix}molten_insanium_from_block`
       },
       {
+          output: Fluid.of('mysticalagradditions:molten_soulium', 144),
+          input: 'mysticalagriculture:soulium_ingot',
+          energy: 5000,
+          id: `${id_prefix}molten_soulium_from_ingot`
+      },
+      {
+          output: Fluid.of('mysticalagradditions:molten_soulium', 1296),
+          input: 'mysticalagriculture:soulium_ingot_block',
+          energy: 40000,
+          id: `${id_prefix}molten_soulium_from_block`
+      },
+      {
           output: Fluid.of('tconstruct:molten_obsidian', 1000),
           input: 'minecraft:obsidian',
           energy: 40000,
