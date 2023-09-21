@@ -2897,11 +2897,28 @@
   "chapter.undergarden.15.title": "&aTrade with a Stoneborn",
   "chapter.undergarden.15.subtitle" : "What A Deal !",
 
-  "chapter.undergarden.15.title": "&aCreate a Forgotten Minion",
-  "chapter.undergarden.15.subtitle" : "Master of Puppets",
-  "chapter.undergarden.15.description.1": "Create a Forgotten Minion using a Forgotten Block and a Carved Gloomgourd.",
+  "chapter.undergarden.16.title": "&aCreate a Forgotten Minion",
+  "chapter.undergarden.16.subtitle" : "Master of Puppets",
+  "chapter.undergarden.16.description.1": "Create a Forgotten Minion using a Forgotten Block and a Carved Gloomgourd.",
 
-  "Bigger Reactors":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+  "chapter.undergarden.17.title": "Getting Utherium Ore.",
+  "chapter.undergarden.17.subtitle": "Another Red Ore.",
+
+  "chapter.undergarden.18.title": "Getting Cloggrum Ore",
+  "chapter.undergarden.18.subtitle": "Undergarden Iron",
+
+  "chapter.undergarden.19.title": "Getting Frosteel Ore",
+  "chapter.undergarden.19.subtitle": "Cold Iron",
+
+  "chapter.undergarden.20.title": "Getting Regalium Ore",
+  "chapter.undergarden.20.subtitle": "Not Gold",
+
+  "chapter.undergarden.21.subtitle": "Forgotten Metal",
+
+  "chapter.undergarden.22.subtitle": "Compacting Forgotten Nuggets",
+
+
+"Bigger Reactors":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.bigger.title": "Bigger Reactors"
 }
