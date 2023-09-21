@@ -1,0 +1,14 @@
+{
+  "type":"botanypots:crop",
+  "seed":{"item":"mysticalagriculture:cloggrum_seeds"},
+  "categories":["imperium"],
+  "growthTicks":3600,
+  "display":{
+    "type":"botanypots:aging",
+    "block":"mysticalagriculture:cloggrum_crop"},
+    "drops":[
+      {"chance":1.00,"output":{"item":"mysticalagriculture:cloggrum_essence"}},
+      {"chance":0.01,"output":{"item":"mysticalagriculture:fertilized_essence"},
+      "minRolls":1,
+      "maxRolls":1}
+      ]}
