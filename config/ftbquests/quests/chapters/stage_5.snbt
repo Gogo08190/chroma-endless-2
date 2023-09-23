@@ -304,7 +304,7 @@
 			description: [
 				"{chapter.stage.5.quest.24.description.1}"
 				""
-				"{chapter.stage.5.quest.24.description.2}"
+				"{image:chroma:textures/quests/mana-infuser.png width:130 height:91 align:1}"
 			]
 			dependencies: ["679147CB44F37154"]
 			id: "78098B8558DDDFF6"

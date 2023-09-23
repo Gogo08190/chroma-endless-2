@@ -7,6 +7,18 @@
 	icon: "cookingforblockheads:cooking_table"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
+	images: [{
+		x: -26.0d
+		y: -29.0d
+		width: 32.5d
+		height: 10.0d
+		rotation: 0.0d
+		image: "chroma:textures/quests/cfb.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
 	quests: [
 		{
 			x: -46.0d

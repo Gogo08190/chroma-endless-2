@@ -7,6 +7,18 @@
 	icon: "ae2:controller"
 	default_quest_shape: "rsquare"
 	default_hide_dependency_lines: false
+	images: [{
+		x: -5.0d
+		y: -9.0d
+		width: 0.5d
+		height: 0.5d
+		rotation: 0.0d
+		image: "cofh_core:textures/gui/icons/icon_information.png"
+		hover: ["Applied Energisitcs 2 Guide"]
+		click: "https://appliedenergistics.org/"
+		dev: false
+		corner: false
+	}]
 	quests: [
 		{
 			x: -5.0d
@@ -16,8 +28,6 @@
 				"Applied Energistics 2, often abbreviated as &oAE2&r, is a highly adaptable &bdigital storage&f mod. It offers efficient storage solutions and diverse automation features, enhancing your modded Minecraft journey from the onset to the endgame."
 				""
 				"To begin with AE2, mine the mod's crucial resource, &bCertus Quartz&r. From this, you'll obtain Certus Quartz Crystals, yielding both &6Certus Quartz Dust&r and &6Crystals&r."
-				""
-				"For a deeper dive into AE2 beyond this section, refer to the wiki at &o&bguide.appliedenergistics.org&f&r."
 				""
 				"&cKeep in mind that the AE2 progression in Chroma Endless 2 differs from the base progression of the mod.&r"
 			]

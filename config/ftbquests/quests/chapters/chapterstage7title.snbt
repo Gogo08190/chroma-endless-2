@@ -478,7 +478,7 @@
 			}]
 		}
 		{
-			title: "Supercritical Phase Shifter"
+			title: "{chapter.stage.7.quest.32.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -529,7 +529,6 @@
 			]
 		}
 		{
-			title: "{chapter.stage.7.quest.32.title}"
 			x: 9.0d
 			y: 14.0d
 			subtitle: "{chapter.stage.7.quest.33.subtitle.1}"
@@ -788,6 +787,7 @@
 			x: 18.5d
 			y: 15.5d
 			subtitle: "{chapter.stage.7.quest.41.subtitle.1}"
+			description: ["{chapter.stage.7.quest.41.description.1}"]
 			dependencies: ["75A78D1793E09B31"]
 			id: "29EBA11A334141F6"
 			tasks: [{

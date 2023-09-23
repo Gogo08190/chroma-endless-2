@@ -465,7 +465,8 @@
 			x: -0.5d
 			y: 6.5d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.109.subtitle.1}"
+			description: ["{chapter.mekanism.quest.109.description.1}"]
 			dependencies: [
 				"4E0E34A0AC440055"
 				"07880249468AFCF2"
@@ -482,7 +483,8 @@
 			x: 1.0d
 			y: 7.0d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.110.subtitle.1}"
+			description: ["{chapter.mekanism.quest.110.description.1}"]
 			dependencies: [
 				"6A8B862A4D48923A"
 				"55D4E4CB80D386B1"
@@ -498,7 +500,8 @@
 			x: 0.5d
 			y: 7.5d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.111.subtitle.1}"
+			description: ["{chapter.mekanism.quest.111.description.1}"]
 			dependencies: [
 				"10C2612CA4555909"
 				"5BC5869ED199C23F"
@@ -514,7 +517,8 @@
 			x: 0.0d
 			y: 8.0d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.112.subtitle.1}"
+			description: ["{chapter.mekanism.quest.112.description.1}"]
 			dependencies: [
 				"5D1230AFFA5CCE2E"
 				"33DE31D68754CB4E"
@@ -530,7 +534,8 @@
 			x: -0.5d
 			y: 8.5d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.113.subtitle.1}"
+			description: ["{chapter.mekanism.quest.113.description.1}"]
 			dependencies: [
 				"5195482546D1CE65"
 				"3C9E127F765A9483"
@@ -546,7 +551,8 @@
 			x: -1.0d
 			y: 8.0d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.114.subtitle.1}"
+			description: ["{chapter.mekanism.quest.114.description.1}"]
 			dependencies: [
 				"22D7CF1E47A436D6"
 				"512D0B0260B40184"
@@ -562,7 +568,8 @@
 			x: -1.5d
 			y: 7.5d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.115.subtitle.1)"
+			description: ["{chapter.mekanism.quest.115.description.1}"]
 			dependencies: [
 				"597162A6294B3363"
 				"4298483C07988405"
@@ -578,7 +585,8 @@
 			x: -2.0d
 			y: 7.0d
 			shape: "diamond"
-			description: ["&bLogistical Transporter&r are used for transport item"]
+			subtitle: "{chapter.mekanism.quest.116.subtitle.1}"
+			description: ["{chapter.mekanism.quest.116.description.1}"]
 			dependencies: [
 				"57979A0B7A94B2CD"
 				"16BF35F89FC49046"
@@ -594,7 +602,8 @@
 			x: -3.0d
 			y: 8.5d
 			shape: "diamond"
-			description: ["Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat."]
+			subtitle: "{chapter.mekanism.quest.105.subtitle.1}"
+			description: ["{chapter.mekanism.quest.105.description.1}"]
 			dependencies: ["4E0E34A0AC440055"]
 			size: 2.0d
 			id: "41436AA791A7A857"
@@ -608,7 +617,8 @@
 			x: -2.5d
 			y: 9.5d
 			shape: "diamond"
-			description: ["Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat."]
+			subtitle: "{chapter.mekanism.quest.106.subtitle.1}"
+			description: ["{chapter.mekanism.quest.106.description.1}"]
 			dependencies: [
 				"68FE052791F2DC57"
 				"55D4E4CB80D386B1"
@@ -624,7 +634,8 @@
 			x: -3.0d
 			y: 10.0d
 			shape: "diamond"
-			description: ["Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat."]
+			subtitle: "{chapter.mekanism.quest.107.subtitle.1}"
+			description: ["{chapter.mekanism.quest.107.description.1}"]
 			dependencies: [
 				"0836C0A40ECA0F2C"
 				"5BC5869ED199C23F"
@@ -640,7 +651,8 @@
 			x: -3.5d
 			y: 9.5d
 			shape: "diamond"
-			description: ["Similar to the Universal Cable, the &bThermodynamic Conductor&f is Mekanism's way of transferring power in the form of heat."]
+			subtitle: "{chapter.mekanism.quest.108.subtitle.1}"
+			description: ["{chapter.mekanism.quest.108.description.1}"]
 			dependencies: [
 				"4FC57FBE3AAAEF52"
 				"33DE31D68754CB4E"
@@ -1974,6 +1986,7 @@
 			x: -14.5d
 			y: -6.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.4.subtitle.1}"
 			description: ["{chapter.mekanism.quest.4.description.1}"]
 			dependencies: [
 				"021122C2D5881BA5"
@@ -2066,6 +2079,7 @@
 			x: -10.0d
 			y: 14.0d
 			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.117.subtitle.1}"
 			dependencies: [
 				"2191346972B755DB"
 				"4A9E8CC4C422F19C"
@@ -2083,6 +2097,7 @@
 			x: -10.0d
 			y: 15.0d
 			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.118.subtitle.1}"
 			dependencies: [
 				"2191346972B755DB"
 				"07113E5247B9561D"
@@ -2100,6 +2115,7 @@
 			x: -10.0d
 			y: 16.0d
 			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.119.subtitle.1}"
 			dependencies: [
 				"2191346972B755DB"
 				"34F6054C78AA212E"
@@ -2117,6 +2133,7 @@
 			x: -10.0d
 			y: 17.0d
 			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.120.subtitle.1}"
 			dependencies: [
 				"2191346972B755DB"
 				"34F6054C78AA212E"
@@ -2134,6 +2151,7 @@
 			x: -1.0d
 			y: 15.0d
 			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.157.subtitle.1}"
 			dependencies: [
 				"2191346972B755DB"
 				"34F6054C78AA212E"
@@ -2151,6 +2169,7 @@
 			x: -1.0d
 			y: 14.0d
 			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.156.subtitle.1}"
 			dependencies: [
 				"08A67B617032CA95"
 				"7BC1D137B2A492BE"
@@ -2167,7 +2186,8 @@
 			x: -7.5d
 			y: 16.5d
 			shape: "diamond"
-			description: ["&bSolar Recharging Units&r are modules that charge your MekaSuit during direct exposure to sunlight."]
+			subtitle: "{chapter.mekanism.quest.141.subtitle.1}"
+			description: ["{chapter.mekanism.quest.141.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "25FEE4F8A8B0FF74"
 			tasks: [{
@@ -2180,6 +2200,7 @@
 			x: -4.5d
 			y: 14.5d
 			shape: "diamond"
+			description: ["{chapter.mekanism.quest.124.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "0975B2A27D28DA7D"
 			tasks: [{
@@ -2192,7 +2213,8 @@
 			x: -6.0d
 			y: 15.0d
 			shape: "diamond"
-			description: ["&bEnergy Units&r are modules that will double the current energy capacity of the selected MekaSuit armor piece."]
+			subtitle: "{chapter.mekanism.quest.128.subtitle.1}"
+			description: ["{chapter.mekanism.quest.128.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "42D291C858A58485"
 			tasks: [{
@@ -2205,6 +2227,8 @@
 			x: -4.0d
 			y: 15.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.130.subtitle.1}"
+			description: ["{chapter.mekanism.quest.130.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "1150BA7814AD8D38"
 			tasks: [{
@@ -2217,7 +2241,8 @@
 			x: -5.5d
 			y: 15.5d
 			shape: "diamond"
-			description: ["&bRadiation Shielding Units&r are modules that allows your MekaSuit armor piece to act like the respective Hazmat Suit pieces and provide protection from radiation."]
+			subtitle: "{chapter.mekanism.quest.134.subtitle.1}"
+			description: ["{chapter.mekanism.quest.134.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "01D460EB0BCA1196"
 			tasks: [{
@@ -2230,7 +2255,8 @@
 			x: -6.0d
 			y: 16.0d
 			shape: "diamond"
-			description: ["&bThe Excavation Escalation Unit&r is a module that when added to a Meka-Tool Increases the Mining speed of all blocks."]
+			subtitle: "{chapter.mekanism.quest.138.subtitle.1}"
+			description: ["{chapter.mekanism.quest.138.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "0158A889A363B237"
 			tasks: [{
@@ -2243,11 +2269,8 @@
 			x: -4.0d
 			y: 16.0d
 			shape: "diamond"
-			description: [
-				"&bThe Attack Amplification Unit&r Is a Module that Amplifies Melee attacks to both players and mobs."
-				""
-				"It can only be applied to the Meka-Tool."
-			]
+			subtitle: "{chapter.mekanism.quest.140.subtitle.1}"
+			description: ["{chapter.mekanism.quest.140.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "5BBF3E0ED8190B83"
 			tasks: [{
@@ -2260,13 +2283,14 @@
 			x: -4.5d
 			y: 15.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.135.subtitle.1}"
 			description: [
-				"&bThe Farming unit&r is a Module that is applied to the Meka-Tool. It Gives the tool several agriculture-based functions, Up to 4 can be stacked on one tool."
+				"{chapter.mekanism.quest.135.description.1}"
 				""
-				"The Farming unit unlocks the following abilities in the Meka-tool :"
-				"• Soil tilling"
-				"• Log stripping"
-				"• Soil flattening"
+				"{chapter.mekanism.quest.135.description.2}"
+				"{chapter.mekanism.quest.135.description.3}"
+				"{chapter.mekanism.quest.135.description.4}"
+				"{chapter.mekanism.quest.135.description.5}"
 			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "20FB46CAAB6628EF"
@@ -2280,6 +2304,8 @@
 			x: -5.0d
 			y: 15.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.129.subtitle.1}"
+			description: ["{chapter.mekanism.quest.129.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "43B0B349DA73FE7E"
 			tasks: [{
@@ -2292,7 +2318,8 @@
 			x: -3.5d
 			y: 15.5d
 			shape: "diamond"
-			description: ["&bThe Silk Touch Unit&r is a Module in Mekanism that is installed onto the Meka-Tool, which gives the tool the property of the Silk-Touch Enchantment."]
+			subtitle: "{chapter.mekanism.quest.136.subtitle.1}"
+			description: ["{chapter.mekanism.quest.136.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "268AA838E02B476B"
 			tasks: [{
@@ -2305,6 +2332,8 @@
 			x: -7.5d
 			y: 14.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.122.subtitle.1}"
+			description: ["{chapter.mekanism.quest.122.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "1BE13779BB2B5926"
 			tasks: [{
@@ -2317,6 +2346,8 @@
 			x: -8.0d
 			y: 15.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.126.subtitle.1}"
+			description: ["{chapter.mekanism.quest.126.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "4EFEC7DE9FC46F9E"
 			tasks: [{
@@ -2329,7 +2360,8 @@
 			x: -3.0d
 			y: 15.0d
 			shape: "diamond"
-			description: ["&bVein Mining Unit&r allows for quick mining of ore deposits and rapid felling of trees."]
+			subtitle: "{chapter.mekanism.quest.131.subtitle.1}"
+			description: ["{chapter.mekanism.quest.131.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "10949FC82CEF59AE"
 			tasks: [{
@@ -2342,7 +2374,8 @@
 			x: -6.5d
 			y: 16.5d
 			shape: "diamond"
-			description: ["&bTeleportation Unit &rprovides for quick travel to nearby blocks."]
+			subtitle: "{chapter.mekanism.quest.142.subtitle.1}"
+			description: ["{chapter.mekanism.quest.142.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "76CE93C3D4FFC847"
 			tasks: [{
@@ -2356,9 +2389,9 @@
 			y: 16.5d
 			shape: "diamond"
 			description: [
-				"&bElectrolytic Breathing Units&r are modules that allows you to breathe underwater."
+				"{chapter.mekanism.quest.143.description.1}"
 				""
-				"In addition, if the Jetpack Unit is installed onto the MekaSuit Bodyarmor, it will automatically begin to refuel its hydrogen supply while underwater or out in the rain."
+				"{chapter.mekanism.quest.143.description.2}"
 			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "5CE2041918178EB8"
@@ -2372,7 +2405,8 @@
 			x: -5.0d
 			y: 16.0d
 			shape: "diamond"
-			description: ["&bInhalation Purification Units&r are modules that can protect the player from selected potion effects including beneficial, neutral, and harmful ones."]
+			subtitle: "{chapter.mekanism.quest.139.subtitle.1}"
+			description: ["{chapter.mekanism.quest.139.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "2A44FEFFC7F6DD0D"
 			tasks: [{
@@ -2385,7 +2419,8 @@
 			x: -4.0d
 			y: 17.0d
 			shape: "diamond"
-			description: ["&bVision Enhancement Units&r are modules that can be installed on a MekaSuit Helmet to improve night vision."]
+			subtitle: "{chapter.mekanism.quest.149.subtitle.1}"
+			description: ["{chapter.mekanism.quest.149.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "2459FB74BD1630A2"
 			tasks: [{
@@ -2399,9 +2434,9 @@
 			y: 17.0d
 			shape: "diamond"
 			description: [
-				"&bNutritional Injection Units&r are modules that can be installed on a MekaSuit Helmet to remove the need to manually eat."
+				"{chapter.mekanism.quest.146.description.1}"
 				""
-				"When installed, the MekaSuit helmet will have an internal storage for Nutritional Paste (128,000mb)."
+				"{chapter.mekanism.quest.146.description.2}"
 			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "37B61A6CF8D1AD35"
@@ -2415,7 +2450,8 @@
 			x: -7.0d
 			y: 16.0d
 			shape: "diamond"
-			description: ["&bDosimeter Units&r are modules that will display your radiation dose in the HUD on the bottom right corner."]
+			subtitle: "{chapter.mekanism.quest.137.subtitle.1}"
+			description: ["{chapter.mekanism.quest.137.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "2EAD80852152C497"
 			tasks: [{
@@ -2428,6 +2464,8 @@
 			x: -6.5d
 			y: 15.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.133.subtitle.1}"
+			description: ["{chapter.mekanism.quest.133.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "468E9ABB59D67145"
 			tasks: [{
@@ -2441,11 +2479,11 @@
 			y: 15.5d
 			shape: "diamond"
 			description: [
-				"&bJetpack Units&r are modules that allows your MekaSuit Bodyarmor to have the functions of a Jetpack."
+				"{chapter.mekanism.quest.132.description.1}"
 				""
-				"Once applied, the MekaSuit Bodyarmor will have an internal storage for hydrogen (48,000mb)."
+				"{chapter.mekanism.quest.132.description.2}"
 				""
-				"The Jetpack Unit is best paired with the Electrolytic Breathing Unit. Doing so allows the accumulation of hydrogen when underwater or in the rain. "
+				"{chapter.mekanism.quest.132.description.3}"
 			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "5CCD240EC00FD43F"
@@ -2459,7 +2497,8 @@
 			x: -3.5d
 			y: 14.5d
 			shape: "diamond"
-			description: ["&bCharge Distribution Units&r are modules that distributes gained energy evenly to all MekaSuit armor pieces. Normally if you have installed Solar Recharging Units onto your MekaSuit Helmet, only the helmet will gain all the energy it's producing. With the Charge Distribution Unit installed, the produced energy will be evenly distributed throughout all MekaSuit armor pieces."]
+			subtitle: "{chapter.mekanism.quest.125.subtitle.1}"
+			description: ["{chapter.mekanism.quest.125.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "5E330111246A0077"
 			tasks: [{
@@ -2472,10 +2511,11 @@
 			x: -6.0d
 			y: 17.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.147.subtitle.1}"
 			description: [
-				"&bGravitational Modulating Units&r are modules that allows the user to utilize creative flight."
+				"{chapter.mekanism.quest.147.description.1}"
 				""
-				"If the MekaSuit bodyarmor also has a Jetpack Unit installed, the Jetpack Unit will be automatically disabled if the Gravitational Modulating Unit is enabled, and vice versa."
+				"{chapter.mekanism.quest.147.description.2}"
 			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "360D36C7F90E9A30"
@@ -2489,6 +2529,8 @@
 			x: -5.0d
 			y: 17.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.148.subtitle.1}"
+			description: ["{chapter.mekanism.quest.148.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "5EF6F921E86FBF71"
 			tasks: [{
@@ -2501,6 +2543,8 @@
 			x: -4.5d
 			y: 17.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.152.subtitle.1}"
+			description: ["{chapter.mekanism.quest.152.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "0FDE059FAA6BDB32"
 			tasks: [{
@@ -2513,6 +2557,8 @@
 			x: -6.5d
 			y: 17.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.150.subtitle.1}"
+			description: ["{chapter.mekanism.quest.150.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "758379B5CA42B3AB"
 			tasks: [{
@@ -2525,10 +2571,11 @@
 			x: -4.5d
 			y: 16.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.144.subtitle.1}"
 			description: [
-				"&bLocomotive Boosting Units&r are modules that will allow you to boost your sprinting speed and jumping distance."
+				"{chapter.mekanism.quest.144.description.1}"
 				""
-				"It can be configured from 0.0 sprint boost, to a 0.5 sprint boost. Note that your hunger consumption would also increase."
+				"{chapter.mekanism.quest.144.description.2}"
 			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "3D21591DD25F417C"
@@ -2542,7 +2589,8 @@
 			x: -3.5d
 			y: 16.5d
 			shape: "diamond"
-			description: ["&bHydraulic Propulsion Units&r are modules that allows you to climb over a maximum of 2 blocks. It also allows you to jump higher when you hold Left Control and jump (LCrtl+Spacebar)."]
+			subtitle: "{chapter.mekanism.quest.145.subtitle.1}"
+			description: ["{chapter.mekanism.quest.145.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "6A07C389C62CFC8C"
 			tasks: [{
@@ -2556,9 +2604,9 @@
 			y: 14.5d
 			shape: "diamond"
 			description: [
-				"&bMagnetic Attraction Unit&r is a Module that is applied to the Mekasuit Boots."
+				"{chapter.mekanism.quest.123.description.1}"
 				""
-				"As the item Flavor text states \"[The unit] Uses Powerful Magnets to draw distant items towards the player\", you can install up to 4 on one pair of boots."
+				"{chapter.mekanism.quest.123.description.2}"
 			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "37301BA5FBE826DB"
@@ -2572,6 +2620,8 @@
 			x: -7.0d
 			y: 15.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.127.subtitle.1}"
+			description: ["{chapter.mekanism.quest.127.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "1ED3478EA53855BB"
 			tasks: [{
@@ -2584,6 +2634,12 @@
 			x: -6.0d
 			y: 18.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.153.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.153.description.1}"
+				"{chapter.mekanism.quest.153.description.2}"
+				"{chapter.mekanism.quest.153.description.3}"
+			]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "7A1F2303D29D5CB4"
 			tasks: [{
@@ -2596,6 +2652,8 @@
 			x: -5.5d
 			y: 18.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.155.subtitle.1}"
+			description: ["{chapter.mekanism.quest.155.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "2B8B6E307F7F5943"
 			tasks: [{
@@ -2608,6 +2666,8 @@
 			x: -5.0d
 			y: 18.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.154.subtitle.1}"
+			description: ["{chapter.mekanism.quest.154.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "2FB7301B8206419B"
 			tasks: [{
@@ -2620,6 +2680,8 @@
 			x: -5.5d
 			y: 17.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.151.subtitle.1}"
+			description: ["{chapter.mekanism.quest.151.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "1F5951F4549DBFC1"
 			tasks: [{
@@ -2632,6 +2694,7 @@
 			x: -5.5d
 			y: 13.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.121.subtitle.1}"
 			dependencies: ["34F6054C78AA212E"]
 			size: 2.0d
 			id: "105A56C8F79D71B0"

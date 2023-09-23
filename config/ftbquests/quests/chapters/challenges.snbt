@@ -212,6 +212,13 @@
 				id: "12BD84D37DDA2BBF"
 				type: "stat"
 				title: "Make: 1,000 trades with Villagers"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/villtra.png"
+					}
+				}
 				stat: "minecraft:traded_with_villager"
 				value: 1000
 			}]
@@ -226,6 +233,17 @@
 				item: "chemlib:water"
 				count: 1000000L
 				consume_items: true
+			}]
+		}
+		{
+			x: 8.0d
+			y: 1.0d
+			id: "51ABF2C65CD68898"
+			tasks: [{
+				id: "026C5D69B0F50E53"
+				type: "advancement"
+				advancement: "botania:challenge/rank_ss_pick"
+				criterion: ""
 			}]
 		}
 	]

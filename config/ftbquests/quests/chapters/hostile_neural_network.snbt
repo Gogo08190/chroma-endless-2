@@ -12,6 +12,8 @@
 			x: -8.5d
 			y: -5.0d
 			shape: "hexagon"
+			subtitle: "{chapter.hostile.quest.5.subtitle.1}"
+			description: ["{chapter.hostile.quest.5.description.1}"]
 			dependencies: ["06CD47DBE5D3547B"]
 			id: "5EC093C47CE196BD"
 			tasks: [{
@@ -24,6 +26,8 @@
 			x: -9.0d
 			y: -6.0d
 			shape: "hexagon"
+			subtitle: "{chapter.hostile.quest.4.subtitle.1}"
+			description: ["{chapter.hostile.quest.4.description.1 }"]
 			dependencies: ["40F23D48A8AECB4A"]
 			id: "06CD47DBE5D3547B"
 			tasks: [{
@@ -36,6 +40,8 @@
 			x: -8.0d
 			y: -6.0d
 			shape: "hexagon"
+			subtitle: "{chapter.hostile.quest.3.subtitle.1}"
+			description: ["{chapter.hostile.quest.3.description.1}"]
 			dependencies: ["5A35C11EB5E8952C"]
 			id: "40F23D48A8AECB4A"
 			tasks: [{
@@ -48,6 +54,12 @@
 			x: -8.5d
 			y: -3.0d
 			shape: "octagon"
+			subtitle: "{chapter.hostile.quest.1.subtitle.1}"
+			description: [
+				"{chapter.hostile.quest.1.description.1}"
+				""
+				"{chapter.hostile.quest.1.description.2}"
+			]
 			dependencies: ["5EC093C47CE196BD"]
 			size: 2.0d
 			id: "5AE4BDBA7C2C6473"
@@ -61,6 +73,8 @@
 			x: -8.5d
 			y: 7.5d
 			shape: "octagon"
+			subtitle: "{chapter.hostile.quest.2.subtitle.1}"
+			description: ["{chapter.hostile.quest.2.description.1}"]
 			hide_dependency_lines: true
 			dependencies: [
 				"582195C36F6E22CC"

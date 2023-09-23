@@ -215,6 +215,31 @@
 				amount: 1000000L
 			}]
 		}
+		{
+			title: "Farmer Coin"
+			icon: "chroma:farmer_coin"
+			x: -3.5d
+			y: 0.5d
+			can_repeat: true
+			id: "0C27EFE06BBDDDAC"
+			tasks: [{
+				id: "5447FF55ABB2256F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 8L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3593F46408296ED5"
+				type: "item"
+				team_reward: true
+				item: "chroma:farmer_coin"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
