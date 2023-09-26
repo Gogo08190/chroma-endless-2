@@ -2920,5 +2920,136 @@
 
 "Bigger Reactors":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
-  "chapter.bigger.title": "Bigger Reactors"
+  "chapter.bigger.title": "Bigger Reactors",
+
+  "chapter.bigger.quest.1.subtitle.1": "Careful it's radioactive",
+  "chapter.bigger.quest.1.description.1": "To get started with &l&bBigger Reactor&r, you will require a significant amount of &aUranium&r.",
+  "chapter.bigger.quest.1.description.2": "Not only is uranium a fundamental component for the crafts of Bigger Reactor, but it also serves as the primary fuel for the reactor.",
+
+  "chapter.bigger.quest.2.subtitle.1": "Carbonic",
+  "chapter.bigger.quest.2.description.1": "To produce &l&8Graphite&r in Chroma Endless 2, follow the detailed process in the quests of &nstage 4&r.",
+  "chapter.bigger.quest.2.description.2": "Just like uranium, Graphite is a major component for the crafts of Bigger Reactor and also serves as a Reactor Moderators (Reactor Coolants).",
+
+  "chapter.bigger.quest.3.subtitle.1": "The heart of the Reactor",
+  "chapter.bigger.quest.3.description.1": "&l&bReactor Terminals&r are used to control and monitor the operation of a reactor. They are a required component for all reactors, regardless of type.",
+  "chapter.bigger.quest.3.description.2": "Reactor Terminals have three states, depending on the circumstances of which they're placed :",
+  "chapter.bigger.quest.3.description.3": "• While by itself or as part of a disassembled reactor, the terminal has a blank (black) screen.",
+  "chapter.bigger.quest.3.description.4": "• If placed as part of an offline reactor, the screen will light up with a red flashing cursor.",
+  "chapter.bigger.quest.3.description.5": "• If placed as part of an online reactor, the screen will light up green with scrolling text.",
+  "chapter.bigger.quest.3.description.6": "When the terminal is placed as part of an assembled reactor, right clicking it will open up the Reactor Info screen.",
+  "chapter.bigger.quest.3.description.7": "The screen provides information about the current state of the reactor, as well as controls for turning the reactor on/off, as well as whether or not to eject Waste.",
+  "chapter.bigger.quest.3.description.8": "The terminal screen provides the following insights :",
+  "chapter.bigger.quest.3.description.9": "• &6Temperature&r is the measure of how hot the reactor currently is.",
+  "chapter.bigger.quest.3.description.10": "• &6RF Generation&r Rate is how much RF is being generated per tick. (Passive Reactors)",
+  "chapter.bigger.quest.3.description.11": "• &6Exhaust Generation Rate&r is how much exhaust is being generated per tick. (Active Reactors)",
+  "chapter.bigger.quest.3.description.12": "• &6Fuel Usage Rate&r is how much fuel is being consumed per tick.",
+  "chapter.bigger.quest.3.description.13": "• &6Reactivity&r is how reactive the reactor is.",
+
+  "chapter.bigger.quest.4.subtitle.1": "I can see clearly now",
+  "chapter.bigger.quest.4.description.1": "&l&bReactor Glass&r functions identically to casings, but may only be used on walls. It allows you to see inside of the reactor.",
+
+  "chapter.bigger.quest.5.title": "Fuel storage and control",
+  "chapter.bigger.quest.5.subtitle.1": "Radioactivity",
+  "chapter.bigger.quest.5.description.1": "&l&bReactor Fuel Rods&r are used to store Fuel and Waste. They are a required component for all reactors, regardless of type.",
+  "chapter.bigger.quest.5.description.2": "&l&bControl Rods&r are used to maintain control over the reaction.",
+
+  "chapter.bigger.quest.6.title": "Reactor Control Components",
+  "chapter.bigger.quest.6.subtitle.1": "Everything is under control",
+  "chapter.bigger.quest.6.description.1": "Some components are entirely optional and are not required to build a functioning reactor. These may, however, allow for automation and remote control of reactors.",
+  "chapter.bigger.quest.6.description.2": "&l&bComputer Ports&r allow for control of various reactor functions via Lua scripting with CC: Tweaker.",
+  "chapter.bigger.quest.6.description.3": "&l&bRedstone Ports&r allow for control of various reactor functions via Redstone circuits.",
+
+  "chapter.bigger.quest.7.subtitle.1": "Items sorting",
+  "chapter.bigger.quest.7.description.1": "&l&bAccess Ports&r are used to insert Fuel and extract Waste.",
+
+  "chapter.bigger.quest.8.subtitle.1": "Extracting power",
+  "chapter.bigger.quest.8.description.1": "&l&bPower Taps&r are where you extract power from a passive reactor.",
+
+  "chapter.bigger.quest.9.title": "&aMy First Passive Reactor",
+  "chapter.bigger.quest.9.subtitle.1": "Build your first reactor",
+  "chapter.bigger.quest.9.description.1": "We'll construct the smallest possible passive reactor, the &b3x3x3&r.",
+  "chapter.bigger.quest.9.description.2": "The quest's requirements precisely match what you need to assemble one.",
+  "chapter.bigger.quest.9.description.3": "To assemble this, begin by constructing a 3x3x3 frame using Reactor Casings.",
+  "chapter.bigger.quest.9.description.4": "To operate, your reactor needs :",
+  "chapter.bigger.quest.9.description.5": "• 1 Reactor Terminal.",
+  "chapter.bigger.quest.9.description.6": "• 1 Reactor Fuel Rod",
+  "chapter.bigger.quest.9.description.7": "• 1 Control Rod",
+  "chapter.bigger.quest.9.description.8": "• 2 Reactor Access Ports",
+  "chapter.bigger.quest.9.description.9": "• 1 Power Tap",
+
+  "chapter.bigger.quest.10.title": "Reactor Moderators",
+  "chapter.bigger.quest.10.subtitle.1": "Cooling my reactor",
+  "chapter.bigger.quest.10.description.1": "&l&bReactor Moderators&r (commonly incorrectly referred to as Reactor Coolants) are materials placed inside of a Reactor during construction. When a reactor is in operation, a moderator may change the way the reactor performs depending its properties.",
+  "chapter.bigger.quest.10.description.2": "Moderators have four main properties that affect the reactor simulation:",
+  "chapter.bigger.quest.10.description.3": "• &aAbsorption:&r The speed at which radiation is absorbed and converted to case heat.",
+  "chapter.bigger.quest.10.description.4": "• &aEfficiency:&r How efficiently absorbed radiation is converted into heat.",
+  "chapter.bigger.quest.10.description.5": "• &aModeration:&r The effectiveness at which radiation is moderated ('softened').",
+  "chapter.bigger.quest.10.description.6": "• &aConductivity:&r How well heat is transferred from the fuel rods to the reactor casing.",
+  "chapter.bigger.quest.10.description.7": "In general, higher values are always better (except for absorption, which may be better or worse depending on your reactor design).",
+
+  "chapter.bigger.quest.11.subtitle.1": "Nuclear Waste",
+  "chapter.bigger.quest.11.description.1": "&bCyanite&r is a waste resulting from the combustion of uranium in the passive reactor.",
+  "chapter.bigger.quest.11.description.2": "This component is crucial for advancing in the Bigger Reactor mod.",
+
+  "chapter.bigger.quest.12.subtitle.1": "Waste reprocessor",
+  "chapter.bigger.quest.12.description.1": "When provided power and water, this machine can convert cyanite into blutonium, which may be put back into a reactor as fuel.",
+
+  "chapter.bigger.quest.13.subtitle.1": "Pink Coil",
+  "chapter.bigger.quest.13.description.1": "Now that you have &1Blutonium&r, you can craft &dLudicrite blocks&r in the Dissolution Chamber.",
+  "chapter.bigger.quest.13.description.2": "It's a great Moderators for reactors, he can be used to craft the &cHeat Exchanger Controller&r.",
+
+  "chapter.bigger.quest.14.subtitle.1": "Another Blue Ingot",
+  "chapter.bigger.quest.14.description.1": "&bBlutonium&r is used in several crafting recipes, but can also be used in a reactor for fuel, just like Uranium.",
+
+  "chapter.bigger.quest.15.subtitle.1": "Turbine Info",
+  "chapter.bigger.quest.15.description.1": "&bTurbine Terminals&r are the control panels of the turbine. A turbine multi-block will form without a terminal, but you can't do much without it.",
+
+  "chapter.bigger.quest.16.subtitle.1": "Power output",
+  "chapter.bigger.quest.16.description.1": "&l&bPower Taps&r are used to extract power.",
+
+  "chapter.bigger.quest.17.subtitle.1": "Turbine Viewer",
+
+  "chapter.bigger.quest.18.subtitle.1": "LUA Interpretor",
+  "chapter.bigger.quest.18.description.1": "&l&bComputer Ports&r allow for control of various turbine functions via Lua scripting with CC: Tweaker.",
+
+  "chapter.bigger.quest.19.title": "Turbine Rotor",
+  "chapter.bigger.quest.19.subtitle.1": "A really big Fan",
+  "chapter.bigger.quest.19.description.1": "&l&bRotor Bearings&r are located at each end of the shaft of the turbine. Exactly 2 are required.",
+  "chapter.bigger.quest.19.description.2": "&l&bRotor Shafts&r form the shaft of your turbine that spans end to end and connects to the rotor bearings.",
+  "chapter.bigger.quest.19.description.3": "&l&bRotor Blades&r make the rotor spin by converting the thermal energy of the steam into rotational kinetic energy of the shaft. They are placed onto shaft components and can be multiple blocks in length.",
+
+  "chapter.bigger.quest.20.subtitle.1": "Fluid I/O",
+  "chapter.bigger.quest.20.description.1": "&l&bTurbine Fluid Ports&r are used to insert steam and extract water. They provide a UI to set input or output status.",
+
+  "chapter.bigger.quest.21.title": "Passive to Active Reactor",
+  "chapter.bigger.quest.21.subtitle.1": "Steam production",
+  "chapter.bigger.quest.21.description.1": "In its passive state, a reactor directly converts fuel into power. However, by adding a &bReactor Coolant Port&r to the reactor's wall, it transitions into an active reactor. This active form uses fuel to heat fluids, such as turning water into &dSteam&r.",
+  "chapter.bigger.quest.21.description.2": "Note that you can't have both a &cPower Tap&r and a Coolant Port on the same reactor.",
+  "chapter.bigger.quest.21.description.3": "Once installed, the reactor's interface will transform, providing more detailed information about its operations. The updated interface will display a tank for the coolant, another for the exhaust, and the &bExhaust Generation Rate&r.",
+  "chapter.bigger.quest.21.description.4": "For example, if you introduce water, this rate will indicate the steam output.",
+
+  "chapter.bigger.quest.22.title": "&aMy First Turbine",
+  "chapter.bigger.quest.22.subtitle.1": "Beyblade",
+  "chapter.bigger.quest.22.description.1": "We'll construct the smallest possible turbine, the &b5x4x5&r.",
+  "chapter.bigger.quest.22.description.2": "The quest's requirements precisely match what you need to assemble one.",
+  "chapter.bigger.quest.22.description.3": "To assemble this, begin by constructing a 5x4x5 frame using Turbine Casings.",
+  "chapter.bigger.quest.22.description.4": "To operate, your turbine needs :",
+  "chapter.bigger.quest.22.description.5": "• 1 Turbine Terminal",
+  "chapter.bigger.quest.22.description.6": "• 56 Turbine Casings",
+  "chapter.bigger.quest.22.description.7": "• 20 Turbine Glasses",
+  "chapter.bigger.quest.22.description.8": "• 2 Turbine Rotor Bearings",
+  "chapter.bigger.quest.22.description.9": "• 2 Turbine Rotor Shafts",
+  "chapter.bigger.quest.22.description.10": "• 4 Turbine Rotor Blades",
+  "chapter.bigger.quest.22.description.11": "• 2 Turbine Fluid Ports",
+  "chapter.bigger.quest.22.description.12": "• 1 Turbine Power Tap",
+
+  "chapter.bigger.quest.23.title": "Turbine Coils",
+  "chapter.bigger.quest.23.subtitle.1": "Increase Turbine Efficiency",
+  "chapter.bigger.quest.23.description.1": "&l&bTurbine Coils&r are materials placed around a turbine shaft at one end of the turbine during construction.",
+  "chapter.bigger.quest.23.description.2": "The Coils have three main properties that affect turbine simulation :",
+  "chapter.bigger.quest.23.description.3": "• &aExtraction Rate:&r Affects the RF extracted per tick per RPM.",
+  "chapter.bigger.quest.23.description.4": "• &aEfficiency:&r Affects how much of the bonus RF is then turned into output RF.",
+  "chapter.bigger.quest.23.description.5": "• &aBonus:&r Applies a final exponential RF bonus onto the extracted RF value .",
+  "chapter.bigger.quest.23.description.6": "In general, higher values are better."
+  
 }
