@@ -3393,4 +3393,5 @@
 
   "chapter.ae.quest.81.subtitle.1": "AE2 Structure Chunk Loader",
   "chapter.ae.quest.81.description.1": "The &bSpatial Anchor&r serves as a complementary device stemming from the Spatial IO family, serving a straightforward role as a chunk loader. Upon integration with an ME network, the Anchor will ensure the continuous loading of all chunks inhabited by the ME network across all cables and devices, excluding subnetworks. This persistent loading remains in effect as long as the network retains a power supply."
+  
 }
