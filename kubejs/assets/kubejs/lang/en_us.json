@@ -3179,9 +3179,9 @@
   "chapter.ae.quest.29.description.2": "This capability can be advantageous in scenarios where a block can be conveniently processed by placing it down and subsequently breaking it with a specific tool.",
 
   "chapter.ae.quest.30.subtitle.1": "First Cable",
-  "chapter.ae.quest.30.description.1": "",
-  "chapter.ae.quest.30.description.2": "",
-  "chapter.ae.quest.30.description.3": "",
+  "chapter.ae.quest.30.description.1": "An integral concept in AE2 is the practice of "&6subnetting&r," involving the creation of an additional and distinct ME network referred to as a "&6subnetwork&r." This subnetwork collaborates with the main network to carry out specialized functions or processes.",
+  "chapter.ae.quest.30.description.2": "What distinguishes a subnetwork from a completely separate and independent network is often the utilization of &bQuartz Fiber&r as a cable component. When positioned between two segments of cable that would otherwise remain unconnected, the Quartz Fiber facilitates the transmission of power exclusively, refraining from transferring any data or channels between the two segments.",
+  "chapter.ae.quest.30.description.3": "As a result, a subnetwork located on the opposite end of the Fiber can be entirely powered by the primary network's energy source, eliminating the need for additional dedicated power generation.",
 
   "chapter.ae.quest.31.subtitle.1": "",
   "chapter.ae.quest.31.description.1": "",
@@ -3335,6 +3335,4 @@
 
   "chapter.ae.quest.81.subtitle.1": "",
   "chapter.ae.quest.81.description.1": ""
-
-
 }
