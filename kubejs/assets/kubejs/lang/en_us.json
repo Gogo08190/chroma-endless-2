@@ -178,9 +178,9 @@
   "chapter.stage.1.quest.25.description.1" : "An array of Mechnical Crafters can be used to automate any recipe.",
   "chapter.stage.1.quest.25.description.2" : "All paths have to converge and lead to an output and that on any side of a crafter.",
 
-  "chapter.stage.1.quest.26.subtitle.1": "A really usefull component",
+  "chapter.stage.1.quest.26.subtitle.1": "A really useful component",
   "chapter.stage.1.quest.26.description.1" : "Made with a sequence that you're gonna have to do 5 times,",
-  "chapter.stage.1.quest.26.description.2" : "The Precision Mechanism is going to be used in several usefull recipes.",
+  "chapter.stage.1.quest.26.description.2" : "The Precision Mechanism is going to be used in several useful recipes.",
   "chapter.stage.1.quest.26.description.3" : "Pro Tip : Making an early automation might be a good idea.",
 
   "chapter.stage.1.quest.27.subtitle.1": "Mining With Create !",
@@ -196,11 +196,11 @@
   "chapter.stage.1.quest.30s.description.1" : "Used to locate Ores or Fluid to extract with The Drill or The Well.",
 
   "chapter.stage.1.quest.31.subtitle.1": "Starting Tinker !",
-  "chapter.stage.1.quest.31.description.1" : "Tinker is a really usefull mod ! I guess you should look the recipe to go on.",
+  "chapter.stage.1.quest.31.description.1" : "Tinker is a really useful mod ! I guess you should look the recipe to go on.",
   "chapter.stage.1.quest.31.description.2" : "These first tables will allow you to create your first Tinker Tool !",
 
   "chapter.stage.1.quest.32.subtitle.1": "Store Useless Parts",
-  "chapter.stage.1.quest.32.description.1" : "This special is like said usefull to stock your parts that you don't use anymore.",
+  "chapter.stage.1.quest.32.description.1" : "This special is like said useful to stock your parts that you don't use anymore.",
 
   "chapter.stage.1.quest.33.subtitle.1": "A better, yet for now, chest",
   "chapter.stage.1.quest.33.description.1" : "The Tinker chest can store any item in a total of 64 slots. But note that each slot can only hold 16 items.",
@@ -212,7 +212,7 @@
 
   "chapter.stage.1.quest.35.subtitle.1": "Smelting  Grout",
   "chapter.stage.1.quest.35.description.1" : "Seared Bricks are used to make the parts of the Tinker Smeltery",
-  "chapter.stage.1.quest.35.description.2" : "Go to the next quest to see which parts are going to be usefull",
+  "chapter.stage.1.quest.35.description.2" : "Go to the next quest to see which parts are going to be useful",
 
   "chapter.stage.1.quest.36.title.1": "Melter",
   "chapter.stage.1.quest.36.subtitle.1": "Your first 'Smeltery', The Melter !",
@@ -222,7 +222,7 @@
   "chapter.stage.1.quest.37.title.1": "Smeltery",
   "chapter.stage.1.quest.37.subtitle.1": "The Tinker Smeltery !",
   "chapter.stage.1.quest.37.description.1" : "As we seen sooner in the quests, seared brick is going to be needed (again)",
-  "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be usefull to make some parts !",
+  "chapter.stage.1.quest.37.description.2" : "The Melter is also going to be useful to make some parts !",
 
   "chapter.stage.1.quest.38.subtitle.1": "Gold And Zinc Mix",
 
@@ -286,12 +286,12 @@
   "chapter.stage.2.title": "Stage 2",
 
   "chapter.stage.2.quest.1.subtitle.1": "The Forge Hammer",
-  "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be usefull to build all of your &cImmersive Multiblocks&r.",
+  "chapter.stage.2.quest.1.description.1": "&9The Forge Hammer&r will be useful to build all of your &cImmersive Multiblocks&r.",
   "chapter.stage.2.quest.1.description.2": "So we suggest that you should keep it somewhere that you will remember !",
 
   "chapter.stage.2.quest.2.title.1": "Look at a complete &6Alloy Kiln",
   "chapter.stage.2.quest.2.subtitle.1": "Build an &5Alloy Kiln",
-  "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really usefull to create early alloys.",
+  "chapter.stage.2.quest.2.description.1": "&5The Alloy Kiln&r is really useful to create early alloys.",
 
   "chapter.stage.2.quest.3.title.1": "Look at a complete &6Coke Oven",
   "chapter.stage.2.quest.3.subtitle.1": "Build a &6Coke Oven&r",
@@ -675,7 +675,7 @@
   "chapter.stage.3.quest.16.description.1": "Crafting components for Pneumatic Upgrades.",
 
   "chapter.stage.3.quest.17.subtitle.1": "Hot Mixing",
-  "chapter.stage.3.quest.17.description.1": "This item will be usefull, so I suggest you do an early automation.",
+  "chapter.stage.3.quest.17.description.1": "This item will be useful, so I suggest you do an early automation.",
 
   "chapter.stage.3.quest.18.subtitle.1": "Transferring Pression",
   "chapter.stage.3.quest.18.description.1": "Pressure tubes move air between compressors and machines. Tube Modules can be placed on them.",
@@ -730,7 +730,7 @@
   "chapter.stage.3.quest.32.subtitle.1": "A better Control Circuit",
   "chapter.stage.3.quest.32.description.1" : "Simply infuse an Advanced Control Circuit with Compressed Steel infusion.",
 
-  "chapter.stage.3.quest.33.subtitle.1": "Usefull Tablet",
+  "chapter.stage.3.quest.33.subtitle.1": "useful Tablet",
   "chatper.stage.3.quest.33.description.1" : "The &bEnergy Tablet&f is a portable, rechargeable battery pack that can be charged with up to 1,000kJ of energy and can then be used to power other devices. It is also an ingredient in many recipes.",
 
   "chapter.stage.3.quest.34.subtitle.1": "Night is boring",
@@ -1199,7 +1199,7 @@
   "chapter.stage.4.quest.93.description.1": "Simply Energize Graphite Blocks, Uranium Blocks with Energized Steel Blocks and a Redstone Ingot Block.",
 
   "chapter.stage.4.quest.94.subtitle.1": "Building The Reactor",
-  "chapter.stage.4.quest.94.description.1": "These parts will be usefull to build your custom Reactor.",
+  "chapter.stage.4.quest.94.description.1": "These parts will be useful to build your custom Reactor.",
 
   "chapter.stage.4.quest.95.subtitle.1": "Reactor Waste",
   "chapter.stage.4.quest.95.description.1": "In order to work, your Reactor needs Uranium. Cyanite is the waste produced by your reactor.",
@@ -2001,7 +2001,7 @@
   "chapter.thermal.quest.12.description.1": "The Auxilliary Process Sieve augment increases chance of secondary output by 15%% but scales the energy per operation by 1.25.",
 
   "chapter.thermal.quest.13.subtitle.1": "Automation Augment",
-  "chapter.thermal.quest.13.description.1": "The Cyclical Processing augment allows a machine's valid outputs to be fed back into its outputs slot(s). Usefull for automation.",
+  "chapter.thermal.quest.13.description.1": "The Cyclical Processing augment allows a machine's valid outputs to be fed back into its outputs slot(s). useful for automation.",
 
   "chapter.thermal.quest.14.subtitle.1": "Amplification",
   "chapter.thermal.quest.14.description.1": "The Flux Linkage Amplifier augment increases maximun RF usage rate by 100%% but also scales the RF per operation by 1.1.",
@@ -3050,6 +3050,291 @@
   "chapter.bigger.quest.23.description.3": "• &aExtraction Rate:&r Affects the RF extracted per tick per RPM.",
   "chapter.bigger.quest.23.description.4": "• &aEfficiency:&r Affects how much of the bonus RF is then turned into output RF.",
   "chapter.bigger.quest.23.description.5": "• &aBonus:&r Applies a final exponential RF bonus onto the extracted RF value .",
-  "chapter.bigger.quest.23.description.6": "In general, higher values are better."
-  
+  "chapter.bigger.quest.23.description.6": "In general, higher values are better.",
+
+  "Applied Energistics":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.ae.title": "Applied Energistics",
+
+  "chapter.ae.quest.1.title": "Certus Quartz",
+  "chapter.ae.quest.1.subtitle.1": "Energistic Crystal",
+  "chapter.ae.quest.1.description.1": "Applied Energistics 2, often abbreviated as &oAE2&r, is a highly adaptable &bdigital storage&f mod. It offers efficient storage solutions and diverse automation features, enhancing your modded Minecraft journey from the onset to the endgame.",
+  "chapter.ae.quest.1.description.2": "To begin with AE2, mine the mod's crucial resource, &bCertus Quartz&r. From this, you'll obtain Certus Quartz Crystals, yielding both &6Certus Quartz Dust&r and &6Crystals&r.",
+  "chapter.ae.quest.1.description.3": "&cKeep in mind that the AE2 progression in Chroma Endless 2 differs from the base progression of the mod.&r",
+
+  "chapter.ae.quest.2.title": "Certus Quartz Wrench",
+  "chapter.ae.quest.2.subtitle.1": "A new Wrench",
+  "chapter.ae.quest.2.description.1": "A wrench made of Certus Quartz Crystal or Nether Quartz. Useful for rotating blocks, and removing individual parts from cables.",
+
+  "chapter.ae.quest.3.subtitle.1": "Charging Station",
+  "chapter.ae.quest.3.description.1": "When powered, the &bCharger&r charges &6Certus Quartz Crystals&r, turning them into &6Charged Certus Crystals&r. These are essential for producing &6Fluix&r, a vital resource in the mod. Additionally, it can charge any power-storing item.",
+
+  "chapter.ae.quest.4.subtitle.1": "FE Input",
+  "chapter.ae.quest.4.description.1": "While both the Inscriber and Charger inherently support RF/FE, most of the ME network operates on its distinct power system known as AE.",
+  "chapter.ae.quest.4.description.2": "RF/FE can be transitioned to the indigenous AE at a 2:1 RF:AE rate, either directly via an ME Controller or by utilizing the &bEnergy Acceptor&f that can be linked to any segment of the network.",
+
+  "chapter.ae.quest.5.title": "The Energy Cell",
+  "chapter.ae.quest.5.subtitle.1": "Stocking AE Energy",
+  "chapter.ae.quest.5.description.1": "By default, an ME network has an internal buffer of 800AE. Without an ME Controller, this capacity is limited. However, with a controller, there's an added 8kAE per block. For expansive networks, this might fall short, leading to sporadic power outages as the network strives to sustain power for linked devices.",
+  "chapter.ae.quest.5.description.2": "The &bEnergy Cell&r enhances a ME network's power capacity, contributing an extra 200kAE with each regular Energy Cell. The &bDense Energy Cell&r adds 1.6MAE and the &bSuperdense Energy Cell&r contributes 12.8MAE. These cells can be situated anywhere within the network to boost its energy reserves.",
+
+  "chapter.ae.quest.6.subtitle.1": "More Energy Storage",
+  "chapter.ae.quest.6.description.1": "The &bEnergy Card&r can be used with most rechargeable devices, such as Portable Cells and Wireless Terminals, to augment &otheir&r energy storage.",
+
+  "chapter.ae.quest.7.subtitle.1": "Meteorite Hunter",
+  "chapter.ae.quest.7.description.1": "It's time to search for &6Meteorites&r, which house the &bSky Stone&r. They can be located either above ground or beneath the surface, with a &bChest&r at their core.",
+  "chapter.ae.quest.7.description.2": "This chest houses the variety of &6Presses&r utilized in the Inscriber to create AE2's unique crafting elements.",
+  "chapter.ae.quest.7.description.3": "The simplest method to find a meteorite is to use a crafted &6Meteorite Compass&r.",
+
+  "chapter.ae.quest.8.title": "Inscriber Press",
+  "chapter.ae.quest.8.subtitle.1": "Meteorite Loot",
+
+  "chapter.ae.quest.9.title": "Processors",
+  "chapter.ae.quest.9.subtitle.1": "Pressing Creation",
+  "chapter.ae.quest.9.description.1": "The &bInscriber&r not only transforms various AE2 quartz crystals into dust form but is primarily employed to craft unique &6Printed Circuits&r and &6Processors&r.",
+
+  "chapter.ae.quest.10.subtitle.1": "Viewing and Crafting",
+  "chapter.ae.quest.10.description.1": "&6Terminals&r offer access to the contents within an ME network. The basic &6ME Terminal&r displays all network items in a comprehensive grid, functioning much like a unified inventory.",
+  "chapter.ae.quest.10.description.2": "The &6ME Crafting Terminal&r builds on the ME Terminal by including a crafting grid. This facilitates easy crafting, utilizing any item from the network displayed on the terminal screen.",
+
+  "chapter.ae.quest.11.subtitle.1": "Managing your Network",
+  "chapter.ae.quest.11.description.1": "The &bNetwork Tool&r in AE2 is pivotal, showcasing vital network details like power usage and storage directly on-screen.",
+  "chapter.ae.quest.11.description.2": "Additionally, the &bNetwork Tool&r offers a compact inventory for holding &6upgrade cards&r. This can be accessed while viewing any upgradeable device's screen, facilitating easy swaps. But unlike a standard wrench, it can't rotate ME network blocks—only dismantle them when sneaking.",
+
+  "chapter.ae.quest.12.title": "Auto-Crafting",
+  "chapter.ae.quest.12.subtitle.1": "Crafting Maestro",
+  "chapter.ae.quest.12.description.1": "AE2's automated crafting mechanism begins with the &bME Pattern Provider&r. This device serves as a repository for specific items referred to as &bPatterns&r (elaborated on in the subsequent quest). These patterns are designed to encompass recipes that transform input items into specified outputs. A single provider can accommodate up to 9 patterns simultaneously.",
+  "chapter.ae.quest.12.description.2": "Frequently, you'll find yourself employing multiple pattern providers distributed across your base. To facilitate seamless access to the contents of all providers within your expansive ME network, the &bPattern Access Terminal&r proves invaluable. This terminal enables remote access to the patterns stored in various providers.",
+
+  "chapter.ae.quest.13.title": "Crafting Storage",
+  "chapter.ae.quest.13.subtitle.1": "Crafting CPU",
+  "chapter.ae.quest.13.description.1": "Prior to executing an auto-crafting operation, you must possess a dedicated device to house the crafting request as well as any intermediate items necessary for multi-step crafts. This specialized device is referred to as a &6crafting CPU&r.",
+  "chapter.ae.quest.13.description.2": "A crafting CPU is a composite structure formed by assembling multiple blocks into a coherent unit. At a minimum, it necessitates a &bCrafting Storage&r block, and it can also incorporate additional Crafting Units. The configuration of this multiblock can vary in size, but it must be shaped as a solid cuboid in order to successfully establish and operate.",
+
+  "chapter.ae.quest.14.title": "Crafting Co-Processing Unit",
+  "chapter.ae.quest.14.subtitle.1": "Speeding Process",
+  "chapter.ae.quest.14.description.1": "The &bCrafting Co-Processing Unit&r significantly enhances the speed of crafting tasks by enabling pattern providers to either expedite the transfer of items to their linked devices or to collaborate concurrently on the creation of multiple necessary components.",
+  "chapter.ae.quest.14.description.2": "The fundamental AE2 co-processor furnishes a single co-processor 'thread' to support these operations. Conversely, the co-processing unit derived from &dMEGA Cells&r offers a remarkable 4 threads within a single block, thereby bolstering the efficiency of crafting processes.",
+
+  "chapter.ae.quest.15.title": "Crafting Monitor",
+  "chapter.ae.quest.15.subtitle.1": "Viewing Recipes",
+  "chapter.ae.quest.15.description.1": "The &bCrafting Monitor&r functions as a display interface showcasing the ongoing crafting process. It exhibits both the primary item being crafted as well as the remaining quantity of that item yet to be produced.",
+  "chapter.ae.quest.15.description.2": "Both the standard AE2 monitor and the MEGA monitor share identical functionality, primarily serving aesthetic purposes. They offer the same capabilities while differing in appearance, allowing users to choose the design that best complements their preferences.",
+
+  "chapter.ae.quest.16.title": "Patterns",
+  "chapter.ae.quest.16.subtitle.1": "Crafting Setup",
+  "chapter.ae.quest.16.description.1": "&bPatterns&r function as repositories for encoded recipes that can be executed by a Pattern Provider. To encode a recipe onto a pattern, the process involves utilizing the &bME Pattern Encoding Terminal&r.",
+  "chapter.ae.quest.16.description.2": "Patterns offer the flexibility of holding either a conventional &6crafting&r recipe or a broader '&6processing&r' recipe. Crafting recipes entail the utilization of a &6Molecular Assembler&r positioned on the Provider's interface. Conversely, processing recipes involve sending input items from the provider to external machinery or dedicated processing units.",
+
+  "chapter.ae.quest.17.subtitle.1": "Auto-Crafting Table",
+  "chapter.ae.quest.17.description.1": "The &bMolecular Assembler&r serves as AE2's counterpart to an automated crafting table, essential for executing all &6crafting&r pattern tasks.",
+  "chapter.ae.quest.17.description.2": "Molecular Assemblers possess the capacity to transmit both power and channels to other ME devices linked to them, without consuming a channel themselves. In cases where a Pattern Provider is employed, up to 6 Molecular Assemblers can be linked to it, enabling the execution of multiple crafting tasks concurrently.",
+  "chapter.ae.quest.17.description.3": "Each Molecular Assembler (MA) features an exclusive slot designated for a single crafting pattern. This attribute empowers MAs to function autonomously when powered. In this mode, any items inserted into the MA that align with the crafting pattern will be automatically transformed into the resulting product of the pattern.",
+
+  "chapter.ae.quest.18.subtitle.1": "Gotta Go Fast",
+  "chapter.ae.quest.18.description.1": "The &bAcceleration Card&r serves a dual purpose, contingent upon the device it's integrated with. Depending on the specific device, the card can either augment the operational speed of the device or enable it to execute a greater number of operations in a single instance.",
+  "chapter.ae.quest.18.description.2": "When applied to the &6Molecular Assembler&r, a complete set of 5 &bAcceleration Cards&r drastically diminishes the duration required for the MA to complete a crafting operation. This reduction brings the crafting time down from one second (without any cards) to a single &otick&r, a remarkable improvement in efficiency.",
+
+  "chapter.ae.quest.19.subtitle.1": "Storage Detection",
+  "chapter.ae.quest.19.description.1": "The &bME Level Emitter&r operates in accordance with the configuration of a designated item and its corresponding quantity. Based on the item's presence and amount within the network, the emitter will emit a redstone signal, contingent upon whether the stored quantity falls below, exceeds, or matches the specified threshold.",
+  "chapter.ae.quest.19.description.2": "This functionality can be leveraged, for instance, to automatically activate specific machines using redstone signals for auto-crafting resources whenever their quantities drop below a predefined minimum threshold.",
+
+  "chapter.ae.quest.20.subtitle.1": "Applied & Redstone",
+  "chapter.ae.quest.20.description.1": "Individual ME devices can be tailored to react to redstone signals as well. By integrating a &bRedstone Card&r, a device can be programmed to perform tasks exclusively when powered by a redstone signal or in accordance with specific requirements.",
+  "chapter.ae.quest.20.description.2": "This behavior can extend to entire &osections&r of an ME network through the utilization of an &bME Toggle Bus&r. This innovative solution enables a designated network segment connected via the bus to activate only when the bus receives a redstone signal. Alternatively, when employing an &6inverted&r toggle bus, the designated network segment can be deactivated.",
+
+  "chapter.ae.quest.21.subtitle.1": "Better Crafting Automation",
+  "chapter.ae.quest.21.description.1": "When incorporated as an upgrade to any compatible device, such as an Interface or Export Bus, the &bCrafting Card&r facilitates the automation of crafting requests for a specified (filtered) item. This enables the respective device to independently initiate crafting procedures. Crafting CPUs can be tailored to exclusively respond to these automated requests, thus ensuring that they don't occupy CPUs designated for crafts requested by players.",
+  "chapter.ae.quest.21.description.2": "When the &6Level Emitter&r is augmented with the Crafting Card, it gains the capacity to emit redstone signals that directly contribute to crafting processes. This can manifest in two ways: emitting a signal &owhile&r a crafting job for the specified item is detected or issuing a signal &oto&r initiate the crafting of the item itself. The latter scenario is particularly relevant for situations where a redstone signal is all that's required to produce a specific item, circumventing the need for a conventional crafting pattern.",
+
+  "chapter.ae.quest.22.subtitle.1": "Input, Output? Both!",
+  "chapter.ae.quest.22.description.1": "To simplify tasks, AE2 offers a comprehensive array of devices tailored for the manipulation of ME data, essentially facilitating the movement of stored items throughout the world.",
+  "chapter.ae.quest.22.description.2": "The &bME Interface&r stands as one of these devices. Functioning as an input mechanism, the Interface grants the capability to channel various items, fluids, and more externally through it. These incoming resources are subsequently automatically integrated into the connected ME Network, streamlining the storage process.",
+  "chapter.ae.quest.22.description.3": "When employed as an output device, the Interface can be set up to maintain a designated quantity of a stored item in stock, ensuring a certain supply is retained within its internal inventory from the ME network. This arrangement facilitates the subsequent transfer of items to an external destination, such as another player or a piping system.",
+
+  "chapter.ae.quest.23.subtitle.1": "External Storage",
+  "chapter.ae.quest.23.description.1": "The &bME Storage Bus&r, when positioned facing an external storage container, bestows upon the container the ability to be seamlessly integrated into the ME network. This integration enables the extraction of items from the container or the insertion of items into it exclusively through ME interfaces.",
+  "chapter.ae.quest.23.description.2": "Storage buses can be configured with filters and assigned distinct priorities. This configuration enables specific items to first attempt placement in the linked storage. However, it's important to note that the storage bus does not retroactively relocate filtered items from other locations within the network to the attached storage.",
+
+  "chapter.ae.quest.24.subtitle.1": "Filter Upgrade",
+  "chapter.ae.quest.24.description.1": "The &bCapacity Card&r provides the enhancement of expanding the filter capacity of a bus it's installed in. When Import and Export buses are upgraded with capacity cards, they transition from accommodating a solitary filtered item to their full potential of a nine-slot filter. Similarly, Storage buses undergo a transformation from having 18 slots to supporting up to 63 slots with the aid of a capacity card.",
+
+  "chapter.ae.quest.25.title": "Useful Cards",
+  "chapter.ae.quest.25.subtitle.1": "Filtering",
+  "chapter.ae.quest.25.description.1": "The &bFuzzy Card&r introduces the capability to match a filtered item irrespective of any (NBT) metadata, which encompasses attributes like damage or enchantments. On the other hand, the &bInverter Card&r serves to toggle the filter on compatible buses, shifting it from a whitelist configuration to a blacklist configuration.",
+
+  "chapter.ae.quest.26.subtitle.1": "Storage to Applied",
+  "chapter.ae.quest.26.description.1": "The &bME Import Bus&r functions by regularly drawing items from the external storage it is directed towards. It can also be configured with optional filtering to exclusively retrieve specific items from the designated inventory.",
+
+  "chapter.ae.quest.27.subtitle.1": "Applied Breaker",
+  "chapter.ae.quest.27.description.1": "The &bME Annihilation Plane&r possesses the ability to autonomously dismantle blocks located in front of it. Moreover, any items dropped as a result of block destruction are promptly routed back to the ME network for storage.",
+  "chapter.ae.quest.27.description.2": "An additional advantage of the Annihilation Plane is its susceptibility to enchantments, akin to regular digging tools. These enchantments influence block drops in a manner consistent with how the corresponding enchanted tool functions. Consequently, when enchanted with Fortune, for instance, the Annihilation Plane becomes particularly adept at processing ore blocks.",
+  "chapter.ae.quest.27.description.3": "Incorporating enchantments substantially escalates the energy consumption of the Annihilation Plane with each block it breaks. When augmented with the &6Efficiency&r enchantment, the overall energy usage for all other enchantments is reduced. On the other hand, the &6Unbreaking&r enchantment grants the plane the potential to consume energy intermittently, akin to how Unbreaking operates on conventional tools.",
+
+  "chapter.ae.quest.28.subtitle.1": "Applied to Storage",
+  "chapter.ae.quest.28.description.1": "The &bME Export Bus&r operates by intermittently ejecting items listed in its whitelist filter to an external storage destination that the bus is oriented towards. Unlike the Import Bus, the Export Bus is reliant on having a filter in place and cannot function without one.",
+
+  "chapter.ae.quest.29.subtitle.1": "Applied Placer",
+  "chapter.ae.quest.29.description.1": "The &bME Formation Plane&r functions in a manner reminiscent of the Storage Bus, but it treats the surrounding world as its storage medium. In practical terms, this means that the plane is capable of placing any block from its filter directly in front of itself within the game world.",
+  "chapter.ae.quest.29.description.2": "This capability can be advantageous in scenarios where a block can be conveniently processed by placing it down and subsequently breaking it with a specific tool.",
+
+  "chapter.ae.quest.30.subtitle.1": "First Cable",
+  "chapter.ae.quest.30.description.1": "",
+  "chapter.ae.quest.30.description.2": "",
+  "chapter.ae.quest.30.description.3": "",
+
+  "chapter.ae.quest.31.subtitle.1": "",
+  "chapter.ae.quest.31.description.1": "",
+
+  "chapter.ae.quest.32.subtitle.1": "",
+  "chapter.ae.quest.32.description.1": "",
+
+  "chapter.ae.quest.33.subtitle.1": "",
+  "chapter.ae.quest.33.description.1": "",
+
+  "chapter.ae.quest.34.subtitle.1": "",
+  "chapter.ae.quest.34.description.1": "",
+
+  "chapter.ae.quest.35.subtitle.1": "",
+  "chapter.ae.quest.35.description.1": "",
+
+  "chapter.ae.quest.36.subtitle.1": "",
+  "chapter.ae.quest.36.description.1": "",
+
+  "chapter.ae.quest.37.subtitle.1": "",
+  "chapter.ae.quest.37.description.1": "",
+
+  "chapter.ae.quest.38.subtitle.1": "",
+  "chapter.ae.quest.38.description.1": "",
+
+  "chapter.ae.quest.39.subtitle.1": "",
+  "chapter.ae.quest.39.description.1": "",
+
+  "chapter.ae.quest.40.subtitle.1": "",
+  "chapter.ae.quest.40.description.1": "",
+
+  "chapter.ae.quest.41.subtitle.1": "",
+  "chapter.ae.quest.41.description.1": "",
+
+  "chapter.ae.quest.42.subtitle.1": "",
+  "chapter.ae.quest.42.description.1": "",
+
+  "chapter.ae.quest.43.subtitle.1": "",
+  "chapter.ae.quest.43.description.1": "",
+
+  "chapter.ae.quest.44.subtitle.1": "",
+  "chapter.ae.quest.44.description.1": "",
+
+  "chapter.ae.quest.45.subtitle.1": "",
+  "chapter.ae.quest.45.description.1": "",
+
+  "chapter.ae.quest.46.subtitle.1": "",
+  "chapter.ae.quest.46.description.1": "",
+
+  "chapter.ae.quest.47.subtitle.1": "",
+  "chapter.ae.quest.47.description.1": "",
+
+  "chapter.ae.quest.48.subtitle.1": "",
+  "chapter.ae.quest.48.description.1": "",
+
+  "chapter.ae.quest.49.subtitle.1": "",
+  "chapter.ae.quest.49.description.1": "",
+
+  "chapter.ae.quest.50.subtitle.1": "",
+  "chapter.ae.quest.50.description.1": "",
+
+  "chapter.ae.quest.51.subtitle.1": "",
+  "chapter.ae.quest.51.description.1": "",
+
+  "chapter.ae.quest.52.subtitle.1": "",
+  "chapter.ae.quest.52.description.1": "",
+
+  "chapter.ae.quest.53.subtitle.1": "",
+  "chapter.ae.quest.53.description.1": "",
+
+  "chapter.ae.quest.54.subtitle.1": "",
+  "chapter.ae.quest.54.description.1": "",
+
+  "chapter.ae.quest.55.subtitle.1": "",
+  "chapter.ae.quest.55.description.1": "",
+
+  "chapter.ae.quest.56.subtitle.1": "",
+  "chapter.ae.quest.56.description.1": "",
+
+  "chapter.ae.quest.57.subtitle.1": "",
+  "chapter.ae.quest.57.description.1": "",
+
+  "chapter.ae.quest.58.subtitle.1": "",
+  "chapter.ae.quest.58.description.1": "",
+
+  "chapter.ae.quest.59.subtitle.1": "",
+  "chapter.ae.quest.59.description.1": "",
+
+  "chapter.ae.quest.60.subtitle.1": "",
+  "chapter.ae.quest.60.description.1": "",
+
+  "chapter.ae.quest.61.subtitle.1": "",
+  "chapter.ae.quest.61.description.1": "",
+
+  "chapter.ae.quest.62.subtitle.1": "",
+  "chapter.ae.quest.62.description.1": "",
+
+  "chapter.ae.quest.63.subtitle.1": "",
+  "chapter.ae.quest.63.description.1": "",
+
+  "chapter.ae.quest.64.subtitle.1": "",
+  "chapter.ae.quest.64.description.1": "",
+
+  "chapter.ae.quest.65.subtitle.1": "",
+  "chapter.ae.quest.65.description.1": "",
+
+  "chapter.ae.quest.66.subtitle.1": "",
+  "chapter.ae.quest.66.description.1": "",
+
+  "chapter.ae.quest.67.subtitle.1": "",
+  "chapter.ae.quest.67.description.1": "",
+
+  "chapter.ae.quest.68.subtitle.1": "",
+  "chapter.ae.quest.68.description.1": "",
+
+  "chapter.ae.quest.69.subtitle.1": "",
+  "chapter.ae.quest.69.description.1": "",
+
+  "chapter.ae.quest.70.subtitle.1": "",
+  "chapter.ae.quest.70.description.1": "",
+
+  "chapter.ae.quest.71.subtitle.1": "",
+  "chapter.ae.quest.71.description.1": "",
+
+  "chapter.ae.quest.72.subtitle.1": "",
+  "chapter.ae.quest.72.description.1": "",
+
+  "chapter.ae.quest.73.subtitle.1": "",
+  "chapter.ae.quest.73.description.1": "",
+
+  "chapter.ae.quest.74.subtitle.1": "",
+  "chapter.ae.quest.74.description.1": "",
+
+  "chapter.ae.quest.75.subtitle.1": "",
+  "chapter.ae.quest.75.description.1": "",
+
+  "chapter.ae.quest.76.subtitle.1": "",
+  "chapter.ae.quest.76.description.1": "",
+
+  "chapter.ae.quest.77.subtitle.1": "",
+  "chapter.ae.quest.77.description.1": "",
+
+  "chapter.ae.quest.78.subtitle.1": "",
+  "chapter.ae.quest.78.description.1": "",
+
+  "chapter.ae.quest.79.subtitle.1": "",
+  "chapter.ae.quest.79.description.1": "",
+
+  "chapter.ae.quest.80.subtitle.1": "",
+  "chapter.ae.quest.80.description.1": "",
+
+  "chapter.ae.quest.81.subtitle.1": "",
+  "chapter.ae.quest.81.description.1": ""
+
+
 }
