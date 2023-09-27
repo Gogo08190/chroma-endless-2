@@ -3392,6 +3392,151 @@
   "chapter.ae.quest.80.description.3": "Subsequently, any blocks situated within either the cell's designated spatial area or within an SCS of equivalent dimensions to the one utilized during the initial encoding can be relocated back into the overworld or into the spatial dimension, respectively. In cases where blocks exist both within the spatial region and within the SCS, these will seamlessly exchange places as needed.",
 
   "chapter.ae.quest.81.subtitle.1": "AE2 Structure Chunk Loader",
-  "chapter.ae.quest.81.description.1": "The &bSpatial Anchor&r serves as a complementary device stemming from the Spatial IO family, serving a straightforward role as a chunk loader. Upon integration with an ME network, the Anchor will ensure the continuous loading of all chunks inhabited by the ME network across all cables and devices, excluding subnetworks. This persistent loading remains in effect as long as the network retains a power supply."
-  
+  "chapter.ae.quest.81.description.1": "The &bSpatial Anchor&r serves as a complementary device stemming from the Spatial IO family, serving a straightforward role as a chunk loader. Upon integration with an ME network, the Anchor will ensure the continuous loading of all chunks inhabited by the ME network across all cables and devices, excluding subnetworks. This persistent loading remains in effect as long as the network retains a power supply.",
+
+  "Blue Skies":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.bs.title": "Blue Skies",
+
+  "chapter.bs.quest.1.subtitle.1": "Starting Blue Skies",
+  "chapter.bs.quest.1.description.1": "&9Blue Skies&r adds 2 new dimensions, both filled with new blocks, creatures, and a total of 4 bosses.",
+  "chapter.bs.quest.1.description.2": "To get started, we need to find the &6Gatekeeper&r!",
+  "chapter.bs.quest.1.description.3": "The Gatekeeper possesses extensive knowledge about the dimensions in Blue Skies. As you progress through the mod, your &9Blue Journal&r will expand to provide guidance during your journey.",
+
+  "chapter.bs.quest.2.title": "Blue Skies Wood Pickaxe",
+  "chapter.bs.quest.2.subtitle.1": "Vanilla not Working !",
+  "chapter.bs.quest.2.description.1": "Your Overworldly tools have no power here.",
+  "chapter.bs.quest.2.description.2": "For progress in Blue Skies, crafting a new pickaxe from the surrounding woods is essential.",
+
+  "chapter.bs.quest.3.title": "Blue Skies Spear",
+  "chapter.bs.quest.3.subtitle.1": "Dimensional Weapon",
+  "chapter.bs.quest.3.description.1": "The &6Spear&r stands as the preferred weapon within Blue Skies. With enchantment capabilities, it serves as a reliable ranged option against the adversaries you'll encounter.",
+
+  "chapter.bs.quest.4.subtitle.1": "A new Material",
+  "chapter.bs.quest.4.description.1": "To become proficient in the realms of Blue Skies, crafting the &6Spear&r is imperative.",
+  "chapter.bs.quest.4.description.2": "To craft these, acquiring Moonstone is the first step. Explore the caverns to locate the necessary ores!",
+
+  "chapter.bs.quest.5.subtitle.1": "Tool Upgrade",
+  "chapter.bs.quest.5.description.1": "It serves to upgrade and enhance tools within the context of Blue Skies.",
+  "chapter.bs.quest.5.description.2": "Falsite can bolster tool durability, while various sticks from the mod can be utilized to replace tool parts. Different wood types offer distinct functionalities.",
+
+  "chapter.bs.quest.6.title": "Ventium Tools",
+  "chapter.bs.quest.6.subtitle.1": "Another Dimension Stuff",
+  "chapter.bs.quest.6.description.1": "Ventium can be used to make Shears and a bucket.",
+  "chapter.bs.quest.6.description.2": "The bucket can pick up the underwater mobs in Blue Skies.",
+
+  "chapter.bs.quest.7.title": "Pyrope Tools",
+  "chapter.bs.quest.7.subtitle.1": "Red Tools",
+
+  "chapter.bs.quest.8.subtitle.1": "Red Gem",
+  "chapter.bs.quest.8.description.1": "&cPyrope&r means Speed in the language of Blue Skies. These tools are weak, but fast.",
+
+  "chapter.bs.quest.9.title": "Pyrope Armor",
+  "chapter.bs.quest.9.subtitle.1": "Not Rubis",
+
+  "chapter.bs.quest.10.title": "Blue Skies Stone Pickaxe",
+  "chapter.bs.quest.10.subtitle.1": "Getting an upgrade",
+  "chapter.bs.quest.10.description.1": "The Wood pickaxe won't get you really far like Vanilla.",
+  "chapter.bs.quest.10.description.2": "Venture underground to acquire stone for crafting a new pickaxe. This will allow us to proceed with the utilization of the newly introduced ores.",
+
+  "chapter.bs.quest.11.subtitle.1": "Red Ingot",
+  "chapter.bs.quest.11.description.1": "Ventium is a reddish metal discovered in the majority of non-mountainous biomes within the Everbright dimension.",
+  "chapter.bs.quest.11.description.2": "It essentially functions like Iron but is limited to crafting shears, buckets, and the &6Tool Box&r.",
+
+  "chapter.bs.quest.12.subtitle.1": "Purple Ingot",
+  "chapter.bs.quest.12.description.1": "Falsite Ore is located within the non-mountainous biomes of Everbright.",
+  "chapter.bs.quest.12.description.2": "This ingot is employed in the tool box to enhance the durability of nearly any tool.",
+
+  "chapter.bs.quest.13.subtitle.1": "No Mob Thanks",
+  "chapter.bs.quest.13.description.1": "This is a lantern that prevents hostile spawns within a large radius.",
+
+  "chapter.bs.quest.14.subtitle.1": "Orange Ingot",
+  "chapter.bs.quest.14.description.1": "Found only within the Crystal Dunes.",
+  "chapter.bs.quest.14.description.2": "Tools made from this ingot will come with &6Auto-Smelt&r.",
+  "chapter.bs.quest.14.description.3": "This can also be used to make the &6Horizonite Forge&r.",
+
+  "chapter.bs.quest.15.subtitle.1": "Smelting Horizonite",
+
+  "chapter.bs.quest.16.title": "Horizonite Tools",
+  "chapter.bs.quest.16.subtitle.1": "Orange Tools",
+
+  "chapter.bs.quest.17.subtitle.1": "",
+  "chapter.bs.quest.17.description.1": "",
+
+  "chapter.bs.quest.18.subtitle.1": "",
+  "chapter.bs.quest.18.description.1": "",
+
+  "chapter.bs.quest.19.subtitle.1": "",
+  "chapter.bs.quest.19.description.1": "",
+
+  "chapter.bs.quest.20.subtitle.1": "",
+  "chapter.bs.quest.20.description.1": "",
+
+  "chapter.bs.quest.21.subtitle.1": "",
+  "chapter.bs.quest.21.description.1": "",
+
+  "chapter.bs.quest.22.subtitle.1": "",
+  "chapter.bs.quest.22.description.1": "",
+
+  "chapter.bs.quest.23.subtitle.1": "",
+  "chapter.bs.quest.23.description.1": "",
+
+  "chapter.bs.quest.24.subtitle.1": "",
+  "chapter.bs.quest.24.description.1": "",
+
+  "chapter.bs.quest.25.subtitle.1": "",
+  "chapter.bs.quest.25.description.1": "",
+
+  "chapter.bs.quest.26.subtitle.1": "",
+  "chapter.bs.quest.26.description.1": "",
+
+  "chapter.bs.quest.27.subtitle.1": "",
+  "chapter.bs.quest.27.description.1": "",
+
+  "chapter.bs.quest.28.subtitle.1": "",
+  "chapter.bs.quest.28.description.1": "",
+
+  "chapter.bs.quest.29.subtitle.1": "",
+  "chapter.bs.quest.29.description.1": "",
+
+  "chapter.bs.quest.30.subtitle.1": "",
+  "chapter.bs.quest.30.description.1": "",
+
+  "chapter.bs.quest.31.subtitle.1": "",
+  "chapter.bs.quest.31.description.1": "",
+
+  "chapter.bs.quest.32.subtitle.1": "",
+  "chapter.bs.quest.32.description.1": "",
+
+  "chapter.bs.quest.33.subtitle.1": "",
+  "chapter.bs.quest.33.description.1": "",
+
+  "chapter.bs.quest.34.subtitle.1": "",
+  "chapter.bs.quest.34.description.1": "",
+
+  "chapter.bs.quest.35.subtitle.1": "",
+  "chapter.bs.quest.35.description.1": "",
+
+  "chapter.bs.quest.36.subtitle.1": "",
+  "chapter.bs.quest.36.description.1": "",
+
+  "chapter.bs.quest.37.subtitle.1": "",
+  "chapter.bs.quest.37.description.1": "",
+
+  "chapter.bs.quest.38.subtitle.1": "",
+  "chapter.bs.quest.38.description.1": "",
+
+  "chapter.bs.quest.39.subtitle.1": "",
+  "chapter.bs.quest.39.description.1": "",
+
+  "chapter.bs.quest.40.subtitle.1": "",
+  "chapter.bs.quest.40.description.1": "",
+
+  "chapter.bs.quest.41.subtitle.1": "",
+  "chapter.bs.quest.41.description.1": "",
+
+  "chapter.bs.quest.42.subtitle.1": "",
+  "chapter.bs.quest.42.description.1": ""
+
+
 }
