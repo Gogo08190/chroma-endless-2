@@ -3460,83 +3460,84 @@
   "chapter.bs.quest.16.title": "Horizonite Tools",
   "chapter.bs.quest.16.subtitle.1": "Orange Tools",
 
-  "chapter.bs.quest.17.subtitle.1": "",
-  "chapter.bs.quest.17.description.1": "",
+  "chapter.bs.quest.17.title": "Charoite Tools",
+  "chapter.bs.quest.17.subtitle.1": "Purple Tools",
 
-  "chapter.bs.quest.18.subtitle.1": "",
-  "chapter.bs.quest.18.description.1": "",
+  "chapter.bs.quest.18.subtitle.1": "Purple Gem",
+  "chapter.bs.quest.18.description.1": "This is the Diamond of Blue Skies.",
+  "chapter.bs.quest.18.description.2": "Although Diopside offers increased durability and impact, &dCharoite&r boasts superior speed and lighter weight overall. Charoite tools possess the ability to mine any substance within Blue Skies.",
 
-  "chapter.bs.quest.19.subtitle.1": "",
-  "chapter.bs.quest.19.description.1": "",
+  "chapter.bs.quest.19.subtitle.1": "Charoite Armor",
+  "chapter.bs.quest.19.description.1": "Purple Armor",
 
-  "chapter.bs.quest.20.subtitle.1": "",
-  "chapter.bs.quest.20.description.1": "",
+  "chapter.bs.quest.20.subtitle.1": "Blue Ore",
+  "chapter.bs.quest.20.description.1": "As we go further in the caverns of Blue Skies, we'll run into &9Aquite Ore&r.",
+  "chapter.bs.quest.20.description.2": "Mine sufficient resources to fashion starter tools, essential for extracting the more resilient Blue Skies ores.",
+  "chapter.bs.quest.20.description.3": "At this point, it's advisable to seek out superior materials for crafting improved weaponry and armor.",
 
-  "chapter.bs.quest.21.subtitle.1": "",
-  "chapter.bs.quest.21.description.1": "",
+  "chapter.bs.quest.21.subtitle.1": "Forgotten Souls",
+  "chapter.bs.quest.21.description.1": "Within Blue Skies, players must conquer 4 bosses and explore numerous dungeons.",
+  "chapter.bs.quest.21.description.2": "You may stumble upon random 'tunnels' that descend into dungeon chambers. These tunnels spawn Armored Frost Spirits for combat and soul collection.",
 
-  "chapter.bs.quest.22.subtitle.1": "",
-  "chapter.bs.quest.22.description.1": "",
+  "chapter.bs.quest.22.title": "Diopside Tools",
+  "chapter.bs.quest.22.subtitle.1": "Green Tools",
 
-  "chapter.bs.quest.23.subtitle.1": "",
-  "chapter.bs.quest.23.description.1": "",
+  "chapter.bs.quest.23.subtitle.1": "Green Gem",
+  "chapter.bs.quest.23.description.1": "The robust green gemstone, &aDiopside&r, offers substantial strength but has a slower pace. It proves ideal for crafting formidable weapons.",
 
-  "chapter.bs.quest.24.subtitle.1": "",
-  "chapter.bs.quest.24.description.1": "",
+  "chapter.bs.quest.24.title": "Diopside Armor",
+  "chapter.bs.quest.24.subtitle.1": "Green Armor",
 
-  "chapter.bs.quest.25.subtitle.1": "",
-  "chapter.bs.quest.25.description.1": "",
+  "chapter.bs.quest.24.title": "Blinding Dungeon Key",
+  "chapter.bs.quest.25.subtitle.1": "The Starter Dungeons",
+  "chapter.bs.quest.25.description.1": "Whether you commenced in Everbright or Everdawn, prioritize locating a tower structure. These images will be provided in the subsequent quests. These towers house your initial boss encounters.",
+  "chapter.bs.quest.25.description.2": "Within the tower's smaller sections, engage in battles to secure loot and obtain &6Blinding Dungeon Keys&r. In the heart of the dungeon, you'll encounter a locked doorway. Employ 4 Blinding Dungeon Keys to unlock the boss fight within.",
+  "chapter.bs.quest.25.description.3": "Note: Upon defeating the boss, it will drop an Arc. These can be equipped within a designated tab in your inventory, with a total of 4 Arcs available.",
 
-  "chapter.bs.quest.26.subtitle.1": "",
-  "chapter.bs.quest.26.description.1": "",
+  "chapter.bs.quest.26.subtitle.1": "Shield with Damages",
 
-  "chapter.bs.quest.27.subtitle.1": "",
-  "chapter.bs.quest.27.description.1": "",
+  "chapter.bs.quest.27.subtitle.1": "Invisibility Cape",
+  "chapter.bs.quest.27.description.1": "Grants invisibility when sneaking.",
 
-  "chapter.bs.quest.28.subtitle.1": "",
-  "chapter.bs.quest.28.description.1": "",
+  "chapter.bs.quest.28.title": "Kill the &5Alchemist&r",
+  "chapter.bs.quest.28.subtitle.1": "The Guardian of the Everdawn Tower",
+  "chapter.bs.quest.28.description.1": "Within the Everdawn Tower, you'll encounter the Alchemist boss fight. Gather Blinding Dungeon Keys to access and unlock this confrontation.",
+  "chapter.bs.quest.28.description.2": "Anticipate facing a barrage of potions while also combating the Alchemist's minions.",
 
-  "chapter.bs.quest.29.subtitle.1": "",
-  "chapter.bs.quest.29.description.1": "",
+  "chapter.bs.quest.29.title": "Kill the &6Summoner&r",
+  "chapter.bs.quest.29.subtitle.1": "The Guardian of the Everbright Tower",
+  "chapter.bs.quest.29.description.1": "At the heart of the Tower of Everbright, you'll encounter the Summoner boss.",
+  "chapter.bs.quest.29.description.2": "The Summoner boss employs lightning and energy attacks, alongside summoned golem guards, to safeguard the tower.",
 
-  "chapter.bs.quest.30.subtitle.1": "",
-  "chapter.bs.quest.30.description.1": "",
+  "chapter.bs.quest.30.subtitle.1": "Faster than the Light!",
+  "chapter.bs.quest.30.description.1": "Increases movement speed.",
 
-  "chapter.bs.quest.31.subtitle.1": "",
-  "chapter.bs.quest.31.description.1": "",
+  "chapter.bs.quest.31.subtitle.1": "Speeding Spear",
 
-  "chapter.bs.quest.32.subtitle.1": "",
-  "chapter.bs.quest.32.description.1": "",
+  "chapter.bs.quest.32.subtitle.1": "Blue Skies Profession",
 
-  "chapter.bs.quest.33.subtitle.1": "",
-  "chapter.bs.quest.33.description.1": "",
+  "chapter.bs.quest.33.title": "Kill the &3Arachnarch&r",
+  "chapter.bs.quest.33.subtitle.1": "The Boss of the Poison Dungeon",
+  "chapter.bs.quest.33.description.1": "Note: If you have arachnophobia, this particular battle might be uncomfortable for you.",
+  "chapter.bs.quest.33.description.2": "Inside Everdawn, you'll encounter a colossal deceased tree enveloped in spider webs.",
+  "chapter.bs.quest.33.description.3": "Collect Poison Dungeon Keys from within to access and unlock the ultimate boss confrontation!",
 
-  "chapter.bs.quest.34.subtitle.1": "",
-  "chapter.bs.quest.34.description.1": "",
+  "chapter.bs.quest.34.subtitle.1": "Poison Ivy",
+  "chapter.bs.quest.34.description.1": "Drops from the Arachnarch's Loot Bag",
+  "chapter.bs.quest.34.description.2": "Increases damage done when poisoned.",
 
-  "chapter.bs.quest.35.subtitle.1": "",
-  "chapter.bs.quest.35.description.1": "",
+  "chapter.bs.quest.35.subtitle.1": "Drops from the Arachnarch's Loot Bag",
 
-  "chapter.bs.quest.36.subtitle.1": "",
-  "chapter.bs.quest.36.description.1": "",
+  "chapter.bs.quest.36.subtitle.1": "Drops from the Arachnarch's Loot Bag",
 
-  "chapter.bs.quest.37.subtitle.1": "",
-  "chapter.bs.quest.37.description.1": "",
+  "chapter.bs.quest.37.title": "Kill the &bStarlit Crusher&r",
+  "chapter.bs.quest.37.subtitle.1": "The Boss of the Nature Dungeon",
+  "chapter.bs.quest.37.description.1": "The expansive Nature's Dungeon is located within Everbright. Its size makes it impossible to overlook.",
+  "chapter.bs.quest.37.description.2": "Navigate through the structure's intricate maze to collect Nature Dungeon Keys, which are essential for unlocking the boss fight. Prepare to engage in battle and bring down the formidable adversary!",
+  "chapter.bs.quest.37.description.3": "Note: If you struggle to locate all the keys, you have the option to trade with the Gatekeeper. However, this option becomes available only after you've right-clicked the gate to initiate the boss fight.",
 
-  "chapter.bs.quest.38.subtitle.1": "",
-  "chapter.bs.quest.38.description.1": "",
+  "chapter.bs.quest.38.subtitle.1": "Drops from the Starlit Crusher's Loot Bag",
+  "chapter.bs.quest.38.description.1": "Increases max hearts.",
 
-  "chapter.bs.quest.39.subtitle.1": "",
-  "chapter.bs.quest.39.description.1": "",
-
-  "chapter.bs.quest.40.subtitle.1": "",
-  "chapter.bs.quest.40.description.1": "",
-
-  "chapter.bs.quest.41.subtitle.1": "",
-  "chapter.bs.quest.41.description.1": "",
-
-  "chapter.bs.quest.42.subtitle.1": "",
-  "chapter.bs.quest.42.description.1": ""
-
-
+  "chapter.bs.quest.39.subtitle.1": "Drops from the Starlit Crusher's Loot Bag"
 }
