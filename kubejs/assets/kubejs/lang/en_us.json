@@ -3539,5 +3539,189 @@
   "chapter.bs.quest.38.subtitle.1": "Drops from the Starlit Crusher's Loot Bag",
   "chapter.bs.quest.38.description.1": "Increases max hearts.",
 
-  "chapter.bs.quest.39.subtitle.1": "Drops from the Starlit Crusher's Loot Bag"
+  "chapter.bs.quest.39.subtitle.1": "Drops from the Starlit Crusher's Loot Bag",
+
+  "Evil Craft":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.evil.title": "Evil Craft",
+
+  "chapter.evil.quest.1.subtitle.1": "Darkness Rises",
+  "chapter.evil.quest.1.description.1": "&cEvilCraft&r is a magic-themed mod centered around dark elements. Gather the blood of your adversaries and tap into the potency of an ancient font of malevolence!",
+  "chapter.evil.quest.1.description.2": "Comprehensive information about every aspect of this mod can be found in the guidebook, known as the &aOrigins of Darkness&r.",
+  "chapter.evil.quest.1.description.3": "To get started, find yourself some &9Dark Gems&r. ",
+
+  "chapter.evil.quest.2.title": "Dark Temples",
+  "chapter.evil.quest.2.subtitle.1": "Evil Structures",
+  "chapter.evil.quest.2.description.1": "You won't easily overlook these structures, as they emit a substantial beam from their centers.",
+  "chapter.evil.quest.2.description.2": "Positioned at the core of the &9Dark Temple&r is an &aEnvironmental Accumulator&r.",
+  "chapter.evil.quest.2.description.3": "This &aEnvironmental Accumulator&r serves to enhance and craft various essential items for our journey, including &dLightning Bombs&r!",
+
+  "chapter.evil.quest.3.subtitle.1": "Rain in a Bottle",
+  "chapter.evil.quest.3.description.1": "During rainy weather, inserting a &aWeather Container&r into the &aEnvironmental Accumulator&r enables you to harness the power of the rain.",
+
+  "chapter.evil.quest.4.subtitle.1": "Thunder in a Bottle",
+  "chapter.evil.quest.4.description.1": "During a thunderstorm, introducing a &aWeather Container&r into the &aEnvironmental Accumulator&r will allow you to harness the storm's power.",
+  "chapter.evil.quest.4.description.2": "With this method, we can craft items that grant us the ability to manipulate Lightning at our discretion.",
+
+  "chapter.evil.quest.5.subtitle.1": "Sun in a Bottle",
+
+  "chapter.evil.quest.6.title": "Lightning Explosive",
+  "chapter.evil.quest.6.subtitle.1": "Thunderous Boom",
+
+  "chapter.evil.quest.7.title": "Eternal Water",
+  "chapter.evil.quest.7.subtitle.1": "Infinite Water",
+  "chapter.evil.quest.7.description.1": "Using the Weather Container, you can produce an &9Infinite Water Bucket&r or an &9Infinite Water Source Block&r. These items are immensely practical and valuable to possess!",
+
+  "chapter.evil.quest.8.subtitle.1": "Raining Blood",
+  "chapter.evil.quest.8.description.1": "To start collecting blood, we need to craft the &cBlood Extractor&r. ",
+  "chapter.evil.quest.8.description.2": "As long as you carry this extractor in your inventory, eliminating mobs will cause their blood to be collected within it. &cBlood&r holds significant importance as a resource in EvilCraft.",
+  "chapter.evil.quest.8.description.3": "If you require increased storage for the Extractor, create an additional one and then combine them within a crafting grid.",
+  "chapter.evil.quest.8.description.4": "These buckets can also be employed to extract blood from &cBlood Stains&r that you encounter or generate on the ground.",
+  "chapter.evil.quest.8.description.5": "Finally, once you've amassed sufficient blood, perform a sneak-right click on the ground to place a bucket of blood.",
+
+  "chapter.evil.quest.9.subtitle.1": "Blood Storage",
+  "chapter.evil.quest.9.description.1": "Harnessing the potency of &9Dark Gems&r, we can fabricate &aDark Tanks&r.",
+  "chapter.evil.quest.9.description.2": "Each &aDark Tank&r can hold up to 16 buckets of any liquid of your choosing, but it's particularly handy for storing the copious amounts of &cBlood&r you'll be collecting.",
+  "chapter.evil.quest.9.description.3": "If you require increased capacity, simply combine a &aDark Tank&r with another in a crafting grid.",
+
+  "chapter.evil.quest.10.subtitle.1": "Clawed Tool",
+  "chapter.evil.quest.10.description.1": "Ever wished to inflict harm upon things using a Shovel? Despite the unusual desire, in the realm of EvilCraft, such peculiarities are not unexpected.",
+  "chapter.evil.quest.10.description.2": "Look no further! This dual-purpose item functions as both a weapon and a tool for breaking softer materials.",
+
+  "chapter.evil.quest.11.title" : "Collecting Blood",
+  "chapter.evil.quest.11.subtitle.1": "Blood Farm",
+  "chapter.evil.quest.11.description.1": "Did a mob meet an unfortunate end, resulting in its &cBlood&r being spilled all over the floor? What a mess!",
+  "chapter.evil.quest.11.description.2": "To salvage that valuable &cBlood&r for future use, employ a &cSanguinary Pedestal&r to absorb it.",
+  "chapter.evil.quest.11.description.3": "Want to automate collecting blood? Place a &9Spiked Plate&r on top of the Pedestal, then have a mob stand on it.",
+
+  "chapter.evil.quest.12.title": "Vengeance",
+  "chapter.evil.quest.12.subtitle.1": "Wraiths!",
+  "chapter.evil.quest.12.description.1": "Upon occasion, eliminating a mob can trigger the appearance of a &dVengeance Spirit&r.",
+  "chapter.evil.quest.12.description.2": "The &dEssence&r they possess proves to be valuable in crafting more sophisticated items within EvilCraft.",
+  "chapter.evil.quest.12.description.3": "Struggling to encounter enough Spirits? Craft a &9Vengeance Ring&r and activate it to draw in more Spirits during your battles.",
+
+  "chapter.evil.quest.13.title": "Spirit Catcher",
+  "chapter.evil.quest.13.subtitle.1": "Catch them all",
+  "chapter.evil.quest.13.description.1": "While their &dEssence&r serves a purpose, you can also trap these Spirits for utilization at a later time. It does sound rather sinister, doesn't it?",
+  "chapter.evil.quest.13.description.2": "To assume the role of a Spirit Hunter, begin by crafting the &dVengeance Focus&r. This item is utilized to &aFreeze Spirits&r in position. Subsequently, place a &9Box of Eternal Closure&r near the Spirit. This device will then capture the Spirit for future utilization.",
+
+  "chapter.evil.quest.14.title": "Blood Mob Farm",
+  "chapter.evil.quest.14.subtitle.1": "More Blood!",
+  "chapter.evil.quest.14.description.1": "&cEvilCraft&r offers its own dedicated Mob Farm feature!",
+  "chapter.evil.quest.14.description.2": "To initiate this process, begin by crafting a minimum of 33 &cDark Blood Bricks&r. These bricks will be used to construct a robust structure capable of containing the summoned spirits.",
+  "chapter.evil.quest.14.description.3": "You'll also require a spirit confined within a &9Box of Eternal Closure&r. The contents of this box will dictate the drops you receive.",
+  "chapter.evil.quest.14.description.4": "To construct the Mob Farm, create a cuboid structure with adequate space for mob spawning. The smallest viable size is 3x4x3, sufficient for spawning mobs like zombies. Ensure that a &9Spirit Furnace&r is positioned on one of the faces, facilitating interaction with the structure.",
+  "chapter.evil.quest.14.description.5": "For the spawning of larger mobs, a more sizable structure will be necessary.",
+
+  "chapter.evil.quest.15.subtitle.1": "Getting Spawn Eggs",
+  "chapter.evil.quest.15.description.1": "Interested in crafting a mob egg using the spirit you've ensnared within the box?",
+  "chapter.evil.quest.15.description.2": "The &9Spirit Reanimator&r accomplishes precisely that. Furnish it with an ample supply of &cBlood&r, an egg, and naturally, a &9Box of Eternal Closure&r containing the desired Spirit. The device will endeavor to create the mob egg as intended!",
+  "chapter.evil.quest.15.description.3": "Note: Certain mobs are ineligible for use in creating eggs.",
+
+  "chapter.evil.quest.16.subtitle.1": "Solidified Blood",
+  "chapter.evil.quest.16.description.1": "When left on the ground for an extended period, a bucket of blood will solidify and transform into &cHardened Blood&r.",
+  "chapter.evil.quest.16.description.2": "In addition to its rather unsanitary nature, various forms of blood, including dried blood, are essential for our progression.",
+  "chapter.evil.quest.16.description.3": "Hardened Blood will revert to its liquid state in the rain or if broken with regular tools. However, if you break it with &9Flint and Steel&r, you'll obtain &dBlood Shards&r instead.",
+
+  "chapter.evil.quest.17.subtitle.1": "Dark Red Gem",
+
+  "chapter.evil.quest.18.subtitle.1": "Blood Crafting Component",
+  "chapter.evil.quest.18.description.1": "By combining &aHardened Blood Shards&r with &9Dark Power Gems&r, you can create Blood Infusion Cores.",
+  "chapter.evil.quest.18.description.2": "&9Blood Infusion Cores&r serve as the primary crafting components for numerous machines within EvilCraft.",
+
+  "chapter.evil.quest.19.subtitle.1": "Repairing with Blood",
+  "chapter.evil.quest.19.description.1": "The &cBlood Chest&r has the capability to repair items using &cBlood&r.",
+  "chapter.evil.quest.19.description.2": "However, items that are repaired might end up becoming &dCursed&r...",
+
+  "chapter.evil.quest.20.subtitle.1": "More Repairing Space",
+  "chapter.evil.quest.20.description.1": "Is the &cBlood Chest&r not operating at a satisfactory pace? Are you grappling with an excessive number of items in need of repair? Crafting a &cColossal Blood Chest&r can address these concerns.",
+  "chapter.evil.quest.20.description.2": "To construct a &cColossal Blood Chest&r, produce 25 &9Reinforced Undead Planks&r. Utilize these planks to form a hollow cube with dimensions of 3x3x3. Subsequently, position a &cColossal Blood Chest&r block to seal off the multiblock structure. If executed accurately, you'll possess a substantial &cBlood Chest&r that is truly colossal in size.",
+  "chapter.evil.quest.20.description.3": "This also provides you the ability to enhance it using &6Promises&r.",
+
+  "chapter.evil.quest.21.subtitle.1": "Infusing",
+  "chapter.evil.quest.21.description.1": "We will no longer be crafting Dark Power Gems using pools of blood.",
+  "chapter.evil.quest.21.description.2": "Instead, we now have the option to craft the &9Blood Infuser&r, which takes care of all the messy work on our behalf. This device enables direct infusion of items with blood!",
+  "chapter.evil.quest.21.description.3": "These machines can also be upgraded using &6Promises&r. The Blood Infuser is a pivotal machine utilized for progression in the mod!",
+
+  "chapter.evil.quest.22.subtitle.1": "Blooded Wood",
+  "chapter.evil.quest.22.description.1": "Through the Blood Infuser, you have the capacity to produce &cUndead Saplings&r, which develop into &dUndead Trees&r.",
+  "chapter.evil.quest.22.description.2": "The logs and planks harvested from &dUndead Trees&r prove valuable for crafting various tools and items within EvilCraft.",
+
+  "chapter.evil.quest.23.subtitle.1": "Blooded Sword",
+  "chapter.evil.quest.23.description.1": "The &dVein Sword&r enables you to collect greater amounts of blood, in addition to boosting drops with the Looting enchantment.",
+
+  "chapter.evil.quest.24.title": "Broom Crafting",
+  "chapter.evil.quest.24.subtitle.1": "Not Made for Dust",
+  "chapter.evil.quest.24.description.1": "&dBrooms&r can be made using Broom Parts. Every Broom is made up of 3 parts: a Rod, a Cap, and a Brush.",
+  "chapter.evil.quest.24.description.2": "Each part can be crafted by combining the basic component with specific items to grant them distinct modifiers. Due to the multitude of modifiers, consult the guidebook for comprehensive information!",
+  "chapter.evil.quest.24.description.3": "To craft your Broom, place each part into the crafting table. Keep in mind that the Broom will necessitate Blood to operate effectively.",
+
+  "chapter.evil.quest.25.subtitle.1": "Spirits in Disguise",
+  "chapter.evil.quest.25.description.1": "It's a pickaxe with Fortune V on it. That's all.",
+  "chapter.evil.quest.25.description.2": "Definitely won't summon spirits when you are mining. &oDefinitely won't.&r",
+
+  "chapter.evil.quest.26.title": "First Promise",
+  "chapter.evil.quest.26.subtitle.1": "Starting to get Upgrades",
+  "chapter.evil.quest.26.description.1": "EvilCraft machines can be enhanced using &6Promises&r. Each Promise bestows distinct effects, but for starters, we should upgrade our Blood Infuser to unlock additional recipes.",
+  "chapter.evil.quest.26.description.2": "To achieve this, fabricate a &6Promise of Tenacity: Tier 1&r. In most cases, this enhances the storage capacity of a machine. However, for the Blood Infuser, it will unlock additional recipes!",
+
+  "chapter.evil.quest.27.subtitle.1": "Increase the Speed of EvilCraft Machines",
+
+  "chapter.evil.quest.28.subtitle.1": "Increases the Efficiency of EvilCraft Machines",
+
+  "chapter.evil.quest.29.subtitle.1": "Bunny Hop",
+  "chapter.evil.quest.29.description.1": "Gives you a speed boost + step height!",
+
+  "chapter.evil.quest.30.subtitle.1": "Useful Cauldron",
+  "chapter.evil.quest.30.description.1": "If you find yourself needing to eliminate &dEnchantments&r from an item or wish to remove a Curse, the &cPurifier&r is the solution.",
+  "chapter.evil.quest.30.description.2": "To accomplish this, initiate by depositing a minimum of 3 buckets' worth of blood into the Purifier. Subsequently, toss in the item you wish to remove an enchantment from.",
+  "chapter.evil.quest.30.description.3": "Following that, introduce the &cBlook&r. The Blook will absorb one of the enchantments from the item and convert it into an enchantment book.",
+
+  "chapter.evil.quest.31.subtitle.1": "Tier 1 Promise",
+
+  "chapter.evil.quest.32.subtitle.1": "Tier 2 Promise",
+
+  "chapter.evil.quest.33.subtitle.1": "Higher Component",
+  "chapter.evil.quest.33.description.1": "Harnessing the energy of a vanquished &9Vengeance Spirit&r, the Blood Infuser can be employed to craft &dGarmonbozia&r.",
+  "chapter.evil.quest.33.description.2": "&dGarmonbozia&r represents the embodiment of &dPain&r and &dSorrow&r. Additionally, it serves as a premium crafting material for crafting potent tools and items within EvilCraft.",
+
+  "chapter.evil.quest.34.subtitle.1": "No More Temple Needed",
+  "chapter.evil.quest.34.description.1": "With &dGarmonbozia&r, we can now fabricate our very own &aEnvironmental Accumulator&r. That's quite a mouthful, I must admit.",
+
+  "chapter.evil.quest.35.subtitle.1": "Cannibalism",
+  "chapter.evil.quest.35.description.1": "This item is a distinctive drop from &aPlayers&r, even when you meet your demise!",
+  "chapter.evil.quest.35.description.2": "You &ocould&r obtain this through repetitive deaths or by engaging in PvP. It's essentially the same approach!",
+
+  "chapter.evil.quest.36.subtitle.1": "Werewolf Hunter",
+  "chapter.evil.quest.36.description.1": "Within villages, you'll encounter &ointeresting&r villagers who, as it turns out, are &dWerewolves&r.",
+  "chapter.evil.quest.36.description.2": "Defeating these creatures will yield &dWerewolf Flesh&r.",
+
+  "chapter.evil.quest.37.subtitle.1": "Master Chef",
+  "chapter.evil.quest.37.description.1": "Using the flesh of &aPlayers&r or &dWerewolves&r, you have the ability to create an &aInfinite Food Source&r through the potency of Garmonbozia!",
+
+  "chapter.evil.quest.38.subtitle.1": "Removes Bad Potion Effects",
+
+  "chapter.evil.quest.39.subtitle.1": "Weapon of Mass Destruction",
+  "chapter.evil.quest.39.description.1": "It functions similarly to the &aMace of Distortion&r, with the distinction that it triggers an area-of-effect explosion instead.",
+
+  "chapter.evil.quest.40.subtitle.1": "Blood Attack",
+  "chapter.evil.quest.40.description.1": "Pressing and holding the right mouse button will charge up the Mace for an area-of-effect attack using &cBlood&r. By performing a sneak-right click, you can adjust the power level. A higher power level inflicts greater damage at the expense of more Blood.",
+
+  "chapter.evil.quest.41.subtitle.1": "Salud !",
+  "chapter.evil.quest.41.description.1": "The &6Entangled Chalice&r is just like an Ender Tank.",
+  "chapter.evil.quest.41.description.2": "Once situated in the world, the &9Blood Pump&r can infuse Blood. When activated within your inventory, it will endeavor to replenish items that rely on &cBlood&r as a resource.",
+  "chapter.evil.quest.41.description.3": "If you wish to produce additional Chalices using the same network, employ the crafting recipe that employs a Chalice instead of a gold ingot.",
+
+  "chapter.evil.quest.42.subtitle.1": "A Reusable Ender Pearl",
+
+  "chapter.evil.quest.43.subtitle.1": "Summons Zombies",
+
+  "chapter.evil.quest.44.subtitle.1": "Applies Potion Effects",
+  "chapter.evil.quest.44.description.1": "To place the desired potion, simply right-click while holding the &2Primed Pendant&r to open its inventory.",
+
+  "chapter.evil.quest.45.subtitle.1": "A One-Time Use Lightning Scepter",
+
+  "chapter.evil.quest.46.subtitle.1": "Magneto",
+  "chapter.evil.quest.46.description.1": "The &9Kineticator&r operates akin to a magnet, attracting items and experience towards you.",
+  "chapter.evil.quest.46.description.2": "On the other hand, the &eReverse Kineticator&r will have the opposite effect, repelling items and experience away from you."
 }
