@@ -2814,5 +2814,621 @@
 
   "chapter.mekanism.quest.156.subtitle.1": "Pioche Mekanism Ultime",
 
-  "chapter.mekanism.quest.157.subtitle.1": "Outil Ultime Mekanism"
+  "chapter.mekanism.quest.157.subtitle.1": "Outil Ultime Mekanism",
+
+  "Hostile Neural Network": "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.hostile.3.title": "Réseau Neuronal Hostile",
+
+  "chapter.hostile.quest.1.subtitle.1": "Création de Prédictions",
+  "chapter.hostile.quest.1.description.1": "La Chambre de Simulation crée des Prédictions en fonction du Modèle de Données inséré. Avec certaines Matrices de Prédiction, vous créerez une Prédiction Généralisée et avez une petite chance d'obtenir des Prédictions Spécifiques.",
+  "chapter.hostile.quest.1.description.2": "Notez que plus le niveau est élevé, plus la chance d'obtenir des Prédictions Spécifiques sera grande.",
+
+  "chapter.hostile.quest.2.subtitle.1": "Butin XL",
+  "chapter.hostile.quest.2.description.1": "Le Fabricateur de Butin crée des butins en fonction de la Prédiction Spécifique insérée. Par exemple : la Prédiction de Vache générera de la Viande de Bœuf et du Cuir.",
+
+  "chapter.hostile.quest.3.subtitle.1": "Capture d'Âmes de Créatures",
+  "chapter.hostile.quest.3.description.1": "Pour construire un Modèle de Données de Créature, vous devrez faire un clic droit dessus.",
+
+  "chapter.hostile.quest.4.subtitle.1": "Ferme d'Apprentissage",
+  "chapter.hostile.quest.4.description.1": "Le Deep Learner vous permet de stocker quelques modèles de données à l'intérieur, et les tueries que vous effectuez commenceront à entraîner le modèle. Tous les modèles commencent dans l'état Défectueux et doivent être formés jusqu'à atteindre l'état de Base dans le deep learner.",
+
+  "chapter.hostile.quest.5.subtitle.1": "Butin de Matrice",
+  "chapter.hostile.quest.5.description.1": "L'exécution de simulations nécessite de l'énergie (en fonction du type de modèle) et un objet catalyseur, qui est généralement une Matrice de Prédiction.",
+
+  "The Undergarden": "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.undergarden.title": "The Undergarden",
+
+  "chapter.undergarden.1.title": "Visiter la dimension : &2The Undergarden&r.",
+  "chapter.undergarden.1.subtitle": "Un jardin secret",
+  "chapter.undergarden.1.description.1": "The Undergarden est un monde souterrain sombre situé profondément sous le lit de roche-mère de l'Overworld. La flore ici s'est adaptée à ses conditions et peut pousser n'importe où, indépendamment de la lumière. D'étranges créatures peuplent ces terres sombres et sont tourmentées par les Rotspawn envahissants, des monstres originaires d'un royaume chaotique et mystérieux.",
+
+  "chapter.undergarden.2.subtitle": "Faites attention, ce n'est pas de l'or",
+  "chapter.undergarden.2.description.1": "Un métal doux et lustré utilisé pour le commerce avec les Stoneborn.",
+
+  "chapter.undergarden.3.title": "Tuer 10 &bGardiens Oubliés&r",
+  "chapter.undergarden.3.subtitle": "Le Gardien Oublié est un mini-boss ennemi",
+  "chapter.undergarden.3.description.1": "Un métal doux et lustré utilisé pour le commerce avec les Stoneborn.",
+  "chapter.undergarden.3.description.2": "&bVous pouvez trouver des bouteilles contenant le Gardien Oublié dans les coffres des catacombes !",
+
+  "chapter.undergarden.4.title": "Tuer 10 &6Bêtes de la Pourriture&r",
+  "chapter.undergarden.4.subtitle": "La Bête de la Pourriture est un ennemi hostile natif de l'Autre Monde",
+  "chapter.undergarden.4.description.1": "La Bête de la Pourriture peut apparaître sur n'importe quel bloc solide avec un niveau de lumière inférieur à 7. Elle a plus de chances d'apparaître dans l'Abîme Stérile.",
+
+  "chapter.undergarden.5.title": "Tuer 10 &6Rejetons de la Pourriture&r",
+  "chapter.undergarden.5.subtitle": "Le Rejeton de la Pourriture est un ennemi hostile natif de l'Autre Monde",
+  "chapter.undergarden.5.description.1": "Le Rejeton de la Pourriture peut apparaître sur n'importe quel bloc solide avec un niveau de lumière inférieur à 7. Il a plus de chances d'apparaître dans l'Abîme Stérile.",
+
+  "chapter.undergarden.6.title": "Tuer 10 &6Marcheurs de la Pourriture&r",
+  "chapter.undergarden.6.subtitle": "Le Marcheur de la Pourriture est un ennemi hostile natif de l'Autre Monde",
+  "chapter.undergarden.6.description.1": "Le Marcheur de la Pourriture peut apparaître sur n'importe quel bloc solide avec un niveau de lumière inférieur à 7. Il a plus de chances d'apparaître dans l'Abîme Stérile.",
+
+  "chapter.undergarden.7.title": "Tuer 10 &6Nargoyles&r",
+  "chapter.undergarden.7.subtitle": "Le Nargoyle est un ennemi hostile natif de l'Autre Monde",
+  "chapter.undergarden.7.description.1": "Le Nargoyle se promènera. Lorsqu'il repère un joueur, il courra vers lui et attaquera en lui sautant dessus.",
+  "chapter.undergarden.7.description.2": "Les Créatures des Cavernes peuvent apparaître sur n'importe quel bloc solide avec un niveau de lumière inférieur à 7 en dessous de Y 32.",
+
+  "chapter.undergarden.8.subtitle": "Un morceau lisse de Depthrock, la munition parfaite pour une fronde",
+
+  "chapter.undergarden.9.subtitle": "Un lit dimensionnel",
+  "chapter.undergarden.9.description.1": "Un lit unique pour l'Undergarden, avec les mêmes fonctions et caractéristiques que le lit original de l'Overworld, il sauvegarde votre point d'apparition dans l'Undergarden. &cL'utiliser dans l'Overworld provoquera une explosion violente !",
+
+  "chapter.undergarden.10.title": "Tuer 10 &6Brutes&r",
+  "chapter.undergarden.10.subtitle": "La Brute est un ennemi hostile natif de l'Autre Monde",
+  "chapter.undergarden.10.description.1": "Les Brutes apparaîtront naturellement en groupes de 4 et se trouvent dans la forêt dense, le champ oublié, la pousse du gronglegrowth, la forêt de smogstem, et la forêt de wigglewood sans aucune exigence de niveau de lumière.",
+
+  "chapter.undergarden.11.subtitle": "Boom !",
+  "chapter.undergarden.11.description.1": "Un explosif de fortune, souvent vendu par des Stoneborn louches.",
+
+  "chapter.undergarden.12.title": "Tuer 10 &6Stoneborns&r",
+  "chapter.undergarden.12.subtitle": "Le Stoneborn est un mob neutre",
+  "chapter.undergarden.12.description.1": "Le Stoneborn se déplace lentement et regardera les autres entités et les joueurs. Si un joueur interagit avec un Stoneborn, un échange sera initié. S'il est attaqué, il deviendra hostile et appellera à l'aide d'autres Stoneborn.",
+  "chapter.undergarden.12.description.2": "&cSi un Stoneborn reste à l'extérieur de l'Undergarden pendant plus de 15 secondes, il explosera, se tuant lui-même et détruisant une petite quantité de terrain.",
+
+  "chapter.undergarden.13.title": "Tuer 10 &6Dévoreurs&r",
+  "chapter.undergarden.13.subtitle": "Le Dévoreur est un ennemi hostile natif de l'Autre Monde",
+  "chapter.undergarden.13.description.1": "Le Dévoreur se promènera. Lorsqu'il détecte un joueur, il courra vers lui et le mordra.",
+  "chapter.undergarden.13.description.2": "S'il y a un bloc que le dévoreur peut briser, le séparant du joueur, il brisera son chemin vers le joueur. Après avoir brisé un bloc, le Dévoreur se soigne de 1 point de santé.",
+
+  "chapter.undergarden.14.title": "&5Découvrir chaque biome de l'Undergarden",
+  "chapter.undergarden.14.subtitle" : "Voyageur de l'Undergarden",
+
+  "chapter.undergarden.15.title": "&aFaire un échange avec un Stoneborn",
+  "chapter.undergarden.15.subtitle" : "Quelle affaire !",
+
+  "chapter.undergarden.16.title": "&aCréer un Serviteur Oublié",
+  "chapter.undergarden.16.subtitle" : "Maître des Marionnettes",
+  "chapter.undergarden.16.description.1": "Créez un Serviteur Oublié en utilisant un Bloc Oublié et une Citrouille Sombre sculptée.",
+
+  "chapter.undergarden.17.title": "Obtenir du Minerai d'Utherium",
+  "chapter.undergarden.17.subtitle": "Un autre minerai rouge.",
+
+  "chapter.undergarden.18.title": "Obtenir du Minerai de Cloggrum",
+  "chapter.undergarden.18.subtitle": "Fer de l'Undergarden",
+
+  "chapter.undergarden.19.title": "Obtenir du Minerai de Frosteel",
+  "chapter.undergarden.19.subtitle": "Fer Froid",
+
+  "chapter.undergarden.20.title": "Obtenir du Minerai de Regalium",
+  "chapter.undergarden.20.subtitle": "Pas de l'or",
+
+  "chapter.undergarden.21.subtitle": "Métal Oublié",
+
+  "chapter.undergarden.22.subtitle": "Compression des Pépites Oubliées",
+
+  "Bigger Reactors": "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.bigger.title": "Bigger Reactors",
+
+  "chapter.bigger.quest.1.subtitle.1": "Attention, c'est radioactif",
+  "chapter.bigger.quest.1.description.1": "Pour commencer avec &l&bBigger Reactor&r, vous aurez besoin d'une quantité significative d'&aUranium&r.",
+  "chapter.bigger.quest.1.description.2": "L'uranium est non seulement un composant fondamental pour la fabrication de Bigger Reactor, mais il sert également de combustible principal pour le réacteur.",
+
+  "chapter.bigger.quest.2.subtitle.1": "Carbonique",
+  "chapter.bigger.quest.2.description.1": "Pour produire &l&8Graphite&r dans Chroma Endless 2, suivez le processus détaillé dans les quêtes de l'étape &n4&r.",
+  "chapter.bigger.quest.2.description.2": "Tout comme l'uranium, le graphite est un composant majeur pour la fabrication de Bigger Reactor et sert également de modérateur de réacteur (réfrigérant de réacteur).",
+
+  "chapter.bigger.quest.3.subtitle.1": "Le cœur du réacteur",
+  "chapter.bigger.quest.3.description.1": "Les &l&bTerminaux de réacteur&r sont utilisés pour contrôler et surveiller le fonctionnement d'un réacteur. Ils sont un composant requis pour tous les réacteurs, quel que soit leur type.",
+  "chapter.bigger.quest.3.description.2": "Les terminaux de réacteur ont trois états, en fonction des circonstances dans lesquelles ils sont placés :",
+  "chapter.bigger.quest.3.description.3": "• Lorsqu'il est seul ou comme partie d'un réacteur désassemblé, l'écran du terminal est vierge (noir).",
+  "chapter.bigger.quest.3.description.4": "• S'il est placé comme partie d'un réacteur hors ligne, l'écran s'allumera avec un curseur clignotant rouge.",
+  "chapter.bigger.quest.3.description.5": "• S'il est placé comme partie d'un réacteur en ligne, l'écran s'allumera en vert avec du texte qui défile.",
+  "chapter.bigger.quest.3.description.6": "Lorsque le terminal est placé comme partie d'un réacteur assemblé, un clic droit dessus ouvrira l'écran d'informations sur le réacteur.",
+  "chapter.bigger.quest.3.description.7": "L'écran fournit des informations sur l'état actuel du réacteur, ainsi que des commandes pour allumer/éteindre le réacteur, ainsi que pour éjecter ou non les déchets.",
+  "chapter.bigger.quest.3.description.8": "L'écran du terminal fournit les informations suivantes :",
+  "chapter.bigger.quest.3.description.9": "• &6Température&r est la mesure de la chaleur actuelle du réacteur.",
+  "chapter.bigger.quest.3.description.10": "• Le taux de génération de RF est la quantité de RF générée par tick. (Réacteurs passifs)",
+  "chapter.bigger.quest.3.description.11": "• Le taux de génération d'échappement est la quantité d'échappement générée par tick. (Réacteurs actifs)",
+  "chapter.bigger.quest.3.description.12": "• Le taux d'utilisation du combustible est la quantité de combustible consommée par tick.",
+  "chapter.bigger.quest.3.description.13": "• &6Réactivité&r est la réactivité du réacteur.",
+
+  "chapter.bigger.quest.4.subtitle.1": "Je peux voir clairement maintenant",
+  "chapter.bigger.quest.4.description.1": "&l&bVerre de réacteur&r fonctionne de manière identique aux gaines, mais ne peut être utilisé que sur les murs. Il vous permet de voir à l'intérieur du réacteur.",
+
+  "chapter.bigger.quest.5.title": "Stockage de combustible et contrôle",
+  "chapter.bigger.quest.5.subtitle.1": "Radioactivité",
+  "chapter.bigger.quest.5.description.1": "Les &l&bBarres de combustible de réacteur&r sont utilisées pour stocker le combustible et les déchets. Elles sont un composant requis pour tous les réacteurs, quel que soit leur type.",
+  "chapter.bigger.quest.5.description.2": "Les &l&bBarres de contrôle&r sont utilisées pour maintenir le contrôle de la réaction.",
+
+  "chapter.bigger.quest.6.title": "Composants de contrôle de réacteur",
+  "chapter.bigger.quest.6.subtitle.1": "Tout est sous contrôle",
+  "chapter.bigger.quest.6.description.1": "Certains composants sont entièrement optionnels et ne sont pas nécessaires pour construire un réacteur fonctionnel. Cependant, ils peuvent permettre l'automatisation et la commande à distance des réacteurs.",
+  "chapter.bigger.quest.6.description.2": "Les &l&bPorts d'ordinateur&r permettent de contrôler diverses fonctions du réacteur via des scripts Lua avec CC: Tweaker.",
+  "chapter.bigger.quest.6.description.3": "Les &l&bPorts Redstone&r permettent de contrôler diverses fonctions du réacteur via des circuits Redstone.",
+
+  "chapter.bigger.quest.7.subtitle.1": "Tri des objets",
+  "chapter.bigger.quest.7.description.1": "Les &l&bPorts d'accès&r sont utilisés pour insérer le combustible et extraire les déchets.",
+
+  "chapter.bigger.quest.8.subtitle.1": "Extraction de puissance",
+  "chapter.bigger.quest.8.description.1": "Les &l&bTaps de puissance&r sont utilisés pour extraire de l'énergie d'un réacteur passif.",
+
+  "chapter.bigger.quest.9.title": "&aMon premier réacteur passif",
+  "chapter.bigger.quest.9.subtitle.1": "Construisez votre premier réacteur",
+  "chapter.bigger.quest.9.description.1": "Nous allons construire le réacteur passif le plus petit possible, le &b3x3x3&r.",
+  "chapter.bigger.quest.9.description.2": "Les exigences de la quête correspondent exactement à ce dont vous avez besoin pour en assembler un.",
+  "chapter.bigger.quest.9.description.3": "Pour assembler cela, commencez par construire un cadre 3x3x3 en utilisant des &l&bGainages de réacteur&r.",
+  "chapter.bigger.quest.9.description.4": "Pour fonctionner, votre réacteur a besoin de :",
+  "chapter.bigger.quest.9.description.5": "• 1 Terminal de réacteur.",
+  "chapter.bigger.quest.9.description.6": "• 1 Barre de combustible de réacteur",
+  "chapter.bigger.quest.9.description.7": "• 1 Barre de contrôle",
+  "chapter.bigger.quest.9.description.8": "• 2 Ports d'accès de réacteur",
+  "chapter.bigger.quest.9.description.9": "• 1 Tonneau de puissance",
+
+  "chapter.bigger.quest.10.title": "Modérateurs de réacteur",
+  "chapter.bigger.quest.10.subtitle.1": "Refroidissement de mon réacteur",
+  "chapter.bigger.quest.10.description.1": "Les &l&bModérateurs de réacteur&r (communément appelés à tort réfrigérants de réacteur) sont des matériaux placés à l'intérieur d'un réacteur lors de sa construction. Lorsqu'un réacteur est en fonctionnement, un modérateur peut modifier la manière dont le réacteur fonctionne en fonction de ses propriétés.",
+  "chapter.bigger.quest.10.description.2": "Les modérateurs ont quatre propriétés principales qui affectent la simulation du réacteur :",
+  "chapter.bigger.quest.10.description.3": "• &aAbsorption :&r La vitesse à laquelle les radiations sont absorbées et converties en chaleur de l'enveloppe du réacteur.",
+  "chapter.bigger.quest.10.description.4": "• &aEfficacité :&r À quel point les radiations absorbées sont efficacement converties en chaleur.",
+  "chapter.bigger.quest.10.description.5": "• &aModération :&r L'efficacité avec laquelle les radiations sont modérées ('adoucies').",
+  "chapter.bigger.quest.10.description.6": "• &aConductivité :&r Comment la chaleur est transférée des barres de combustible à l'enveloppe du réacteur.",
+  "chapter.bigger.quest.10.description.7": "En général, des valeurs plus élevées sont toujours meilleures (à l'exception de l'absorption, qui peut être meilleure ou pire en fonction de la conception de votre réacteur).",
+
+  "chapter.bigger.quest.11.subtitle.1": "Déchets nucléaires",
+  "chapter.bigger.quest.11.description.1": "Le &bCyanite&r est un déchet résultant de la combustion de l'uranium dans le réacteur passif.",
+  "chapter.bigger.quest.11.description.2": "Ce composant est crucial pour progresser dans le mod Bigger Reactor.",
+
+  "chapter.bigger.quest.12.subtitle.1": "Reprocésseur de déchets",
+  "chapter.bigger.quest.12.description.1": "Lorsqu'il est alimenté en énergie et en eau, cette machine peut convertir la cyanite en blutonium, qui peut être réutilisé comme combustible dans un réacteur.",
+
+  "chapter.bigger.quest.13.subtitle.1": "Bobine rose",
+  "chapter.bigger.quest.13.description.1": "Maintenant que vous avez du &1Blutonium&r, vous pouvez fabriquer des blocs de &dLudicrite&r dans la Chambre de dissolution.",
+  "chapter.bigger.quest.13.description.2": "C'est un excellent modérateur pour les réacteurs, il peut être utilisé pour fabriquer le &cContrôleur d'échangeur de chaleur&r.",
+
+  "chapter.bigger.quest.14.subtitle.1": "Un autre lingot bleu",
+  "chapter.bigger.quest.14.description.1": "Le &bBlutonium&r est utilisé dans plusieurs recettes d'artisanat, mais il peut également être utilisé comme combustible dans un réacteur, tout comme l'uranium.",
+
+  "chapter.bigger.quest.15.subtitle.1": "Informations sur la turbine",
+  "chapter.bigger.quest.15.description.1": "Les &bTerminaux de turbine&r sont les panneaux de commande de la turbine. Un multi-bloc de turbine se formera sans terminal, mais vous ne pourrez pas faire grand-chose sans lui.",
+
+  "chapter.bigger.quest.16.subtitle.1": "Production d'énergie",
+  "chapter.bigger.quest.16.description.1": "Les &l&bTaps de puissance&r sont utilisés pour extraire de l'énergie.",
+
+  "chapter.bigger.quest.17.subtitle.1": "Visionneuse de turbine",
+
+  "chapter.bigger.quest.18.subtitle.1": "Interpréteur LUA",
+  "chapter.bigger.quest.18.description.1": "Les &l&bPorts d'ordinateur&r permettent de contrôler diverses fonctions de la turbine via des scripts Lua avec CC: Tweaker.",
+
+  "chapter.bigger.quest.19.title": "Rotor de turbine",
+  "chapter.bigger.quest.19.subtitle.1": "Un gros ventilateur",
+  "chapter.bigger.quest.19.description.1": "Les &l&bPaliers de rotor&r se trouvent à chaque extrémité de l'arbre de la turbine. Exactement 2 sont requis.",
+  "chapter.bigger.quest.19.description.2": "Les &l&bArbres de rotor&r forment l'arbre de votre turbine qui s'étend d'une extrémité à l'autre et se connecte aux paliers de rotor.",
+  "chapter.bigger.quest.19.description.3": "Les &l&bPales de rotor&r font tourner le rotor en convertissant l'énergie thermique de la vapeur en énergie cinétique de rotation de l'arbre. Elles sont placées sur les composants de l'arbre et peuvent avoir plusieurs blocs de longueur.",
+
+  "chapter.bigger.quest.20.subtitle.1": "Entrée/sortie de fluide",
+  "chapter.bigger.quest.20.description.1": "Les &l&bPorts de fluide de turbine&r sont utilisés pour insérer de la vapeur et extraire de l'eau. Ils fournissent une interface utilisateur pour définir l'état d'entrée ou de sortie.",
+
+  "chapter.bigger.quest.21.title": "Réacteur passif à actif",
+  "chapter.bigger.quest.21.subtitle.1": "Production de vapeur",
+  "chapter.bigger.quest.21.description.1": "Dans son état passif, un réacteur convertit directement le combustible en énergie. Cependant, en ajoutant un &bPort de réfrigérant de réacteur&r sur la paroi du réacteur, il passe en mode actif. Cette forme active utilise du combustible pour chauffer des fluides, comme la transformation de l'eau en &dVapeur&r.",
+  "chapter.bigger.quest.21.description.2": "Notez que vous ne pouvez pas avoir à la fois un &cTonneau de puissance&r et un &bPort de réfrigérant&r sur le même réacteur.",
+  "chapter.bigger.quest.21.description.3": "Une fois installée, l'interface du réacteur se transformera, fournissant des informations plus détaillées sur son fonctionnement. L'interface mise à jour affichera un réservoir pour le liquide de refroidissement, un autre pour les gaz d'échappement, et le &bTaux de génération des gaz d'échappement&r.",
+  "chapter.bigger.quest.21.description.4": "Par exemple, si vous introduisez de l'eau, ce taux indiquera la production de vapeur.",
+
+  "chapter.bigger.quest.22.title": "&aMa première turbine",
+  "chapter.bigger.quest.22.subtitle.1": "Beyblade",
+  "chapter.bigger.quest.22.description.1": "Nous allons construire la turbine la plus petite possible, la &b5x4x5&r.",
+  "chapter.bigger.quest.22.description.2": "Les exigences de la quête correspondent exactement à ce dont vous avez besoin pour en assembler une.",
+  "chapter.bigger.quest.22.description.3": "Pour assembler cela, commencez par construire un cadre 5x4x5 en utilisant des &l&bGainages de turbine&r.",
+  "chapter.bigger.quest.22.description.4": "Pour fonctionner, votre turbine a besoin de :",
+  "chapter.bigger.quest.22.description.5": "• 1 Terminal de turbine",
+  "chapter.bigger.quest.22.description.6": "• 56 Gainages de turbine",
+  "chapter.bigger.quest.22.description.7": "• 20 Verres de turbine",
+  "chapter.bigger.quest.22.description.8": "• 2 Paliers de rotor de turbine",
+  "chapter.bigger.quest.22.description.9": "• 2 Arbres de rotor de turbine",
+  "chapter.bigger.quest.22.description.10": "• 4 Pales de rotor de turbine",
+  "chapter.bigger.quest.22.description.11": "• 2 Ports de fluide de turbine",
+  "chapter.bigger.quest.22.description.12": "• 1 Tonneau de puissance de turbine",
+
+  "chapter.bigger.quest.23.title": "Bobines de turbine",
+  "chapter.bigger.quest.23.subtitle.1": "Augmentez l'efficacité de la turbine",
+  "chapter.bigger.quest.23.description.1": "Les &l&bBobines de turbine&r sont des matériaux placés autour d'un arbre de turbine à une extrémité de la turbine lors de la construction.",
+  "chapter.bigger.quest.23.description.2": "Les bobines ont trois propriétés principales qui affectent la simulation de la turbine :",
+  "chapter.bigger.quest.23.description.3": "• &aTaux d'extraction :&r Affecte la RF extraite par tick par RPM.",
+  "chapter.bigger.quest.23.description.4": "• &aEfficacité :&r Affecte la quantité de RF bonus qui est ensuite convertie en RF de sortie.",
+  "chapter.bigger.quest.23.description.5": "• &aBonus :&r Applique un bonus RF final exponentiel sur la valeur RF extraite.",
+  "chapter.bigger.quest.23.description.6": "En général, des valeurs plus élevées sont meilleures.",
+
+  "Applied Energistics": "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.ae.title": "Energistics Appliqués",
+
+  "chapter.ae.quest.1.title": "Certus Quartz",
+  "chapter.ae.quest.1.subtitle.1": "Cristal Énergétique",
+  "chapter.ae.quest.1.description.1": "Applied Energistics 2, souvent abrégé en &oAE2&r, est un mod de &bstockage numérique&f hautement adaptable. Il offre des solutions de stockage efficaces et diverses fonctionnalités d'automatisation, améliorant votre expérience de jeu moddée de Minecraft du début à la fin.",
+  "chapter.ae.quest.1.description.2": "Pour commencer avec AE2, minez la ressource cruciale du mod, le &bCertus Quartz&r. Vous obtiendrez ainsi des cristaux de Certus Quartz, produisant à la fois de la &6Poussière de Certus Quartz&r et des &6Cristaux&r.",
+  "chapter.ae.quest.1.description.3": "&cGardez à l'esprit que la progression AE2 dans Chroma Endless 2 diffère de la progression de base du mod.&r",
+
+  "chapter.ae.quest.2.title": "Clé à Douille en Certus Quartz",
+  "chapter.ae.quest.2.subtitle.1": "Une nouvelle clé à douille",
+  "chapter.ae.quest.2.description.1": "Une clé à douille fabriquée en Cristal de Certus Quartz ou Quartz de l'Enfer. Utile pour faire tourner des blocs et retirer des parties individuelles des câbles.",
+
+  "chapter.ae.quest.3.subtitle.1": "Station de Charge",
+  "chapter.ae.quest.3.description.1": "Lorsqu'elle est alimentée, la &bStation de Charge&r charge les &6Cristaux de Certus Quartz&r, les transformant en &6Cristaux de Certus Chargés&r. Ceux-ci sont essentiels pour produire du &6Fluix&, une ressource vitale dans le mod. De plus, elle peut charger n'importe quel objet de stockage d'énergie.",
+
+  "chapter.ae.quest.4.subtitle.1": "Entrée RF",
+  "chapter.ae.quest.4.description.1": "Bien que l'Inscriber et la Station de Charge prennent en charge nativement le RF/FE, la majeure partie du réseau ME fonctionne avec son propre système d'alimentation distinct appelé AE.",
+  "chapter.ae.quest.4.description.2": "Le RF/FE peut être converti en AE indigène à un taux de 2:1 RF:AE, soit directement via un Contrôleur ME, soit en utilisant le &bConvertisseur d'Énergie&f qui peut être connecté à n'importe quelle partie du réseau.",
+
+  "chapter.ae.quest.5.title": "La Cellule d'Énergie",
+  "chapter.ae.quest.5.subtitle.1": "Stockage d'Énergie AE",
+  "chapter.ae.quest.5.description.1": "Par défaut, un réseau ME dispose d'une mémoire tampon interne de 800 AE. Sans Contrôleur ME, cette capacité est limitée. Cependant, avec un contrôleur, il y a 8k AE supplémentaires par bloc. Pour les réseaux étendus, cela peut ne pas suffire, entraînant des interruptions sporadiques de l'alimentation alors que le réseau tente de maintenir l'alimentation pour les appareils connectés.",
+  "chapter.ae.quest.5.description.2": "La &bCellule d'Énergie&r augmente la capacité d'alimentation d'un réseau ME, ajoutant 200k AE supplémentaires avec chaque Cellule d'Énergie standard. La &bCellule d'Énergie Dense&r ajoute 1,6M AE et la &bCellule d'Énergie Superdense&r contribue avec 12,8M AE. Ces cellules peuvent être placées n'importe où dans le réseau pour renforcer ses réserves d'énergie.",
+
+  "chapter.ae.quest.6.subtitle.1": "Stockage d'Énergie Supplémentaire",
+  "chapter.ae.quest.6.description.1": "La &bCarte d'Énergie&r peut être utilisée avec la plupart des appareils rechargeables, tels que les Cellules Portables et les Terminaux Sans Fil, pour augmenter &oleur&r capacité de stockage d'énergie.",
+
+  "chapter.ae.quest.7.subtitle.1": "Chasseur de Météorites",
+  "chapter.ae.quest.7.description.1": "Il est temps de chercher des &6Météorites&, qui renferment la &bPierre Céleste&r. Elles peuvent être situées soit à la surface, soit sous la terre, avec un &bCoffre&r en leur centre.",
+  "chapter.ae.quest.7.description.2": "Ce coffre renferme divers &6Presses&r utilisées dans l'Inscriber pour créer les éléments artisanaux uniques d'AE2.",
+  "chapter.ae.quest.7.description.3": "La méthode la plus simple pour trouver une météorite est d'utiliser une &6Boussole de Météorite&r artisanale.",
+
+  "chapter.ae.quest.8.title": "Presse de l'Inscriber",
+  "chapter.ae.quest.8.subtitle.1": "Butin des Météorites",
+
+  "chapter.ae.quest.9.title": "Processeurs",
+  "chapter.ae.quest.9.subtitle.1": "Création par Pressage",
+  "chapter.ae.quest.9.description.1": "L'&bInscriber&r transforme non seulement divers cristaux de quartz AE2 en forme de poussière, mais il est principalement utilisé pour fabriquer des &6Circuits Imprimés&r et des &6Processeurs&r uniques.",
+
+  "chapter.ae.quest.10.subtitle.1": "Consultation et Fabrication",
+  "chapter.ae.quest.10.description.1": "Les &6Terminaux&r offrent un accès aux contenus du réseau ME. Le &6Terminal ME de Base&r affiche tous les objets du réseau dans une grille complète, fonctionnant comme un inventaire unifié.",
+  "chapter.ae.quest.10.description.2": "Le &6Terminal de Fabrication ME&r s'appuie sur le Terminal ME en ajoutant une grille de fabrication. Cela facilite la fabrication en utilisant n'importe quel objet du réseau affiché sur l'écran du terminal."
+
+  "chapter.ae.quest.11.subtitle.1": "Gestion de votre réseau",
+"chapter.ae.quest.11.description.1": "L'outil de réseau &bNetwork Tool&r dans AE2 est essentiel, affichant des détails cruciaux sur le réseau, tels que l'utilisation de l'énergie et le stockage directement à l'écran.",
+"chapter.ae.quest.11.description.2": "De plus, l'outil de réseau &bNetwork Tool&r offre un inventaire compact pour contenir des &6cartes d'amélioration&r. Cet inventaire peut être consulté tout en examinant l'écran de n'importe quel dispositif améliorable, facilitant ainsi les remplacements. Contrairement à une clé à molette standard, elle ne peut pas faire tourner les blocs du réseau ME, seulement les démonter lorsque vous êtes accroupi.",
+
+"chapter.ae.quest.12.title": "Auto-Crafting",
+"chapter.ae.quest.12.subtitle.1": "Maître de l'Artisanat",
+"chapter.ae.quest.12.description.1": "Le mécanisme d'artisanat automatisé d'AE2 commence avec le &bFournisseur de Modèle ME&r. Ce dispositif sert de réserve pour des objets spécifiques appelés &bModèles&r (détaillés dans la quête suivante). Ces modèles sont conçus pour englober des recettes qui transforment des objets d'entrée en objets de sortie spécifiés. Un seul fournisseur peut accueillir jusqu'à 9 modèles simultanément.",
+"chapter.ae.quest.12.description.2": "Vous vous retrouverez souvent à utiliser plusieurs fournisseurs de modèles répartis dans votre base. Pour faciliter l'accès aux contenus de tous les fournisseurs dans votre vaste réseau ME, le &bTerminal d'Accès aux Modèles&r s'avère inestimable. Ce terminal permet un accès distant aux modèles stockés dans différents fournisseurs.",
+
+"chapter.ae.quest.13.title": "Stockage de l'Artisanat",
+"chapter.ae.quest.13.subtitle.1": "Unité d'Artisanat",
+"chapter.ae.quest.13.description.1": "Avant d'exécuter une opération d'artisanat automatique, vous devez disposer d'un dispositif dédié pour stocker la demande d'artisanat ainsi que les objets intermédiaires nécessaires aux créations en plusieurs étapes. Ce dispositif spécialisé est appelé &6Unité d'Artisanat&r.",
+"chapter.ae.quest.13.description.2": "Une unité d'artisanat est une structure composite formée en assemblant plusieurs blocs en une unité cohérente. Au minimum, elle nécessite un bloc de &bStockage d'Artisanat&r, et elle peut également incorporer des Unités d'Artisanat supplémentaires. La configuration de ce multibloc peut varier en taille, mais elle doit être façonnée comme un cuboïde solide pour être installée et opérationnelle.",
+
+"chapter.ae.quest.14.title": "Unité de Co-traitement de l'Artisanat",
+"chapter.ae.quest.14.subtitle.1": "Accélérer le Processus",
+"chapter.ae.quest.14.description.1": "L'&bUnité de Co-traitement de l'Artisanat&r améliore considérablement la vitesse des tâches d'artisanat en permettant aux fournisseurs de modèles d'accélérer le transfert des objets vers leurs dispositifs associés ou de collaborer simultanément à la création de plusieurs composants nécessaires.",
+"chapter.ae.quest.14.description.2": "L'unité de co-traitement fondamentale d'AE2 fournit un seul 'fil' de co-traitement pour soutenir ces opérations. En revanche, l'unité de co-traitement dérivée des &dCellules MÉGA&r offre un remarquable total de 4 fils dans un seul bloc, renforçant ainsi l'efficacité des processus d'artisanat.",
+
+"chapter.ae.quest.15.title": "Moniteur de l'Artisanat",
+"chapter.ae.quest.15.subtitle.1": "Visualisation des Recettes",
+"chapter.ae.quest.15.description.1": "Le &bMoniteur de l'Artisanat&r sert d'interface d'affichage pour suivre le processus d'artisanat en cours. Il affiche à la fois l'objet principal en cours de fabrication et la quantité restante de cet objet à produire.",
+"chapter.ae.quest.15.description.2": "Le moniteur standard AE2 et le moniteur MÉGA partagent une fonctionnalité identique, principalement à des fins esthétiques. Ils offrent les mêmes capacités tout en différenciant par leur apparence, permettant aux utilisateurs de choisir le design qui correspond le mieux à leurs préférences.",
+
+"chapter.ae.quest.16.title": "Modèles",
+"chapter.ae.quest.16.subtitle.1": "Configuration de l'Artisanat",
+"chapter.ae.quest.16.description.1": "Les &bModèles&r servent de répertoires pour des recettes encodées pouvant être exécutées par un Fournisseur de Modèle. Pour encoder une recette sur un modèle, le processus consiste à utiliser le &bTerminal d'Encodage de Modèle ME&r.",
+"chapter.ae.quest.16.description.2": "Les modèles offrent la flexibilité de contenir soit une recette de &6fabrication&r conventionnelle, soit une recette de '&6traitement&r' plus large. Les recettes de fabrication nécessitent l'utilisation d'un &6Assembleur Moléculaire&r positionné sur l'interface du Fournisseur. En revanche, les recettes de traitement impliquent l'envoi d'objets d'entrée du fournisseur vers des machines externes ou des unités de traitement dédiées.",
+
+"chapter.ae.quest.17.subtitle.1": "Table d'Artisanat Automatique",
+"chapter.ae.quest.17.description.1": "Le &bAssembleur Moléculaire&r sert de pendant d'AE2 à une table d'artisanat automatique, essentiel pour exécuter toutes les tâches de modèle de &6fabrication&r.",
+"chapter.ae.quest.17.description.2": "Les Assembleurs Moléculaires ont la capacité de transmettre à la fois l'énergie et les canaux vers d'autres dispositifs ME qui leur sont liés, sans consommer de canal eux-mêmes. Dans les cas où un Fournisseur de Modèle est utilisé, jusqu'à 6 Assembleurs Moléculaires peuvent lui être reliés, permettant l'exécution de plusieurs tâches de fabrication simultanément.",
+"chapter.ae.quest.17.description.3": "Chaque Assembleur Moléculaire (MA) dispose d'un emplacement exclusif désigné pour un seul modèle de fabrication. Cette caractéristique permet aux AM de fonctionner de manière autonome lorsqu'ils sont alimentés. Dans ce mode, tout objet inséré dans l'AM qui correspond au modèle de fabrication sera automatiquement transformé en produit résultant du modèle.",
+
+"chapter.ae.quest.18.subtitle.1": "Aller Plus Vite",
+"chapter.ae.quest.18.description.1": "La &bCarte d'Accélération&r sert à deux fins, en fonction du dispositif avec lequel elle est intégrée. Selon le dispositif spécifique, la carte peut soit augmenter la vitesse opérationnelle du dispositif, soit lui permettre d'exécuter un plus grand nombre d'opérations en une seule instance.",
+"chapter.ae.quest.18.description.2": "Lorsqu'elle est appliquée à l'&6Assembleur Moléculaire&r, un ensemble complet de 5 &bCartes d'Accélération&r réduit considérablement la durée nécessaire à l'AM pour achever une opération de fabrication. Cette réduction fait passer le temps de fabrication d'une seconde (sans aucune carte) à une seule &otentative&r, une amélioration remarquable de l'efficacité.",
+
+"chapter.ae.quest.19.subtitle.1": "Détection du Stockage",
+"chapter.ae.quest.19.description.1": "Le &bÉmetteur de Niveau ME&r fonctionne en fonction de la configuration d'un objet désigné et de sa quantité correspondante. En fonction de la présence et de la quantité de l'objet dans le réseau, l'émetteur émet un signal de redstone, en fonction de la quantité stockée qui est inférieure à, supérieure à, ou correspond à le seuil spécifié.",
+"chapter.ae.quest.19.description.2": "Cette fonctionnalité peut être exploitée, par exemple, pour activer automatiquement des machines spécifiques à l'aide de signaux de redstone pour la production automatique de ressources lorsque leurs quantités tombent en dessous d'un seuil minimum prédéfini.",
+
+"chapter.ae.quest.20.subtitle.1": "Redstone Appliqué",
+"chapter.ae.quest.20.description.1": "Les dispositifs ME individuels peuvent également être adaptés pour réagir aux signaux de redstone. En intégrant une &bCarte de Redstone&r, un dispositif peut être programmé pour effectuer des tâches uniquement lorsqu'il est alimenté par un signal de redstone ou en fonction de critères spécifiques.",
+"chapter.ae.quest.20.description.2": "Ce comportement peut s'étendre à des &osections&r entières d'un réseau ME grâce à l'utilisation d'un &bBus de Basculement ME&r. Cette solution innovante permet à un segment de réseau désigné connecté via le bus de s'activer uniquement lorsque le bus reçoit un signal de redstone. En utilisant un bus de basculement &6inversé&, le segment de réseau désigné peut être désactivé.",
+
+"chapter.ae.quest.21.subtitle.1": "Meilleure Automatisation de l'Artisanat",
+"chapter.ae.quest.21.description.1": "Lorsqu'il est intégré en tant qu'amélioration à n'importe quel dispositif compatible, tel qu'une Interface ou un Bus d'Export, la &bCarte d'Artisanat&r facilite l'automatisation des demandes d'artisanat pour un objet spécifié (filtré). Cela permet au dispositif respectif d'initier indépendamment des procédures d'artisanat. Les unités d'artisanat peuvent être adaptées pour répondre exclusivement à ces demandes automatisées, garantissant ainsi qu'elles n'occupent pas les unités d'artisanat destinées aux demandes des joueurs.",
+"chapter.ae.quest.21.description.2": "Lorsque le &6Émetteur de Niveau&r est doté de la Carte d'Artisanat, il acquiert la capacité d'émettre des signaux de redstone qui contribuent directement aux processus d'artisanat. Cela peut se manifester de deux manières : émettre un signal &otant&r qu'une tâche d'artisanat pour l'objet spécifié est détectée ou émettre un signal &oà&r pour initier l'artisanat de l'objet lui-même. Le dernier scénario est particulièrement pertinent dans les situations où un signal de redstone est tout ce qui est nécessaire pour produire un objet spécifique, contournant ainsi le besoin d'un modèle de fabrication classique.",
+
+"chapter.ae.quest.22.subtitle.1": "Entrée, Sortie ? Les Deux !",
+"chapter.ae.quest.22.description.1": "Pour simplifier les tâches, AE2 propose une gamme complète de dispositifs conçus pour la manipulation des données ME, facilitant ainsi le déplacement des objets stockés dans le monde.",
+"chapter.ae.quest.22.description.2": "L'&bInterface ME&r fait partie de ces dispositifs. En tant que mécanisme d'entrée, l'Interface confère la capacité de faire circuler divers objets, fluides, et plus encore, à travers elle. Ces ressources entrantes sont ensuite intégrées automatiquement dans le réseau ME connecté, simplifiant ainsi le processus de stockage.",
+"chapter.ae.quest.22.description.3": "Lorsqu'elle est utilisée en tant que dispositif de sortie, l'Interface peut être configurée pour maintenir une quantité désignée d'un objet stocké en stock, assurant ainsi qu'un certain stock est conservé dans son inventaire interne à partir du réseau ME. Cette configuration facilite le transfert ultérieur des objets vers une destination externe, telle qu'un autre joueur ou un système de tuyauterie.",
+
+"chapter.ae.quest.23.subtitle.1": "Stockage Externe",
+"chapter.ae.quest.23.description.1": "Le &bBus de Stockage ME&r, lorsqu'il est positionné face à un conteneur de stockage externe, confère au conteneur la capacité d'être intégré de manière transparente dans le réseau ME. Cette intégration permet l'extraction d'objets du conteneur ou l'insertion d'objets dans celui-ci exclusivement par le biais des interfaces ME.",
+"chapter.ae.quest.23.description.2": "Les bus de stockage peuvent être configurés avec des filtres et des priorités distincts. Cette configuration permet aux objets spécifiques d'être d'abord placés dans le stockage lié. Cependant, il est important de noter que le bus de stockage ne déplace pas rétroactivement les objets filtrés depuis d'autres emplacements à l'intérieur du réseau vers le stockage attaché.",
+
+"chapter.ae.quest.24.subtitle.1": "Amélioration de la Capacité",
+"chapter.ae.quest.24.description.1": "La &bCarte de Capacité&r permet d'augmenter la capacité de filtre d'un bus dans lequel elle est installée. Lorsque les bus d'importation et d'exportation sont améliorés avec des cartes de capacité, ils passent d'un filtre unique à leur pleine capacité de neuf emplacements de filtre. De même, les bus de stockage subissent une transformation, passant de 18 emplacements à la prise en charge de jusqu'à 63 emplacements avec l'aide d'une carte de capacité.",
+
+"chapter.ae.quest.25.title": "Cartes Utiles",
+"chapter.ae.quest.25.subtitle.1": "Filtrage",
+"chapter.ae.quest.25.description.1": "La &bCarte Floue&r introduit la possibilité de faire correspondre un objet filtré indépendamment des métadonnées (NBT), ce qui englobe des attributs tels que les dégâts ou les enchantements. En revanche, la &bCarte d'Inversion&r sert à basculer le filtre sur les bus compatibles, le faisant passer d'une configuration de liste blanche à une configuration de liste noire.",
+
+"chapter.ae.quest.26.subtitle.1": "Du Stockage à l'Appliqué",
+"chapter.ae.quest.26.description.1": "Le &bBus d'Importation ME&r fonctionne en extrayant régulièrement des objets du stockage externe vers lequel il est dirigé. Il peut également être configuré avec un filtrage facultatif pour récupérer exclusivement des objets spécifiques de l'inventaire désigné.",
+
+"chapter.ae.quest.27.subtitle.1": "Appliqué Destructeur",
+"chapter.ae.quest.27.description.1": "Le &bPlan de Dissociation ME&r possède la capacité de démanteler automatiquement les blocs situés devant lui. De plus, les objets abandonnés suite à la destruction des blocs sont rapidement acheminés vers le réseau ME pour le stockage.",
+"chapter.ae.quest.27.description.2": "Un avantage supplémentaire du Plan de Dissociation est sa susceptibilité aux enchantements, similaire aux outils de creusement classiques. Ces enchantements influencent les chutes de blocs de manière cohérente avec le fonctionnement de l'outil enchanté correspondant. Par conséquent, lorsqu'il est enchanté avec Fortune, par exemple, le Plan de Dissociation devient particulièrement doué pour traiter les blocs de minerai.",
+"chapter.ae.quest.27.description.3": "L'incorporation d'enchantements augmente considérablement la consommation d'énergie du Plan de Dissociation à chaque bloc qu'il casse. Lorsqu'il est augmenté avec l'enchantement &6Efficacité&, la consommation d'énergie totale est réduite pour tous les autres enchantements. En revanche, l'enchantement &6Inusable&r confère au plan la capacité de consommer de l'énergie de manière intermittente, similaire au fonctionnement de l'enchantement Inusable sur les outils classiques.",
+
+"chapter.ae.quest.28.subtitle.1": "Appliqué au Stockage",
+"chapter.ae.quest.28.description.1": "Le &bBus d'Exportation ME&r fonctionne en éjectant périodiquement les objets figurant dans son filtre de liste blanche vers une destination de stockage externe vers laquelle le bus est orienté. Contrairement au Bus d'Importation, le Bus d'Exportation dépend de la présence d'un filtre et ne peut pas fonctionner sans.",
+
+"chapter.ae.quest.29.subtitle.1": "Appliqué Poseur",
+"chapter.ae.quest.29.description.1": "Le &bPlan de Formation ME&r fonctionne de manière similaire au Bus de Stockage, mais il traite le monde environnant comme son support de stockage. En termes pratiques, cela signifie que le plan est capable de placer n'importe quel bloc de son filtre directement devant lui dans le monde du jeu.",
+"chapter.ae.quest.29.description.2": "Cette capacité peut être avantageuse dans des scénarios où un bloc peut être traité facilement en le posant et en le cassant ensuite avec un outil spécifique.",
+
+"chapter.ae.quest.30.subtitle.1": "Premier Câble",
+"chapter.ae.quest.30.description.1": "Un concept essentiel dans AE2 est la pratique de la '&6sous-réseautage&r,' qui implique la création d'un réseau ME supplémentaire et distinct appelé '&6sous-réseau&r.' Ce sous-réseau collabore avec le réseau principal pour effectuer des fonctions ou des processus spécialisés.",
+"chapter.ae.quest.30.description.2": "Ce qui distingue un sous-réseau d'un réseau complètement séparé et indépendant est souvent l'utilisation de la &bFibre de Quartz&r en tant que composant de câble. Lorsqu'elle est positionnée entre deux segments de câble qui resteraient autrement déconnectés, la Fibre de Quartz facilite la transmission exclusive de l'énergie, sans transférer de données ou de canaux entre les deux segments.",
+"chapter.ae.quest.30.description.3": "Par conséquent, un sous-réseau situé à l'extrémité opposée de la Fibre peut être entièrement alimenté par la source d'énergie du réseau principal, éliminant ainsi le besoin d'une génération de puissance dédiée supplémentaire.",
+
+"chapter.ae.quest.31.subtitle.1": "Tunnélisation",
+"chapter.ae.quest.31.description.1": "Le système &bP2P&r (pair à pair) sert de mécanisme puissant au sein d'AE2, permettant le transfert transparent d'objets, de fluides et de diverses autres entités sans nécessiter l'intervention d'unités de stockage ME intermédiaires.",
+"chapter.ae.quest.31.description.2": "La clé du système P2P est la &6Clé de Tunnélisation&r. Cette clé peut être liée à n'importe quel aspect du réseau ME, tel qu'un canal, un stockage, ou même un périphérique spécifique, en utilisant l'&bÉmetteur de Clé&r. La clé est ensuite configurée pour se connecter à un point de destination, à l'aide d'un &bRécepteur de Clé&r, qui peut être placé n'importe où dans le réseau AE2 global.",
+"chapter.ae.quest.31.description.3": "Lorsqu'une clé est configurée et insérée dans un Émetteur de Clé, tout objet, fluide ou entité compatible avec cette clé sera transporté instantanément vers le Récepteur de Clé associé, en sautant les canaux intermédiaires. Les paires de clés P2P permettent ainsi le transport rapide et efficace d'objets à travers de longues distances sans affecter la performance du réseau principal.",
+
+"chapter.ae.quest.32.subtitle.1": "Moniteur de Flux",
+"chapter.ae.quest.32.description.1": "Le &bMoniteur de Flux&r est un outil d'analyse en temps réel de la structure et de la performance d'un réseau AE2. Il fournit des informations précieuses sur la quantité d'énergie stockée dans le réseau, les canaux actifs et inactifs, et l'état de tous les dispositifs ME connectés.",
+"chapter.ae.quest.32.description.2": "En utilisant le Moniteur de Flux, vous pouvez identifier rapidement les goulets d'étranglement dans votre réseau, les surcharges de canal et les problèmes potentiels qui pourraient affecter les performances globales de votre système. Cet outil est essentiel pour la maintenance et l'optimisation continues de votre réseau AE2.",
+
+"chapter.ae.quest.33.subtitle.1": "Composants Essentiels",
+"chapter.ae.quest.33.description.1": "L'&bAccumulateur de Flux&r sert de stockage d'énergie dédié pour votre réseau ME. Lorsqu'il est alimenté, il emmagasine de l'énergie pour une utilisation ultérieure, permettant au réseau de gérer les pointes de demande d'énergie sans perdre d'énergie excédentaire.",
+"chapter.ae.quest.33.description.2": "Le &bCondensateur de Flux&r fonctionne en tant que convertisseur d'énergie, convertissant l'énergie stockée dans le réseau en &bÉnergie RF&r, la forme d'énergie utilisée par de nombreux mods. Cela vous permet d'alimenter des dispositifs RF directement à partir de votre réseau AE2, éliminant ainsi le besoin de générateurs RF séparés.",
+"chapter.ae.quest.33.description.3": "L'&6Ajusteur de Puissance&r est un dispositif essentiel pour la gestion de l'énergie dans votre réseau. Il vous permet de régler la quantité d'énergie que chaque dispositif connecté peut consommer, vous donnant un contrôle fin sur la distribution de l'énergie dans votre base.",
+
+"chapter.ae.quest.34.title": "Stockage de Données ME",
+"chapter.ae.quest.34.subtitle.1": "Stockage de Données",
+"chapter.ae.quest.34.description.1": "Les &bDisques de Stockage ME&r servent de moyen principal de stockage de données dans un réseau AE2. Ils sont disponibles en plusieurs capacités, allant des plus petites unités de &6Stockage de Données de 1k&r aux disques massifs de &dStockage de Données MÉGA de 64k&r.",
+"chapter.ae.quest.34.description.2": "Chaque disque de stockage peut stocker des objets sous forme de données numériques et les rendre accessibles à tout moment par le réseau. Les disques de stockage ME sont le cœur de votre système de stockage, et vous devrez les gérer avec soin pour éviter de manquer d'espace de stockage.",
+
+"chapter.ae.quest.35.subtitle.1": "Stockage de Données Avancé",
+"chapter.ae.quest.35.description.1": "L'&bInterface de Stockage ME&r est un dispositif qui vous permet de stocker des données sous forme d'objets physiques dans le monde. Vous pouvez interagir avec ces objets comme avec n'importe quel autre objet du jeu, mais leur contenu est également accessible via le réseau ME.",
+"chapter.ae.quest.35.description.2": "Cette fonctionnalité permet de stocker des objets en dehors du réseau ME principal, ce qui peut être particulièrement utile pour des objets volumineux ou des objets que vous souhaitez garder à portée de main.",
+
+"chapter.ae.quest.36.title": "Automatisation Avancée",
+"chapter.ae.quest.36.subtitle.1": "Automatisation des Minerais",
+"chapter.ae.quest.36.description.1": "L'automatisation des minerais dans AE2 peut être réalisée grâce à l'utilisation de la &bMétiers de Formation&r. Ces dispositifs sont conçus pour extraire automatiquement les minerais et les transporter vers un système de stockage ME pour un traitement ultérieur.",
+"chapter.ae.quest.36.description.2": "Lorsqu'elle est configurée avec une &6Carte d'Accès&r et placée sur le monde, la Métiers de Formation peut extraire des minerais de la zone environnante et les stocker dans le réseau ME connecté. Elle peut également être équipée de &bExtensions de Formation&r pour augmenter sa portée et sa capacité d'extractions.",
+
+"chapter.ae.quest.37.title": "Stockage Automatique",
+"chapter.ae.quest.37.subtitle.1": "Accès et Configuration",
+"chapter.ae.quest.37.description.1": "Pour faciliter l'accès aux objets stockés dans le réseau ME, l'&bTerminal d'Accès ME&r est essentiel. Ce terminal vous permet de rechercher rapidement des objets, de voir combien vous en avez en stock, et de les retirer ou de les stocker avec facilité.",
+"chapter.ae.quest.37.description.2": "Vous pouvez également configurer le Terminal d'Accès pour afficher uniquement des objets spécifiques, ce qui le rend encore plus efficace pour trouver ce dont vous avez besoin.",
+
+"chapter.ae.quest.38.subtitle.1": "Gestion des Canaux",
+"chapter.ae.quest.38.description.1": "La gestion des canaux est un aspect crucial de la construction et de l'optimisation d'un réseau ME. Les canaux sont utilisés pour acheminer la puissance et les données entre les dispositifs ME. Cependant, chaque segment de câble ou dispositif a une limite de canaux.",
+"chapter.ae.quest.38.description.2": "Vous pouvez utiliser des &6Câbles ME&r pour transporter à la fois l'énergie et les canaux de données, mais vous devez être conscient des limites de canaux pour éviter la surcharge. Utiliser des canaux intelligemment et planifier votre réseau de manière efficace est essentiel pour un système AE2 performant.",
+
+"chapter.ae.quest.39.subtitle.1": "Stockage Automatique",
+"chapter.ae.quest.39.description.1": "Lorsque vous configurez un réseau AE2 pour le stockage automatique, il vous permettra de stocker automatiquement les objets que vous collectez dans le réseau. Les objets seront automatiquement acheminés vers les dispositifs de stockage ME appropriés.",
+"chapter.ae.quest.39.description.2": "Pour mettre en place cette fonctionnalité, vous devrez utiliser des &bCanaux de Stockage ME&r pour connecter des dispositifs tels que des &6Blocs de Stockage ME&r, des &6Caches de Stockage ME&r et des &6Disques de Stockage ME&r. Vous pouvez également configurer des filtres pour spécifier quels objets doivent être stockés dans chaque dispositif.",
+
+"chapter.ae.quest.40.subtitle.1": "Surveiller l'Énergie",
+"chapter.ae.quest.40.description.1": "Surveiller et gérer l'énergie de votre réseau est crucial pour éviter les problèmes de performances et les pannes. Vous pouvez utiliser un &bMoniteur de Flux&r pour visualiser la quantité d'énergie stockée dans le réseau et les canaux actifs.",
+"chapter.ae.quest.40.description.2": "Si votre réseau fonctionne à pleine puissance et que vous avez besoin de plus d'énergie, envisagez d'ajouter un &bAccumulateur de Flux&r pour stocker de l'énergie excédentaire que vous pouvez utiliser lorsque la demande est élevée. Utilisez également des &bCondensateurs de Flux&r pour convertir l'énergie stockée dans le réseau en énergie RF que vous pouvez utiliser avec d'autres mods.",
+
+"chapter.ae.quest.41.title": "Résolution de Problèmes",
+"chapter.ae.quest.41.subtitle.1": "Optimisation",
+"chapter.ae.quest.41.description.1": "Si vous rencontrez des problèmes de performance, des défaillances du réseau ou des conflits de canaux, il est essentiel de comprendre comment résoudre ces problèmes. Identifiez les goulets d'étranglement, optimisez votre réseau en utilisant des canaux avec parcimonie, et assurez-vous que chaque dispositif est correctement configuré et alimenté en énergie.",
+"chapter.ae.quest.41.description.2": "Si votre réseau AE2 cesse de fonctionner correctement, effectuez des tests de diagnostic pour identifier la source du problème. Vérifiez que tous les câbles sont connectés, que les dispositifs sont alimentés en énergie, et que les canaux sont configurés correctement. Les moniteurs de flux et les systèmes d'alerte peuvent vous aider à surveiller votre réseau en temps réel et à détecter les problèmes plus rapidement.",
+
+"chapter.ae.quest.42.subtitle.1": "Tutoriels et Ressources",
+"chapter.ae.quest.42.description.1": "Apprendre à maîtriser AE2 peut être un défi, mais il existe de nombreuses ressources et tutoriels disponibles pour vous aider. Recherchez des guides en ligne, des vidéos et des forums de communauté pour obtenir des conseils, des astuces et des réponses à vos questions.",
+"chapter.ae.quest.42.description.2": "De plus, n'hésitez pas à expérimenter et à tester différentes configurations dans un monde créatif pour mieux comprendre le fonctionnement d'AE2. La pratique est souvent le meilleur moyen d'apprendre.",
+
+"chapter.ae.quest.43.subtitle.1": "Conclusion",
+"chapter.ae.quest.43.description.1": "Applied Energistics 2 est l'un des mods les plus puissants et les plus complexes disponibles pour Minecraft. Il offre des possibilités infinies en matière d'automatisation, de stockage et de gestion de l'énergie. En comprenant les concepts fondamentaux de ce mod, vous serez en mesure de créer des systèmes de haute technologie incroyablement efficaces pour améliorer votre expérience de jeu.",
+
+"chapter.ae.guide.1.title": "Introduction à Applied Energistics 2",
+"chapter.ae.guide.1.subtitle.1": "Qu'est-ce qu'Applied Energistics 2 ?",
+"chapter.ae.guide.1.description.1": "Applied Energistics 2 (AE2) est un mod populaire pour Minecraft qui offre des fonctionnalités avancées de gestion de l'énergie, de stockage d'objets et d'automatisation. Il permet aux joueurs de créer des systèmes complexes de gestion de l'énergie et de stockage de données, facilitant ainsi la collecte, le traitement et l'accès aux ressources du jeu.",
+"chapter.ae.guide.1.subtitle.2": "Pourquoi Utiliser AE2 ?",
+"chapter.ae.guide.1.description.2": "AE2 est utilisé pour simplifier et améliorer divers aspects du jeu, notamment la collecte et le stockage d'objets, la gestion de l'énergie, l'automatisation des processus de fabrication, et bien plus encore. Les joueurs qui cherchent à rationaliser leurs opérations, à créer des bases hautement automatisées et à optimiser leur expérience de jeu trouveront AE2 extrêmement utile.",
+
+"chapter.ae.guide.2.title": "Les Bases d'AE2",
+"chapter.ae.guide.2.subtitle.1": "Canaux et Câbles ME",
+"chapter.ae.guide.2.description.1": "L'un des concepts fondamentaux d'AE2 est l'utilisation de canaux pour transporter de l'énergie et des données entre les dispositifs ME (Matter Energy) dans votre réseau. Les canaux sont représentés par des câbles ME, et chaque segment de câble a une limite de canaux. Il est essentiel de comprendre comment les canaux fonctionnent pour créer un réseau ME efficace.",
+"chapter.ae.guide.2.subtitle.2": "Réseau ME Autonome",
+"chapter.ae.guide.2.description.2": "AE2 vous permet de créer un réseau ME autonome qui peut stocker des objets, gérer l'énergie, et automatiser des tâches sans nécessiter d'intervention constante de la part du joueur. Ce réseau peut être
+
+"chapter.ae.quest.41.title": "Armes Appliquées",
+"chapter.ae.quest.41.subtitle.1" : "Faites attention, c'est dangereux",
+"chapter.ae.quest.41.description.1": "Le &bBâton Chargé&r est un bâton alimenté simple qui inflige 3 cœurs de dégâts et consomme 300 AE (unités d'énergie Applied Energistics) par coup. De plus, il suit les mécaniques de combat antérieures à la version 1.9, vous permettant de vous livrer à des clics rapides en série, rappelant les mécaniques de combat plus anciennes.",
+"chapter.ae.quest.41.description.2": "Le &bManipulateur d'Entropie&r possède la capacité de déclencher certains effets lorsqu'il est utilisé sur des blocs spécifiques dans l'environnement. Il peut effectuer la fusion sur place de ces blocs, transformant des substances telles que le sable en verre et les minerais métalliques en lingots métalliques. Alternativement, s'il est utilisé sur un bloc qui ne supporte pas la fusion, le manipulateur se contente de mettre le feu au bloc ciblé.",
+"chapter.ae.quest.41.description.3": "Enfin, le &bCanon à Matière&r fonctionne de manière similaire à l'Applicateur de Couleur, servant de cellule spécialisée conçue pour contenir des objets « munitions » tels que des Boules de Matière et des pépites de fer/d'or. Ces projectiles stockés peuvent ensuite être lancés pour infliger des dégâts aux créatures ou pour détruire des blocs. Les « munitions » plus lourdes, telles que les pépites de métal, infligent des dégâts plus importants et sont capables de briser des blocs plus solides.",
+"chapter.ae.quest.41.description.4": "Dans un Canon à Matière, les Boules de Matière peuvent être remplacées par des &bBalles de Peinture&r, créant ainsi un effet d'éclaboussure de peinture à la surface du bloc ciblé lorsqu'elles sont tirées. De plus, il existe une variante spéciale appelée &bBalles Lumineuses&r, exclusive au Canon à Matière, qui non seulement crée des éclaboussures de peinture, mais émet également de la lumière lorsqu'elle est introduite dans le monde.",
+
+"chapter.ae.quest.42.title": "Stockage des Cellules ME",
+"chapter.ae.quest.42.subtitle.1": "Coffre ou Disque ?",
+"chapter.ae.quest.42.description.1": "Peut-être la caractéristique la plus cruciale d'Applied Energistics 2 est son système de stockage numérique, centré autour des &6Cellules de Stockage&r. Vous pouvez accéder à ces cellules en utilisant un &6Coffre ME&r pour les cellules individuelles ou un &6Disque ME&r pour gérer plusieurs cellules.",
+"chapter.ae.quest.42.description.2": "Le &bCoffre ME&r peut accueillir une seule cellule, accessible et modifiable depuis n'importe quel terminal du même réseau. De plus, le Coffre ME possède un écran de terminal sur le dessus, offrant un accès exclusif à la cellule à l'intérieur.",
+"chapter.ae.quest.42.description.3": "Le &bDisque ME&r peut contenir jusqu'à 10 Cellules de Stockage différentes dans un seul bloc et un canal ME. Contrairement au Coffre ME, il ne possède pas d'écran de terminal intégré, ce qui nécessite un terminal externe sur le réseau pour accéder au stockage.",
+
+"chapter.ae.quest.43.subtitle.1": "Réorganisateur de Stockage",
+"chapter.ae.quest.43.description.1": "Le &bPort d'Entrée/Sortie ME&r facilite la réorganisation rapide du stockage d'un réseau ME, transférant des données entre des supports de stockage tels que les cellules ME et des conteneurs externes liés à des bus de stockage.",
+"chapter.ae.quest.43.description.2": "Lorsqu'une cellule est placée dans la fente d'entrée gauche, le Port d'Entrée/Sortie peut changer de mode : il peut soit vider la cellule dans d'autres supports ME, soit remplir une cellule (de préférence partitionnée) avec des objets spécifiques provenant d'autres supports.",
+
+"chapter.ae.quest.44.subtitle.1": "Établi de Cellule",
+"chapter.ae.quest.44.description.1": "L'&bÉtabli de Cellule&r permet de « partitionner » les cellules pour un stockage d'objets dédié, établissant essentiellement un filtre de liste blanche. De plus, l'établi prend en charge des cartes d'amélioration spécifiques, comme la Carte d'Inversion, qui transforme la liste blanche en une liste noire.",
+"chapter.ae.quest.44.description.2": "À travers l'établi, les cellules peuvent être attribuées à des « priorités » différentes. Les cellules de priorité plus élevée se remplissent en premier, tandis que celles de priorité plus faible attendent que les cellules plus priorisées soient remplies.",
+
+"chapter.ae.quest.45.subtitle.1": "Égalisateur",
+"chapter.ae.quest.45.description.1": "La &bCarte de Distribution Égale&r est une amélioration des cellules de stockage, garantissant qu'un certain type d'objet occupe une quantité prédéterminée d'espace.",
+"chapter.ae.quest.45.description.2": "Cette fonctionnalité est similaire à un tiroir de stockage fonctionnel, où chaque compartiment conserve un nombre fixe de piles, empêchant les objets d'un compartiment de déborder dans un autre et de déplacer différents objets.",
+
+"chapter.ae.quest.46.subtitle.1": "C'est Trop !",
+"chapter.ae.quest.46.description.1": "La &bCarte de Destruction par Débordement&r est une amélioration de cellule. Lorsque la cellule est pleine, elle supprime tous les objets entrants d'un type déjà stocké en elle.",
+
+"chapter.ae.quest.47.subtitle.1": "Premier Composant de Stockage",
+"chapter.ae.quest.47.description.1": "La capacité de chaque cellule est déterminée par le &6composant&r utilisé dans sa fabrication.",
+"chapter.ae.quest.47.description.2": "Le composant initial, le &bComposant de Stockage ME 1k&r, offre &61024&r octets de stockage pour une cellule spécifiée. Nous en parlerons plus en détail plus tard.",
+"chapter.ae.quest.47.description.3": "Fabriquez le Composant 1k, que vous combinerez avec un boîtier dans la quête à venir.",
+
+"chapter.ae.quest.48.subtitle.1": "3 pour 4",
+"chapter.ae.quest.48.description.1": "Le prochain niveau de composants de stockage offre &64096&r octets de stockage.",
+
+"chapter.ae.quest.49.subtitle.1": "16 fois mieux",
+"chapter.ae.quest.49.description.1": "Le composant de stockage de troisième niveau offre &616384&r octets de capacité.",
+
+"chapter.ae.quest.50.subtitle.1": "16x16 = 64",
+"chapter.ae.quest.50.description.1": "Le composant de stockage de quatrième niveau offre &665536&r octets de capacité.",
+
+"chapter.ae.quest.51.subtitle.1": "Stockage Haut de Gamme AE2",
+"chapter.ae.quest.51.description.1": "Le cinquième et dernier composant de stockage de niveau standard d'AE2 offre &6262144&r octets de capacité.",
+
+"chapter.ae.quest.52.subtitle.1": "Cellules MÉGA",
+"chapter.ae.quest.52.description.1": "À un certain stade d'une partie complète d'un modpack, même la cellule de stockage de niveau supérieur standard pourrait ne pas suffire pour accueillir le volume important d'objets et de ressources que vous collectez.",
+"chapter.ae.quest.52.description.2": "Entrez dans l'add-on &dMEGA Cells&f, qui élève les niveaux de stockage dans le domaine des mégaoctets. Le premier niveau de cette série est le &bComposant de Stockage MÉGA 1M&r, offrant 1024 &okilo&r-octets, équivalents à &61048576&r octets, de capacité.",
+
+"chapter.ae.quest.53.subtitle.1": "4 Mégaoctets",
+"chapter.ae.quest.53.description.1": "Le niveau de stockage MÉGA suivant est le composant offrant &64194304&r octets, équivalents à 4096 koctets, de capacité.",
+
+"chapter.ae.quest.54.subtitle.1": "16 Mégaoctets",
+"chapter.ae.quest.54.description.1": "Le troisième niveau de stockage MÉGA offre un composant d'une capacité de &616777216&r octets, ce qui équivaut à 16384 koctets.",
+
+"chapter.ae.quest.55.subtitle.1": "64 Mégaoctets",
+"chapter.ae.quest.55.description.1": "Le quatrième niveau de stockage MÉGA offre un composant d'une capacité de &667108864&r octets, équivalent à 65536 koctets.",
+
+"chapter.ae.quest.56.subtitle.1": "256 Mégaoctets",
+"chapter.ae.quest.56.description.1": "Le summum du stockage MÉGA est le cinquième composant, avec une capacité de &6268435456&r octets, ce qui équivaut à 262144 koctets.",
+
+"chapter.ae.quest.57.title": "Stockage d'Objets ME",
+"chapter.ae.quest.57.subtitle.1": "Stockage d'Objets",
+"chapter.ae.quest.57.description.1": "Chaque &bCellule de Stockage d'Objets ME&r a la capacité d'accueillir jusqu'à 63 types d'objets distincts. Lors de l'ajout d'un nouveau type d'objet à une cellule, il occupera une partie spécifique de la capacité totale de la cellule, mesurée en octets. Pour chaque type déjà contenu dans la cellule, l'allocation équivaut à 1 « octet », ce qui permet de stocker 8 objets du même type.",
+"chapter.ae.quest.57.description.2": "À titre d'exemple, considérons une &bCellule de Stockage d'Objets 1k&r contenant exclusivement de la pierre. Dans ce cas, la cellule peut accueillir un maximum de 8128 unités de pierre, calculées comme suit : (8*1024 octets - 8 octets/type * 1 type)",
+
+"chapter.ae.quest.58.subtitle.1": "Un Objet à Stockage Infini",
+"chapter.ae.quest.58.description.1": "Dans le cadre de l'add-on &dMEGA Cells&, le &bCellule de Stockage d'Objets en Vrac&r est introduite. Cette cellule se distingue par sa capacité unique à stocker un seul type d'objet, bien que dans une quantité pratiquement &o&linfinie&r*. Cependant, pour qu'un type d'objet soit accepté, il doit subir un processus de préfiltrage à l'aide d'un Établi de Cellule.",
+"chapter.ae.quest.58.description.2": "*Veuillez noter que le concept d'« infini » est soumis aux limitations du système et des mécaniques de jeu.",
+
+"chapter.ae.quest.59.title": "Stockage de Liquides ME",
+"chapter.ae.quest.59.subtitle.1": "Stockage de Liquides",
+"chapter.ae.quest.59.description.1": "En effet, les objets ne sont pas les seules entités adaptées au stockage dans les cellules ME. Les &bCellules de Stockage de Liquides ME&r sont capables de contenir des liquides tels que de l'eau, de la lave et une multitude d'huiles et de carburants moddés, parmi d'autres possibilités.",
+"chapter.ae.quest.59.description.2": "Il est à noter que toutes les cellules de stockage, quelle que soit leur destination, ne divergent que par leur conception de boîtier. Les cellules d'objets et de liquides utilisent le même type de composant de stockage lors de leur création.",
+"chapter.ae.quest.59.description.3": "Dans le contexte des liquides, 1 octet équivaut à 8 seaux, soit 8000 millibuckets (mb).",
+
+"chapter.ae.quest.60.title": "Stockage de Produits Chimiques ME",
+"chapter.ae.quest.60.subtitle.1": "Stockage de Gaz",
+"chapter.ae.quest.60.description.1": "Dans les versions 1.18 d'Applied Energistics 2, une nouvelle fonctionnalité est introduite : l'intégration directe des produits chimiques de Mekanism, facilitée par l'add-on d'intégration officiel appelé &dApplied Mekanistics&r. Ces cellules ont la capacité de contenir une large gamme de produits chimiques de Mekanism, y compris des gaz, des pigments et des boues de minerai, entre autres substances. Il est important de noter, cependant, que ces cellules ne sont &o&lpas&r compatibles avec les matériaux radioactifs tels que les déchets nucléaires.",
+"chapter.ae.quest.60.description.2": "De plus, les &dMEGA Cells&r s'intègrent parfaitement à Applied Mekanistics, offrant des niveaux avancés de cellules chimiques. Ces cellules avancées maintiennent la même interdiction concernant les substances radioactives, reflétant les contraintes des cellules standard.",
+
+"chapter.ae.quest.61.subtitle.1": "Stockage Radioactif",
+"chapter.ae.quest.61.description.1": "Les &dMEGA Cells&r disposent d'une liste noire pour les produits chimiques radioactifs, suivant le même principe que la configuration standard &dApplied Mekanistics&r. Cependant, elles offrent une solution de stockage relativement compacte qui s'avère utile pour les personnes intéressées par les travaux de retraitement des déchets.",
+"chapter.ae.quest.61.description.2": "La &bCellule de Stockage de Produits Chimiques Radioactifs MÉGA&r se présente sous la forme d'une cellule spécialisée, fabriquée selon une méthodologie similaire à celle de la Cellule de Stockage d'Objets en Vrac. Cependant, elle représente une option considérablement plus avancée et coûteuse. Cette cellule offre une capacité limitée à 256 octets pour un type de produit chimique unique, ce qui équivaut à environ 2048 seaux ou l'équivalent de 4 barils de déchets de substances telles que le polonium, le plutonium ou les déchets nucléaires.",
+"chapter.ae.quest.61.description.3": "Il est important de souligner que les Cellules de Stockage de Produits Chimiques Radioactifs MÉGA ne sont pas capables de stocker les déchets nucléaires usagés. Il s'agit d'une limitation à prendre en compte dans ce contexte.",
+
+"chapter.ae.quest.62.subtitle.1": "Sécurité d'Accès",
+"chapter.ae.quest.62.description.1": "Les réseaux ME offrent également des capacités sans fil robustes, englobant non seulement un accès à distance pratique aux contenus du stockage ME en déplacement, mais aussi l'établissement de connexions réseau étendues sur de longues distances et même entre différentes dimensions.",
+"chapter.ae.quest.62.description.2": "En général, la procédure initiale pour atteindre le premier objectif implique la création d'un &bTerminal de Sécurité ME&r. Fidèle à son nom, le Terminal de Sécurité renforce la sécurité du réseau en permettant la précision des autorisations d'accès au réseau, empêchant ainsi les utilisateurs non autorisés d'y accéder. Pour accorder l'accès, les utilisateurs désignés peuvent se voir attribuer des autorisations à l'aide d'une &bCarte Biométrique&r, qui est liée à l'utilisateur correspondant par le biais d'une action de clic droit. Alternativement, une carte vierge peut être utilisée pour établir des autorisations universelles pour les personnes qui ne sont ni propriétaires du réseau ni déjà autorisées par le biais d'une carte en liste blanche.",
+"chapter.ae.quest.62.description.3": "Par défaut, la personne qui déploie le terminal est désignée comme le « propriétaire » du réseau, ayant automatiquement le contrôle complet sur le réseau sans avoir besoin d'utiliser une carte biométrique.",
+
+"chapter.ae.quest.63.title": "Accès sans Fil",
+"chapter.ae.quest.63.subtitle.1": "Attention à la Portée",
+"chapter.ae.quest.63.description.1": "Le composant suivant nécessaire pour permettre l'accès au réseau sans fil est le &bPoint d'Accès sans Fil ME&r. Ce Point d'Accès sert de passerelle pour l'accès au réseau sans fil à l'aide d'un &6terminal sans fil&r. Sa portée opérationnelle est déterminée par le nombre de &bAmplificateurs sans Fil&r intégrés dans le point d'accès, établissant une zone de couverture limitée.",
+
+"chapter.ae.quest.64.subtitle.1": "Ce qui compte vraiment",
+"chapter.ae.quest.64.description.1": "En ce qui concerne l'expansion sans fil du réseau ME lui-même, la première étape est, il est sûr de dire, l'add-on &dSpatial Pylons&f, qui permet d'ajouter un autre niveau de réseau ME dans une dimension séparée. Pour résumer, le réseau ME de l'endroit d'origine et le réseau ME de la dimension distincte sont considérés comme deux réseaux ME différents, bien que connectés. Cela permet de maintenir la sécurité entre les réseaux et d'éviter tout accès non autorisé à l'endroit d'origine à partir de la dimension distincte.",
+"chapter.ae.quest.64.description.2": "Cependant, pour faciliter la transition des objets entre les deux réseaux, un dispositif de stockage appelé &bTéléporteur ME&r peut être utilisé. Les téléporteurs ME agissent comme un portail entre les deux réseaux, permettant le transfert bidirectionnel d'objets, d'énergie et de données. Pour fonctionner, les téléporteurs ME doivent être correctement configurés pour chaque réseau et pour chaque direction de transfert.",
+
+"chapter.ae.quest.65.title": "Stockage de Charge ME",
+"chapter.ae.quest.65.subtitle.1": "Stockage de Charge",
+"chapter.ae.quest.65.description.1": "Dans la version 1.18 d'Applied Energistics 2, une nouvelle mécanique de charge est ajoutée, qui nécessite un stockage de charge. La charge est une ressource nécessaire pour alimenter les périphériques ME et les machines associées. Les générateurs de charge produisent de la charge à partir de différentes sources d'énergie, qui est ensuite stockée dans des &6Cellules de Stockage de Charge&r pour être utilisée plus tard. Cette charge peut être transférée entre les cellules et les périphériques ME pour maintenir l'alimentation électrique du réseau.",
+"chapter.ae.quest.65.description.2": "Les générateurs de charge peuvent être alimentés par des sources d'énergie telles que les générateurs solaires ou les générateurs à combustion, entre autres. Une fois que la charge est générée, elle est stockée dans des cellules de stockage de charge et peut être utilisée pour alimenter des périphériques ME tels que des écrans ou des manipulateurs d'entropie.",
+"chapter.ae.quest.65.description.3": "Les cellules de stockage de charge sont équipées de ports d'entrée et de sortie pour transférer la charge entre les générateurs de charge, les périphériques ME et d'autres cellules de stockage de charge.",
+
+"chapter.ae.quest.66.title": "Accès à Distance ME",
+"chapter.ae.quest.66.subtitle.1": "Accès à Distance",
+"chapter.ae.quest.66.description.1": "Pour accéder à votre réseau ME à distance, vous aurez besoin du &bTerminal sans Fil ME&r. Cet appareil portable vous permet de consulter et de gérer les stocks ME où que vous soyez, à condition de disposer d'une connexion sans fil suffisante à un &6Point d'Accès sans Fil ME&r. Le terminal sans fil vous donne accès à l'inventaire de votre réseau ME, vous permettant de rechercher des objets, de les extraire et de les stocker, le tout à distance.",
+"chapter.ae.quest.66.description.2": "Le terminal sans fil ME est alimenté par de la charge, qui peut être stockée dans des &bCellules de Stockage de Charge&r. Il doit être équipé de sa propre cellule de stockage de charge pour fonctionner. Assurez-vous donc d'en avoir une à portée de main si vous prévoyez d'utiliser le terminal sans fil ME en déplacement.",
+
+"chapter.ae.quest.67.title": "Transport ME",
+"chapter.ae.quest.67.subtitle.1": "Transport de Données ME",
+"chapter.ae.quest.67.description.1": "Le &6Câble ME&R est le composant de base du transport de données ME. Il est utilisé pour connecter les différents composants du réseau ME, y compris les périphériques ME, les cellules de stockage, les points d'accès sans fil et bien d'autres. Les câbles ME sont essentiels pour permettre le transfert de données, d'énergie et de charge à travers le réseau ME.",
+"chapter.ae.quest.67.description.2": "Il existe plusieurs types de câbles ME, chacun ayant des capacités différentes en termes de canaux de données, d'énergie et de charge qu'ils peuvent transporter. Veillez à utiliser le type de câble ME approprié en fonction de vos besoins et de la quantité de données que vous prévoyez de faire passer à travers le câble.",
+
+"chapter.ae.quest.68.subtitle.1": "Interconnexion de Réseaux",
+"chapter.ae.quest.68.description.1": "Pour connecter plusieurs réseaux ME, vous aurez besoin de &bCâbles de Tunnel ME&r. Ces câbles spéciaux permettent de relier deux réseaux ME distincts, créant ainsi une interconnexion entre eux. Cela permet de transférer des objets, de l'énergie et des données entre les réseaux connectés, ce qui peut être utile pour centraliser la gestion de plusieurs bases ou installations ME.",
+"chapter.ae.quest.68.description.2": "Lorsque vous placez un câble de tunnel ME entre deux réseaux ME, assurez-vous de configurer correctement les canaux pour indiquer ce que vous souhaitez transférer entre les réseaux. Vous pouvez spécifier quels canaux de données, d'énergie et de charge seront interconnectés, ce qui vous donne un contrôle précis sur les transferts entre les réseaux.",
+
+"chapter.ae.quest.69.subtitle.1": "Sécurité de Réseau",
+"chapter.ae.quest.69.description.1": "La sécurité est une préoccupation majeure dans tout réseau ME, et vous pouvez la renforcer en utilisant des &bCâbles de Sécurité ME&r. Ces câbles spéciaux permettent de créer des zones de sécurité dans votre réseau, ce qui limite l'accès à certains composants ou canaux. Par exemple, vous pouvez utiliser des câbles de sécurité pour empêcher l'accès non autorisé à vos cellules de stockage ou à d'autres éléments sensibles de votre réseau.",
+"chapter.ae.quest.69.description.2": "Pour configurer des zones de sécurité, il vous suffit de placer des câbles de sécurité autour des composants que vous souhaitez protéger. Vous pouvez ensuite définir les autorisations d'accès pour ces zones en utilisant des &bCartes de Sécurité ME&r. Ces cartes permettent de spécifier quels joueurs ou groupes de joueurs sont autorisés à accéder aux zones sécurisées.",
+
+"chapter.ae.quest.70.title": "Automatisation ME",
+"chapter.ae.quest.70.subtitle.1": "Automatisation ME",
+"chapter.ae.quest.70.description.1": "L'automatisation est l'un des aspects les plus puissants du réseau ME. Elle vous permet de créer des systèmes automatisés pour gérer et traiter les objets dans votre réseau. Cela peut inclure le stockage automatique des objets, l'extraction automatique des ressources des machines et bien plus encore.",
+"chapter.ae.quest.70.description.2": "Le &6Manipulateur d'Entropie ME&r est un composant clé de l'automatisation ME. Il peut extraire automatiquement des objets d'une source, les traiter ou les stocker dans des cellules de stockage ME, puis les réinjecter dans le réseau lorsque vous en avez besoin. Il est équipé de modules d'accélération et de diverses options pour personnaliser son comportement en fonction de vos besoins.",
+
+"chapter.ae.quest.71.title": "Exploitation Avancée ME",
+"chapter.ae.quest.71.subtitle.1": "Stockage Automatisé",
+"chapter.ae.quest.71.description.1": "Pour automatiser davantage votre réseau ME, vous pouvez utiliser le &bStockeur ME&r. Ce dispositif permet de stocker automatiquement les objets provenant de vos machines et de les réintégrer dans le réseau. Vous pouvez le connecter à une &6Table d'Exportation ME&r pour diriger les objets depuis les machines directement vers le stockeur ME.",
+
+"chapter.ae.quest.72.subtitle.1": "Stockage de Flux de Liquide",
+"chapter.ae.quest.72.description.1": "Si vous travaillez avec des liquides dans votre base, le &bStockeur de Flux de Liquide ME&r peut vous aider à automatiser le stockage et le transfert de liquides. Il peut extraire des liquides des réservoirs et des machines, les stocker dans des cellules de stockage de liquides ME, puis les réinjecter dans le réseau lorsque nécessaire.",
+
+"chapter.ae.quest.73.subtitle.1": "Stockage de Flux de Gaz",
+"chapter.ae.quest.73.description.1": "Lorsque vous avez affaire à des gaz et à des produits chimiques dans votre base, le &bStockeur de Flux de Gaz ME&r est un outil essentiel. Il fonctionne de manière similaire au stockeur de flux de liquide, mais il est conçu pour gérer les gaz et les produits chimiques. Vous pouvez ainsi automatiser le stockage et le transfert de ces substances de manière efficace et pratique.",
+
+"chapter.ae.quest.74.subtitle.1": "Stockage d'Énergie",
+"chapter.ae.quest.74.description.1": "Pour automatiser la gestion de l'énergie dans votre réseau ME, le &bStockeur d'Énergie ME&r est un composant précieux. Il peut extraire automatiquement de l'énergie de générateurs ou de dispositifs de stockage d'énergie, la stocker dans des cellules de stockage de charge ME, puis la réinjecter dans le réseau pour alimenter les périphériques ME. Cela permet d'optimiser l'utilisation de l'énergie et de la distribuer là où elle est nécessaire.",
+
+"chapter.ae.quest.75.title": "Maintenance ME",
+"chapter.ae.quest.75.subtitle.1": "Maintenance",
+"chapter.ae.quest.75.description.1": "Même avec un réseau ME bien conçu et automatisé, la maintenance est un aspect essentiel de son fonctionnement continu. Les composants ME peuvent nécessiter des réparations ou des mises à niveau, et il peut être nécessaire de surveiller les niveaux de stockage, l'énergie et la charge pour éviter les pannes.",
+"chapter.ae.quest.75.description.2": "Pour faciliter la maintenance, l'add-on &dStatus Monitor&f propose un dispositif appelé &bSurveillant d'État ME&r. Ce dispositif vous permet de surveiller en temps réel les niveaux de stockage, d'énergie et de charge de votre réseau ME. Vous pouvez également configurer des alertes pour être averti en cas de problèmes potentiels, comme un stockage sur le point d'être saturé ou des niveaux d'énergie critiques.",
+"chapter.ae.quest.75.description.3": "En utilisant le surveillant d'état ME, vous pouvez prendre des mesures proactives pour maintenir votre réseau en bon état de fonctionnement et éviter les problèmes majeurs qui pourraient entraîner des perturbations dans vos opérations automatisées.",
+
+"chapter.ae.quest.76.title": "Dépannage ME",
+"chapter.ae.quest.76.subtitle.1": "Dépannage",
+"chapter.ae.quest.76.description.1": "Même avec une configuration ME soigneusement planifiée et automatisée, il peut arriver que des problèmes se posent. L'identification et la résolution de ces problèmes sont essentielles pour maintenir la stabilité de votre réseau ME.",
+"chapter.ae.quest.76.description.2": "Pour vous aider à résoudre les problèmes, voici quelques étapes de dépannage courantes pour les systèmes ME :",
+"chapter.ae.quest.76.description.3": "1. Vérifiez les niveaux de stockage : Assurez-vous que vos cellules de stockage ne sont pas sur le point d'être saturées. Si c'est le cas, envisagez d'ajouter davantage de stockage ou de désactiver l'exportation automatique d'objets.",
+"chapter.ae.quest.76.description.4": "2. Vérifiez l'énergie : Assurez-vous que vos générateurs fournissent suffisamment d'énergie pour alimenter votre réseau ME et vos périphériques. Si nécessaire, ajoutez davantage de générateurs ou augmentez l'efficacité de votre réseau.",
+"chapter.ae.quest.76.description.5": "3. Vérifiez la charge : Assurez-vous que vos cellules de stockage de charge sont suffisamment chargées pour alimenter vos périphériques ME. Si nécessaire, augmentez la capacité de stockage de charge ou ajoutez plus de générateurs de charge.",
+"chapter.ae.quest.76.description.6": "4. Vérifiez les canaux : Assurez-vous que vos câbles ME sont correctement configurés pour le transfert de données, d'énergie et de charge. Évitez les conflits de canaux qui pourraient bloquer le flux de données ou d'énergie.",
+"chapter.ae.quest.76.description.7": "5. Recherchez des erreurs : Utilisez les outils de diagnostic ME, tels que le surveillant d'état ME, pour rechercher des erreurs ou des pannes dans votre réseau. Examinez les journaux système ME pour obtenir des informations sur les problèmes.",
+"chapter.ae.quest.76.description.8": "6. Contactez la communauté : Si vous rencontrez des problèmes que vous ne parvenez pas à résoudre, n'hésitez pas à consulter la communauté Minecraft ou les forums dédiés à Applied Energistics 2. D'autres joueurs expérimentés peuvent vous aider à résoudre vos problèmes.",
+
+"chapter.ae.quest.77.title": "Conclusion",
+"chapter.ae.quest.77.subtitle.1": "Conclusion",
+"chapter.ae.quest.77.description.1": "Applied Energistics 2 est un mod passionnant qui ajoute une dimension de stockage et d'automatisation avancée à Minecraft. Avec ses composants et ses mécanismes, vous pouvez créer des réseaux ME puissants pour gérer vos ressources, automatiser la production et faciliter vos aventures dans le monde de Minecraft.",
+"chapter.ae.quest.77.description.2": "En explorant les différentes quêtes et en suivant les étapes de ce guide, vous avez maintenant les connaissances nécessaires pour concevoir, construire et optimiser un réseau ME qui répond à vos besoins. N'hésitez pas à expérimenter et à personnaliser votre réseau pour qu'il reflète votre style de jeu unique.",
+"chapter.ae.quest.77.description.3": "Nous espérons que ce guide vous a aidé à découvrir les merveilles de l'applied énergistics et à tirer le meilleur parti de ce mod incroyable. Que vos aventures dans le monde de Minecraft soient remplies de succès et d'automatisation efficace grâce à votre réseau ME !",
+
+"chapter.ae.quest.78.subtitle.1": "Structure de Stockage Partie 2",
+"chapter.ae.quest.78.description.1": "La Structure de Containment Spatiale (SCS) est composée d'une cage formée par des &bPylônes Spatiaux&r, enveloppant le volume souhaité destiné à la confinement à l'intérieur d'une cellule d'E/S spatiale. Dans sa configuration la plus basique, une SCS nécessite trois rangées de blocs de pylônes spatiaux, correspondant chacune à une dimension de l'espace clos (longueur, largeur, hauteur).",
+"chapter.ae.quest.78.description.2": "Cependant, l'E/S spatiale constitue une capacité gourmande en énergie, notamment lorsqu'il s'agit d'encapsuler des étendues plus importantes (jusqu'à 128x128x128). L'incorporation de pylônes spatiaux supplémentaires dans la SCS enveloppant le volume ciblé améliorera son &6efficacité&r globale, lui permettant de capturer avec une consommation d'énergie réduite.",
+"chapter.ae.quest.78.description.3": "De plus, il est important de se rappeler que chaque pylône individuel, quelle que soit sa dimension, consomme un canal. Dans les scénarios impliquant des espaces particulièrement vastes, il pourrait être judicieux de mettre en place un réseau dédié équipé d'un contrôleur pour accueillir tous les pylônes nécessaires.",
+
+"chapter.ae.quest.79.title" : "Processeurs d'Inscription",
+"chapter.ae.quest.79.subtitle.1": "Création du Traitement",
+
+"chapter.ae.quest.80.subtitle.1": "Structure de Stockage Partie 2",
+"chapter.ae.quest.80.description.1": "Les &bCellules de Stockage Spatiales&r sont conçues pour abriter un volume prédéfini spécifique et sont disponibles en trois capacités distinctes, permettant de stocker jusqu'à 2x2x2, 16x16x16 et 128x128x128 blocs d'espace, respectivement.",
+"chapter.ae.quest.80.description.2": "Lors de l'encodage, une cellule de stockage se voit attribuer un segment désigné dans la &6dimension&r de stockage spatiale, accompagné d'un ID distinct lié à la région allouée pour cette cellule. Même après l'encodage, la cellule de stockage reste fonctionnelle dans le port d'E/S spatiale, facilitant la récupération des blocs et des entités stockés.",
+"chapter.ae.quest.80.description.3": "Par la suite, tous les blocs situés soit dans la zone spatiale désignée de la cellule, soit dans une SCS de dimensions équivalentes à celle utilisée lors de l'encodage initial, peuvent être replacés dans le monde normal ou dans la dimension spatiale, respectivement. Dans les cas où des blocs existent à la fois dans la région spatiale et dans la SCS, ils échangeront de manière transparente de place au besoin.",
+
+"chapter.ae.quest.81.subtitle.1": "Chargeur de Chunks AE2",
+"chapter.ae.quest.81.description.1": "L'&bAncre Spatiale&r sert de dispositif complémentaire issu de la famille Spatial IO, remplissant un rôle simple en tant que chargeur de chunks. Lorsqu'il est intégré à un réseau ME, l'Ancre assurera le chargement continu de tous les chunks habités par le réseau ME à travers tous les câbles et dispositifs, à l'exception des sous-réseaux. Ce chargement persistant reste en vigueur tant que le réseau dispose d'une alimentation électrique."
+
 }

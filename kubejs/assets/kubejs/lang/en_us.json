@@ -2917,7 +2917,6 @@
 
   "chapter.undergarden.22.subtitle": "Compacting Forgotten Nuggets",
 
-
 "Bigger Reactors":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.bigger.title": "Bigger Reactors",
@@ -3236,7 +3235,7 @@
   "chapter.ae.quest.41.subtitle.1" : "Careful it's dangerous",
   "chapter.ae.quest.41.description.1": "The &bCharged Staff&r is a straightforward powered staff that inflicts 3 hearts of damage and consumes 300 AE (Applied Energistics energy units) per strike. Additionally, it adheres to pre-1.9 combat mechanics, allowing you to engage in rapid click spamming, reminiscent of earlier combat mechanics.",
   "chapter.ae.quest.41.description.2": "The &bEntropy Manipulator&r possesses the ability to trigger certain effects when utilized on specific blocks within the environment. It can conduct in-place smelting of these blocks, transforming substances like sand into glass and metal ores into metal ingots. Alternatively, if used on a block that doesn't support smelting, the manipulator will merely ignite a fire on the targeted block.",
-  "chapter.ae.quest.41.description.3": "Lastly, the &bMatter Cannon&r operates in a manner akin to the Color Applicator, serving as a specialized cell designed to contain "ammo" items like Matter Balls and iron/gold nuggets. These stored projectiles can subsequently be launched to inflict damage upon mobs or to break blocks. The weightier "ammo," such as metal nuggets, delivers greater damage and is capable of breaking sturdier blocks.",
+  "chapter.ae.quest.41.description.3": "Lastly, the &bMatter Cannon&r operates in a manner akin to the Color Applicator, serving as a specialized cell designed to contain 'ammo' items like Matter Balls and iron/gold nuggets. These stored projectiles can subsequently be launched to inflict damage upon mobs or to break blocks. The weightier "ammo," such as metal nuggets, delivers greater damage and is capable of breaking sturdier blocks.",
   "chapter.ae.quest.41.description.4": "In a Matter Cannon, Matter Balls can be replaced with &bPaint Balls&r, imparting a paint splatter effect on the surface of the targeted block upon firing. Furthermore, there's a specialized variation known as &bLumen Paint Balls&r, exclusive to the Matter Cannon, which not only creates paint splatters but also emits light once they are introduced into the world.",
 
   "chapter.ae.quest.42.title": "ME Cell Storages",
