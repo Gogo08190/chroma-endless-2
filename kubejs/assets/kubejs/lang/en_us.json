@@ -3881,108 +3881,76 @@
   "chapter.mana.quest.47.subtitle.1": "Burning Stuff Again",
   "chapter.mana.quest.47.description.1": "To get that, you must burn some Arcane Coumpound in your Runeforge",
 
-  "chapter.mana.quest.48.subtitle.1": "",
-  "chapter.mana.quest.48.description.1": "",
+  "chapter.mana.quest.48.subtitle.1": "Spell Creation",
+  "chapter.mana.quest.48.description.1": "The inscription table will be used to make spells.",
+  "chapter.mana.quest.48.description.2": "You'll need, Velum, Arcane Ash and Arcanist's Ink. Let's craft that last one.",
 
-  "chapter.mana.quest.49.subtitle.1": "",
-  "chapter.mana.quest.49.description.1": "",
+  "chapter.mana.quest.49.subtitle.1": "Writing Spells",
 
-  "chapter.mana.quest.50.subtitle.1": "",
-  "chapter.mana.quest.50.description.1": "",
+  "chapter.mana.quest.50.subtitle.1": "Rituals: Activation Item",
+  "chapter.mana.quest.50.description.1": "To activate the rituals, you must use that.",
+  "chapter.mana.quest.50.description.2": "Right click one time to see where the items must be placed, and a second time to activate the ritual.",
+  "chapter.mana.quest.50.description.3": "Refer to the Codex Arcana for all the rituals.",
 
-  "chapter.mana.quest.51.subtitle.1": "",
-  "chapter.mana.quest.51.description.1": "",
+  "chapter.mana.quest.51.subtitle.1": "Spell Paper",
+  "chapter.mana.quest.51.description.1": "But how? Simple! You have two possibilities. For one vellum right click on a water source block with a leather in your hand. For two, right click on a cauldron with leather (Don't forget the water in it)",
 
-  "chapter.mana.quest.52.subtitle.1": "",
-  "chapter.mana.quest.52.description.1": "",
+  "chapter.mana.quest.52.subtitle.1": "Spell Preparation",
 
-  "chapter.mana.quest.53.subtitle.1": "",
-  "chapter.mana.quest.53.description.1": "",
+  "chapter.mana.quest.53.subtitle.1": "First Spell",
 
-  "chapter.mana.quest.54.subtitle.1": "",
-  "chapter.mana.quest.54.description.1": "",
+  "chapter.mana.quest.54.subtitle.1": "Containing Spells",
 
-  "chapter.mana.quest.55.subtitle.1": "",
-  "chapter.mana.quest.55.description.1": "",
+  "chapter.mana.quest.55.subtitle.1": "Rituals",
+  "chapter.mana.quest.55.description.1": "Chalk is used to draw pattern on the ground. Yeah i know, it's obvious.",
 
-  "chapter.mana.quest.56.subtitle.1": "",
-  "chapter.mana.quest.56.description.1": "",
+  "chapter.mana.quest.56.subtitle.1": "Do the Ritual of Forgotten Lore",
 
-  "chapter.mana.quest.57.subtitle.1": "",
-  "chapter.mana.quest.57.description.1": "",
+  "chapter.mana.quest.57.subtitle.1": "Do the Ritual of the Deep Ocean",
 
-  "chapter.mana.quest.58.subtitle.1": "",
-  "chapter.mana.quest.58.description.1": "",
+  "chapter.mana.quest.58.subtitle.1": "Do the Ritual of Ancient Stone",
 
-  "chapter.mana.quest.59.subtitle.1": "",
-  "chapter.mana.quest.59.description.1": "",
+  "chapter.mana.quest.59.subtitle.1": "Do the Ritual of the Searing Inferno",
 
-  "chapter.mana.quest.60.subtitle.1": "",
-  "chapter.mana.quest.60.description.1": "",
+  "chapter.mana.quest.60.subtitle.1": "Do the Ritual of the Enless Void",
 
-  "chapter.mana.quest.61.subtitle.1": "",
-  "chapter.mana.quest.61.description.1": "",
+  "chapter.mana.quest.61.subtitle.1": "Do the Ritual of Untamed Wind",
 
-  "chapter.mana.quest.62.subtitle.1": "",
-  "chapter.mana.quest.62.description.1": "",
+  "chapter.mana.quest.62.subtitle.1": "Better Magic Mote",
+  "chapter.mana.quest.62.description.1": "When crafting use a upgraded conduit in order for the altar to work!",
 
-  "chapter.mana.quest.63.subtitle.1": "",
-  "chapter.mana.quest.63.description.1": "",
+  "chapter.mana.quest.63.subtitle.1": "Better Water Mote",
+  "chapter.mana.quest.63.description.1": "When crafting use a upgraded conduit in order for the altar to work!",
 
-  "chapter.mana.quest.64.subtitle.1": "",
-  "chapter.mana.quest.64.description.1": "",
+  "chapter.mana.quest.64.subtitle.1": "Better Earth Mote",
+  "chapter.mana.quest.64.description.1": "When crafting use a upgraded conduit in order for the altar to work!",
 
-  "chapter.mana.quest.65.subtitle.1": "",
-  "chapter.mana.quest.65.description.1": "",
+  "chapter.mana.quest.65.subtitle.1": "Better Fire Mote",
+  "chapter.mana.quest.65.description.1": "When crafting use a upgraded conduit in order for the altar to work!",
 
-  "chapter.mana.quest.66.subtitle.1": "",
-  "chapter.mana.quest.66.description.1": "",
+  "chapter.mana.quest.66.subtitle.1": "Better Ender Mote",
+  "chapter.mana.quest.66.description.1": "When crafting use a upgraded conduit in order for the altar to work!",
 
-  "chapter.mana.quest.67.subtitle.1": "",
-  "chapter.mana.quest.67.description.1": "",
+  "chapter.mana.quest.67.subtitle.1": "Better Air Mote",
+  "chapter.mana.quest.67.description.1": "When crafting use a upgraded conduit in order for the altar to work!",
 
-  "chapter.mana.quest.68.subtitle.1": "",
-  "chapter.mana.quest.68.description.1": "",
+  "chapter.mana.quest.68.subtitle.1": "Automation Delegation",
+  "chapter.mana.quest.68.description.1": "Constructs are entities you can control to automate things. The station is used for that. Be aware you'll need a tier 2 item (Rune: Marking) to be able to use it properly.",
 
-  "chapter.mana.quest.69.subtitle.1": "",
-  "chapter.mana.quest.69.description.1": "",
+  "chapter.mana.quest.69.subtitle.1": "It's time for an upgrade!",
 
-  "chapter.mana.quest.70.subtitle.1": "",
-  "chapter.mana.quest.70.description.1": "",
+  "chapter.mana.quest.70.subtitle.1": "The next tier of automation",
+  "chapter.mana.quest.70.description.1": "With that, you can finally tell to the construct what to do! Refer to the Codex Arcana for more informations.",
 
-  "chapter.mana.quest.71.subtitle.1": "",
-  "chapter.mana.quest.71.description.1": "",
+  "chapter.mana.quest.71.subtitle.1": "Upgrading the Station",
+  "chapter.mana.quest.71.description.1": "This is a better delagation station, with way more possibilities.",
 
-  "chapter.mana.quest.72.subtitle.1": "",
-  "chapter.mana.quest.72.description.1": "",
+  "chapter.mana.quest.72.title": "The Construct",
+  "chapter.mana.quest.72.subtitle.1": "A animated... thing?",
+  "chapter.mana.quest.72.description.1": "Place a armor stand, and then on it place every items you have crafted for this quest.",
+  "chapter.mana.quest.72.description.2": "Then use the animus dust on it.",
 
-  "chapter.mana.quest.73.subtitle.1": "",
-  "chapter.mana.quest.73.description.1": "",
-
-  "chapter.mana.quest.74.subtitle.1": "",
-  "chapter.mana.quest.74.description.1": "",
-
-  "chapter.mana.quest.75.subtitle.1": "",
-  "chapter.mana.quest.75.description.1": "",
-
-  "chapter.mana.quest.76.subtitle.1": "",
-  "chapter.mana.quest.76.description.1": "",
-
-  "chapter.mana.quest.77.subtitle.1": "",
-  "chapter.mana.quest.77.description.1": "",
-
-  "chapter.mana.quest.78.subtitle.1": "",
-  "chapter.mana.quest.78.description.1": "",
-
-  "chapter.mana.quest.79.subtitle.1": "",
-  "chapter.mana.quest.79.description.1": "",
-
-  "chapter.mana.quest.80.subtitle.1": "",
-  "chapter.mana.quest.80.description.1": "",
-
-  "chapter.mana.quest.81.subtitle.1": "",
-  "chapter.mana.quest.81.description.1": "",
-
-  "chapter.mana.quest.82.subtitle.1": "",
-  "chapter.mana.quest.82.description.1": ""
+  "chapter.mana.quest.73.subtitle.1": "Control your construct!",
+  "chapter.mana.quest.73.description.1": "Now that you have a construct. Use this bell to command it directly!",
+  "chapter.mana.quest.73.description.2": "Refer to the codex arcana for more informations about constructs."
 }
