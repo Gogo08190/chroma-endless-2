@@ -3723,5 +3723,266 @@
 
   "chapter.evil.quest.46.subtitle.1": "Magneto",
   "chapter.evil.quest.46.description.1": "The &9Kineticator&r operates akin to a magnet, attracting items and experience towards you.",
-  "chapter.evil.quest.46.description.2": "On the other hand, the &eReverse Kineticator&r will have the opposite effect, repelling items and experience away from you."
+  "chapter.evil.quest.46.description.2": "On the other hand, the &eReverse Kineticator&r will have the opposite effect, repelling items and experience away from you.",
+
+  "Mana And Artifice":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.mana.title": "Mana And Artifice",
+
+  "chapter.mana.quest.1.subtitle.1": "Starting Magy",
+  "chapter.mana.quest.1.description.1": "This will be one of your most important item. It contains all the knowledge you need to start!",
+
+  "chapter.mana.quest.2.title": "Becoming a Novice",
+  "chapter.mana.quest.2.subtitle.1": "Read the Codex Arcana",
+  "chapter.mana.quest.2.description.1": "Once you start reading it, knowledge may flow into you. And maybe some magic too?",
+
+  "chapter.mana.quest.3.subtitle.1": "Mana Ore",
+  "chapter.mana.quest.3.description.1": "Vinteum is a very important ore, it may be used for many crafts!",
+
+  "chapter.mana.quest.4.subtitle.1": "Shiny Gem",
+  "chapter.mana.quest.4.description.1": "Refer to the Codex Arcana. (You should be level 5 in magic)",
+  "chapter.mana.quest.4.description.2": "Your level is displayed bellow your mana bar.",
+
+  "chapter.mana.quest.5.subtitle.1": "Mana Regen",
+  "chapter.mana.quest.5.description.1": "Stand close to it will boost your mana regenaration!",
+
+  "chapter.mana.quest.6.subtitle.1": "Rune Forger",
+  "chapter.mana.quest.6.description.1": "Used mostly to create runes. But can be useful for other things. Refer to the Codex Arcana.",
+
+  "chapter.mana.quest.7.subtitle.1": "Endless Wand",
+  "chapter.mana.quest.7.description.1": "Or at least unlimited durability...",
+
+  "chapter.mana.quest.8.subtitle.1": "Crushing Vinteum",
+  "chapter.mana.quest.8.description.1": "This dust may be used to convert an iron ingot to a Vinteum ingot.",
+
+  "chapter.mana.quest.9.subtitle.1": "Another Fusion",
+  "chapter.mana.quest.9.description.1": "Merge the newly crafted dust with an Iron Ingot.",
+
+  "chapter.mana.quest.10.subtitle.1": "Smelting Maestro",
+  "chapter.mana.quest.10.description.1": "Smelt the Coated Ingot in a furnace.",
+
+  "chapter.mana.quest.11.subtitle.1": "Arcane Smelting",
+
+  "chapter.mana.quest.12.subtitle.1": "You're a Wizard!",
+  "chapter.mana.quest.12.description.1": "You must start somewhere with magic, why not craft a simple impprovised wand first?",
+
+  "chapter.mana.quest.13.subtitle.1": "Elder Wand",
+  "chapter.mana.quest.13.description.1": "Once you got Vinteum Ingot, you may want to craft a better wand. That wand is easy to craft and have a better durability!",
+
+  "chapter.mana.quest.14.subtitle.1": "Your first spells",
+  "chapter.mana.quest.14.description.1": "Cantrips are simple spells that you can cast with your wand.",
+  "chapter.mana.quest.14.description.2": "If you hold the control key and right click with the wand, you'll open a menu with all the cantrips you know.",
+  "chapter.mana.quest.14.description.3": "Each spell have a pattern. The pattern must be reproduced in the air with the wand. For that, simply hold right click and do the pattern related to the spell you want to cast.",
+  "chapter.mana.quest.14.description.4": "If you don't want to draw the patterns you can also use the raidal menu. For that look at your options and look for Mana and Artifice keybinds.",
+
+  "chapter.mana.quest.15.subtitle.1": "Transmute Stone to Arcane Stone",
+  "chapter.mana.quest.15.description.1": "Use the spell transmute to transform Stone to Arcane Stone.",
+
+  "chapter.mana.quest.16.subtitle.1": "Transmute Sandstone to Arcane Sandstone",
+  "chapter.mana.quest.16.description.1": "Use the spell transmute to transform Sandstone to Arcane Sandstone",
+
+  "chapter.mana.quest.17.subtitle.1": "Magical Crafting",
+  "chapter.mana.quest.17.description.1": "With this altar you can craft many things. ",
+  "chapter.mana.quest.17.description.2": "Crafts need items of course, but also may need you to draw some shapes with you wand!",
+  "chapter.mana.quest.17.description.3": "For all the crafts possible, you should refer to the occulus. There is a tab with all possibilities for your current tier.",
+
+  "chapter.mana.quest.18.subtitle.1": "Path to automation",
+  "chapter.mana.quest.18.description.1": "Use it near the altar, to not have to draw again!",
+
+  "chapter.mana.quest.19.subtitle.1": "Easier Drawings",
+  "chapter.mana.quest.19.description.1": "Use one pattern on a projector. And then use the projector to "project" the pattern on your altar.",
+
+  "chapter.mana.quest.20.subtitle.1": "Wall Hack",
+  "chapter.mana.quest.20.description.1": "Want to go through a wall? Use this, it will temporary create a way.",
+
+  "chapter.mana.quest.21.subtitle.1": "Mysterious Orb",
+  "chapter.mana.quest.21.description.1": "You can infuse your mana inside it. But why? You should read the Codex Arcana.",
+
+  "chapter.mana.quest.22.title": "Mage Armor",
+  "chapter.mana.quest.22.subtitle.1": "Become a real mage!",
+
+  "chapter.mana.quest.23.subtitle.1": "Lava Pool",
+  "chapter.mana.quest.23.description.1": "I think you should try to swim in lava.",
+
+  "chapter.mana.quest.24.subtitle.1": "Under The Sea",
+  "chapter.mana.quest.24.description.1": "If you need some fresh air, under water...",
+
+  "chapter.mana.quest.25.subtitle.1": "Far From Home?",
+  "chapter.mana.quest.25.description.1": "When you are too far from your house, use this item.",
+
+  "chapter.mana.quest.26.subtitle.1": "I believe I can fly!",
+  "chapter.mana.quest.26.description.1": "You should fall from very high with it equipped.",
+
+  "chapter.mana.quest.27.subtitle.1": "Glyph Creator",
+  "chapter.mana.quest.27.description.1": "Glyphs are useful crafting elements, that can be used in Manaweaving Altar or in Rituals.",
+
+  "chapter.mana.quest.28.subtitle.1": "Transmute Copper to Transmuted Silver!",
+  "chapter.mana.quest.28.description.1": "With your newly acquired wand, you can cast a very important spell for the next step. That spell is called 'Transmute'.",
+  "chapter.mana.quest.28.description.2": "Place a copper block on the floor (Don't drop it, place it), and use the 'Transmute' spell. Be aware of the pattern if you want to be successful in casting it!",
+
+  "chapter.mana.quest.29.subtitle.1": "The progression",
+  "chapter.mana.quest.29.description.1": "The occulus is a very useful item. Once you have placed it you can right click.",
+  "chapter.mana.quest.29.description.2": "You'll open an UI with many tabs on it. The first one is very important. It displays what you need to do in order to get a better mage.",
+
+  "chapter.mana.quest.30.subtitle.1": "Occulus Crafting",
+  "chapter.mana.quest.30.description.1": "Okay, that one is only useful to craft the Occulus. But it looks way better than the other one!",
+
+  "chapter.mana.quest.31.subtitle.1": "A Simple Table",
+  "chapter.mana.quest.31.description.1": "This is an item needed in many crafts. And it can look good in your room isn't it?",
+
+  "chapter.mana.quest.32.subtitle.1": "Wellspring",
+  "chapter.mana.quest.32.description.1": "You can use it to generate wellspring energy.",
+  "chapter.mana.quest.32.description.2": "You can see in the occulus how much energy you have.",
+
+  "chapter.mana.quest.33.subtitle.1": "First Conduit",
+  "chapter.mana.quest.33.description.1": "Those are used to spend you Wellspring energy. It will extract the energy from your 'network' and send it to machines that needs it. (Example: Disenchanter)",
+  "chapter.mana.quest.33.description.2": "Be careful, if the conduits are too close from each other, they will not work.",
+
+  "chapter.mana.quest.34.subtitle.1": "A Better Conduit",
+  "chapter.mana.quest.34.description.1": "Those are better version on the conduit. And they don't nullify each other if too close.",
+
+  "chapter.mana.quest.35.subtitle.1": "Workbench for Magicians",
+  "chapter.mana.quest.35.description.1": "This is a better version of the workbench.",
+  "chapter.mana.quest.35.description.2": "It has an inventory. It can also remember recipes.",
+
+  "chapter.mana.quest.36.subtitle.1": "Modify your spell affinity",
+  "chapter.mana.quest.36.description.1": "Refer to the Codex Acarna.",
+
+  "chapter.mana.quest.37.subtitle.1": "Disenchant items!",
+  "chapter.mana.quest.37.description.1": "You'll need Wellsprint Energy, a projection rune and an enchanted item.",
+  "chapter.mana.quest.37.description.2": "Refer to the codex arcana.",
+
+  "chapter.mana.quest.38.subtitle.1": "Copy Spells",
+  "chapter.mana.quest.38.description.1": "With a book of rote and a rote spell (To have a spell rote, you must use the spell many times), ink, lapis and a receptacle for the spell you can copy the spell.",
+  "chapter.mana.quest.38.description.2": "You'll also need wellspring energy and a conduit.",
+
+  "chapter.mana.quest.39.subtitle.1": "Time to study",
+
+  "chapter.mana.quest.40.subtitle.1": "Runes Crafting",
+  "chapter.mana.quest.40.description.1": "The Runescribing Table is used to craft various Rune Patterns using a Runesmith's Hammer and Runesmith's Chisel.",
+
+  "chapter.mana.quest.41.subtitle.1": "Burning Plate",
+  "chapter.mana.quest.41.description.1": "Burn it in a Runeforge!",
+
+  "chapter.mana.quest.42.subtitle.1": "The base for all runes!",
+  "chapter.mana.quest.42.description.1": "To create a rune you must draw it. By clicking on each line. You can remove a line by Shift + Click on it (You must have some clay in your table)",
+
+  "chapter.mana.quest.43.subtitle.1": "Slow Furnace",
+  "chapter.mana.quest.43.description.1": "Runforge is useful for making Bone Ash. But it also act like a furnace (a slow one, but it's free).",
+
+  "chapter.mana.quest.44.subtitle.1": "Upgrade your Runeforge",
+  "chapter.mana.quest.44.description.1": "Right-clicking with the Brimstone Charm on a Runeform will allow you to enhance it.",
+  "chapter.mana.quest.44.description.2": "Runeforge speeds up the transformation of items.",
+
+  "chapter.mana.quest.45.subtitle.1": "The base for rituals",
+
+  "chapter.mana.quest.46.subtitle.1": "You'll need that for Arcane Ash.",
+
+  "chapter.mana.quest.47.subtitle.1": "Burning Stuff Again",
+  "chapter.mana.quest.47.description.1": "To get that, you must burn some Arcane Coumpound in your Runeforge",
+
+  "chapter.mana.quest.48.subtitle.1": "",
+  "chapter.mana.quest.48.description.1": "",
+
+  "chapter.mana.quest.49.subtitle.1": "",
+  "chapter.mana.quest.49.description.1": "",
+
+  "chapter.mana.quest.50.subtitle.1": "",
+  "chapter.mana.quest.50.description.1": "",
+
+  "chapter.mana.quest.51.subtitle.1": "",
+  "chapter.mana.quest.51.description.1": "",
+
+  "chapter.mana.quest.52.subtitle.1": "",
+  "chapter.mana.quest.52.description.1": "",
+
+  "chapter.mana.quest.53.subtitle.1": "",
+  "chapter.mana.quest.53.description.1": "",
+
+  "chapter.mana.quest.54.subtitle.1": "",
+  "chapter.mana.quest.54.description.1": "",
+
+  "chapter.mana.quest.55.subtitle.1": "",
+  "chapter.mana.quest.55.description.1": "",
+
+  "chapter.mana.quest.56.subtitle.1": "",
+  "chapter.mana.quest.56.description.1": "",
+
+  "chapter.mana.quest.57.subtitle.1": "",
+  "chapter.mana.quest.57.description.1": "",
+
+  "chapter.mana.quest.58.subtitle.1": "",
+  "chapter.mana.quest.58.description.1": "",
+
+  "chapter.mana.quest.59.subtitle.1": "",
+  "chapter.mana.quest.59.description.1": "",
+
+  "chapter.mana.quest.60.subtitle.1": "",
+  "chapter.mana.quest.60.description.1": "",
+
+  "chapter.mana.quest.61.subtitle.1": "",
+  "chapter.mana.quest.61.description.1": "",
+
+  "chapter.mana.quest.62.subtitle.1": "",
+  "chapter.mana.quest.62.description.1": "",
+
+  "chapter.mana.quest.63.subtitle.1": "",
+  "chapter.mana.quest.63.description.1": "",
+
+  "chapter.mana.quest.64.subtitle.1": "",
+  "chapter.mana.quest.64.description.1": "",
+
+  "chapter.mana.quest.65.subtitle.1": "",
+  "chapter.mana.quest.65.description.1": "",
+
+  "chapter.mana.quest.66.subtitle.1": "",
+  "chapter.mana.quest.66.description.1": "",
+
+  "chapter.mana.quest.67.subtitle.1": "",
+  "chapter.mana.quest.67.description.1": "",
+
+  "chapter.mana.quest.68.subtitle.1": "",
+  "chapter.mana.quest.68.description.1": "",
+
+  "chapter.mana.quest.69.subtitle.1": "",
+  "chapter.mana.quest.69.description.1": "",
+
+  "chapter.mana.quest.70.subtitle.1": "",
+  "chapter.mana.quest.70.description.1": "",
+
+  "chapter.mana.quest.71.subtitle.1": "",
+  "chapter.mana.quest.71.description.1": "",
+
+  "chapter.mana.quest.72.subtitle.1": "",
+  "chapter.mana.quest.72.description.1": "",
+
+  "chapter.mana.quest.73.subtitle.1": "",
+  "chapter.mana.quest.73.description.1": "",
+
+  "chapter.mana.quest.74.subtitle.1": "",
+  "chapter.mana.quest.74.description.1": "",
+
+  "chapter.mana.quest.75.subtitle.1": "",
+  "chapter.mana.quest.75.description.1": "",
+
+  "chapter.mana.quest.76.subtitle.1": "",
+  "chapter.mana.quest.76.description.1": "",
+
+  "chapter.mana.quest.77.subtitle.1": "",
+  "chapter.mana.quest.77.description.1": "",
+
+  "chapter.mana.quest.78.subtitle.1": "",
+  "chapter.mana.quest.78.description.1": "",
+
+  "chapter.mana.quest.79.subtitle.1": "",
+  "chapter.mana.quest.79.description.1": "",
+
+  "chapter.mana.quest.80.subtitle.1": "",
+  "chapter.mana.quest.80.description.1": "",
+
+  "chapter.mana.quest.81.subtitle.1": "",
+  "chapter.mana.quest.81.description.1": "",
+
+  "chapter.mana.quest.82.subtitle.1": "",
+  "chapter.mana.quest.82.description.1": ""
 }
