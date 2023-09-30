@@ -11,18 +11,18 @@
   "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25%% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
 
-  "chapter.welcome.quest.2.title.1": "Chunks Claiming / Loading",
+  "chapter.welcome.quest.2.title.1": "Posséder & Charger un terrain",
   "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\nCliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
 
   "chapter.welcome.quest.3.title.1": "Ultimine",
-  "chapter.welcome.quest.3.description.1" : "&6&lFTB Ultimine&r is a very useful mod for mining.",
+  "chapter.welcome.quest.3.description.1" : "&6&lFTB Ultimine&r est un mod très utile pour l'exploitation minière.",
   "chapter.welcome.quest.3.description.2" : "En effet, en utilisant la touche ² (par défaut), vous verrez un contour blanc qui sera appelé la &c&lZone Ultimine&r et qui représente ce que vous allez miner.",
   "chapter.welcome.quest.3.description.3" : "Cette &c&lZone Ultimine&r peut être modifiée. En fait, si vous continuez à appuyer sur la touche ² + scroll de la souris, vous pouvez changer la forme de cette zone et trouver celle qui vous convient le mieux.",
 
   "chapter.welcome.quest.4.title.1": "Équipes",
   "chapter.welcome.quest.4.description.1" : "Pour partager vos quêtes avec vos amis, vous devez créer une équipe.",
-  "chapter.welcome.quest.4.description.2" : "Pour ce faire, exécutez cette commande :",
-  "chapter.welcome.quest.4.description.3" : "Pour inviter vos amis, exécutez cette commande :",
+  "chapter.welcome.quest.4.description.2" : "Pour ce faire, exécutez cette commande : /ftbteams create TEAMNAME",
+  "chapter.welcome.quest.4.description.3" : "Pour inviter vos amis, exécutez cette commande : /ftbteams invite PlayerName",
   "chapter.welcome.quest.4.description.4" : "Vos amis n'ont qu'à accepter, et vous êtes maintenant dans une équipe.",
 
   "chapter.welcome.quest.5.title.1": "Quêtes",
@@ -30,7 +30,7 @@
   "chapter.welcome.quest.5.description.2" : "Comme vous pouvez le constater, la majorité des quêtes nécessitent une &7&ldépendance&r. Pour les débloquer, vous pouvez cliquer sur la &4&l&nFlèche Rouge Clignotante&r pour afficher la ou les &7&ldépendances&r nécessaires.",
   "chapter.welcome.quest.5.description.3" : "Dans le modpack Chroma Endless 2, les joueurs peuvent suivre un chemin guidé de progression grâce aux quêtes de (&l&6Avancement principal&r). Ces quêtes principales orientent et structurent l'expérience de jeu. Par ailleurs, il existe également des (&l&6Quêtes secondaires&r) qui sont des quêtes optionnelles centrées sur divers mods. Ces quêtes secondaires ne sont pas nécessaires pour avancer dans la progression principale du modpack, offrant ainsi aux joueurs la liberté d'explorer et d'expérimenter à leur propre rythme.",
 
-  "chapter.welcome.quest.6.title.1": "Nourrissage",
+  "chapter.welcome.quest.6.title.1": "Se Nourrir",
   "chapter.welcome.quest.6.description.1" : "&aSpice of Life: Carrot Edition&r permet de suivre le nombre d'aliments uniques qu'un joueur a consommés. À mesure qu'ils atteignent certains paliers de quantités d'aliments uniques, ils gagnent de manière permanente de nouveaux cœurs, augmentant ainsi leur santé maximale ! Pour atteindre le maximum de leurs barres de points de vie, les joueurs devront partir en quête et fabriquer des aliments exotiques.",
 
   "chapter.welcome.quest.7.title.1": "Discord",
@@ -77,11 +77,11 @@
 
   "chapter.stage.1.title": "Étape 1",
 
-  "chapter.stage.1.quest.1.title.1": "Bois",
+  "chapter.stage.1.quest.1.title.1": "Du Bois",
   "chapter.stage.1.quest.1.subtitle.1": "Un début classique",
   "chapter.stage.1.quest.1.description.1" : "Qu'est-ce que serait Minecraft sans recolter du bois ? Allez hop on y va !",
 
-  "chapter.stage.1.quest.2.title.1": "Planches",
+  "chapter.stage.1.quest.2.title.1": "Des Planches",
   "chapter.stage.1.quest.2.subtitle.1": "Du pain sur la planche",
   "chapter.stage.1.quest.2.description.1" : "Vraiment? On doit expliquer comment obtenir des planches?",
 
@@ -97,7 +97,7 @@
   "chapter.stage.1.quest.5.description.2" : "Nous vous suggérons de regarder comment il se craft.",
   "chapter.stage.1.quest.5.description.3" : "Plus tard dans le pack, d'autres recettes seront possibles, ne vous inquiétez pas.",
 
-  "chapter.stage.1.quest.6.subtitle.1": "Le Nouvel Alliage",
+  "chapter.stage.1.quest.6.subtitle.1": "Un Nouvel Alliage",
   "chapter.stage.1.quest.6.description.1" : "En brulant ce mélange vous allez pouvoir avoir ce nouvel alliage.",
   "chapter.stage.1.quest.6.description.2" : "Tout comme le mélange de l'étape d'avant d'autres méthodes de fabrication seront disponibles plus tard.",
 
@@ -147,7 +147,7 @@
   "chapter.stage.1.quest.17.subtitle.1": "Compressage du Fer",
   "chapter.stage.1.quest.17.description.1" : "Procurez vous une plaque de fer et passe à la quête suivante ! !",
 
-  "chapter.stage.1.quest.18.subtitle.1": "The Mechanical Mixer",
+  "chapter.stage.1.quest.18.subtitle.1": "Le Mélangeur Mécanique",
   "chapter.stage.1.quest.18.description.1" : "Le mélangeur mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
   "chapter.stage.1.quest.18.description.2" : "Le mélangeur nécessite une vitesse de rotation minimale de 32 RPM (tours par minute) de sa source d'alimentation pour fonctionner. Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
   "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une recette valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
@@ -161,13 +161,13 @@
   "chapter.stage.1.quest.20.description.1" : "Lorsque vous trouverez une forteresse, n'oubliez pas d'apporter le &cbrûleur de Blaze&r pour capturer un Blaze.",
   "chapter.stage.1.quest.20.description.2" : "Cela vous donnera un &4brûleur de Blaze&r.",
 
-  "chapter.stage.1.quest.21.subtitle.1": "Captureur de Blaze",
+  "chapter.stage.1.quest.21.subtitle.1": "Capturer des Blazes",
   "chapter.stage.1.quest.21.description.1" : "N'oubliez pas d'apporter des potions de résistance au feu !",
 
   "chapter.stage.1.quest.22.subtitle.1": "C'est l'heure de Bronzer",
   "chapter.stage.1.quest.22.description.1" : "Combinez un &#B87333Lingot de cuivret&r et un &#BAC4C8Lingot de Zinc&r dans un &oCreate&r &lMechanical Mixer&r et &lBassin&r (&4Chauffé&r). Ils vont fusionner et donner du&#B5A642Lingot Brass&r",
 
-  "chapter.stage.1.quest.23.subtitle.1": "Le Deployer simulater une interaction de joueur jusqu'à 2 blocs de lui",
+  "chapter.stage.1.quest.23.subtitle.1": "Le Deployeur simule une interaction de joueur jusqu'à 2 blocs de lui",
   "chapter.stage.1.quest.23.description.1" : "Le Deployer simule de base le clic droit. Vous pouvez mettre le clic gauche avec la Wrench de Create.",
   "chapter.stage.1.quest.23.description.2" : "Le Deployer a 2 slots d'inventaire; l'item tenu et un extra slot interne. En plus des objets inutilisables, les objets récoltés par le Déployeur seront transférés vers l'emplacement supplémentaire pour être retirés par d'autres machines, pendant ce temps le Déployeur se bloquera. Les objets ne peuvent pas être extraits de l'emplacement supplémentaire directement par le joueur.",
 
@@ -199,7 +199,7 @@
   "chapter.stage.1.quest.31.description.1" : "Tinker est un mod vraiment utile ! Je suppose que vous devriez regarder la recette pour avancer.",
   "chapter.stage.1.quest.31.description.2" : "Ces premières tables vous permettront de créer votre premier outil Tinker !",
 
-  "chapter.stage.1.quest.32.subtitle.1": "Stockez les pièces inutiles",
+  "chapter.stage.1.quest.32.subtitle.1": "Stocker les pièces inutiles",
   "chapter.stage.1.quest.32.description.1" : "Cette spécialité est, comme son nom l'indique, utile pour stocker les pièces que vous n'utilisez plus.",
 
   "chapter.stage.1.quest.33.subtitle.1": "Un meilleur coffre, du moins pour le moment",
@@ -214,7 +214,7 @@
   "chapter.stage.1.quest.35.description.1" : "Les Briques de fusion sont utilisées pour fabriquer les composants de la fonderie Tinker.",
   "chapter.stage.1.quest.35.description.2" : "Passez à la quête suivante pour voir quels composants seront utiles.",
 
-  "chapter.stage.1.quest.36.title.1": "Le Fondeur",
+  "chapter.stage.1.quest.36.title.1": "Le Premier Four",
   "chapter.stage.1.quest.36.subtitle.1": "Votre première 'Fonderie', Le Melter !",
   "chapter.stage.1.quest.36.description.1" : "Avant de construire la grande et vieille fonderie, vous devriez fabriquer le Melter.",
   "chapter.stage.1.quest.36.description.2" : "Toutes les pièces nécessaires sont répertoriées dans cette quête.",
@@ -254,7 +254,7 @@
   "chapter.stage.1.quest.47.description.1": "Ce livre vous guidera dans votre aventure avec le mod &5&lMana and Artifice&r.",
   "chapter.stage.1.quest.47.description.2": "Vous pourrez trouver toutes les informations sur le mod dans ce livre.",
 
-  "chapter.stage.1.quest.48.subtitle.1": "Arbre Occulte de Progression.",
+  "chapter.stage.1.quest.48.subtitle.1": "Arbre de Progression.",
   "chapter.stage.1.quest.48.description.1": "&9L'Occulus&r est un bloc qui guidera le joueur sur le niveau auquel il se trouve, ce qu'il a débloqué et ce dont le joueur a besoin pour avancer vers le prochain niveau.",
   "chapter.stage.1.quest.48.description.2": "Sur la gauche de l'interface utilisateur (GUI), il y a une liste d'onglets avec différentes informations. Sur la droite de l'interface utilisateur (GUI), il y a une barre qui indique au joueur à quel point il a progressé vers le prochain niveau.",
 
@@ -289,19 +289,19 @@
   "chapter.stage.2.quest.1.description.1": "&9Le Marteau de l'ingénieur&r sera utile pour construire tous vos &cMultiblocs Immersifs&r.",
   "chapter.stage.2.quest.1.description.2": "Nous vous suggérons de le garder quelque part où vous vous en souviendrez !",
 
-  "chapter.stage.2.quest.2.title.1": "Regardez un &6Alliage Kiln&r complet.",
+  "chapter.stage.2.quest.2.title.1": "Regardez un &6Alloy Kiln&r complet.",
   "chapter.stage.2.quest.2.subtitle.1": "Construisez un &5Alliage Kiln&r.",
   "chapter.stage.2.quest.2.description.1": "&5L'Alliage Kiln&r est utile pour créer des alliages en début de partie.",
 
-  "chapter.stage.2.quest.3.title.1": "Regardez un &6Four à coke&r complet.",
+  "chapter.stage.2.quest.3.title.1": "Regardez un &6Coke Oven&r complet.",
   "chapter.stage.2.quest.3.subtitle.1": "Construisez un &6Four à coke&r",
   "chapter.stage.2.quest.3.description.1": "Le &6Four à coke&r est le premier moyen d'obtenir du &4Bois traité&r avec de l'&7Huile de créosote&r.",
 
-  "chapter.stage.2.quest.4.title.1": "Regardez un &6Haut Fourneau brut&r complet.",
+  "chapter.stage.2.quest.4.title.1": "Regardez un &6Haut Fourneau Brut&r complet.",
   "chapter.stage.2.quest.4.subtitle.1": "Expert en explosifs.",
   "chapter.stage.2.quest.4.description.1": "&6Le Haut Fourneau&r est la première étape à effectuer pour obtenir des &9lingots d'acier&r.",
 
-  "chapter.stage.2.quest.5.subtitle.1": "Un Établi de l'ingénieur",
+  "chapter.stage.2.quest.5.subtitle.1": "L'Établi de l'ingénieur",
   "chapter.stage.2.quest.5.description.1": "Pour fabriquer les premiers composants d'&5Immersive&r, vous devrez fabriquer cet établi.",
   "chapter.stage.2.quest.5.description.2": "Plus tard dans le jeu, une recette plus précieuse sera utilisée, mais pour l'instant nous vous suggérons d'utiliser celle-ci.",
 
@@ -328,7 +328,7 @@
   "chapter.stage.2.quest.10.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.10.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
-  "chapter.stage.2.quest.11.subtitle.1": "Un &9Four à Coke&r amélioré et alimenté.",
+  "chapter.stage.2.quest.11.subtitle.1": "Un &9Coke Oven&r amélioré et alimenté.",
   "chapter.stage.2.quest.11.description.1": "Ce multibloc est une version amélioré du coke oven, il utilise de l'énergie mais est beaucoup plus rapide !",
 
   "chapter.stage.2.quest.12.title.1": "Regardez un &6Mixeur&r complet.",
@@ -381,7 +381,7 @@
   "chapter.stage.2.quest.22.description.1": "Il est utilisé pour créer un Circuit imprimé d'ingénierie.",
   "chapter.stage.2.quest.22.description.2": "Il doit être trouvé dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
 
-  "chapter.stage.2.quest.23.subtitle.1": "Pressage de Quartz Certus.",
+  "chapter.stage.2.quest.23.subtitle.1": "Pressage de Certus Quartz.",
   "chapter.stage.2.quest.23.description.1": "Il est utilisé pour créer un Circuit imprimé de calcul.",
   "chapter.stage.2.quest.23.description.2": "Il doit être trouvé dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
 
@@ -393,8 +393,8 @@
 
   "chapter.stage.2.quest.27.subtitle.1": "Impression de Quartz Certus",
 
-  "chapter.stage.2.quest.28.title.1": "Regardez un &6Four à Arcs&r complet.",
-  "chapter.stage.2.quest.28.subtitle.1": "Le &6Four à Arcs&r.",
+  "chapter.stage.2.quest.28.title.1": "Regardez un &6Four d'Arcs&r complet.",
+  "chapter.stage.2.quest.28.subtitle.1": "Le &6Four d'Arcs&r.",
   "chapter.stage.2.quest.28.description.1": "Ceci est principalement utilisé pour fondre des objets avancés et obtenir des processeurs. ",
   "chapter.stage.2.quest.28.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.28.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
@@ -405,7 +405,7 @@
 
   "chapter.stage.2.quest.31.subtitle.1": "Circuit imprimé de logique",
 
-  "chapter.stage.2.quest.32.subtitle.1": "Rechargement du Quartz Certus.",
+  "chapter.stage.2.quest.32.subtitle.1": "Rechargement du Certus Quartz.",
   "chapter.stage.2.quest.32.description.1": "Ce bloc est principalement utilisé pour charger le Quartz Certus avec de l'énergie.",
 
   "chapter.stage.2.quest.33.subtitle.1": "Mur de Projection",
@@ -438,11 +438,11 @@
   "chapter.stage.2.quest.41.description.1": "Cette machine est principalement utilisée pour infuser une substance dans une autre.",
   "chapter.stage.2.quest.41.description.2": "Chaque type d'infusion sera utilisé pour créer de nouveaux objets ou lingots afin de progresser dans le jeu.",
 
-  "chapter.stage.2.quest.42.subtitle.1": "Infusion du Quartz Certus",
+  "chapter.stage.2.quest.42.subtitle.1": "Infusion du Certus Quartz",
   "chapter.stage.2.quest.42.description.1": "Il suffit d'infuser du Quartz Certus Chargé avec une infusion de Redstone.",
 
   "chapter.stage.2.quest.43.subtitle.1": "Infusion de Circuit imprimé de logique",
-  "chapter.stage.2.quest.43.description.1": "Il suffit d'infuser des Circuit imprimé de logique avec une infusion de Redstone.",
+  "chapter.stage.2.quest.43.description.1": "Il suffit d'infuser un Circuit imprimé de logique avec une infusion de Redstone.",
 
   "chapter.stage.2.quest.44.subtitle.1": "Transformation en niveau de base",
   "chapter.stage.2.quest.44.description.1": "Il suffit de cliquer droit avec cela pour transformer n'importe quelle machine de Mekanism en niveau de base.",
@@ -543,13 +543,13 @@
 
   "chapter.stage.2.quest.68.subtitle.1": "Rêve de Ciselure de Runes",
 
-  "chapter.stage.2.quest.69.subtitle.1": "Ciselure de la Rune de l'Avatar",
+  "chapter.stage.2.quest.69.subtitle.1": "Ciseler la Rune de l'Avatar",
 
-  "chapter.stage.2.quest.70.subtitle.1": "Ciselure de la Rune de Magma",
+  "chapter.stage.2.quest.70.subtitle.1": "Ciseler la Rune de Magma",
 
-  "chapter.stage.2.quest.71.subtitle.1": "Ciselure de la Rune de Terra",
+  "chapter.stage.2.quest.71.subtitle.1": "Ciseler la Rune de Terra",
 
-  "chapter.stage.2.quest.72.subtitle.1": "Ciselure de la Rune Aqua",
+  "chapter.stage.2.quest.72.subtitle.1": "Ciseler la Rune Aqua",
 
   "chapter.stage.2.quest.73.subtitle.1": "Forger des Runes",
   "chapter.stage.2.quest.73.description.1": "La Runic Anvil est utilisée en plaçant un modèle, en plaçant le bon objet comme la &bViveroche&r ou l'ingot de &bSuperheated Vinteum&r, puis en les forgeant ensemble avec un Runesmith's Hammer.",
@@ -655,7 +655,7 @@
   "chapter.stage.3.quest.12.subtitle.1": "Dispersion de la Chaleur",
   "chapter.stage.3.quest.12.description.1": "Bloc qui disperse la chaleur dans l'air. Il ne se connecte qu'au bloc sur lequel il se trouve.",
 
-  "chapter.stage.3.quest.13.subtitle.1": "Chaud Froid ? Les deux !",
+  "chapter.stage.3.quest.13.subtitle.1": "Chaud ou Froid ? Les deux !",
   "chapter.stage.3.quest.13.description.1": "Le &5Tube Vortex&r est une source de chaleur dynamique qui convertit directement la pression en chaleur et en froid.",
   "chapter.stage.3.quest.13.description.2": "Il est fortement recommandé de placer un Dissipateur de Chaleur sur le côté inutilisé d'un Tube Vortex, pour une meilleure efficacité.",
 
@@ -803,10 +803,10 @@
   "chapter.stage.3.quest.56.subtitle.1": "Compression de l'Osmium en Pierre Lumineuse",
 
   "chapter.stage.3.quest.57.subtitle.1": "Enrichissement de la Pierre Lumineuse Raffinée",
-  "chapter.stage.3.quest.57.description.1": "Ajouter plus de Types d'Infusion pour les Recettes d'Infusion",
+  "chapter.stage.3.quest.57.description.1": "Ajoute plus de Types d'Infusion pour les Recettes d'Infusion",
 
   "chapter.stage.3.quest.58.subtitle.1": "Enrichissement de l'Essence of Darkness",
-  "chapter.stage.3.quest.58.description.1": "Ajouter plus de Types d'Infusion pour les Recettes d'Infusion",
+  "chapter.stage.3.quest.58.description.1": "Ajoute plus de Types d'Infusion pour les Recettes d'Infusion",
 
   "chapter.stage.3.quest.59.subtitle.1": "Une meilleure Tablette d'Énergie",
 
@@ -994,7 +994,7 @@
   "chapter.stage.4.quest.22.subtitle.1": "La Vie en Plastique",
   "chapter.stage.4.quest.22.description.1": "Assemblez le Petit Caoutchouc Sec pour obtenir du Caoutchouc Sec, puis faites-le fondre pour obtenir du Plastique !",
 
-  "chapter.stage.4.quest.23.subtitle.1": "fabrication avec des Fluides",
+  "chapter.stage.4.quest.23.subtitle.1": "Fabrication avec des Fluides",
   "chapter.stage.4.quest.23.description.1": "Assemblez des Objets et des Fluides pour obtenir des Objets plus avancés. Vous aurez également besoin d'Énergie !",
 
   "chapter.stage.4.quest.24.subtitle.1": "Accéder à une Dimension Compacte",
@@ -1265,7 +1265,7 @@
 
   "chapter.stage.4.quest.116.subtitle.1": "Un Inscriber Vraiment Meilleur",
 
-  "chapter.stage.4.quest.117.subtitle.1": "Mouture avec Flux",
+  "chapter.stage.4.quest.117.subtitle.1": "Ecraser avec du Flux",
 
   "chapter.stage.4.quest.118.subtitle.1": "Bloc de Demande de Fabrication",
   "chapter.stage.4.quest.118.description.1": "Le &bME Requester&f est un bloc essentiel pour un réseau ME, conçu pour stocker jusqu'à 6 types différents d'objets. Sa configuration peut être accessible en faisant un clic droit, et toutes les informations nécessaires sont fournies là-bas. Un conseil supplémentaire suggère de faire glisser et déposer des objets spécifiques à partir de la page JEI s'ils ne sont pas disponibles pour le moment.",
@@ -1325,7 +1325,7 @@
   "chapter.stage.5.quest.2.subtitle.1": "Miner Avec des Lasers",
   "chapter.stage.5.quest.2.description.1": "Pour générer différents types de ressources avec des lasers, vous en aurez besoin de 4.",
 
-  "chapter.stage.5.quest.3.subtitle.1": "Noyau de Laser Minier",
+  "chapter.stage.5.quest.3.subtitle.1": "Noyau du Laser",
   "chapter.stage.5.quest.3.description.1": "C'est la machine principale pour configurer le laser drill. Placez les 4 Drills comme sur l'image et laissez les minerais se générer !",
 
   "chapter.stage.5.quest.4.subtitle.1": "Minage de Fluides",
@@ -3904,7 +3904,7 @@
   "chapter.mana.quest.35.subtitle.1": "Établi pour Magiciens",
   "chapter.mana.quest.35.description.1": "Il s'agit d'une version améliorée de l'établi.",
   "chapter.mana.quest.35.description.2": "Il a un inventaire. Il peut aussi se souvenir des recettes.",
-  
+
   "chapter.mana.quest.36.subtitle.1": "Modifier votre affinité de sort",
   "chapter.mana.quest.36.description.1": "Consultez le Codex Acarna.",
 

@@ -21,8 +21,8 @@
 
   "chapter.welcome.quest.4.title.1": "Teams",
   "chapter.welcome.quest.4.description.1" : "To share your quests with your friends, you need to create a team.",
-  "chapter.welcome.quest.4.description.2" : "To do this, execute this command :",
-  "chapter.welcome.quest.4.description.3" : "To invite your friends, execute this command :",
+  "chapter.welcome.quest.4.description.2" : "To do this, execute this command : /ftbteams create TEAMNAME",
+  "chapter.welcome.quest.4.description.3" : "To invite your friends, execute this command : /ftbteams invite PlayerName",
   "chapter.welcome.quest.4.description.4" : "Your friends just have to accept, and you are now in a team.",
 
   "chapter.welcome.quest.5.title.1": "Quests",
