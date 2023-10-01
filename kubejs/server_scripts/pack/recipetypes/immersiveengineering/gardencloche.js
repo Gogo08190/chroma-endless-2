@@ -388,7 +388,7 @@ onEvent('recipes', (event) => {
       return seed.replace('_seeds', '_crop');
   }
 
-  const allSeeds = [seedsTier1, seedsTier2, seedsTier3, seedsTier4, seedsTier5, seedsTier6];
+  const allSeeds = [seedsTier1, seedsTier2, seedsTier3, seedsTier4, seedsTier5];
 
   allSeeds.forEach((seedTier, index) => {
       seedTier.forEach(seed => {
@@ -413,5 +413,52 @@ onEvent('recipes', (event) => {
               event.recipes.immersiveengineeringCloche(recipe.outputs, recipe.input, recipe.soil, {type: recipe.type, block: recipe.block}).id(recipe.id);
           });
       });
+  });
+
+  const seedCrux = [
+    {
+      outputs: 'mysticalagriculture:draconium_essence',
+      input: 'mysticalagriculture:draconium_seeds',
+      soil: 'chroma:draconium_crux',
+      type: 'crop',
+      block: 'mysticalagriculture:draconium_crop',
+      id: 'mysticalagriculture:draconium_seeds_crux'
+    },
+    {
+      outputs: 'mysticalagriculture:awakened_draconium_essence',
+      input: 'mysticalagriculture:awakened_draconium_seeds',
+      soil: 'mysticalagradditions:awakened_draconium_crux',
+      type: 'crop',
+      block: 'mysticalagriculture:awakened_draconium_crop',
+      id: 'mysticalagriculture:awakened_draconium_from_crux'
+    },
+    {
+      outputs: 'mysticalagriculture:calorite_essence',
+      input: 'mysticalagriculture:calorite_seeds',
+      soil: 'chroma:calorite_crux',
+      type: 'crop',
+      block: 'mysticalagriculture:calorite_crop',
+      id: 'mysticalagriculture:calorite_seeds_from_crux'
+    },
+    {
+      outputs: 'mysticalagriculture:alfsteel_essence',
+      input: 'mysticalagriculture:alfsteel_seeds',
+      soil: 'chroma:alfsteel_crux',
+      type: 'crop',
+      block: 'mysticalagriculture:alfsteel_crop',
+      id: 'mysticalagriculture:alfsteel_seeds_from_crux'
+    },
+    {
+      outputs: 'mysticalagriculture:nitro_crystal_essence',
+      input: 'mysticalagriculture:nitro_crystal_seeds',
+      soil: 'mysticalagradditions:nitro_crystal_crux',
+      type: 'crop',
+      block: 'mysticalagriculture:nitro_crystal_crop',
+      id: 'mysticalagriculture:nitro_crystal_seeds_from_crux'
+    }
+  ]
+
+  seedCrux.forEach((recipe) => {
+    event.recipes.immersiveengineeringCloche(recipe.outputs, recipe.input, recipe.soil, {type: recipe.type, block: recipe.block}).id(recipe.id);
   });
 });

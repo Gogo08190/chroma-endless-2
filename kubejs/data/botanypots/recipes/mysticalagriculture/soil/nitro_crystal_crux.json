@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:item_exists","values":"mysticalagradditions:insanium_farmland"}],"type":"botanypots:soil","input":{"item":"mysticalagradditions:nitro_crystal_crux"},"display":{"block":"mysticalagradditions:nitro_crystal_crux"},"categories":["nitro"],"growthModifier":1.35}

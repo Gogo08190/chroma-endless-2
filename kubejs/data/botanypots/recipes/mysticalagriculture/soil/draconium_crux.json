@@ -1,0 +1,1 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:item_exists","values":"mysticalagradditions:insanium_farmland"}],"type":"botanypots:soil","input":{"item":"chroma:draconium_crux"},"display":{"block":"chroma:draconium_crux"},"categories":["draconium"],"growthModifier":1.35}

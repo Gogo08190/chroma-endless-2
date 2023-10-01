@@ -301,5 +301,9 @@ const disabledItems = [
     'mysticalagriculture:fiery_ingot_essence',
 
     'mysticalagradditions:nether_star_shard',
-    'mysticalagradditions:dragon_egg_chunk'
+    'mysticalagradditions:dragon_egg_chunk',
+    'mysticalagradditions:neutronium_crux',
+    'mysticalagradditions:gaia_spirit_crux',
+    'mysticalagradditions:nether_star_crux',
+    'mysticalagradditions:dragon_egg_crux'
 ];

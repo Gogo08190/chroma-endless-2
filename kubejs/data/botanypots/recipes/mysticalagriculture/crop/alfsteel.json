@@ -1,7 +1,7 @@
 {
   "type":"botanypots:crop",
   "seed":{"item":"mysticalagriculture:alfsteel_seeds"},
-  "categories":["insanium"],
+  "categories":["alfsteel"],
   "growthTicks":4800,
   "display":{"type":"botanypots:aging","block":"mysticalagriculture:alfsteel_crop"},
   "drops":[
