@@ -4012,6 +4012,23 @@
 
   "chapter.mana.quest.73.subtitle.1": "Contrôlez votre construct !",
   "chapter.mana.quest.73.description.1": "Maintenant que vous avez un construct, utilisez cette cloche pour le commander directement !",
-  "chapter.mana.quest.73.description.2": "Consultez le Codex Arcana pour plus d'informations sur les constructs."
+  "chapter.mana.quest.73.description.2": "Consultez le Codex Arcana pour plus d'informations sur les constructs.",
 
+  "chapter.mana.quest.74.title": "Construct en bois",
+  "chapter.mana.quest.74.subtitle.1": "Premier construct",
+
+  "chapter.mana.quest.75.title": "Construct en pierre",
+  "chapter.mana.quest.75.subtitle.1": "Amélioration en pierre",
+
+  "chapter.mana.quest.76.title": "Construct en fer",
+  "chapter.mana.quest.76.subtitle.1": "Amélioration métallique",
+
+  "chapter.mana.quest.77.title": "Construct en or",
+  "chapter.mana.quest.77.subtitle.1": "Amélioration brillante",
+
+  "chapter.mana.quest.78.title": "Construct en diamant",
+  "chapter.mana.quest.78.subtitle.1": "L'amélioration la plus brillante",
+
+  "chapter.mana.quest.79.title": "Construct en obsidienne",
+  "chapter.mana.quest.79.subtitle.1": "La dernière amélioration"
 }

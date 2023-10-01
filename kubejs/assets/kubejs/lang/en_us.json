@@ -3951,5 +3951,23 @@
 
   "chapter.mana.quest.73.subtitle.1": "Control your construct!",
   "chapter.mana.quest.73.description.1": "Now that you have a construct. Use this bell to command it directly!",
-  "chapter.mana.quest.73.description.2": "Refer to the codex arcana for more informations about constructs."
+  "chapter.mana.quest.73.description.2": "Refer to the codex arcana for more informations about constructs.",
+
+  "chapter.mana.quest.74.title": "Wooden Construct",
+  "chapter.mana.quest.74.subtitle.1": "First Construct",
+
+  "chapter.mana.quest.75.title": "Stone Construct",
+  "chapter.mana.quest.75.subtitle.1": "Stoning Upgrade",
+
+  "chapter.mana.quest.76.title": "Iron Construct",
+  "chapter.mana.quest.76.subtitle.1": "Metal Upgrade",
+
+  "chapter.mana.quest.77.title": "Gold Construct",
+  "chapter.mana.quest.77.subtitle.1": "Shiny Upgrade",
+
+  "chapter.mana.quest.78.title": "Diamond Construct",
+  "chapter.mana.quest.78.subtitle.1": "The Shiniest Upgrade",
+
+  "chapter.mana.quest.79.title": "Obsidian Construct",
+  "chapter.mana.quest.79.subtitle.1": "The Last Upgrade"
 }
