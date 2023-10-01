@@ -1,6 +1,14 @@
 onEvent('recipes', (event) => {
   const id_prefix = 'chroma:pack/immersiveengineering/cloche/';
   const soils = ['minecraft:dirt', 'farmersdelight:rich_soil', 'thermal:phytosoil', 'mysticalagriculture:inferium_farmland', 'mysticalagriculture:prudentium_farmland', 'mysticalagriculture:tertium_farmland', 'mysticalagriculture:imperium_farmland', 'mysticalagriculture:supremium_farmland', 'mysticalagradditions:insanium_farmland'];
+  const seedsTier1 = ['mysticalagriculture:dirt_seeds', 'mysticalagriculture:deepslate_seeds', 'mysticalagriculture:dye_seeds', 'mysticalagriculture:coral_seeds', 'mysticalagriculture:mystical_flower_seeds', 'mysticalagriculture:ice_seeds', 'mysticalagriculture:air_seeds', 'mysticalagriculture:earth_seeds', 'mysticalagriculture:water_seeds', 'mysticalagriculture:fire_seeds', 'mysticalagriculture:inferium_seeds', 'mysticalagriculture:wood_seeds', 'mysticalagriculture:stone_seeds', 'mysticalagriculture:sky_stone_seeds', 'mysticalagriculture:limestone_seeds'];
+  const seedsTier2 = ['mysticalagriculture:sulfur_seeds', 'mysticalagriculture:saltpeter_seeds', 'mysticalagriculture:obsidian_seeds', 'mysticalagriculture:nether_seeds', 'mysticalagriculture:nature_seeds', 'mysticalagriculture:honey_seeds', 'mysticalagriculture:end_seeds', 'mysticalagriculture:amethyst_seeds'];
+  const seedsTier3 = ['mysticalagriculture:pig_iron_seeds', 'mysticalagriculture:amethyst_bronze_seeds', 'mysticalagriculture:brass_seeds', 'mysticalagriculture:bronze_seeds', 'mysticalagriculture:slimesteel_seeds', 'mysticalagriculture:silicon_seeds'];
+  const seedsTier4 = ['mysticalagriculture:cloggrum_seeds', 'mysticalagriculture:invar_seeds', 'mysticalagriculture:forgotten_seeds', 'mysticalagriculture:steel_seeds', 'mysticalagriculture:utherium_seeds', 'mysticalagriculture:froststeel_seeds', 'mysticalagriculture:lumium_seeds', 'mysticalagriculture:regalium_seeds', 'mysticalagriculture:blazing_crystal_seeds', 'mysticalagriculture:fluix_seeds', 'mysticalagriculture:experience_seeds', 'mysticalagriculture:energized_steel_seeds', 'mysticalagriculture:elementium_seeds', 'mysticalagriculture:electrum_seeds', 'mysticalagriculture:constantan_seeds', 'mysticalagriculture:compressed_iron_seeds', 'mysticalagriculture:rose_gold_seeds', 'mysticalagriculture:hop_graphite_seeds', 'mysticalagriculture:refined_glowstone_seeds', 'mysticalagriculture:desh_seeds', 'mysticalagriculture:manasteel_seeds', 'mysticalagriculture:refined_obsidian_seeds', 'mysticalagriculture:signalum_seeds'];
+  const seedsTier5 = ['mysticalagriculture:enderium_seeds', 'mysticalagriculture:spirited_crystal_seeds', 'mysticalagriculture:niotic_crystal_seeds', 'mysticalagriculture:ostrum_seeds', 'mysticalagriculture:terrasteel_seeds', 'mysticalagriculture:queens_slime_seeds', 'mysticalagriculture:netherite_seeds', 'mysticalagriculture:manyullyn_seeds', 'mysticalagriculture:hepatizon_seeds'];
+  const seedsTier6 = ['mysticalagriculture:nitro_crystal_seeds', 'mysticalagriculture:draconium_seeds', 'mysticalagriculture:awakened_draconium_seeds', 'mysticalagriculture:alfsteel_seeds', 'mysticalagriculture:calorite_seeds'];
+  const mysticalSoils = ['mysticalagriculture:inferium_farmland', 'mysticalagriculture:prudentium_farmland', 'mysticalagriculture:tertium_farmland', 'mysticalagriculture:imperium_farmland', 'mysticalagriculture:supremium_farmland', 'mysticalagradditions:insanium_farmland'];
+
 
   const plants = [
     {
@@ -370,5 +378,40 @@ onEvent('recipes', (event) => {
 
       event.recipes.immersiveengineeringCloche(recipe.outputs, recipe.input, recipe.soil, {type: recipe.type, block: recipe.block}).id(recipe.id);
     });
+  });
+
+  function convertSeedToEssence(seed) {
+      return seed.replace('_seeds', '_essence');
+  }
+
+  function convertSeedToCrop(seed) {
+      return seed.replace('_seeds', '_crop');
+  }
+
+  const allSeeds = [seedsTier1, seedsTier2, seedsTier3, seedsTier4, seedsTier5, seedsTier6];
+
+  allSeeds.forEach((seedTier, index) => {
+      seedTier.forEach(seed => {
+          let essence = convertSeedToEssence(seed);
+          let crop = convertSeedToCrop(seed);
+
+          let applicableSoils = mysticalSoils.slice(index);
+
+          applicableSoils.forEach((soil, soilIndex) => {
+              const id = `${essence}_${soil.replace(':', '_')}`;
+              const outputs = [{ item: essence, count: soilIndex + 1 }];
+
+              const recipe = {
+                  outputs: outputs,
+                  input: seed,
+                  soil: soil,
+                  type: 'crop',
+                  block: crop,
+                  id: id
+              };
+
+              event.recipes.immersiveengineeringCloche(recipe.outputs, recipe.input, recipe.soil, {type: recipe.type, block: recipe.block}).id(recipe.id);
+          });
+      });
   });
 });
