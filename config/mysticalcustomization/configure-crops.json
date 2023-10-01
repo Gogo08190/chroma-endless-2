@@ -27,7 +27,8 @@
     "tier": "mysticalagriculture:4"
   },
   "mysticalagriculture:draconium": {
-    "tier": "mysticalagradditions:6"
+    "tier": "mysticalagradditions:6",
+    "crux": "chroma:draconium_crux"
   },
   "mysticalcustomization:alfsteel": {
     "tier": "mysticalagradditions:6"

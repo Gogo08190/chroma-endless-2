@@ -14,5 +14,6 @@
     "crafting": false,
     "infusion": false,
     "reprocessor": false
-  }
+  },
+	"crux": "chroma:calorite_crux"
 }
