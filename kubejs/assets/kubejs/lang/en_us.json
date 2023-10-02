@@ -74,9 +74,49 @@
 
   "chapter.shop.title": "&lShop",
 
+  "chapter.shop.shipped.subtitle" : "Interior designer",
+
+  "chapter.shop.task.title" : "Task Screen",
+  "chapter.shop.task.subtitle": "Fluid Quest Input",
+  "chapter.shop.task.description": "Task screens are blocks that show quest objectives in the world. They can be bound to a single task and show information related to that task, some tasks require screens in order to allow for automation (energy based objectives for example). You can change the task that a screen is set to by sneak-right-clicking on the screen, this will open the screens settings GUI. You can also change their texture and make them unbreakable which can be useful in custom maps.",
+
+  "chapter.shop.relic.title" : "Random Relic",
+
+  "chapter.shop.artifact.title" : "Random Artifact",
+
+  "chapter.shop.angel.description": "This item doesn't yet allow you to fly. It's mainly used to create the real &6Angel Ring&r and the &9Steel Jetpack&r.",
+
+
   "Challenges" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.challenges.title": "&lChallenges",
+
+  "chapter.challenge.killing.title.1": "Kill 10 &6Withers&r",
+  "chapter.challenge.killing.title.2": "Kill 10 &5Ender-Dragons&r",
+  "chapter.challenge.killing.title.3": "Kill 100 &2Zombies&r",
+  "chapter.challenge.killing.title.4": "Kill 100 &8Skeletons&r",
+  "chapter.challenge.killing.title.5": "Kill 100 &4Spiders&r",
+  "chapter.challenge.killing.title.6": "Kill 100 &0Endermen&r",
+  "chapter.challenge.killing.title.7": "Kill 100 &bDrowned&r",
+  "chapter.challenge.killing.title.8": "Kill 100 &cCave Spiders&r",
+  "chapter.challenge.killing.title.9": "Kill 100 &1Magma Cubes&r",
+  "chapter.challenge.killing.title.10": "Kill 100 &eHusk&r",
+  "chapter.challenge.killing.title.11": "Kill 100 &gZombified Piglins&r",
+  "chapter.challenge.killing.title.12": "Kill 100 &0&lWither Skeletons&r",
+  "chapter.challenge.killing.title.13": "Kill 100 &2Creepers&r",
+  "chapter.challenge.killing.title.14": "Kill 100 &n&lGhasts&r",
+  "chapter.challenge.killing.title.15": "Kill 100 &aBlazes&r",
+  "chapter.challenge.killing.title.16": "Kill 100 &dWitches&r",
+  "chapter.challenge.killing.title.17": "Kill 100 &3Piglin&r",
+  "chapter.challenge.killing.title.18": "Kill 100 &5Guardians&r",
+
+  "chapter.challenge.fluid.title.1": "Get 1000 Buckets of Water",
+  "chapter.challenge.fluid.title.2": "Get 1000 Buckets of Kerosene",
+  "chapter.challenge.fluid.title.3": "Get 1000 Buckets of Diesel",
+  "chapter.challenge.fluid.title.4": "Get 1000 Buckets of Gasoline",
+  "chapter.challenge.fluid.title.5": "Get 1000 Buckets of LPG",
+  "chapter.challenge.fluid.title.6": "Get 1000 Buckets of Yeast Culture",
+  "chapter.challenge.fluid.title.7": "Get 1000 Buckets of Creosote",
 
   "Main Quests" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
