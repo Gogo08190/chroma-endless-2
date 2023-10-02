@@ -14,6 +14,8 @@ onEvent('recipes', (event) => {
       'thermal:invar_dust_3',
       'thermal:fire_charge/bronze_ingot_4',
       'thermal:bronze_dust_4',
+      'thermal:phytogro_2',
+      'thermal:phytogro_8'
     ];
 
     const outputRemovals = [

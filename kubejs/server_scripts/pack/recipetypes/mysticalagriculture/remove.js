@@ -5,7 +5,13 @@ onEvent('recipes', (event) => {
         'mysticalagriculture:imperium_block_combine',
         'mysticalagriculture:tertium_block_combine',
         'mysticalagriculture:prudentium_block_combine',
-        'mysticalagriculture:mystical_fertilizer'
+        'mysticalagriculture:mystical_fertilizer',
+        'mysticalagriculture:inferium_farmland_till',
+        'mysticalagriculture:prudentium_farmland_till',
+        'mysticalagriculture:tertium_farmland_till',
+        'mysticalagriculture:imperium_farmland_till',
+        'mysticalagriculture:supremium_farmland_till',
+        'mysticalagradditions:insanium_farmland_till'
     ];
 
     const outputRemovals = [

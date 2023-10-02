@@ -764,6 +764,16 @@ onEvent('recipes', (event) => {
             },
             id: 'thermal:augments/potion_duration_augment'
         },
+        {
+            output: 'thermal:phytosoil',
+            pattern: ['CPC', 'PDP', 'CPC'],
+            key: {
+                C: '#forge:dusts/charcoal',
+                P: 'thermal:phytogro',
+                D: 'farmersdelight:rich_soil'
+            },
+            id: 'thermal:phytosoil'
+        },
     ];
 
     recipes.forEach((recipe) => {
