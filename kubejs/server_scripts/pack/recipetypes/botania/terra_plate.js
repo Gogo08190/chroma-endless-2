@@ -110,6 +110,22 @@ onEvent('recipes', (event) => {
           mana: 5000,
           id: `${id_prefix}tertium_seed_base`
       },
+      {
+          inputs: [
+              { item: 'angelring:itemdiamondring' },
+              { item: 'botania:elementium_ingot' },
+              { item: 'botania:elementium_ingot' },
+              { item: 'botania:gaia_ingot' },
+              { item: 'botania:gaia_ingot' },
+              { item: 'botania:gaia_ingot' },
+              { item: 'botania:gaia_ingot' },
+              { item: 'botania:ender_air_bottle' },
+              { item: 'botania:ender_air_bottle' }
+          ],
+          output: Item.of('botania:flight_tiara', '{variant:0}'),
+          mana: 50000,
+          id: 'botania:flighttiara_0'
+      },
     ];
 
     recipes.forEach((recipe) => {
