@@ -233,5 +233,9 @@ const disabledItems = [
   'mysticalagradditions:neutronium_crux',
   'mysticalagradditions:gaia_spirit_crux',
   'mysticalagradditions:nether_star_crux',
-  'mysticalagradditions:dragon_egg_crux'
+  'mysticalagradditions:dragon_egg_crux',
+
+  'functionalstorage:fluid_1', 
+  'functionalstorage:fluid_2',
+  'functionalstorage:fluid_4'
 ];
