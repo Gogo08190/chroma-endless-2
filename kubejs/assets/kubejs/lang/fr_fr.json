@@ -2,9 +2,9 @@
   "recipes.lychee.item_inside.charoite.condition.description": "Se converti dans les environs de midi (3:20 - 6:40). S'annule si laissé trop longtemps...",
   "recipes.lychee.item_inside.moonstone.condition.description": "Se converti dans les environs de minuit (13:20 - 16:40). S'annule si laissé trop longtemps...",
 
+  "Introduction" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
   "chapter.welcome.title": "&lBienvenue",
-  "chapter.shop.title": "&lBoutique",
-  "chapter.challenges.title": "&lDéfis",
 
   "chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
@@ -69,6 +69,16 @@
   "chapter.welcome.quest.12.description.5": "&a&lExploration Sans Frontières :&r Partez à la découverte de nouveaux biomes, de dimensions inexplorées et de planètes lointaines. Rencontrez des créatures étonnantes et dénichez des trésors cachés réservés à ceux qui osent s'aventurer hors des sentiers battus.",
   "chapter.welcome.quest.12.description.6": "&e&lQuêtes Progressives :&r Pour guider vos aventures, un système de quêtes détaillé vous aidera à comprendre les intrications du modpack, offrant des défis à la fois pour les novices et les vétérans.",
   "chapter.welcome.quest.12.description.7": "Rejoignez l'aventure et découvrez un monde où les possibilités sont vraiment infinies. Chroma Endless 2 est plus qu'un simple modpack; c'est une histoire que vous écrivez, un défi que vous relevez et un mystère que vous révélez.",
+
+  "Boutique" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.shop.title": "&lBoutique",
+
+  "Défis" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.challenges.title": "&lDéfis",
+
+  "Quêtes principales" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.group.1" : "&e-- &l&6Avancement Principal&r &e--",
   "chapter.group.2" : "&e-- &l&6Quêtes Secondaires&r &e--",

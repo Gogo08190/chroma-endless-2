@@ -2,9 +2,9 @@
   "recipes.lychee.item_inside.moonstone.condition.description": "Converts around Midnight (13:20 - 16:40). Reverts if left out too long...",
   "recipes.lychee.item_inside.charoite.condition.description": "Converts around Noon (3:20 - 6:40). Reverts if left out too long...",
 
+  "Introduction" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
   "chapter.welcome.title": "&lWelcome",
-  "chapter.shop.title": "&lShop",
-  "chapter.challenges.title": "&lChallenges",
 
   "chapter.welcome.quest.1.title.1": "Get a server!",
   "chapter.welcome.quest.1.description.1": "BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use.",
@@ -69,6 +69,16 @@
   "chapter.welcome.quest.12.description.5": "&a&lBoundless Exploration:&r Venture into new biomes, uncharted dimensions, and distant planets. Encounter astonishing creatures and uncover hidden treasures reserved for those daring to stray off the beaten path.",
   "chapter.welcome.quest.12.description.6": "&e&lProgressive Quests:&r To aid your adventures, a detailed quest system will guide you through the intricacies of the modpack, offering challenges suited for both novices and veterans.",
   "chapter.welcome.quest.12.description.7": "Embark on an adventure and uncover a world where possibilities truly have no end. Chroma Endless 2 is more than just a modpack; it's a tale you weave, a challenge you tackle, and a mystery you unfold.",
+
+  "Shop" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.shop.title": "&lShop",
+
+  "Challenges" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.challenges.title": "&lChallenges",
+
+  "Main Quests" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.group.1" : "&e-- &l&6Main Progression&r &e--",
   "chapter.group.2" : "&e-- &l&6Secondary Quests&r &e--",
