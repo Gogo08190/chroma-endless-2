@@ -86,6 +86,12 @@
 
   "chapter.shop.angel.description": "This item doesn't yet allow you to fly. It's mainly used to create the real &6Angel Ring&r and the &9Steel Jetpack&r.",
 
+  "chapter.shop.create.choco.title.1" : "Craft 64 Bars of Chocolate",
+  "chapter.shop.create.choco.title.2" : "Craft 64 Chocolate Glazed Berries",
+  "chapter.shop.create.choco.title.3" : "Craft 64 Gingerbread Men",
+  "chapter.shop.create.choco.title.4" : "Craft 16 Builder's Teas",
+  "chapter.shop.create.choco.title.5" : "Craft 64 Honeyed Apples",
+  "chapter.shop.create.choco.title.6" : "Craft 64 Sweet Rolls",
 
   "Challenges" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
@@ -96,10 +102,10 @@
   "chapter.challenge.killing.title.3": "Kill 100 &2Zombies&r",
   "chapter.challenge.killing.title.4": "Kill 100 &8Skeletons&r",
   "chapter.challenge.killing.title.5": "Kill 50 &dShulkers&r",
-  "chapter.challenge.killing.title.6": "Kill 100 &0Endermen&r",
+  "chapter.challenge.killing.title.6": "Kill 100 &aEndermen&r",
   "chapter.challenge.killing.title.7": "Kill 100 &bDrowned&r",
   "chapter.challenge.killing.title.8": "Kill 100 &cCave Spiders&r",
-  "chapter.challenge.killing.title.9": "Kill 100 &1Magma Cubes&r",
+  "chapter.challenge.killing.title.9": "Kill 100 &1Magma-Cubes&r",
   "chapter.challenge.killing.title.10": "Kill 100 &cRotwalkers&r",
   "chapter.challenge.killing.title.11": "Kill 100 &dZombified Piglins&r",
   "chapter.challenge.killing.title.12": "Kill 100 &0&lWither Skeletons&r",
@@ -117,6 +123,11 @@
   "chapter.challenge.fluid.title.5": "Get 1000 Buckets of LPG",
   "chapter.challenge.fluid.title.6": "Get 1000 Buckets of Yeast Culture",
   "chapter.challenge.fluid.title.7": "Get 1000 Buckets of Creosote",
+
+  "Useful Items" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.useful.title.1": "Compact Machines",
+  "chapter.useful.title.2": "Building Gadgets",
 
   "Main Quests" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
