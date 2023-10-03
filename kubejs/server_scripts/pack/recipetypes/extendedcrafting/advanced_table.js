@@ -2049,4 +2049,154 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('industrialforegoing:supreme_black_hole_unit')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACCCA",
+        "BCDCB",
+        "ACCCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "B": {
+          "item": "draconicevolution:dragon_heart"
+        },
+        "C": {
+          "item": "draconicevolution:awakened_draconium_ingot"
+        },
+        "D": {
+          "item": "mysticalagradditions:insanium_farmland"
+        }
+      },
+      "result": {
+        "item": "mysticalagradditions:awakened_draconium_crux"
+      }
+    }
+  ).id('mysticalagradditions:awakened_draconium_crux')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACCCA",
+        "BCDCB",
+        "ACCCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "B": {
+          "item": "powah:capacitor_nitro"
+        },
+        "C": {
+          "item": "powah:crystal_nitro"
+        },
+        "D": {
+          "item": "mysticalagradditions:insanium_farmland"
+        }
+      },
+      "result": {
+        "item": "mysticalagradditions:nitro_crystal_crux"
+      }
+    }
+  ).id('mysticalagradditions:nitro_crystal_crux')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACCCA",
+        "BCDCB",
+        "ACCCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "B": {
+          "item": "mythicbotany:alfsteel_pylon"
+        },
+        "C": {
+          "item": "mythicbotany:alfsteel_ingot"
+        },
+        "D": {
+          "item": "mysticalagradditions:insanium_farmland"
+        }
+      },
+      "result": {
+        "item": "chroma:alfsteel_crux"
+      }
+    }
+  ).id(`${id_prefix}alfsteel_crux`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACCCA",
+        "BCDCB",
+        "ACCCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "B": {
+          "item": "beyond_earth:ice_shard"
+        },
+        "C": {
+          "item": "beyond_earth:calorite_ingot"
+        },
+        "D": {
+          "item": "mysticalagradditions:insanium_farmland"
+        }
+      },
+      "result": {
+        "item": "chroma:calorite_crux"
+      }
+    }
+  ).id(`${id_prefix}calorite_crux`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACCCA",
+        "BCDCB",
+        "ACCCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "B": {
+          "item": "draconicevolution:draconium_core"
+        },
+        "C": {
+          "item": "draconicevolution:draconium_ingot"
+        },
+        "D": {
+          "item": "mysticalagradditions:insanium_farmland"
+        }
+      },
+      "result": {
+        "item": "chroma:draconium_crux"
+      }
+    }
+  ).id(`${id_prefix}draconium_crux`)
 });
