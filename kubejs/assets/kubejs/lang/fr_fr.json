@@ -3433,7 +3433,61 @@
   "chapter.ae.quest.63.subtitle.1": "Attention à la Portée",
   "chapter.ae.quest.63.description.1": "Le composant suivant nécessaire pour permettre l'accès sans fil au réseau est le &bPoint d'Accès sans Fil ME&r. Ce point d'accès sert de passerelle pour l'accès au réseau ME à distance et est essentiel pour étendre la portée du réseau.",
 
+  "chapter.ae.quest.64.subtitle.1": "Ce qui compte vraiment",
+  "chapter.ae.quest.64.description.1": "En ce qui concerne l'expansion sans fil du réseau ME lui-même, la première étape est avouons-le quelque peu inhabituelle.",
+  "chapter.ae.quest.64.description.2": "Le &bCondensateur de Matière&r représente l'approche unique d'AE2 en matière de système d'élimination, éliminant efficacement tous les objets introduits. Cependant, avec l'intégration d'un &6Composant de Stockage&r, ce condensateur acquiert la capacité de capturer l'énergie résiduelle des objets jetés. Cette énergie stockée peut ensuite être utilisée pour créer deux objets artisanaux distincts en canalisant une quantité suffisante d'énergie concentrée.",
+  "chapter.ae.quest.64.description.3": "L'objet initial de ce duo est la &bBille de Matière&r, qui nécessite un composant de stockage de 1k au minimum et l'équivalent de 256 objets jetés en termes de matériau.",
 
+  "chapter.ae.quest.65.title": "Terminaux sans fil",
+  "chapter.ae.quest.65.subtitle.1": "Accès au stockage AE",
+  "chapter.ae.quest.65.description.1": "Le &bTerminal sans fil&r fonctionne de la même manière qu'un terminal standard, avec la commodité supplémentaire de la fonctionnalité sans fil. Un concept assez simple.",
+  "chapter.ae.quest.65.description.2": "Avant d'utiliser un terminal sans fil pour accéder au réseau, il est essentiel de &6relier&r initialement le terminal au réseau à l'aide du &6Terminal de Sécurité&r précédemment fabriqué. Dans les cas où le terminal n'a pas de lien avec le réseau, se trouve hors de portée du réseau ou manque d'énergie suffisante, le terminal restera non fonctionnel.",
+  "chapter.ae.quest.65.description.3": "Les terminaux sans fil peuvent également être améliorés en incorporant des &6Cartes d'Énergie&r, qui servent à augmenter leur capacité de batterie interne.",
+
+  "chapter.ae.quest.66.subtitle.1": "Portée Infinie !",
+  "chapter.ae.quest.66.description.1": "L'extension &dAEInfinityBooster&r introduit une paire d'amplificateurs sans fil spécialisés qui permettent une connectivité illimitée, ainsi que la possibilité de compatibilité inter-dimensionnelle si désirée.",
+
+  "chapter.ae.quest.67.subtitle.1": "Explosion de Singularité",
+  "chapter.ae.quest.67.description.1": "Lors de l'utilisation d'un composant de stockage d'une capacité de 64k ou plus, le Condensateur de Matière améliore considérablement sa capacité de condensation pour produire une &bSingularité&r. Pour créer une singularité, il faut éliminer pas moins de 256 000 objets. Cela équivaut précisément à &o4000 piles&r !",
+  "chapter.ae.quest.67.description.2": "Découvrez les résultats intrigants en jetant cette Singularité par terre aux côtés d'une pincée de &bPoussière d'Ender&r. Bien que ce processus puisse causer un peu d'agitation dans les environs, ne vous inquiétez pas ! AE2 prévoit judicieusement sa &bTiny TNT&r pour réduire au minimum les dommages collatéraux.",
+
+  "chapter.ae.quest.68.title": "L'Anneau Quantique",
+  "chapter.ae.quest.68.subtitle.1": "Application Interdimensionnelle",
+  "chapter.ae.quest.68.description.1": "Si vous avez réussi la quête précédente, vous aurez transformé la singularité en deux &bSingularités Quantiques Entrelacées&r. Ces singularités entrelacées servent de clé pour connecter les dispositifs en forme d'anneau appelés &6Ponts de Réseau Quantique&r.",
+  "chapter.ae.quest.68.description.2": "Lorsque deux de ces anneaux uniques sont connectés à l'aide des Singularités Quantiques Entrelacées et alimentés en énergie AE (comme celle d'une cellule d'énergie), ils permettent d'étendre sans fil un réseau ME. Ce pont permet une expansion sur de vastes distances ou même entre différentes dimensions.",
+
+  "chapter.ae.quest.69.subtitle.1": "Anneau Quantique Compact",
+
+  "chapter.ae.quest.70.subtitle.1": "Combinaison de toutes les presses",
+
+  "chapter.ae.quest.71.subtitle.1": "Un nouveau processeur",
+
+  "chapter.ae.quest.72.subtitle.1": "Amélioration de la Fabrication de Cristaux",
+  "chapter.ae.quest.72.description.1": "L'&bAgrégateur de Fluix&r facilite la fabrication en jeu en combinant des Accélérants de Croissance de Cristaux.",
+  "chapter.ae.quest.72.description.2": "Il permet d'accéder à des &6Fabrications de Cristaux&r en utilisant des matières premières et a des capacités de charge.",
+
+  "chapter.ae.quest.73.subtitle.1": "Inscriber Avancé",
+  "chapter.ae.quest.73.description.1": "Le &bGraveur de Circuits&r est essentiellement un &6Inscriber Avancé&r mais améliorable et plus rapide en utilisant des matières premières.",
+
+  "chapter.ae.quest.74.subtitle.1": "Demande d'objets",
+  "chapter.ae.quest.74.description.1": "Le &bDemandeur ME&r est un bloc essentiel pour un réseau ME en fonctionnement, conçu pour stocker jusqu'à 6 types d'objets différents. Sa configuration peut être consultée en faisant un clic droit, et toutes les informations nécessaires y sont fournies. Un conseil supplémentaire suggère de faire glisser et de déposer des objets spécifiques depuis la page JEI s'ils ne sont actuellement pas disponibles.",
+  "chapter.ae.quest.74.description.2": "En ce qui concerne les lots de demandes, tandis que le nombre de demandes spécifie la quantité de stock souhaitée, la taille du lot détermine le nombre d'objets demandés à chaque fois que le Demandeur lance un travail. Pour plus de clarté, considérez un exemple : si vous configurez le Demandeur avec des planches, un compte de 10 et une taille de lot de 20, si le stock tombe en dessous de 10, le Demandeur demandera 20 planches à la fois (et non pas 20 recettes). Après la fabrication, vous disposerez de 20 planches jusqu'à ce que le compte retombe en dessous de 10 pour la prochaine demande.",
+
+  "chapter.ae.quest.75.subtitle.1": "Récupération des Composants",
+  "chapter.ae.quest.75.description.1": "Le &bBroyeur d'Impulsion&r broie les ressources en leurs composants pour une utilisation ultérieure.",
+
+  "chapter.ae.quest.76.subtitle.1": "Fusiooooon !",
+  "chapter.ae.quest.76.description.1": "L'&bInfuseur de Matière&r fusionne les matériaux pour créer de nouvelles ressources.",
+
+  "chapter.ae.quest.77.subtitle.1": "Stockage de Structures Partie 1",
+  "chapter.ae.quest.77.description.1": "En plus de ses capacités de stockage d'objets et de liquides, AE2 offre également une méthode intégrée pour contenir des &6structures&r complètes à l'intérieur de cellules de stockage, rappelant la fonctionnalité vue dans le mod Compact Machines.",
+  "chapter.ae.quest.77.description.2": "Le &bPort IO Spatial&r facilite la capture de structures logées dans une &bStructure de Confinement Spatial&r, les stockant dans une cellule de stockage au design unique. L'activation de ce processus s'effectue à l'aide d'un signal de redstone.",
+  "chapter.ae.quest.77.description.3": "Si une créature ou un joueur se trouve à l'intérieur de la SCS pendant le processus de capture, il sera également transporté vers la même destination que le reste de l'espace clos, généralement une dimension dédiée. Il est essentiel de s'assurer qu'il existe un moyen de revenir à l'emplacement d'origine si vous êtes celui qui a été capturé accidentellement.",
+
+  "chapter.ae.quest.78.subtitle.1": "Stockage de Structures Partie 2",
+  "chapter.ae.quest.78.description.1": "La Structure de Confinement Spatial (SCS) est composée d'une cage formée par des &bPylônes Spatiaux&r, enveloppant le volume souhaité destiné à la confinement à l'intérieur d'une cellule IO spatiale. Dans sa configuration la plus basique, une SCS nécessite trois rangées de blocs de pylônes spatiaux, chacune correspondant à une dimension de l'espace clos (longueur, largeur, hauteur).",
+  "chapter.ae.quest.78.description.2": "Cependant, l'IO spatial constitue une capacité gourmande en énergie, notamment lorsqu'il s'agit d'encapsuler des espaces plus importants (jusqu'à 128x128x128). L'incorporation de pylônes spatiaux supplémentaires à l'intérieur de la SCS enveloppant le volume ciblé améliorera son efficacité globale, lui permettant d'effectuer une capture avec une consommation d'énergie réduite.",
+  "chapter.ae.quest.78.description.3": "De plus, il est important de garder à l'esprit que chaque pylône individuel, quelle que soit sa dimension, consomme un canal. Dans les scénarios impliquant des espaces particulièrement vastes, il peut être judicieux de mettre en place un réseau dédié équipé d'un contrôleur pour accommoder tous les pylônes nécessaires.",
 
   "chapter.ae.quest.79.title" : "Processeurs d'Inscription",
   "chapter.ae.quest.79.subtitle.1": "Création du Traitement",
@@ -3588,6 +3642,11 @@
   "chapter.bs.quest.37.description.2": "Naviguez à travers le labyrinthe complexe de la structure pour collecter des Clés de Donjon de la Nature, essentielles pour déverrouiller le combat de boss. Préparez-vous à vous engager dans la bataille et à abattre l'adversaire redoutable !",
   "chapter.bs.quest.37.description.3": "Remarque : Si vous avez du mal à localiser toutes les clés, vous avez la possibilité de commercer avec le Gardien de la Porte. Cependant, cette option n'est disponible qu'après avoir cliqué avec le bouton droit sur la porte pour initier le combat de boss.",
 
+  "chapter.bs.quest.38.subtitle.1": "Drops from the Starlit Crusher's Loot Bag",
+  "chapter.bs.quest.38.description.1": "Increases max hearts.",
+
+  "chapter.bs.quest.39.subtitle.1": "Drops from the Starlit Crusher's Loot Bag",
+
   "Evil Craft":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.evil.title": "Artisanat Maléfique",
@@ -3734,71 +3793,44 @@
 
   "chapter.evil.quest.34.subtitle.1": "Plus besoin de Temple",
   "chapter.evil.quest.34.description.1": "Avec de la &dGarmonbozia&r en main, nous n'aurons plus besoin de temples pour créer des &aAccumulateurs Environnementaux&r.",
-  "chapter.evil.quest.34.description.2": "L'&aAccumulateur Environnemental&r sera désormais essentiel pour notre progression dans EvilCraft.",
-  "chapter.evil.quest.34.description.3": "Les &aAccumulateurs Environnementaux&r peuvent également être améliorés avec des &6Promesses&r pour augmenter leur efficacité et leur capacité.",
 
-  "chapter.evil.quest.35.title": "L'âme des machines",
-  "chapter.evil.quest.35.subtitle.1": "Alimentation automatique",
-  "chapter.evil.quest.35.description.1": "En utilisant des &dNoyaux d'Infusion de Sang&r dans l'Infuseur de Sang, vous pouvez augmenter la capacité de stockage de &dSang&r et automatiser le processus de collecte de &dSang&r.",
-  "chapter.evil.quest.35.description.2": "Cela facilite la production de &cPièces de Balais&r, d'&aAccumulateurs Environnementaux&r et bien d'autres objets dans EvilCraft.",
+  "chapter.evil.quest.35.subtitle.1": "Cannibale",
+  "chapter.evil.quest.35.description.1": "Cet item est un drop de &aJoueur&r distinctif, vous l'obtenez aussi si vous mourrez.",
+  "chapter.evil.quest.35.description.2": "Vous &opourriez&r aussi l'obtenir lors de morts répétitives comme en PvP. C'est essentiellement la même approche!",
 
-  "chapter.evil.quest.36.subtitle.1": "Façonneur de Monstres",
-  "chapter.evil.quest.36.description.1": "Avec de l'&dEssence Maléfique&r en main, vous pouvez créer un &cFaçonneur de Monstres&r.",
-  "chapter.evil.quest.36.description.2": "Le &cFaçonneur de Monstres&r vous permet de fusionner des &cMonstres&r pour en créer de nouveaux avec des compétences améliorées. Utilisez-le pour créer des serviteurs plus puissants !",
+  "chapter.evil.quest.36.subtitle.1": "Chasseur de Loups-Garous",
+  "chapter.evil.quest.36.description.1": "Au sein des villages, vous rencontrerez des villageois &ointéressants&r qui se révèlent être des &dLoups-Garous&r.",
+  "chapter.evil.quest.36.description.2": "Vaincre ces créatures vous rapportera de la &dChair de Loup-Garou&r.",
 
-  "chapter.evil.quest.37.subtitle.1": "Essence Maléfique",
-  "chapter.evil.quest.37.description.1": "L'&dEssence Maléfique&r est une substance rare qui se forme naturellement dans les &9Biomes Maléfiques&r. Elle peut également être extraite à partir de &9Taches de Sang&r.",
-  "chapter.evil.quest.37.description.2": "L'&dEssence Maléfique&r est essentielle pour la fabrication de nombreux objets et machines puissants d'EvilCraft.",
+  "chapter.evil.quest.37.subtitle.1": "Maître Cuisinier",
+  "chapter.evil.quest.37.description.1": "En utilisant la chair des &aJoueurs&r ou des &dLoups-Garous&r, vous avez la capacité de créer une &aSource Infinie de Nourriture&r grâce à la puissance de la Garmonbozia !",
 
-  "chapter.evil.quest.38.subtitle.1": "Récolte de l'Essence",
-  "chapter.evil.quest.38.description.1": "Pour récolter de l'&dEssence Maléfique&r, équipez-vous du &cBâton d'Essence&r et pointez-le vers une &9Tache de Sang&r.",
-  "chapter.evil.quest.38.description.2": "L'&dEssence Maléfique&r collectée est stockée dans le bâton et peut être transférée dans d'autres objets et machines EvilCraft.",
+  "chapter.evil.quest.38.subtitle.1": "Supprime les Effets de Potions Négatives",
 
-  "chapter.evil.quest.39.subtitle.1": "Manipulation d'Esprits",
-  "chapter.evil.quest.39.description.1": "Pour manipuler les &dEsprits&r, nous aurons besoin d'une machine connue sous le nom de &cCage à Esprits&r.",
-  "chapter.evil.quest.39.description.2": "La &cCage à Esprits&r nous permettra de faire apparaître et de contrôler les &dEsprits&r à notre guise. Cela peut être extrêmement utile pour l'obtention de leurs précieuses &dEssences&r.",
-  "chapter.evil.quest.39.description.3": "Pour faire fonctionner la &cCage à Esprits&r, équipez-vous du &9Bâton de Domination&r et pointez-le sur la cage. L'&dEsprit&r que vous contrôlez apparaîtra dans la cage.",
+  "chapter.evil.quest.39.subtitle.1": "Arme de Destruction Massive",
+  "chapter.evil.quest.39.description.1": "Elle fonctionne de manière similaire à la &aMassue de Distorsion&r, avec la distinction qu'elle déclenche une explosion à aire d'effet à la place.",
 
-  "chapter.evil.quest.40.subtitle.1": "Noyau d'Infusion de Sang de Qualité",
-  "chapter.evil.quest.40.description.1": "Pour améliorer encore notre &cInfuseur de Sang&r, nous pouvons créer des &9Noyaux d'Infusion de Sang de Qualité&r.",
-  "chapter.evil.quest.40.description.2": "Ces noyaux permettent une production plus efficace et peuvent être utilisés pour des recettes plus avancées d'EvilCraft.",
+  "chapter.evil.quest.40.subtitle.1": "Attaque de Sang",
+  "chapter.evil.quest.40.description.1": "Appuyer et maintenir le bouton droit de la souris chargera la Massue pour une attaque à aire d'effet utilisant du &cSang&r. En effectuant un clic droit tout en étant accroupi, vous pouvez ajuster le niveau de puissance. Un niveau de puissance plus élevé inflige plus de dégâts au détriment de plus de Sang.",
 
-  "chapter.evil.quest.41.subtitle.1": "Destruction Ciblée",
-  "chapter.evil.quest.41.description.1": "Le &dFaisceau Maléfique&r est un outil puissant qui permet de détruire des blocs de manière ciblée et précise. Utilisez-le avec précaution, car il peut également provoquer des catastrophes !",
+  "chapter.evil.quest.41.subtitle.1": "Salud !",
+  "chapter.evil.quest.41.description.1": "La &6Coupe Entrelacée&r est semblable à un Tank Ender.",
+  "chapter.evil.quest.41.description.2": "Une fois située dans le monde, la &9Pompe de Sang&r peut infuser du Sang. Lorsqu'elle est activée dans votre inventaire, elle s'efforcera de reconstituer les objets qui dépendent du &cSang&r en tant que ressource.",
+  "chapter.evil.quest.41.description.3": "Si vous souhaitez produire des Coupes supplémentaires en utilisant le même réseau, utilisez la recette d'artisanat qui utilise une Coupe à la place d'un lingot d'or.",
 
-  "chapter.evil.quest.42.subtitle.1": "Essence Supérieure",
-  "chapter.evil.quest.42.description.1": "L'&dEssence Supérieure&r est une ressource rare qui peut être extraite des &9Arbres Corrompus&r. Elle est essentielle pour la fabrication de nombreux objets et machines d'EvilCraft.",
+  "chapter.evil.quest.42.subtitle.1": "Une Perle d'Ender Réutilisable",
 
-  "chapter.evil.quest.43.subtitle.1": "Production d'Essence",
-  "chapter.evil.quest.43.description.1": "L'&dEssence Supérieure&r peut être extraite des &9Arbres Corrompus&r en utilisant un &cBâton d'Essence&r. Pointez le bâton vers un arbre corrompu et collectez l'essence produite.",
-  "chapter.evil.quest.43.description.2": "L'&dEssence Supérieure&r est stockée dans le bâton et peut être transférée dans d'autres objets et machines d'EvilCraft.",
+  "chapter.evil.quest.43.subtitle.1": "Invoque des Zombies",
 
-  "chapter.evil.quest.44.subtitle.1": "Transformation d'Esprits",
-  "chapter.evil.quest.44.description.1": "Le &9Fusor de Monstres&r est une machine puissante qui permet de fusionner des &dEsprits&r pour en créer de nouveaux avec des compétences améliorées.",
-  "chapter.evil.quest.44.description.2": "Utilisez le &9Fusor de Monstres&r pour créer des serviteurs plus puissants et dominer le monde d'EvilCraft !",
+  "chapter.evil.quest.44.subtitle.1": "Applique des Effets de Potions",
+  "chapter.evil.quest.44.description.1": "Pour placer la potion désirée, il vous suffit de faire un clic droit tout en maintenant l'&2Pendentif Amorcé&r pour ouvrir son inventaire.",
 
-  "chapter.evil.quest.45.subtitle.1": "Récolte d'Essence Supérieure",
-  "chapter.evil.quest.45.description.1": "Pour récolter de l'&dEssence Supérieure&r, équipez-vous du &cBâton d'Essence Supérieure&r et pointez-le vers un &9Arbre Corrompu&r.",
-  "chapter.evil.quest.45.description.2": "L'&dEssence Supérieure&r collectée est stockée dans le bâton et peut être transférée dans d'autres objets et machines EvilCraft.",
+  "chapter.evil.quest.45.subtitle.1": "Sceptre de Foudre à Usage Unique",
 
-  "chapter.evil.quest.46.subtitle.1": "Cristal de L'Infusion",
-  "chapter.evil.quest.46.description.1": "Le &cCristal de l'Infusion&r est une source d'&dÉnergie&r qui peut être utilisée pour alimenter diverses machines et objets d'EvilCraft.",
-  "chapter.evil.quest.46.description.2": "Pour produire un &cCristal de l'Infusion&r, vous aurez besoin d'une &9Essence Maléfique&r et d'un &9Foyer des Esprits&r.",
-  "chapter.evil.quest.46.description.3": "Le &cCristal de l'Infusion&r peut également être amélioré avec des &6Promesses&r pour augmenter son efficacité.",
+  "chapter.evil.quest.46.subtitle.1": "Magnéto",
+  "chapter.evil.quest.46.description.1": "Le &9Kinéticateur&r fonctionne comme un aimant, attirant les objets et l'expérience vers vous.",
+  "chapter.evil.quest.46.description.2": "En revanche, le &eKinéticateur Inverse&r aura l'effet inverse, repoussant les objets et l'expérience loin de vous.",
 
-  "chapter.evil.quest.47.subtitle.1": "Promesse de Niveau 3",
-
-  "chapter.evil.quest.48.subtitle.1": "Transformation Avancée d'Esprits",
-  "chapter.evil.quest.48.description.1": "Le &9Métafusor de Monstres&r est une version améliorée du Fusor de Monstres. Il permet de fusionner des &dEsprits&r pour en créer de nouveaux avec des compétences encore plus puissantes.",
-  "chapter.evil.quest.48.description.2": "Utilisez le &9Métafusor de Monstres&r pour créer des serviteurs extrêmement puissants et devenir le maître d'EvilCraft !",
-
-  "chapter.evil.quest.49.subtitle.1": "Chasse à l'Essence Supérieure",
-  "chapter.evil.quest.49.description.1": "Pour chasser l'&dEssence Supérieure&r, équipez-vous du &cBâton de Chasse à l'Essence Supérieure&r. Pointez le bâton vers un &9Arbre Corrompu&r et collectez l'essence produite.",
-  "chapter.evil.quest.49.description.2": "L'&dEssence Supérieure&r collectée est stockée dans le bâton et peut être transférée dans d'autres objets et machines EvilCraft.",
-
-  "chapter.evil.quest.50.subtitle.1": "La Faucheuse",
-  "chapter.evil.quest.50.description.1": "L'&dÉpée de la Faucheuse&r est une arme légendaire d'EvilCraft. Elle peut dévaster des hordes entières d'ennemis avec un seul coup.",
-  "chapter.evil.quest.50.description.2": "Pour fabriquer l'&dÉpée de la Faucheuse&r, vous aurez besoin d'une &cGrande Âme Sombre&r, d'un &cCristal de l'Infusion&r et d'autres composants spéciaux. Une fois créée, cette arme redoutable sera vôtre pour conquérir le monde d'EvilCraft !",
 
   "Mana And Artifice":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
