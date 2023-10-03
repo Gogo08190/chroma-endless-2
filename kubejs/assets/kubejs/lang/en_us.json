@@ -148,7 +148,33 @@
   "chapter.useful.title.1": "Compact Machines",
   "chapter.useful.title.2": "Building Gadgets",
 
-  "chapter.useful.torch.subtitle" : "Preventing Mob Spawns",
+  "chapter.useful.torch.subtitle": "Preventing Mob Spawns",
+  "chapter.useful.torch.description.1": "・Prevents natural spawning of hostile monsters in a big radius (32 blocks) around the torch.",
+  "chapter.useful.torch.description.2": "・Mega Torch also prevents the death of monsters inside its radius. Monsters outside the Mega Torch can still enter its area of effects",
+
+  "chapter.useful.quest.1.subtitle": "Giant or Small?",
+  "chapter.useful.quest.1.description": "Shift-right clicking this item will cause your player to shrink down or up.The Personal Shrinking Device requires power for any RF/Forge Energy source.Shrinking to a smaller size allows the player to access places that they could normally not access without breaking blocks.",
+
+  "chapter.useful.quest.2.subtitle": "Dimension in a Block",
+  "chapter.useful.quest.2.description": "These are the main component of this mod and they allow you to build complicated machine contraptions and hide them within a single Compact Machine block.",
+
+  "chapter.useful.quest.3.subtitle": "Easy Building",
+  "chapter.useful.quest.3.description": "With a Construction Wand you can place multiple blocks (up to 1024) at once, extending your build on the side you're facing. If you made a mistake don't worry use snealk + control.",
+
+  "chapter.useful.quest.4.subtitle": "Pro Builder",
+  "chapter.useful.quest.4.description": "Sometimes, building large structures can be a little tedious, and take a lot of effort. Not all of us a great builders you know! Dire's Building Gadgets aims to make building a little bit easier.",
+
+  "chapter.useful.quest.5.subtitle": "Through the sands of Time",
+  "chapter.useful.quest.5.description": "The time bottle is an unique item that allows you to accelerate the rate at which certain blocks tick, causing them to speed up. The bottle passively collects time while in your inventory. When you have collected enough time, you can use it to speed blocks up. To use the stored time, shift right click a block.",
+
+  "chapter.useful.quest.6.subtitle": "Energy Calculation",
+  "chapter.useful.quest.6.description": "A simple block that you can use for measuring energy transfer rates. It has a screen always displaying the current rate in order to keep you up-to-date.",
+
+  "chapter.useful.quest.7.subtitle": "Biome Finder",
+  "chapter.useful.quest.7.description": "Find any Biomes available in the game, be sure to check if the biome is in the Overworld.",
+
+  "chapter.useful.quest.8.subtitle": "Structure Finder",
+  "chapter.useful.quest.8.description": "Locate any Specific Structure available in the game, be sure to check if the structure is in the Overworld.",
 
   "Main Quests" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
