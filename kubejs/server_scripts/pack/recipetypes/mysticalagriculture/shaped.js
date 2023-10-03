@@ -3,7 +3,7 @@ onEvent('recipes', (event) => {
     const recipes = [
         {
             output: 'mysticalagriculture:inferium_farmland',
-            pattern: ['FEF', 'FDF', 'FEF'],
+            pattern: ['FEF', 'EDE', 'FEF'],
             key: {
                 F: 'mysticalagriculture:mystical_fertilizer',
                 E: 'mysticalagriculture:inferium_essence',
@@ -13,7 +13,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mysticalagriculture:prudentium_farmland',
-            pattern: ['FEF', 'FDF', 'FEF'],
+            pattern: ['FEF', 'EDE', 'FEF'],
             key: {
                 F: 'mysticalagriculture:mystical_fertilizer',
                 E: 'mysticalagriculture:prudentium_essence',
@@ -23,7 +23,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mysticalagriculture:tertium_farmland',
-            pattern: ['FEF', 'FDF', 'FEF'],
+            pattern: ['FEF', 'EDE', 'FEF'],
             key: {
                 F: 'mysticalagriculture:mystical_fertilizer',
                 E: 'mysticalagriculture:tertium_essence',
@@ -33,7 +33,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mysticalagriculture:imperium_farmland',
-            pattern: ['FEF', 'FDF', 'FEF'],
+            pattern: ['FEF', 'EDE', 'FEF'],
             key: {
                 F: 'mysticalagriculture:mystical_fertilizer',
                 E: 'mysticalagriculture:imperium_essence',
@@ -43,7 +43,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mysticalagriculture:supremium_farmland',
-            pattern: ['FEF', 'FDF', 'FEF'],
+            pattern: ['FEF', 'EDE', 'FEF'],
             key: {
                 F: 'mysticalagriculture:mystical_fertilizer',
                 E: 'mysticalagriculture:supremium_essence',
@@ -53,7 +53,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'mysticalagradditions:insanium_farmland',
-            pattern: ['FEF', 'FDF', 'FEF'],
+            pattern: ['FEF', 'EDE', 'FEF'],
             key: {
                 F: 'mysticalagriculture:mystical_fertilizer',
                 E: 'mysticalagradditions:insanium_essence',
@@ -63,7 +63,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: Item.of('mysticalagriculture:mystical_fertilizer', 4),
-            pattern: ['FEF', 'FDF', 'FEF'],
+            pattern: ['FEF', 'EDE', 'FEF'],
             key: {
                 F: 'industrialforegoing:fertilizer',
                 E: 'mysticalagriculture:fertilized_essence',
