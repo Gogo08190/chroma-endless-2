@@ -148,6 +148,32 @@
   "chapter.useful.title.2": "Des Gadgets pour constuire",
 
   "chapter.useful.torch.subtitle" : "Empêcher le Spawn de Mobs",
+  "chapter.useful.torch.description.1": "・Empêche l'apparition naturelle de monstres hostiles dans un grand rayon (32 blocs) autour de la torche.",
+  "chapter.useful.torch.description.2": "・La Mega Torche empêche également la mort des monstres à l'intérieur de son rayon. Les monstres à l'extérieur de la Mega Torche peuvent toujours entrer dans sa zone d'effet.",
+
+  "chapter.useful.quest.1.subtitle": "Géant ou Petit ?",
+  "chapter.useful.quest.1.description": "En cliquant avec le bouton droit de la souris tout en maintenant la touche Maj enfoncée, cet objet fera rétrécir ou grandir votre personnage. Le Dispositif de Réduction Personnel nécessite de l'énergie RF/Forge pour fonctionner. Rétrécir permet au joueur d'accéder à des endroits qu'il ne pourrait normalement pas atteindre sans casser des blocs.",
+
+  "chapter.useful.quest.2.subtitle": "Dimension dans un Bloc",
+  "chapter.useful.quest.2.description": "Ce sont les composants principaux de ce mod et ils vous permettent de construire des mécanismes de machines complexes et de les dissimuler à l'intérieur d'un seul bloc Compact Machine.",
+
+  "chapter.useful.quest.3.subtitle": "Construction Facile",
+  "chapter.useful.quest.3.description": "Avec une Baguette de Construction, vous pouvez placer plusieurs blocs (jusqu'à 1024) en une seule fois, en étendant votre construction du côté que vous regardez. Si vous faites une erreur, ne vous inquiétez pas, utilisez la combinaison de touches Shift + Ctrl.",
+
+  "chapter.useful.quest.4.subtitle": "Pro du Bâtiment",
+  "chapter.useful.quest.4.description": "Parfois, la construction de grandes structures peut être un peu fastidieuse et demander beaucoup d'efforts. Nous ne sommes pas tous de grands constructeurs, vous savez ! L'outil de construction de Dire vise à rendre la construction un peu plus facile.",
+
+  "chapter.useful.quest.5.subtitle": "À travers les sables du temps",
+  "chapter.useful.quest.5.description": "La bouteille de temps est un objet unique qui vous permet d'accélérer le rythme auquel certains blocs évoluent, les faisant fonctionner plus rapidement. La bouteille collecte passivement du temps tant qu'elle est dans votre inventaire. Lorsque vous avez collecté suffisamment de temps, vous pouvez l'utiliser pour accélérer les blocs. Pour utiliser le temps stocké, faites un clic droit en maintenant la touche Maj enfoncée sur un bloc.",
+
+  "chapter.useful.quest.6.subtitle": "Calcul d'Énergie",
+  "chapter.useful.quest.6.description": "Un bloc simple que vous pouvez utiliser pour mesurer les taux de transfert d'énergie. Il affiche en permanence le taux actuel pour vous tenir informé.",
+
+  "chapter.useful.quest.7.subtitle": "Recherche de Biome",
+  "chapter.useful.quest.7.description": "Trouvez tous les biomes disponibles dans le jeu, assurez-vous de vérifier si le biome est dans l'Overworld.",
+
+  "chapter.useful.quest.8.subtitle": "Recherche de Structure",
+  "chapter.useful.quest.8.description": "Localisez n'importe quelle structure spécifique disponible dans le jeu, assurez-vous de vérifier si la structure est dans l'Overworld.",
 
   "Quêtes principales" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
