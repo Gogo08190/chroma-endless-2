@@ -74,9 +74,80 @@
 
   "chapter.shop.title": "&lBoutique",
 
+  "chapter.shop.shipped.subtitle" : "Décorateur d'intérieur",
+
+  "chapter.shop.task.title" : "Ecran de Tâche",
+  "chapter.shop.task.subtitle": "Entrée de fluide",
+  "chapter.shop.task.description": "Les écrans de tâches sont des blocs qui montrent les objectifs de quête dans le monde. Ils peuvent être liés à une seule tâche et afficher des informations liées à cette tâche, certaines tâches nécessitent des écrans afin de permettre l’automatisation (objectifs basés sur l’énergie par exemple). Vous pouvez modifier la tâche à laquelle un écran est défini en cliquant furtivement avec le bouton droit sur l’écran, cela ouvrira l’interface graphique des paramètres des écrans. Vous pouvez également modifier leur texture et les rendre incassables, ce qui peut être utile dans les cartes personnalisées.",
+
+  "chapter.shop.relic.title" : "Relique Aléatoire",
+
+  "chapter.shop.artifact.title" : "Artéfact Aléatoire",
+
+  "chapter.shop.angel.description": "Cet item ne vous permet pas encore de voler. Il est principalement utilisé pour créer le vrai &6Angel Ring&r et le &9Steel Jetpack&r.",
+
+  "chapter.shop.create.choco.title. 1" : "Fabriquer 64 barres de chocolat",
+  "chapter.shop.create.choco.title. 2" : "Fabriquer 64 baies glacées au chocolat",
+  "chapter.shop.create.choco.title. 3" : "Fabriquer 64 Bonhommes en Pain d'épice",
+  "chapter.shop.create.choco.title. 4" : "Fabriquer 16 thés du constructeur",
+  "chapter.shop.create.choco.title. 5" : "Fabriquer 64 pommes miellées",
+  "chapter.shop.create.choco.title. 6" : "Fabriquer 64 Rouleaux Sucrés",
+
+  "chapter.shop.killing.title.1": "Tuez 10 &6Withers&r",
+  "chapter.shop.killing.title.2": "Tuez 10 &5Ender-Dragons&r",
+  "chapter.shop.killing.title.3": "Tuez 100 &2Zombies&r",
+  "chapter.shop.killing.title.4": "Tuez 100 &8Skeletons&r",
+  "chapter.shop.killing.title.5": "Tuez 50 &dShulkers&r",
+  "chapter.shop.killing.title.6": "Tuez 100 &aEndermen&r",
+  "chapter.shop.killing.title.7": "Tuez 100 &bDrowned&r",
+  "chapter.shop.killing.title.8": "Tuez 100 &cCave Spiders&r",
+  "chapter.shop.killing.title.9": "Tuez 100 &1Magma-Cubes&r",
+  "chapter.shop.killing.title.10": "Tuez 100 &cRotwalkers&r",
+  "chapter.shop.killing.title.11": "Tuez 100 &dZombified Piglins&r",
+  "chapter.shop.killing.title.12": "Tuez 100 &0&lWither Skeletons&r",
+  "chapter.shop.killing.title.13": "Tuez 100 &2Creepers&r",
+  "chapter.shop.killing.title.14": "Tuez 100 &n&lGhasts&r",
+  "chapter.shop.killing.title.15": "Tuez 100 &aBlazes&r",
+  "chapter.shop.killing.title.16": "Tuez 100 &dWitches&r",
+  "chapter.shop.killing.title.17": "Tuez 50 &2Phantoms&r",
+  "chapter.shop.killing.title.18": "Tuez 100 &5Guardians&r",
+
+  "chapter.shop.fluid.title.1": "Avoir 1000 Seaux d'Eau",
+  "chapter.shop.fluid.title.2": "Avoir 1000 Seaux de Kerosene",
+  "chapter.shop.fluid.title.3": "Avoir 1000 Seaux de Diesel",
+  "chapter.shop.fluid.title.4": "Avoir 1000 Seaux de Gasoline",
+  "chapter.shop.fluid.title.5": "Avoir 1000 Seaux de LPG",
+  "chapter.shop.fluid.title.6": "Avoir 1000 Seaux de Yeast Culture",
+  "chapter.shop.fluid.title.7": "Avoir 1000 Seaux de Creosote",
+
   "Défis" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.challenges.title": "&lDéfis",
+
+  "chapter.challenges.title.bis": "Tuez 1.000.000 Mobs",
+
+  "chapter.challenges.pickaxe": "Creuser le Monde avec La Terra Shelter Rang SS",
+
+  "chapter.challenges.love": "Accoupler 1500 Animaux",
+
+  "chapter.challenges.applied": "Ajoutez 100K Items dans votre ME Storage System",
+
+  "chapter.challenges.trade": "Echanger avec 1000 Villagers",
+
+  "chapter.challenges.xp": "Avoir 3000 niveaux d'XP ",
+
+  "chapter.challenges.enchant": "&5Enchanter&r 5000 Items",
+
+  "chapter.challenge.killing.wither": "Tuez 100 &6Withers&r",
+
+  "chapter.challenge.potato": "Carresser 1000 Tiny Potatoes",
+
+  "Items Utiles" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.useful.title.1": "Machines Compactes",
+  "chapter.useful.title.2": "Des Gadgets pour constuire",
+
+  "chapter.useful.torch.subtitle" : "Empêcher le Spawn de Mobs",
 
   "Quêtes principales" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
