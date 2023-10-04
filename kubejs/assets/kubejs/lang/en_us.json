@@ -144,6 +144,8 @@
 
   "Useful Items" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+  "useful.title" : "&lUseful Items",
+
   "chapter.useful.title.1": "Compact Machines",
   "chapter.useful.title.2": "Building Gadgets",
 
@@ -162,6 +164,7 @@
 
   "chapter.useful.quest.4.subtitle": "Pro Builder",
   "chapter.useful.quest.4.description": "Sometimes, building large structures can be a little tedious, and take a lot of effort. Not all of us a great builders you know! Dire's Building Gadgets aims to make building a little bit easier.",
+  "chapter.useful.quest.4.description.2": "&4Be careful !&r The Destruction Gadget voids the destroyed blocks!",
 
   "chapter.useful.quest.5.subtitle": "Through the sands of Time",
   "chapter.useful.quest.5.description": "The time bottle is an unique item that allows you to accelerate the rate at which certain blocks tick, causing them to speed up. The bottle passively collects time while in your inventory. When you have collected enough time, you can use it to speed blocks up. To use the stored time, shift right click a block.",
@@ -1931,6 +1934,10 @@
 
   "chapter.stage.7.quest.49.subtitle.1": "Chaos Fabrication Part 2",
   "chapter.stage.7.quest.49.description.1": "Thanks to the Chaos Guardian prediction get some Chaos Hearts.",
+
+  "The Final Step":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.final.title": "The Final Step",
 
   "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
