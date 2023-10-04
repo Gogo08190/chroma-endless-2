@@ -144,6 +144,8 @@
 
   "Items Utiles" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
+  "useful.title" : "&lItems Utiles",
+
   "chapter.useful.title.1": "Machines Compactes",
   "chapter.useful.title.2": "Des Gadgets pour constuire",
 
@@ -1931,6 +1933,10 @@
 
   "chapter.stage.7.quest.49.subtitle.1": "Fabrication du Chaos Partie 2",
   "chapter.stage.7.quest.49.description.1": "Grâce à la prédiction du Chaos Guardian, obtenez quelques Chaos Hearts.",
+
+  "The Final Step":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.final.title": "La Dernière Etape",
 
   "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
