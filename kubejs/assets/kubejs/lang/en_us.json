@@ -77,7 +77,7 @@
   "chapter.shop.shipped.subtitle" : "Interior designer",
 
   "chapter.shop.task.title" : "Task Screen",
-  "chapter.shop.task.subtitle": "Fluid Quest Input",
+  "chapter.shop.task.subtitle": "Automatic Quest Input",
   "chapter.shop.task.description": "Task screens are blocks that show quest objectives in the world. They can be bound to a single task and show information related to that task, some tasks require screens in order to allow for automation (energy based objectives for example). You can change the task that a screen is set to by sneak-right-clicking on the screen, this will open the screens settings GUI. You can also change their texture and make them unbreakable which can be useful in custom maps.",
 
   "chapter.shop.relic.title" : "Random Relic",

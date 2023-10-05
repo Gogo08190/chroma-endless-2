@@ -77,7 +77,7 @@
   "chapter.shop.shipped.subtitle" : "Décorateur d'intérieur",
 
   "chapter.shop.task.title" : "Ecran de Tâche",
-  "chapter.shop.task.subtitle": "Entrée de fluide",
+  "chapter.shop.task.subtitle": "Automatisation des quêtes",
   "chapter.shop.task.description": "Les écrans de tâches sont des blocs qui montrent les objectifs de quête dans le monde. Ils peuvent être liés à une seule tâche et afficher des informations liées à cette tâche, certaines tâches nécessitent des écrans afin de permettre l’automatisation (objectifs basés sur l’énergie par exemple). Vous pouvez modifier la tâche à laquelle un écran est défini en cliquant furtivement avec le bouton droit sur l’écran, cela ouvrira l’interface graphique des paramètres des écrans. Vous pouvez également modifier leur texture et les rendre incassables, ce qui peut être utile dans les cartes personnalisées.",
 
   "chapter.shop.relic.title" : "Relique Aléatoire",
