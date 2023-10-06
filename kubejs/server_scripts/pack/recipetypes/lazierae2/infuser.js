@@ -175,6 +175,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: `${id_prefix}void_miner_frame_tier2`
       },
+      {
+        output: { item: 'chroma:accelerator_frame', count: 4 },
+        inputs: [
+          { item: 'chemlib:lanthanum_ingot', count: 2 },
+          { item: 'draconicevolution:small_chaos_frag', count: 1 },
+          { item: 'mekanism:hdpe_sheet', count: 4 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: `${id_prefix}accelerator_frame`
+      },
     ];
 
     recipes.forEach((recipe) => {

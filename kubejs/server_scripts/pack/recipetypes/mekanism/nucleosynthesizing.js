@@ -16,6 +16,13 @@ onEvent('recipes', (event) => {
               duration: 100,
               id: `${id_prefix}supremium_seed_base`
           },
+          {
+              output: Item.of('chroma:electromagnetic_condenser'),
+              itemInput: { ingredient: { item: 'mekanismgenerators:saturating_condenser' } },
+              gasInput: { amount: 100, gas: 'chroma:crystaltine' },
+              duration: 100,
+              id: `${id_prefix}electromagnetic_condenser`
+          },
         ]
     };
 

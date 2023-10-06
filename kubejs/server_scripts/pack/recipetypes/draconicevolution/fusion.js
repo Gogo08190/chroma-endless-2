@@ -394,6 +394,24 @@ onEvent('recipes', (event) => {
           result: { item: 'chroma:supremium_seed_base', count: 1 },
           id: `${id_prefix}supremium_seed_base`
       },
+      {
+          inputs: [
+            { item: 'chroma:accelerator_frame' },
+            { item: 'chroma:accelerator_frame' },
+            { item: 'chroma:accelerator_frame' },
+            { item: 'chroma:accelerator_frame' },
+            { item: 'draconicevolution:chaotic_core' },
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'mekanism:pellet_antimatter' }
+          ],
+          tier: "CHAOTIC",
+          catalyst: { item: 'computercraft:computer_advanced', count: 1 },
+          total_energy: 16000000,
+          result: { item: 'chroma:supremium_seed_base', count: 1 },
+          id: `${id_prefix}supremium_seed_base`
+      },
     ];
 
     recipes.forEach((recipe) => {

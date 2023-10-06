@@ -834,4 +834,246 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}void_miner_tier_4`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "  ABC  ",
+        " DEFGH ",
+        "IJKLMNO",
+        "PQRSTUV",
+        "WXYZabc",
+        " defgh ",
+        "  ijk  "
+      ],
+      "key": {
+        "A": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:thermal/blitz\"}}"
+        },
+        "B": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:thermal/basalz\"}}"
+        },
+        "C": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:evoker\"}}"
+        },
+        "D": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:iron_golem\"}}"
+        },
+        "E": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:forgotten_guardian\"}}"
+        },
+        "F": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:creeper\"}}"
+        },
+        "G": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:guardian\"}}"
+        },
+        "H": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:squid\"}}"
+        },
+        "I": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:elder_guardian\"}}"
+        },
+        "J": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:zombified_piglin\"}}"
+        },
+        "K": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:shulker\"}}"
+        },
+        "L": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:enderman\"}}"
+        },
+        "M": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:ender_dragon\"}}"
+        },
+        "N": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:thermal/blizz\"}}"
+        },
+        "O": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:rabbit\"}}"
+        },
+        "P": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:blaze\"}}"
+        },
+        "Q": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:vindicator\"}}"
+        },
+        "R": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:wither_skeleton\"}}"
+        },
+        "S": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:sheep\"}}"
+        },
+        "T": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:wither\"}}"
+        },
+        "U": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:draconic_guardian\"}}"
+        },
+        "V": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:wraith\"}}"
+        },
+        "W": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:cod\"}}"
+        },
+        "X": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:drowned\"}}"
+        },
+        "Y": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:gaia\"}}"
+        },
+        "Z": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:spider\"}}"
+        },
+        "a": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:witch\"}}"
+        },
+        "b": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:skeleton\"}}"
+        },
+        "c": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:chicken\"}}"
+        },
+        "d": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:cow\"}}"
+        },
+        "e": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:phantom\"}}"
+        },
+        "f": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:slime\"}}"
+        },
+        "g": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:zombie\"}}"
+        },
+        "h": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:pig\"}}"
+        },
+        "i": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:magma_cube\"}}"
+        },
+        "j": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:ghast\"}}"
+        },
+        "k": {
+          "type": "forge:nbt",
+          "item": "hostilenetworks:prediction",
+          "count": 1,
+          "nbt": "{data_model:{id:\"hostilenetworks:rotwalker\"}}"
+        }
+      },
+      "result": {
+        "item": "chroma:ultimate_prediction"
+      }
+    }
+  ).id(`${id_prefix}ultimate_prediction`)
 });

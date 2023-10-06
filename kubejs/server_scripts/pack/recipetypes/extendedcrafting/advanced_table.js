@@ -2199,4 +2199,43 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}draconium_crux`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDDDB",
+        "CDEDC",
+        "BFDFB",
+        "ABGBA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:crystaltine_ingot"
+        },
+        "B": {
+          "item": "mekanismgenerators:electromagnetic_coil"
+        },
+        "C": {
+          "item": "create:electron_tube"
+        },
+        "D": {
+          "item": "draconicevolution:awakened_draconium_ingot"
+        },
+        "E": {
+          "item": "megacells:mega_energy_cell"
+        },
+        "F": {
+          "item": "extendedcrafting:redstone_ingot"
+        },
+        "G": {
+          "item": "mekanism:module_magnetic_attraction_unit"
+        }
+      },
+      "result": {
+        "item": "chroma:accelerator_coil"
+      }
+    }
+  ).id(`${id_prefix}draconium_crux`)
 });

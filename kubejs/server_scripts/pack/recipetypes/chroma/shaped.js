@@ -328,6 +328,36 @@ onEvent('recipes', (event) => {
           },
           id: `${id_prefix}void_miner_laser_core_t4`
       },
+      {
+        output: 'chroma:accelerator_item_input',
+          pattern: ['ABA', 'ACA', 'AAA'],
+          key: {
+              A: 'chroma:accelerator_frame',
+              B: 'mekanism:qio_importer',
+              C: 'draconicevolution:chaotic_core'
+          },
+          id: `${id_prefix}accelerator_item_input`
+      },
+      {
+        output: 'chroma:accelerator_item_output',
+          pattern: ['ABA', 'ACA', 'AAA'],
+          key: {
+              A: 'chroma:accelerator_frame',
+              B: 'mekanism:qio_exporter',
+              C: 'draconicevolution:chaotic_core'
+          },
+          id: `${id_prefix}accelerator_item_output`
+      },
+      {
+        output: 'chroma:accelerator_energy_input',
+          pattern: ['ABA', 'ACA', 'AAA'],
+          key: {
+              A: 'chroma:accelerator_frame',
+              B: 'draconicevolution:reactor_injector',
+              C: Item.of('mekaevolution:infinite_energy_cube').ignoreNBT()
+          },
+          id: `${id_prefix}accelerator_energy_input`
+      },
     ];
 
     recipes.forEach((recipe) => {
