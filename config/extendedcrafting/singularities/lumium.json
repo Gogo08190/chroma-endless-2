@@ -1,0 +1,10 @@
+{
+  "name": "Lumium",
+  "colors": [
+    "ea951f",
+    "fff0a5"
+  ],
+  "ingredient": {
+    "item": "thermal:lumium_ingot"
+  }
+}

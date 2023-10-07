@@ -1,0 +1,10 @@
+{
+  "name": "Ventium",
+  "colors": [
+    "ec0719",
+    "f51b1b"
+  ],
+  "ingredient": {
+    "item": "blue_skies:ventium_ingot"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HDPE",
+  "colors": [
+    "c1c0ae",
+    "e0e0d1"
+  ],
+  "ingredient": {
+    "item": "mekanism:hdpe_pellet"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Experience",
+  "colors": [
+    "b9dd00",
+    "e2ea00"
+  ],
+  "ingredient": {
+    "item": "mob_grinding_utils:solid_xp_baby"
+  }
+}

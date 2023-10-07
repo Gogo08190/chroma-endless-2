@@ -1,0 +1,10 @@
+{
+  "name": "Insanium Coal",
+  "colors": [
+    "600082",
+    "701ba6"
+  ],
+  "ingredient": {
+    "item": "mysticalagradditions:insanium_coal"
+  }
+}

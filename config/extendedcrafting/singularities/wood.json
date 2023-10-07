@@ -1,0 +1,10 @@
+{
+  "name": "Wood",
+  "colors": [
+    "674b21",
+    "a27531"
+  ],
+  "ingredient": {
+    "tag": "minecraft:oak_logs"
+  }
+}

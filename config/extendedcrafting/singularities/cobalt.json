@@ -1,0 +1,10 @@
+{
+  "name": "Cobalt",
+  "colors": [
+    "0050bd",
+    "0371fa"
+  ],
+  "ingredient": {
+    "item": "tconstruct:cobalt_ingot"
+  }
+}

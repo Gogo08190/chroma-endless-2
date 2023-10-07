@@ -1,0 +1,10 @@
+{
+  "name": "Vinteum",
+  "colors": [
+    "4674ce",
+    "87c2e7"
+  ],
+  "ingredient": {
+    "item": "mna:vinteum_ingot"
+  }
+}

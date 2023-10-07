@@ -1,0 +1,10 @@
+{
+  "name": "Flux Dust",
+  "colors": [
+    "040404",
+    "2a2a2a"
+  ],
+  "ingredient": {
+    "item": "fluxnetworks:flux_dust"
+  }
+}

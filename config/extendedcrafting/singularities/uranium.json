@@ -1,0 +1,10 @@
+{
+  "name": "Uranium",
+  "colors": [
+    "73af00",
+    "c9e800"
+  ],
+  "ingredient": {
+    "item": "biggerreactors:uranium_ingot"
+  }
+}
