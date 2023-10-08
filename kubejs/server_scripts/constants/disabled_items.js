@@ -227,6 +227,9 @@ const disabledItems = [
   'mysticalagriculture:yellorium_essence',
   'mysticalagriculture:menril_essence',
   'mysticalagriculture:fiery_ingot_essence',
+  'mysticalagriculture:honey_seeds',
+  'mysticalagriculture:honey_essence',
+  'mysticalagriculture:honey_agglomeratio',
 
   'mysticalagradditions:nether_star_shard',
   'mysticalagradditions:dragon_egg_chunk',
@@ -235,7 +238,7 @@ const disabledItems = [
   'mysticalagradditions:nether_star_crux',
   'mysticalagradditions:dragon_egg_crux',
 
-  'functionalstorage:fluid_1', 
+  'functionalstorage:fluid_1',
   'functionalstorage:fluid_2',
   'functionalstorage:fluid_4'
 ];
