@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "location": "chroma:piggy_energy_input_tier_1",
+  "location": "chroma:piggy_energy_input",
   "traits": {
     "forge_energy": {
       "cIO": 0,
@@ -19,7 +19,7 @@
     }
   },
   "properties": {
-    "rotationState": "ALL",
+    "rotationState": "NONE",
     "showInJei": true,
     "isOpaque": true,
     "hasDynamicShape": false,
