@@ -2237,7 +2237,7 @@ onEvent("recipes", (event) => {
         "item": "chroma:accelerator_coil"
       }
     }
-  ).id(`${id_prefix}draconium_crux`)
+  ).id(`${id_prefix}accelerator_coil`)
 
   event.custom(
     {
