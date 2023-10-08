@@ -467,6 +467,34 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}imperium_seed_base`
         },
+        {
+            ingredients: [
+                { item: 'extendedcrafting:black_iron_slate' },
+                { item: 'extendedcrafting:luminessence' },
+                { item: 'extendedcrafting:the_ultimate_ingot' },
+                { item: 'extendedcrafting:the_ultimate_ingot' }
+            ],
+            energy: 30000000,
+            result: {
+                item: 'extendedcrafting:the_ultimate_component',
+                count: 1
+            },
+            id: 'extendedcrafting:the_ultimate_component'
+        },
+        {
+            ingredients: [
+                { item: 'extendedcrafting:black_iron_slate' },
+                { item: 'extendedcrafting:luminessence' },
+                { item: 'extendedcrafting:ender_ingot' },
+                { item: 'extendedcrafting:ender_ingot' }
+            ],
+            energy: 250000,
+            result: {
+                item: 'extendedcrafting:ender_component',
+                count: 1
+            },
+            id: 'extendedcrafting:ender_component'
+        },
     ];
 
     recipes.forEach((recipe) => {

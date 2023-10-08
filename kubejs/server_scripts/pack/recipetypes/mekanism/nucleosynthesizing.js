@@ -23,6 +23,13 @@ onEvent('recipes', (event) => {
               duration: 100,
               id: `${id_prefix}electromagnetic_condenser`
           },
+          {
+              output: Item.of('botanicalmachinery:mana_battery_creative'),
+              itemInput: { ingredient: { item: 'botania:creative_pool' } },
+              gasInput: { amount: 1000, gas: 'mekanism:antimatter' },
+              duration: 100,
+              id: `${id_prefix}mana_battery_creative`
+          },
         ]
     };
 

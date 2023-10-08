@@ -2238,4 +2238,49 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}draconium_crux`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAA",
+        "BCCCB",
+        "DEFED",
+        "BBGBB",
+        "BHIHB"
+      ],
+      "key": {
+        "A": {
+          "item": "solarpanels:creative_solar_element"
+        },
+        "B": {
+          "item": "graveyard:dark_iron_ingot"
+        },
+        "C": {
+          "item": "chroma:infinite_alloy"
+        },
+        "D": {
+          "item": "mekanism:pellet_antimatter"
+        },
+        "E": {
+          "item": "extendedcrafting:crystaltine_catalyst"
+        },
+        "F": {
+          "item": "solarpanels:photonic_solar_panel"
+        },
+        "G": {
+          "item": "solarpanels:creative_energy_tablet"
+        },
+        "H": {
+          "item": "mekaevolution:infinite_control_circuit"
+        },
+        "I": {
+          "item": "draconicevolution:chaotic_core"
+        }
+      },
+      "result": {
+        "item": "solarpanels:creative_solar_panel"
+      }
+    }
+  ).id('solarpanels:creative_solar_panel')
 });

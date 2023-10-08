@@ -412,6 +412,23 @@ onEvent('recipes', (event) => {
           result: { item: 'chroma:particle_accelerator', count: 1 },
           id: `${id_prefix}particle_accelerator`
       },
+      {
+          inputs: [
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'draconicevolution:chaotic_energy_core' },
+            { item: 'draconicevolution:chaotic_energy_core' },
+            { item: 'mysticalagradditions:insanium_ingot' },
+            { item: 'mysticalagradditions:insanium_ingot' },
+            { item: 'mysticalagradditions:insanium_ingot' },
+            { item: 'mysticalagradditions:insanium_ingot' }
+          ],
+          tier: "CHAOTIC",
+          catalyst: Item.of('solarpanels:photonic_energy_tablet').weakNBT(),
+          total_energy: 8000000,
+          result: { item: 'solarpanels:creative_energy_tablet', count: 1 },
+          id: 'solarpanels:creative_energy_tablet'
+      },
     ];
 
     recipes.forEach((recipe) => {

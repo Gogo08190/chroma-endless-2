@@ -211,6 +211,23 @@ onEvent('recipes', (event) => {
           result: { item: 'mysticalagradditions:insanium_ingot' },
           id: `${id_prefix}insanium_ingot`
       },
+      {
+          inputs: [
+              { item: 'extendedcrafting:black_iron_ingot' },
+              { item: 'extendedcrafting:the_ultimate_component' },
+              { item: 'extendedcrafting:black_iron_ingot' },
+              { item: 'extendedcrafting:the_ultimate_component' },
+              { item: 'extendedcrafting:black_iron_ingot' },
+              { item: 'extendedcrafting:the_ultimate_component' },
+              { item: 'extendedcrafting:black_iron_ingot' },
+              { item: 'extendedcrafting:the_ultimate_component' },
+          ],
+          catalyst: { item: 'draconicevolution:awakened_core' },
+          powerCost: 10000000,
+          powerRate: 100000,
+          result: { item: 'extendedcrafting:the_ultimate_catalyst' },
+          id: 'extendedcrafting:the_ultimate_catalyst'
+      },
     ];
 
     recipes.forEach((recipe) => {
