@@ -19,7 +19,7 @@
     }
   },
   "properties": {
-    "rotationState": "NONE",
+    "rotationState": "ALL",
     "showInJei": true,
     "isOpaque": true,
     "hasDynamicShape": false,
