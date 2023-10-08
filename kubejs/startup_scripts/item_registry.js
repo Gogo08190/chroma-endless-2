@@ -94,7 +94,16 @@ onEvent('item.registry', (event) => {
       'omega_necklace',
       'phi_necklace',
       'tau_necklace',
-      'theta_necklace'
+      'theta_necklace',
+      'shard_of_creativity',
+      'shard_of_imunity',
+      'shard_of_knowledge',
+      'shard_of_mankind',
+      'shard_of_nature',
+      'shard_of_perserevity',
+      'shard_of_the_greater_good',
+      'shard_of_the_greater_mana',
+      'endless'
 
     ];
 
