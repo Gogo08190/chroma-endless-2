@@ -1,0 +1,327 @@
+{
+  "version": 3,
+  "location": "chroma:piggy_bank",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasDynamicShape": false,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "friction": 0.6,
+    "harvestLevel": 0,
+    "stackSize": 64,
+    "tabGroup": "multiblocked.all"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "baseTexture": "multiblocked:block/pink_terracotta",
+        "frontTexture": "multiblocked:casing/piggy_off",
+        "type": "gregtech",
+        "postRenderer": false
+      }
+    },
+    "idle": {
+      "renderer": {
+        "baseTexture": "multiblocked:block/pink_terracotta",
+        "frontTexture": "multiblocked:casing/piggy_idle",
+        "type": "gregtech",
+        "postRenderer": false
+      },
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "baseTexture": "multiblocked:block/pink_terracotta",
+        "frontTexture": "multiblocked:casing/piggy_active",
+        "type": "gregtech",
+        "postRenderer": false
+      },
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "piggy_bank",
+  "basePattern": {
+    "structureDir": [
+      "RIGHT",
+      "UP",
+      "FRONT"
+    ],
+    "pattern": [
+      [
+        "AA  AA",
+        "AA  AA",
+        "AAAAAA",
+        "AABBAA",
+        "ABAABA",
+        "AACAAA",
+        "AAAAAA",
+        "AAAAAA"
+      ],
+      [
+        "AD  EA",
+        "AA  AA",
+        "AAAAAA",
+        "AFGGFA",
+        "AHIIHA",
+        "CHIIHC",
+        "AFGGFA",
+        "AACBAA"
+      ],
+      [
+        "      ",
+        "      ",
+        "AAAAAA",
+        "AGGGGA",
+        "AIJKIA",
+        "CIKJIC",
+        "AGGGGA",
+        "ACCBBA"
+      ],
+      [
+        "      ",
+        "      ",
+        "AAAAAA",
+        "AGGGGA",
+        "AIKJIA",
+        "AIJKIA",
+        "CGGGGC",
+        "ACCBBA"
+      ],
+      [
+        "AA  AA",
+        "AA  AA",
+        "AAAAAA",
+        "AFGGFA",
+        "AHIIHA",
+        "AHIIHA",
+        "CFGGFC",
+        "AACBAA"
+      ],
+      [
+        "AA  AA",
+        "AA  AA",
+        "AAAAAA",
+        "AAAAAA",
+        "AAAAAA",
+        "AAAAAA",
+        "LMAAML",
+        "AAAAAA"
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "  AA  ",
+        "  A@  ",
+        "      ",
+        "      "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "blocks": [
+          {
+            "id": "minecraft:pink_concrete"
+          }
+        ],
+        "type": "blocks"
+      },
+      "controller": {
+        "location": "chroma:piggy_bank",
+        "type": "component"
+      },
+      "B": {
+        "blocks": [
+          {
+            "id": "minecraft:pink_terracotta"
+          }
+        ],
+        "type": "blocks"
+      },
+      "C": {
+        "blocks": [
+          {
+            "id": "minecraft:white_terracotta"
+          }
+        ],
+        "type": "blocks"
+      },
+      "D": {
+        "blocks": [
+          {
+            "id": "chroma:piggy_item_output"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "chroma:piggy_energy_input"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "extendedcrafting:crystaltine_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "chipped:raw_gold_block_7"
+          }
+        ],
+        "type": "blocks"
+      },
+      "H": {
+        "blocks": [
+          {
+            "id": "beyond_earth:calorite_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "I": {
+        "blocks": [
+          {
+            "id": "tconstruct:pig_iron_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "J": {
+        "blocks": [
+          {
+            "id": "mysticalagradditions:insanium_ingot_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "blocks": [
+          {
+            "id": "draconicevolution:awakened_draconium_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "L": {
+        "blocks": [
+          {
+            "id": "minecraft:black_concrete"
+          }
+        ],
+        "type": "blocks"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "blocks": [
+          {
+            "id": "dustrial_decor:rainbow_neon_light"
+          }
+        ],
+        "type": "blocks"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
+      ],
+      "-": [
+        "air"
+      ]
+    }
+  }
+}

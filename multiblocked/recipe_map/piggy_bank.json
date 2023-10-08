@@ -1,0 +1,33 @@
+{
+  "name": "piggy_bank",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "energy_to_coin",
+      "duration": 40,
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "numismaticoverhaul:gold_coin"
+              }
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "tickInputs": {
+        "forge_energy": [
+          {
+            "content": 5000000,
+            "chance": 1.0
+          }
+        ]
+      }
+    }
+  ]
+}

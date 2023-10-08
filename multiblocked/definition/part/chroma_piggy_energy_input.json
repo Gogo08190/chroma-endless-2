@@ -14,12 +14,12 @@
       "texture": "multiblocked:textures/gui/energy_bar.png",
       "fillDirection": "LEFT_TO_RIGHT",
       "capacity": 1000000000,
-      "maxReceive": 2000000,
-      "maxExtract": 2000000
+      "maxReceive": 20000000,
+      "maxExtract": 20000000
     }
   },
   "properties": {
-    "rotationState": "NONE",
+    "rotationState": "ALL",
     "showInJei": true,
     "isOpaque": true,
     "hasDynamicShape": false,
