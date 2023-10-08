@@ -5,7 +5,7 @@
   "recipes": [
     {
       "uid": "energy_to_coin",
-      "duration": 40,
+      "duration": 10,
       "outputs": {
         "item": [
           {
@@ -23,7 +23,7 @@
       "tickInputs": {
         "forge_energy": [
           {
-            "content": 5000000,
+            "content": 100000,
             "chance": 1.0
           }
         ]
