@@ -1201,6 +1201,17 @@ onEvent('recipes', (event) => {
             },
             id: 'mekanism:chemical_tank/basic'
         },
+        {
+            output: 'solarpanels:creative_solar_element',
+            pattern: ['PPP', 'III', 'CAC'],
+            key: {
+                P: '#forge:glass_panes/pink',
+                I: '#forge:ingots/rubidium',
+                C: '#mekanism:crystals/elementium',
+                A: '#forge:pellets/antimatter'
+            },
+            id: 'solarpanels:creative_solar_element'
+        },
     ];
 
     recipes.forEach((recipe) => {

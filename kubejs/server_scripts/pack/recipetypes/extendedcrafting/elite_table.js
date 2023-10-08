@@ -1076,4 +1076,95 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}ultimate_prediction`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAAAA",
+        "ABCDCBA",
+        "AEFGFEA",
+        "ADGHGDA",
+        "AEFGFEA",
+        "ABCDCBA",
+        "AAAAAAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:pink_concrete"
+        },
+        "B": {
+          "item": "forbidden_arcanus:smelter_prism"
+        },
+        "C": {
+          "item": "extendedcrafting:crystaltine_block"
+        },
+        "D": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "E": {
+          "item": "evilcraft:dark_power_gem"
+        },
+        "F": {
+          "item": "mekaevolution:infinite_control_circuit"
+        },
+        "G": {
+          "type": "forge:nbt",
+          "item": "extendedcrafting:singularity",
+          "count": 1,
+          "nbt": "{Id:\"extendedcrafting:redstone\"}"
+        },
+        "H": {
+          "item": "mekaevolution:infinite_energy_cube"
+        }
+      },
+      "result": {
+        "item": "chroma:piggy_energy_input"
+      }
+    }
+  ).id(`${id_prefix}piggy_energy_input`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAAAA",
+        "ABCDCBA",
+        "AEFGFEA",
+        "ADGHGDA",
+        "AEFGFEA",
+        "ABCDCBA",
+        "AAAAAAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:pink_concrete"
+        },
+        "B": {
+          "item": "mna:ender_disc"
+        },
+        "C": {
+          "item": "extendedcrafting:crystaltine_block"
+        },
+        "D": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "E": {
+          "item": "evilcraft:dark_power_gem"
+        },
+        "F": {
+          "item": "mythicbotany:alfsteel_ingot"
+        },
+        "G": {
+          "item": "chroma:infinite_alloy"
+        },
+        "H": {
+          "item": "mekanism:qio_drive_supermassive"
+        }
+      },
+      "result": {
+        "item": "chroma:piggy_item_output"
+      }
+    }
+  ).id(`${id_prefix}piggy_item_output`)
 });

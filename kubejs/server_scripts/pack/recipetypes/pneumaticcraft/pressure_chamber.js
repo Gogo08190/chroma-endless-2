@@ -197,6 +197,15 @@ onEvent('recipes', (event) => {
             results: [{ item: 'extendedcrafting:enhanced_ender_catalyst', count: 1 }],
             id: 'extendedcrafting:enhanced_ender_catalyst'
         },
+        {
+            inputs: [
+                { item: 'extendedcrafting:ender_component', count: 4 },
+                { item: 'rftoolsbase:infused_enderpearl', count: 1 }
+            ],
+            pressure: 3.0,
+            results: [{ item: 'extendedcrafting:ender_catalyst', count: 1 }],
+            id: 'extendedcrafting:ender_catalyst'
+        },
     ];
 
     recipes.forEach((recipe) => {
