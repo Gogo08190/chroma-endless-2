@@ -547,6 +547,43 @@ onEvent('recipes', (event) => {
           result: { item: 'mysticalagriculture:draconium_seeds', count: 1 },
           id: 'mysticalagriculture:seed/infusion/draconium'
       },
+      {
+          inputs: [
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'chroma:ultimate_prediction' },
+            { item: 'chroma:ultimate_prediction' },
+            { item: 'draconicevolution:energy_core' },
+            { item: 'draconicevolution:energy_core' },
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'mekanism:pellet_antimatter' },
+            { item: 'draconicevolution:chaotic_energy_module' },
+            { item: 'draconicevolution:chaotic_energy_module' },
+            { item: 'draconicevolution:chaotic_energy_core' },
+            { item: 'draconicevolution:chaotic_energy_core' },
+            { item: 'powah:energy_cell_nitro' },
+            { item: 'powah:energy_cell_nitro' },
+            { item: 'powah:energy_cell_nitro' },
+            { item: 'powah:energy_cell_nitro' },
+            { item: 'draconicevolution:chaotic_core' },
+            { item: 'draconicevolution:chaotic_core' },
+            { item: 'extendedcrafting:the_ultimate_catalyst' },
+            { item: 'extendedcrafting:the_ultimate_catalyst' },
+            { item: 'extendedcrafting:the_ultimate_catalyst' },
+            { item: 'extendedcrafting:the_ultimate_catalyst' },
+            { item: 'mysticalagradditions:creative_essence' },
+            { item: 'mysticalagradditions:creative_essence' },
+            { item: 'mysticalagradditions:creative_essence' },
+            { item: 'mysticalagradditions:creative_essence' },
+            { item: 'extendedcrafting:ultimate_singularity' },
+            { item: 'extendedcrafting:ultimate_singularity' }
+          ],
+          tier: "CHAOTIC",
+          catalyst: { item: 'draconicevolution:reactor_core' },
+          total_energy: 10000000000,
+          result: { item: 'draconicevolution:creative_op_capacitor', count: 1 },
+          id: `${id_prefix}creative_op_capacitor`
+      },
     ];
 
     recipes.forEach((recipe) => {

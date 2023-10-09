@@ -489,4 +489,319 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}calorite_seeds`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABBCBBAA",
+        "ADEEEEEDA",
+        "BEEEEEEEB",
+        "BEEFFFEEB",
+        "CEEFGFEEC",
+        "BEEFFFEEB",
+        "BEEEEEEEB",
+        "ADEEEEEDA",
+        "AABBCBBAA"
+      ],
+      "key": {
+        "A": {
+          "item": "pneumaticcraft:heat_sink"
+        },
+        "B": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "C": {
+          "item": "pneumaticcraft:vortex_tube"
+        },
+        "D": {
+          "item": "pneumaticcraft:turbine_rotor"
+        },
+        "E": {
+          "item": "pneumaticcraft:compressed_iron_block"
+        },
+        "F": {
+          "item": "pneumaticcraft:heat_pipe"
+        },
+        "G": {
+          "item": "extendedcrafting:the_ultimate_catalyst"
+        }
+      },
+      "result": {
+        "item": "pneumaticcraft:creative_compressed_iron_block"
+      }
+    }
+  ).id(`${id_prefix}creative_compressed_iron_block`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDEDCBA",
+        "BFGGHGGFB",
+        "CGIJKJIGC",
+        "DGJLILJGD",
+        "EHKIMIKHE",
+        "DGJLILJGD",
+        "CGIJKJIGC",
+        "BFGGHGGFB",
+        "ABCDEDCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "B": {
+          "item": "mekanism:pellet_antimatter"
+        },
+        "C": {
+          "item": "mekaevolution:infinite_control_circuit"
+        },
+        "D": {
+          "item": "chroma:absolute_alloy"
+        },
+        "E": {
+          "item": "extendedcrafting:the_ultimate_catalyst"
+        },
+        "F": {
+          "item": "mekanism:block_refined_obsidian"
+        },
+        "G": {
+          "item": "extendedcrafting:crystaltine_block"
+        },
+        "H": {
+          "item": "megacells:chemical_storage_cell_256m"
+        },
+        "I": {
+          "item": "mekanism:ultimate_chemical_tank"
+        },
+        "J": {
+          "item": "mekanism:ultimate_pressurized_tube"
+        },
+        "K": {
+          "item": "chroma:ultimate_prediction"
+        },
+        "L": {
+          "type": "forge:nbt",
+          "item": "extendedcrafting:singularity",
+          "count": 1,
+          "nbt": "{Id:\"extendedcrafting:hdpe\"}"
+        },
+        "M": {
+          "item": "extendedcrafting:ultimate_singularity"
+        }
+      },
+      "result": {
+        "item": "mekanism:creative_chemical_tank"
+      }
+    }
+  ).id(`${id_prefix}creative_chemical_tank`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDEDCBA",
+        "BFGGHGGFB",
+        "CGIJKJIGC",
+        "DGJLILJGD",
+        "EHKIMIKHE",
+        "DGJLILJGD",
+        "CGIJKJIGC",
+        "BFGGHGGFB",
+        "ABCDEDCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "B": {
+          "item": "mekanism:pellet_antimatter"
+        },
+        "C": {
+          "item": "mekaevolution:infinite_control_circuit"
+        },
+        "D": {
+          "item": "chroma:absolute_alloy"
+        },
+        "E": {
+          "item": "extendedcrafting:the_ultimate_catalyst"
+        },
+        "F": {
+          "item": "mekanism:block_refined_obsidian"
+        },
+        "G": {
+          "item": "extendedcrafting:crystaltine_block"
+        },
+        "H": {
+          "item": "megacells:fluid_storage_cell_256m"
+        },
+        "I": {
+          "item": "mekanism:ultimate_fluid_tank"
+        },
+        "J": {
+          "item": "mekaevolution:infinite_mechanical_pipe"
+        },
+        "K": {
+          "item": "chroma:ultimate_prediction"
+        },
+        "L": {
+          "type": "forge:nbt",
+          "item": "extendedcrafting:singularity",
+          "count": 1,
+          "nbt": "{Id:\"extendedcrafting:hdpe\"}"
+        },
+        "M": {
+          "item": "extendedcrafting:ultimate_singularity"
+        }
+      },
+      "result": {
+        "item": "mekanism:creative_fluid_tank"
+      }
+    }
+  ).id(`${id_prefix}creative_fluid_tank`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDEFGBA",
+        "BHIJJJIHB",
+        "GIKLMLKIC",
+        "FJNOPONJD",
+        "EJMPQPMJE",
+        "DJNOPONJF",
+        "CIKLMLKIG",
+        "BHIJJJIHB",
+        "ABGFEDCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "extendedcrafting:the_ultimate_catalyst"
+        },
+        "B": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "C": {
+          "item": "evilcraft:promise_speed_0"
+        },
+        "D": {
+          "item": "evilcraft:promise_efficiency_0"
+        },
+        "E": {
+          "item": "evilcraft:promise_tier_3"
+        },
+        "F": {
+          "item": "evilcraft:promise_tier_2"
+        },
+        "G": {
+          "item": "evilcraft:promise_tier_1"
+        },
+        "H": {
+          "item": "chroma:ultimate_prediction"
+        },
+        "I": {
+          "item": "extendedcrafting:crystaltine_block"
+        },
+        "J": {
+          "item": "evilcraft:dark_power_gem_block"
+        },
+        "K": {
+          "item": "evilcraft:garmonbozia"
+        },
+        "L": {
+          "type": "forge:nbt",
+          "item": "evilcraft:flesh_rejuvenated",
+          "count": 1,
+          "nbt": "{Fluid:{Amount:10000,FluidName:\"evilcraft:blood\"},capacity:10000}"
+        },
+        "M": {
+          "item": "evilcraft:inverted_potentia_empowered"
+        },
+        "N": {
+          "item": "evilcraft:lightning_bomb"
+        },
+        "O": {
+          "type": "forge:nbt",
+          "item": "evilcraft:dark_tank",
+          "count": 1,
+          "nbt": "{Fluid:{Amount:0,FluidName:\"minecraft:empty\"},capacity:16000}"
+        },
+        "P": {
+          "type": "forge:nbt",
+          "item": "extendedcrafting:singularity",
+          "count": 1,
+          "nbt": "{Id:\"extendedcrafting:dark_gem\"}"
+        },
+        "Q": {
+          "item": "extendedcrafting:ultimate_singularity"
+        }
+      },
+      "result": Item.of('evilcraft:creative_blood_drop', '{Fluid:{Amount:500,FluidName:"evilcraft:blood"},capacity:1000}')
+    }
+  ).id(`${id_prefix}creative_blood_drop`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "         ",
+        " A     A ",
+        "ABA   ABA",
+        "ACADEDACA",
+        "AFGGHGGFA",
+        "AIJJJJJIA",
+        "AKIILIIKA",
+        " AAAAAAA ",
+        "         "
+      ],
+      "key": {
+        "A": {
+          "item": "botania:shimmerrock"
+        },
+        "B": {
+          "item": "extendedcrafting:ultimate_singularity"
+        },
+        "C": {
+          "item": "mekanism:pellet_antimatter"
+        },
+        "D": {
+          "item": "industrialforegoing:supreme_black_hole_tank"
+        },
+        "E": {
+          "item": "chroma:ultimate_prediction"
+        },
+        "F": {
+          "item": "botania:fabulous_pool"
+        },
+        "G": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "H": {
+          "type": "forge:nbt",
+          "item": "botania:mana_tablet",
+          "count": 1,
+          "nbt": "{creative:1b,mana:500000}"
+        },
+        "I": {
+          "item": "extendedcrafting:crystaltine_block"
+        },
+        "J": {
+          "type": "forge:nbt",
+          "item": "extendedcrafting:singularity",
+          "count": 1,
+          "nbt": "{Id:\"extendedcrafting:manasteel\"}"
+        },
+        "K": {
+          "item": "extendedcrafting:the_ultimate_catalyst"
+        },
+        "L": {
+          "item": "draconicadditions:chaos_heart"
+        }
+      },
+      "result": {
+        "item": "botania:creative_pool"
+      }
+    }
+  ).id(`${id_prefix}creative_pool`)
 });
