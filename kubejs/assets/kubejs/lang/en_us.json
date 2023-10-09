@@ -187,6 +187,13 @@
 
   "chapter.challenge.potato": "Pet 1000 Tiny Potatoes",
 
+  "chapter.challenge.piggy.title.1": "Piggy Bank - Part 1",
+  "chapter.challenge.piggy.title.2": "Piggy Bank - Part 2",
+  "chapter.challenge.piggy.subtitle": "Oink Oink !",
+
+  "chapter.challenge.rich.title": "$$ &6Le Millionaire&r $$",
+  "chapter.challenge.rich.subtitle": "Here comes the money !"",
+
   "Useful Items" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "useful.title" : "&lUseful Items",
@@ -1983,6 +1990,8 @@
   "The Final Step":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.final.title": "The Final Step",
+
+  "chapter.final.particle.title": "Particle Accelerator",
 
   "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 

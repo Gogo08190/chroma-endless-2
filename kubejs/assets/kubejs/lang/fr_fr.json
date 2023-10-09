@@ -187,6 +187,13 @@
 
   "chapter.challenge.potato": "Carresser 1000 Tiny Potatoes",
 
+  "chapter.challenge.piggy.title.1": "Piggy Bank - Part 1",
+  "chapter.challenge.piggy.title.2": "Piggy Bank - Part 2",
+  "chapter.challenge.piggy.subtitle": "Gruik Gruik !",
+
+  "chapter.challenge.rich.title": "$$ &6Le Millionaire&r $$",
+  "chapter.challenge.rich.subtitle": "J'aime l'argent!",
+
   "Items Utiles" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "useful.title" : "&lItems Utiles",
@@ -1983,6 +1990,8 @@
   "The Final Step":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.final.title": "La Dernière Etape",
+
+  "chapter.final.particle.title": "Accélérateur de Particules",
 
   "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
