@@ -2349,4 +2349,70 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mysticalagriculture:mystical_flower_agglomeratio')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagriculture:imperium_essence"
+        },
+        "B": {
+          "item": "mekanism:block_refined_glowstone"
+        },
+        "C": {
+          "item": "mekanism:ingot_refined_glowstone"
+        },
+        "D": {
+          "item": "mekanism:pellet_polonium"
+        },
+        "E": {
+          "item": "chroma:imperium_seed_base"
+        }
+      },
+      "result": {
+        "item": "mysticalagriculture:refined_glowstone_seeds"
+      }
+    }
+  ).id('mysticalagriculture:seed/infusion/refined_glowstone')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABAA",
+        "ACDCA",
+        "BDEDB",
+        "ACDCA",
+        "AABAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagriculture:imperium_essence"
+        },
+        "B": {
+          "item": "mekanism:block_refined_obsidian"
+        },
+        "C": {
+          "item": "mekanism:ingot_refined_obsidian"
+        },
+        "D": {
+          "item": "mekanism:pellet_polonium"
+        },
+        "E": {
+          "item": "chroma:imperium_seed_base"
+        }
+      },
+      "result": {
+        "item": "mysticalagriculture:refined_obsidian_seeds"
+      }
+    }
+  ).id('mysticalagriculture:seed/infusion/refined_obsidian')
 });

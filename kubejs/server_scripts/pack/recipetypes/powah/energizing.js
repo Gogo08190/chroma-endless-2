@@ -510,6 +510,38 @@ onEvent('recipes', (event) => {
             },
             id: 'mysticalagriculture:inferium_seeds'
         },
+        {
+            ingredients: [
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:electrum_seeds' },
+                { item: 'mysticalagriculture:steel_seeds' },
+                { item: 'powah:energized_steel_block' }
+            ],
+            energy: 100000,
+            result: {
+                item: 'mysticalagriculture:energized_steel_seeds',
+                count: 1
+            },
+            id: 'mysticalagriculture:seed/infusion/energized_steel'
+        },
+        {
+            ingredients: [
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'mysticalagriculture:imperium_essence' },
+                { item: 'chroma:imperium_seed_base' },
+                { item: 'mysticalagriculture:energized_steel_seeds' },
+                { item: 'powah:blazing_crystal_block' }
+            ],
+            energy: 900000,
+            result: {
+                item: 'mysticalagriculture:blazing_crystal_seeds',
+                count: 1
+            },
+            id: 'mysticalagriculture:seed/infusion/blazing_crystal'
+        },
     ];
 
     recipes.forEach((recipe) => {

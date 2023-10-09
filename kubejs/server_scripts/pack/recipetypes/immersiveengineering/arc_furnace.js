@@ -19,6 +19,12 @@ onEvent('recipes', (event) => {
             outputs: [Item.of('ae2:engineering_processor')],
             id: `${id_prefix}engineering_processor`
         },
+        {
+            input: 'chroma:imperium_seed_base',
+            secondaries: [Ingredient.of('#forge:ingots/hop_graphite', 6), Ingredient.of('mysticalagriculture:imperium_essence', 4)],
+            outputs: [Item.of('mysticalagriculture:hop_graphite_seeds')],
+            id: 'mysticalagriculture:seed/infusion/hop_graphite'
+        },
     ];
 
     recipes.forEach((recipe) => {

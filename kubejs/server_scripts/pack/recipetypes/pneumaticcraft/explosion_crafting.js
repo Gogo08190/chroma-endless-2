@@ -21,6 +21,12 @@ onEvent('recipes', (event) => {
         results: [{ item: 'pneumaticcraft:compressed_iron_block' }],
         loss_rate: 10,
         id: 'pneumaticcraft:explosion_crafting/compressed_iron_block'
+      },
+      {
+        input: { item: 'mysticalagriculture:energized_steel_seeds' },
+        results: [{ item: 'mysticalagriculture:compressed_iron_seeds' }],
+        loss_rate: 20,
+        id: 'mysticalagriculture:seed/infusion/compressed_iron'
       }
     ];
 

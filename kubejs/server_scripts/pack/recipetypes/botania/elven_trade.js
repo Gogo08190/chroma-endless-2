@@ -13,6 +13,19 @@ onEvent('recipes', (event) => {
         },
         id: 'mysticalagriculture:tertium_essence'
       },
+      {
+        inputs: [
+          {item: 'mysticalagriculture:imperium_essence' },
+          {item: 'mysticalagriculture:imperium_essence' },
+          {item: 'mysticalagriculture:imperium_essence' },
+          {item: 'mysticalagriculture:imperium_essence' },
+          {item: 'mysticalagriculture:manasteel_seeds' }
+        ],
+        output: {
+            item: 'mysticalagriculture:elementium_seeds'
+        },
+        id: 'mysticalagriculture:seed/infusion/elementium'
+      },
     ];
 
     recipes.forEach((recipe) => {

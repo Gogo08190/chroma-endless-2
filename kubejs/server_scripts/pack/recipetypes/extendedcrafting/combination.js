@@ -228,6 +228,23 @@ onEvent('recipes', (event) => {
           result: { item: 'extendedcrafting:the_ultimate_catalyst' },
           id: 'extendedcrafting:the_ultimate_catalyst'
       },
+      {
+          inputs: [
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              { item: 'mysticalagriculture:imperium_essence' },
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              { item: 'mysticalagriculture:imperium_essence' },
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              { item: 'mysticalagriculture:imperium_essence' },
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              { item: 'mysticalagriculture:imperium_essence' },
+          ],
+          catalyst: { item: 'chroma:imperium_seed_base' },
+          powerCost: 100000,
+          powerRate: 2000,
+          result: { item: 'mysticalagriculture:experience_seeds' },
+          id: 'mysticalagriculture:seed/infusion/experience'
+      },
     ];
 
     recipes.forEach((recipe) => {
