@@ -74,17 +74,63 @@
 
   "chapter.shop.title": "&lShop",
 
+  "chapter.shop.shipped.title.1": "Botanist's Workbench",
+  "chapter.shop.shipped.title.2": "Shepherd's Workbench",
+  "chapter.shop.shipped.title.3": "Tinkerer's Workbench",
+  "chapter.shop.shipped.title.4": "Philosopher's Workbench",
+  "chapter.shop.shipped.title.5": "Mason's Workbench",
+  "chapter.shop.shipped.title.6": "Carpenter's Workbench",
+  "chapter.shop.shipped.title.7": "Glassblower's Workbench",
   "chapter.shop.shipped.subtitle" : "Interior designer",
 
   "chapter.shop.task.title" : "Task Screen",
   "chapter.shop.task.subtitle": "Automatic Quest Input",
   "chapter.shop.task.description": "Task screens are blocks that show quest objectives in the world. They can be bound to a single task and show information related to that task, some tasks require screens in order to allow for automation (energy based objectives for example). You can change the task that a screen is set to by sneak-right-clicking on the screen, this will open the screens settings GUI. You can also change their texture and make them unbreakable which can be useful in custom maps.",
 
+  "chapter.shop.dj.title": "Music Disc",
+
+  "chapter.shop.elytra.title": "Elytra",
+
   "chapter.shop.relic.title" : "Random Relic",
 
   "chapter.shop.artifact.title" : "Random Artifact",
 
   "chapter.shop.angel.description": "This item doesn't yet allow you to fly. It's mainly used to create the real &6Angel Ring&r and the &9Steel Jetpack&r.",
+
+  "chapter.shop.charm.title.1": "Sleep Charm",
+  "chapter.shop.charm.title.2": "Portal Charm",
+  "chapter.shop.charm.title.3": "Warding Charm",
+  "chapter.shop.charm.title.4": "Apotheosis Charm",
+
+  "chapter.shop.angel.title": "Diamond Ring",
+
+  "chapter.shop.coin.title": "Farmer Coin",
+
+  "chapter.shop.dark.title.1": "Essence Of Undeath",
+  "chapter.shop.dark.title.2": "Soul Steel Ingot",
+  "chapter.shop.dark.title.3": "Grave Dust",
+  "chapter.shop.dark.title.4": "Ossuary",
+
+  "chapter.shop.explo.title.1": "Researcher Table",
+  "chapter.shop.explo.title.2": "Travel Anchor",
+  "chapter.shop.explo.title.3": "Travel Staff",
+  "chapter.shop.explo.title.4": "Market",
+
+  "chapter.shop.globe.title.1": "Earth Globe",
+  "chapter.shop.globe.title.2": "Moon Globe",
+  "chapter.shop.globe.title.3": "Mars Globe",
+  "chapter.shop.globe.title.4": "Mercury Globe",
+  "chapter.shop.globe.title.5": "Venus Globe",
+  "chapter.shop.globe.title.6": "Glacio Globe",
+
+  "chapter.shop.crea.title.1": "Creative Motor",
+  "chapter.shop.crea.title.2": "Creative Defense Slot",
+  "chapter.shop.crea.title.3": "Creative Jetpack",
+  "chapter.shop.crea.title.4": "Creative Soul Slot",
+  "chapter.shop.crea.title.5": "Creative Sensor Slot",
+  "chapter.shop.crea.title.6": "Creative Blaze Cake",
+  "chapter.shop.crea.title.7": "Creative Ability",
+  "chapter.shop.crea.title.8": "Creative Upgrade",
 
   "chapter.shop.create.choco.title.1" : "Craft 64 Bars of Chocolate",
   "chapter.shop.create.choco.title.2" : "Craft 64 Chocolate Glazed Berries",
