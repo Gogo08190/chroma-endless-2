@@ -115,6 +115,17 @@ onEvent('recipes', (event) => {
             id: 'mysticalagriculture:fire_agglomeratio'
         },
         {
+            output: 'mysticalagriculture:water_agglomeratio',
+            pattern: ['RS', 'DM'],
+            key: {
+                R: 'botania:rune_water',
+                S: 'engineersdecor:dense_grit_sand_block',
+                D: 'minecraft:coarse_dirt',
+                M: 'mna:mote_water'
+            },
+            id: 'mysticalagriculture:water_agglomeratio'
+        },
+        {
             output: Item.of('undergarden:utherium_crystal', 3),
             pattern: ['AAA', 'A A', 'AAA'],
             key: {
