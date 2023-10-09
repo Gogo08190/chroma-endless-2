@@ -126,6 +126,22 @@ onEvent('recipes', (event) => {
           mana: 50000,
           id: 'botania:flighttiara_0'
       },
+      {
+          inputs: [
+              { item: 'mysticalagriculture:steel_seeds' },
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'mysticalagriculture:imperium_essence' },
+              { item: 'botania:manasteel_ingot' },
+              { item: 'botania:manasteel_ingot' },
+              { item: 'botania:manasteel_ingot' },
+              { item: 'botania:manasteel_ingot' }
+          ],
+          output: { item: 'mysticalagriculture:manasteel_seeds' },
+          mana: 10000,
+          id: 'mysticalagriculture:seed/infusion/manasteel'
+      },
     ];
 
     recipes.forEach((recipe) => {

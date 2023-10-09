@@ -133,6 +133,39 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: 'mysticalagriculture:seed/infusion/fluix'
       },
+      {
+        output: { item: 'mysticalagriculture:utherium_seeds' },
+        inputs: [
+          { item: 'jaopca:mekanism_shards.utherium', count: 64 },
+          { item: 'mysticalagriculture:imperium_essence', count: 4 },
+          { item: 'chroma:imperium_seed_base', count: 1 }
+        ],
+        process_time: 300,
+        energy_cost: 1500,
+        id: `${id_prefix}utherium_seeds`
+      },
+      {
+        output: { item: 'mysticalagriculture:regalium_seeds' },
+        inputs: [
+          { item: 'jaopca:mekanism_shards.regalium', count: 64 },
+          { item: 'mysticalagriculture:imperium_essence', count: 4 },
+          { item: 'chroma:imperium_seed_base', count: 1 }
+        ],
+        process_time: 300,
+        energy_cost: 1500,
+        id: `${id_prefix}regalium_seeds`
+      },
+      {
+        output: { item: 'mysticalagriculture:lumium_seeds' },
+        inputs: [
+          { item: 'thermal:lumium_block', count: 4 },
+          { item: 'mysticalagriculture:imperium_essence', count: 4 },
+          { item: 'chroma:imperium_seed_base', count: 1 }
+        ],
+        process_time: 300,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/lumium'
+      },
     ];
 
     recipes.forEach((recipe) => {
