@@ -51,83 +51,271 @@
   "recipeMap": "piggy_bank",
   "basePattern": {
     "structureDir": [
-      "RIGHT",
+      "FRONT",
       "UP",
-      "FRONT"
+      "LEFT"
     ],
     "pattern": [
       [
-        "AA  AA",
-        "AA  AA",
-        "AAAAAA",
-        "AABBAA",
-        "ABAABA",
-        "AACAAA",
-        "AAAAAA",
-        "AAAAAA"
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      AAAA      ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "      AAAA      ",
+        "                ",
+        "          A     ",
+        "         AA     ",
+        "          A     "
       ],
       [
-        "AD  EA",
-        "AA  AA",
-        "AAAAAA",
-        "AFGGFA",
-        "AHIIHA",
-        "CHIIHC",
-        "AFGGFA",
-        "AACBAA"
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "     AAAAAA     ",
+        "    AABBBBAA    ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "    AABBBBAA    ",
+        "     AAAAAA     ",
+        "       AAAA     ",
+        "        AC      ",
+        "         AA     "
       ],
       [
-        "      ",
-        "      ",
-        "AAAAAA",
-        "AGGGGA",
-        "AIJKIA",
-        "CIKJIC",
-        "AGGGGA",
-        "ACCBBA"
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "   AAAABBAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  AABBDDDDBBAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  AABBDDDDBBAE  ",
+        "   AABBBBBBAE   ",
+        "    AAABBAAA    ",
+        "       AAAA     ",
+        "          A     "
       ],
       [
-        "      ",
-        "      ",
-        "AAAAAA",
-        "AGGGGA",
-        "AIKJIA",
-        "AIJKIA",
-        "CGGGGC",
-        "ACCBBA"
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AAAAAAAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  ABBDDDDDDBBH  ",
+        "   AABBBBBBAE   ",
+        "     AAAAAA     ",
+        "                "
       ],
       [
-        "AA  AA",
-        "AA  AA",
-        "AAAAAA",
-        "AFGGFA",
-        "AHIIHA",
-        "AHIIHA",
-        "CFGGFC",
-        "AACBAA"
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA AAAA AA   ",
+        "   AAABBBBAAA   ",
+        "  AABBDDDDBBAA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDGIIIIIIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIIIIIIGDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  AABBGDDDBBAE  ",
+        "    AABBKBAA    ",
+        "      AAAA      "
       ],
       [
-        "AA  AA",
-        "AA  AA",
-        "AAAAAA",
-        "AAAAAA",
-        "AAAAAA",
-        "AAAAAA",
-        "LMAAML",
-        "AAAAAA"
+        "                ",
+        "                ",
+        "                ",
+        "     AEEEEA     ",
+        "   AABBBBBBAA   ",
+        "  ABBDDDDDDBBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDGIJJJJIGDBA ",
+        "ABDGGJLMLLJGGDBA",
+        "ABDGGJLLMLJGGDB@",
+        "ABDGGJLM LJGGDBA",
+        " ABDGIJJJJIGDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABBDDDDHDBBA  ",
+        "   AABHKHHBAA   ",
+        "     AAAAAA     "
       ],
       [
-        "      ",
-        "      ",
-        "      ",
-        "      ",
-        "  AA  ",
-        "  A@  ",
-        "      ",
-        "      "
+        "                ",
+        "                ",
+        "                ",
+        "     AEANEA     ",
+        "   AABBBBBBAA   ",
+        "  ABBDDDDDDBBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDGIJJJJIGDBA ",
+        "ABDGGJMMMMJGGDBA",
+        "OBDGGJMPPMJGGDBA",
+        "ABDGGJMMMMJGGDBA",
+        " ABDGIJJJJIGDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABBDKKKHDBBA  ",
+        "   AAHKK  HAA   ",
+        "     A    A     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "     AEEEEA     ",
+        "   AABBBBBBAA   ",
+        "  ABBDDDDDDBBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDGIJJJJIGDBA ",
+        "ABDGGJLLMLJGGDBA",
+        "ABDGGJLMLLJGGDBF",
+        "ABDGGJLLMLJGGDBA",
+        " ABDGIJJJJIGDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABBDDDHHDBBA  ",
+        "   AABHHHHKAA   ",
+        "     AAAAAA     "
+      ],
+      [
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA AAAA AA   ",
+        "   AAABBBBAAA   ",
+        "  AABBDDDDBBAA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDGIIIIIIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIIIIIIGDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  AABBDDDDBBAE  ",
+        "    AABBBBAA    ",
+        "      AAAA      "
+      ],
+      [
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AAAAAAAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  ABBDDDDDDBBH  ",
+        "   AABBBBBBAE   ",
+        "     AAAAAA     ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "   AAAABBAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  AABBDDDDBBAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  AABBDDDDBBAE  ",
+        "   AABBBBBBAE   ",
+        "    AAABBAAA    ",
+        "       AAAA     ",
+        "          A     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "     AAAAAA     ",
+        "    AABBBBAA    ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "    AABBBBAA    ",
+        "     AAAAAA     ",
+        "       AAAA     ",
+        "        AC      ",
+        "         AA     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      AAAA      ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "      AAAA      ",
+        "                ",
+        "          A     ",
+        "         AA     ",
+        "          A     "
       ]
     ],
     "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
       [
         1,
         1
@@ -173,7 +361,7 @@
       "B": {
         "blocks": [
           {
-            "id": "minecraft:pink_terracotta"
+            "id": "mekanismgenerators:fission_reactor_casing"
           }
         ],
         "type": "blocks"
@@ -189,7 +377,7 @@
       "D": {
         "blocks": [
           {
-            "id": "chroma:piggy_item_output"
+            "id": "tconstruct:pig_iron_block"
           }
         ],
         "type": "blocks"
@@ -197,7 +385,7 @@
       "E": {
         "blocks": [
           {
-            "id": "chroma:piggy_energy_input"
+            "id": "minecraft:white_concrete"
           }
         ],
         "type": "blocks"
@@ -205,7 +393,7 @@
       "F": {
         "blocks": [
           {
-            "id": "extendedcrafting:crystaltine_block"
+            "id": "minecraft:pink_terracotta"
           }
         ],
         "type": "blocks"
@@ -213,7 +401,7 @@
       "G": {
         "blocks": [
           {
-            "id": "chipped:raw_gold_block_7"
+            "id": "beyond_earth:calorite_block"
           }
         ],
         "type": "blocks"
@@ -221,7 +409,7 @@
       "H": {
         "blocks": [
           {
-            "id": "beyond_earth:calorite_block"
+            "id": "minecraft:black_concrete"
           }
         ],
         "type": "blocks"
@@ -229,7 +417,7 @@
       "I": {
         "blocks": [
           {
-            "id": "tconstruct:pig_iron_block"
+            "id": "extendedcrafting:crystaltine_block"
           }
         ],
         "type": "blocks"
@@ -237,7 +425,7 @@
       "J": {
         "blocks": [
           {
-            "id": "mysticalagradditions:insanium_ingot_block"
+            "id": "mekanism:ultimate_induction_provider"
           }
         ],
         "type": "blocks"
@@ -248,7 +436,7 @@
       "K": {
         "blocks": [
           {
-            "id": "draconicevolution:awakened_draconium_block"
+            "id": "chipped:raw_gold_block_7"
           }
         ],
         "type": "blocks"
@@ -256,7 +444,7 @@
       "L": {
         "blocks": [
           {
-            "id": "minecraft:black_concrete"
+            "id": "mysticalagradditions:insanium_ingot_block"
           }
         ],
         "type": "blocks"
@@ -267,7 +455,31 @@
       "M": {
         "blocks": [
           {
-            "id": "dustrial_decor:rainbow_neon_light"
+            "id": "draconicevolution:awakened_draconium_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "N": {
+        "blocks": [
+          {
+            "id": "chroma:piggy_item_output"
+          }
+        ],
+        "type": "blocks"
+      },
+      "O": {
+        "blocks": [
+          {
+            "id": "chroma:piggy_energy_input"
+          }
+        ],
+        "type": "blocks"
+      },
+      "P": {
+        "blocks": [
+          {
+            "id": "numismaticoverhaul:piggy_bank"
           }
         ],
         "type": "blocks"
@@ -321,6 +533,15 @@
       ],
       "-": [
         "air"
+      ],
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ],
+      "P": [
+        "P"
       ]
     }
   }
