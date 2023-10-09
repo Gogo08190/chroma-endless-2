@@ -609,6 +609,63 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'functionalstorage:netherite_upgrade'
         },
+        {
+            inputs: [
+                'mysticalagriculture:prudentium_essence',
+                'chroma:prudentium_seed_base',
+                'mysticalagriculture:prudentium_essence',
+                'thermal:sulfur_block',
+                'thermal:sulfur_block',
+                'mysticalagriculture:prudentium_essence',
+                'thermal:sulfur_block',
+                'mysticalagriculture:prudentium_essence'
+            ],
+            inputFluid: 'chemlib:hydrogen_sulfide_fluid',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'mysticalagriculture:sulfur_seeds', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'mysticalagriculture:seed/infusion/sulfur'
+        },
+        {
+            inputs: [
+                'mysticalagriculture:prudentium_essence',
+                'chroma:prudentium_seed_base',
+                'mysticalagriculture:prudentium_essence',
+                'forbidden_arcanus:obsidian_ingot',
+                'forbidden_arcanus:obsidian_ingot',
+                'mysticalagriculture:prudentium_essence',
+                'forbidden_arcanus:obsidian_ingot',
+                'mysticalagriculture:prudentium_essence'
+            ],
+            inputFluid: 'tconstruct:molten_obsidian',
+            inputFluidAmount: 1000,
+            processingTime: 300,
+            outputItem: { item: 'mysticalagriculture:obsidian_seeds', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'mysticalagriculture:seed/infusion/obsidian'
+        },
+        {
+            inputs: [
+                'mysticalagriculture:prudentium_essence',
+                'chroma:prudentium_seed_base',
+                'mysticalagriculture:prudentium_essence',
+                'minecraft:amethyst_cluster',
+                'minecraft:amethyst_cluster',
+                'mysticalagriculture:prudentium_essence',
+                'minecraft:amethyst_cluster',
+                'mysticalagriculture:prudentium_essence'
+            ],
+            inputFluid: 'tconstruct:molten_amethyst',
+            inputFluidAmount: 800,
+            processingTime: 300,
+            outputItem: { item: 'mysticalagriculture:amethyst_seeds', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: 'mysticalagriculture:seed/infusion/amethyst'
+        },
     ];
 
     recipes.forEach((recipe) => {

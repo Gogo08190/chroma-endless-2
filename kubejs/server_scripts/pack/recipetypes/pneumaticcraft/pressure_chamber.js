@@ -212,7 +212,7 @@ onEvent('recipes', (event) => {
                 { item: 'mysticalagriculture:inferium_essence', count: 4 },
                 { item: 'chroma:inferium_seed_base', count: 1 }
             ],
-            pressure: 2.5,
+            pressure: 2.0,
             results: [{ item: 'mysticalagriculture:dye_seeds', count: 1 }],
             id: 'mysticalagriculture:seed/infusion/dye'
         },
@@ -222,9 +222,29 @@ onEvent('recipes', (event) => {
                 { item: 'mysticalagriculture:inferium_essence', count: 4 },
                 { item: 'chroma:inferium_seed_base', count: 1 }
             ],
-            pressure: 2.5,
+            pressure: 2.0,
             results: [{ item: 'mysticalagriculture:coral_seeds', count: 1 }],
             id: 'mysticalagriculture:seed/infusion/coral'
+        },
+        {
+            inputs: [
+                { item: 'mysticalagriculture:nature_agglomeratio', count: 4 },
+                { item: 'mysticalagriculture:prudentium_essence', count: 4 },
+                { item: 'chroma:prudentium_seed_base', count: 1 }
+            ],
+            pressure: 2.5,
+            results: [{ item: 'mysticalagriculture:nature_seeds', count: 1 }],
+            id: 'mysticalagriculture:seed/infusion/nature'
+        },
+        {
+            inputs: [
+                { item: 'mysticalagriculture:end_agglomeratio', count: 4 },
+                { item: 'mysticalagriculture:prudentium_essence', count: 4 },
+                { item: 'chroma:prudentium_seed_base', count: 1 }
+            ],
+            pressure: 2.5,
+            results: [{ item: 'mysticalagriculture:end_seeds', count: 1 }],
+            id: 'mysticalagriculture:seed/infusion/end'
         },
     ];
 

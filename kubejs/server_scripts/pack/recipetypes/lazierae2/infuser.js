@@ -186,6 +186,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: `${id_prefix}accelerator_frame`
       },
+      {
+        output: { item: 'mysticalagriculture:saltpeter_seeds', count: 1 },
+        inputs: [
+          { item: 'chemlib:potassium_nitrate_dust', count: 4 },
+          { item: 'chroma:prudentium_seed_base', count: 1 },
+          { item: 'mysticalagriculture:prudentium_essence', count: 4 },
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/saltpeter'
+      },
     ];
 
     recipes.forEach((recipe) => {
