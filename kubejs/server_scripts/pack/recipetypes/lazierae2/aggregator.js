@@ -26,7 +26,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'mysticalagriculture:signalum_seeds' },
         inputs: [
-          { item: 'thermal:signalum_ingot', count: 4 },
+          { item: 'thermal:signalum_block', count: 4 },
           { item: 'mysticalagriculture:imperium_essence', count: 4 },
           { item: 'chroma:imperium_seed_base', count: 1 }
         ],
@@ -37,7 +37,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'mysticalagriculture:steel_seeds' },
         inputs: [
-          { item: 'immersiveengineering:ingot_steel', count: 4 },
+          { item: 'immersiveengineering:storage_steel', count: 4 },
           { item: 'mysticalagriculture:imperium_essence', count: 4 },
           { item: 'chroma:imperium_seed_base', count: 1 }
         ],
@@ -48,7 +48,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'mysticalagriculture:forgotten_seeds' },
         inputs: [
-          { item: 'undergarden:forgotten_ingot', count: 4 },
+          { item: 'undergarden:forgotten_block', count: 4 },
           { item: 'mysticalagriculture:imperium_essence', count: 4 },
           { item: 'chroma:imperium_seed_base', count: 1 }
         ],
@@ -81,7 +81,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'mysticalagriculture:invar_seeds' },
         inputs: [
-          { item: 'thermal:invar_ingot', count: 4 },
+          { item: 'thermal:invar_block', count: 4 },
           { item: 'mysticalagriculture:imperium_essence', count: 4 },
           { item: 'chroma:imperium_seed_base', count: 1 }
         ],
@@ -92,7 +92,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'mysticalagriculture:rose_gold_seeds' },
         inputs: [
-          { item: 'tconstruct:rose_gold_ingot', count: 4 },
+          { item: 'tconstruct:rose_gold_block', count: 4 },
           { item: 'mysticalagriculture:imperium_essence', count: 4 },
           { item: 'chroma:imperium_seed_base', count: 1 }
         ],
@@ -103,7 +103,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'mysticalagriculture:constantan_seeds' },
         inputs: [
-          { item: 'thermal:constantan_ingot', count: 4 },
+          { item: 'thermal:constantan_block', count: 4 },
           { item: 'mysticalagriculture:imperium_essence', count: 4 },
           { item: 'chroma:imperium_seed_base', count: 1 }
         ],
@@ -114,7 +114,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'mysticalagriculture:electrum_seeds' },
         inputs: [
-          { item: 'thermal:electrum_ingot', count: 4 },
+          { item: 'thermal:electrum_block', count: 4 },
           { item: 'mysticalagriculture:imperium_essence', count: 4 },
           { item: 'chroma:imperium_seed_base', count: 1 }
         ],
