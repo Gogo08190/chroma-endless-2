@@ -43,6 +43,6 @@
   "multiblocked.recipe_map.particle_accelerator": "Particle Accelerator",
   "block.chroma.piggy_item_output": "Piggy Bank Item Output",
   "block.chroma.piggy_energy_input": "Piggy Bank Energy Input",
-  "block.chroma.particle_accelerator": "Piggy Bank Controller",
+  "block.chroma.piggy_bank": "Piggy Bank Controller",
   "multiblocked.recipe_map.piggy_bank": "Piggy Bank"
 }
