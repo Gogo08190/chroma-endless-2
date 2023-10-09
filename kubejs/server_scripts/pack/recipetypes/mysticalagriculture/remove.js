@@ -77,7 +77,9 @@ onEvent('recipes', (event) => {
       'mysticalagriculture:nether_star_essence',
       'mysticalagriculture:turtle_essence',
       'mysticalagradditions:nether_star_shard',
-      'mysticalagradditions:dragon_egg_chunk'
+      'mysticalagradditions:dragon_egg_chunk',
+      'mysticalagriculture:essence/minecraft/honeycomb',
+      'mysticalagriculture:essence/minecraft/honey_bottle'
     ];
 
     idRemovals.forEach((id) => {
