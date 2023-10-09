@@ -76,7 +76,7 @@ onEvent('recipes', (event) => {
                 { item: 'extendedcrafting:redstone_component', count: 4 },
                 { item: 'pneumaticcraft:capacitor', count: 1 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'extendedcrafting:redstone_catalyst', count: 1 }],
             id: 'extendedcrafting:redstone_catalyst'
         },
@@ -86,7 +86,7 @@ onEvent('recipes', (event) => {
                 { item: 'ae2:calculation_processor', count: 1 },
                 { item: 'pneumaticcraft:transistor', count: 2 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'ae2:cell_component_16k', count: 1 }],
             id: 'ae2:network/cells/item_storage_components_cell_16k_part'
         },
@@ -96,7 +96,7 @@ onEvent('recipes', (event) => {
                 { item: 'ae2:engineering_processor', count: 1 },
                 { item: 'powah:capacitor_blazing', count: 4 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'ae2:spatial_cell_component_16', count: 1 }],
             id: 'ae2:network/cells/spatial_components_0'
         },
@@ -147,7 +147,7 @@ onEvent('recipes', (event) => {
                 { item: 'extendedcrafting:elite_component', count: 4 },
                 { item: 'powah:capacitor_blazing', count: 1 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'extendedcrafting:elite_catalyst', count: 1 }],
             id: 'extendedcrafting:elite_catalyst'
         },
@@ -156,7 +156,7 @@ onEvent('recipes', (event) => {
                 { item: 'chroma:supra_component', count: 4 },
                 { item: 'powah:capacitor_niotic', count: 1 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'chroma:supra_catalyst', count: 1 }],
             id: `${id_prefix}supra_catalyst`
         },
@@ -166,7 +166,7 @@ onEvent('recipes', (event) => {
                 { item: 'ironjetpacks:basic_coil', count: 1 },
                 { item: 'pneumaticcraft:ingot_iron_compressed', count: 2 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [Item.of('ironjetpacks:cell', '{Id:"ironjetpacks:compressed_gas"}')],
             id: `${id_prefix}compressed_cell`
         },
@@ -175,7 +175,7 @@ onEvent('recipes', (event) => {
                 { item: 'extendedcrafting:ultimate_component', count: 4 },
                 { item: 'draconicevolution:wyvern_core', count: 1 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'extendedcrafting:ultimate_catalyst', count: 1 }],
             id: 'extendedcrafting:ultimate_catalyst'
         },
@@ -184,7 +184,7 @@ onEvent('recipes', (event) => {
                 { item: 'extendedcrafting:crystaltine_component', count: 4 },
                 { item: 'mekanism:pellet_polonium', count: 1 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'extendedcrafting:crystaltine_catalyst', count: 1 }],
             id: 'extendedcrafting:crystaltine_catalyst'
         },
@@ -193,7 +193,7 @@ onEvent('recipes', (event) => {
                 { item: 'extendedcrafting:enhanced_ender_component', count: 4 },
                 { item: 'powah:ender_core', count: 1 }
             ],
-            pressure: 3.5,
+            pressure: 3.0,
             results: [{ item: 'extendedcrafting:enhanced_ender_catalyst', count: 1 }],
             id: 'extendedcrafting:enhanced_ender_catalyst'
         },
@@ -245,6 +245,22 @@ onEvent('recipes', (event) => {
             pressure: 2.5,
             results: [{ item: 'mysticalagriculture:end_seeds', count: 1 }],
             id: 'mysticalagriculture:seed/infusion/end'
+        },
+        {
+            inputs: [
+                { item: 'mysticalagradditions:creative_essence', count: 12 },
+                { item: 'extendedcrafting:the_ultimate_catalyst', count: 4 },
+                { item: 'pneumaticcraft:flux_compressor', count: 8 },
+                { item: 'pneumaticcraft:electrostatic_compressor', count: 8 },
+                { item: 'pneumaticcraft:advanced_liquid_compressor', count: 8 },
+                { item: 'extendedcrafting:crystaltine_block', count: 12 },
+                { item: 'mekanism:pellet_antimatter', count: 2 },
+                { item: 'pneumaticcraft:advanced_pressure_tube', count: 32 },
+                { item: 'extendedcrafting:ultimate_singularity', count: 1 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'pneumaticcraft:creative_compressor', count: 1 }],
+            id: `${id_prefix}creative_compressor`
         },
     ];
 
