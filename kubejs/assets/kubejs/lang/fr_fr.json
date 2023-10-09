@@ -74,17 +74,62 @@
 
   "chapter.shop.title": "&lBoutique",
 
+  "chapter.shop.shipped.title.1": "Établi du Botaniste",
+  "chapter.shop.shipped.title.2": "Établi du Berger",
+  "chapter.shop.shipped.title.3": "Établi du Bricoleur",
+  "chapter.shop.shipped.title.4": "Établi du Philosophe",
+  "chapter.shop.shipped.title.5": "Établi du Maçon",
+  "chapter.shop.shipped.title.6": "Établi du Charpentier",
+  "chapter.shop.shipped.title.7": "Établi du Souffleur de Verre",
   "chapter.shop.shipped.subtitle" : "Décorateur d'intérieur",
 
   "chapter.shop.task.title" : "Ecran de Tâche",
   "chapter.shop.task.subtitle": "Automatisation des quêtes",
   "chapter.shop.task.description": "Les écrans de tâches sont des blocs qui montrent les objectifs de quête dans le monde. Ils peuvent être liés à une seule tâche et afficher des informations liées à cette tâche, certaines tâches nécessitent des écrans afin de permettre l’automatisation (objectifs basés sur l’énergie par exemple). Vous pouvez modifier la tâche à laquelle un écran est défini en cliquant furtivement avec le bouton droit sur l’écran, cela ouvrira l’interface graphique des paramètres des écrans. Vous pouvez également modifier leur texture et les rendre incassables, ce qui peut être utile dans les cartes personnalisées.",
 
+  "chapter.shop.dj.title": "Disque de Musique",
+
+  "chapter.shop.elytra.title": "Elytra",
+
   "chapter.shop.relic.title" : "Relique Aléatoire",
 
   "chapter.shop.artifact.title" : "Artéfact Aléatoire",
 
+  "chapter.shop.angel.title": "Bague en Diamant",
   "chapter.shop.angel.description": "Cet item ne vous permet pas encore de voler. Il est principalement utilisé pour créer le vrai &6Angel Ring&r et le &9Steel Jetpack&r.",
+
+  "chapter.shop.charm.title.1": "Charme du Sommeil",
+  "chapter.shop.charm.title.2": "Charme de Portail",
+  "chapter.shop.charm.title.3": "Charme de Protection",
+  "chapter.shop.charm.title.4": "Charme d'Apothéose",
+
+  "chapter.shop.coin.title": "Pièce de Fermier",
+
+  "chapter.shop.dark.title.1": "Essence de Non-Mort",
+  "chapter.shop.dark.title.2": "Lingot d'Acier d'Âme",
+  "chapter.shop.dark.title.3": "Poussière de Tombe",
+  "chapter.shop.dark.title.4": "Ossuaire",
+
+  "chapter.shop.explo.title.1": "Table du Chercheur",
+  "chapter.shop.explo.title.2": "Ancre de Voyage",
+  "chapter.shop.explo.title.3": "Bâton de Voyage",
+  "chapter.shop.explo.title.4": "Marché",
+
+  "chapter.shop.globe.title.1": "Globe Terrestre",
+  "chapter.shop.globe.title.2": "Globe Lunaire",
+  "chapter.shop.globe.title.3": "Globe de Mars",
+  "chapter.shop.globe.title.4": "Globe de Mercure",
+  "chapter.shop.globe.title.5": "Globe de Vénus",
+  "chapter.shop.globe.title.6": "Globe de Glacio",
+
+  "chapter.shop.crea.title.1": "Moteur Créatif",
+  "chapter.shop.crea.title.2": "Emplacement de Défense Créatif",
+  "chapter.shop.crea.title.3": "Jetpack Créatif",
+  "chapter.shop.crea.title.4": "Emplacement d'Âme Créatif",
+  "chapter.shop.crea.title.5": "Emplacement de Capteur Créatif",
+  "chapter.shop.crea.title.6": "Gâteau de Blaze Créatif",
+  "chapter.shop.crea.title.7": "Capacité Créative",
+  "chapter.shop.crea.title.8": "Amélioration Créative",
 
   "chapter.shop.create.choco.title. 1" : "Fabriquer 64 barres de chocolat",
   "chapter.shop.create.choco.title. 2" : "Fabriquer 64 baies glacées au chocolat",
