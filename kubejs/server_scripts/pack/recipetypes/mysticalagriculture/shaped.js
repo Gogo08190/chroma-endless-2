@@ -114,6 +114,78 @@ onEvent('recipes', (event) => {
             },
             id: 'mysticalagriculture:fire_agglomeratio'
         },
+        {
+            output: Item.of('undergarden:utherium_crystal', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:utherium_essence'
+            },
+            id: `${id_prefix}utherium_crystal`
+        },
+        {
+            output: Item.of('undergarden:regalium_crystal', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:regalium_essence'
+            },
+            id: `${id_prefix}regalium_crystal`
+        },
+        {
+            output: Item.of('beyond_earth:desh_ingot', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:desh_essence'
+            },
+            id: `${id_prefix}desh_ingot`
+        },
+        {
+            output: Item.of('undergarden:cloggrum_ingot', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:cloggrum_essence'
+            },
+            id: `${id_prefix}cloggrum_ingot`
+        },
+        {
+            output: Item.of('undergarden:forgotten_ingot', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:forgotten_essence'
+            },
+            id: `${id_prefix}forgotten_ingot`
+        },
+        {
+            output: Item.of('immersiveengineering:ingot_steel', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:steel_essence'
+            },
+            id: 'mysticalagriculture:essence/common/steel_ingot'
+        },
+        {
+            output: Item.of('beyond_earth:ostrum_ingot', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:ostrum_essence'
+            },
+            id: `${id_prefix}ostrum_ingot`
+        },
+        {
+            output: Item.of('mythicbotany:alfsteel_ingot', 2),
+            pattern: ['AAA', 'AAA', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:alfsteel_essence'
+            },
+            id: `${id_prefix}alfsteel_ingot`
+        },
+        {
+            output: Item.of('beyond_earth:calorite_ingot', 2),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:calorite_essence'
+            },
+            id: `${id_prefix}calorite_ingot`
+        },
     ];
 
     recipes.forEach((recipe) => {
