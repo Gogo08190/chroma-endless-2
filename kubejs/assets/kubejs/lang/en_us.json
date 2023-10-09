@@ -190,6 +190,7 @@
   "chapter.challenge.piggy.title.1": "Piggy Bank - Part 1",
   "chapter.challenge.piggy.title.2": "Piggy Bank - Part 2",
   "chapter.challenge.piggy.subtitle": "Oink Oink !",
+  "chapter.challenge.piggy.description": "The &cPiggy Bank&r is a good way of generating money in this pack. To get Gold Coins simply power your Piggy Bank and let money rain!", 
 
   "chapter.challenge.rich.title": "$$ &6Le Millionaire&r $$",
   "chapter.challenge.rich.subtitle": "Here comes the money !"",
@@ -1992,6 +1993,8 @@
   "chapter.final.title": "The Final Step",
 
   "chapter.final.particle.title": "Particle Accelerator",
+  "chapter.final.particle.subtitle": "Creative Transformation",
+  "chapter.final.particle.description": "With Deuterium, Helium Gas and of course energy, The &3Particle Accelerator&r transforms your &5Insanium Essence&r into &6Creative Essence&r.",
 
   "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
