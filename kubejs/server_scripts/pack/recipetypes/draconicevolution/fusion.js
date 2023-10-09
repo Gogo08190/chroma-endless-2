@@ -497,6 +497,56 @@ onEvent('recipes', (event) => {
           result: { item: 'mysticalagriculture:enderium_seeds', count: 1 },
           id: 'mysticalagriculture:seed/infusion/enderium'
       },
+      {
+          inputs: [
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'draconicevolution:awakened_draconium_block' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'draconicevolution:dragon_heart' },
+            { item: 'draconicevolution:dragon_heart' },
+            { item: 'chroma:eternal_cryostella_polaris' },
+            { item: 'chroma:eternal_cryostella_polaris' }
+          ],
+          tier: "DRACONIC",
+          catalyst: { item: 'chroma:insanium_seed_base' },
+          total_energy: 100000000,
+          result: { item: 'mysticalagriculture:awakened_draconium_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/awakened_draconium'
+      },
+      {
+          inputs: [
+            { item: 'draconicevolution:draconium_block' },
+            { item: 'draconicevolution:draconium_block' },
+            { item: 'draconicevolution:draconium_block' },
+            { item: 'draconicevolution:draconium_block' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'mysticalagradditions:insanium_essence' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' },
+            { item: 'draconicevolution:draconium_core' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'chroma:insanium_seed_base' },
+          total_energy: 10000000,
+          result: { item: 'mysticalagriculture:draconium_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/draconium'
+      },
     ];
 
     recipes.forEach((recipe) => {

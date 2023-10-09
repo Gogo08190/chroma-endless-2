@@ -301,4 +301,192 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}creative_energy_cell`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAABCBAAA",
+        "ADEFGHIJA",
+        "AKLLLLLMA",
+        "BNLOOOLPB",
+        "CQLOROLSC",
+        "BTLOOOLUB",
+        "AVLLLLLWA",
+        "AXYZabcdA",
+        "AAABCBAAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagriculture:fertilized_essence"
+        },
+        "B": {
+          "item": "botania:dragonstone_block"
+        },
+        "C": {
+          "item": "botania:pixie_dust"
+        },
+        "D": {
+          "item": "mythicbotany:alfheim_rune"
+        },
+        "E": {
+          "item": "botania:rune_pride"
+        },
+        "F": {
+          "item": "botania:rune_envy"
+        },
+        "G": {
+          "item": "botania:rune_wrath"
+        },
+        "H": {
+          "item": "botania:rune_sloth"
+        },
+        "I": {
+          "item": "botania:rune_greed"
+        },
+        "J": {
+          "item": "mythicbotany:vanaheim_rune"
+        },
+        "K": {
+          "item": "mythicbotany:midgard_rune"
+        },
+        "L": {
+          "item": "mythicbotany:alfsteel_ingot"
+        },
+        "M": {
+          "item": "botania:rune_summer"
+        },
+        "N": {
+          "item": "mythicbotany:joetunheim_rune"
+        },
+        "O": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "P": {
+          "item": "botania:rune_spring"
+        },
+        "Q": {
+          "item": "mythicbotany:muspelheim_rune"
+        },
+        "R": {
+          "item": "chroma:insanium_seed_base"
+        },
+        "S": {
+          "item": "botania:rune_earth"
+        },
+        "T": {
+          "item": "mythicbotany:niflheim_rune"
+        },
+        "U": {
+          "item": "botania:rune_fire"
+        },
+        "V": {
+          "item": "mythicbotany:nidavellir_rune"
+        },
+        "W": {
+          "item": "botania:rune_water"
+        },
+        "X": {
+          "item": "mythicbotany:helheim_rune"
+        },
+        "Y": {
+          "item": "botania:rune_gluttony"
+        },
+        "Z": {
+          "item": "botania:rune_lust"
+        },
+        "a": {
+          "item": "botania:rune_mana"
+        },
+        "b": {
+          "item": "botania:rune_winter"
+        },
+        "c": {
+          "item": "botania:rune_autumn"
+        },
+        "d": {
+          "item": "mythicbotany:asgard_rune"
+        }
+      },
+      "result": {
+        "item": "mysticalagriculture:alfsteel_seeds"
+      }
+    }
+  ).id(`${id_prefix}alfsteel_seeds`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABBCBBA",
+        "BBDEDBB",
+        "BDEDEDB",
+        "CEDFDEC",
+        "BDEDEDB",
+        "BBDEDBB",
+        "ABBCBBA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagriculture:fertilized_essence"
+        },
+        "B": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "C": {
+          "item": "powah:nitro_crystal_block"
+        },
+        "D": {
+          "item": "powah:crystal_nitro"
+        },
+        "E": {
+          "item": "powah:charged_snowball"
+        },
+        "F": {
+          "item": "chroma:insanium_seed_base"
+        }
+      },
+      "result": {
+        "item": "mysticalagriculture:nitro_crystal_seeds"
+      }
+    }
+  ).id('mysticalagriculture:seed/infusion/nitro_crystal')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABBCBBA",
+        "BBDEDBB",
+        "BDEDEDB",
+        "CEDFDEC",
+        "BDEDEDB",
+        "BBDEDBB",
+        "ABBCBBA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagriculture:fertilized_essence"
+        },
+        "B": {
+          "item": "mysticalagradditions:insanium_essence"
+        },
+        "C": {
+          "item": "beyond_earth:calorite_block"
+        },
+        "D": {
+          "item": "beyond_earth:calorite_ingot"
+        },
+        "E": {
+          "item": "beyond_earth:ice_shard"
+        },
+        "F": {
+          "item": "chroma:insanium_seed_base"
+        }
+      },
+      "result": {
+        "item": "mysticalagriculture:calorite_seeds"
+      }
+    }
+  ).id(`${id_prefix}calorite_seeds`)
 });
