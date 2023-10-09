@@ -4,7 +4,7 @@ onEvent('recipes', (event) => {
       {
         output: { item: 'create:andesite_alloy', count: 4 },
         inputs: [
-          { tag: 'chroma:andesite/processing', count: 1 },
+          { tag: 'chroma:andesite/processing', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -15,7 +15,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'thermal:tin_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { item: 'immersiveengineering:plate_steel', count: 4 },
+          { item: 'immersiveengineering:plate_steel', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -26,7 +26,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'thermal:electrum_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { item: 'thermal:lead_plate', count: 4 },
+          { item: 'thermal:lead_plate', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -37,7 +37,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'thermal:iron_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { item: 'thermal:copper_plate', count: 4 },
+          { item: 'thermal:copper_plate', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -48,7 +48,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'thermal:lead_gear', count: 2 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { item: 'immersiveengineering:plate_aluminum', count: 4 },
+          { item: 'immersiveengineering:plate_aluminum', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -59,7 +59,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'immersiveengineering:treated_wood_horizontal', count: 4 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { item: 'thermal:lead_plate', count: 4 },
+          { item: 'thermal:lead_plate', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -70,7 +70,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'immersiveengineering:plate_steel', count: 4 },
           { item: 'powah:dielectric_casing', count: 1 },
-          { item: 'mekanism:elite_control_circuit', count: 4 },
+          { item: 'mekanism:elite_control_circuit', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -81,7 +81,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'thermal:redstone_servo', count: 1 },
           { item: 'mekanism:elite_control_circuit', count: 2 },
-          { item: 'rftoolsbase:machine_base', count: 2 },
+          { item: 'rftoolsbase:machine_base', count: 2 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -92,7 +92,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'pneumaticcraft:unassembled_pcb', count: 1 },
           { item: 'pneumaticcraft:capacitor', count: 4 },
-          { item: 'pneumaticcraft:transistor', count: 4 },
+          { item: 'pneumaticcraft:transistor', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -103,7 +103,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'ae2:calculation_processor', count: 2 },
           { item: 'mekanism:ultimate_control_circuit', count: 4 },
-          { item: 'ae2:crafting_unit', count: 1 },
+          { item: 'ae2:crafting_unit', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -114,7 +114,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'beyond_earth:compressed_steel', count: 4 },
           { item: 'minecraft:iron_ingot', count: 2 },
-          { item: 'beyond_earth:ostrum_ingot', count: 2 },
+          { item: 'beyond_earth:ostrum_ingot', count: 2 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -125,7 +125,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'beyond_earth:compressed_steel', count: 4 },
           { item: 'mekanism:ingot_osmium', count: 2 },
-          { item: 'beyond_earth:ostrum_ingot', count: 2 },
+          { item: 'beyond_earth:ostrum_ingot', count: 2 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -136,7 +136,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'jaopca:beyond_earth_compresseds.lead', count: 4 },
           { item: 'mekanism:steel_casing', count: 1 },
-          { item: 'beyond_earth:ostrum_ingot', count: 2 },
+          { item: 'beyond_earth:ostrum_ingot', count: 2 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -147,7 +147,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'powah:crystal_niotic', count: 2 },
           { item: 'powah:capacitor_spirited', count: 1 },
-          { item: 'chroma:structure_frame', count: 1 },
+          { item: 'chroma:structure_frame', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -158,7 +158,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'ae2:calculation_processor', count: 1 },
           { item: 'ae2:cell_component_256k', count: 3 },
-          { item: 'lazierae2:carbonic_fluix_dust', count: 4 },
+          { item: 'lazierae2:carbonic_fluix_dust', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -169,7 +169,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'powah:crystal_nitro', count: 2 },
           { item: 'powah:capacitor_nitro', count: 1 },
-          { item: 'chroma:void_miner_frame_tier1', count: 1 },
+          { item: 'chroma:void_miner_frame_tier1', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -180,7 +180,7 @@ onEvent('recipes', (event) => {
         inputs: [
           { item: 'chemlib:lanthanum_ingot', count: 2 },
           { item: 'draconicevolution:small_chaos_frag', count: 1 },
-          { item: 'mekanism:hdpe_sheet', count: 4 },
+          { item: 'mekanism:hdpe_sheet', count: 4 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -190,12 +190,78 @@ onEvent('recipes', (event) => {
         output: { item: 'mysticalagriculture:saltpeter_seeds', count: 1 },
         inputs: [
           { item: 'chemlib:potassium_nitrate_dust', count: 4 },
-          { item: 'chroma:prudentium_seed_base', count: 1 },
           { item: 'mysticalagriculture:prudentium_essence', count: 4 },
+          { item: 'chroma:prudentium_seed_base', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
         id: 'mysticalagriculture:seed/infusion/saltpeter'
+      },
+      {
+        output: { item: 'mysticalagriculture:slimesteel_seeds', count: 1 },
+        inputs: [
+          { item: 'tconstruct:slimesteel_block', count: 4 },
+          { item: 'mysticalagriculture:tertium_essence', count: 1 },
+          { item: 'chroma:tertium_seed_base', count: 4 }
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/slimesteel'
+      },
+      {
+        output: { item: 'mysticalagriculture:bronze_seeds', count: 1 },
+        inputs: [
+          { item: 'thermal:bronze_block', count: 4 },
+          { item: 'mysticalagriculture:tertium_essence', count: 1 },
+          { item: 'chroma:tertium_seed_base', count: 4 }
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/bronze'
+      },
+      {
+        output: { item: 'mysticalagriculture:brass_seeds', count: 1 },
+        inputs: [
+          { item: 'create:brass_block', count: 4 },
+          { item: 'mysticalagriculture:tertium_essence', count: 1 },
+          { item: 'chroma:tertium_seed_base', count: 4 }
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/brass'
+      },
+      {
+        output: { item: 'mysticalagriculture:amethyst_bronze_seeds', count: 1 },
+        inputs: [
+          { item: 'tconstruct:amethyst_bronze_block', count: 4 },
+          { item: 'mysticalagriculture:tertium_essence', count: 1 },
+          { item: 'chroma:tertium_seed_base', count: 4 }
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/amethyst_bronze'
+      },
+      {
+        output: { item: 'mysticalagriculture:pig_iron_seeds', count: 1 },
+        inputs: [
+          { item: 'tconstruct:pig_iron_block', count: 4 },
+          { item: 'mysticalagriculture:tertium_essence', count: 1 },
+          { item: 'chroma:tertium_seed_base', count: 4 }
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/pig_iron'
+      },
+      {
+        output: { item: 'mysticalagriculture:silicon_seeds', count: 1 },
+        inputs: [
+          { item: 'ae2:printed_silicon', count: 4 },
+          { item: 'mysticalagriculture:tertium_essence', count: 1 },
+          { item: 'chroma:tertium_seed_base', count: 4 }
+        ],
+        process_time: 80,
+        energy_cost: 1500,
+        id: 'mysticalagriculture:seed/infusion/silicon'
       },
     ];
 
