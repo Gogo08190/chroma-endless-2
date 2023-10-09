@@ -850,26 +850,26 @@
   "chapter.stage.3.quest.20.description.1": "Traitez le LPG et le charbon dans le Thermoprocessor et obtenez du Plastique Fondu.",
 
   "chapter.stage.3.quest.21.subtitle.1": "Première Génération d'Air",
-  "chapter.stage.3.quest.21.description.1": "Cette machine génère de l'air comprimé. Pour ce faire, insérez n'importe quel combustible solide inflammable, sauf un seau de carburant.",
+  "chapter.stage.3.quest.21.description.1": "Pour générer de l'air comprimé avec cette machine, il vous suffit d'insérer n'importe quel combustible solide inflammable, à l'exception d'un seau de carburant.",
 
   "chapter.stage.3.quest.22.subtitle.1": "Générateur d'Air Combustible",
-  "chapter.stage.3.quest.22.description.1": "Cette machine génère de l'air comprimé. Pour ce faire, insérez un fluide variable comme carburant. N'oubliez pas de vérifier JEI.",
+  "chapter.stage.3.quest.22.description.1": "Pour générer de l'air comprimé avec cette machine, utilisez un fluide variable comme carburant. Assurez-vous de vérifier dans JEI les fluides compatibles.",
 
   "chapter.stage.3.quest.23.subtitle.1": "Refroidissement ou Chauffage ? Les deux !",
-  "chapter.stage.3.quest.23.description.1": "Ceci doit être placé sur n'importe quel inventaire. Lorsqu'il est chauffé par une source de chaleur adjacente, il fondra n'importe quel objet en même temps qu'il gèlera s'il est refroidi.",
+  "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé par une source de chaleur adjacente, il chauffera certains objets spécifiques, alors que s'il est refroidi, il refroidira les objets dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les items compatibles.",
   "chapter.stage.3.quest.23.description.2": "Cela ne réussira que si le stockage est vide. Plus vous apporterez de chaleur ou de froid, plus cela ira rapidement.",
 
   "chapter.stage.3.quest.24.title": "La Chambre de Pression",
   "chapter.stage.3.quest.24.subtitle.1": "Fabrication avec Pression",
   "chapter.stage.3.quest.24.description.1": "La Chambre de Pression est une structure multi-blocs principalement utilisée pour comprimer différents matériaux en d'autres.",
-  "chapter.stage.3.quest.24.description.2": "Elle est créée en créant un cube creux à partir de Murs/Fenêtres de Chambre de Pression.",
-  "chapter.stage.3.quest.24.description.3": "La taille du cube peut varier de 3x3x3 à 5x5x5, et les fenêtres ne sont pas nécessaires pour créer la Chambre de Pression.",
-  "chapter.stage.3.quest.24.description.4": "La Chambre de Pression nécessite également une Vanne, qui doit être connectée aux blocs d'air dans la Chambre de Pression.",
+  "chapter.stage.3.quest.24.description.2": "Elle est créée en formant un cube creux à partir de Murs pour les arrêtes du cube et Murs/Fenêtres/Vannes de Chambre de Pression pour les faces.",
+  "chapter.stage.3.quest.24.description.3": "La taille du cube peut varier de 3x3x3 à 5x5x5, et les Fenêtres ne sont pas nécessaires pour créer la Chambre de Pression, elles n'ont qu'un intérêt cosmétique.",
+  "chapter.stage.3.quest.24.description.4": "La Chambre de Pression nécessite également une Vanne, qui doit être sur une des faces de la Chambre de Pression, mais pas sur les arêtes.",
   "chapter.stage.3.quest.24.description.5": "Au moins une Vanne est requise, mais d'autres peuvent être ajoutées. Lorsque la construction de la Chambre de Pression est terminée, l'interface utilisateur peut être ouverte en faisant un clic droit sur l'un de ses blocs constitutifs.",
-  "chapter.stage.3.quest.24.description.6": "L'Interface de la Chambre de Pression peut également être ajoutée à la structure pour permettre l'insertion et le retrait d'objets vers et depuis la Chambre de Pression, ce qui rend possible l'automatisation de l'entrée/sortie avec des tuyaux.",
+  "chapter.stage.3.quest.24.description.6": "La Chambre de Pression doit également contenir 2 interfaces, une pour insérer les items et une autre les retirer une fois qu'ils ont été compressés. Cela permet d'automatiser le processus, notamment avec des câbles à items.",
 
   "chapter.stage.3.quest.25.subtitle.1": "Refroidissement du Plastique",
-  "chapter.stage.3.quest.25.description.1": "Refroidissez une partie du Plastique Fondu dans le Cadre de Chaleur et obtenez une Feuille de Plastique.",
+  "chapter.stage.3.quest.25.description.1": "Refroidissez du Plastique Liquide contenu dans un seau ou un réservoir de liquide du mod pneumaticcraft à l'aide du Cadre de Chaleur et obtenez une ou deux Feuilles de Plastique en fonction de la fraicheur du Cadre en échange de 1000Mb de Plastique Liquide.",
 
   "chapter.stage.3.quest.26.subtitle.1": "Premier Composant Pneumatique",
   "chapter.stage.3.quest.26.description.1": "Utilisez la Chambre de Pression pour fabriquer le Transistor.",
