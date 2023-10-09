@@ -80,6 +80,76 @@ onEvent('recipes', (event) => {
           result: { item: 'functionalstorage:diamond_upgrade', count: 1 },
           id: 'functionalstorage:diamond_upgrade'
       },
+      {
+          pattern: ['ABA', 'BCB', 'ABA'],
+          key: {
+            A: { item: 'minecraft:oak_wood' },
+            B: { item: 'mysticalagriculture:inferium_essence' },
+            C: { item: 'chroma:inferium_seed_base' }
+          },
+          result: { item: 'mysticalagriculture:wood_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/wood'
+      },
+      {
+          pattern: ['ABA', 'BCB', 'ABA'],
+          key: {
+            A: { item: 'minecraft:stone' },
+            B: { item: 'mysticalagriculture:inferium_essence' },
+            C: { item: 'chroma:inferium_seed_base' }
+          },
+          result: { item: 'mysticalagriculture:stone_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/stone'
+      },
+      {
+          pattern: ['ABA', 'BCB', 'ABA'],
+          key: {
+            A: { item: 'ae2:smooth_sky_stone_block' },
+            B: { item: 'mysticalagriculture:inferium_essence' },
+            C: { item: 'chroma:inferium_seed_base' }
+          },
+          result: { item: 'mysticalagriculture:sky_stone_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/sky_stone'
+      },
+      {
+          pattern: ['ABA', 'BCB', 'ABA'],
+          key: {
+            A: { item: 'create:limestone' },
+            B: { item: 'mysticalagriculture:inferium_essence' },
+            C: { item: 'chroma:inferium_seed_base' }
+          },
+          result: { item: 'mysticalagriculture:limestone_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/limestone'
+      },
+      {
+          pattern: ['ABA', 'BCB', 'ABA'],
+          key: {
+            A: { item: 'powah:dry_ice' },
+            B: { item: 'mysticalagriculture:inferium_essence' },
+            C: { item: 'chroma:inferium_seed_base' }
+          },
+          result: { item: 'mysticalagriculture:ice_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/ice'
+      },
+      {
+          pattern: ['ABA', 'BCB', 'ABA'],
+          key: {
+            A: { item: 'farmersdelight:rich_soil' },
+            B: { item: 'mysticalagriculture:inferium_essence' },
+            C: { item: 'chroma:inferium_seed_base' }
+          },
+          result: { item: 'mysticalagriculture:dirt_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/dirt'
+      },
+      {
+          pattern: ['ABA', 'BCB', 'ABA'],
+          key: {
+            A: { item: 'minecraft:polished_deepslate' },
+            B: { item: 'mysticalagriculture:inferium_essence' },
+            C: { item: 'chroma:inferium_seed_base' }
+          },
+          result: { item: 'mysticalagriculture:deepslate_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/deepslate'
+      },
     ];
 
     recipes.forEach((recipe) => {

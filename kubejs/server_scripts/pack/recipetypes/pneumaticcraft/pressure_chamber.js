@@ -206,6 +206,26 @@ onEvent('recipes', (event) => {
             results: [{ item: 'extendedcrafting:ender_catalyst', count: 1 }],
             id: 'extendedcrafting:ender_catalyst'
         },
+        {
+            inputs: [
+                { item: 'mysticalagriculture:dye_agglomeratio', count: 4 },
+                { item: 'mysticalagriculture:inferium_essence', count: 4 },
+                { item: 'chroma:inferium_seed_base', count: 1 }
+            ],
+            pressure: 2.5,
+            results: [{ item: 'mysticalagriculture:dye_seeds', count: 1 }],
+            id: 'mysticalagriculture:seed/infusion/dye'
+        },
+        {
+            inputs: [
+                { item: 'mysticalagriculture:coral_agglomeratio', count: 4 },
+                { item: 'mysticalagriculture:inferium_essence', count: 4 },
+                { item: 'chroma:inferium_seed_base', count: 1 }
+            ],
+            pressure: 2.5,
+            results: [{ item: 'mysticalagriculture:coral_seeds', count: 1 }],
+            id: 'mysticalagriculture:seed/infusion/coral'
+        },
     ];
 
     recipes.forEach((recipe) => {

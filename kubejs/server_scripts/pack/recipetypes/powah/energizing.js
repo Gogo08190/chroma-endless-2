@@ -495,6 +495,21 @@ onEvent('recipes', (event) => {
             },
             id: 'extendedcrafting:ender_component'
         },
+        {
+            ingredients: [
+                { item: 'mysticalagriculture:inferium_gemstone' },
+                { item: 'mysticalagriculture:inferium_gemstone' },
+                { item: 'mysticalagriculture:inferium_block' },
+                { item: 'mysticalagriculture:inferium_block' },
+                { item: 'chroma:inferium_seed_base' }
+            ],
+            energy: 25000,
+            result: {
+                item: 'mysticalagriculture:inferium_seeds',
+                count: 1
+            },
+            id: 'mysticalagriculture:inferium_seeds'
+        },
     ];
 
     recipes.forEach((recipe) => {

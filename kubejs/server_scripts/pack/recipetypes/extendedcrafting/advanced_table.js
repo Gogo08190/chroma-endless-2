@@ -2283,4 +2283,70 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('solarpanels:creative_solar_panel')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCDE",
+        "FGHIJ",
+        "KLMNO",
+        "P    ",
+        "     "
+      ],
+      "key": {
+        "A": {
+          "item": "botania:white_petal"
+        },
+        "B": {
+          "item": "botania:orange_petal"
+        },
+        "C": {
+          "item": "botania:magenta_petal"
+        },
+        "D": {
+          "item": "botania:light_blue_petal"
+        },
+        "E": {
+          "item": "botania:yellow_petal"
+        },
+        "F": {
+          "item": "botania:lime_petal"
+        },
+        "G": {
+          "item": "botania:pink_petal"
+        },
+        "H": {
+          "item": "botania:gray_petal"
+        },
+        "I": {
+          "item": "botania:light_gray_petal"
+        },
+        "J": {
+          "item": "botania:cyan_petal"
+        },
+        "K": {
+          "item": "botania:purple_petal"
+        },
+        "L": {
+          "item": "botania:blue_petal"
+        },
+        "M": {
+          "item": "botania:brown_petal"
+        },
+        "N": {
+          "item": "botania:green_petal"
+        },
+        "O": {
+          "item": "botania:red_petal"
+        },
+        "P": {
+          "item": "botania:black_petal"
+        }
+      },
+      "result": {
+        "item": "mysticalagriculture:mystical_flower_agglomeratio"
+      }
+    }
+  ).id('mysticalagriculture:mystical_flower_agglomeratio')
 });
