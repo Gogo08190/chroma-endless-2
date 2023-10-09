@@ -429,6 +429,74 @@ onEvent('recipes', (event) => {
           result: { item: 'solarpanels:creative_energy_tablet', count: 1 },
           id: 'solarpanels:creative_energy_tablet'
       },
+      {
+          inputs: [
+            { item: 'tconstruct:queens_slime_block' },
+            { item: 'tconstruct:queens_slime_block' },
+            { item: 'tconstruct:queens_slime_block' },
+            { item: 'tconstruct:queens_slime_block' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'chroma:supremium_seed_base' },
+          total_energy: 200000,
+          result: { item: 'mysticalagriculture:queens_slime_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/queens_slime'
+      },
+      {
+          inputs: [
+            { item: 'minecraft:netherite_block' },
+            { item: 'minecraft:netherite_block' },
+            { item: 'minecraft:netherite_block' },
+            { item: 'minecraft:netherite_block' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'chroma:supremium_seed_base' },
+          total_energy: 200000,
+          result: { item: 'mysticalagriculture:netherite_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/netherite'
+      },
+      {
+          inputs: [
+            { item: 'tconstruct:manyullyn_block' },
+            { item: 'tconstruct:manyullyn_block' },
+            { item: 'tconstruct:manyullyn_block' },
+            { item: 'tconstruct:manyullyn_block' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'chroma:supremium_seed_base' },
+          total_energy: 200000,
+          result: { item: 'mysticalagriculture:manyullyn_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/manyullyn'
+      },
+      {
+          inputs: [
+            { item: 'thermal:enderium_block' },
+            { item: 'thermal:enderium_block' },
+            { item: 'thermal:enderium_block' },
+            { item: 'thermal:enderium_block' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' },
+            { item: 'mysticalagriculture:supremium_essence' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'chroma:supremium_seed_base' },
+          total_energy: 200000,
+          result: { item: 'mysticalagriculture:enderium_seeds', count: 1 },
+          id: 'mysticalagriculture:seed/infusion/enderium'
+      },
     ];
 
     recipes.forEach((recipe) => {

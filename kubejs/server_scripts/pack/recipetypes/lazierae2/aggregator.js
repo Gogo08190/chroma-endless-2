@@ -166,6 +166,17 @@ onEvent('recipes', (event) => {
         energy_cost: 1500,
         id: 'mysticalagriculture:seed/infusion/lumium'
       },
+      {
+        output: { item: 'mysticalagriculture:ostrum_seeds' },
+        inputs: [
+          { item: 'jaopca:mekanism_crystals.ostrum', count: 64 },
+          { item: 'mysticalagriculture:supremium_essence', count: 4 },
+          { item: 'chroma:supremium_seed_base', count: 1 }
+        ],
+        process_time: 300,
+        energy_cost: 3000,
+        id: `${id_prefix}ostrum_seeds`
+      },
     ];
 
     recipes.forEach((recipe) => {

@@ -2415,4 +2415,40 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mysticalagriculture:seed/infusion/refined_obsidian')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AAAAA",
+        "ABCBA",
+        "ADEDA",
+        "ABFBA",
+        "AAAAA"
+      ],
+      "key": {
+        "A": {
+          "item": "tconstruct:hepatizon_ingot"
+        },
+        "B": {
+          "item": "mysticalagriculture:supremium_essence"
+        },
+        "C": {
+          "item": "tconstruct:cobalt_block"
+        },
+        "D": {
+          "item": "minecraft:copper_block"
+        },
+        "E": {
+          "item": "chroma:supremium_seed_base"
+        },
+        "F": {
+          "item": "minecraft:quartz_block"
+        }
+      },
+      "result": {
+        "item": "mysticalagriculture:hepatizon_seeds"
+      }
+    }
+  ).id('mysticalagriculture:seed/infusion/hepatizon')
 });

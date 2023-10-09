@@ -542,6 +542,38 @@ onEvent('recipes', (event) => {
             },
             id: 'mysticalagriculture:seed/infusion/blazing_crystal'
         },
+        {
+            ingredients: [
+                { item: 'mysticalagriculture:supremium_essence' },
+                { item: 'mysticalagriculture:supremium_essence' },
+                { item: 'mysticalagriculture:supremium_essence' },
+                { item: 'chroma:supremium_seed_base' },
+                { item: 'chemlib:praseodymium_metal_block' },
+                { item: 'powah:spirited_crystal_block' }
+            ],
+            energy: 10000000,
+            result: {
+                item: 'mysticalagriculture:spirited_crystal_seeds',
+                count: 1
+            },
+            id: 'mysticalagriculture:seed/infusion/spirited_crystal'
+        },
+        {
+            ingredients: [
+                { item: 'mysticalagriculture:supremium_essence' },
+                { item: 'mysticalagriculture:supremium_essence' },
+                { item: 'mysticalagriculture:supremium_essence' },
+                { item: 'chroma:supremium_seed_base' },
+                { item: 'mysticalagriculture:forgotten_seeds' },
+                { item: 'powah:niotic_crystal_block' }
+            ],
+            energy: 3000000,
+            result: {
+                item: 'mysticalagriculture:niotic_crystal_seeds',
+                count: 1
+            },
+            id: 'mysticalagriculture:seed/infusion/niotic_crystal'
+        },
     ];
 
     recipes.forEach((recipe) => {
