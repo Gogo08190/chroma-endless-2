@@ -190,6 +190,7 @@
   "chapter.challenge.piggy.title.1": "Piggy Bank - Part 1",
   "chapter.challenge.piggy.title.2": "Piggy Bank - Part 2",
   "chapter.challenge.piggy.subtitle": "Gruik Gruik !",
+  "chapter.challenge.piggy.description": "La &cCochon Tirelire&r est un bon moyen de générer de l'argent. Pour obtenir des Pièces d'Or, il vous suffit d'alimenter votre Cochon Tirelire et de laisser pleuvoir l'argent !",
 
   "chapter.challenge.rich.title": "$$ &6Le Millionaire&r $$",
   "chapter.challenge.rich.subtitle": "J'aime l'argent!",
@@ -1992,6 +1993,8 @@
   "chapter.final.title": "La Dernière Etape",
 
   "chapter.final.particle.title": "Accélérateur de Particules",
+  "chapter.final.particle.subtitle": "Transformation Créative",
+  "chapter.final.particle.description": "Avec du Deutérium, de l'Hélium gazeux et bien sûr de l'énergie, le &3Accélérateur de Particules&r transforme votre &5Essence d'Insanium&r en &6Essence Créative&r.",
 
   "Heavy Machinery":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
