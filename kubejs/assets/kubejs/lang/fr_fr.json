@@ -3200,9 +3200,9 @@
 
   "chapter.bigger.quest.22.title": "&aMa première turbine",
   "chapter.bigger.quest.22.subtitle.1": "Beyblade",
-  "chapter.bigger.quest.22.description.1": "Nous allons construire la turbine la plus petite possible, la &b5x4x5&r.",
-  "chapter.bigger.quest.22.description.2": "Les exigences de la quête correspondent exactement à ce dont vous avez besoin pour en assembler une.",
-  "chapter.bigger.quest.22.description.3": "Pour assembler cela, commencez par construire un cadre 5x4x5 en utilisant des &l&bGainages de turbine&r.",
+  "chapter.bigger.quest.22.description.1": "Nous allons construire une turbine de taille minimale, la &b5x4x5&r.",
+  "chapter.bigger.quest.22.description.2": "Les exigences de la quête correspondent exactement à ce dont vous avez besoin pour la construire.",
+  "chapter.bigger.quest.22.description.3": "Pour l'assembler, commencez par construire un cadre de dimensions 5x4x5 en utilisant des &l&bGainages de turbine&r.",
   "chapter.bigger.quest.22.description.4": "Pour fonctionner, votre turbine a besoin de :",
   "chapter.bigger.quest.22.description.5": "• 1 Terminal de turbine",
   "chapter.bigger.quest.22.description.6": "• 56 Gainages de turbine",
@@ -3216,11 +3216,11 @@
   "chapter.bigger.quest.23.title": "Bobines de turbine",
   "chapter.bigger.quest.23.subtitle.1": "Augmentez l'efficacité de la turbine",
   "chapter.bigger.quest.23.description.1": "Les &l&bBobines de turbine&r sont des matériaux placés autour d'un arbre de turbine à une extrémité de la turbine lors de la construction.",
-  "chapter.bigger.quest.23.description.2": "Les bobines ont trois propriétés principales qui affectent la simulation de la turbine :",
+  "chapter.bigger.quest.23.description.2": "Les bobines possèdent trois propriétés principales qui influencent la simulation de la turbine :",
   "chapter.bigger.quest.23.description.3": "• &aTaux d'extraction :&r Affecte la RF extraite par tick par RPM.",
   "chapter.bigger.quest.23.description.4": "• &aEfficacité :&r Affecte la quantité de RF bonus qui est ensuite convertie en RF de sortie.",
   "chapter.bigger.quest.23.description.5": "• &aBonus :&r Applique un bonus RF final exponentiel sur la valeur RF extraite.",
-  "chapter.bigger.quest.23.description.6": "En général, des valeurs plus élevées sont meilleures.",
+  "chapter.bigger.quest.23.description.6": "En général, plus les valeurs sont élevées, meilleure est la production de RF.",
 
   "Applied Energistics": "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
