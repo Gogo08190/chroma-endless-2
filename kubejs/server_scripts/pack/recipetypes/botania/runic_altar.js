@@ -29,6 +29,70 @@ onEvent('recipes', (event) => {
         output: 'mob_grinding_utils:nutritious_chicken_feed',
         id: 'mob_grinding_utils:recipe_nutritious_feed'
       },
+      {
+        inputs: [
+          'mysticalagriculture:air_agglomeratio',
+          'mysticalagriculture:air_agglomeratio',
+          'mysticalagriculture:air_agglomeratio',
+          'mysticalagriculture:air_agglomeratio',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:prosperity_seed_base'
+        ],
+        mana: 20000,
+        output: 'mysticalagriculture:air_seeds',
+        id: 'mysticalagriculture:seed/infusion/air'
+      },
+      {
+        inputs: [
+          'mysticalagriculture:earth_agglomeratio',
+          'mysticalagriculture:earth_agglomeratio',
+          'mysticalagriculture:earth_agglomeratio',
+          'mysticalagriculture:earth_agglomeratio',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:prosperity_seed_base'
+        ],
+        mana: 20000,
+        output: 'mysticalagriculture:earth_seeds',
+        id: 'mysticalagriculture:seed/infusion/earth'
+      },
+      {
+        inputs: [
+          'mysticalagriculture:fire_agglomeratio',
+          'mysticalagriculture:fire_agglomeratio',
+          'mysticalagriculture:fire_agglomeratio',
+          'mysticalagriculture:fire_agglomeratio',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:prosperity_seed_base'
+        ],
+        mana: 20000,
+        output: 'mysticalagriculture:fire_seeds',
+        id: 'mysticalagriculture:seed/infusion/fire'
+      },
+      {
+        inputs: [
+          'mysticalagriculture:water_agglomeratio',
+          'mysticalagriculture:water_agglomeratio',
+          'mysticalagriculture:water_agglomeratio',
+          'mysticalagriculture:water_agglomeratio',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_essence',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:inferium_gemstone',
+          'mysticalagriculture:prosperity_seed_base'
+        ],
+        mana: 20000,
+        output: 'mysticalagriculture:water_seeds',
+        id: 'mysticalagriculture:seed/infusion/water'
+      }
     ];
 
     recipes.forEach((recipe) => {

@@ -71,6 +71,49 @@ onEvent('recipes', (event) => {
             },
             id: 'mysticalagriculture:mystical_fertilizer_better'
         },
+        {
+            output: 'mysticalagriculture:soulium_dagger',
+            pattern: [' I ', 'GSG', ' I '],
+            key: {
+                I: 'mysticalagriculture:soulium_ingot',
+                G: 'mysticalagriculture:soulium_gemstone',
+                S: Item.of('evilcraft:vein_sword').weakNBT()
+            },
+            id: 'mysticalagriculture:soulium_dagger'
+        },
+        {
+            output: 'mysticalagriculture:air_agglomeratio',
+            pattern: ['RS', 'DM'],
+            key: {
+                R: 'botania:rune_air',
+                S: 'engineersdecor:dense_grit_sand_block',
+                D: 'minecraft:coarse_dirt',
+                M: 'mna:mote_air'
+            },
+            id: 'mysticalagriculture:air_agglomeratio'
+        },
+        {
+            output: 'mysticalagriculture:earth_agglomeratio',
+            pattern: ['RS', 'DM'],
+            key: {
+                R: 'botania:rune_earth',
+                S: 'engineersdecor:dense_grit_sand_block',
+                D: 'minecraft:coarse_dirt',
+                M: 'mna:mote_earth'
+            },
+            id: 'mysticalagriculture:earth_agglomeratio'
+        },
+        {
+            output: 'mysticalagriculture:fire_agglomeratio',
+            pattern: ['RS', 'DM'],
+            key: {
+                R: 'botania:rune_fire',
+                S: 'engineersdecor:dense_grit_sand_block',
+                D: 'minecraft:coarse_dirt',
+                M: 'mna:mote_fire'
+            },
+            id: 'mysticalagriculture:fire_agglomeratio'
+        },
     ];
 
     recipes.forEach((recipe) => {
