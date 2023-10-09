@@ -191,7 +191,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'chroma:mixed_tier_2_essence',
-            pattern: ['ABCDEFGH'],
+            pattern: ['ABCDEFG'],
             key: {
                 A: 'mysticalagriculture:amethyst_essence',
                 B: 'mysticalagriculture:sulfur_essence',
@@ -199,8 +199,7 @@ onEvent('recipes', (event) => {
                 D: 'mysticalagriculture:obsidian_essence',
                 E: 'mysticalagriculture:nether_essence',
                 F: 'mysticalagriculture:end_essence',
-                G: 'mysticalagriculture:honey_essence',
-                H: 'mysticalagriculture:nature_essence'
+                G: 'mysticalagriculture:nature_essence'
             },
             id: `${id_prefix}mixed_tier_2_essence`
         },
