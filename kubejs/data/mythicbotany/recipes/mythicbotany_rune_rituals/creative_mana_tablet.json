@@ -1,0 +1,192 @@
+{
+  "type": "mythicbotany:rune_ritual",
+  "group": "rune_rituals",
+  "center": {
+    "item": "mythicbotany:fimbultyr_tablet"
+  },
+  "runes": [
+    {
+      "rune": {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      "x": -5,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      "x": 5,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      "x": 0,
+      "z": -5,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      "x": 0,
+      "z": 5,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_block"
+      },
+      "x": -4,
+      "z": -4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_block"
+      },
+      "x": -4,
+      "z": 4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_block"
+      },
+      "x": 4,
+      "z": -4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_block"
+      },
+      "x": 4,
+      "z": 4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": -3,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": 3,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": -2,
+      "z": 3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": 2,
+      "z": 3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": -3,
+      "z": -2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": 3,
+      "z": -2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": -2,
+      "z": -3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "botania:gaia_ingot"
+      },
+      "x": 2,
+      "z": -3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mysticalagradditions:creative_essence"
+      },
+      "x": -2,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mysticalagradditions:creative_essence"
+      },
+      "x": 2,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mysticalagradditions:creative_essence"
+      },
+      "x": 0,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mysticalagradditions:creative_essence"
+      },
+      "x": 0,
+      "z": -2,
+      "consume": true
+    }
+  ],
+  "mana": 1000000,
+  "ticks": 300,
+  "inputs": [
+    {
+      "item": "extendedcrafting:ultimate_singularity"
+    },
+    {
+      "item": "mekanism:pellet_antimatter"
+    },
+    {
+      "item": "botania:rune_greed"
+    },
+    {
+      "item": "botania:blacker_lotus"
+    }
+  ],
+  "outputs": [
+    {
+      "item": "botania:mana_tablet",
+      "nbt": "{creative:1b,mana:500000}",
+      "count": 1
+    }
+  ]
+}
