@@ -175,13 +175,13 @@
 
   "chapter.challenges.love": "Accoupler 1500 Animaux",
 
-  "chapter.challenges.applied": "Ajoutez 100K Items dans votre ME Storage System",
+  "chapter.challenges.applied": "Ajoutez 100K Objets dans votre ME Storage System",
 
   "chapter.challenges.trade": "Echanger avec 1000 Villagers",
 
   "chapter.challenges.xp": "Avoir 3000 niveaux d'XP ",
 
-  "chapter.challenges.enchant": "&5Enchanter&r 5000 Items",
+  "chapter.challenges.enchant": "&5Enchanter&r 5000 Objets",
 
   "chapter.challenge.killing.wither": "Tuez 100 &6Withers&r",
 
@@ -197,7 +197,7 @@
 
   "Items Utiles" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
-  "useful.title" : "&lItems Utiles",
+  "useful.title" : "&lObjets Utiles",
 
   "chapter.useful.title.1": "Machines Compactes",
   "chapter.useful.title.2": "Des Gadgets pour constuire",
@@ -621,7 +621,7 @@
   "chapter.stage.2.quest.47.description.1": "Cette machine est principalement utilisée pour cuire ou fondre n'importe quel objet compatible.",
 
   "chapter.stage.2.quest.48.subtitle.1": "Fuuusiionnn !",
-  "chapter.stage.2.quest.48.description.1": "Cette machine est principalement utilisée pour combiner deux items entre eux.",
+  "chapter.stage.2.quest.48.description.1": "Cette machine est principalement utilisée pour combiner deux objets entre eux.",
   "chapter.stage.2.quest.48.description.2": "Consultez JEI pour voir toutes les recettes disponibles.",
 
   "chapter.stage.2.quest.49.subtitle.1": "Fonte de mana",
@@ -856,7 +856,7 @@
   "chapter.stage.3.quest.22.description.1": "Pour générer de l'air comprimé avec cette machine, utilisez un fluide variable comme carburant. Assurez-vous de vérifier dans JEI les fluides compatibles.",
 
   "chapter.stage.3.quest.23.subtitle.1": "Refroidissement ou Chauffage ? Les deux !",
-  "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé par une source de chaleur adjacente, il chauffera certains objets spécifiques, alors que s'il est refroidi, il refroidira les objets dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les items compatibles.",
+  "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé par une source de chaleur adjacente, il chauffera certains objets spécifiques, alors que s'il est refroidi, il refroidira les objets dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les objets compatibles.",
   "chapter.stage.3.quest.23.description.2": "Cela ne réussira que si le stockage est vide. Plus vous apporterez de chaleur ou de froid, plus cela ira rapidement.",
 
   "chapter.stage.3.quest.24.title": "La Chambre de Pression",
@@ -866,7 +866,7 @@
   "chapter.stage.3.quest.24.description.3": "La taille du cube peut varier de 3x3x3 à 5x5x5, et les Fenêtres ne sont pas nécessaires pour créer la Chambre de Pression, elles n'ont qu'un intérêt cosmétique.",
   "chapter.stage.3.quest.24.description.4": "La Chambre de Pression nécessite également une Vanne, qui doit être sur une des faces de la Chambre de Pression, mais pas sur les arêtes.",
   "chapter.stage.3.quest.24.description.5": "Au moins une Vanne est requise, mais d'autres peuvent être ajoutées. Lorsque la construction de la Chambre de Pression est terminée, l'interface utilisateur peut être ouverte en faisant un clic droit sur l'un de ses blocs constitutifs.",
-  "chapter.stage.3.quest.24.description.6": "La Chambre de Pression doit également contenir 2 interfaces, une pour insérer les items et une autre les retirer une fois qu'ils ont été compressés. Cela permet d'automatiser le processus, notamment avec des câbles à items.",
+  "chapter.stage.3.quest.24.description.6": "La Chambre de Pression doit également contenir 2 interfaces, une pour insérer les objets et une autre les retirer une fois qu'ils ont été compressés. Cela permet d'automatiser le processus, notamment avec des câbles de transports d'objets.",
 
   "chapter.stage.3.quest.25.subtitle.1": "Refroidissement du Plastique",
   "chapter.stage.3.quest.25.description.1": "Refroidissez du Plastique Liquide contenu dans un seau ou un réservoir de liquide du mod pneumaticcraft à l'aide du Cadre de Chaleur et obtenez une ou deux Feuilles de Plastique en fonction de la fraicheur du Cadre en échange de 1000Mb de Plastique Liquide.",
