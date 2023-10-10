@@ -3311,7 +3311,7 @@
   "chapter.ae.quest.19.description.1": "L'&bÉmetteur de Niveau ME&r fonctionne en fonction de la configuration d'un objet désigné et de sa quantité correspondante. En fonction de la présence de l'objet et de la quantité dans le réseau, l'émetteur émettra un signal de redstone, en fonction de la quantité stockée qui dépasse, est inférieure ou correspond au seuil spécifié.",
   "chapter.ae.quest.19.description.2": "Cette fonctionnalité peut être exploitée, par exemple, pour activer automatiquement des machines spécifiques à l'aide de signaux de redstone pour l'auto-fabrication de ressources chaque fois que leurs quantités descendent en dessous d'un seuil minimum prédéfini.",
 
-  "chapter.ae.quest.20.subtitle.1": "Redstone Appliquée",
+  "chapter.ae.quest.20.subtitle.1": "Applied et Redstone",
   "chapter.ae.quest.20.description.1": "Les dispositifs ME individuels peuvent également être programmés pour réagir aux signaux de redstone. En intégrant une &bCarte de Redstone&r, un dispositif peut être programmé pour effectuer des tâches uniquement lorsqu'il est alimenté par un signal de redstone ou conformément à des exigences spécifiques.",
   "chapter.ae.quest.20.description.2": "Ce comportement peut s'étendre à des &osections&r entières d'un réseau ME grâce à l'utilisation d'un &bBus de Basculement ME&r. Cette solution innovante permet à un segment de réseau désigné connecté via le bus de s'activer uniquement lorsque le bus reçoit un signal de redstone. En revanche, lors de l'utilisation d'un bus de bascule &6inversé&r, le segment de réseau désigné peut être désactivé.",
 

@@ -3311,7 +3311,7 @@
   "chapter.ae.quest.19.description.1": "The &bME Level Emitter&r operates in accordance with the configuration of a designated item and its corresponding quantity. Based on the item's presence and amount within the network, the emitter will emit a redstone signal, contingent upon whether the stored quantity falls below, exceeds, or matches the specified threshold.",
   "chapter.ae.quest.19.description.2": "This functionality can be leveraged, for instance, to automatically activate specific machines using redstone signals for auto-crafting resources whenever their quantities drop below a predefined minimum threshold.",
 
-  "chapter.ae.quest.20.subtitle.1": "Applied & Redstone",
+  "chapter.ae.quest.20.subtitle.1": "Applied and Redstone",
   "chapter.ae.quest.20.description.1": "Individual ME devices can be tailored to react to redstone signals as well. By integrating a &bRedstone Card&r, a device can be programmed to perform tasks exclusively when powered by a redstone signal or in accordance with specific requirements.",
   "chapter.ae.quest.20.description.2": "This behavior can extend to entire &osections&r of an ME network through the utilization of an &bME Toggle Bus&r. This innovative solution enables a designated network segment connected via the bus to activate only when the bus receives a redstone signal. Alternatively, when employing an &6inverted&r toggle bus, the designated network segment can be deactivated.",
 
