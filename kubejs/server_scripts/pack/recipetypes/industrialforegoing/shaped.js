@@ -189,7 +189,7 @@ onEvent('recipes', (event) => {
           pattern: ['BLB', 'EWE', 'GMG'],
           key: {
               B: 'industrialforegoing:plastic',
-              L: 'expandedstorage:iron_barrel',
+              L: 'pneumaticcraft:reinforced_chest',
               E: 'industrialforegoing:common_black_hole_tank',
               W: 'industrialforegoing:machine_frame_pity',
               M: 'mekanism:energy_tablet',
@@ -268,7 +268,7 @@ onEvent('recipes', (event) => {
           pattern: ['BLB', 'EWE', 'GMG'],
           key: {
               B: 'industrialforegoing:plastic',
-              L: 'expandedstorage:iron_barrel',
+              L: 'pneumaticcraft:reinforced_chest',
               E: 'industrialforegoing:sludge_bucket',
               W: 'industrialforegoing:machine_frame_pity',
               M: 'mekanism:energy_tablet',

@@ -82,7 +82,7 @@ onEvent('recipes', (event) => {
             pattern: ['C C', ' N ', 'CEC'],
             key: {
                 C: 'biggerreactors:reactor_casing',
-                N: 'expandedstorage:netherite_chest',
+                N: 'pneumaticcraft:smart_chest',
                 E: 'minecraft:piston'
             },
             id: 'biggerreactors:crafting/reactor/reactor_access_port'
