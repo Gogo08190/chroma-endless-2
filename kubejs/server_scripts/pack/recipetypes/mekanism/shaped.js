@@ -1163,7 +1163,7 @@ onEvent('recipes', (event) => {
             output: 'mekanism:antiprotonic_nucleosynthesizer',
             pattern: ['ACA', 'PFP', 'ACA'],
             key: {
-                A: 'chroma:cosmic_alloy',
+                A: 'chroma:infinite_alloy',
                 C: 'mekaevolution:infinite_control_circuit',
                 P: '#forge:pellets/antimatter',
                 F: 'mekanism:steel_casing'
