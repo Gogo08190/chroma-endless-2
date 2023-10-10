@@ -7,7 +7,7 @@
 	#Range: > 1
 	defaultMaterialsRequired = 10000
 	#Should default recipes be generated for Singularities?
-	defaultRecipes = true
+	defaultRecipes = false
 	#The default amount of FE required to create a Singularity.
 	#Range: > 0
 	defaultPowerRequired = 5000000
@@ -80,4 +80,3 @@
 	alternatorEffectiveness = 0.01
 	#Should the Ender Crafter be enabled?
 	enabled = true
-
