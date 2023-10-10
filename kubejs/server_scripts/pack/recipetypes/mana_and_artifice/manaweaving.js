@@ -65,6 +65,28 @@ onEvent('recipes', (event) => {
           output: 'compactcrafting:field_projector',
           id: 'compactcrafting:field_projector'
       },
+      {
+          items: [
+            'blue_skies:ventium_block',
+            'mysticalagradditions:creative_essence',
+            'botania:rune_mana',
+            'mekanism:steel_casing',
+            'mekanism:advanced_tier_installer',
+            'botania:gaia_ingot',
+            'mekanism:advanced_control_circuit'
+          ],
+          patterns: [
+            'mna:split_triangle',
+            'mna:infinity',
+            'mna:knot2',
+            'mna:manaweave_patterns/hourglass',
+            'mna:diamond',
+            'mna:slash'
+          ],
+          tier: 4,
+          output: 'chroma:shard_of_the_greater_mana',
+          id: `${id_prefix}shard_of_the_greater_mana`
+      },
     ];
 
     recipes.forEach((recipe) => {

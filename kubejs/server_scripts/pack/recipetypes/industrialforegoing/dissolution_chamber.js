@@ -666,6 +666,25 @@ onEvent('recipes', (event) => {
             outputFluidAmount: 0,
             id: 'mysticalagriculture:seed/infusion/amethyst'
         },
+        {
+            inputs: [
+                'solarpanels:spectral_energy_tablet',
+                'mysticalagradditions:creative_essence',
+                'solarpanels:spectral_energy_tablet',
+                'lazierae2:parallel_processor',
+                'lazierae2:parallel_processor',
+                'beyond_earth:desh_block',
+                'chroma:miner_core',
+                'beyond_earth:desh_block'
+            ],
+            inputFluid: 'mekanism:lithium',
+            inputFluidAmount: 8000,
+            processingTime: 600,
+            outputItem: { item: 'chroma:shard_of_mankind', count: 1 },
+            outputFluid: '',
+            outputFluidAmount: 0,
+            id: `${id_prefix}shard_of_mankind`
+        },
     ];
 
     recipes.forEach((recipe) => {

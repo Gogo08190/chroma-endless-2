@@ -262,6 +262,17 @@ onEvent('recipes', (event) => {
             results: [{ item: 'pneumaticcraft:creative_compressor', count: 1 }],
             id: `${id_prefix}creative_compressor`
         },
+        {
+            inputs: [
+                { item: 'mekanism:elite_tier_installer', count: 1 },
+                { item: 'mysticalagradditions:creative_essence', count: 1 },
+                { item: 'extendedcrafting:enhanced_ender_catalyst', count: 3 },
+                { item: 'extendedcrafting:luminessence', count: 4 }
+            ],
+            pressure: 3.5,
+            results: [{ item: 'chroma:shard_of_the_greater_good', count: 1 }],
+            id: `${id_prefix}shard_of_the_greater_good`
+        },
     ];
 
     recipes.forEach((recipe) => {

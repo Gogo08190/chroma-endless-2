@@ -245,6 +245,23 @@ onEvent('recipes', (event) => {
           result: { item: 'mysticalagriculture:experience_seeds' },
           id: 'mysticalagriculture:seed/infusion/experience'
       },
+      {
+          inputs: [
+              { item: 'chroma:shard_of_knowledge' },
+              { item: 'chroma:shard_of_the_greater_mana' },
+              { item: 'chroma:shard_of_the_greater_good' },
+              { item: 'chroma:shard_of_mankind' },
+              { item: 'chroma:shard_of_nature' },
+              { item: 'chroma:shard_of_imunity' },
+              { item: 'chroma:shard_of_perserevity' },
+              { item: 'chroma:shard_of_creativity' },
+          ],
+          catalyst: { item: 'forbidden_arcanus:eternal_stella' },
+          powerCost: 100000000,
+          powerRate: 1000000,
+          result: { item: 'chroma:endless' },
+          id: `${id_prefix}endless`
+      },
     ];
 
     recipes.forEach((recipe) => {

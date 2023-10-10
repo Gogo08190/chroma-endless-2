@@ -231,6 +231,19 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}mixed_tier_3_essence`
         },
+        {
+            output: 'chroma:shard_of_knowledge',
+            pattern: ['      ', '   TTT', '  MMPV', ' MCMV ', 'MMMM  ', 'BBB   '],
+            key: {
+                T: 'create:electron_tube',
+                M: 'create:precision_mechanism',
+                P: 'tconstruct:pig_iron_block',
+                V: 'mna:vinteum_block',
+                C: 'mysticalagradditions:creative_essence',
+                B: 'create:blaze_burner'
+            },
+            id: `${id_prefix}shard_of_knowledge`
+        },
     ];
 
     recipes.forEach((recipe) => {

@@ -1,0 +1,191 @@
+{
+  "type": "mythicbotany:rune_ritual",
+  "group": "rune_rituals",
+  "center": {
+    "item": "mythicbotany:fimbultyr_tablet"
+  },
+  "runes": [
+    {
+      "rune": {
+        "item": "mekanism:pellet_polonium"
+      },
+      "x": -5,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mekanism:pellet_polonium"
+      },
+      "x": 5,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mekanism:pellet_plutonium"
+      },
+      "x": 0,
+      "z": -5,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mekanism:pellet_plutonium"
+      },
+      "x": 0,
+      "z": 5,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_ingot"
+      },
+      "x": -4,
+      "z": -4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_ingot"
+      },
+      "x": -4,
+      "z": 4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_ingot"
+      },
+      "x": 4,
+      "z": -4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "mythicbotany:alfsteel_ingot"
+      },
+      "x": 4,
+      "z": 4,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "beyond_earth:ostrum_ingot"
+      },
+      "x": -3,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "beyond_earth:ostrum_ingot"
+      },
+      "x": 3,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "powah:capacitor_spirited"
+      },
+      "x": -2,
+      "z": 3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "powah:capacitor_spirited"
+      },
+      "x": 2,
+      "z": 3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "beyond_earth:ostrum_ingot"
+      },
+      "x": -3,
+      "z": -2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "beyond_earth:ostrum_ingot"
+      },
+      "x": 3,
+      "z": -2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "powah:capacitor_spirited"
+      },
+      "x": -2,
+      "z": -3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "powah:capacitor_spirited"
+      },
+      "x": 2,
+      "z": -3,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chroma:skin_of_gaia"
+      },
+      "x": -2,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chroma:skin_of_gaia"
+      },
+      "x": 2,
+      "z": 0,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chroma:skin_of_gaia"
+      },
+      "x": 0,
+      "z": 2,
+      "consume": true
+    },
+    {
+      "rune": {
+        "item": "chroma:skin_of_gaia"
+      },
+      "x": 0,
+      "z": -2,
+      "consume": true
+    }
+  ],
+  "mana": 500000,
+  "ticks": 300,
+  "inputs": [
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mythicbotany:kvasir_blood"
+    },
+    {
+      "item": "chroma:supreme_alloy"
+    },
+    {
+      "item": "mekaevolution:supreme_control_circuit"
+    }
+  ],
+  "outputs": [
+    {
+      "item": "chroma:shard_of_nature",
+      "count": 1
+    }
+  ]
+}

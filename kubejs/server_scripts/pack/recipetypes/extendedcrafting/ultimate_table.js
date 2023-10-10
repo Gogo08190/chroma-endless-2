@@ -804,4 +804,108 @@ onEvent("recipes", (event) => {
       }
     }
   ).id(`${id_prefix}creative_pool`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "      A  ",
+        "      B  ",
+        "    CCBC ",
+        "    CBBC ",
+        "    DEEC ",
+        "FFDDGHED ",
+        "FIIGGDD  ",
+        "FJIDD    ",
+        "FFF      "
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "B": {
+          "item": "mekaevolution:infinite_control_circuit"
+        },
+        "C": {
+          "item": "extendedcrafting:crystaltine_ingot"
+        },
+        "D": {
+          "item": "chemlib:francium_ingot"
+        },
+        "E": {
+          "item": "chroma:eternal_cryostella_polaris"
+        },
+        "F": {
+          "item": "chemlib:bismuth_ingot"
+        },
+        "G": {
+          "item": "mekanism:pellet_antimatter"
+        },
+        "H": {
+          "item": "solarpanels:photonic_energy_tablet"
+        },
+        "I": {
+          "item": "draconicevolution:chaotic_core"
+        },
+        "J": {
+          "item": "draconicadditions:chaos_heart"
+        }
+      },
+      "result": {
+        "item": "chroma:shard_of_perserevity"
+      }
+    }
+  ).id(`${id_prefix}shard_of_perserevity`)
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "AABCDCBAA",
+        "ABEEFEEBA",
+        "BEGGHGGEB",
+        "CEGHIHGEC",
+        "DFHIJIHFD",
+        "CEGHIHGEC",
+        "BEGGHGGEB",
+        "ABEEFEEBA",
+        "AABCDCBAA"
+      ],
+      "key": {
+        "A": {
+          "item": "mysticalagradditions:creative_essence"
+        },
+        "B": {
+          "item": "functionalstorage:netherite_upgrade"
+        },
+        "C": {
+          "item": "functionalstorage:ender_drawer"
+        },
+        "D": {
+          "item": "mekaevolution:qio_drive_infinite"
+        },
+        "E": {
+          "item": "functionalstorage:diamond_upgrade"
+        },
+        "F": {
+          "item": "extendedcrafting:ultimate_singularity"
+        },
+        "G": {
+          "item": "functionalstorage:gold_upgrade"
+        },
+        "H": {
+          "item": "functionalstorage:copper_upgrade"
+        },
+        "I": {
+          "item": "megacells:item_storage_cell_256m"
+        },
+        "J": {
+          "item": "chroma:endless"
+        }
+      },
+      "result": {
+        "item": "functionalstorage:creative_vending_upgrade"
+      }
+    }
+  ).id(`${id_prefix}creative_vending_upgrade`)
 });

@@ -584,6 +584,27 @@ onEvent('recipes', (event) => {
           result: { item: 'draconicevolution:creative_op_capacitor', count: 1 },
           id: `${id_prefix}creative_op_capacitor`
       },
+      {
+          inputs: [
+            { item: 'chroma:thermospiritium' },
+            { item: 'chroma:thermospiritium' },
+            { item: 'chroma:thermospiritium' },
+            { item: 'chroma:thermospiritium' },
+            { item: 'chroma:thermospiritium' },
+            { item: 'chroma:thermospiritium' },
+            Item.of('solarpanels:light_absorbing_energy_tablet').weakNBT(),
+            Item.of('solarpanels:light_absorbing_energy_tablet').weakNBT(),
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'fluxnetworks:flux_block' },
+            { item: 'fluxnetworks:flux_block' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'mysticalagradditions:creative_essence' },
+          total_energy: 10000000,
+          result: { item: 'chroma:shard_of_imunity', count: 1 },
+          id: `${id_prefix}shard_of_imunity`
+      },
     ];
 
     recipes.forEach((recipe) => {
