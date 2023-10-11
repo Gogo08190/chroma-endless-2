@@ -170,7 +170,7 @@
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Doomhunter Melee Damage" = 5.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Doomhunter Max Health" = 150.0
+	"Sets Doomhunter Max Health" = 50.0
 
 ["PMMO Compat"]
 	#Range: > 1
@@ -322,7 +322,7 @@
 	#Range: > 1
 	"Armored Baron Spawn Weight" = 15
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Armored Baron Max Health" = 240.0
+	"Sets Armored Baron Max Health" = 60.0
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Armored Baron Melee Damage" = 7.0
 	#Range: > 1
@@ -438,7 +438,7 @@
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Marauder Axe Damage" = 6.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Marauder Max Health" = 300.0
+	"Sets Marauder Max Health" = 100.0
 	#Range: > 1
 	"Marauder Spawn Weight" = 15
 	#Range: > 1
@@ -470,7 +470,7 @@
 	#Supports Biome Registry Names (minecraft:desert) or Biomes Tag with #
 	"Cyberdemon Biomes" = ["#nether"]
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Cyberdemon Max Health" = 300.0
+	"Sets Cyberdemon Max Health" = 80.0
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Cyberdemon Melee Damage" = 7.0
 	#Range: > 1
@@ -558,7 +558,7 @@
 	#Range: > 1
 	"Mancubus Max Group" = 1
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Mancubus Max Health" = 80.0
+	"Sets Mancubus Max Health" = 40.0
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Mancubus Ranged Damage" = 6.0
 	#Range: > 1
@@ -600,7 +600,7 @@
 	#Range: > 1
 	"Summoner Spawn Weight" = 15
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Summoner Max Health" = 100.0
+	"Sets Summoner Max Health" = 50.0
 	#Supports Biome Registry Names (minecraft:desert) or Biomes Tag with #
 	"Summoner Biomes" = ["#nether"]
 	#Range: 1.0 ~ 1.7976931348623157E308
@@ -628,7 +628,7 @@
 	#Range: > 1
 	"Spider Mastermind Max Group" = 1
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Spider Mastermind Max Health" = 300.0
+	"Sets Spider Mastermind Max Health" = 60.0
 	#Supports Biome Registry Names (minecraft:desert) or Biomes Tag with #
 	"Spider Mastermind Biomes" = ["#nether"]
 	#Range: 1.0 ~ 1.7976931348623157E308
