@@ -1,0 +1,272 @@
+{
+	"pools": [
+		{
+			"rolls": {
+        		"min": 1,
+        		"max": 5
+      		},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:torn_journal_page"
+				}
+			],
+			"functions": [
+				{
+					"function": "mna:random_journal_page"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.5
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:strange_record"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mna:hat_fez",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_hat"
+						}
+					]
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.1
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "minecraft:book"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.25
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:mithions_magnificent_mbag"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:fluid_jug_infinite_lava"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:runic_malus"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:astro_blade"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mna:spell",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_artifact_spell"
+						}
+					]
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.1
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "mna:wand_clone"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.05
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 0,
+				"max": 3
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "mna:staff_aum",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_spell_staff"
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.75
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 0,
+				"max": 4
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stone",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_construct_part"
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.25
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+				"min": 1,
+				"max": 4
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 3,
+					"name": "mna:chimerite_gem",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 3
+							}
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.5
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "minecraft:bundle"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"name": "mna:vinteum_dust",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.5
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"name": "mna:rune_marking",
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance",
+							"chance": 0.25
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 4,
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mna:minor_mana_potion\"}"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 3,
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mna:light_mana_potion\"}"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Potion:\"mna:mana_potion\"}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

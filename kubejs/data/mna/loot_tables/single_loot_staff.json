@@ -1,0 +1,22 @@
+{
+	"pools": [	
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "mna:staff_aum",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "mna:random_spell_staff",
+							"chanceForForceSelf": 0.8,
+							"chanceForSkipTags": 0.33,
+							"allowMessWithMori": true
+						}
+					]
+				}
+			]					
+		}
+	]
+}
