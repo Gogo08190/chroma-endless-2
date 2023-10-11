@@ -516,9 +516,9 @@
 	#Range: > 1
 	"Archvile Min Group" = 1
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Archvile Max Health" = 100.0
+	"Sets Archvile Max Health" = 50.0
 	#Range: > 1
-	"Archvile Max Group" = 2
+	"Archvile Max Group" = 1
 
 ["Mob Settings:Gladiator"]
 	#Range: 1.0 ~ 1.7976931348623157E308
