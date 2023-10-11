@@ -168,6 +168,15 @@
 				type: "item"
 				item: "powah:energy_cell_basic"
 			}]
+			rewards: [{
+				id: "227C0B67671E6CBF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.0d
@@ -181,6 +190,15 @@
 				id: "5F7133AB374433D5"
 				type: "item"
 				item: "powah:energy_cell_hardened"
+			}]
+			rewards: [{
+				id: "5122EDFFC7098ADD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -196,6 +214,15 @@
 				type: "item"
 				item: "powah:energy_cell_blazing"
 			}]
+			rewards: [{
+				id: "4B0A6BC39D74EA36"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.0d
@@ -209,6 +236,15 @@
 				id: "314E779519EADC2C"
 				type: "item"
 				item: "powah:energy_cell_niotic"
+			}]
+			rewards: [{
+				id: "678965D9AA39275A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -224,6 +260,15 @@
 				type: "item"
 				item: "powah:energy_cell_spirited"
 			}]
+			rewards: [{
+				id: "026F9033805E6A99"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.0d
@@ -237,6 +282,15 @@
 				id: "5E83156A58A86B1A"
 				type: "item"
 				item: "powah:energy_cell_nitro"
+			}]
+			rewards: [{
+				id: "40AE7973F25B98B8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -253,6 +307,15 @@
 				type: "item"
 				item: {
 					id: "powah:battery_basic"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "33413C88D2488C2B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -275,6 +338,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "1520B1C7C6BE0A21"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
@@ -289,6 +361,15 @@
 				type: "item"
 				item: {
 					id: "powah:battery_blazing"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "109B8737890A4E87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -311,6 +392,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "06ABD1743B2B566B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
@@ -322,6 +412,15 @@
 				type: "item"
 				item: {
 					id: "powah:battery_spirited"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "2A17B7F4D4B55B7F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
 					Count: 1
 					tag: { }
 				}
@@ -344,6 +443,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "047E262FC9933EFF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
@@ -354,6 +462,15 @@
 				id: "3F310B5AD367F56A"
 				type: "item"
 				item: "powah:ender_cell_basic"
+			}]
+			rewards: [{
+				id: "69E450C3F0BDEAB8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -369,6 +486,15 @@
 				type: "item"
 				item: "powah:ender_cell_hardened"
 			}]
+			rewards: [{
+				id: "013DD5A606D7BF82"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
@@ -382,6 +508,15 @@
 				id: "4A86E8BD4A322C39"
 				type: "item"
 				item: "powah:ender_cell_blazing"
+			}]
+			rewards: [{
+				id: "0B5E700853D32321"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -397,6 +532,15 @@
 				type: "item"
 				item: "powah:ender_cell_niotic"
 			}]
+			rewards: [{
+				id: "4F3A96D10A0A7A14"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
@@ -410,6 +554,15 @@
 				id: "589B7FA84490D032"
 				type: "item"
 				item: "powah:ender_cell_spirited"
+			}]
+			rewards: [{
+				id: "1675176C6D1F92B3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -425,6 +578,15 @@
 				type: "item"
 				item: "powah:ender_cell_nitro"
 			}]
+			rewards: [{
+				id: "64C14FED7AC349D5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 20.0d
@@ -435,6 +597,15 @@
 				id: "588103FBE6CFA835"
 				type: "item"
 				item: "powah:energy_cable_basic"
+			}]
+			rewards: [{
+				id: "14B124476018135A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -447,6 +618,15 @@
 				type: "item"
 				item: "powah:energy_cable_hardened"
 			}]
+			rewards: [{
+				id: "293DDB006508AA89"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 20.0d
@@ -457,6 +637,15 @@
 				id: "6066665B30E3088E"
 				type: "item"
 				item: "powah:energy_cable_blazing"
+			}]
+			rewards: [{
+				id: "4F2EFE99FB01BB2B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -469,6 +658,15 @@
 				type: "item"
 				item: "powah:energy_cable_niotic"
 			}]
+			rewards: [{
+				id: "6E76971030079865"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 20.0d
@@ -480,6 +678,15 @@
 				type: "item"
 				item: "powah:energy_cable_spirited"
 			}]
+			rewards: [{
+				id: "6D82F12C27B7ED77"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 20.0d
@@ -490,6 +697,15 @@
 				id: "504C8D07971D3395"
 				type: "item"
 				item: "powah:energy_cable_nitro"
+			}]
+			rewards: [{
+				id: "640DA0130AD58562"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -505,6 +721,15 @@
 				type: "item"
 				item: "powah:ender_gate_basic"
 			}]
+			rewards: [{
+				id: "52A8910EF8981B28"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 21.0d
@@ -518,6 +743,15 @@
 				id: "2D2085CC20A85B9C"
 				type: "item"
 				item: "powah:ender_gate_hardened"
+			}]
+			rewards: [{
+				id: "7F28684A514BB5E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -533,6 +767,15 @@
 				type: "item"
 				item: "powah:ender_gate_blazing"
 			}]
+			rewards: [{
+				id: "386D73A7E99B9A8F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 21.0d
@@ -546,6 +789,15 @@
 				id: "00B2C6012F44663B"
 				type: "item"
 				item: "powah:ender_gate_niotic"
+			}]
+			rewards: [{
+				id: "4CEE9CC5E15FB807"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -561,6 +813,15 @@
 				type: "item"
 				item: "powah:ender_gate_spirited"
 			}]
+			rewards: [{
+				id: "40CAA39170A6087B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 21.0d
@@ -575,6 +836,15 @@
 				type: "item"
 				item: "powah:ender_gate_nitro"
 			}]
+			rewards: [{
+				id: "2563F73C057C5F5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 26.5d
@@ -588,6 +858,15 @@
 				id: "625D050668F37922"
 				type: "item"
 				item: "powah:energizing_rod_basic"
+			}]
+			rewards: [{
+				id: "0F41DBA3F3C4EA8F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -604,6 +883,15 @@
 				type: "item"
 				item: "powah:energizing_rod_hardened"
 			}]
+			rewards: [{
+				id: "566D6641D1F6848E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 26.5d
@@ -618,6 +906,15 @@
 				id: "6208407FEAD68CC4"
 				type: "item"
 				item: "powah:energizing_rod_blazing"
+			}]
+			rewards: [{
+				id: "709256DA433C1F54"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -634,6 +931,15 @@
 				type: "item"
 				item: "powah:energizing_rod_niotic"
 			}]
+			rewards: [{
+				id: "4594D4927A8F318B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 26.5d
@@ -648,6 +954,15 @@
 				id: "2A84690E0FFC7E4A"
 				type: "item"
 				item: "powah:energizing_rod_spirited"
+			}]
+			rewards: [{
+				id: "26CD0774EC5A1F02"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -664,6 +979,15 @@
 				type: "item"
 				item: "powah:energizing_rod_nitro"
 			}]
+			rewards: [{
+				id: "59D563D02B3C1B6D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
@@ -678,6 +1002,15 @@
 				id: "2C9014891AEDFD29"
 				type: "item"
 				item: "powah:furnator_basic"
+			}]
+			rewards: [{
+				id: "5427D2A929223A25"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -694,6 +1027,15 @@
 				type: "item"
 				item: "powah:furnator_hardened"
 			}]
+			rewards: [{
+				id: "43E31849BE00751B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
@@ -708,6 +1050,15 @@
 				id: "2B6E5E4B93621B5A"
 				type: "item"
 				item: "powah:furnator_blazing"
+			}]
+			rewards: [{
+				id: "74E4371936F36DBE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -724,6 +1075,15 @@
 				type: "item"
 				item: "powah:furnator_niotic"
 			}]
+			rewards: [{
+				id: "23C25F701B79D167"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
@@ -738,6 +1098,15 @@
 				id: "08054D5546206D47"
 				type: "item"
 				item: "powah:furnator_spirited"
+			}]
+			rewards: [{
+				id: "549DC667D5370F87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -754,6 +1123,15 @@
 				type: "item"
 				item: "powah:furnator_nitro"
 			}]
+			rewards: [{
+				id: "23EEE13BB8D3849F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
@@ -767,6 +1145,15 @@
 				id: "556CE4968E2AB7FA"
 				type: "item"
 				item: "powah:magmator_basic"
+			}]
+			rewards: [{
+				id: "0EDB467CAA75AEAA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -783,6 +1170,15 @@
 				type: "item"
 				item: "powah:magmator_hardened"
 			}]
+			rewards: [{
+				id: "714C2A420A2DE8D2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
@@ -797,6 +1193,15 @@
 				id: "6B02C1439D71515E"
 				type: "item"
 				item: "powah:magmator_blazing"
+			}]
+			rewards: [{
+				id: "03A446226B63E1BD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -813,6 +1218,15 @@
 				type: "item"
 				item: "powah:magmator_niotic"
 			}]
+			rewards: [{
+				id: "0E8FD7160D4B1334"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
@@ -827,6 +1241,15 @@
 				id: "4FE7EA6E6762E13D"
 				type: "item"
 				item: "powah:magmator_spirited"
+			}]
+			rewards: [{
+				id: "3212E3BA90CA3A68"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -843,6 +1266,15 @@
 				type: "item"
 				item: "powah:magmator_nitro"
 			}]
+			rewards: [{
+				id: "3342D9121730AD4C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
@@ -857,6 +1289,15 @@
 				id: "4F68028C53CB66B5"
 				type: "item"
 				item: "powah:solar_panel_basic"
+			}]
+			rewards: [{
+				id: "10AE90F1E6CB9440"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -873,6 +1314,15 @@
 				type: "item"
 				item: "powah:solar_panel_hardened"
 			}]
+			rewards: [{
+				id: "0B4482D82434770E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
@@ -887,6 +1337,15 @@
 				id: "35974F3F1ADD3C22"
 				type: "item"
 				item: "powah:solar_panel_blazing"
+			}]
+			rewards: [{
+				id: "3E90BE4A7A4BECBC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -903,6 +1362,15 @@
 				type: "item"
 				item: "powah:solar_panel_niotic"
 			}]
+			rewards: [{
+				id: "284AA3AAFCCEFCFE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
@@ -917,6 +1385,15 @@
 				id: "1EE055E5B510C28C"
 				type: "item"
 				item: "powah:solar_panel_spirited"
+			}]
+			rewards: [{
+				id: "6615E6675C07907D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -933,6 +1410,15 @@
 				type: "item"
 				item: "powah:solar_panel_nitro"
 			}]
+			rewards: [{
+				id: "78A9CAB8AFFAAA2A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
@@ -947,6 +1433,15 @@
 				id: "4EE68E2130B90E3B"
 				type: "item"
 				item: "powah:reactor_basic"
+			}]
+			rewards: [{
+				id: "01C430E9C0300A53"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -963,6 +1458,15 @@
 				type: "item"
 				item: "powah:reactor_hardened"
 			}]
+			rewards: [{
+				id: "1F4513D5DF943422"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
@@ -978,6 +1482,15 @@
 				id: "1A1E802BAE624C74"
 				type: "item"
 				item: "powah:reactor_blazing"
+			}]
+			rewards: [{
+				id: "1DCE3BE5C30038DA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -996,6 +1509,15 @@
 				type: "item"
 				item: "powah:reactor_niotic"
 			}]
+			rewards: [{
+				id: "0E33EE1F071614E7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
@@ -1012,6 +1534,15 @@
 				id: "14B9EFF2E155E697"
 				type: "item"
 				item: "powah:reactor_spirited"
+			}]
+			rewards: [{
+				id: "728F0B6A4F08A718"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1032,6 +1563,15 @@
 				type: "item"
 				item: "powah:reactor_nitro"
 			}]
+			rewards: [{
+				id: "0CEA811497916230"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 25.5d
@@ -1045,6 +1585,15 @@
 				id: "2E6F62FDFA9EBBFC"
 				type: "item"
 				item: "powah:player_transmitter_basic"
+			}]
+			rewards: [{
+				id: "24A5660F466A99A5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1060,6 +1609,15 @@
 				type: "item"
 				item: "powah:player_transmitter_hardened"
 			}]
+			rewards: [{
+				id: "38AA800252ADC8E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 25.5d
@@ -1073,6 +1631,15 @@
 				id: "52C9DE3BD62156C6"
 				type: "item"
 				item: "powah:player_transmitter_blazing"
+			}]
+			rewards: [{
+				id: "57651E3AD70BA2B4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1088,6 +1655,15 @@
 				type: "item"
 				item: "powah:player_transmitter_niotic"
 			}]
+			rewards: [{
+				id: "695A1D8EAC2B1D9E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 25.5d
@@ -1102,6 +1678,15 @@
 				type: "item"
 				item: "powah:player_transmitter_spirited"
 			}]
+			rewards: [{
+				id: "510D3A7F9242C8A1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 25.5d
@@ -1115,6 +1700,15 @@
 				id: "15EFC2AECA4011E6"
 				type: "item"
 				item: "powah:player_transmitter_nitro"
+			}]
+			rewards: [{
+				id: "6A3F37E9747767B7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1131,6 +1725,15 @@
 				type: "item"
 				item: "powah:energy_hopper_basic"
 			}]
+			rewards: [{
+				id: "5BB63F0383BE40A3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 24.5d
@@ -1146,6 +1749,15 @@
 				type: "item"
 				item: "powah:energy_hopper_hardened"
 			}]
+			rewards: [{
+				id: "6C857A66D3AB7DDB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 24.5d
@@ -1156,6 +1768,15 @@
 				id: "7695C3F4006E13A6"
 				type: "item"
 				item: "powah:energy_hopper_blazing"
+			}]
+			rewards: [{
+				id: "27E878F0741A6F80"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1172,6 +1793,15 @@
 				type: "item"
 				item: "powah:energy_hopper_niotic"
 			}]
+			rewards: [{
+				id: "534F5E37191C61E1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 24.5d
@@ -1187,6 +1817,15 @@
 				type: "item"
 				item: "powah:energy_hopper_spirited"
 			}]
+			rewards: [{
+				id: "0895078018990BD1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 24.5d
@@ -1201,6 +1840,15 @@
 				id: "47A636643C9C2F7D"
 				type: "item"
 				item: "powah:energy_hopper_nitro"
+			}]
+			rewards: [{
+				id: "5C21026C40B743AA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1218,6 +1866,15 @@
 				type: "item"
 				item: "powah:energy_discharger_basic"
 			}]
+			rewards: [{
+				id: "653E21EB1C18FE07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 23.5d
@@ -1233,6 +1890,15 @@
 				id: "320FC42D52FA02ED"
 				type: "item"
 				item: "powah:energy_discharger_hardened"
+			}]
+			rewards: [{
+				id: "2492C8C58803189A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1250,6 +1916,15 @@
 				type: "item"
 				item: "powah:energy_discharger_blazing"
 			}]
+			rewards: [{
+				id: "5C1148B9108C1E60"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 23.5d
@@ -1265,6 +1940,15 @@
 				id: "21A267BE3C7B70F9"
 				type: "item"
 				item: "powah:energy_discharger_niotic"
+			}]
+			rewards: [{
+				id: "3B5DE6009D13AC01"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1282,6 +1966,15 @@
 				type: "item"
 				item: "powah:energy_discharger_spirited"
 			}]
+			rewards: [{
+				id: "1BB7AD7AF2ED94EE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 23.5d
@@ -1297,6 +1990,15 @@
 				id: "5BD379379F12BC03"
 				type: "item"
 				item: "powah:energy_discharger_nitro"
+			}]
+			rewards: [{
+				id: "61ED5DBAC82F54BE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1495,6 +2197,15 @@
 				type: "item"
 				item: "powah:capacitor_basic_large"
 			}]
+			rewards: [{
+				id: "12BEDEB10FB59AD4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.5d
@@ -1508,6 +2219,15 @@
 				id: "7714304326462DA3"
 				type: "item"
 				item: "powah:capacitor_hardened"
+			}]
+			rewards: [{
+				id: "5F4D95E2C0E966A5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1523,6 +2243,15 @@
 				type: "item"
 				item: "powah:capacitor_blazing"
 			}]
+			rewards: [{
+				id: "23E77A9BB33E2454"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.5d
@@ -1536,6 +2265,15 @@
 				id: "54F44984708794E0"
 				type: "item"
 				item: "powah:capacitor_niotic"
+			}]
+			rewards: [{
+				id: "6CBFD2118675C743"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1551,6 +2289,15 @@
 				type: "item"
 				item: "powah:capacitor_spirited"
 			}]
+			rewards: [{
+				id: "1297969CC97FDB5D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.5d
@@ -1564,6 +2311,15 @@
 				id: "56F78957770B6527"
 				type: "item"
 				item: "powah:capacitor_nitro"
+			}]
+			rewards: [{
+				id: "201DC61AB0F9DCD0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1737,6 +2493,15 @@
 				type: "item"
 				item: "powah:thermo_generator_nitro"
 			}]
+			rewards: [{
+				id: "3F23EDCA65A5B7D6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 10.5d
@@ -1751,6 +2516,15 @@
 				id: "0AA355B7DB4925AC"
 				type: "item"
 				item: "powah:thermo_generator_spirited"
+			}]
+			rewards: [{
+				id: "579219DFE7F2D284"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1767,6 +2541,15 @@
 				type: "item"
 				item: "powah:thermo_generator_niotic"
 			}]
+			rewards: [{
+				id: "50E2A1C31CCDDAD4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 10.5d
@@ -1781,6 +2564,15 @@
 				id: "43579CE2F03A78C7"
 				type: "item"
 				item: "powah:thermo_generator_blazing"
+			}]
+			rewards: [{
+				id: "0B92E7D5A6DE761B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1797,6 +2589,15 @@
 				type: "item"
 				item: "powah:thermo_generator_hardened"
 			}]
+			rewards: [{
+				id: "4491A6E406033D87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 10.5d
@@ -1811,6 +2612,15 @@
 				id: "76967BE6F9FEE4E6"
 				type: "item"
 				item: "powah:thermo_generator_basic"
+			}]
+			rewards: [{
+				id: "666551D607C02578"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{

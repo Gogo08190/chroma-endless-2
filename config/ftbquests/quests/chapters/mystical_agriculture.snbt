@@ -1,0 +1,2446 @@
+{
+	id: "3EDE870BE2BC2769"
+	group: "6E1FC0F5596E1533"
+	order_index: 14
+	filename: "mystical_agriculture"
+	title: "Mystical Agriculture"
+	icon: "mysticalagriculture:supremium_essence"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: -1.5d
+			shape: "diamond"
+			dependencies: ["039A029B112E4968"]
+			size: 2.0d
+			id: "5A72602AE75285F5"
+			tasks: [{
+				id: "1BD6646EF2268B29"
+				type: "item"
+				item: "mysticalagriculture:prosperity_seed_base"
+			}]
+			rewards: [{
+				id: "1CC6E0D5B0755C09"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			dependencies: ["5A72602AE75285F5"]
+			id: "6DEE7BAE5FB49E48"
+			tasks: [{
+				id: "0441A7013B80246A"
+				type: "item"
+				item: "mysticalagriculture:air_seeds"
+			}]
+			rewards: [{
+				id: "21F0C810D5274AC9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.5d
+			dependencies: ["5A72602AE75285F5"]
+			id: "11AB16DE0E7E14E8"
+			tasks: [{
+				id: "42C950CD5BD5CEC2"
+				type: "item"
+				item: "mysticalagriculture:earth_seeds"
+			}]
+			rewards: [{
+				id: "1501694A8E4C0A7C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			dependencies: ["5A72602AE75285F5"]
+			id: "038A4CA563F6D590"
+			tasks: [{
+				id: "601F32B118AA9773"
+				type: "item"
+				item: "mysticalagriculture:water_seeds"
+			}]
+			rewards: [{
+				id: "471029B8E28A75EA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			dependencies: ["5A72602AE75285F5"]
+			id: "4616BB5E19BA4522"
+			tasks: [{
+				id: "0D0B9C7F6ECFFC15"
+				type: "item"
+				item: "mysticalagriculture:fire_seeds"
+			}]
+			rewards: [{
+				id: "5F2567F0EC7C15A9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 5.2d
+			shape: "hexagon"
+			dependencies: ["757BACF1D783CC60"]
+			size: 1.3d
+			id: "1E9B66F594809FB2"
+			tasks: [{
+				id: "7E80F9496B28B48B"
+				type: "item"
+				item: "mysticalagriculture:inferium_seeds"
+			}]
+			rewards: [{
+				id: "648F5F4E7DAEE170"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 3.5d
+			dependencies: ["757BACF1D783CC60"]
+			id: "4AFC8F3A9F49CE98"
+			tasks: [{
+				id: "1451BA35EA882740"
+				type: "item"
+				item: "mysticalagriculture:stone_seeds"
+			}]
+			rewards: [{
+				id: "0FB36B2AE61DED67"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 2.5d
+			dependencies: ["757BACF1D783CC60"]
+			id: "36AEBA2D8ADD7FE8"
+			tasks: [{
+				id: "2A26656724A1A24C"
+				type: "item"
+				item: "mysticalagriculture:dirt_seeds"
+			}]
+			rewards: [{
+				id: "6E1D224D047988B3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 2.0d
+			dependencies: ["757BACF1D783CC60"]
+			id: "3F310BB199D6688F"
+			tasks: [{
+				id: "77116EC1336FC2CA"
+				type: "item"
+				item: "mysticalagriculture:wood_seeds"
+			}]
+			rewards: [{
+				id: "7D03B9071EA49840"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 4.0d
+			dependencies: ["757BACF1D783CC60"]
+			id: "0BC616F28414C7CB"
+			tasks: [{
+				id: "27DF0307849407F2"
+				type: "item"
+				item: "mysticalagriculture:ice_seeds"
+			}]
+			rewards: [{
+				id: "1B05177E38DF2F7A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 2.0d
+			dependencies: ["757BACF1D783CC60"]
+			id: "12EF33E5ABCAA997"
+			tasks: [{
+				id: "7677F548591995D2"
+				type: "item"
+				item: "mysticalagriculture:deepslate_seeds"
+			}]
+			rewards: [{
+				id: "46F8DA34C54BEAEA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 3.5d
+			dependencies: ["757BACF1D783CC60"]
+			id: "307600219B312CEF"
+			tasks: [{
+				id: "4C1815F0FB936830"
+				type: "item"
+				item: "mysticalagriculture:dye_seeds"
+			}]
+			rewards: [{
+				id: "2860626D4BD18DE7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 3.0d
+			dependencies: ["757BACF1D783CC60"]
+			id: "5B3C30B254427F57"
+			tasks: [{
+				id: "6B3DF815C99C3E23"
+				type: "item"
+				item: "mysticalagriculture:coral_seeds"
+			}]
+			rewards: [{
+				id: "794AF903223C1812"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 3.0d
+			dependencies: ["757BACF1D783CC60"]
+			id: "374994B0A2F7D244"
+			tasks: [{
+				id: "70F55F44F475B226"
+				type: "item"
+				item: "mysticalagriculture:mystical_flower_seeds"
+			}]
+			rewards: [{
+				id: "20693F91711B7ADE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 4.0d
+			dependencies: ["757BACF1D783CC60"]
+			id: "18A3B185980F15D5"
+			tasks: [{
+				id: "005749A0378DE154"
+				type: "item"
+				item: "mysticalagriculture:limestone_seeds"
+			}]
+			rewards: [{
+				id: "515CE42D05FB4CC0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 2.5d
+			dependencies: ["757BACF1D783CC60"]
+			id: "5B9684FEA4A2415B"
+			tasks: [{
+				id: "7AD7302F2034C321"
+				type: "item"
+				item: "mysticalagriculture:sky_stone_seeds"
+			}]
+			rewards: [{
+				id: "62EB7257A617BC2E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 8.5d
+			dependencies: ["79226EAB8A4E8691"]
+			id: "60B0C56DC774E055"
+			tasks: [{
+				id: "56106B0EEDE4A73C"
+				type: "item"
+				item: "mysticalagriculture:nature_seeds"
+			}]
+			rewards: [{
+				id: "789851BDD21022CB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 6.5d
+			dependencies: ["79226EAB8A4E8691"]
+			id: "08D141FB4022C48A"
+			tasks: [{
+				id: "14C6C81FCC11F5BA"
+				type: "item"
+				item: "mysticalagriculture:nether_seeds"
+			}]
+			rewards: [{
+				id: "750DCD711F270F7E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 7.5d
+			dependencies: ["79226EAB8A4E8691"]
+			id: "2B576699482CD988"
+			tasks: [{
+				id: "5E4582A941BB9AC1"
+				type: "item"
+				item: "mysticalagriculture:amethyst_seeds"
+			}]
+			rewards: [{
+				id: "6E07B339053A0F6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 9.0d
+			dependencies: ["79226EAB8A4E8691"]
+			id: "127DF5572A9B7FD4"
+			tasks: [{
+				id: "4B5600FCC8533343"
+				type: "item"
+				item: "mysticalagriculture:sulfur_seeds"
+			}]
+			rewards: [{
+				id: "5D90A6854D641057"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 7.5d
+			dependencies: ["79226EAB8A4E8691"]
+			id: "665F76A38ED92233"
+			tasks: [{
+				id: "0A23583283803F4C"
+				type: "item"
+				item: "mysticalagriculture:saltpeter_seeds"
+			}]
+			rewards: [{
+				id: "2001F9750A112A46"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 8.5d
+			dependencies: ["79226EAB8A4E8691"]
+			id: "7A30466C44E880BD"
+			tasks: [{
+				id: "40175DECFB66C754"
+				type: "item"
+				item: "mysticalagriculture:obsidian_seeds"
+			}]
+			rewards: [{
+				id: "1C99DF6AF96C69D8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 6.5d
+			dependencies: ["79226EAB8A4E8691"]
+			id: "5ECC2C2B4D9F2C59"
+			tasks: [{
+				id: "2B524CDBAA1663FD"
+				type: "item"
+				item: "mysticalagriculture:end_seeds"
+			}]
+			rewards: [{
+				id: "2DFCDC0A37BF95E0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 10.5d
+			dependencies: ["646BD90F101779AB"]
+			id: "51305439C059E923"
+			tasks: [{
+				id: "27FF85592A2CAFF8"
+				type: "item"
+				item: "mysticalagriculture:silicon_seeds"
+			}]
+			rewards: [{
+				id: "6AE62032585068DC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 11.5d
+			dependencies: ["646BD90F101779AB"]
+			id: "41A68E1F13AF86FC"
+			tasks: [{
+				id: "0E89E9312ECDCA89"
+				type: "item"
+				item: "mysticalagriculture:brass_seeds"
+			}]
+			rewards: [{
+				id: "030C1E1452163ECF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 12.5d
+			dependencies: ["646BD90F101779AB"]
+			id: "347E91328EB6CF8B"
+			tasks: [{
+				id: "780DD387493BFE51"
+				type: "item"
+				item: "mysticalagriculture:bronze_seeds"
+			}]
+			rewards: [{
+				id: "6353623400F8C0B2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 12.5d
+			dependencies: ["646BD90F101779AB"]
+			id: "6E6B1B9FC1365B2F"
+			tasks: [{
+				id: "19AC5472B489AD86"
+				type: "item"
+				item: "mysticalagriculture:amethyst_bronze_seeds"
+			}]
+			rewards: [{
+				id: "109D4A03ED6A8BE9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 11.5d
+			dependencies: ["646BD90F101779AB"]
+			id: "62BEF76B16E05EA9"
+			tasks: [{
+				id: "442EB59D1EA49DBD"
+				type: "item"
+				item: "mysticalagriculture:slimesteel_seeds"
+			}]
+			rewards: [{
+				id: "4F54BB36858048A5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 10.5d
+			dependencies: ["646BD90F101779AB"]
+			id: "50DDDC4DF36042C6"
+			tasks: [{
+				id: "4A9E9C97D72F27A9"
+				type: "item"
+				item: "mysticalagriculture:pig_iron_seeds"
+			}]
+			rewards: [{
+				id: "4487A762FB2A266E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 14.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "7726D41816085DBA"
+			tasks: [{
+				id: "264B26F97164F08F"
+				type: "item"
+				item: "mysticalagriculture:manasteel_seeds"
+			}]
+			rewards: [{
+				id: "1357DE9E6EECE353"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 15.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "04A78559B00F296A"
+			tasks: [{
+				id: "18BC5560EEBB9822"
+				type: "item"
+				item: "mysticalagriculture:experience_seeds"
+			}]
+			rewards: [{
+				id: "1C730DD958A23BA8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 15.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "1E2A2F7DA8512410"
+			tasks: [{
+				id: "5DD8AACA1F7D074A"
+				type: "item"
+				item: "mysticalagriculture:steel_seeds"
+			}]
+			rewards: [{
+				id: "4AD13DC681284A81"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 16.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "6007E74B1CF16266"
+			tasks: [{
+				id: "64F4ED23F5F16727"
+				type: "item"
+				item: "mysticalagriculture:constantan_seeds"
+			}]
+			rewards: [{
+				id: "53EF0615ED4047EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 14.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "77175D05520A7D4C"
+			tasks: [{
+				id: "58C6DB1EEF830454"
+				type: "item"
+				item: "mysticalagriculture:electrum_seeds"
+			}]
+			rewards: [{
+				id: "5FC396ED7F7A6F07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 13.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "0915E9D0F2A17445"
+			tasks: [{
+				id: "046CEB4A0D26A26F"
+				type: "item"
+				item: "mysticalagriculture:invar_seeds"
+			}]
+			rewards: [{
+				id: "49BD9AAE8226B317"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 16.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "633C26DDE949AA2B"
+			tasks: [{
+				id: "0C4A685CBFF703D9"
+				type: "item"
+				item: "mysticalagriculture:signalum_seeds"
+			}]
+			rewards: [{
+				id: "3718FE3337BC2F22"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 16.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "6355B0DF58581DA7"
+			tasks: [{
+				id: "4D987ED1C89AA9BA"
+				type: "item"
+				item: "mysticalagriculture:lumium_seeds"
+			}]
+			rewards: [{
+				id: "0AE94CBEB0A74191"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 14.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "4CD5003A0BBB4544"
+			tasks: [{
+				id: "2C820FB8ABF71047"
+				type: "item"
+				item: "mysticalagriculture:hop_graphite_seeds"
+			}]
+			rewards: [{
+				id: "5410350C34B5C89B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 15.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "76A45A3343B40515"
+			tasks: [{
+				id: "2056A33411DB14B9"
+				type: "item"
+				item: "mysticalagriculture:rose_gold_seeds"
+			}]
+			rewards: [{
+				id: "1F25D40920B21CEB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 15.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "20AE0CBD3F9B14F7"
+			tasks: [{
+				id: "11AC1E3E9E32D92E"
+				type: "item"
+				item: "mysticalagriculture:elementium_seeds"
+			}]
+			rewards: [{
+				id: "465E580052D7DDA0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 16.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "6B498B16D89432DB"
+			tasks: [{
+				id: "3D69EEDF2E4EB05B"
+				type: "item"
+				item: "mysticalagriculture:refined_glowstone_seeds"
+			}]
+			rewards: [{
+				id: "3CB5DA9078364E18"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 14.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "47EF342574127A77"
+			tasks: [{
+				id: "243CD8D3A6894BF1"
+				type: "item"
+				item: "mysticalagriculture:refined_obsidian_seeds"
+			}]
+			rewards: [{
+				id: "53E38A8E21C0DFEF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 14.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "4E470CBC35B9B6A7"
+			tasks: [{
+				id: "1DDFD1C51529F9C1"
+				type: "item"
+				item: "mysticalagriculture:compressed_iron_seeds"
+			}]
+			rewards: [{
+				id: "0207FEDC59820EF8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 16.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "597A3A0B31F73B48"
+			tasks: [{
+				id: "240CBFA57619AFDF"
+				type: "item"
+				item: "mysticalagriculture:fluix_seeds"
+			}]
+			rewards: [{
+				id: "34AB9CC5A4BB8232"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 15.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "43574998B9DDD91A"
+			tasks: [{
+				id: "79B05C37188893BB"
+				type: "item"
+				item: "mysticalagriculture:energized_steel_seeds"
+			}]
+			rewards: [{
+				id: "3DDABFC72120485B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 14.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "4B030EDE3933921A"
+			tasks: [{
+				id: "17379844146D1CE5"
+				type: "item"
+				item: "mysticalagriculture:blazing_crystal_seeds"
+			}]
+			rewards: [{
+				id: "5D8F6E1578771193"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 16.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "779397A0D0E7901E"
+			tasks: [{
+				id: "2583DCB09F12B2C8"
+				type: "item"
+				item: "mysticalagriculture:regalium_seeds"
+			}]
+			rewards: [{
+				id: "31D87DFA0FD90F9B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 15.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "72E233AC9B9C1A9A"
+			tasks: [{
+				id: "512C2FF5219A1AE8"
+				type: "item"
+				item: "mysticalagriculture:desh_seeds"
+			}]
+			rewards: [{
+				id: "24AA91516EDC71F1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 14.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "2CA61A9ADD130D38"
+			tasks: [{
+				id: "113A9D4D50B18EEF"
+				type: "item"
+				item: "mysticalagriculture:cloggrum_seeds"
+			}]
+			rewards: [{
+				id: "70701D57F9FF74B8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 16.0d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "034FB69478EB82FC"
+			tasks: [{
+				id: "3088DAFD872385CE"
+				type: "item"
+				item: "mysticalagriculture:froststeel_seeds"
+			}]
+			rewards: [{
+				id: "70EFEEDBE0EEEACE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 16.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "763676F1167FBE78"
+			tasks: [{
+				id: "24B6ABC9E158ED44"
+				type: "item"
+				item: "mysticalagriculture:utherium_seeds"
+			}]
+			rewards: [{
+				id: "05C3EAEBE1F76B6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 14.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "3E48080AC0FE2E5C"
+			tasks: [{
+				id: "24F4B5DCB8F6B017"
+				type: "item"
+				item: "mysticalagriculture:forgotten_seeds"
+			}]
+			rewards: [{
+				id: "18075B3DA38D4854"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 13.5d
+			dependencies: ["1F01A7D886AB7115"]
+			id: "6AFA283F6E2FB2FE"
+			tasks: [{
+				id: "5900BB9A0E02E5ED"
+				type: "item"
+				item: "mysticalagriculture:netherite_seeds"
+			}]
+			rewards: [{
+				id: "3E0F49E7A343CE8A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 19.0d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "6EDDF208DC434C55"
+			tasks: [{
+				id: "34F4F197335507AD"
+				type: "item"
+				item: "mysticalagriculture:enderium_seeds"
+			}]
+			rewards: [{
+				id: "3ADD8E806DF682F0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 18.0d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "49E1618671D1FE5A"
+			tasks: [{
+				id: "1CB716D2463BF9BE"
+				type: "item"
+				item: "mysticalagriculture:manyullyn_seeds"
+			}]
+			rewards: [{
+				id: "18C013D2312FF940"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 17.5d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "7B6F378C093E7600"
+			tasks: [{
+				id: "0B4C0633E1F1EC2C"
+				type: "item"
+				item: "mysticalagriculture:queens_slime_seeds"
+			}]
+			rewards: [{
+				id: "2C2B792D9C404418"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 18.0d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "5AA97764D8A570D8"
+			tasks: [{
+				id: "61023B537B31EFAA"
+				type: "item"
+				item: "mysticalagriculture:hepatizon_seeds"
+			}]
+			rewards: [{
+				id: "3EFD99BC6295927E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 19.5d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "71F0E45026FF6914"
+			tasks: [{
+				id: "025194F8E3D95CCD"
+				type: "item"
+				item: "mysticalagriculture:terrasteel_seeds"
+			}]
+			rewards: [{
+				id: "1E7B3B8C29D9DBC2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 17.5d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "45763F8BF28B9647"
+			tasks: [{
+				id: "20F4CEBD603EC540"
+				type: "item"
+				item: "mysticalagriculture:niotic_crystal_seeds"
+			}]
+			rewards: [{
+				id: "6D9A6E0179FA2326"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 19.5d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "4339E272D85CC63A"
+			tasks: [{
+				id: "35D6996E4744D6C9"
+				type: "item"
+				item: "mysticalagriculture:spirited_crystal_seeds"
+			}]
+			rewards: [{
+				id: "23C32E9621244DAC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 19.0d
+			dependencies: ["3BFB62A16B5695CD"]
+			id: "50DA324307B24D9C"
+			tasks: [{
+				id: "2146D26FF9479E13"
+				type: "item"
+				item: "mysticalagriculture:ostrum_seeds"
+			}]
+			rewards: [{
+				id: "694DEBAD896AA17E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 22.5d
+			dependencies: ["5E2628F4BFE9B838"]
+			id: "276D8E1CABEC6967"
+			tasks: [{
+				id: "619D48D8722CDCC9"
+				type: "item"
+				item: "mysticalagriculture:draconium_seeds"
+			}]
+			rewards: [{
+				id: "47184AAE5906BA75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 23.0d
+			dependencies: ["5E2628F4BFE9B838"]
+			id: "6626EB5057C32905"
+			tasks: [{
+				id: "7B71B93C69A9B0A2"
+				type: "item"
+				item: "mysticalagriculture:awakened_draconium_seeds"
+			}]
+			rewards: [{
+				id: "0FFD948960057F5B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 23.5d
+			dependencies: ["5E2628F4BFE9B838"]
+			id: "7E71233B552FDC31"
+			tasks: [{
+				id: "1B70084F8626FA22"
+				type: "item"
+				item: "mysticalagriculture:nitro_crystal_seeds"
+			}]
+			rewards: [{
+				id: "58AD1797462EB810"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 23.0d
+			dependencies: ["5E2628F4BFE9B838"]
+			id: "5897226F62B4B723"
+			tasks: [{
+				id: "1CFF9FDABB85C354"
+				type: "item"
+				item: "mysticalagriculture:alfsteel_seeds"
+			}]
+			rewards: [{
+				id: "230B4BA828808D77"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 22.5d
+			dependencies: ["5E2628F4BFE9B838"]
+			id: "1946B7113E569D10"
+			tasks: [{
+				id: "73F92E181A4B23FD"
+				type: "item"
+				item: "mysticalagriculture:calorite_seeds"
+			}]
+			rewards: [{
+				id: "41154C7378822250"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: 11.5d
+			shape: "hexagon"
+			dependencies: ["39380B6C6CE2A912"]
+			id: "20598D0F84ACD900"
+			tasks: [{
+				id: "65DFF12C8C978EE1"
+				type: "item"
+				item: "mysticalagradditions:insanium_gemstone"
+			}]
+			rewards: [{
+				id: "647A79EBACC1235B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 12.5d
+			shape: "hexagon"
+			dependencies: ["28BD709713A73EE9"]
+			id: "39380B6C6CE2A912"
+			tasks: [{
+				id: "784976654AE8D0A0"
+				type: "item"
+				item: "mysticalagriculture:supremium_gemstone"
+			}]
+			rewards: [{
+				id: "78E1E1E19ACAC161"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.0d
+			y: 13.0d
+			shape: "hexagon"
+			dependencies: ["7B40351157DE00E4"]
+			id: "28BD709713A73EE9"
+			tasks: [{
+				id: "75CF153CC9FC7A6D"
+				type: "item"
+				item: "mysticalagriculture:imperium_gemstone"
+			}]
+			rewards: [{
+				id: "0C324DC9C1643635"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.0d
+			y: 12.5d
+			shape: "hexagon"
+			dependencies: ["645368E31B538872"]
+			id: "7B40351157DE00E4"
+			tasks: [{
+				id: "2DE4FC0D97819A95"
+				type: "item"
+				item: "mysticalagriculture:tertium_gemstone"
+			}]
+			rewards: [{
+				id: "06E35A2E6E374B8A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.5d
+			y: 11.5d
+			shape: "hexagon"
+			dependencies: ["3F0D5967DA2C5D61"]
+			id: "645368E31B538872"
+			tasks: [{
+				id: "53FC38682C4CB962"
+				type: "item"
+				item: "mysticalagriculture:prudentium_gemstone"
+			}]
+			rewards: [{
+				id: "2E83A50CA444E96B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.0d
+			y: 10.5d
+			shape: "hexagon"
+			dependencies: ["47774C29E334C904"]
+			id: "3F0D5967DA2C5D61"
+			tasks: [{
+				id: "1BB72171DD1564DA"
+				type: "item"
+				item: "mysticalagriculture:inferium_gemstone"
+			}]
+			rewards: [{
+				id: "54AED354E43A3998"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.0d
+			y: 10.0d
+			shape: "hexagon"
+			dependencies: [
+				"4FB9EB9A653F1736"
+				"039A029B112E4968"
+			]
+			id: "47774C29E334C904"
+			tasks: [{
+				id: "2964D041F293E48C"
+				type: "item"
+				item: "mysticalagriculture:prosperity_gemstone"
+			}]
+			rewards: [{
+				id: "2F33C81F24B6258E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 6.0d
+			shape: "diamond"
+			hide_dependency_lines: true
+			dependencies: ["6BAE40BBAF6B22C9"]
+			id: "17660E6C54C012DB"
+			tasks: [{
+				id: "164B496F4ADFE58C"
+				type: "item"
+				item: "mysticalagriculture:inferium_farmland"
+			}]
+			rewards: [{
+				id: "2B723036E4EE7084"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 6.5d
+			shape: "diamond"
+			dependencies: ["17660E6C54C012DB"]
+			id: "6146E3B761F88AAC"
+			tasks: [{
+				id: "4F8DD41D60C09D45"
+				type: "item"
+				item: "mysticalagriculture:prudentium_farmland"
+			}]
+			rewards: [{
+				id: "21657CC0E0457301"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 7.0d
+			shape: "diamond"
+			dependencies: ["6146E3B761F88AAC"]
+			id: "24114EF143579C7C"
+			tasks: [{
+				id: "0668F8F576C54D4B"
+				type: "item"
+				item: "mysticalagriculture:tertium_farmland"
+			}]
+			rewards: [{
+				id: "165D3CC11E37B849"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 6.0d
+			shape: "diamond"
+			hide_dependency_lines: true
+			dependencies: ["24114EF143579C7C"]
+			id: "12C1AAE0B39E0625"
+			tasks: [{
+				id: "73A149B67613B981"
+				type: "item"
+				item: "mysticalagriculture:imperium_farmland"
+			}]
+			rewards: [{
+				id: "59A1BD8D1A46933C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: 6.5d
+			shape: "diamond"
+			dependencies: ["12C1AAE0B39E0625"]
+			id: "50B7CFB51463D7F6"
+			tasks: [{
+				id: "22A68589878D93BD"
+				type: "item"
+				item: "mysticalagriculture:supremium_farmland"
+			}]
+			rewards: [{
+				id: "1EA4B3E5E027E157"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 7.0d
+			shape: "diamond"
+			dependencies: ["50B7CFB51463D7F6"]
+			id: "34F9EC70528E1C8C"
+			tasks: [{
+				id: "72FE12050E7FDE49"
+				type: "item"
+				item: "mysticalagradditions:insanium_farmland"
+			}]
+			rewards: [{
+				id: "357E2D8045827AA4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 10.0d
+			shape: "hexagon"
+			dependencies: [
+				"039A029B112E4968"
+				"4230CFAE65B1F5BF"
+			]
+			id: "183F64B67EF527AC"
+			tasks: [{
+				id: "2E3313C9098CD40A"
+				type: "item"
+				item: "mysticalagriculture:prosperity_ingot"
+			}]
+			rewards: [{
+				id: "7F4FB2FB311E2948"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 10.5d
+			shape: "hexagon"
+			dependencies: ["183F64B67EF527AC"]
+			id: "62911F1F33834E7A"
+			tasks: [{
+				id: "4E71E5DDC84AB961"
+				type: "item"
+				item: "mysticalagriculture:inferium_ingot"
+			}]
+			rewards: [{
+				id: "4170533B09D05D9E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 11.5d
+			shape: "hexagon"
+			dependencies: ["62911F1F33834E7A"]
+			id: "00BA7C75C6A04D70"
+			tasks: [{
+				id: "5DD0910475E28AE1"
+				type: "item"
+				item: "mysticalagriculture:prudentium_ingot"
+			}]
+			rewards: [{
+				id: "5DDA48BE25ECE314"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 12.5d
+			shape: "hexagon"
+			dependencies: ["00BA7C75C6A04D70"]
+			id: "0A6005F3D6588449"
+			tasks: [{
+				id: "1DBF05F3F805048E"
+				type: "item"
+				item: "mysticalagriculture:tertium_ingot"
+			}]
+			rewards: [{
+				id: "750ED46C4387DEC3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 13.0d
+			shape: "hexagon"
+			dependencies: ["0A6005F3D6588449"]
+			id: "502AB68AC7EA9E75"
+			tasks: [{
+				id: "2719DBDB4A636AD4"
+				type: "item"
+				item: "mysticalagriculture:imperium_ingot"
+			}]
+			rewards: [{
+				id: "183F99AF6888FB67"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 12.5d
+			shape: "hexagon"
+			dependencies: ["502AB68AC7EA9E75"]
+			id: "6FF29124FF0CF71D"
+			tasks: [{
+				id: "78FB06D8BE27150D"
+				type: "item"
+				item: "mysticalagriculture:supremium_ingot"
+			}]
+			rewards: [{
+				id: "1D01A99DBADD8E5D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 11.5d
+			shape: "hexagon"
+			dependencies: ["6FF29124FF0CF71D"]
+			id: "10796973F50013A8"
+			tasks: [{
+				id: "6BC0B38D7C28E004"
+				type: "item"
+				item: "mysticalagradditions:insanium_ingot"
+			}]
+			rewards: [{
+				id: "546E66C11AA8BD32"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 7.5d
+			shape: "diamond"
+			dependencies: [
+				"757BACF1D783CC60"
+				"4BF20EB48BFB37D6"
+				"4D3386CEDFB66283"
+				"1451BA35EA882740"
+				"2A26656724A1A24C"
+				"27DF0307849407F2"
+			]
+			size: 2.0d
+			id: "79226EAB8A4E8691"
+			tasks: [{
+				id: "28F9BD1B55281852"
+				type: "item"
+				item: "chroma:prudentium_seed_base"
+			}]
+			rewards: [{
+				id: "77E2EBDFDF1F407F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 11.5d
+			shape: "diamond"
+			dependencies: [
+				"79226EAB8A4E8691"
+				"50EAC087E5BAF117"
+				"2AC3CCF6FF756FFE"
+				"5E4582A941BB9AC1"
+				"4B5600FCC8533343"
+				"40175DECFB66C754"
+				"14C6C81FCC11F5BA"
+				"2B524CDBAA1663FD"
+				"56106B0EEDE4A73C"
+				"0A23583283803F4C"
+			]
+			size: 2.0d
+			id: "646BD90F101779AB"
+			tasks: [{
+				id: "5FC4921D00FC6495"
+				type: "item"
+				item: "chroma:tertium_seed_base"
+			}]
+			rewards: [{
+				id: "3A591FD3F49F0415"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 15.0d
+			shape: "diamond"
+			dependencies: [
+				"646BD90F101779AB"
+				"57FB233922030381"
+				"1547E773BF8BAA11"
+				"780DD387493BFE51"
+				"19AC5472B489AD86"
+				"27FF85592A2CAFF8"
+				"4A9E9C97D72F27A9"
+				"442EB59D1EA49DBD"
+				"0E89E9312ECDCA89"
+			]
+			size: 2.0d
+			id: "1F01A7D886AB7115"
+			tasks: [{
+				id: "7267237017C8BF59"
+				type: "item"
+				item: "chroma:imperium_seed_base"
+			}]
+			rewards: [{
+				id: "5180CC807EDB9E1D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 18.5d
+			shape: "diamond"
+			dependencies: [
+				"1F01A7D886AB7115"
+				"4D3D9EA2AE60AD73"
+				"33233A52579152CB"
+				"240CBFA57619AFDF"
+				"243CD8D3A6894BF1"
+				"2C820FB8ABF71047"
+				"17379844146D1CE5"
+				"11AC1E3E9E32D92E"
+				"24F4B5DCB8F6B017"
+				"1DDFD1C51529F9C1"
+				"512C2FF5219A1AE8"
+			]
+			size: 2.0d
+			id: "3BFB62A16B5695CD"
+			tasks: [{
+				id: "19BA21349FB6F6AD"
+				type: "item"
+				item: "chroma:supremium_seed_base"
+			}]
+			rewards: [{
+				id: "0A6500D9603033E0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 21.5d
+			shape: "diamond"
+			dependencies: [
+				"3BFB62A16B5695CD"
+				"0BACDAB9609C69CE"
+				"1EBD316BA5724440"
+			]
+			size: 2.0d
+			id: "5E2628F4BFE9B838"
+			tasks: [{
+				id: "44331E64CE1FCAAC"
+				type: "item"
+				item: "chroma:insanium_seed_base"
+			}]
+			rewards: [{
+				id: "482114B112438E2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 2.0d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["6BAE40BBAF6B22C9"]
+			id: "19B881C1D7C6C879"
+			tasks: [{
+				id: "4E802248F7E7B889"
+				type: "item"
+				item: "mysticalagradditions:inferium_coal"
+			}]
+			rewards: [{
+				id: "3156A4F9614A1FE7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 2.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["561A2C2CF13F761E"]
+			id: "7540AACB02592533"
+			tasks: [{
+				id: "3929A7AFC1A441FF"
+				type: "item"
+				item: "mysticalagradditions:prudentium_coal"
+			}]
+			rewards: [{
+				id: "101E8D6D9A4D9066"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 3.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["1E28D3FAD6B1B0DA"]
+			id: "1CAFE10698289226"
+			tasks: [{
+				id: "65AE6A2D40F9E2A2"
+				type: "item"
+				item: "mysticalagradditions:tertium_coal"
+			}]
+			rewards: [{
+				id: "25738377E73BB642"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 4.0d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["52F76DFFD82913D0"]
+			id: "56D6C4A3464AD5BC"
+			tasks: [{
+				id: "50C8DEB3F9692C4B"
+				type: "item"
+				item: "mysticalagradditions:imperium_coal"
+			}]
+			rewards: [{
+				id: "31B4540DBD94090E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 3.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["683E39C9DCC404EC"]
+			id: "561584D4E8F18646"
+			tasks: [{
+				id: "17B0AB7D07CA361C"
+				type: "item"
+				item: "mysticalagradditions:supremium_coal"
+			}]
+			rewards: [{
+				id: "7873A216ECC0AED3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 2.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["30A3E4DBDEA554C4"]
+			id: "0EB604C475EEFDD8"
+			tasks: [{
+				id: "5570538D18C808A8"
+				type: "item"
+				item: "mysticalagradditions:insanium_coal"
+			}]
+			rewards: [{
+				id: "6D732E7A98A3B294"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: 2.0d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["6BAE40BBAF6B22C9"]
+			id: "5371243932C3D790"
+			tasks: [{
+				id: "7C0B0465639BD30F"
+				type: "item"
+				item: "mysticalagradditions:inferium_apple"
+			}]
+			rewards: [{
+				id: "406CC89154472FF1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: 2.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["561A2C2CF13F761E"]
+			id: "14D9A4D2638A905D"
+			tasks: [{
+				id: "1E0901D66C3F68C0"
+				type: "item"
+				item: "mysticalagradditions:prudentium_apple"
+			}]
+			rewards: [{
+				id: "2F9B1FFCCE47E913"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: 3.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["1E28D3FAD6B1B0DA"]
+			id: "5F25AED39A3FB322"
+			tasks: [{
+				id: "1AD770AD6ED7B0C4"
+				type: "item"
+				item: "mysticalagradditions:tertium_apple"
+			}]
+			rewards: [{
+				id: "6C019A2D263DFE0F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: 4.0d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["52F76DFFD82913D0"]
+			id: "7D9C726551F1B708"
+			tasks: [{
+				id: "58037602A0AF6B66"
+				type: "item"
+				item: "mysticalagradditions:imperium_apple"
+			}]
+			rewards: [{
+				id: "2B3A8A3C35FACAE6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 3.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["683E39C9DCC404EC"]
+			id: "67E6AF86DD4708ED"
+			tasks: [{
+				id: "0901E0DFE60950BC"
+				type: "item"
+				item: "mysticalagradditions:supremium_apple"
+			}]
+			rewards: [{
+				id: "76952915F88CE79A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 2.5d
+			shape: "octagon"
+			hide_dependency_lines: true
+			dependencies: ["30A3E4DBDEA554C4"]
+			id: "2F2C26757B85B506"
+			tasks: [{
+				id: "755D7F80B1556007"
+				type: "item"
+				item: "mysticalagradditions:insanium_apple"
+			}]
+			rewards: [{
+				id: "76865B0724ABAFA3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			shape: "diamond"
+			dependencies: [
+				"5A72602AE75285F5"
+				"0D0B9C7F6ECFFC15"
+				"42C950CD5BD5CEC2"
+				"601F32B118AA9773"
+				"0441A7013B80246A"
+			]
+			size: 2.0d
+			id: "757BACF1D783CC60"
+			tasks: [{
+				id: "1068578BD1CBC7B8"
+				type: "item"
+				item: "chroma:inferium_seed_base"
+			}]
+			rewards: [{
+				id: "40A3D2CB3ADDC0CB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: -0.5d
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "6BAE40BBAF6B22C9"
+			tasks: [{
+				id: "2323EE2EA8ED156C"
+				type: "item"
+				item: "mysticalagriculture:inferium_essence"
+			}]
+			rewards: [{
+				id: "10AB1CF0695D6978"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -1.0d
+			dependencies: [
+				"6BAE40BBAF6B22C9"
+				"440C256F6ADDE5EB"
+			]
+			id: "561A2C2CF13F761E"
+			tasks: [{
+				id: "4BF20EB48BFB37D6"
+				type: "item"
+				item: "mysticalagriculture:prudentium_essence"
+			}]
+			rewards: [{
+				id: "6909FE75BA7C56BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.5d
+			dependencies: [
+				"561A2C2CF13F761E"
+				"571350701F02785E"
+			]
+			id: "1E28D3FAD6B1B0DA"
+			tasks: [{
+				id: "2AC3CCF6FF756FFE"
+				type: "item"
+				item: "mysticalagriculture:tertium_essence"
+			}]
+			rewards: [{
+				id: "52FF9E0983BF0946"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.5d
+			dependencies: [
+				"1E28D3FAD6B1B0DA"
+				"68B1F7248978E910"
+			]
+			id: "52F76DFFD82913D0"
+			tasks: [{
+				id: "1547E773BF8BAA11"
+				type: "item"
+				item: "mysticalagriculture:imperium_essence"
+			}]
+			rewards: [{
+				id: "740E3B473E7D71BE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			dependencies: [
+				"52F76DFFD82913D0"
+				"57FB233922030381"
+			]
+			id: "683E39C9DCC404EC"
+			tasks: [{
+				id: "33233A52579152CB"
+				type: "item"
+				item: "mysticalagriculture:supremium_essence"
+			}]
+			rewards: [{
+				id: "5DB5478DF32660BB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: -0.5d
+			dependencies: [
+				"683E39C9DCC404EC"
+				"4D3386CEDFB66283"
+			]
+			id: "30A3E4DBDEA554C4"
+			tasks: [{
+				id: "3DDFB8EC81758517"
+				type: "item"
+				item: "mysticalagradditions:insanium_essence"
+			}]
+			rewards: [{
+				id: "07249A3FF14D5FB4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 24.0d
+			dependencies: ["6626EB5057C32905"]
+			id: "43DC11DE8EE620F4"
+			tasks: [{
+				id: "6B280881DB91DDF5"
+				type: "item"
+				item: "mysticalagradditions:awakened_draconium_crux"
+			}]
+			rewards: [{
+				id: "1223878DF6082B81"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 24.5d
+			dependencies: ["7E71233B552FDC31"]
+			id: "0D61B55F60D92FB1"
+			tasks: [{
+				id: "6BB259DB03CB539A"
+				type: "item"
+				item: "mysticalagradditions:nitro_crystal_crux"
+			}]
+			rewards: [{
+				id: "59BE97D7E68A9D17"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 23.5d
+			dependencies: ["276D8E1CABEC6967"]
+			id: "71ABD47AA17A8768"
+			tasks: [{
+				id: "357CE55233DDAEC8"
+				type: "item"
+				item: "chroma:draconium_crux"
+			}]
+			rewards: [{
+				id: "3A6B777016FBCD53"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 23.5d
+			dependencies: ["1946B7113E569D10"]
+			id: "0134FFF4675423A1"
+			tasks: [{
+				id: "51CC6C556C9B8C13"
+				type: "item"
+				item: "chroma:calorite_crux"
+			}]
+			rewards: [{
+				id: "5106031EA2F99A4C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 24.0d
+			dependencies: ["5897226F62B4B723"]
+			id: "131E009D072877A8"
+			tasks: [{
+				id: "630F7BA334A1CB37"
+				type: "item"
+				item: "chroma:alfsteel_crux"
+			}]
+			rewards: [{
+				id: "1B53980379C09F2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

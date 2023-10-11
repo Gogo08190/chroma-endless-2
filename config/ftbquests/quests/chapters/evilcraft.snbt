@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 12
 	filename: "evilcraft"
-	title: "EvilCraft"
+	title: "{chapter.evil.title}"
 	icon: "evilcraft:condensed_blood"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -13,11 +13,11 @@
 			y: -7.0d
 			shape: "hexagon"
 			description: [
-				"&cEvilCraft&r is a magic-themed mod centered around dark elements. Gather the blood of your adversaries and tap into the potency of an ancient font of malevolence!"
+				"{chapter.evil.quest.1.description.1}"
 				""
-				"Comprehensive information about every aspect of this mod can be found in the guidebook, known as the &aOrigins of Darkness&r."
+				"{chapter.evil.quest.1.description.2}"
 				""
-				"To get started, find yourself some &9Dark Gems&r. "
+				"{chapter.evil.quest.1.description.3}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			size: 2.0d
@@ -27,18 +27,28 @@
 				type: "item"
 				item: "evilcraft:dark_gem"
 			}]
+			rewards: [{
+				id: "69A10A2F56DC1150"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Dark Temples"
+			title: "{chapter.evil.quest.2.title}"
 			x: -5.0d
 			y: -10.0d
 			shape: "octagon"
+			subtitle: "{chapter.evil.quest.2.subtitle.1}"
 			description: [
-				"You won't easily overlook these structures, as they emit a substantial beam from their centers."
+				"{chapter.evil.quest.2.description.1}"
 				""
-				"Positioned at the core of the &9Dark Temple&r is an &aEnvironmental Accumulator&r."
+				"{chapter.evil.quest.2.description.2}"
 				""
-				"This &aEnvironmental Accumulator&r serves to enhance and craft various essential items for our journey, including &dLightning Bombs&r!"
+				"{chapter.evil.quest.2.description.3}"
 			]
 			dependencies: ["0E07AAA79B6CDD57"]
 			id: "0BF22001574554C9"
@@ -63,11 +73,21 @@
 					match_nbt: true
 				}
 			]
+			rewards: [{
+				id: "5866E67693DFD774"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.0d
 			y: -11.0d
-			description: ["During rainy weather, inserting a &aWeather Container&r into the &aEnvironmental Accumulator&r enables you to harness the power of the rain."]
+			subtitle: "{chapter.evil.quest.3.subtitle.1}"
+			description: ["{chapter.evil.quest.3.description.1}"]
 			dependencies: ["0BF22001574554C9"]
 			id: "75607768BBE86769"
 			tasks: [{
@@ -82,10 +102,20 @@
 				}
 				match_nbt: true
 			}]
+			rewards: [{
+				id: "289B34DD33D47D40"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.0d
 			y: -11.5d
+			subtitle: "{chapter.evil.quest.5.subtitle.1}"
 			dependencies: ["0BF22001574554C9"]
 			id: "26CB3ED13A2ED1E0"
 			tasks: [{
@@ -100,14 +130,24 @@
 				}
 				match_nbt: true
 			}]
+			rewards: [{
+				id: "7EDF6139DB4A63BA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.0d
 			y: -11.0d
+			subtitle: "{chapter.evil.quest.4.subtitle.1}"
 			description: [
-				"During a thunderstorm, introducing a &aWeather Container&r into the &aEnvironmental Accumulator&r will allow you to harness the storm's power."
+				"{chapter.evil.quest.4.description.1}"
 				""
-				"With this method, we can craft items that grant us the ability to manipulate Lightning at our discretion."
+				"{chapter.evil.quest.4.description.2}"
 			]
 			dependencies: ["0BF22001574554C9"]
 			id: "2CDCB0F2FC49B1D0"
@@ -123,11 +163,20 @@
 				}
 				match_nbt: true
 			}]
+			rewards: [{
+				id: "7162086F66FB5DE2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.0d
 			y: -12.0d
-			description: ["Using the Weather Container, you can produce an &9Infinite Water Bucket&r or an &9Infinite Water Source Block&r. These items are immensely practical and valuable to possess!"]
+			description: ["{chapter.evil.quest.7.description.1}"]
 			dependencies: ["75607768BBE86769"]
 			id: "10403AAA4C985915"
 			tasks: [
@@ -142,10 +191,21 @@
 					item: "evilcraft:eternal_water"
 				}
 			]
+			rewards: [{
+				id: "1153F8068784679B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.evil.quest.6.title}"
 			x: -4.0d
 			y: -12.0d
+			subtitle: "{chapter.evil.quest.6.subtitle.1}"
 			dependencies: ["2CDCB0F2FC49B1D0"]
 			id: "4556CF35E2CE0AA2"
 			tasks: [
@@ -160,21 +220,30 @@
 					item: "evilcraft:lightning_bomb"
 				}
 			]
+			rewards: [{
+				id: "0E19BACB52850E53"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.0d
 			y: -4.0d
 			shape: "rsquare"
 			description: [
-				"To start collecting blood, we need to craft the &cBlood Extractor&r. "
+				"{chapter.evil.quest.8.description.1}"
 				""
-				"As long as you carry this extractor in your inventory, eliminating mobs will cause their blood to be collected within it. &cBlood&r holds significant importance as a resource in EvilCraft."
+				"{chapter.evil.quest.8.description.2}"
 				""
-				"If you require increased storage for the Extractor, create an additional one and then combine them within a crafting grid."
+				"{chapter.evil.quest.8.description.3}"
 				""
-				"These buckets can also be employed to extract blood from &cBlood Stains&r that you encounter or generate on the ground."
+				"{chapter.evil.quest.8.description.4}"
 				""
-				"Finally, once you've amassed sufficient blood, perform a sneak-right click on the ground to place a bucket of blood."
+				"{chapter.evil.quest.8.description.5}"
 			]
 			dependencies: ["0E07AAA79B6CDD57"]
 			id: "2ED440BD4DB4DF72"
@@ -200,17 +269,27 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "700851052BD6358F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.5d
 			y: -4.5d
 			shape: "diamond"
+			subtitle: "{chapter.evil.quest.9.subtitle.1}"
 			description: [
-				"Harnessing the potency of &9Dark Gems&r, we can fabricate &aDark Tanks&r."
+				"{chapter.evil.quest.9.description.1}"
 				""
-				"Each &aDark Tank&r can hold up to 16 buckets of any liquid of your choosing, but it's particularly handy for storing the copious amounts of &cBlood&r you'll be collecting."
+				"{chapter.evil.quest.9.description.2}"
 				""
-				"If you require increased capacity, simply combine a &aDark Tank&r with another in a crafting grid."
+				"{chapter.evil.quest.9.description.3}"
 			]
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "716AAD9C64366E6F"
@@ -236,15 +315,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "64E64AEAEDAA799D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.0d
 			y: -4.0d
 			shape: "diamond"
+			subtitle: "{chapter.evil.quest.10.subtitle.1}"
 			description: [
-				"Ever wished to inflict harm upon things using a Shovel? Despite the unusual desire, in the realm of EvilCraft, such peculiarities are not unexpected."
+				"{chapter.evil.quest.10.description.1}"
 				""
-				"Look no further! This dual-purpose item functions as both a weapon and a tool for breaking softer materials."
+				"{chapter.evil.quest.10.description.2}"
 			]
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "5E44E6CD4D5E685D"
@@ -259,17 +348,28 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1F99D4EC7116DD8C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.evil.quest.11.title}"
 			x: -6.5d
 			y: -3.5d
 			shape: "diamond"
+			subtitle: "{chapter.evil.quest.11.subtitle.1}"
 			description: [
-				"Did a mob meet an unfortunate end, resulting in its &cBlood&r being spilled all over the floor? What a mess!"
+				"{chapter.evil.quest.11.description.1}"
 				""
-				"To salvage that valuable &cBlood&r for future use, employ a &cSanguinary Pedestal&r to absorb it."
+				"{chapter.evil.quest.11.description.2}"
 				""
-				"Want to automate collecting blood? Place a &9Spiked Plate&r on top of the Pedestal, then have a mob stand on it."
+				"{chapter.evil.quest.10.description.2}"
 			]
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "1B18B7E28E9F4887"
@@ -323,16 +423,27 @@
 					item: "evilcraft:spiked_plate"
 				}
 			]
+			rewards: [{
+				id: "014BB3816A90C03F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.evil.quest.12.title}"
 			x: -3.5d
 			y: -5.0d
+			subtitle: "{chapter.evil.quest.12.subtitle.1}"
 			description: [
-				"Upon occasion, eliminating a mob can trigger the appearance of a &dVengeance Spirit&r."
+				"{chapter.evil.quest.12.description.1}"
 				""
-				"The &dEssence&r they possess proves to be valuable in crafting more sophisticated items within EvilCraft."
+				"{chapter.evil.quest.12.description.2}"
 				""
-				"Struggling to encounter enough Spirits? Craft a &9Vengeance Ring&r and activate it to draw in more Spirits during your battles."
+				"{chapter.evil.quest.12.description.3}"
 			]
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "71E9B1CEED94CF62"
@@ -348,15 +459,26 @@
 					item: "evilcraft:vengeance_ring"
 				}
 			]
+			rewards: [{
+				id: "51A9607AC74D6F2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.evil.quest.13.title}"
 			x: -1.0d
 			y: -6.0d
 			shape: "pentagon"
+			subtitle: "{chapter.evil.quest.13.subtitle.1}"
 			description: [
-				"While their &dEssence&r serves a purpose, you can also trap these Spirits for utilization at a later time. It does sound rather sinister, doesn't it?"
+				"{chapter.evil.quest.13.description.1}"
 				""
-				"To assume the role of a Spirit Hunter, begin by crafting the &dVengeance Focus&r. This item is utilized to &aFreeze Spirits&r in position. Subsequently, place a &9Box of Eternal Closure&r near the Spirit. This device will then capture the Spirit for future utilization."
+				"{chapter.evil.quest.13.description.2}"
 			]
 			dependencies: ["71E9B1CEED94CF62"]
 			size: 1.5d
@@ -373,20 +495,31 @@
 					item: "evilcraft:vengeance_focus"
 				}
 			]
+			rewards: [{
+				id: "3D0ABE413CF73A6E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.evil.quest.14.title}"
 			x: 2.0d
 			y: -6.0d
+			subtitle: "{chapter.evil.quest.14.subtitle.1}"
 			description: [
-				"&cEvilCraft&r offers its own dedicated Mob Farm feature!"
+				"{chapter.evil.quest.14.description.1}"
 				""
-				"To initiate this process, begin by crafting a minimum of 33 &cDark Blood Bricks&r. These bricks will be used to construct a robust structure capable of containing the summoned spirits."
+				"{chapter.evil.quest.14.description.2}"
 				""
-				"You'll also require a spirit confined within a &9Box of Eternal Closure&r. The contents of this box will dictate the drops you receive."
+				"{chapter.evil.quest.14.description.3}"
 				""
-				"To construct the Mob Farm, create a cuboid structure with adequate space for mob spawning. The smallest viable size is 3x4x3, sufficient for spawning mobs like zombies. Ensure that a &9Spirit Furnace&r is positioned on one of the faces, facilitating interaction with the structure."
+				"{chapter.evil.quest.14.description.4}"
 				""
-				"For the spawning of larger mobs, a more sizable structure will be necessary."
+				"{chapter.evil.quest.14.description.5}"
 			]
 			dependencies: [
 				"3A7B1F0C2480D0AB"
@@ -417,16 +550,26 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "1EE2C04BEC31930A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
 			y: -7.5d
+			subtitle: "{chapter.evil.quest.15.subtitle.1}"
 			description: [
-				"Interested in crafting a mob egg using the spirit you've ensnared within the box?"
+				"{chapter.evil.quest.15.description.1)"
 				""
-				"The &9Spirit Reanimator&r accomplishes precisely that. Furnish it with an ample supply of &cBlood&r, an egg, and naturally, a &9Box of Eternal Closure&r containing the desired Spirit. The device will endeavor to create the mob egg as intended!"
+				"{chapter.evil.quest.15.description.2}"
 				""
-				"Note: Certain mobs are ineligible for use in creating eggs."
+				"{chapter.evil.quest.15.description.3}"
 			]
 			dependencies: ["4121E7BEB3421C80"]
 			id: "4A125E7AE627ACD4"
@@ -446,16 +589,26 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "2F34CAA741A21DD4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.5d
 			y: -3.5d
+			subtitle: "{chapter.evil.quest.16.subtitle.1}"
 			description: [
-				"When left on the ground for an extended period, a bucket of blood will solidify and transform into &cHardened Blood&r."
+				"{chapter.evil.quest.16.description.1}"
 				""
-				"In addition to its rather unsanitary nature, various forms of blood, including dried blood, are essential for our progression."
+				"{chapter.evil.quest.16.description.2}"
 				""
-				"Hardened Blood will revert to its liquid state in the rain or if broken with regular tools. However, if you break it with &9Flint and Steel&r, you'll obtain &dBlood Shards&r instead."
+				"{chapter.evil.quest.16.description.3}"
 			]
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "231C6B72BE9870FC"
@@ -464,10 +617,20 @@
 				type: "item"
 				item: "evilcraft:hardened_blood_shard"
 			}]
+			rewards: [{
+				id: "3EE30EDA5003531E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.5d
 			y: -2.5d
+			subtitle: "{chapter.evil.quest.17.subtitle.1}"
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "4FB9EB9A653F1736"
 			tasks: [{
@@ -475,14 +638,24 @@
 				type: "item"
 				item: "evilcraft:dark_power_gem"
 			}]
+			rewards: [{
+				id: "5D61DC5559FA6B74"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
 			y: -2.0d
+			subtitle: "{chapter.evil.quest.18.subtitle.1}"
 			description: [
-				"By combining &aHardened Blood Shards&r with &9Dark Power Gems&r, you can create Blood Infusion Cores."
+				"{chapter.evil.quest.18.description.1}"
 				""
-				"&9Blood Infusion Cores&r serve as the primary crafting components for numerous machines within EvilCraft."
+				"{chapter.evil.quest.18.description.2}"
 			]
 			dependencies: [
 				"231C6B72BE9870FC"
@@ -494,16 +667,26 @@
 				type: "item"
 				item: "evilcraft:blood_infusion_core"
 			}]
+			rewards: [{
+				id: "4D833CDCD1165148"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.5d
 			y: 0.0d
+			subtitle: "{chapter.evil.quest.20.subtitle.1}"
 			description: [
-				"Is the &cBlood Chest&r not operating at a satisfactory pace? Are you grappling with an excessive number of items in need of repair? Crafting a &cColossal Blood Chest&r can address these concerns."
+				"{chapter.evil.quest.20.description.1}"
 				""
-				"To construct a &cColossal Blood Chest&r, produce 25 &9Reinforced Undead Planks&r. Utilize these planks to form a hollow cube with dimensions of 3x3x3. Subsequently, position a &cColossal Blood Chest&r block to seal off the multiblock structure. If executed accurately, you'll possess a substantial &cBlood Chest&r that is truly colossal in size."
+				"{chapter.evil.quest.20.description.2}"
 				""
-				"This also provides you the ability to enhance it using &6Promises&r."
+				"{chapter.evil.quest.20.description.3}"
 			]
 			dependencies: ["69268334A2E9D37A"]
 			id: "7C4CA2689973F8E5"
@@ -531,14 +714,24 @@
 					count: 25L
 				}
 			]
+			rewards: [{
+				id: "230FD30E218FC400"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.0d
 			y: -0.5d
+			subtitle: "{chapter.evil.quest.19.subtitle.1}"
 			description: [
-				"The &cBlood Chest&r has the capability to repair items using &cBlood&r."
+				"{chapter.evil.quest.19.description.1}"
 				""
-				"However, items that are repaired might end up becoming &dCursed&r..."
+				"{chapter.evil.quest.19.description.2}"
 			]
 			dependencies: ["4B73B1B8ADBDC09B"]
 			id: "69268334A2E9D37A"
@@ -558,14 +751,24 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "07DB803C82A7C4A3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: 1.0d
+			subtitle: "{chapter.evil.quest.22.subtitle.1}"
 			description: [
-				"Through the Blood Infuser, you have the capacity to produce &cUndead Saplings&r, which develop into &dUndead Trees&r."
+				"{chapter.evil.quest.22.description.1}"
 				""
-				"The logs and planks harvested from &dUndead Trees&r prove valuable for crafting various tools and items within EvilCraft."
+				"{chapter.evil.quest.22.description.2}"
 			]
 			dependencies: ["51019793E0B1D73F"]
 			id: "7C76BE07348E7873"
@@ -581,12 +784,22 @@
 					item: "evilcraft:undead_planks"
 				}
 			]
+			rewards: [{
+				id: "74D02512A5004083"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
 			y: 2.0d
 			shape: "hexagon"
-			description: ["The &dVein Sword&r enables you to collect greater amounts of blood, in addition to boosting drops with the Looting enchantment."]
+			subtitle: "{chapter.evil.quest.23.subtitle.1}"
+			description: ["{chapter.evil.quest.23.description.1}"]
 			dependencies: ["7C76BE07348E7873"]
 			id: "23860411F1863045"
 			tasks: [{
@@ -604,15 +817,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "3A08DF68E4402610"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
 			y: 2.0d
 			shape: "hexagon"
+			subtitle: "{chapter.evil.quest.25.subtitle.1}"
 			description: [
-				"It's a pickaxe with Fortune V on it. That's all."
+				"{chapter.evil.quest.25.description.1}"
 				""
-				"Definitely won't summon spirits when you are mining. &oDefinitely won't.&r"
+				"{chapter.evil.quest.25.description.2}"
 			]
 			dependencies: ["7C76BE07348E7873"]
 			id: "6853CFC37D1BBC09"
@@ -637,17 +860,28 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1CF8A133D4536A8C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.evil.quest.24.title}"
 			x: -2.0d
 			y: 2.5d
 			shape: "hexagon"
+			subtitle: "{chapter.evil.quest.24.subtitle.1="
 			description: [
-				"&dBrooms&r can be made using Broom Parts. Every Broom is made up of 3 parts: a Rod, a Cap, and a Brush."
+				"{chapter.evil.quest.24.description.1}"
 				""
-				"Each part can be crafted by combining the basic component with specific items to grant them distinct modifiers. Due to the multitude of modifiers, consult the guidebook for comprehensive information!"
+				"{chapter.evil.quest.24.description.2}"
 				""
-				"To craft your Broom, place each part into the crafting table. Keep in mind that the Broom will necessitate Blood to operate effectively."
+				"{chapter.evil.quest.24.description.3}"
 			]
 			dependencies: ["7C76BE07348E7873"]
 			id: "5AF87BD857EC0909"
@@ -708,15 +942,26 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "688F87A8E12B7E17"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.evil.quest.26.title}"
 			x: 0.0d
 			y: -1.0d
 			shape: "rsquare"
+			subtitle: "{chapter.evil.quest.26.subtitle.1}"
 			description: [
-				"EvilCraft machines can be enhanced using &6Promises&r. Each Promise bestows distinct effects, but for starters, we should upgrade our Blood Infuser to unlock additional recipes."
+				"{chapter.evil.quest.26.description.1}"
 				""
-				"To achieve this, fabricate a &6Promise of Tenacity: Tier 1&r. In most cases, this enhances the storage capacity of a machine. However, for the Blood Infuser, it will unlock additional recipes!"
+				"{chapter.evil.quest.26.description.2}"
 			]
 			dependencies: ["51019793E0B1D73F"]
 			id: "79F8FA97772068C4"
@@ -732,11 +977,21 @@
 					item: "evilcraft:promise_tier_1"
 				}
 			]
+			rewards: [{
+				id: "65D159AA2E857114"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
 			y: -1.0d
 			shape: "rsquare"
+			subtitle: "{chapter.evil.quest.31.subtitle.1}"
 			dependencies: ["79F8FA97772068C4"]
 			id: "165A1D20CEEA51A3"
 			tasks: [
@@ -751,11 +1006,21 @@
 					item: "evilcraft:promise_tier_2"
 				}
 			]
+			rewards: [{
+				id: "6E94BCB59614E705"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.0d
 			y: -1.0d
 			shape: "rsquare"
+			subtitle: "{chapter.evil.quest.32.subtitle.1}"
 			dependencies: ["165A1D20CEEA51A3"]
 			id: "36D851A80BB6E5E1"
 			tasks: [
@@ -770,15 +1035,25 @@
 					item: "evilcraft:promise_tier_3"
 				}
 			]
+			rewards: [{
+				id: "4B401B7A3742A04F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.0d
 			y: -1.0d
 			shape: "hexagon"
+			subtitle: "{chapter.evil.quest.33.subtitle.1}"
 			description: [
-				"Harnessing the energy of a vanquished &9Vengeance Spirit&r, the Blood Infuser can be employed to craft &dGarmonbozia&r."
+				"{chapter.evil.quest.33.description.1}"
 				""
-				"&dGarmonbozia&r represents the embodiment of &dPain&r and &dSorrow&r. Additionally, it serves as a premium crafting material for crafting potent tools and items within EvilCraft."
+				"{chapter.evil.quest.33.description.2}"
 			]
 			dependencies: ["36D851A80BB6E5E1"]
 			id: "42E3B1B976B65214"
@@ -787,11 +1062,21 @@
 				type: "item"
 				item: "evilcraft:garmonbozia"
 			}]
+			rewards: [{
+				id: "1BDBB274A9BFA601"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.0d
 			y: -1.0d
-			description: ["With &dGarmonbozia&r, we can now fabricate our very own &aEnvironmental Accumulator&r. That's quite a mouthful, I must admit."]
+			subtitle: "{chapter.evil.quest.34.subtitle.1}"
+			description: ["{chapter.evil.quest.34.description.1}"]
 			dependencies: ["42E3B1B976B65214"]
 			id: "63009FEAA91BB56C"
 			tasks: [{
@@ -799,14 +1084,24 @@
 				type: "item"
 				item: "evilcraft:sanguinary_environmental_accumulator"
 			}]
+			rewards: [{
+				id: "52DD530DB6C77CC2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
 			y: 0.5d
+			subtitle: "{chapter.evil.quest.35.subtitle.1}"
 			description: [
-				"This item is a distinctive drop from &aPlayers&r, even when you meet your demise!"
+				"{chapter.evil.quest.35.description.1}"
 				""
-				"You &ocould&r obtain this through repetitive deaths or by engaging in PvP. It's essentially the same approach!"
+				"{chapter.evil.quest.35.description.2}"
 			]
 			dependencies: ["42E3B1B976B65214"]
 			id: "475180CA2A86B3B1"
@@ -815,14 +1110,24 @@
 				type: "item"
 				item: "evilcraft:flesh_humanoid"
 			}]
+			rewards: [{
+				id: "402709FEF67813FA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.0d
 			y: 0.5d
+			subtitle: "{chapter.evil.quest.36.subtitle.1}"
 			description: [
-				"Within villages, you'll encounter &ointeresting&r villagers who, as it turns out, are &dWerewolves&r."
+				"{chapter.evil.quest.36.description.1}"
 				""
-				"Defeating these creatures will yield &dWerewolf Flesh&r."
+				"{chapter.evil.quest.36.description.2}"
 			]
 			dependencies: ["42E3B1B976B65214"]
 			id: "1978F858C6B5D564"
@@ -831,12 +1136,22 @@
 				type: "item"
 				item: "evilcraft:flesh_werewolf"
 			}]
+			rewards: [{
+				id: "45978FC99919260E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.0d
 			y: 2.0d
 			shape: "octagon"
-			description: ["Using the flesh of &aPlayers&r or &dWerewolves&r, you have the ability to create an &aInfinite Food Source&r through the potency of Garmonbozia!"]
+			subtitle: "{chapter.evil.quest.37.subtitle.1}"
+			description: ["{chapter.evil.quest.37.description.1}"]
 			dependencies: [
 				"1978F858C6B5D564"
 				"475180CA2A86B3B1"
@@ -865,16 +1180,26 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "105C9A924D7F78A1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
 			y: 0.5d
+			subtitle: "{chapter.evil.quest.30.subtitle.1}"
 			description: [
-				"If you find yourself needing to eliminate &dEnchantments&r from an item or wish to remove a Curse, the &cPurifier&r is the solution."
+				"{chapter.evil.quest.30.description.1}"
 				""
-				"To accomplish this, initiate by depositing a minimum of 3 buckets' worth of blood into the Purifier. Subsequently, toss in the item you wish to remove an enchantment from."
+				"{chapter.evil.quest.30.description.2}"
 				""
-				"Following that, introduce the &cBlook&r. The Blook will absorb one of the enchantments from the item and convert it into an enchantment book."
+				"{chapter.evil.quest.30.description.3}"
 			]
 			dependencies: ["79F8FA97772068C4"]
 			id: "1FFC6DACF450B5FF"
@@ -901,11 +1226,20 @@
 					item: "evilcraft:blook"
 				}
 			]
+			rewards: [{
+				id: "7B64B1CF94F8870D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
 			y: -2.5d
-			subtitle: "Increase the Speed of EvilCraft Machines"
+			subtitle: "{chapter.evil.quest.27.subtitle.1}"
 			dependencies: ["79F8FA97772068C4"]
 			id: "67D2FA07D67658B8"
 			tasks: [{
@@ -913,11 +1247,20 @@
 				type: "item"
 				item: "evilcraft:promise_speed_0"
 			}]
+			rewards: [{
+				id: "5CF9B173665D1FC2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
 			y: -2.5d
-			subtitle: "Increases the Efficiency of EvilCraft Machines"
+			subtitle: "{chapter.evil.quest.28.subtitle.1}"
 			dependencies: ["79F8FA97772068C4"]
 			id: "1152601B831E0D35"
 			tasks: [{
@@ -925,11 +1268,21 @@
 				type: "item"
 				item: "evilcraft:promise_efficiency_0"
 			}]
+			rewards: [{
+				id: "692942A8E00F7786"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
 			y: -4.0d
-			description: ["Gives you a speed boost + step height!"]
+			subtitle: "{chapter.evil.quest.29.subtitle.1}"
+			description: ["{chapter.evil.quest.29.description.1}"]
 			dependencies: [
 				"1152601B831E0D35"
 				"67D2FA07D67658B8"
@@ -940,12 +1293,21 @@
 				type: "item"
 				item: "evilcraft:effortless_ring"
 			}]
+			rewards: [{
+				id: "7AEDA8FF96E8525C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.0d
 			y: -4.5d
 			shape: "diamond"
-			subtitle: "A Reusable Ender Pearl"
+			subtitle: "{chapter.evil.quest.42.subtitle.1}"
 			hide_dependency_lines: true
 			dependencies: ["0E07AAA79B6CDD57"]
 			id: "32C67275958E3FEE"
@@ -971,12 +1333,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "40BCE306F36902B1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
 			y: -5.5d
 			shape: "diamond"
-			subtitle: "Removes Bad Potion Effects"
+			subtitle: "{chapter.evil.quest.38.subtitle.1}"
 			hide_dependency_lines: true
 			dependencies: ["4B73B1B8ADBDC09B"]
 			id: "206636A09AE2EADC"
@@ -1002,13 +1373,22 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "63D4EF4DAE23C8DA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.0d
 			y: -5.5d
 			shape: "diamond"
-			subtitle: "Applies Potion Effects"
-			description: ["To place the desired potion, simply right-click while holding the &2Primed Pendant&r to open its inventory."]
+			subtitle: "{chapter.evil.quest.44.subtitle.1}"
+			description: ["{chapter.evil.quest.44.description.1}"]
 			hide_dependency_lines: true
 			dependencies: ["42E3B1B976B65214"]
 			id: "70977AF2B686DAAC"
@@ -1035,16 +1415,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1826A238924CF0D3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.0d
 			y: -4.5d
 			shape: "diamond"
-			subtitle: "Magnets"
+			subtitle: "{chapter.evil.quest.46.subtitle.1}"
 			description: [
-				"The &9Kineticator&r operates akin to a magnet, attracting items and experience towards you."
+				"{chapter.evil.quest.46.description.1}"
 				""
-				"On the other hand, the &eReverse Kineticator&r will have the opposite effect, repelling items and experience away from you."
+				"{chapter.evil.quest.46.description.2}"
 			]
 			hide_dependency_lines: true
 			dependencies: ["79F8FA97772068C4"]
@@ -1095,12 +1484,21 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "54934075E02CF296"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
 			y: -5.0d
 			shape: "diamond"
-			subtitle: "Summons Zombies"
+			subtitle: "{chapter.evil.quest.43.subtitle.1}"
 			hide_dependency_lines: true
 			dependencies: ["0BF22001574554C9"]
 			id: "2B1AC767FE6A412F"
@@ -1126,12 +1524,22 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "15D44B5099965C68"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: -5.0d
 			shape: "diamond"
-			description: ["It functions similarly to the &aMace of Distortion&r, with the distinction that it triggers an area-of-effect explosion instead."]
+			subtitle: "{chapter.evil.quest.39.subtitle.1}"
+			description: ["{chapter.evil.quest.39.description.1}"]
 			hide_dependency_lines: true
 			dependencies: ["42E3B1B976B65214"]
 			id: "6C6D6B99691D1ABC"
@@ -1157,12 +1565,22 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5AE9F2807BCE5A6A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
 			y: -4.5d
 			shape: "diamond"
-			description: ["Pressing and holding the right mouse button will charge up the Mace for an area-of-effect attack using &cBlood&r. By performing a sneak-right click, you can adjust the power level. A higher power level inflicts greater damage at the expense of more Blood."]
+			subtitle: "{chapter.evil.quest.40.subtitle.1}"
+			description: ["{chapter.evil.quest.40.description.1}"]
 			hide_dependency_lines: true
 			dependencies: ["0BF22001574554C9"]
 			id: "2815D1A40AEF8A40"
@@ -1188,12 +1606,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "156D21B9A1E878C4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
 			y: -5.0d
 			shape: "diamond"
-			subtitle: "A One-Time Use Lightning Scepter"
+			subtitle: "{chapter.evil.quest.45.subtitle.1}"
 			hide_dependency_lines: true
 			dependencies: ["79F8FA97772068C4"]
 			id: "3D1D340FF50A7CF7"
@@ -1202,16 +1629,26 @@
 				type: "item"
 				item: "evilcraft:sceptre_of_thunder"
 			}]
+			rewards: [{
+				id: "08336DAB3C9F8C8E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: -1.0d
+			subtitle: "{chapter.evil.quest.21.subtitle.1}"
 			description: [
-				"We will no longer be crafting Dark Power Gems using pools of blood."
+				"{chapter.evil.quest.21.description.1}"
 				""
-				"Instead, we now have the option to craft the &9Blood Infuser&r, which takes care of all the messy work on our behalf. This device enables direct infusion of items with blood!"
+				"{chapter.evil.quest.21.description.2}"
 				""
-				"These machines can also be upgraded using &6Promises&r. The Blood Infuser is a pivotal machine utilized for progression in the mod!"
+				"{chapter.evil.quest.21.description.3}"
 			]
 			dependencies: ["4B73B1B8ADBDC09B"]
 			id: "51019793E0B1D73F"
@@ -1231,17 +1668,27 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "309DFCEA1A35538D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.5d
 			y: -5.0d
 			shape: "diamond"
+			subtitle: "{chapter.evil.quest.41.subtitle.1}"
 			description: [
-				"The &6Entangled Chalice&r is just like an Ender Tank."
+				"{chapter.evil.quest.41.description.1}"
 				""
-				"Once situated in the world, the &9Blood Pump&r can infuse Blood. When activated within your inventory, it will endeavor to replenish items that rely on &cBlood&r as a resource."
+				"{chapter.evil.quest.41.description.2}"
 				""
-				"If you wish to produce additional Chalices using the same network, employ the crafting recipe that employs a Chalice instead of a gold ingot."
+				"{chapter.evil.quest.41.description.3}"
 			]
 			hide_dependency_lines: true
 			dependencies: ["36D851A80BB6E5E1"]
@@ -1263,6 +1710,15 @@
 							capacity: 4000
 						}
 					}
+				}
+			}]
+			rewards: [{
+				id: "4AF2312422B128ED"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}

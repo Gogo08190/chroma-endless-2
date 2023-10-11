@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 8
 	filename: "bigger_reactor"
-	title: "Bigger Reactor"
+	title: "{chapter.bigger.title}"
 	icon: "biggerreactors:reactor_terminal"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -37,9 +37,9 @@
 		{
 			x: 2.0d
 			y: 13.5d
-			subtitle: "Waste reprocessor"
+			subtitle: "{chapter.bigger.quest.12.subtitle.1}"
 			description: [
-				"When provided power and water, this machine can convert cyanite into blutonium, which may be put back into a reactor as fuel."
+				"{chapter.bigger.quest.12.description.1}"
 				""
 				"{image:chroma:textures/quests/cyanite.png width:260 height:140 align:1}"
 			]
@@ -50,14 +50,24 @@
 				type: "item"
 				item: "biggerreactors:cyanite_reprocessor"
 			}]
+			rewards: [{
+				id: "6A4912D2AAB0FBEF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.5d
 			y: 9.5d
+			subtitle: "{chapter.bigger.quest.1.subtitle.1}"
 			description: [
-				"To get started with &l&bBigger Reactor&r, you will require a significant amount of &aUranium&r."
+				"{chapter.bigger.quest.1.description.1}"
 				""
-				"Not only is uranium a fundamental component for the crafts of Bigger Reactor, but it also serves as the primary fuel for the reactor."
+				"{chapter.bigger.quest.1.description.2}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			id: "1420D26505063D0A"
@@ -66,14 +76,24 @@
 				type: "item"
 				item: "biggerreactors:uranium_ingot"
 			}]
+			rewards: [{
+				id: "1F4056AED92B6739"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.5d
 			y: 11.0d
+			subtitle: "{chapter.bigger.quest.2.subtitle.1}"
 			description: [
-				"To produce &l&8Graphite&r in Chroma Endless 2, follow the detailed process in the quests of &nstage 4&r."
+				"{chapter.bigger.quest.2.description.1}"
 				""
-				"Just like uranium, Graphite is a major component for the crafts of Bigger Reactor and also serves as a Reactor Moderators (Reactor Coolants)."
+				"{chapter.bigger.quest.2.description.2}"
 			]
 			dependencies: ["1420D26505063D0A"]
 			id: "5DDBA6269D6C1D16"
@@ -82,19 +102,28 @@
 				type: "item"
 				item: "biggerreactors:graphite_ingot"
 			}]
+			rewards: [{
+				id: "7C2AFCBC175639BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Reactor Control Components"
+			title: "{chapter.bigger.quest.6.title}"
 			x: -3.5d
 			y: 11.5d
 			shape: "diamond"
-			subtitle: "Everything is under control"
+			subtitle: "{chapter.bigger.quest.6.subtitle.1}"
 			description: [
-				"Some components are entirely optional and are not required to build a functioning reactor. These may, however, allow for automation and remote control of reactors."
+				"{chapter.bigger.quest.6.description.1}"
 				""
-				"&l&bComputer Ports&r allow for control of various reactor functions via Lua scripting with CC: Tweaker."
+				"{chapter.bigger.quest.6.description.2}"
 				""
-				"&l&bRedstone Ports&r allow for control of various reactor functions via Redstone circuits."
+				"{chapter.bigger.quest.6.description.3}"
 			]
 			dependencies: ["4A1099D4B901C6A3"]
 			optional: true
@@ -111,13 +140,22 @@
 					item: "biggerreactors:reactor_redstone_port"
 				}
 			]
+			rewards: [{
+				id: "41588EA0C06A6283"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.5d
 			y: 10.5d
 			shape: "diamond"
-			subtitle: "I can see clearly now"
-			description: ["&l&bReactor Glass&r functions identically to casings, but may only be used on walls. It allows you to see inside of the reactor."]
+			subtitle: "{chapter.bigger.quest.4.subtitle.1}"
+			description: ["{chapter.bigger.quest.4.description.1}"]
 			dependencies: ["4A1099D4B901C6A3"]
 			id: "78DA859FA6B0041E"
 			tasks: [{
@@ -125,9 +163,18 @@
 				type: "item"
 				item: "biggerreactors:reactor_glass"
 			}]
+			rewards: [{
+				id: "22059D63F3BE94B2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "&aMy First Passive Reactor"
+			title: "{chapter.bigger.quest.9.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -138,20 +185,20 @@
 			x: -1.5d
 			y: 11.5d
 			shape: "rsquare"
-			subtitle: "Build your first reactor"
+			subtitle: "{chapter.bigger.quest.9.subtitle.1}"
 			description: [
-				"We'll construct the smallest possible passive reactor, the &b3x3x3&r."
-				"The quest's requirements precisely match what you need to assemble one."
+				"{chapter.bigger.quest.9.description.1}"
+				"{chapter.bigger.quest.9.description.2}"
 				""
-				"To assemble this, begin by constructing a 3x3x3 frame using Reactor Casings."
+				"{chapter.bigger.quest.9.description.3}"
 				""
-				"To operate, your reactor needs :"
+				"{chapter.bigger.quest.9.description.4}"
 				""
-				"• 1 Reactor Terminal."
-				"• 1 Reactor Fuel Rod"
-				"• 1 Control Rod"
-				"• 2 Reactor Access Ports"
-				"• 1 Power Tap"
+				"{chapter.bigger.quest.9.description.5}"
+				"{chapter.bigger.quest.9.description.6}"
+				"{chapter.bigger.quest.9.description.7}"
+				"{chapter.bigger.quest.9.description.8}"
+				"{chapter.bigger.quest.9.description.9}"
 			]
 			dependencies: ["4A1099D4B901C6A3"]
 			size: 2.0d
@@ -191,31 +238,40 @@
 					item: "biggerreactors:reactor_control_rod"
 				}
 			]
+			rewards: [{
+				id: "7838D75742A0CA54"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.0d
 			y: 11.5d
 			shape: "diamond"
-			subtitle: "The heart of the Reactor"
+			subtitle: "{chapter.bigger.quest.3.subtitle.1}"
 			description: [
-				"&l&bReactor Terminals&r are used to control and monitor the operation of a reactor. They are a required component for all reactors, regardless of type."
+				"{chapter.bigger.quest.3.description.1}"
 				""
-				"Reactor Terminals have three states, depending on the circumstances of which they're placed :"
+				"{chapter.bigger.quest.3.description.2}"
 				""
-				"• While by itself or as part of a disassembled reactor, the terminal has a blank (black) screen."
-				"• If placed as part of an offline reactor, the screen will light up with a red flashing cursor."
-				"• If placed as part of an online reactor, the screen will light up green with scrolling text."
+				"{chapter.bigger.quest.3.description.3}"
+				"{chapter.bigger.quest.3.description.4}"
+				"{chapter.bigger.quest.3.description.5}"
 				""
-				"When the terminal is placed as part of an assembled reactor, right clicking it will open up the Reactor Info screen."
-				"The screen provides information about the current state of the reactor, as well as controls for turning the reactor on/off, as well as whether or not to eject Waste."
+				"{chapter.bigger.quest.3.description.6}"
+				"{chapter.bigger.quest.3.description.7}"
 				""
-				"The terminal screen provides the following insights :"
+				"{chapter.bigger.quest.3.description.8}"
 				""
-				"• &6Temperature&r is the measure of how hot the reactor currently is."
-				"• &6RF Generation&r Rate is how much RF is being generated per tick. (Passive Reactors)"
-				"• &6Exhaust Generation Rate&r is how much exhaust is being generated per tick. (Active Reactors)"
-				"• &6Fuel Usage Rate&r is how much fuel is being consumed per tick."
-				"• &6Reactivity&r is how reactive the reactor is."
+				"{chapter.bigger.quest.3.description.9}"
+				"{chapter.bigger.quest.3.description.10}"
+				"{chapter.bigger.quest.3.description.11}"
+				"{chapter.bigger.quest.3.description.12}"
+				"{chapter.bigger.quest.3.description.13}"
 				""
 				"{image:chroma:textures/quests/reactor_passive_gui.png width:160 height:100 align:1}"
 			]
@@ -228,13 +284,22 @@
 				type: "item"
 				item: "biggerreactors:reactor_terminal"
 			}]
+			rewards: [{
+				id: "74FC045E7AF666C6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.0d
 			y: 12.0d
 			shape: "diamond"
-			subtitle: "Items sorting"
-			description: ["&l&bAccess Ports&r are used to insert Fuel and extract Waste."]
+			subtitle: "{chapter.bigger.quest.7.subtitle.1}"
+			description: ["{chapter.bigger.quest.7.description.1}"]
 			dependencies: ["4A1099D4B901C6A3"]
 			id: "18FAEAA5B56ADDBF"
 			tasks: [{
@@ -242,13 +307,22 @@
 				type: "item"
 				item: "biggerreactors:reactor_access_port"
 			}]
+			rewards: [{
+				id: "004539CA4C1629D2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.5d
 			y: 12.5d
 			shape: "diamond"
-			subtitle: "Extracting power"
-			description: ["&l&bPower Taps&r are where you extract power from a passive reactor."]
+			subtitle: "{chapter.bigger.quest.8.subtitle.1}"
+			description: ["{chapter.bigger.quest.8.description.1}"]
 			dependencies: ["4A1099D4B901C6A3"]
 			id: "1DB31489374C9499"
 			tasks: [{
@@ -256,17 +330,26 @@
 				type: "item"
 				item: "biggerreactors:reactor_power_tap"
 			}]
+			rewards: [{
+				id: "72601DC375A01224"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Fuel storage and control"
+			title: "{chapter.bigger.quest.5.title}"
 			x: -4.0d
 			y: 11.0d
 			shape: "diamond"
-			subtitle: "Radioactivity"
+			subtitle: "{chapter.bigger.quest.5.subtitle.1}"
 			description: [
-				"&l&bReactor Fuel Rods&r are used to store Fuel and Waste. They are a required component for all reactors, regardless of type."
+				"{chapter.bigger.quest.5.description.1}"
 				""
-				"&l&bControl Rods&r are used to maintain control over the reaction."
+				"{chapter.bigger.quest.5.description.2}"
 			]
 			dependencies: ["4A1099D4B901C6A3"]
 			id: "70EAEAE556272A98"
@@ -282,23 +365,32 @@
 					item: "biggerreactors:reactor_control_rod"
 				}
 			]
+			rewards: [{
+				id: "48C12E11E8CF77BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Reactor Moderators"
+			title: "{chapter.bigger.quest.10.title}"
 			x: 0.0d
 			y: 9.5d
-			subtitle: "Cooling my reactor"
+			subtitle: "{chapter.bigger.quest.10.subtitle.1}"
 			description: [
-				"&l&bReactor Moderators&r (commonly incorrectly referred to as Reactor Coolants) are materials placed inside of a Reactor during construction. When a reactor is in operation, a moderator may change the way the reactor performs depending its properties."
+				"{chapter.bigger.quest.10.description.1}"
 				""
-				"Moderators have four main properties that affect the reactor simulation:"
+				"{chapter.bigger.quest.10.description.2}"
 				""
-				"• &aAbsorption:&r The speed at which radiation is absorbed and converted to case heat."
-				"• &aEfficiency:&r How efficiently absorbed radiation is converted into heat."
-				"• &aModeration:&r The effectiveness at which radiation is moderated (\"softened\")."
-				"• &aConductivity:&r How well heat is transferred from the fuel rods to the reactor casing."
+				"{chapter.bigger.quest.10.description.3}"
+				"{chapter.bigger.quest.10.description.4}"
+				"{chapter.bigger.quest.10.description.5}"
+				"{chapter.bigger.quest.10.description.6}"
 				""
-				"In general, higher values are always better (except for absorption, which may be better or worse depending on your reactor design)."
+				"{chapter.bigger.quest.10.description.7}"
 			]
 			dependencies: ["2CDB01D2A8614181"]
 			min_width: 300
@@ -308,15 +400,24 @@
 				type: "item"
 				item: "minecraft:diamond_block"
 			}]
+			rewards: [{
+				id: "38E4C2374EBB3438"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
 			y: 13.5d
-			subtitle: "Nuclear Waste"
+			subtitle: "{chapter.bigger.quest.11.subtitle.1}"
 			description: [
-				"&bCyanite&r is a waste resulting from the combustion of uranium in the passive reactor."
+				"{chapter.bigger.quest.11.description.1}"
 				""
-				"This component is crucial for advancing in the Bigger Reactor mod."
+				"{chapter.bigger.quest.11.description.2}"
 			]
 			dependencies: ["2CDB01D2A8614181"]
 			id: "4094AA0E6CCBD59A"
@@ -325,11 +426,21 @@
 				type: "item"
 				item: "biggerreactors:cyanite_ingot"
 			}]
+			rewards: [{
+				id: "724B1E055DD4C48A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
 			y: 14.0d
-			description: ["&bBlutonium&r is used in several crafting recipes, but can also be used in a reactor for fuel, just like Uranium."]
+			subtitle: "{chapter.bigger.quest.14.subtitle.1}"
+			description: ["{chapter.bigger.quest.14.description.1}"]
 			dependencies: ["11C57262FD4AFDD2"]
 			id: "03B75A824150B5BE"
 			tasks: [{
@@ -337,14 +448,23 @@
 				type: "item"
 				item: "biggerreactors:blutonium_ingot"
 			}]
+			rewards: [{
+				id: "3537E820457E7A2B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
 			y: 12.5d
 			description: [
-				"Now that you have &1Blutonium&r, you can craft &dLudicrite blocks&r in the Dissolution Chamber."
+				"{chapter.bigger.quest.13.description.1}"
 				""
-				"It's a great Moderators for reactors, he can be used to craft the &cHeat Exchanger Controller&r."
+				"{chapter.bigger.quest.13.description.2}"
 			]
 			dependencies: ["03B75A824150B5BE"]
 			id: "58C8A8EC97949B00"
@@ -353,13 +473,23 @@
 				type: "item"
 				item: "biggerreactors:ludicrite_block"
 			}]
+			rewards: [{
+				id: "64FB3910FEA172A0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.0d
 			y: 15.5d
 			shape: "diamond"
+			subtitle: "{chapter.bigger.quest.15.subtitle.1}"
 			description: [
-				"&bTurbine Terminals&r are the control panels of the turbine. A turbine multi-block will form without a terminal, but you can't do much without it."
+				"{chapter.bigger.quest.15.description.1}"
 				""
 				"{image:chroma:textures/quests/turbine_ui.png width:160 height:110 align:1}"
 			]
@@ -371,11 +501,21 @@
 				type: "item"
 				item: "biggerreactors:turbine_terminal"
 			}]
+			rewards: [{
+				id: "02E82F12A6D35316"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
 			y: 16.5d
 			shape: "diamond"
+			subtitle: "{chapter.bigger.quest.17.subtitle.1}"
 			dependencies: ["50BCB89A586B02A4"]
 			id: "677CF3DE40D35A99"
 			tasks: [{
@@ -383,12 +523,22 @@
 				type: "item"
 				item: "biggerreactors:turbine_glass"
 			}]
+			rewards: [{
+				id: "43A722C789316F87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.0d
 			y: 16.0d
 			shape: "diamond"
-			description: ["&l&bPower Taps&r are used to extract power."]
+			subtitle: "{chapter.bigger.quest.16.subtitle.1}"
+			description: ["{chapter.bigger.quest.16.description.1}"]
 			dependencies: ["50BCB89A586B02A4"]
 			id: "6CC5FB99D30E36A1"
 			tasks: [{
@@ -396,12 +546,22 @@
 				type: "item"
 				item: "biggerreactors:turbine_power_tap"
 			}]
+			rewards: [{
+				id: "45B0E436A490C5E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.0d
 			y: 17.0d
 			shape: "diamond"
-			description: ["&l&bComputer Ports&r allow for control of various turbine functions via Lua scripting with CC: Tweaker."]
+			subtitle: "{chapter.bigger.quest.18.subtitle.1}"
+			description: ["{chapter.bigger.quest.18.description.1}"]
 			dependencies: ["50BCB89A586B02A4"]
 			optional: true
 			id: "267DA85F91C2679A"
@@ -410,17 +570,28 @@
 				type: "item"
 				item: "biggerreactors:turbine_computer_port"
 			}]
+			rewards: [{
+				id: "45978A750B951315"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bigger.quest.19.title}"
 			x: 4.5d
 			y: 16.5d
 			shape: "diamond"
+			subtitle: "{chapter.bigger.quest.19.subtitle.1}"
 			description: [
-				"&l&bRotor Bearings&r are located at each end of the shaft of the turbine. Exactly 2 are required."
+				"{chapter.bigger.quest.19.description.1}"
 				""
-				"&l&bRotor Shafts&r form the shaft of your turbine that spans end to end and connects to the rotor bearings."
+				"{chapter.bigger.quest.19.description.2}"
 				""
-				"&l&bRotor Blades&r make the rotor spin by converting the thermal energy of the steam into rotational kinetic energy of the shaft. They are placed onto shaft components and can be multiple blocks in length."
+				"{chapter.bigger.quest.19.description.3}"
 			]
 			dependencies: ["50BCB89A586B02A4"]
 			min_width: 300
@@ -442,12 +613,22 @@
 					item: "biggerreactors:turbine_rotor_blade"
 				}
 			]
+			rewards: [{
+				id: "3FDF8F0BD4E2795D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
 			y: 16.0d
 			shape: "diamond"
-			description: ["&l&bTurbine Fluid Ports&r are used to insert steam and extract water. They provide a UI to set input or output status."]
+			subtitle: "{chapter.bigger.quest.20.subtitle.1}"
+			description: ["{chapter.bigger.quest.20.description.1}"]
 			dependencies: ["50BCB89A586B02A4"]
 			id: "68B4B234074939E1"
 			tasks: [{
@@ -455,9 +636,18 @@
 				type: "item"
 				item: "biggerreactors:turbine_fluid_port"
 			}]
+			rewards: [{
+				id: "6447B066504A1B33"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "&aMy First Turbine"
+			title: "{chapter.bigger.quest.22.title}"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1
@@ -468,23 +658,23 @@
 			x: 4.0d
 			y: 19.0d
 			shape: "rsquare"
-			subtitle: "Beyblade"
+			subtitle: "{chapter.bigger.quest.22.subtitle.1}"
 			description: [
-				"We'll construct the smallest possible turbine, the &b5x4x5&r."
-				"The quest's requirements precisely match what you need to assemble one."
+				"{chapter.bigger.quest.22.description.1}"
+				"{chapter.bigger.quest.22.description.2}"
 				""
-				"To assemble this, begin by constructing a 5x4x5 frame using Turbine Casings."
+				"{chapter.bigger.quest.22.description.3}"
 				""
-				"To operate, your turbine needs :"
+				"{chapter.bigger.quest.22.description.4}"
 				""
-				"• 1 Turbine Terminal"
-				"• 56 Turbine Casings"
-				"• 20 Turbine Glasses"
-				"• 2 Turbine Rotor Bearings"
-				"• 2 Turbine Rotor Shafts"
-				"• 4 Turbine Rotor Blades"
-				"• 2 Turbine Fluid Ports"
-				"• 1 Turbine Power Tap"
+				"{chapter.bigger.quest.22.description.5}"
+				"{chapter.bigger.quest.22.description.6}"
+				"{chapter.bigger.quest.22.description.7}"
+				"{chapter.bigger.quest.22.description.8}"
+				"{chapter.bigger.quest.22.description.9}"
+				"{chapter.bigger.quest.22.description.10}"
+				"{chapter.bigger.quest.22.description.11}"
+				"{chapter.bigger.quest.22.description.12}"
 			]
 			dependencies: ["50BCB89A586B02A4"]
 			size: 2.0d
@@ -538,21 +728,31 @@
 					item: "biggerreactors:turbine_power_tap"
 				}
 			]
+			rewards: [{
+				id: "22488F648F99F156"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bigger.quest.23.title}"
 			x: 5.5d
 			y: 21.0d
-			subtitle: "Increase Turbine Efficiency"
+			subtitle: "{chapter.bigger.quest.23.subtitle.1}"
 			description: [
-				"&l&bTurbine Coils&r are materials placed around a turbine shaft at one end of the turbine during construction."
+				"{chapter.bigger.quest.23.description.1}"
 				""
-				"The Coils have three main properties that affect turbine simulation :"
+				"{chapter.bigger.quest.23.description.2}"
 				""
-				"• &aExtraction Rate:&r Affects the RF extracted per tick per RPM."
-				"• &aEfficiency:&r Affects how much of the bonus RF is then turned into output RF."
-				"• &aBonus:&r Applies a final exponential RF bonus onto the extracted RF value ."
+				"{chapter.bigger.quest.23.description.3="
+				"{chapter.bigger.quest.23.description.4="
+				"{chapter.bigger.quest.23.description.5}"
 				""
-				"In general, higher values are better."
+				"{chapter.bigger.quest.23.description.6}"
 			]
 			dependencies: ["01A9C07E7517E60C"]
 			id: "1DBAA2A817FFC381"
@@ -609,21 +809,30 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "495B51453F6F91DA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Passive to Active Reactor"
+			title: "{chapter.bigger.quest.21.title}"
 			x: 1.5d
 			y: 19.0d
 			shape: "hexagon"
-			subtitle: "Steam production"
+			subtitle: "{chapter.bigger.quest.21.subtitle.1}"
 			description: [
-				"In its passive state, a reactor directly converts fuel into power. However, by adding a &bReactor Coolant Port&r to the reactor's wall, it transitions into an active reactor. This active form uses fuel to heat fluids, such as turning water into &dSteam&r."
+				"{chapter.bigger.quest.21.description.1}"
 				""
-				"Note that you can't have both a &cPower Tap&r and a Coolant Port on the same reactor."
+				"{chapter.bigger.quest.21.description.2}"
 				""
-				"Once installed, the reactor's interface will transform, providing more detailed information about its operations. The updated interface will display a tank for the coolant, another for the exhaust, and the &bExhaust Generation Rate&r."
+				"{chapter.bigger.quest.21.description.3}"
 				""
-				"For example, if you introduce water, this rate will indicate the steam output."
+				"{chapter.bigger.quest.21.description.4}"
 				""
 				"{image:chroma:textures/quests/reactor_active_gui.png width:160 height:100 align:1}"
 			]
@@ -636,6 +845,15 @@
 				type: "item"
 				item: "biggerreactors:reactor_coolant_port"
 				count: 2L
+			}]
+			rewards: [{
+				id: "651F8FA0D1999705"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 	]

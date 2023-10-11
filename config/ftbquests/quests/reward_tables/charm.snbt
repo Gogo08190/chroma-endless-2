@@ -1,0 +1,136 @@
+{
+	id: "7F4B07B2645E276E"
+	order_index: 0
+	title: "Charm"
+	icon: {
+		id: "apotheosis:potion_charm"
+		Count: 1
+		tag: {
+			Damage: 0
+			Potion: "minecraft:leaping"
+		}
+	}
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:long_night_vision"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:long_invisibility"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:strong_leaping"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:long_fire_resistance"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:strong_swiftness"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:long_water_breathing"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:strong_regeneration"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:strong_strength"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "minecraft:luck"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "apotheosis:strong_resistance"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "apotheosis:strong_absorption"
+				}
+			}
+		}
+		{
+			item: {
+				id: "apotheosis:potion_charm"
+				Count: 1
+				tag: {
+					Damage: 0
+					Potion: "apotheosis:strong_haste"
+				}
+			}
+		}
+	]
+}

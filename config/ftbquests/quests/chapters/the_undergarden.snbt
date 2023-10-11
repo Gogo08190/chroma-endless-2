@@ -19,6 +19,15 @@
 				type: "item"
 				item: "undergarden:catalyst"
 			}]
+			rewards: [{
+				id: "06B3A82742451D95"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -41,6 +50,15 @@
 				}
 				dimension: "undergarden:undergarden"
 			}]
+			rewards: [{
+				id: "476C61A5596E82E6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.5d
@@ -52,6 +70,15 @@
 				id: "0E39789E3C3C4DDE"
 				type: "item"
 				item: "undergarden:utheric_shard"
+			}]
+			rewards: [{
+				id: "69DD94CF1428ACFD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -71,6 +98,15 @@
 					tag: {
 						value: "forge:ores/utherium"
 					}
+				}
+			}]
+			rewards: [{
+				id: "21B3797F0A15AD7E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -93,6 +129,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "40D400D76F2F2C6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
@@ -111,6 +156,15 @@
 					tag: {
 						value: "forge:ores/froststeel"
 					}
+				}
+			}]
+			rewards: [{
+				id: "3FCD4153597DB877"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -133,6 +187,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1B9BC015559FF200"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
@@ -146,6 +209,15 @@
 				type: "item"
 				item: "undergarden:forgotten_nugget"
 			}]
+			rewards: [{
+				id: "246F115F71E4663F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
@@ -157,6 +229,15 @@
 				id: "57A014E9BD75B05F"
 				type: "item"
 				item: "undergarden:forgotten_ingot"
+			}]
+			rewards: [{
+				id: "5BCFCB9482CE2A9F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -171,6 +252,15 @@
 				type: "item"
 				item: "undergarden:regalium_crystal"
 			}]
+			rewards: [{
+				id: "63C3B7738BE43BC6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
@@ -182,6 +272,15 @@
 				type: "item"
 				item: "undergarden:froststeel_ingot"
 			}]
+			rewards: [{
+				id: "6B07A5B17AF2C7DB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.5d
@@ -192,6 +291,15 @@
 				id: "73A26738572CB70A"
 				type: "item"
 				item: "undergarden:cloggrum_ingot"
+			}]
+			rewards: [{
+				id: "3CEA67BE06E5C667"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -208,6 +316,15 @@
 				type: "item"
 				item: "undergarden:utherium_crystal"
 			}]
+			rewards: [{
+				id: "17380B48DDAE8A28"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.0d
@@ -221,6 +338,15 @@
 				type: "item"
 				item: "undergarden:depthrock_bed"
 			}]
+			rewards: [{
+				id: "294C15E1ADE5364C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.5d
@@ -232,6 +358,15 @@
 				id: "079F1467D19CF2B9"
 				type: "item"
 				item: "undergarden:depthrock_pebble"
+			}]
+			rewards: [{
+				id: "472963480F8A007C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -250,6 +385,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5A4D7908B35B87A4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
@@ -260,6 +404,15 @@
 				id: "60C6D659C9C7E4D6"
 				type: "item"
 				item: "undergarden:dweller_steak"
+			}]
+			rewards: [{
+				id: "598B806BEA175DDE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -272,6 +425,15 @@
 				type: "item"
 				item: "undergarden:gloomgourd_pie"
 			}]
+			rewards: [{
+				id: "4E78001043FE226A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -0.5d
@@ -282,6 +444,15 @@
 				id: "229E1B0FC16A4EE0"
 				type: "item"
 				item: "undergarden:blisterberry"
+			}]
+			rewards: [{
+				id: "2599BB0EB3BCC886"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -294,6 +465,15 @@
 				type: "item"
 				item: "undergarden:gloomper_leg"
 			}]
+			rewards: [{
+				id: "4D0DC1B14F6A5F9D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.5d
@@ -304,6 +484,15 @@
 				id: "44D299F6A4ABC03F"
 				type: "item"
 				item: "undergarden:cooked_gwibling"
+			}]
+			rewards: [{
+				id: "27DB012FF83B38D3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -316,6 +505,15 @@
 				type: "item"
 				item: "undergarden:indigo_stew"
 			}]
+			rewards: [{
+				id: "53C96623B7F93291"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -326,6 +524,15 @@
 				id: "2C1B91AC44F7CF5D"
 				type: "item"
 				item: "undergarden:inky_stew"
+			}]
+			rewards: [{
+				id: "675428B85A68899E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -338,6 +545,15 @@
 				type: "item"
 				item: "undergarden:veiled_stew"
 			}]
+			rewards: [{
+				id: "1AC40C468EF48FF6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -348,6 +564,15 @@
 				id: "102F01B8E6958463"
 				type: "item"
 				item: "undergarden:bloody_stew"
+			}]
+			rewards: [{
+				id: "08496B0C852D6E17"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -361,6 +586,15 @@
 				id: "7235E3268F60CEE0"
 				type: "item"
 				item: "undergarden:blisterbomb"
+			}]
+			rewards: [{
+				id: "3858E242BC037CAB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -385,6 +619,15 @@
 				}
 				entity: "undergarden:brute"
 				value: 10L
+			}]
+			rewards: [{
+				id: "3DE97685FF79EE15"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -414,6 +657,15 @@
 				entity: "undergarden:forgotten_guardian"
 				value: 10L
 			}]
+			rewards: [{
+				id: "2E199D97DC567342"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -0.5d
@@ -437,6 +689,15 @@
 				}
 				entity: "undergarden:rotling"
 				value: 10L
+			}]
+			rewards: [{
+				id: "559727F4611D6476"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -462,6 +723,15 @@
 				entity: "undergarden:rotwalker"
 				value: 10L
 			}]
+			rewards: [{
+				id: "660CCB241CCBB8B1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
@@ -485,6 +755,15 @@
 				}
 				entity: "undergarden:rotbeast"
 				value: 10L
+			}]
+			rewards: [{
+				id: "50CC2846E65C3708"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -514,6 +793,15 @@
 				entity: "undergarden:stoneborn"
 				value: 10L
 			}]
+			rewards: [{
+				id: "37E86A63B183EC5B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
@@ -541,6 +829,15 @@
 				}
 				entity: "undergarden:muncher"
 				value: 10L
+			}]
+			rewards: [{
+				id: "5E3C9488B951C9FD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -570,6 +867,15 @@
 				entity: "undergarden:nargoyle"
 				value: 10L
 			}]
+			rewards: [{
+				id: "3BB96933401DF825"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
@@ -586,6 +892,15 @@
 				advancement: "undergarden:undergarden/summon_minion"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "3F6F4CD541D6E9A6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -601,6 +916,15 @@
 				advancement: "undergarden:undergarden/all_undergarden_biomes"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "2F0ED8F452E99339"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -615,6 +939,15 @@
 				title: "{chapter.undergarden.15.title}"
 				advancement: "undergarden:undergarden/stoneborn_trade"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "33E846E16DDBC789"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 	]

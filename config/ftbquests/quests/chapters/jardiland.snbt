@@ -8,8 +8,8 @@
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [{
-		x: -26.0d
-		y: -29.0d
+		x: -16.5d
+		y: 6.0d
 		width: 32.5d
 		height: 10.0d
 		rotation: 0.0d
@@ -30,6 +30,15 @@
 				type: "item"
 				item: "minecraft:pumpkin_pie"
 			}]
+			rewards: [{
+				id: "0A4A0301D6EB8458"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -40,6 +49,15 @@
 				id: "64242B9CF2F7C68C"
 				type: "item"
 				item: "minecraft:golden_carrot"
+			}]
+			rewards: [{
+				id: "41FF7C8EC4F2FBA9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -52,6 +70,15 @@
 				type: "item"
 				item: "minecraft:rabbit"
 			}]
+			rewards: [{
+				id: "4CC8B41B9C7A1E63"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -62,6 +89,15 @@
 				id: "1E2D4F81AB2A90CB"
 				type: "item"
 				item: "minecraft:cooked_rabbit"
+			}]
+			rewards: [{
+				id: "58D16C79A54986B5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -74,6 +110,15 @@
 				type: "item"
 				item: "minecraft:rabbit_stew"
 			}]
+			rewards: [{
+				id: "50C57474B22EEF05"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -84,6 +129,15 @@
 				id: "593845187B54C885"
 				type: "item"
 				item: "minecraft:mutton"
+			}]
+			rewards: [{
+				id: "598FAD5C88B893FB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -96,6 +150,15 @@
 				type: "item"
 				item: "minecraft:cooked_mutton"
 			}]
+			rewards: [{
+				id: "530879F1E211928D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -106,6 +169,15 @@
 				id: "564BAE778B2D6522"
 				type: "item"
 				item: "minecraft:chorus_fruit"
+			}]
+			rewards: [{
+				id: "7BA0D490CFFC9309"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -118,6 +190,15 @@
 				type: "item"
 				item: "minecraft:beetroot"
 			}]
+			rewards: [{
+				id: "211BF19537036FB7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -128,6 +209,15 @@
 				id: "287D5B2A8F0AC306"
 				type: "item"
 				item: "minecraft:pumpkin"
+			}]
+			rewards: [{
+				id: "1434545FE12780BE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -140,6 +230,15 @@
 				type: "item"
 				item: "minecraft:melon"
 			}]
+			rewards: [{
+				id: "0208C4A71FDB009F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -150,6 +249,15 @@
 				id: "6C5E00008FBC8931"
 				type: "item"
 				item: "minecraft:apple"
+			}]
+			rewards: [{
+				id: "14EEB4A32F15097A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -162,6 +270,15 @@
 				type: "item"
 				item: "minecraft:mushroom_stew"
 			}]
+			rewards: [{
+				id: "499F7A6FF47C1983"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -172,6 +289,15 @@
 				id: "56C0F21D8BA154B1"
 				type: "item"
 				item: "minecraft:bread"
+			}]
+			rewards: [{
+				id: "4FAB88C3621B0623"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -184,6 +310,15 @@
 				type: "item"
 				item: "minecraft:porkchop"
 			}]
+			rewards: [{
+				id: "4376C599196205A5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -194,6 +329,15 @@
 				id: "77CA45F9F6F7496C"
 				type: "item"
 				item: "minecraft:cooked_porkchop"
+			}]
+			rewards: [{
+				id: "77995C356F526F90"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -206,6 +350,15 @@
 				type: "item"
 				item: "minecraft:golden_apple"
 			}]
+			rewards: [{
+				id: "63DD187C36E8700D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -216,6 +369,15 @@
 				id: "5E13DAF2349CC65A"
 				type: "item"
 				item: "minecraft:enchanted_golden_apple"
+			}]
+			rewards: [{
+				id: "42F5E6A083F05B4F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -228,6 +390,15 @@
 				type: "item"
 				item: "minecraft:milk_bucket"
 			}]
+			rewards: [{
+				id: "396CFAF293B04671"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -238,6 +409,15 @@
 				id: "7D5E53C3E4AD340B"
 				type: "item"
 				item: "minecraft:cod"
+			}]
+			rewards: [{
+				id: "3763F0B8F13FFF52"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -250,6 +430,15 @@
 				type: "item"
 				item: "minecraft:salmon"
 			}]
+			rewards: [{
+				id: "60813710B5D44688"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -260,6 +449,15 @@
 				id: "40389F16C379231E"
 				type: "item"
 				item: "minecraft:tropical_fish"
+			}]
+			rewards: [{
+				id: "6F839B73A921AFA4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -272,6 +470,15 @@
 				type: "item"
 				item: "minecraft:pufferfish"
 			}]
+			rewards: [{
+				id: "34B38A0FB04F8450"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -282,6 +489,15 @@
 				id: "691FF00E950C4535"
 				type: "item"
 				item: "minecraft:cooked_cod"
+			}]
+			rewards: [{
+				id: "4A3064FDA0AB5F7D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -294,6 +510,15 @@
 				type: "item"
 				item: "minecraft:cooked_salmon"
 			}]
+			rewards: [{
+				id: "442DC241F47462D7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -304,6 +529,15 @@
 				id: "6424F9C14E1088A6"
 				type: "item"
 				item: "minecraft:cake"
+			}]
+			rewards: [{
+				id: "57B7F0BDD02D9C9A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -316,6 +550,15 @@
 				type: "item"
 				item: "minecraft:cookie"
 			}]
+			rewards: [{
+				id: "35F63DBD140FD786"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -326,6 +569,15 @@
 				id: "4AEFD8B04A3BC756"
 				type: "item"
 				item: "minecraft:melon_slice"
+			}]
+			rewards: [{
+				id: "6F38885F7D8787C0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -338,6 +590,15 @@
 				type: "item"
 				item: "minecraft:dried_kelp"
 			}]
+			rewards: [{
+				id: "33A173C29DB69B8A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -348,6 +609,15 @@
 				id: "11A3D9A62BC75F55"
 				type: "item"
 				item: "minecraft:beef"
+			}]
+			rewards: [{
+				id: "2462FC28D103F0B5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -360,6 +630,15 @@
 				type: "item"
 				item: "minecraft:cooked_beef"
 			}]
+			rewards: [{
+				id: "05BD30E66F366630"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -370,6 +649,15 @@
 				id: "28E81CF3FCC8C1E4"
 				type: "item"
 				item: "minecraft:chicken"
+			}]
+			rewards: [{
+				id: "13B8939E18684875"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -382,6 +670,15 @@
 				type: "item"
 				item: "minecraft:cooked_chicken"
 			}]
+			rewards: [{
+				id: "27A95AD99B9377BF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -392,6 +689,15 @@
 				id: "20C27399C9A41DEE"
 				type: "item"
 				item: "minecraft:carrot"
+			}]
+			rewards: [{
+				id: "118FBB25437F6AEE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -404,6 +710,15 @@
 				type: "item"
 				item: "minecraft:potato"
 			}]
+			rewards: [{
+				id: "41C1C42781B577A4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -414,6 +729,15 @@
 				id: "387C5A2CC1FCF3F6"
 				type: "item"
 				item: "minecraft:baked_potato"
+			}]
+			rewards: [{
+				id: "68AE569493253A5B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -426,6 +750,15 @@
 				type: "item"
 				item: "minecraft:beetroot_soup"
 			}]
+			rewards: [{
+				id: "1427011B843A3198"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.5d
@@ -436,6 +769,15 @@
 				id: "70CDD0700082DF3F"
 				type: "item"
 				item: "minecraft:sweet_berries"
+			}]
+			rewards: [{
+				id: "2D71B4DA616B151F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -448,6 +790,15 @@
 				type: "item"
 				item: "minecraft:glow_berries"
 			}]
+			rewards: [{
+				id: "5D49CEAC72DA29B1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.5d
@@ -458,6 +809,15 @@
 				id: "0F7DC173C5DD3A62"
 				type: "item"
 				item: "minecraft:honey_bottle"
+			}]
+			rewards: [{
+				id: "7CFFE2204E675B90"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -470,6 +830,15 @@
 				type: "item"
 				item: "aquaculture:atlantic_cod"
 			}]
+			rewards: [{
+				id: "4B7FFC32CD0E1A13"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -480,6 +849,15 @@
 				id: "072F9D8CCA6615FC"
 				type: "item"
 				item: "aquaculture:sushi"
+			}]
+			rewards: [{
+				id: "5CAEB26F7E6EBE5A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -492,6 +870,15 @@
 				type: "item"
 				item: "aquaculture:turtle_soup"
 			}]
+			rewards: [{
+				id: "6FFE0A44A8A069E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -502,6 +889,15 @@
 				id: "5C85D01E03F4A928"
 				type: "item"
 				item: "aquaculture:frog_legs_cooked"
+			}]
+			rewards: [{
+				id: "6A01572A366EFDA4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -514,6 +910,15 @@
 				type: "item"
 				item: "aquaculture:frog_legs_raw"
 			}]
+			rewards: [{
+				id: "60D2F3B9C74609AF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -524,6 +929,15 @@
 				id: "3419361EC24DFB3E"
 				type: "item"
 				item: "aquaculture:fish_fillet_cooked"
+			}]
+			rewards: [{
+				id: "45901E4C86437107"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -536,6 +950,15 @@
 				type: "item"
 				item: "aquaculture:fish_fillet_raw"
 			}]
+			rewards: [{
+				id: "6000CCB38B068E1F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -546,6 +969,15 @@
 				id: "388255BFAC4C3F1F"
 				type: "item"
 				item: "aquaculture:algae"
+			}]
+			rewards: [{
+				id: "2238D37D86865F30"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -558,6 +990,15 @@
 				type: "item"
 				item: "aquaculture:tuna"
 			}]
+			rewards: [{
+				id: "2633F0C6D2443441"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -568,6 +1009,15 @@
 				id: "49BFE29CE184CF6E"
 				type: "item"
 				item: "aquaculture:red_grouper"
+			}]
+			rewards: [{
+				id: "25993DC7BFFDF457"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -580,6 +1030,15 @@
 				type: "item"
 				item: "aquaculture:red_shrooma"
 			}]
+			rewards: [{
+				id: "5095D9DE9D6318E7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -590,6 +1049,15 @@
 				id: "23B14FF7D635E637"
 				type: "item"
 				item: "aquaculture:brown_shrooma"
+			}]
+			rewards: [{
+				id: "0394319F6F435F6D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -602,6 +1070,15 @@
 				type: "item"
 				item: "aquaculture:tambaqui"
 			}]
+			rewards: [{
+				id: "16CC949F2D08D76D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -612,6 +1089,15 @@
 				id: "4E06DCCB9F0EB4E3"
 				type: "item"
 				item: "aquaculture:piranha"
+			}]
+			rewards: [{
+				id: "075E23B181968397"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -624,6 +1110,15 @@
 				type: "item"
 				item: "aquaculture:perch"
 			}]
+			rewards: [{
+				id: "74C7299D7C09BC66"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -635,6 +1130,15 @@
 				type: "item"
 				item: "aquaculture:arapaima"
 			}]
+			rewards: [{
+				id: "53B19ADACC5F8456"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -645,6 +1149,15 @@
 				id: "425FBAF730B273F8"
 				type: "item"
 				item: "aquaculture:muskellunge"
+			}]
+			rewards: [{
+				id: "26CAE9F78B7F094B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -663,6 +1176,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "4F711BAB49AD6A4C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -673,6 +1195,15 @@
 				id: "128B963584D3EE63"
 				type: "item"
 				item: "aquaculture:gar"
+			}]
+			rewards: [{
+				id: "7A1917611318B251"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -685,6 +1216,15 @@
 				type: "item"
 				item: "aquaculture:catfish"
 			}]
+			rewards: [{
+				id: "704A95B4AEF01434"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -695,6 +1235,15 @@
 				id: "6039EF46A17AC1BA"
 				type: "item"
 				item: "aquaculture:carp"
+			}]
+			rewards: [{
+				id: "6761FE81AB58392A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -707,6 +1256,15 @@
 				type: "item"
 				item: "aquaculture:brown_trout"
 			}]
+			rewards: [{
+				id: "7738703FD5850485"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -717,6 +1275,15 @@
 				id: "2D8F25EB6D000EF4"
 				type: "item"
 				item: "aquaculture:bluegill"
+			}]
+			rewards: [{
+				id: "0AD681B9AEA07558"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -729,6 +1296,15 @@
 				type: "item"
 				item: "aquaculture:smallmouth_bass"
 			}]
+			rewards: [{
+				id: "4D17AD6101723FEF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -739,6 +1315,15 @@
 				id: "04FA609142EEBDEF"
 				type: "item"
 				item: "aquaculture:synodontis"
+			}]
+			rewards: [{
+				id: "549B3BFCC4860282"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -751,6 +1336,15 @@
 				type: "item"
 				item: "aquaculture:capitaine"
 			}]
+			rewards: [{
+				id: "667ACFFAAB5DF383"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -761,6 +1355,15 @@
 				id: "568915B228780B9D"
 				type: "item"
 				item: "aquaculture:boulti"
+			}]
+			rewards: [{
+				id: "6F40C9994F93287B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -773,6 +1376,15 @@
 				type: "item"
 				item: "aquaculture:bayad"
 			}]
+			rewards: [{
+				id: "5DCBEF32270CB62F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.5d
@@ -783,6 +1395,15 @@
 				id: "5A45F4E2010C0F59"
 				type: "item"
 				item: "aquaculture:rainbow_trout"
+			}]
+			rewards: [{
+				id: "1A36E5B8B804D890"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -795,6 +1416,15 @@
 				type: "item"
 				item: "aquaculture:pollock"
 			}]
+			rewards: [{
+				id: "1BF115A7175BB0E0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.5d
@@ -805,6 +1435,15 @@
 				id: "7755E724087E803F"
 				type: "item"
 				item: "aquaculture:pink_salmon"
+			}]
+			rewards: [{
+				id: "0423B8200D029159"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -817,6 +1456,15 @@
 				type: "item"
 				item: "aquaculture:atlantic_herring"
 			}]
+			rewards: [{
+				id: "31DBBE549A8641A9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.5d
@@ -827,6 +1475,15 @@
 				id: "78182941EC0F5920"
 				type: "item"
 				item: "aquaculture:atlantic_halibut"
+			}]
+			rewards: [{
+				id: "066BA195EEEC9CD2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -839,6 +1496,15 @@
 				type: "item"
 				item: "aquaculture:pacific_halibut"
 			}]
+			rewards: [{
+				id: "215F8AD662120F3D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.5d
@@ -849,6 +1515,15 @@
 				id: "135444D60DD8FCE2"
 				type: "item"
 				item: "aquaculture:blackfish"
+			}]
+			rewards: [{
+				id: "23A8DED1AB2EE244"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -861,6 +1536,15 @@
 				type: "item"
 				item: "beyond_earth:cheese"
 			}]
+			rewards: [{
+				id: "1244549D7F1F36DF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -35.5d
@@ -871,6 +1555,15 @@
 				id: "6E155CEDFCEF1BB7"
 				type: "item"
 				item: "thermal:xp_stew"
+			}]
+			rewards: [{
+				id: "5725F6627B5F0775"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -883,6 +1576,15 @@
 				type: "item"
 				item: "thermal:hearty_stew"
 			}]
+			rewards: [{
+				id: "5690AAA2A337B211"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -33.5d
@@ -893,6 +1595,15 @@
 				id: "521C6328FB0AFB4E"
 				type: "item"
 				item: "thermal:spring_salad"
+			}]
+			rewards: [{
+				id: "1D027A9F57CB5D85"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -905,6 +1616,15 @@
 				type: "item"
 				item: "thermal:sushi_maki"
 			}]
+			rewards: [{
+				id: "7EB2BD0133A8E46F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -31.5d
@@ -915,6 +1635,15 @@
 				id: "5895A0739D507FA2"
 				type: "item"
 				item: "thermal:stuffed_pepper"
+			}]
+			rewards: [{
+				id: "56B7AFFB400E5C2B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -927,6 +1656,15 @@
 				type: "item"
 				item: "thermal:pbj_sandwich"
 			}]
+			rewards: [{
+				id: "46498434B75EF6C2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -29.5d
@@ -937,6 +1675,15 @@
 				id: "5D285436FE6E21D5"
 				type: "item"
 				item: "thermal:green_bean_pie"
+			}]
+			rewards: [{
+				id: "21CF95BC72DB9F8D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -949,6 +1696,15 @@
 				type: "item"
 				item: "thermal:cheese_wedge"
 			}]
+			rewards: [{
+				id: "51640A48304EFFD9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -27.5d
@@ -959,6 +1715,15 @@
 				id: "177F52333FDDA8DA"
 				type: "item"
 				item: "thermal:cooked_eggplant"
+			}]
+			rewards: [{
+				id: "5E101DD72E1B0B1A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -971,6 +1736,15 @@
 				type: "item"
 				item: "thermal:potion_cake"
 			}]
+			rewards: [{
+				id: "5162C4DEBA7BAA04"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -34.5d
@@ -981,6 +1755,15 @@
 				id: "262AE862C4DED882"
 				type: "item"
 				item: "thermal:chocolate_cake"
+			}]
+			rewards: [{
+				id: "4D658637C14FB1CE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -993,6 +1776,15 @@
 				type: "item"
 				item: "thermal:carrot_cake"
 			}]
+			rewards: [{
+				id: "6F6B3BBABFCABCBF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.5d
@@ -1003,6 +1795,15 @@
 				id: "4788CC4C88992C4F"
 				type: "item"
 				item: "thermal:stuffed_pumpkin"
+			}]
+			rewards: [{
+				id: "10E71BA1C5A48EBD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1015,6 +1816,15 @@
 				type: "item"
 				item: "thermal:cheese_wheel"
 			}]
+			rewards: [{
+				id: "5207FE50F1A6144A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -30.5d
@@ -1025,6 +1835,15 @@
 				id: "6938DDC250D849E6"
 				type: "item"
 				item: "thermal:green_bean"
+			}]
+			rewards: [{
+				id: "424ED58A78A2BA0B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1037,6 +1856,15 @@
 				type: "item"
 				item: "thermal:eggplant"
 			}]
+			rewards: [{
+				id: "21FE1B67EFCE1541"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -28.5d
@@ -1047,6 +1875,15 @@
 				id: "63ECC70CFD1C21E8"
 				type: "item"
 				item: "thermal:bell_pepper"
+			}]
+			rewards: [{
+				id: "1AE50ECE7DD30C87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1059,6 +1896,15 @@
 				type: "item"
 				item: "thermal:spinach"
 			}]
+			rewards: [{
+				id: "3B95ABAA8865FA28"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -35.5d
@@ -1069,6 +1915,15 @@
 				id: "127314ECA73FA12D"
 				type: "item"
 				item: "thermal:sadiroot"
+			}]
+			rewards: [{
+				id: "463D44BE39D81FBB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1081,6 +1936,15 @@
 				type: "item"
 				item: "thermal:radish"
 			}]
+			rewards: [{
+				id: "5A947A1D8C64853D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -33.5d
@@ -1091,6 +1955,15 @@
 				id: "205FA31B8FE35C84"
 				type: "item"
 				item: "thermal:onion"
+			}]
+			rewards: [{
+				id: "70D0DDEC80CC69DD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1103,6 +1976,15 @@
 				type: "item"
 				item: "thermal:corn"
 			}]
+			rewards: [{
+				id: "0FCEC448CB0B980E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -31.5d
@@ -1113,6 +1995,15 @@
 				id: "2B39097193946550"
 				type: "item"
 				item: "thermal:spice_cake"
+			}]
+			rewards: [{
+				id: "2746403AB19CD590"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1125,6 +2016,15 @@
 				type: "item"
 				item: "thermal:cooked_corn"
 			}]
+			rewards: [{
+				id: "2D411E3A7D847C5B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -29.5d
@@ -1135,6 +2035,15 @@
 				id: "758F46067CE4419A"
 				type: "item"
 				item: "thermal:cooked_mushroom"
+			}]
+			rewards: [{
+				id: "63913CF8AF9422E1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1147,6 +2056,15 @@
 				type: "item"
 				item: "thermal:frost_melon_slice"
 			}]
+			rewards: [{
+				id: "01E4530483B12712"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -27.5d
@@ -1157,6 +2075,15 @@
 				id: "3DAE8BECFBD9928B"
 				type: "item"
 				item: "thermal:tea"
+			}]
+			rewards: [{
+				id: "365746BC959743DC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1169,6 +2096,15 @@
 				type: "item"
 				item: "thermal:hops"
 			}]
+			rewards: [{
+				id: "28B1A697DB687B5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.5d
@@ -1179,6 +2115,15 @@
 				id: "636412A80054F7EA"
 				type: "item"
 				item: "thermal:coffee"
+			}]
+			rewards: [{
+				id: "489A5A7BEAAD7D14"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1191,6 +2136,15 @@
 				type: "item"
 				item: "thermal:tomato"
 			}]
+			rewards: [{
+				id: "6D0E63A4A78F95AC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -30.5d
@@ -1201,6 +2155,15 @@
 				id: "3E2FD4CD7EC6FD90"
 				type: "item"
 				item: "thermal:strawberry"
+			}]
+			rewards: [{
+				id: "1599F9F8198AA7AE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1213,6 +2176,15 @@
 				type: "item"
 				item: "thermal:peanut"
 			}]
+			rewards: [{
+				id: "49DF7EFA760066FC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -35.5d
@@ -1223,6 +2195,15 @@
 				id: "3EC23221381EA3C8"
 				type: "item"
 				item: "undergarden:bloody_stew"
+			}]
+			rewards: [{
+				id: "3F12AA9026096AA8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1235,6 +2216,15 @@
 				type: "item"
 				item: "undergarden:glitterkelp"
 			}]
+			rewards: [{
+				id: "0865BF57B03E4008"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -33.5d
@@ -1245,6 +2235,15 @@
 				id: "31D5EA56A689C57E"
 				type: "item"
 				item: "undergarden:raw_gloomper_leg"
+			}]
+			rewards: [{
+				id: "77A5ED89CB1FE2B0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1257,6 +2256,15 @@
 				type: "item"
 				item: "undergarden:gloomper_leg"
 			}]
+			rewards: [{
+				id: "3EA46749D82B0CEE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -31.5d
@@ -1267,6 +2275,15 @@
 				id: "34AB38B7FC99316D"
 				type: "item"
 				item: "undergarden:cooked_gwibling"
+			}]
+			rewards: [{
+				id: "0CB970A24867BFEE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1279,6 +2296,15 @@
 				type: "item"
 				item: "undergarden:raw_gwibling"
 			}]
+			rewards: [{
+				id: "2112B9D8051D5E0A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -29.5d
@@ -1289,6 +2315,15 @@
 				id: "61F1E7A3BCADCF39"
 				type: "item"
 				item: "undergarden:dweller_steak"
+			}]
+			rewards: [{
+				id: "3581F737BEA27C58"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1301,6 +2336,15 @@
 				type: "item"
 				item: "undergarden:raw_dweller_meat"
 			}]
+			rewards: [{
+				id: "2B8BBA1B873CC9FB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -27.5d
@@ -1311,6 +2355,15 @@
 				id: "7A25A58BE953EE2C"
 				type: "item"
 				item: "undergarden:gloomgourd_pie"
+			}]
+			rewards: [{
+				id: "3FAC0927D464A3D9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1323,6 +2376,15 @@
 				type: "item"
 				item: "undergarden:rotten_blisterberry"
 			}]
+			rewards: [{
+				id: "1F40CB3811D700E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.5d
@@ -1333,6 +2395,15 @@
 				id: "3266CEFF5E126B04"
 				type: "item"
 				item: "undergarden:blisterberry"
+			}]
+			rewards: [{
+				id: "7C4A50F065209760"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1345,6 +2416,15 @@
 				type: "item"
 				item: "undergarden:roasted_underbeans"
 			}]
+			rewards: [{
+				id: "42B6245BBEA710BE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -30.5d
@@ -1355,6 +2435,15 @@
 				id: "4B6BDB1CA9B8EAB9"
 				type: "item"
 				item: "undergarden:underbeans"
+			}]
+			rewards: [{
+				id: "0D1913248F51AB2F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1367,6 +2456,15 @@
 				type: "item"
 				item: "undergarden:droopvine_item"
 			}]
+			rewards: [{
+				id: "565570DB9AB3C3DA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.5d
@@ -1377,6 +2475,15 @@
 				id: "5BB3E3E95B2A671E"
 				type: "item"
 				item: "artifacts:everlasting_beef"
+			}]
+			rewards: [{
+				id: "7D57ED5D830C874B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1389,6 +2496,15 @@
 				type: "item"
 				item: "artifacts:eternal_steak"
 			}]
+			rewards: [{
+				id: "1D48E2DFBDEC67A9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -1399,6 +2515,15 @@
 				id: "6D29756932C6201F"
 				type: "item"
 				item: "sushigocrafting:chicken_temaki"
+			}]
+			rewards: [{
+				id: "425F5D4B4D04F60F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1411,6 +2536,15 @@
 				type: "item"
 				item: "sushigocrafting:shrimp_temaki"
 			}]
+			rewards: [{
+				id: "6143E6E1C569002E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -1421,6 +2555,15 @@
 				id: "270D0AF0A0BA41E0"
 				type: "item"
 				item: "sushigocrafting:tuna_temaki"
+			}]
+			rewards: [{
+				id: "42E52E7FC64BE78D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1433,6 +2576,15 @@
 				type: "item"
 				item: "sushigocrafting:salmon_temaki"
 			}]
+			rewards: [{
+				id: "23C09DBA6C010EE9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -1443,6 +2595,15 @@
 				id: "2767A800D926E041"
 				type: "item"
 				item: "sushigocrafting:onigiri"
+			}]
+			rewards: [{
+				id: "47ECAE241C1ED154"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1455,6 +2616,15 @@
 				type: "item"
 				item: "sushigocrafting:shrimp_nigiri"
 			}]
+			rewards: [{
+				id: "61CD2FE57760D42A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -1465,6 +2635,15 @@
 				id: "3303DDDE4A72D9D2"
 				type: "item"
 				item: "sushigocrafting:tuna_nigiri"
+			}]
+			rewards: [{
+				id: "4489F2810FF79156"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1477,6 +2656,15 @@
 				type: "item"
 				item: "sushigocrafting:salmon_nigiri"
 			}]
+			rewards: [{
+				id: "682977BCD57AD4D9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -1487,6 +2675,15 @@
 				id: "09A6FB51553CE3F6"
 				type: "item"
 				item: "sushigocrafting:crab_cheese_california"
+			}]
+			rewards: [{
+				id: "5F6226B18884F2A0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1499,6 +2696,15 @@
 				type: "item"
 				item: "sushigocrafting:tuna_gunkan"
 			}]
+			rewards: [{
+				id: "7B093038A04E7A82"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -1509,6 +2715,15 @@
 				id: "4F8C0380CCA9A831"
 				type: "item"
 				item: "sushigocrafting:salmon_gunkan"
+			}]
+			rewards: [{
+				id: "2A34047BE1CCD401"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1521,6 +2736,15 @@
 				type: "item"
 				item: "sushigocrafting:crab_maki"
 			}]
+			rewards: [{
+				id: "1F6B3D73E2103FFC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -1531,6 +2755,15 @@
 				id: "3A235FF06CF379B1"
 				type: "item"
 				item: "sushigocrafting:cucumber_maki"
+			}]
+			rewards: [{
+				id: "41BE3C79A68052B6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1543,6 +2776,15 @@
 				type: "item"
 				item: "sushigocrafting:avocado_maki"
 			}]
+			rewards: [{
+				id: "6763838B9CCFCDC7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -1553,6 +2795,15 @@
 				id: "7F86B3A30C55DD0C"
 				type: "item"
 				item: "sushigocrafting:tuna_maki"
+			}]
+			rewards: [{
+				id: "6946A535D88BAA9B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1565,6 +2816,15 @@
 				type: "item"
 				item: "sushigocrafting:salmon_maki"
 			}]
+			rewards: [{
+				id: "586B22EF9CEA76FD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -1575,6 +2835,15 @@
 				id: "67AF5E322C1B089E"
 				type: "item"
 				item: "sushigocrafting:nori_sheets"
+			}]
+			rewards: [{
+				id: "5A8D31DC1BC0A009"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1587,6 +2856,15 @@
 				type: "item"
 				item: "sushigocrafting:avocado"
 			}]
+			rewards: [{
+				id: "06C67821BE168B9D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -1597,6 +2875,15 @@
 				id: "6526035043FC4210"
 				type: "item"
 				item: "sushigocrafting:salmon_cucumber_california"
+			}]
+			rewards: [{
+				id: "4A73322B367B0F3D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1609,6 +2896,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_salmon_cucumber_california"
 			}]
+			rewards: [{
+				id: "2A696F66E3962DBA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -1619,6 +2915,15 @@
 				id: "52F41B13E18B5D8E"
 				type: "item"
 				item: "sushigocrafting:tuna_cheese_california"
+			}]
+			rewards: [{
+				id: "63881A701A023330"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1631,6 +2936,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_tuna_cheese_california"
 			}]
+			rewards: [{
+				id: "2D4E87BBF74996C8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -1641,6 +2955,15 @@
 				id: "1877A22D9157EDD1"
 				type: "item"
 				item: "sushigocrafting:tuna_california"
+			}]
+			rewards: [{
+				id: "56F20253C6C0B386"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1653,6 +2976,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_tuna_california"
 			}]
+			rewards: [{
+				id: "3609D7F14D322849"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -1663,6 +2995,15 @@
 				id: "69E7B9B0FB7D91D5"
 				type: "item"
 				item: "sushigocrafting:tuna_cucumber_california"
+			}]
+			rewards: [{
+				id: "739913C2743482E8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1675,6 +3016,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_tuna_cucumber_california"
 			}]
+			rewards: [{
+				id: "546D6F85A7BED0E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -1685,6 +3035,15 @@
 				id: "2B53ECBA91225EA4"
 				type: "item"
 				item: "sushigocrafting:wakame_gunkan"
+			}]
+			rewards: [{
+				id: "30356ADC2B39C075"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1697,6 +3056,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_crab_cheese_california"
 			}]
+			rewards: [{
+				id: "0B2617809625BD3C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -1707,6 +3075,15 @@
 				id: "7C0834E68BE5AC27"
 				type: "item"
 				item: "sushigocrafting:crab_california"
+			}]
+			rewards: [{
+				id: "2C87DAF6E3ADD813"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1719,6 +3096,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_crab_california"
 			}]
+			rewards: [{
+				id: "5EF2B279F5983651"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -1729,6 +3115,15 @@
 				id: "05A19E8759D0B78E"
 				type: "item"
 				item: "sushigocrafting:crab_cucumber_california"
+			}]
+			rewards: [{
+				id: "23FD2D98D9150FB2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1741,6 +3136,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_crab_cucumber_california"
 			}]
+			rewards: [{
+				id: "6C2954B5E9B7C617"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -1751,6 +3155,15 @@
 				id: "55FAE66CCA4DF5E0"
 				type: "item"
 				item: "sushigocrafting:salmon_cheese_california"
+			}]
+			rewards: [{
+				id: "1C189F4CA06AE060"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1763,6 +3176,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_salmon_cheese_california"
 			}]
+			rewards: [{
+				id: "6A643A2E8936AA3D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -1773,6 +3195,15 @@
 				id: "0D259DFF47C01337"
 				type: "item"
 				item: "sushigocrafting:salmon_california"
+			}]
+			rewards: [{
+				id: "31FAA1740745A43B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1785,6 +3216,15 @@
 				type: "item"
 				item: "sushigocrafting:tobiko_salmon_california"
 			}]
+			rewards: [{
+				id: "38BAEB173C8F07AA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -1795,6 +3235,15 @@
 				id: "3F07BDC4B02BCB9E"
 				type: "item"
 				item: "sushigocrafting:rice"
+			}]
+			rewards: [{
+				id: "58AC57A7A2472CB5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1807,6 +3256,15 @@
 				type: "item"
 				item: "sushigocrafting:cucumber"
 			}]
+			rewards: [{
+				id: "0399D003CD59A282"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -1817,6 +3275,15 @@
 				id: "43B77105B52C6293"
 				type: "item"
 				item: "sushigocrafting:soy_bean"
+			}]
+			rewards: [{
+				id: "7F50FB43F09A9EE4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1829,6 +3296,15 @@
 				type: "item"
 				item: "sushigocrafting:wasabi_root"
 			}]
+			rewards: [{
+				id: "169B4EFC86147238"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -1840,6 +3316,15 @@
 				type: "item"
 				item: "sushigocrafting:seaweed"
 			}]
+			rewards: [{
+				id: "0308C3A017CFB3E4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -1850,6 +3335,15 @@
 				id: "6131841C163953EE"
 				type: "item"
 				item: "sushigocrafting:raw_tuna"
+			}]
+			rewards: [{
+				id: "6811D3C789E1A637"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1866,6 +3360,15 @@
 					tag: {
 						Amount: 1000
 					}
+				}
+			}]
+			rewards: [{
+				id: "51A3A80A0CE37C2C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -1885,6 +3388,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "6C0B8910C6EA0BE4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -1900,6 +3412,15 @@
 					tag: {
 						Amount: 250
 					}
+				}
+			}]
+			rewards: [{
+				id: "11A5C76D75EC9C8D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -1919,6 +3440,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5DBF28FB4B0863B7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -1934,6 +3464,15 @@
 					tag: {
 						Amount: 25
 					}
+				}
+			}]
+			rewards: [{
+				id: "6E7FE7DA38326F2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -1953,6 +3492,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "0E61DF9E7025E1F5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -1968,6 +3516,15 @@
 					tag: {
 						Amount: 125
 					}
+				}
+			}]
+			rewards: [{
+				id: "2748E46D5F9F0645"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -1987,6 +3544,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "64661A63FAC07D62"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -2002,6 +3568,15 @@
 					tag: {
 						Amount: 50
 					}
+				}
+			}]
+			rewards: [{
+				id: "7F59368AE7B4F321"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -2021,6 +3596,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "4FCD6AF3CF9E2573"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -2036,6 +3620,15 @@
 					tag: {
 						Amount: 100
 					}
+				}
+			}]
+			rewards: [{
+				id: "2D222EBF6CDA2BD3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -2055,6 +3648,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "2DEA72F73CB9C38D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -2065,6 +3667,15 @@
 				id: "549A4C274EDD5A84"
 				type: "item"
 				item: "sushigocrafting:cleaver_knife"
+			}]
+			rewards: [{
+				id: "4545382B730F88E8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2077,6 +3688,15 @@
 				type: "item"
 				item: "sushigocrafting:fermentation_barrel"
 			}]
+			rewards: [{
+				id: "3CFD8CF57D8050C9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -2087,6 +3707,15 @@
 				id: "5FCEC312CDF1C495"
 				type: "item"
 				item: "sushigocrafting:cooler_box"
+			}]
+			rewards: [{
+				id: "1DF2D6423F50249F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2099,6 +3728,15 @@
 				type: "item"
 				item: "sushigocrafting:cutting_board"
 			}]
+			rewards: [{
+				id: "017C06F516081E74"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -2109,6 +3747,15 @@
 				id: "08D2CEA53FAC6F03"
 				type: "item"
 				item: "sushigocrafting:seaweed_on_a_stick"
+			}]
+			rewards: [{
+				id: "4C8DE6F9FE7ADD47"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2121,6 +3768,15 @@
 				type: "item"
 				item: "sushigocrafting:rice_cooker"
 			}]
+			rewards: [{
+				id: "23AA7AE814D17D8B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -2131,6 +3787,15 @@
 				id: "63B24061EA610294"
 				type: "item"
 				item: "sushigocrafting:roller"
+			}]
+			rewards: [{
+				id: "410F24F899083136"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2143,6 +3808,15 @@
 				type: "item"
 				item: "supplementaries:pancake"
 			}]
+			rewards: [{
+				id: "7C90D923B6CE9498"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.5d
@@ -2154,6 +3828,15 @@
 				type: "item"
 				item: "supplementaries:candy"
 			}]
+			rewards: [{
+				id: "2883B54E633AF444"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -14.5d
@@ -2161,7 +3844,7 @@
 			dependencies: ["33FB66638B36E39C"]
 			id: "320CF8668FD1047B"
 			tasks: [{
-				id: "583BDCBDAD56822F"
+				id: "534AB7B2B0FC307C"
 				type: "item"
 				item: {
 					id: "some_assembly_required:sandwich"
@@ -2170,24 +3853,33 @@
 						BlockEntityTag: {
 							Sandwich: [
 								{
-									Count: 1
 									id: "some_assembly_required:bread_slice"
+									Count: 1
 								}
 								{
-									Count: 1
 									id: "minecraft:cooked_beef"
+									Count: 1
 								}
 								{
-									Count: 1
 									id: "some_assembly_required:tomato_slices"
+									Count: 1
 								}
 								{
-									Count: 1
 									id: "some_assembly_required:bread_slice"
+									Count: 1
 								}
 							]
 						}
 					}
+				}
+			}]
+			rewards: [{
+				id: "4B6F3173FA07CDDF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -2201,6 +3893,15 @@
 				type: "item"
 				item: "some_assembly_required:tomato_slices"
 			}]
+			rewards: [{
+				id: "2FAFC4BB044DBD5B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -12.5d
@@ -2211,6 +3912,15 @@
 				id: "18A3AFF1F4BEB7DC"
 				type: "item"
 				item: "some_assembly_required:chopped_beetroot"
+			}]
+			rewards: [{
+				id: "7AA4846663CAFFE6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2223,6 +3933,15 @@
 				type: "item"
 				item: "some_assembly_required:chopped_golden_carrot"
 			}]
+			rewards: [{
+				id: "209AAC1B1F26A3BA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -10.5d
@@ -2233,6 +3952,15 @@
 				id: "424797BA7C6F7BCD"
 				type: "item"
 				item: "some_assembly_required:chopped_carrot"
+			}]
+			rewards: [{
+				id: "02021E6682CCB441"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2245,6 +3973,15 @@
 				type: "item"
 				item: "some_assembly_required:enchanted_golden_apple_slices"
 			}]
+			rewards: [{
+				id: "5E778636CECC943A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.5d
@@ -2255,6 +3992,15 @@
 				id: "4A9FBE49A6B8F764"
 				type: "item"
 				item: "some_assembly_required:golden_apple_slices"
+			}]
+			rewards: [{
+				id: "5AD58F60724B6863"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2267,6 +4013,15 @@
 				type: "item"
 				item: "some_assembly_required:apple_slices"
 			}]
+			rewards: [{
+				id: "7466C58DEB89C27D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.5d
@@ -2277,6 +4032,15 @@
 				id: "1E27E6E1C5DA9FEE"
 				type: "item"
 				item: "some_assembly_required:toasted_bread_slice"
+			}]
+			rewards: [{
+				id: "6C41FC63A1E80104"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2289,6 +4053,15 @@
 				type: "item"
 				item: "some_assembly_required:bread_slice"
 			}]
+			rewards: [{
+				id: "180C618655F508A2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -10.5d
@@ -2299,6 +4072,15 @@
 				id: "47C07191978EAF92"
 				type: "item"
 				item: "some_assembly_required:sandwiching_station"
+			}]
+			rewards: [{
+				id: "1D187A6A15600E76"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2311,6 +4093,15 @@
 				type: "item"
 				item: "pneumaticcraft:salmon_tempura"
 			}]
+			rewards: [{
+				id: "13C11A54CA42CEB8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -13.0d
@@ -2321,6 +4112,15 @@
 				id: "5962330704B854FB"
 				type: "item"
 				item: "pneumaticcraft:cod_n_chips"
+			}]
+			rewards: [{
+				id: "4A71B944A1C80C2F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2333,6 +4133,15 @@
 				type: "item"
 				item: "pneumaticcraft:chips"
 			}]
+			rewards: [{
+				id: "5050DCAAEAFB569A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -11.0d
@@ -2343,6 +4152,15 @@
 				id: "351AA4A48ECC94F0"
 				type: "item"
 				item: "pneumaticcraft:sourdough_bread"
+			}]
+			rewards: [{
+				id: "2E13DC08E7011A17"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2355,6 +4173,15 @@
 				type: "item"
 				item: "pneumaticcraft:raw_salmon_tempura"
 			}]
+			rewards: [{
+				id: "6BCC2ECCB35DD812"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.0d
@@ -2365,6 +4192,15 @@
 				id: "731593FE396138A7"
 				type: "item"
 				item: "pneumaticcraft:sourdough"
+			}]
+			rewards: [{
+				id: "13BFD3A68A9EF8F4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2377,6 +4213,15 @@
 				type: "item"
 				item: "pizzacraft:cheese"
 			}]
+			rewards: [{
+				id: "30C7AB346ECC36EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -13.5d
@@ -2387,6 +4232,15 @@
 				id: "5734C5CBB0DE13A9"
 				type: "item"
 				item: "pizzacraft:flour"
+			}]
+			rewards: [{
+				id: "38F7A79B80CC8099"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2399,6 +4253,15 @@
 				type: "item"
 				item: "pizzacraft:cooked_wing"
 			}]
+			rewards: [{
+				id: "3DBBB6FE39ADC4B3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -11.5d
@@ -2409,6 +4272,15 @@
 				id: "09D1FC4F44B410DB"
 				type: "item"
 				item: "pizzacraft:wing"
+			}]
+			rewards: [{
+				id: "54F51F2439C11E9B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2421,6 +4293,15 @@
 				type: "item"
 				item: "pizzacraft:ham"
 			}]
+			rewards: [{
+				id: "0169A8C500FC90FA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.5d
@@ -2431,6 +4312,15 @@
 				id: "6DCECA570836D68F"
 				type: "item"
 				item: "pizzacraft:tomato_slice"
+			}]
+			rewards: [{
+				id: "59A6F3AA82349D32"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2443,6 +4333,15 @@
 				type: "item"
 				item: "pizzacraft:pineapple_slice"
 			}]
+			rewards: [{
+				id: "3367231D5BA8085F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.5d
@@ -2453,6 +4352,15 @@
 				id: "55ACAE70B3C1506D"
 				type: "item"
 				item: "pizzacraft:pepper_slice"
+			}]
+			rewards: [{
+				id: "3C27568CEE15D27C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2465,6 +4373,15 @@
 				type: "item"
 				item: "pizzacraft:onion_slice"
 			}]
+			rewards: [{
+				id: "1B0CBCCB9042190A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -14.5d
@@ -2475,6 +4392,15 @@
 				id: "7F97BA99002AA6BB"
 				type: "item"
 				item: "pizzacraft:tomato_sauce"
+			}]
+			rewards: [{
+				id: "1832E8E6C44C3F7B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2487,6 +4413,15 @@
 				type: "item"
 				item: "pizzacraft:olive_oil"
 			}]
+			rewards: [{
+				id: "63F31B8C9F9A7DCF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -12.5d
@@ -2497,6 +4432,15 @@
 				id: "5AF610D90F86C5C4"
 				type: "item"
 				item: "pizzacraft:dough"
+			}]
+			rewards: [{
+				id: "062DA1D1F94AB8FE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2509,6 +4453,15 @@
 				type: "item"
 				item: "pizzacraft:cucumber_slice"
 			}]
+			rewards: [{
+				id: "0E31BD9CC5695D02"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -10.5d
@@ -2519,6 +4472,15 @@
 				id: "52858F43A46FA148"
 				type: "item"
 				item: "pizzacraft:olive"
+			}]
+			rewards: [{
+				id: "106ECCA69075EF34"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2531,6 +4493,15 @@
 				type: "item"
 				item: "pizzacraft:pineapple"
 			}]
+			rewards: [{
+				id: "3AE4D6095AEBA609"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.5d
@@ -2541,6 +4512,15 @@
 				id: "16A1DD72EE07E7B5"
 				type: "item"
 				item: "pizzacraft:tomato"
+			}]
+			rewards: [{
+				id: "7BB3E8D03B7CF012"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2553,6 +4533,15 @@
 				type: "item"
 				item: "pizzacraft:pepper"
 			}]
+			rewards: [{
+				id: "2EE25394FD4FC0BF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.5d
@@ -2563,6 +4552,15 @@
 				id: "4F4946101240A8A3"
 				type: "item"
 				item: "pizzacraft:onion"
+			}]
+			rewards: [{
+				id: "44B1FCAF46FA59A1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2575,6 +4573,15 @@
 				type: "item"
 				item: "pizzacraft:cucumber"
 			}]
+			rewards: [{
+				id: "53DC6ECBF92995E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -13.5d
@@ -2585,6 +4592,15 @@
 				id: "53E65A972836A785"
 				type: "item"
 				item: "pizzacraft:corn"
+			}]
+			rewards: [{
+				id: "28576B9A336C8645"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2597,6 +4613,15 @@
 				type: "item"
 				item: "pizzacraft:broccoli"
 			}]
+			rewards: [{
+				id: "00D8991822770288"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -11.5d
@@ -2607,6 +4632,15 @@
 				id: "09522DD5E7E5F95D"
 				type: "item"
 				item: "pizzacraft:granite_basin"
+			}]
+			rewards: [{
+				id: "3B6B0FE61ACF91D4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2619,6 +4653,15 @@
 				type: "item"
 				item: "pizzacraft:oak_chopping_board"
 			}]
+			rewards: [{
+				id: "774095DF7D253B55"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.5d
@@ -2629,6 +4672,15 @@
 				id: "4807E5EDD9DC3267"
 				type: "item"
 				item: "pizzacraft:oven"
+			}]
+			rewards: [{
+				id: "7AB116024A9AD934"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2641,6 +4693,15 @@
 				type: "item"
 				item: "nethersdelight:magma_gelatin"
 			}]
+			rewards: [{
+				id: "7994B51602E85AAC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -24.0d
@@ -2651,6 +4712,15 @@
 				id: "636C97C45D5484B4"
 				type: "item"
 				item: "nethersdelight:nether_skewer"
+			}]
+			rewards: [{
+				id: "44E91E73FCEB1F2E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2663,6 +4733,15 @@
 				type: "item"
 				item: "nethersdelight:propelpearl"
 			}]
+			rewards: [{
+				id: "1917BBD3E9A6A530"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -22.0d
@@ -2673,6 +4752,15 @@
 				id: "3B69E16C89EBD51C"
 				type: "item"
 				item: "nethersdelight:plate_of_stuffed_hoglin_roast"
+			}]
+			rewards: [{
+				id: "1A0FC2AB13E9A67F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2685,6 +4773,15 @@
 				type: "item"
 				item: "nethersdelight:plate_of_stuffed_hoglin_ham"
 			}]
+			rewards: [{
+				id: "6EED4E71444820F5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -20.0d
@@ -2695,6 +4792,15 @@
 				id: "187098D1BA441AAA"
 				type: "item"
 				item: "nethersdelight:plate_of_stuffed_hoglin_snout"
+			}]
+			rewards: [{
+				id: "4ECB926D0E3D7A5E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2707,6 +4813,15 @@
 				type: "item"
 				item: "nethersdelight:strider_moss_stew"
 			}]
+			rewards: [{
+				id: "348E84A4C343BE75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -18.0d
@@ -2717,6 +4832,15 @@
 				id: "5B6573F4EB7EBD9D"
 				type: "item"
 				item: "nethersdelight:grilled_strider"
+			}]
+			rewards: [{
+				id: "1F5B68348F7EAD0E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2729,6 +4853,15 @@
 				type: "item"
 				item: "nethersdelight:warped_moldy_meat"
 			}]
+			rewards: [{
+				id: "3B699761427A7A1C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -25.0d
@@ -2739,6 +4872,15 @@
 				id: "666717EB6C54879F"
 				type: "item"
 				item: "nethersdelight:hoglin_ear"
+			}]
+			rewards: [{
+				id: "24B56B7F2408646D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2751,6 +4893,15 @@
 				type: "item"
 				item: "nethersdelight:ground_strider"
 			}]
+			rewards: [{
+				id: "0B81AED85C381FB6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -23.0d
@@ -2761,6 +4912,15 @@
 				id: "0A83B14DF1487653"
 				type: "item"
 				item: "nethersdelight:strider_slice"
+			}]
+			rewards: [{
+				id: "36B05C9AC740EFC5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2773,6 +4933,15 @@
 				type: "item"
 				item: "nethersdelight:hoglin_sirloin"
 			}]
+			rewards: [{
+				id: "1E1177B5B4D41461"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -21.0d
@@ -2783,6 +4952,15 @@
 				id: "521034032D9FDE08"
 				type: "item"
 				item: "nethersdelight:hoglin_loin"
+			}]
+			rewards: [{
+				id: "70D6AB3E31F565E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2795,6 +4973,15 @@
 				type: "item"
 				item: "nethersdelight:raw_stuffed_hoglin"
 			}]
+			rewards: [{
+				id: "69BA73E6F88CE9EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -19.0d
@@ -2805,6 +4992,15 @@
 				id: "2B726B3823F98458"
 				type: "item"
 				item: "nethersdelight:hoglin_hide"
+			}]
+			rewards: [{
+				id: "19FF4B56DD5395FD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2817,6 +5013,15 @@
 				type: "item"
 				item: "nethersdelight:hoglin_mount"
 			}]
+			rewards: [{
+				id: "25A47D5BA592CA75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -17.0d
@@ -2827,6 +5032,15 @@
 				id: "3ED2093AFCC4DCCB"
 				type: "item"
 				item: "nethersdelight:stuffed_hoglin"
+			}]
+			rewards: [{
+				id: "3DAB7E0DFCD655EA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2839,6 +5053,15 @@
 				type: "item"
 				item: "naturalist:cooked_venison"
 			}]
+			rewards: [{
+				id: "0373C338B50D8C33"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.5d
@@ -2849,6 +5072,15 @@
 				id: "126C8047C97C865F"
 				type: "item"
 				item: "naturalist:venison"
+			}]
+			rewards: [{
+				id: "24C724B9D57EA56D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2861,6 +5093,15 @@
 				type: "item"
 				item: "mysticalagradditions:insanium_apple"
 			}]
+			rewards: [{
+				id: "3C50DE383BE4CC30"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
@@ -2871,6 +5112,15 @@
 				id: "39750D3DBA63808A"
 				type: "item"
 				item: "mysticalagradditions:supremium_apple"
+			}]
+			rewards: [{
+				id: "5426583DA16C7B80"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2883,6 +5133,15 @@
 				type: "item"
 				item: "mysticalagradditions:imperium_apple"
 			}]
+			rewards: [{
+				id: "5B68BDF3B553DF93"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
@@ -2893,6 +5152,15 @@
 				id: "03D12C20303B3C4B"
 				type: "item"
 				item: "mysticalagradditions:tertium_apple"
+			}]
+			rewards: [{
+				id: "0611A317097C71E6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2905,6 +5173,15 @@
 				type: "item"
 				item: "mysticalagradditions:prudentium_apple"
 			}]
+			rewards: [{
+				id: "271F80D9EDD92E61"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -2915,6 +5192,15 @@
 				id: "21EB863ECACF3E29"
 				type: "item"
 				item: "mysticalagradditions:inferium_apple"
+			}]
+			rewards: [{
+				id: "1F74CF792459D236"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2927,6 +5213,15 @@
 				type: "item"
 				item: "forbidden_arcanus:strange_root"
 			}]
+			rewards: [{
+				id: "1077246CED75A8CD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -13.5d
@@ -2937,6 +5232,15 @@
 				id: "2E10EA1DE07CD5D8"
 				type: "item"
 				item: "forbidden_arcanus:cooked_tentacle"
+			}]
+			rewards: [{
+				id: "50E894D8A6CFE460"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2949,6 +5253,15 @@
 				type: "item"
 				item: "forbidden_arcanus:tentacle"
 			}]
+			rewards: [{
+				id: "17C5FD8AFC32CE2B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -11.5d
@@ -2959,6 +5272,15 @@
 				id: "0504C256D632F2F5"
 				type: "item"
 				item: "forbidden_arcanus:bat_soup"
+			}]
+			rewards: [{
+				id: "442D053DD7C7040D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2971,6 +5293,15 @@
 				type: "item"
 				item: "forbidden_arcanus:bat_wing"
 			}]
+			rewards: [{
+				id: "1B4A87B1804326A0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.5d
@@ -2981,6 +5312,15 @@
 				id: "4C2A02DDEAEA4975"
 				type: "item"
 				item: "forbidden_arcanus:cherry_peach"
+			}]
+			rewards: [{
+				id: "48375060099ADCAB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -2993,6 +5333,15 @@
 				type: "item"
 				item: "farmersdelight:horse_feed"
 			}]
+			rewards: [{
+				id: "1545B1B68C2E6C31"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -3003,6 +5352,15 @@
 				id: "0C7E27A0399B7BC2"
 				type: "item"
 				item: "farmersdelight:dog_food"
+			}]
+			rewards: [{
+				id: "44E698B35D0D7819"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3015,6 +5373,15 @@
 				type: "item"
 				item: "farmersdelight:rice_roll_medley_block"
 			}]
+			rewards: [{
+				id: "2D24633B69060467"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -3025,6 +5392,15 @@
 				id: "2024528F70DD0BC1"
 				type: "item"
 				item: "farmersdelight:shepherds_pie"
+			}]
+			rewards: [{
+				id: "1D1A7C02218DFC03"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3037,6 +5413,15 @@
 				type: "item"
 				item: "farmersdelight:shepherds_pie_block"
 			}]
+			rewards: [{
+				id: "5A0602F1AA7C9987"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -3047,6 +5432,15 @@
 				id: "7C3C517A20FF7813"
 				type: "item"
 				item: "farmersdelight:honey_glazed_ham"
+			}]
+			rewards: [{
+				id: "4FEF84786F09DEE7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3059,6 +5453,15 @@
 				type: "item"
 				item: "farmersdelight:honey_glazed_ham_block"
 			}]
+			rewards: [{
+				id: "70BF6E265AD8CA31"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -3069,6 +5472,15 @@
 				id: "0055F630C902DAB0"
 				type: "item"
 				item: "farmersdelight:stuffed_pumpkin"
+			}]
+			rewards: [{
+				id: "376CB50581274B21"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3081,6 +5493,15 @@
 				type: "item"
 				item: "farmersdelight:stuffed_pumpkin_block"
 			}]
+			rewards: [{
+				id: "0A839328C271C805"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -3091,6 +5512,15 @@
 				id: "4A6B62E7486A0930"
 				type: "item"
 				item: "farmersdelight:chicken_soup"
+			}]
+			rewards: [{
+				id: "03772B298F2D26C2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3103,6 +5533,15 @@
 				type: "item"
 				item: "farmersdelight:beef_stew"
 			}]
+			rewards: [{
+				id: "5EB0459E4396E4C5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -3113,6 +5552,15 @@
 				id: "23D9834B440E13DC"
 				type: "item"
 				item: "farmersdelight:bone_broth"
+			}]
+			rewards: [{
+				id: "6F3F2CF3FBDD9D0D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3125,6 +5573,15 @@
 				type: "item"
 				item: "farmersdelight:cooked_rice"
 			}]
+			rewards: [{
+				id: "0F8F6F51002BBC0E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -3135,6 +5592,15 @@
 				id: "463D16E71B1CE7AA"
 				type: "item"
 				item: "farmersdelight:kelp_roll_slice"
+			}]
+			rewards: [{
+				id: "0DF36EC9AC3BC615"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3147,6 +5613,15 @@
 				type: "item"
 				item: "farmersdelight:kelp_roll"
 			}]
+			rewards: [{
+				id: "3A2CCE769268BC8A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -3157,6 +5632,15 @@
 				id: "4ACED09E9F9FB7B9"
 				type: "item"
 				item: "farmersdelight:cod_roll"
+			}]
+			rewards: [{
+				id: "3BCC9BC133339B8B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3169,6 +5653,15 @@
 				type: "item"
 				item: "farmersdelight:salmon_roll"
 			}]
+			rewards: [{
+				id: "640BBC67067E0D22"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -3179,6 +5672,15 @@
 				id: "35AC19C8E52AE92B"
 				type: "item"
 				item: "farmersdelight:cabbage_rolls"
+			}]
+			rewards: [{
+				id: "4938415E4A92F2F9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3191,6 +5693,15 @@
 				type: "item"
 				item: "farmersdelight:pasta_with_mutton_chop"
 			}]
+			rewards: [{
+				id: "7F3CCDDB724E0BD2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -3201,6 +5712,15 @@
 				id: "21C10FCC0224C0F7"
 				type: "item"
 				item: "farmersdelight:pasta_with_meatballs"
+			}]
+			rewards: [{
+				id: "70AC20834696AECF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3213,6 +5733,15 @@
 				type: "item"
 				item: "farmersdelight:bacon_and_eggs"
 			}]
+			rewards: [{
+				id: "2E9E8CE1A33FE152"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -3223,6 +5752,15 @@
 				id: "756DF758543314C4"
 				type: "item"
 				item: "farmersdelight:noodle_soup"
+			}]
+			rewards: [{
+				id: "16850AF815B5FB32"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3235,6 +5773,15 @@
 				type: "item"
 				item: "farmersdelight:baked_cod_stew"
 			}]
+			rewards: [{
+				id: "5091AC60CA71FDD8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -3245,6 +5792,15 @@
 				id: "5588E7D03FA5C2F4"
 				type: "item"
 				item: "farmersdelight:pumpkin_soup"
+			}]
+			rewards: [{
+				id: "517A4853805442F9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3257,6 +5813,15 @@
 				type: "item"
 				item: "farmersdelight:fried_rice"
 			}]
+			rewards: [{
+				id: "6629F2E97D70B8C3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -3267,6 +5832,15 @@
 				id: "23AC0E877D8F0A4A"
 				type: "item"
 				item: "farmersdelight:fish_stew"
+			}]
+			rewards: [{
+				id: "609E509F5DAC2BA1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3279,6 +5853,15 @@
 				type: "item"
 				item: "farmersdelight:vegetable_soup"
 			}]
+			rewards: [{
+				id: "700109200F055991"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -3289,6 +5872,15 @@
 				id: "1D2856EB10777C28"
 				type: "item"
 				item: "farmersdelight:roast_chicken"
+			}]
+			rewards: [{
+				id: "43E859909D0F22EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3301,6 +5893,15 @@
 				type: "item"
 				item: "farmersdelight:roast_chicken_block"
 			}]
+			rewards: [{
+				id: "1CEEA328ACCE43D4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -3311,6 +5912,15 @@
 				id: "788B823ACCC70506"
 				type: "item"
 				item: "farmersdelight:grilled_salmon"
+			}]
+			rewards: [{
+				id: "35AA182150F1A57B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3323,6 +5933,15 @@
 				type: "item"
 				item: "farmersdelight:squid_ink_pasta"
 			}]
+			rewards: [{
+				id: "14C9C4FEABFC54CE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -3333,6 +5952,15 @@
 				id: "40CDBEDB9C444140"
 				type: "item"
 				item: "farmersdelight:ratatouille"
+			}]
+			rewards: [{
+				id: "2C0597076C2E4153"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3345,6 +5973,15 @@
 				type: "item"
 				item: "farmersdelight:steak_and_potatoes"
 			}]
+			rewards: [{
+				id: "2B116611E2AC0845"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -3355,6 +5992,15 @@
 				id: "7F0DEB307BDB0AD9"
 				type: "item"
 				item: "farmersdelight:vegetable_noodles"
+			}]
+			rewards: [{
+				id: "1FDE62AF0993B506"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3367,6 +6013,15 @@
 				type: "item"
 				item: "farmersdelight:roasted_mutton_chops"
 			}]
+			rewards: [{
+				id: "3EA11C2329C34D83"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -3377,6 +6032,15 @@
 				id: "398EB8A0851AF206"
 				type: "item"
 				item: "farmersdelight:mushroom_rice"
+			}]
+			rewards: [{
+				id: "60C8C23553BBBAD1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3389,6 +6053,15 @@
 				type: "item"
 				item: "farmersdelight:stuffed_potato"
 			}]
+			rewards: [{
+				id: "7F4FD58372BFE331"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -3399,6 +6072,15 @@
 				id: "132F1126C20341E3"
 				type: "item"
 				item: "farmersdelight:dumplings"
+			}]
+			rewards: [{
+				id: "2EB7DBC5F4A5CC13"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3411,6 +6093,15 @@
 				type: "item"
 				item: "farmersdelight:mutton_wrap"
 			}]
+			rewards: [{
+				id: "41FD9FD9151E4BF5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -3421,6 +6112,15 @@
 				id: "73B5ED66D3293912"
 				type: "item"
 				item: "farmersdelight:bacon_sandwich"
+			}]
+			rewards: [{
+				id: "38ED7245DDBAF393"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3433,6 +6133,15 @@
 				type: "item"
 				item: "farmersdelight:hamburger"
 			}]
+			rewards: [{
+				id: "52DCF4D06FC4558E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -3443,6 +6152,15 @@
 				id: "6A33F1F6B83B6AFD"
 				type: "item"
 				item: "farmersdelight:chicken_sandwich"
+			}]
+			rewards: [{
+				id: "640A1291F7D24547"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3455,6 +6173,15 @@
 				type: "item"
 				item: "farmersdelight:egg_sandwich"
 			}]
+			rewards: [{
+				id: "0D137EB856FE810E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -3465,6 +6192,15 @@
 				id: "29C50F1B295204D6"
 				type: "item"
 				item: "farmersdelight:barbecue_stick"
+			}]
+			rewards: [{
+				id: "4875F8F4F53712EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3477,6 +6213,15 @@
 				type: "item"
 				item: "farmersdelight:nether_salad"
 			}]
+			rewards: [{
+				id: "44FEF89BD734B4C1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -3487,6 +6232,15 @@
 				id: "7DAD0B8B5675C2E7"
 				type: "item"
 				item: "farmersdelight:cooked_salmon_slice"
+			}]
+			rewards: [{
+				id: "65164171EE52015C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3499,6 +6253,15 @@
 				type: "item"
 				item: "farmersdelight:salmon_slice"
 			}]
+			rewards: [{
+				id: "7FF4E158A85CBB73"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -3509,6 +6272,15 @@
 				id: "77B9BD61F2F7FCAE"
 				type: "item"
 				item: "farmersdelight:cooked_cod_slice"
+			}]
+			rewards: [{
+				id: "1B67ADAC87231EF2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3521,6 +6293,15 @@
 				type: "item"
 				item: "farmersdelight:cod_slice"
 			}]
+			rewards: [{
+				id: "221967FD2A4DB432"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -3531,6 +6312,15 @@
 				id: "03DA14D57EFDAC89"
 				type: "item"
 				item: "farmersdelight:cooked_bacon"
+			}]
+			rewards: [{
+				id: "48C7672E852BFC37"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3543,6 +6333,15 @@
 				type: "item"
 				item: "farmersdelight:bacon"
 			}]
+			rewards: [{
+				id: "4FF8DB216D926D64"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -3553,6 +6352,15 @@
 				id: "311917AEA8DF9C2C"
 				type: "item"
 				item: "farmersdelight:cooked_chicken_cuts"
+			}]
+			rewards: [{
+				id: "353A4875CA223A82"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3565,6 +6373,15 @@
 				type: "item"
 				item: "farmersdelight:chicken_cuts"
 			}]
+			rewards: [{
+				id: "062F37089F5E6039"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -3575,6 +6392,15 @@
 				id: "0DF5B95836D013CE"
 				type: "item"
 				item: "farmersdelight:beef_patty"
+			}]
+			rewards: [{
+				id: "6C6EC31D491475D7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3587,6 +6413,15 @@
 				type: "item"
 				item: "farmersdelight:cake_slice"
 			}]
+			rewards: [{
+				id: "41698299537EB8B5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -3597,6 +6432,15 @@
 				id: "709EC52BF1013D18"
 				type: "item"
 				item: "farmersdelight:chocolate_pie"
+			}]
+			rewards: [{
+				id: "266C84CF3B75A037"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3609,6 +6453,15 @@
 				type: "item"
 				item: "farmersdelight:sweet_berry_cheesecake"
 			}]
+			rewards: [{
+				id: "4CC0BB55D54C2E49"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -3619,6 +6472,15 @@
 				id: "38FFE50869A7217E"
 				type: "item"
 				item: "farmersdelight:apple_pie"
+			}]
+			rewards: [{
+				id: "643805D35527D0E5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3631,6 +6493,15 @@
 				type: "item"
 				item: "farmersdelight:pie_crust"
 			}]
+			rewards: [{
+				id: "5FC0F09DAD16E644"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -3641,6 +6512,15 @@
 				id: "688C93F1475F28A5"
 				type: "item"
 				item: "farmersdelight:smoked_ham"
+			}]
+			rewards: [{
+				id: "40BC51D4A5E1C698"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3653,6 +6533,15 @@
 				type: "item"
 				item: "farmersdelight:ham"
 			}]
+			rewards: [{
+				id: "558B030DAA5390B9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -3663,6 +6552,15 @@
 				id: "670103654E85E44F"
 				type: "item"
 				item: "farmersdelight:cooked_mutton_chops"
+			}]
+			rewards: [{
+				id: "54F3F3EC2D60BB44"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3675,6 +6573,15 @@
 				type: "item"
 				item: "farmersdelight:mutton_chops"
 			}]
+			rewards: [{
+				id: "0374E69D91534750"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -3685,6 +6592,15 @@
 				id: "6BA53F6213BA7396"
 				type: "item"
 				item: "farmersdelight:mixed_salad"
+			}]
+			rewards: [{
+				id: "416B517926871F7C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3697,6 +6613,15 @@
 				type: "item"
 				item: "farmersdelight:fruit_salad"
 			}]
+			rewards: [{
+				id: "5FEBC0B50ACBEE68"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -3707,6 +6632,15 @@
 				id: "567AF4B8031B1CD8"
 				type: "item"
 				item: "farmersdelight:glow_berry_custard"
+			}]
+			rewards: [{
+				id: "5F73E6EEA48A7935"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3719,6 +6653,15 @@
 				type: "item"
 				item: "farmersdelight:melon_popsicle"
 			}]
+			rewards: [{
+				id: "775C9C7E49ACF711"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -3729,6 +6672,15 @@
 				id: "0BBE15A607B9343A"
 				type: "item"
 				item: "farmersdelight:honey_cookie"
+			}]
+			rewards: [{
+				id: "497157640B6E1CEA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3741,6 +6693,15 @@
 				type: "item"
 				item: "farmersdelight:sweet_berry_cookie"
 			}]
+			rewards: [{
+				id: "6B2AAFB03C40765A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -3751,6 +6712,15 @@
 				id: "2CEDB840D09140C6"
 				type: "item"
 				item: "farmersdelight:chocolate_pie_slice"
+			}]
+			rewards: [{
+				id: "1B6513FAD79DCEFE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3763,6 +6733,15 @@
 				type: "item"
 				item: "farmersdelight:sweet_berry_cheesecake_slice"
 			}]
+			rewards: [{
+				id: "7EDD9E39CD25002B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -3773,6 +6752,15 @@
 				id: "66902E7864A5F16E"
 				type: "item"
 				item: "farmersdelight:apple_pie_slice"
+			}]
+			rewards: [{
+				id: "3B0E4A7064D8A4CE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3785,6 +6773,15 @@
 				type: "item"
 				item: "farmersdelight:minced_beef"
 			}]
+			rewards: [{
+				id: "150B3422B07F6B3D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -45.0d
@@ -3795,6 +6792,15 @@
 				id: "5736CC21508A4927"
 				type: "item"
 				item: "farmersdelight:cabbage_leaf"
+			}]
+			rewards: [{
+				id: "7D9BED1414157A46"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3807,6 +6813,15 @@
 				type: "item"
 				item: "farmersdelight:pumpkin_slice"
 			}]
+			rewards: [{
+				id: "3B1B5C2404D36DB2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -43.0d
@@ -3817,6 +6832,15 @@
 				id: "4FC74021ED5FD569"
 				type: "item"
 				item: "farmersdelight:raw_pasta"
+			}]
+			rewards: [{
+				id: "19E1934FA29F139A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3829,6 +6853,15 @@
 				type: "item"
 				item: "farmersdelight:wheat_dough"
 			}]
+			rewards: [{
+				id: "12BCD089220CD976"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -41.0d
@@ -3839,6 +6872,15 @@
 				id: "37841EF910DE4187"
 				type: "item"
 				item: "farmersdelight:tomato_sauce"
+			}]
+			rewards: [{
+				id: "429A980BE844B360"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3851,6 +6893,15 @@
 				type: "item"
 				item: "farmersdelight:melon_juice"
 			}]
+			rewards: [{
+				id: "2AE846FAF95ADCF7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -39.0d
@@ -3861,6 +6912,15 @@
 				id: "38E31E8C35C1EFB2"
 				type: "item"
 				item: "farmersdelight:hot_cocoa"
+			}]
+			rewards: [{
+				id: "58F1480E44BA35F4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3873,6 +6933,15 @@
 				type: "item"
 				item: "farmersdelight:apple_cider"
 			}]
+			rewards: [{
+				id: "3D2FA5413FC46C7B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -46.0d
@@ -3883,6 +6952,15 @@
 				id: "3553AF1A055B3864"
 				type: "item"
 				item: "farmersdelight:milk_bottle"
+			}]
+			rewards: [{
+				id: "2059A555E730DCB8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3895,6 +6973,15 @@
 				type: "item"
 				item: "farmersdelight:fried_egg"
 			}]
+			rewards: [{
+				id: "4D6391043820A337"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -44.0d
@@ -3905,6 +6992,15 @@
 				id: "23A9FAFAD7A02101"
 				type: "item"
 				item: "farmersdelight:rice"
+			}]
+			rewards: [{
+				id: "3EC2D7786E070BF0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3917,6 +7013,15 @@
 				type: "item"
 				item: "farmersdelight:onion"
 			}]
+			rewards: [{
+				id: "4E6161A3902D38EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -42.0d
@@ -3927,6 +7032,15 @@
 				id: "3053B1152213D57A"
 				type: "item"
 				item: "farmersdelight:tomato"
+			}]
+			rewards: [{
+				id: "1919902DC1C80C58"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3939,6 +7053,15 @@
 				type: "item"
 				item: "farmersdelight:cabbage"
 			}]
+			rewards: [{
+				id: "78449CD1BF45CCCC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -40.0d
@@ -3949,6 +7072,15 @@
 				id: "4AA148F69860FADD"
 				type: "item"
 				item: "farmersdelight:cutting_board"
+			}]
+			rewards: [{
+				id: "05943C6F9915DDB7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3967,6 +7099,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "2210BD13C8D12C4D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -38.0d
@@ -3977,6 +7118,15 @@
 				id: "7E2360449947D63A"
 				type: "item"
 				item: "farmersdelight:cooking_pot"
+			}]
+			rewards: [{
+				id: "5561D609EE8D7570"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -3989,6 +7139,15 @@
 				type: "item"
 				item: "farmersdelight:stove"
 			}]
+			rewards: [{
+				id: "0195DFEC7E67DE1B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -25.0d
@@ -3999,6 +7158,15 @@
 				id: "745671A9926A6919"
 				type: "item"
 				item: "delightful:raw_goat"
+			}]
+			rewards: [{
+				id: "64AA2F98FB044279"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4011,6 +7179,15 @@
 				type: "item"
 				item: "delightful:cooked_goat"
 			}]
+			rewards: [{
+				id: "31A104AA316E7AFC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -23.0d
@@ -4021,6 +7198,15 @@
 				id: "6EF0B3E24E3D807B"
 				type: "item"
 				item: "delightful:cooked_venison_chops"
+			}]
+			rewards: [{
+				id: "2F0BD8709589B579"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4033,6 +7219,15 @@
 				type: "item"
 				item: "delightful:venison_chops"
 			}]
+			rewards: [{
+				id: "3C4461C3A737CAA8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -21.0d
@@ -4043,6 +7238,15 @@
 				id: "12F85750E7AE27FB"
 				type: "item"
 				item: "delightful:honey_glazed_walnut"
+			}]
+			rewards: [{
+				id: "7936E99626EF17AC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4055,6 +7259,15 @@
 				type: "item"
 				item: "delightful:smore"
 			}]
+			rewards: [{
+				id: "4C88517747432744"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -19.0d
@@ -4065,6 +7278,15 @@
 				id: "156912720787D5CB"
 				type: "item"
 				item: "delightful:cooked_marshmallow_stick"
+			}]
+			rewards: [{
+				id: "7347C5989C8A501B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4077,6 +7299,15 @@
 				type: "item"
 				item: "delightful:marshmallow_stick"
 			}]
+			rewards: [{
+				id: "16DD59710F6A3741"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -17.0d
@@ -4087,6 +7318,15 @@
 				id: "584FEBA69879EBCB"
 				type: "item"
 				item: "delightful:rock_candy"
+			}]
+			rewards: [{
+				id: "465C94B28AC5CB45"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4099,6 +7339,15 @@
 				type: "item"
 				item: "delightful:field_salad"
 			}]
+			rewards: [{
+				id: "0C637A1F6B0814E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -24.0d
@@ -4109,6 +7358,15 @@
 				id: "0D0F319BC0BE5692"
 				type: "item"
 				item: "delightful:cactus_steak"
+			}]
+			rewards: [{
+				id: "10FB0EBF25CBF7F5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4121,6 +7379,15 @@
 				type: "item"
 				item: "delightful:cactus_flesh"
 			}]
+			rewards: [{
+				id: "2FD0FE6421F1E3A3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -22.0d
@@ -4131,6 +7398,15 @@
 				id: "71A4342160C282F4"
 				type: "item"
 				item: "delightful:chopped_clover"
+			}]
+			rewards: [{
+				id: "062EEB400DC70AC9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4143,6 +7419,15 @@
 				type: "item"
 				item: "delightful:green_tea_leaf"
 			}]
+			rewards: [{
+				id: "2EB62F8C9DACB2EA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -20.0d
@@ -4153,6 +7438,15 @@
 				id: "5B0E4C18F9C2DA99"
 				type: "item"
 				item: "delightful:salmonberries"
+			}]
+			rewards: [{
+				id: "2E6817BF7B50C00D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4165,6 +7459,15 @@
 				type: "item"
 				item: "delightful:acorn"
 			}]
+			rewards: [{
+				id: "52BF78428D9D9956"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -18.0d
@@ -4175,6 +7478,15 @@
 				id: "436ACC67CF3AD32D"
 				type: "item"
 				item: "delightful:animal_fat"
+			}]
+			rewards: [{
+				id: "127BA98C48E9E6F0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4187,6 +7499,15 @@
 				type: "item"
 				item: "delightful:chunk_nugget"
 			}]
+			rewards: [{
+				id: "2DB3FD9FDCC95DAB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -25.0d
@@ -4197,6 +7518,15 @@
 				id: "1C2CF8EA6F86FA78"
 				type: "item"
 				item: "delightful:deluxe_cheeseburger"
+			}]
+			rewards: [{
+				id: "0F25E480D228DA3D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4209,6 +7539,15 @@
 				type: "item"
 				item: "delightful:cheeseburger"
 			}]
+			rewards: [{
+				id: "4C2F9EE1230B1F03"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -23.0d
@@ -4219,6 +7558,15 @@
 				id: "4290ADEED7F32BB1"
 				type: "item"
 				item: "delightful:nut_butter_and_jelly_sandwich"
+			}]
+			rewards: [{
+				id: "11DDB22AF7C2AF50"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4231,6 +7579,15 @@
 				type: "item"
 				item: "delightful:nut_butter_bottle"
 			}]
+			rewards: [{
+				id: "15A935B5D0070DF6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -21.0d
@@ -4241,6 +7598,15 @@
 				id: "0C692D1BA3159025"
 				type: "item"
 				item: "delightful:glow_jelly_bottle"
+			}]
+			rewards: [{
+				id: "2012593AD610D61B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4253,6 +7619,15 @@
 				type: "item"
 				item: "delightful:berry_matcha_latte"
 			}]
+			rewards: [{
+				id: "23DE4838DB87E9DD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -19.0d
@@ -4263,6 +7638,15 @@
 				id: "0E756C97D24FCAA9"
 				type: "item"
 				item: "delightful:matcha_latte"
+			}]
+			rewards: [{
+				id: "7DE5DC8443E2CF4F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4275,6 +7659,15 @@
 				type: "item"
 				item: "delightful:ender_nectar"
 			}]
+			rewards: [{
+				id: "33A4ADA20553327B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -35.5d
@@ -4285,6 +7678,15 @@
 				id: "637C29EBBAA434B1"
 				type: "item"
 				item: "create_confectionery:ruby_chocolate_candy_3"
+			}]
+			rewards: [{
+				id: "11999D6FA37AE4C3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4297,6 +7699,15 @@
 				type: "item"
 				item: "create_confectionery:ruby_chocolate_candy_2"
 			}]
+			rewards: [{
+				id: "4A9B52FFDA2EFE72"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -33.5d
@@ -4307,6 +7718,15 @@
 				id: "479B77438C6B5619"
 				type: "item"
 				item: "create_confectionery:ruby_chocolate_candy_1"
+			}]
+			rewards: [{
+				id: "4E7538E7478C413F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4319,6 +7739,15 @@
 				type: "item"
 				item: "create_confectionery:ruby_chocolate_candy"
 			}]
+			rewards: [{
+				id: "7C80E6BDB9A2A4BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -31.5d
@@ -4329,6 +7758,15 @@
 				id: "56B102884BBA4D1E"
 				type: "item"
 				item: "create_confectionery:white_chocolate_candy_3"
+			}]
+			rewards: [{
+				id: "099C38474D5EFA43"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4341,6 +7779,15 @@
 				type: "item"
 				item: "create_confectionery:white_chocolate_candy_2"
 			}]
+			rewards: [{
+				id: "5C131CAB455A77E1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -29.5d
@@ -4351,6 +7798,15 @@
 				id: "77A023E431A5EB9D"
 				type: "item"
 				item: "create_confectionery:white_chocolate_candy_1"
+			}]
+			rewards: [{
+				id: "69F45CB582128E15"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4363,6 +7819,15 @@
 				type: "item"
 				item: "create_confectionery:white_chocolate_candy"
 			}]
+			rewards: [{
+				id: "22E530184830FEF2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -27.5d
@@ -4373,6 +7838,15 @@
 				id: "5589F3E041DE8530"
 				type: "item"
 				item: "create_confectionery:black_chocolate_candy_3"
+			}]
+			rewards: [{
+				id: "5CB965D083813974"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4385,6 +7859,15 @@
 				type: "item"
 				item: "create_confectionery:white_chocolate_glazed_berries"
 			}]
+			rewards: [{
+				id: "3090D73F519DFEF5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -34.5d
@@ -4395,6 +7878,15 @@
 				id: "1B5626A7D0C64A14"
 				type: "item"
 				item: "create_confectionery:black_chocolate_glazed_berries"
+			}]
+			rewards: [{
+				id: "63ECEA89A9CFBA07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4407,6 +7899,15 @@
 				type: "item"
 				item: "create_confectionery:soothing_hot_chocolate"
 			}]
+			rewards: [{
+				id: "305DF496D4E40DEF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.5d
@@ -4417,6 +7918,15 @@
 				id: "0F21AB5C940A0097"
 				type: "item"
 				item: "create_confectionery:hot_chocolate_bottle"
+			}]
+			rewards: [{
+				id: "0A5640330D56F6DF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4433,6 +7943,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "2E3E48000D1961A3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -4452,6 +7971,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "2690E9B5FA9A9B49"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -29.5d
@@ -4467,6 +7995,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "190251C3E6FC3BCD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -4486,6 +8023,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1151B20BEA645A73"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -27.5d
@@ -4496,6 +8042,15 @@
 				id: "02A1DC430C6635B4"
 				type: "item"
 				item: "create_confectionery:bar_of_caramel"
+			}]
+			rewards: [{
+				id: "30BF54ECB2350289"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4508,6 +8063,15 @@
 				type: "item"
 				item: "create_confectionery:ruby_chocolate_glazed_marshmallow"
 			}]
+			rewards: [{
+				id: "77744F325CBBBB6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -34.5d
@@ -4518,6 +8082,15 @@
 				id: "08A59E993553E95F"
 				type: "item"
 				item: "create_confectionery:white_chocolate_glazed_marshmallow"
+			}]
+			rewards: [{
+				id: "2F8F4E4DE66A3931"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4530,6 +8103,15 @@
 				type: "item"
 				item: "create_confectionery:black_chocolate_glazed_marshmallow"
 			}]
+			rewards: [{
+				id: "3DFDA233BC8C47E9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.5d
@@ -4540,6 +8122,15 @@
 				id: "5E05C41AAB89DC37"
 				type: "item"
 				item: "create_confectionery:chocolate_glazed_marshmallow"
+			}]
+			rewards: [{
+				id: "275BE71911571B92"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4552,6 +8143,15 @@
 				type: "item"
 				item: "create_confectionery:marshmallow"
 			}]
+			rewards: [{
+				id: "5815BD5DD7B7CE34"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -30.5d
@@ -4562,6 +8162,15 @@
 				id: "03563ACC0A07EAC7"
 				type: "item"
 				item: "create_confectionery:caramelized_marshmellow_on_a_stick"
+			}]
+			rewards: [{
+				id: "72F55359BF4F145E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4574,6 +8183,15 @@
 				type: "item"
 				item: "create_confectionery:marshmallow_on_a_stick"
 			}]
+			rewards: [{
+				id: "75FD637F68941D88"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -28.5d
@@ -4584,6 +8202,15 @@
 				id: "5DE07C918CC60330"
 				type: "item"
 				item: "create_confectionery:ruby_chocolate_glazed_berries"
+			}]
+			rewards: [{
+				id: "64D81B1446CFD562"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4596,6 +8223,15 @@
 				type: "item"
 				item: "create_confectionery:caramel_glazed_berries"
 			}]
+			rewards: [{
+				id: "2B88BFEACBFB107A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -35.5d
@@ -4606,6 +8242,15 @@
 				id: "7CD399CF8E122CC0"
 				type: "item"
 				item: "create_confectionery:black_chocolate_candy_2"
+			}]
+			rewards: [{
+				id: "2F35D3F6454AB329"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4618,6 +8263,15 @@
 				type: "item"
 				item: "create_confectionery:black_chocolate_candy_1"
 			}]
+			rewards: [{
+				id: "321D2702AB5CAC01"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -33.5d
@@ -4628,6 +8282,15 @@
 				id: "1200C93D52056E13"
 				type: "item"
 				item: "create_confectionery:black_chocolate_candy"
+			}]
+			rewards: [{
+				id: "143A426BCB6E2328"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4640,6 +8303,15 @@
 				type: "item"
 				item: "create_confectionery:chocolate_candy_3"
 			}]
+			rewards: [{
+				id: "2E6528EB77610B42"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -31.5d
@@ -4650,6 +8322,15 @@
 				id: "5E9500BC7E878724"
 				type: "item"
 				item: "create_confectionery:chocolate_candy_2"
+			}]
+			rewards: [{
+				id: "68FBE9D4D000A876"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4662,6 +8343,15 @@
 				type: "item"
 				item: "create_confectionery:chocolate_candy_1"
 			}]
+			rewards: [{
+				id: "08D752CA360909EB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -29.5d
@@ -4672,6 +8362,15 @@
 				id: "1E737DF63D561222"
 				type: "item"
 				item: "create_confectionery:chocolate_candy"
+			}]
+			rewards: [{
+				id: "628EEA0CD122FD0F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4684,6 +8383,15 @@
 				type: "item"
 				item: "create_confectionery:honey_candy"
 			}]
+			rewards: [{
+				id: "4C763FEBF394E2FB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -27.5d
@@ -4694,6 +8402,15 @@
 				id: "40AA7DB88FE7A390"
 				type: "item"
 				item: "create_confectionery:candy_cane"
+			}]
+			rewards: [{
+				id: "6A7D262399AFC09A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4706,6 +8423,15 @@
 				type: "item"
 				item: "create_confectionery:bar_of_ruby_chocolate"
 			}]
+			rewards: [{
+				id: "19DCD9DD6442E15A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -34.5d
@@ -4716,6 +8442,15 @@
 				id: "3D7E7C76842940C8"
 				type: "item"
 				item: "create_confectionery:bar_of_white_chocolate"
+			}]
+			rewards: [{
+				id: "3942A726488C5A5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4728,6 +8463,15 @@
 				type: "item"
 				item: "create_confectionery:bar_of_black_chocolate"
 			}]
+			rewards: [{
+				id: "58030E0930DA1B38"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.5d
@@ -4738,6 +8482,15 @@
 				id: "0292F938B1FBD98D"
 				type: "item"
 				item: "create_confectionery:gingerbread_man"
+			}]
+			rewards: [{
+				id: "15E9BAC1475241B4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4750,6 +8503,15 @@
 				type: "item"
 				item: "create:builders_tea"
 			}]
+			rewards: [{
+				id: "1A08B5DDD7619AE1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -30.5d
@@ -4760,6 +8522,15 @@
 				id: "028919E2D865DF12"
 				type: "item"
 				item: "create_confectionery:gingerbread"
+			}]
+			rewards: [{
+				id: "1B96F82B45382694"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4772,6 +8543,15 @@
 				type: "item"
 				item: "create:honeyed_apple"
 			}]
+			rewards: [{
+				id: "63DF0B85274134BB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -28.5d
@@ -4782,6 +8562,15 @@
 				id: "702CEBD6C23B5687"
 				type: "item"
 				item: "create:chocolate_glazed_berries"
+			}]
+			rewards: [{
+				id: "45A382D5CA28A346"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4794,6 +8583,15 @@
 				type: "item"
 				item: "create:bar_of_chocolate"
 			}]
+			rewards: [{
+				id: "0332B0D98CD46EAA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -31.5d
@@ -4804,6 +8602,15 @@
 				id: "6391CA6522A5D0B2"
 				type: "item"
 				item: "create:sweet_roll"
+			}]
+			rewards: [{
+				id: "5A00AB1B85C9B9F6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4816,6 +8623,15 @@
 				type: "item"
 				item: "cookingforblockheads:preservation_chamber"
 			}]
+			rewards: [{
+				id: "3E6F92054130E865"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -24.0d
@@ -4826,6 +8642,15 @@
 				id: "7AD5B05F6F8E8B8E"
 				type: "item"
 				item: "cookingforblockheads:ice_unit"
+			}]
+			rewards: [{
+				id: "3805D9137C1BECC8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4838,6 +8663,15 @@
 				type: "item"
 				item: "cookingforblockheads:heating_unit"
 			}]
+			rewards: [{
+				id: "1899E9832B467CB3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -22.0d
@@ -4848,6 +8682,15 @@
 				id: "3E73493E914DA109"
 				type: "item"
 				item: "cookingforblockheads:recipe_book"
+			}]
+			rewards: [{
+				id: "3E976A8032002B08"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4860,6 +8703,15 @@
 				type: "item"
 				item: "cookingforblockheads:white_kitchen_floor"
 			}]
+			rewards: [{
+				id: "5EF2D2B89FB7052A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -20.0d
@@ -4870,6 +8722,15 @@
 				id: "14398828BB40C0E1"
 				type: "item"
 				item: "cookingforblockheads:hanging_corner"
+			}]
+			rewards: [{
+				id: "3B9CF723CCDF575F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4882,6 +8743,15 @@
 				type: "item"
 				item: "cookingforblockheads:corner"
 			}]
+			rewards: [{
+				id: "34EC7941EEDE5356"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -18.0d
@@ -4892,6 +8762,15 @@
 				id: "0ADC874F80D95EF1"
 				type: "item"
 				item: "cookingforblockheads:cabinet"
+			}]
+			rewards: [{
+				id: "7A60C7103F0AA904"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4904,6 +8783,15 @@
 				type: "item"
 				item: "cookingforblockheads:counter"
 			}]
+			rewards: [{
+				id: "5B428F59BBAE31F4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -25.0d
@@ -4914,6 +8802,15 @@
 				id: "53BBFA8932C3A2DE"
 				type: "item"
 				item: "cookingforblockheads:oven"
+			}]
+			rewards: [{
+				id: "09AEBCE890EBCCB3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4926,6 +8823,15 @@
 				type: "item"
 				item: "cookingforblockheads:sink"
 			}]
+			rewards: [{
+				id: "24601FD710602F79"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -23.0d
@@ -4936,6 +8842,15 @@
 				id: "57F15DF11ADB9692"
 				type: "item"
 				item: "cookingforblockheads:fridge"
+			}]
+			rewards: [{
+				id: "2406637D55C0CC29"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4948,6 +8863,15 @@
 				type: "item"
 				item: "cookingforblockheads:cooking_table"
 			}]
+			rewards: [{
+				id: "4C7E9999AEE2573B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -21.0d
@@ -4958,6 +8882,15 @@
 				id: "07A428BF982CC032"
 				type: "item"
 				item: "cookingforblockheads:fruit_basket"
+			}]
+			rewards: [{
+				id: "37302C96FF78EA12"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4970,6 +8903,15 @@
 				type: "item"
 				item: "cookingforblockheads:spice_rack"
 			}]
+			rewards: [{
+				id: "1483D81627B37DBE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -19.0d
@@ -4980,6 +8922,15 @@
 				id: "496C6DBE3DACD173"
 				type: "item"
 				item: "cookingforblockheads:cow_jar"
+			}]
+			rewards: [{
+				id: "1D71629D0D69BCA3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -4992,6 +8943,15 @@
 				type: "item"
 				item: "cookingforblockheads:milk_jar"
 			}]
+			rewards: [{
+				id: "7054FEB0A65A65CE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -17.0d
@@ -5002,6 +8962,15 @@
 				id: "7047F9B11B895336"
 				type: "item"
 				item: "cookingforblockheads:toaster"
+			}]
+			rewards: [{
+				id: "02825F318F3103B3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5014,6 +8983,15 @@
 				type: "item"
 				item: "cookingforblockheads:tool_rack"
 			}]
+			rewards: [{
+				id: "1A4DF9FB35E6CC96"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
@@ -5021,14 +8999,17 @@
 			dependencies: ["71309AB2F6EB69B3"]
 			id: "31385783368B0257"
 			tasks: [{
-				id: "74A35E5DD72E1DAA"
+				id: "597D52D434E57548"
+				type: "item"
+				item: "botania:infinite_fruit"
+			}]
+			rewards: [{
+				id: "4C1ABFD1C8B49FA9"
 				type: "item"
 				item: {
-					id: "botania:infinite_fruit"
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
-					tag: {
-						soulbindUUID: "57c1d2ba-d043-4243-a6f1-7ab20d897cf5"
-					}
+					tag: { }
 				}
 			}]
 		}
@@ -5042,6 +9023,15 @@
 				type: "item"
 				item: "blue_skies:cherry_pie"
 			}]
+			rewards: [{
+				id: "5A44F07F2A94DA2C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -34.5d
@@ -5052,6 +9042,15 @@
 				id: "7F9568F72BCCD1D4"
 				type: "item"
 				item: "blue_skies:cooked_horizofin_tunid"
+			}]
+			rewards: [{
+				id: "165B65EFC2B1F224"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5064,6 +9063,15 @@
 				type: "item"
 				item: "blue_skies:horizofin_tunid"
 			}]
+			rewards: [{
+				id: "2CC66CEDAEBDE9DC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.5d
@@ -5074,6 +9082,15 @@
 				id: "034C1F3197EB3020"
 				type: "item"
 				item: "blue_skies:cooked_charscale_moki"
+			}]
+			rewards: [{
+				id: "54661075A71881D9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5086,6 +9103,15 @@
 				type: "item"
 				item: "blue_skies:charscale_moki"
 			}]
+			rewards: [{
+				id: "009658AFEF868927"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -30.5d
@@ -5096,6 +9122,15 @@
 				id: "3690E7469394C245"
 				type: "item"
 				item: "blue_skies:cooked_municipal_monkfish"
+			}]
+			rewards: [{
+				id: "6B5A547FECEE2BBA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5108,6 +9143,15 @@
 				type: "item"
 				item: "blue_skies:municipal_monkfish"
 			}]
+			rewards: [{
+				id: "4E611467BFC00BA7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -28.5d
@@ -5118,6 +9162,15 @@
 				id: "2B875C31CBD57723"
 				type: "item"
 				item: "blue_skies:cooked_grittle_flatfish"
+			}]
+			rewards: [{
+				id: "61E42520715BF725"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5130,6 +9183,15 @@
 				type: "item"
 				item: "blue_skies:grittle_flatfish"
 			}]
+			rewards: [{
+				id: "06661D5300D83F33"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -35.5d
@@ -5140,6 +9202,15 @@
 				id: "522DDFD61512742D"
 				type: "item"
 				item: "blue_skies:crescent_fruit"
+			}]
+			rewards: [{
+				id: "3C4D320F6A03D02A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5152,6 +9223,15 @@
 				type: "item"
 				item: "blue_skies:pine_fruit"
 			}]
+			rewards: [{
+				id: "2E9B2C8C6130974D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -33.5d
@@ -5162,6 +9242,15 @@
 				id: "4CDCBE17A9F58040"
 				type: "item"
 				item: "blue_skies:scalefruit"
+			}]
+			rewards: [{
+				id: "273C2A3605D777EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5174,6 +9263,15 @@
 				type: "item"
 				item: "blue_skies:solnut"
 			}]
+			rewards: [{
+				id: "2300FB7B3AEBF515"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -31.5d
@@ -5184,6 +9282,15 @@
 				id: "0FF59ACE500F3E17"
 				type: "item"
 				item: "blue_skies:cryo_root"
+			}]
+			rewards: [{
+				id: "318435208B126FB1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5196,6 +9303,15 @@
 				type: "item"
 				item: "blue_skies:fiery_beans"
 			}]
+			rewards: [{
+				id: "712775D6800CA135"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -29.5d
@@ -5206,6 +9322,15 @@
 				id: "6E3FE26C9759FCBD"
 				type: "item"
 				item: "blue_skies:winter_leaves"
+			}]
+			rewards: [{
+				id: "211DEB5700C49CD0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5218,6 +9343,15 @@
 				type: "item"
 				item: "blue_skies:cherry"
 			}]
+			rewards: [{
+				id: "743CF81BEEE521AA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -27.5d
@@ -5228,6 +9362,15 @@
 				id: "140E48645FD679A7"
 				type: "item"
 				item: "blue_skies:cooked_monitor_tail"
+			}]
+			rewards: [{
+				id: "1543B87D90F0DBAA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5240,6 +9383,15 @@
 				type: "item"
 				item: "blue_skies:monitor_tail"
 			}]
+			rewards: [{
+				id: "040884FC8E3F196C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -34.0d
@@ -5250,6 +9402,15 @@
 				id: "69C4A5133A37987A"
 				type: "item"
 				item: "blue_skies:cooked_venison"
+			}]
+			rewards: [{
+				id: "4FBE2D6F87220082"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5262,6 +9423,15 @@
 				type: "item"
 				item: "blue_skies:venison"
 			}]
+			rewards: [{
+				id: "14DC0AD494B7FB78"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -32.0d
@@ -5272,6 +9442,15 @@
 				id: "213119969A34EA49"
 				type: "item"
 				item: "blue_skies:cooked_carabeef"
+			}]
+			rewards: [{
+				id: "0FEE40515DC58DB4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5284,6 +9463,15 @@
 				type: "item"
 				item: "blue_skies:carabeef"
 			}]
+			rewards: [{
+				id: "3486A22DA2B0C776"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -30.0d
@@ -5294,6 +9482,15 @@
 				id: "0EA4C889F9462372"
 				type: "item"
 				item: "blue_skies:black_brewberry"
+			}]
+			rewards: [{
+				id: "5FD3A0E12067F8FB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5306,6 +9503,15 @@
 				type: "item"
 				item: "blue_skies:pink_brewberry"
 			}]
+			rewards: [{
+				id: "089B029EE78B8FAD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -28.0d
@@ -5316,6 +9522,15 @@
 				id: "50C67E5630ECF757"
 				type: "item"
 				item: "blue_skies:brewberry"
+			}]
+			rewards: [{
+				id: "74343688430881D5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5328,6 +9543,15 @@
 				type: "item"
 				item: "betteranimalsplus:calamari_cooked"
 			}]
+			rewards: [{
+				id: "49924F0932624040"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -24.0d
@@ -5338,6 +9562,15 @@
 				id: "47A4C257B9BDA577"
 				type: "item"
 				item: "betteranimalsplus:calamari_raw"
+			}]
+			rewards: [{
+				id: "391EEB94BF8B1B39"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5350,6 +9583,15 @@
 				type: "item"
 				item: "betteranimalsplus:eel_meat_cooked"
 			}]
+			rewards: [{
+				id: "4ACCF1D62EC6855E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -22.0d
@@ -5360,6 +9602,15 @@
 				id: "7D3A461C27CCD2B6"
 				type: "item"
 				item: "betteranimalsplus:eel_meat_raw"
+			}]
+			rewards: [{
+				id: "57A78ABE4E6F1FC5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5372,6 +9623,15 @@
 				type: "item"
 				item: "betteranimalsplus:turkey_leg_cooked"
 			}]
+			rewards: [{
+				id: "14C42E4ABE312296"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -20.0d
@@ -5382,6 +9642,15 @@
 				id: "0980271ED9710D16"
 				type: "item"
 				item: "betteranimalsplus:turkey_leg_raw"
+			}]
+			rewards: [{
+				id: "6B51BE29A6BFAF77"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5394,6 +9663,15 @@
 				type: "item"
 				item: "betteranimalsplus:crab_meat_cooked"
 			}]
+			rewards: [{
+				id: "024E9FEC34EA9C01"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -18.0d
@@ -5404,6 +9682,15 @@
 				id: "12F68EAECC1D9B9C"
 				type: "item"
 				item: "betteranimalsplus:crab_meat_raw"
+			}]
+			rewards: [{
+				id: "3BE4DB35317BF30F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5416,6 +9703,15 @@
 				type: "item"
 				item: "betteranimalsplus:pheasantcooked"
 			}]
+			rewards: [{
+				id: "398074192CDA263B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -22.5d
@@ -5426,6 +9722,15 @@
 				id: "580B0A41374FF9E2"
 				type: "item"
 				item: "betteranimalsplus:pheasantraw"
+			}]
+			rewards: [{
+				id: "24D343C1AFC79E23"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5438,6 +9743,15 @@
 				type: "item"
 				item: "betteranimalsplus:blubber"
 			}]
+			rewards: [{
+				id: "5AB4C613203ECA67"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -20.5d
@@ -5449,6 +9763,15 @@
 				type: "item"
 				item: "betteranimalsplus:venisoncooked"
 			}]
+			rewards: [{
+				id: "172DA51474D55191"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -19.5d
@@ -5459,6 +9782,15 @@
 				id: "72BA14251B390ED0"
 				type: "item"
 				item: "betteranimalsplus:venisonraw"
+			}]
+			rewards: [{
+				id: "02D9391CFE723A9D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5498,7 +9830,7 @@
 			}]
 		}
 		{
-			title: "farmer's"
+			title: "Farmer's Delight"
 			x: -42.0d
 			y: -2.0d
 			shape: "rsquare"
@@ -5743,6 +10075,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "36657250C397DCB9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.5d
@@ -5753,6 +10094,15 @@
 				id: "4EE8D4067E3A41E4"
 				type: "item"
 				item: "pizzacraft:red_pizza_bag"
+			}]
+			rewards: [{
+				id: "13E2B778E9BE457E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -5769,6 +10119,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "00CF4DD1A9DD9E9E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -5788,6 +10147,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1D11C6E3BEBC9484"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.5d
@@ -5803,6 +10171,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "675CC2298D2AAD92"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}

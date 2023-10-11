@@ -1,0 +1,37 @@
+{
+	id: "0178787B03425481"
+	order_index: 1
+	title: "Music Disc"
+	icon: "minecraft:music_disc_cat"
+	loot_size: 1
+	rewards: [
+		{ item: "blue_skies:venomous_encounter" }
+		{ item: "blue_skies:defying_starlight" }
+		{ item: "blue_skies:blinding_rage" }
+		{ item: "minecraft:music_disc_pigstep" }
+		{ item: "minecraft:music_disc_otherside" }
+		{ item: "undergarden:music_disc_mammoth" }
+		{ item: "undergarden:music_disc_limax_maximus" }
+		{ item: "undergarden:music_disc_relict" }
+		{ item: "undergarden:music_disc_gloomper_anthem" }
+		{ item: "minecraft:music_disc_13" }
+		{ item: "minecraft:music_disc_cat" }
+		{ item: "minecraft:music_disc_blocks" }
+		{ item: "minecraft:music_disc_chirp" }
+		{ item: "minecraft:music_disc_far" }
+		{ item: "minecraft:music_disc_mall" }
+		{ item: "minecraft:music_disc_mellohi" }
+		{ item: "minecraft:music_disc_stal" }
+		{ item: "minecraft:music_disc_strad" }
+		{ item: "minecraft:music_disc_ward" }
+		{ item: "minecraft:music_disc_11" }
+		{ item: "minecraft:music_disc_wait" }
+		{ item: "quark:music_disc_endermosh" }
+		{ item: "doom:netherambient_geoffplaysguitar_music_disc" }
+		{ item: "doom:e1m1_music_disc" }
+		{ item: "create_confectionery:the_bright_side" }
+		{ item: "botania:record_gaia_2" }
+		{ item: "botania:record_gaia_1" }
+		{ item: "blue_skies:population" }
+	]
+}

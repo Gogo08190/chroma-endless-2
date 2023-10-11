@@ -4,10 +4,18 @@
 	order_index: 0
 	filename: "welcome"
 	title: "{chapter.welcome.title}"
+	icon: "ftbquests:book"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/ui/logobis.png"
+				}
+			}
 			x: 0.0d
 			y: -1.0d
 			shape: "gear"
@@ -139,6 +147,15 @@
 				type: "checkmark"
 				title: "{chapter.welcome.quest.1.title.1}"
 			}]
+			rewards: [{
+				id: "1123403214D38A7A"
+				type: "command"
+				title: "{chapter.welcome.quest.1.title.1}"
+				team_reward: false
+				auto: "no_toast"
+				command: "/tellraw @p [\"\",{\"text\":\"Promo code : \"},{\"text\":\"CHROMATECH \",\"bold\":true,\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://bisecthosting.com/chromatech\"}}]"
+				silent: true
+			}]
 		}
 		{
 			icon: {
@@ -163,6 +180,15 @@
 				id: "6E6F293D65902733"
 				type: "checkmark"
 				title: "{chapter.welcome.quest.7.title.1}"
+			}]
+			rewards: [{
+				id: "5FE86220A056F2C6"
+				type: "command"
+				title: "{chapter.welcome.quest.7.description.3}"
+				team_reward: false
+				auto: "no_toast"
+				command: "/tellraw @p [\"\",{\"text\":\"Gogo08's Discord server: \"},{\"text\":\"https://discord.gg/cVEMguY\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/cVEMguY\"}}]"
+				silent: true
 			}]
 		}
 		{
@@ -297,9 +323,11 @@
 			rewards: [{
 				id: "554D37C1CF828807"
 				type: "command"
-				title: "Chroma Team's website"
+				title: "{chapter.welcome.quest.8.subtitle.1}"
+				team_reward: false
+				auto: "no_toast"
 				command: "/tellraw @p [\"\",{\"text\":\"Chroma Team's website: \",\"color\":\"aqua\"},{\"text\":\"https://chromatech.fr/\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://chromatech.fr/\"}}]"
-				player_command: false
+				silent: true
 			}]
 		}
 		{
@@ -340,8 +368,11 @@
 			rewards: [{
 				id: "648F4871F891F555"
 				type: "command"
+				title: "Github"
+				team_reward: false
+				auto: "no_toast"
 				command: "/tellraw @p [\"\",{\"text\":\"Chroma Endless 2 Github: \",\"color\":\"aqua\"},{\"text\":\"https://github.com/Gogo08190/chroma-endless-2\",\"underlined\":true,\"color\":\"aqua\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/Gogo08190/chroma-endless-2\"}}]"
-				player_command: false
+				silent: true
 			}]
 		}
 	]

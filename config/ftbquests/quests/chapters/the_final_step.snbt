@@ -1,0 +1,1833 @@
+{
+	id: "5FB8BAABF55B504A"
+	group: "23866070F89333B0"
+	order_index: 7
+	filename: "the_final_step"
+	title: "{chapter.final.title}"
+	icon: "functionalstorage:creative_vending_upgrade"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -6.0d
+			y: 1.5d
+			shape: "hexagon"
+			dependencies: [
+				"40878AEACC81218D"
+				"6D0C7C568AC768C8"
+				"465AF4C00EA901BE"
+				"4C6D7DADEBFCFC13"
+				"187629A8522F1816"
+			]
+			size: 1.5d
+			id: "7C0055CCB3C25DFF"
+			tasks: [{
+				id: "3FC56B0DAD530714"
+				type: "item"
+				item: "pneumaticcraft:creative_compressor"
+			}]
+			rewards: [{
+				id: "2D76A0181615104D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.5d
+			shape: "hexagon"
+			dependencies: [
+				"40878AEACC81218D"
+				"187629A8522F1816"
+				"4CC844E6755B5FA2"
+			]
+			size: 1.5d
+			id: "7D4FBD7805F6E30A"
+			tasks: [{
+				id: "1B13EBDA3491A6E3"
+				type: "item"
+				item: "pneumaticcraft:creative_compressed_iron_block"
+			}]
+			rewards: [{
+				id: "3351C30E8AB95A41"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.75d
+			shape: "hexagon"
+			dependencies: [
+				"1EBD316BA5724440"
+				"16BF35F89FC49046"
+				"5A1A6AD70392E5F2"
+				"062BEE0953494B0E"
+				"5A1CBF0493FECF4C"
+				"16BAF8D51754655F"
+			]
+			size: 1.5d
+			id: "1D8B8FD9C8E0E629"
+			tasks: [{
+				id: "3B4456CA8C8A7361"
+				type: "item"
+				item: "solarpanels:creative_solar_panel"
+			}]
+			rewards: [{
+				id: "61290EA44E5DD6D7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.0d
+			y: 1.5d
+			shape: "hexagon"
+			dependencies: [
+				"4C6D7DADEBFCFC13"
+				"3D0512D036CF11AD"
+				"6E036BE790FF63BA"
+				"28012E2EF67B3955"
+				"7D951D35FA70E7F8"
+				"27C36DB1C202FC90"
+				"0E4756C093B18E4F"
+				"187629A8522F1816"
+				"40878AEACC81218D"
+				"710BFA0B5E015347"
+				"7E1A3EB75D7F1ABB"
+				"7930953E0E63BB1D"
+				"164102CC3E839489"
+				"5E53F1C5D252FC15"
+				"6B075744CEA74574"
+			]
+			size: 1.5d
+			id: "2B43E3E6BE862535"
+			tasks: [{
+				id: "63B94A030C6B7C76"
+				type: "item"
+				item: {
+					id: "evilcraft:creative_blood_drop"
+					Count: 1
+					tag: { }
+					ForgeCaps: {
+						Parent: {
+							FluidName: "evilcraft:blood"
+							Amount: 500
+							capacity: 1000
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "6952B1358748A1BE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 0.75d
+			shape: "hexagon"
+			dependencies: [
+				"40878AEACC81218D"
+				"4C6D7DADEBFCFC13"
+				"5A1A6AD70392E5F2"
+				"1EBD316BA5724440"
+				"6D0C7C568AC768C8"
+				"187629A8522F1816"
+				"4D224469F50D0609"
+			]
+			size: 1.5d
+			id: "612B685DAC61A3F0"
+			tasks: [{
+				id: "4C6FBEECFC63CF94"
+				type: "item"
+				item: "mekanism:creative_fluid_tank"
+			}]
+			rewards: [{
+				id: "40D8EA2A341E1228"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			shape: "hexagon"
+			dependencies: [
+				"40878AEACC81218D"
+				"187629A8522F1816"
+				"16BF35F89FC49046"
+				"5A1A6AD70392E5F2"
+				"4C6D7DADEBFCFC13"
+				"6D0C7C568AC768C8"
+				"1EBD316BA5724440"
+				"4D224469F50D0609"
+			]
+			size: 1.5d
+			id: "191BCAD42DFF2336"
+			tasks: [{
+				id: "6BD36371A279948C"
+				type: "item"
+				item: "mekanism:creative_chemical_tank"
+			}]
+			rewards: [{
+				id: "6150C6EC4F951C02"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.75d
+			shape: "hexagon"
+			dependencies: [
+				"40878AEACC81218D"
+				"187629A8522F1816"
+				"4C6D7DADEBFCFC13"
+				"6D36754B383ADBD1"
+				"07DE1E6DE9F7522F"
+				"5E83156A58A86B1A"
+				"173DAA1241B8FB45"
+				"20E578DC55FFE004"
+				"0F26D3F00AD67172"
+				"7CBB46F857AEAC1C"
+			]
+			size: 1.5d
+			id: "3CAD8CE35E6ED1C6"
+			tasks: [{
+				id: "131ED902E8D8B47F"
+				type: "item"
+				item: "draconicevolution:creative_op_capacitor"
+			}]
+			rewards: [{
+				id: "2CF8DA20E9518823"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -11.25d
+			shape: "diamond"
+			dependencies: ["3D5E9F191C4F0BEE"]
+			size: 1.5d
+			id: "664C2C1487F03DE7"
+			tasks: [{
+				id: "40878AEACC81218D"
+				type: "item"
+				item: "mysticalagradditions:creative_essence"
+			}]
+			rewards: [{
+				id: "654024589132DC94"
+				type: "item"
+				item: "mysticalagradditions:insanium_essence"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 0.75d
+			shape: "hexagon"
+			dependencies: [
+				"740B30875269DE84"
+				"02A106DF99E7EE04"
+			]
+			size: 1.5d
+			id: "7D67CDB7B09023E3"
+			tasks: [{
+				id: "22196AD4ED35F188"
+				type: "item"
+				item: "botanicalmachinery:mana_battery_creative"
+			}]
+			rewards: [{
+				id: "007330D42464E7D7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 0.75d
+			shape: "hexagon"
+			dependencies: [
+				"02DA081A050F4BBF"
+				"299C31AC2471B903"
+				"5A1A6AD70392E5F2"
+				"16BF35F89FC49046"
+				"062BEE0953494B0E"
+				"78D7DB5F78B34082"
+				"4C6D7DADEBFCFC13"
+				"40878AEACC81218D"
+				"1EBD316BA5724440"
+				"187629A8522F1816"
+			]
+			size: 1.5d
+			id: "21C0AADC05F98DA8"
+			tasks: [{
+				id: "00DE3E1926BB8F51"
+				type: "item"
+				item: "ae2:creative_energy_cell"
+			}]
+			rewards: [{
+				id: "4602BA7632E340D2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 10.5d
+			shape: "gear"
+			dependencies: ["152949C60259FF4B"]
+			size: 3.0d
+			id: "409AA7AFACBB94D3"
+			tasks: [{
+				id: "1138F3C8121A25F3"
+				type: "item"
+				item: "functionalstorage:creative_vending_upgrade"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.75d
+			shape: "hexagon"
+			dependencies: [
+				"4C6D7DADEBFCFC13"
+				"6D0C7C568AC768C8"
+				"1EBD316BA5724440"
+				"187629A8522F1816"
+				"2838F4D225D2619F"
+				"446CE7FA86BE081D"
+			]
+			size: 1.5d
+			id: "56B4FCA97A58C5A2"
+			tasks: [{
+				id: "740B30875269DE84"
+				type: "item"
+				item: "botania:creative_pool"
+			}]
+			rewards: [{
+				id: "4481FFEFADA4E83D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 1.5d
+			shape: "hexagon"
+			description: ["{chapter.final.tablet.description}"]
+			dependencies: [
+				"622A80DCF5F77256"
+				"40878AEACC81218D"
+				"187629A8522F1816"
+				"4C6D7DADEBFCFC13"
+				"0825C962C37E009B"
+				"1EBD316BA5724440"
+			]
+			size: 1.5d
+			id: "345143D06E436ED2"
+			tasks: [{
+				id: "2838F4D225D2619F"
+				type: "item"
+				item: {
+					id: "botania:mana_tablet"
+					Count: 1
+					tag: {
+						mana: 500000
+						creative: 1b
+					}
+				}
+				match_nbt: true
+			}]
+			rewards: [{
+				id: "621BBA6170B91E66"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.final.particle.title}"
+			icon: "chroma:particle_accelerator"
+			x: 0.0d
+			y: -13.5d
+			shape: "pentagon"
+			subtitle: "{chapter.final.particle.subtitle}"
+			description: ["{chapter.final.particle.description}"]
+			dependencies: [
+				"6D36754B383ADBD1"
+				"07DE1E6DE9F7522F"
+				"0F26D3F00AD67172"
+				"7CBB46F857AEAC1C"
+				"48DEF4F0B8FCC431"
+				"7B113883C9FC9C36"
+				"56A35BF436B5EA82"
+				"710BFA0B5E015347"
+				"62EE81945182A80F"
+				"433F4808FF88D56F"
+				"5009ED2F059984AA"
+				"24E3F82665ADA01C"
+				"02A106DF99E7EE04"
+				"348B9C5AABFE3D95"
+				"5A3142A27F6C5E25"
+				"3FA560E7732BFEBA"
+				"093E896AB0DCCEED"
+			]
+			size: 1.5d
+			id: "3D5E9F191C4F0BEE"
+			tasks: [
+				{
+					id: "561BDCA5A3296A7F"
+					type: "item"
+					item: "chroma:particle_accelerator"
+				}
+				{
+					id: "5A834663DA411A20"
+					type: "item"
+					item: "chroma:accelerator_item_output"
+				}
+				{
+					id: "6676781BD71CBF2E"
+					type: "item"
+					item: "chroma:accelerator_item_input"
+				}
+				{
+					id: "10D40A797EA18AA7"
+					type: "item"
+					item: "chroma:accelerator_energy_input"
+				}
+				{
+					id: "326549DAB1F7444B"
+					type: "item"
+					item: "chroma:accelerator_frame"
+					count: 246L
+				}
+				{
+					id: "3CC543937C0612B2"
+					type: "item"
+					item: "chroma:accelerator_coil"
+					count: 64L
+				}
+				{
+					id: "791FF9B2ADDB58FB"
+					type: "item"
+					item: "chroma:electromagnetic_condenser"
+					count: 80L
+				}
+				{
+					id: "464DC2E660C55725"
+					type: "item"
+					item: "mekanism:supercharged_coil"
+					count: 4L
+				}
+				{
+					id: "3DE15925B721BBC3"
+					type: "item"
+					item: "immersiveengineering:fluid_pipe"
+					count: 4L
+				}
+				{
+					id: "7E511C01273CBE92"
+					type: "item"
+					item: "mekanismgenerators:reactor_glass"
+					count: 2L
+				}
+				{
+					id: "008C43287A859B80"
+					type: "item"
+					item: "mekanism:ultimate_fluid_tank"
+					count: 2L
+				}
+				{
+					id: "598CFCCAFA02BE01"
+					type: "item"
+					item: "ae2:sky_stone_tank"
+					count: 2L
+				}
+				{
+					id: "3F344223B90378D3"
+					type: "item"
+					item: "vtones:flat_lamp_2"
+				}
+			]
+			rewards: [{
+				id: "2FE9E673BA6C5738"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 6.0d
+			shape: "octagon"
+			dependencies: [
+				"52AA1A25C167018A"
+				"6EF7B026AB46C7F4"
+				"02C1372811C6ED8A"
+				"02A4C602581167EE"
+				"0C48EEA1FD83AAC0"
+				"0B206AAA9780A0B1"
+				"0B8B5EE5B637DC05"
+				"23B22ACCD9422E52"
+			]
+			size: 2.0d
+			id: "152949C60259FF4B"
+			tasks: [{
+				id: "61448F2673583339"
+				type: "item"
+				item: "chroma:endless"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 6.0d
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			dependency_requirement: "one_started"
+			id: "0C48EEA1FD83AAC0"
+			tasks: [{
+				id: "7BD1DA1B5C423DDF"
+				type: "item"
+				item: "chroma:shard_of_the_greater_good"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 4.5d
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			id: "0B8B5EE5B637DC05"
+			tasks: [{
+				id: "2F5A4B60E53095F1"
+				type: "item"
+				item: "chroma:shard_of_the_greater_mana"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			shape: "circle"
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			id: "0B206AAA9780A0B1"
+			tasks: [{
+				id: "736B2C51B21C86B7"
+				type: "item"
+				item: "chroma:shard_of_imunity"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 6.0d
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			id: "02A4C602581167EE"
+			tasks: [{
+				id: "1F04D333102450BE"
+				type: "item"
+				item: "chroma:shard_of_knowledge"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 7.5d
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			id: "52AA1A25C167018A"
+			tasks: [{
+				id: "554956A6F3D0D32D"
+				type: "item"
+				item: "chroma:shard_of_mankind"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 7.5d
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			dependency_requirement: "one_started"
+			id: "23B22ACCD9422E52"
+			tasks: [{
+				id: "0A86B78E75823E90"
+				type: "item"
+				item: "chroma:shard_of_perserevity"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 4.0d
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			id: "02C1372811C6ED8A"
+			tasks: [{
+				id: "640DBB316BB17DE3"
+				type: "item"
+				item: "chroma:shard_of_creativity"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 8.0d
+			hide_dependency_lines: true
+			dependencies: ["664C2C1487F03DE7"]
+			id: "6EF7B026AB46C7F4"
+			tasks: [{
+				id: "1C778DFA4412F723"
+				type: "item"
+				item: "chroma:shard_of_nature"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -9.5d
+			dependencies: ["4CC844E6755B5FA2"]
+			id: "43860E5499CA7BA2"
+			tasks: [{
+				id: "2568531892F5A068"
+				type: "item"
+				item: "extendedcrafting:the_ultimate_ingot"
+			}]
+			rewards: [{
+				id: "2645C49A6B3E0AA7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -5.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "2F689EB957EDF7F2"
+			tasks: [{
+				id: "489C5ABF17BE029F"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:bronze"
+					}
+				}
+			}]
+			rewards: [{
+				id: "3A77E0EC41E438AC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -4.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "45E4A53965AC983D"
+			tasks: [{
+				id: "26B8F8EF22A85189"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:electrum"
+					}
+				}
+			}]
+			rewards: [{
+				id: "62339AEA887B46C7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -5.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "56DBD320286514CD"
+			tasks: [{
+				id: "1FC33D754D5F7DA5"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:invar"
+					}
+				}
+			}]
+			rewards: [{
+				id: "7C6E859EE7112B8C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -6.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "2ABE632FD64DEE91"
+			tasks: [{
+				id: "458740896B64979D"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:lapis_lazuli"
+					}
+				}
+			}]
+			rewards: [{
+				id: "6B62859ECCE1F8B5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -3.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "248F9AFE84C4D523"
+			tasks: [{
+				id: "55DA48D9E24F6DC2"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:insanium_coal"
+					}
+				}
+			}]
+			rewards: [{
+				id: "5F612EBEB073F0EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -6.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "0F6F8D46FF760C22"
+			tasks: [{
+				id: "6891F9A50D89AA8E"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:osmium"
+					}
+				}
+			}]
+			rewards: [{
+				id: "133BF44D5B96E631"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "55F86F7A8B0B35F7"
+			tasks: [{
+				id: "6B234136447ED800"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:uranium"
+					}
+				}
+			}]
+			rewards: [{
+				id: "0EF7A416BBA37BA0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -6.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "1CF81C2BB17A01F2"
+			tasks: [{
+				id: "3D66713657CEC96B"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:coal"
+					}
+				}
+			}]
+			rewards: [{
+				id: "18B6C2B10F6CD13F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -6.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "60FE1735AD9633F0"
+			tasks: [{
+				id: "07E4AEE424F2511B"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:redstone"
+					}
+				}
+			}]
+			rewards: [{
+				id: "1241CC2617647E85"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -4.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "12B92534C1C36FF3"
+			tasks: [{
+				id: "49889C1CDD18851B"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:vinteum"
+					}
+				}
+			}]
+			rewards: [{
+				id: "39618804F1A97245"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -3.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "1CDD11A9D4DA4728"
+			tasks: [{
+				id: "6B6654FCFC617E27"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:wood"
+					}
+				}
+			}]
+			rewards: [{
+				id: "26DFE2C6A5818D73"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "411121DBCA55B7F2"
+			tasks: [{
+				id: "192FC085F83F5DD3"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:diamond"
+					}
+				}
+			}]
+			rewards: [{
+				id: "052FC8F423D6F36C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -6.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "31AEFE34651A793C"
+			tasks: [{
+				id: "624B354311C13823"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:ventium"
+					}
+				}
+			}]
+			rewards: [{
+				id: "15709B16E6A00401"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "299A6ACE7277232F"
+			tasks: [{
+				id: "11AB3AAF592F89AE"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:iron"
+					}
+				}
+			}]
+			rewards: [{
+				id: "2AD4EB6731274269"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -5.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "4049E0A4CB86A6E5"
+			tasks: [{
+				id: "4D630C338523ED04"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:calorite"
+					}
+				}
+			}]
+			rewards: [{
+				id: "5C7070D879F49DC1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -5.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "7D74502576D35254"
+			tasks: [{
+				id: "730152E179B080EA"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:flux_dust"
+					}
+				}
+			}]
+			rewards: [{
+				id: "3D5CC1FC2CFBD83F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -4.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "1F5E41938B7453B8"
+			tasks: [{
+				id: "182AA64FC0175A05"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:lumium"
+					}
+				}
+			}]
+			rewards: [{
+				id: "173ED660737F3D4A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "027C2F9005A4A60E"
+			tasks: [{
+				id: "71C5B3B3473C57B5"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:nickel"
+					}
+				}
+			}]
+			rewards: [{
+				id: "39F4907EA59C27FA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "29C205E58E7EAAAA"
+			tasks: [{
+				id: "52A54B8F325BF4FA"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:cobalt"
+					}
+				}
+			}]
+			rewards: [{
+				id: "17C31233FBD34736"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -3.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "17E212CDD662BB8F"
+			tasks: [{
+				id: "3270571BA654964C"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:glowstone"
+					}
+				}
+			}]
+			rewards: [{
+				id: "56714FAFF0CFB2E1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -6.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "4F8DF6044EEA7F64"
+			tasks: [{
+				id: "4BA0892BEA1B2CCE"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:plastic"
+					}
+				}
+			}]
+			rewards: [{
+				id: "0F70F14248A2C971"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -3.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "7BBD61C8EAEC06F5"
+			tasks: [{
+				id: "4BBA7DBC99EF3DA4"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:experience"
+					}
+				}
+			}]
+			rewards: [{
+				id: "38D67FBF355348B1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -3.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "708041295AD4D522"
+			tasks: [{
+				id: "3DFED576FCC5C322"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:refined_obsidian"
+					}
+				}
+			}]
+			rewards: [{
+				id: "6B440291B228258C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -3.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "1AA04F332C942A3B"
+			tasks: [{
+				id: "336368FBD7FB7C70"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:steel"
+					}
+				}
+			}]
+			rewards: [{
+				id: "7F2097280A9B5482"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -4.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "60D366C1AC246742"
+			tasks: [{
+				id: "3DC8E45AD7A5B9D8"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:certus_quartz"
+					}
+				}
+			}]
+			rewards: [{
+				id: "6AD91A6E4508CDF1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "54D60ABFD3622CDD"
+			tasks: [{
+				id: "063F31549F89EDC2"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:enderium"
+					}
+				}
+			}]
+			rewards: [{
+				id: "7F7602DA951AEE0C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "3703C0FBFCED9D00"
+			tasks: [{
+				id: "38C0D56EA5AA8A81"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:emerald"
+					}
+				}
+			}]
+			rewards: [{
+				id: "4D22D20A4A004D4C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -4.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "7B5CFBEFDEC6AD31"
+			tasks: [{
+				id: "2D5635CA71314849"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:hdpe"
+					}
+				}
+			}]
+			rewards: [{
+				id: "49C1CE92BD8BEE37"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -2.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "517FB410FA57E74A"
+			tasks: [{
+				id: "348CA52E8E540DE5"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:clay"
+					}
+				}
+			}]
+			rewards: [{
+				id: "2A672916AB849D46"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -2.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "537FC2684865F27D"
+			tasks: [{
+				id: "2EE396768F788561"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:aluminum"
+					}
+				}
+			}]
+			rewards: [{
+				id: "53F2FF7D4DCD371F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -5.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "36AE2F9E0F7FD767"
+			tasks: [{
+				id: "21D7602289C4B9E8"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:draconium"
+					}
+				}
+			}]
+			rewards: [{
+				id: "3DAADCC618F0A32C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -5.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "69AB0F1D7D714475"
+			tasks: [{
+				id: "47AB3AF38938A081"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:silver"
+					}
+				}
+			}]
+			rewards: [{
+				id: "53512511CCB44315"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -5.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "554BC95FA820D0DA"
+			tasks: [{
+				id: "27A6985C8DB5A90A"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:tin"
+					}
+				}
+			}]
+			rewards: [{
+				id: "1D9B82744D769685"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -2.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "5BE524535027D4DA"
+			tasks: [{
+				id: "5485B9DCE5F5FCAD"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:dimensional_shard"
+					}
+				}
+			}]
+			rewards: [{
+				id: "1D068CC6706AE030"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "123531AAB876168E"
+			tasks: [{
+				id: "1726F50280EBEE1A"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:manasteel"
+					}
+				}
+			}]
+			rewards: [{
+				id: "2076294E35A243DD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -5.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "00CEB72892E0C4A0"
+			tasks: [{
+				id: "4C8BD75F700CAA9A"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:copper"
+					}
+				}
+			}]
+			rewards: [{
+				id: "1A7EEED2FA1A5831"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -6.0d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "710233A4D96C5542"
+			tasks: [{
+				id: "723B8A5215F9D14C"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:lead"
+					}
+				}
+			}]
+			rewards: [{
+				id: "04448E74F0BD4883"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -4.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "2819064C1340784F"
+			tasks: [{
+				id: "48B73DA872617C7F"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:gold"
+					}
+				}
+			}]
+			rewards: [{
+				id: "7C47A5CD837DEE40"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "2351769E073B806C"
+			tasks: [{
+				id: "64A89C27BBD594C8"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:pink_slime"
+					}
+				}
+			}]
+			rewards: [{
+				id: "01FF84700A70D78D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -3.5d
+			shape: "diamond"
+			dependencies: ["4A078EDB7787E942"]
+			id: "2FE9591F04FFC00C"
+			tasks: [{
+				id: "3D0512D036CF11AD"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1
+					tag: {
+						Id: "extendedcrafting:dark_gem"
+					}
+				}
+			}]
+			rewards: [{
+				id: "7B2F417FF0D93FD9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.0d
+			shape: "diamond"
+			dependencies: [
+				"1F5E41938B7453B8"
+				"17E212CDD662BB8F"
+				"7B5CFBEFDEC6AD31"
+				"2FE9591F04FFC00C"
+				"027C2F9005A4A60E"
+				"1CDD11A9D4DA4728"
+				"4F8DF6044EEA7F64"
+				"710233A4D96C5542"
+				"5BE524535027D4DA"
+				"45E4A53965AC983D"
+				"299A6ACE7277232F"
+				"2ABE632FD64DEE91"
+				"4049E0A4CB86A6E5"
+				"2F689EB957EDF7F2"
+				"537FC2684865F27D"
+				"56DBD320286514CD"
+				"3703C0FBFCED9D00"
+				"248F9AFE84C4D523"
+				"7D74502576D35254"
+				"54D60ABFD3622CDD"
+				"2351769E073B806C"
+				"2819064C1340784F"
+				"1CF81C2BB17A01F2"
+				"708041295AD4D522"
+				"00CEB72892E0C4A0"
+				"123531AAB876168E"
+				"36AE2F9E0F7FD767"
+				"7BBD61C8EAEC06F5"
+				"60FE1735AD9633F0"
+				"411121DBCA55B7F2"
+				"554BC95FA820D0DA"
+				"69AB0F1D7D714475"
+				"517FB410FA57E74A"
+				"29C205E58E7EAAAA"
+				"60D366C1AC246742"
+				"1AA04F332C942A3B"
+				"31AEFE34651A793C"
+				"0F6F8D46FF760C22"
+				"12B92534C1C36FF3"
+				"55F86F7A8B0B35F7"
+			]
+			size: 2.5d
+			id: "4D40A86F3715923C"
+			tasks: [{
+				id: "4C6D7DADEBFCFC13"
+				type: "item"
+				item: "extendedcrafting:ultimate_singularity"
+			}]
+			rewards: [{
+				id: "4CA7C71A3F1D3913"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -8.5d
+			dependencies: ["43860E5499CA7BA2"]
+			id: "4F40CD9EC9D0425B"
+			tasks: [{
+				id: "513C31CC038E65AE"
+				type: "item"
+				item: "extendedcrafting:the_ultimate_component"
+			}]
+			rewards: [{
+				id: "63C12024435E2D9F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -8.5d
+			dependencies: ["4F40CD9EC9D0425B"]
+			id: "39C7DCB86AE885F7"
+			tasks: [{
+				id: "187629A8522F1816"
+				type: "item"
+				item: "extendedcrafting:the_ultimate_catalyst"
+			}]
+			rewards: [{
+				id: "5D6571C8BDFD98C9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

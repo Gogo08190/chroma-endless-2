@@ -20,6 +20,15 @@
 				type: "item"
 				item: "chemlib:cesium"
 			}]
+			rewards: [{
+				id: "7D94731208EF051D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.5d
@@ -32,6 +41,15 @@
 				type: "item"
 				item: "chemlib:cesium_dust"
 			}]
+			rewards: [{
+				id: "303A83E56A3ACF87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -43,6 +61,15 @@
 				id: "13716125BB66A4DB"
 				type: "item"
 				item: "chemlib:cesium_ingot"
+			}]
+			rewards: [{
+				id: "03387DED8A906036"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -57,6 +84,15 @@
 				type: "item"
 				item: "extendedcrafting:ultimate_component"
 			}]
+			rewards: [{
+				id: "06E664BE496483AB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
@@ -69,6 +105,15 @@
 				id: "18F930FB53331D08"
 				type: "item"
 				item: "extendedcrafting:ultimate_catalyst"
+			}]
+			rewards: [{
+				id: "4841DF014FE21DE8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -83,6 +128,15 @@
 				type: "item"
 				item: "extendedcrafting:ultimate_table"
 			}]
+			rewards: [{
+				id: "496F86DD5CF9BAA3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.0d
@@ -94,6 +148,15 @@
 				id: "504F4D32B4C00935"
 				type: "item"
 				item: "extendedcrafting:ultimate_auto_table"
+			}]
+			rewards: [{
+				id: "3CA67B54E5B660E5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -108,6 +171,15 @@
 				type: "item"
 				item: "packagedexcrafting:ultimate_crafter"
 			}]
+			rewards: [{
+				id: "476FA94E2200FA63"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
@@ -120,6 +192,15 @@
 				id: "4EEC7781DDF364F1"
 				type: "item"
 				item: "chroma:calorite_rocket_fin"
+			}]
+			rewards: [{
+				id: "21345A8C6361E2BB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -134,6 +215,15 @@
 				type: "item"
 				item: "chroma:calorite_rocket_nose_cone"
 			}]
+			rewards: [{
+				id: "08921613CF2AC3DA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.0d
@@ -146,6 +236,15 @@
 				id: "4B92C8792B675BAA"
 				type: "item"
 				item: "beyond_earth:compressed_calorite"
+			}]
+			rewards: [{
+				id: "77C338BED248750E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -160,6 +259,15 @@
 				type: "item"
 				item: "beyond_earth:calorite_engine"
 			}]
+			rewards: [{
+				id: "7F3472A9B3601FF4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.5d
@@ -172,6 +280,15 @@
 				id: "3D771F3554397CE7"
 				type: "item"
 				item: "beyond_earth:calorite_tank"
+			}]
+			rewards: [{
+				id: "1EE93F92D5CB1F60"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -198,6 +315,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "577599C9FB29DE66"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			title: "{chapter.stage.7.quest.18.title}"
@@ -213,6 +339,22 @@
 				icon: "beyond_earth:glacio_globe"
 				dimension: "beyond_earth:glacio"
 			}]
+			rewards: [
+				{
+					id: "329E3CF835B0EF1D"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+				}
+				{
+					id: "3053CE363637D67D"
+					type: "item"
+					item: "beyond_earth:glacio_globe"
+				}
+			]
 		}
 		{
 			x: 9.0d
@@ -224,6 +366,15 @@
 				id: "05AE8DCC3FEB3483"
 				type: "item"
 				item: "chroma:glacio_crystaltine_ore"
+			}]
+			rewards: [{
+				id: "052391B1EEF2C3EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -238,6 +389,15 @@
 				type: "item"
 				item: "chroma:crystaltine_clump"
 			}]
+			rewards: [{
+				id: "287108F09EF27145"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.0d
@@ -250,6 +410,15 @@
 				id: "710BFA0B5E015347"
 				type: "item"
 				item: "extendedcrafting:crystaltine_ingot"
+			}]
+			rewards: [{
+				id: "691CC88786E878DA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -264,6 +433,15 @@
 				type: "item"
 				item: "extendedcrafting:crystaltine_component"
 			}]
+			rewards: [{
+				id: "0EBEF6DFCC87EA04"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
@@ -276,6 +454,15 @@
 				id: "4EA8577A3DAF60CF"
 				type: "item"
 				item: "extendedcrafting:crystaltine_catalyst"
+			}]
+			rewards: [{
+				id: "0A54E496361414E9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -332,6 +519,15 @@
 					count: 5L
 				}
 			]
+			rewards: [{
+				id: "58E7CC828D4A5275"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			title: "Nebula Extractor Tier 4 - Part 2"
@@ -408,6 +604,15 @@
 					count: 16L
 				}
 			]
+			rewards: [{
+				id: "758CF7BD94538CDC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
@@ -424,6 +629,15 @@
 				type: "item"
 				item: "chroma:eternal_cryostella_polaris"
 			}]
+			rewards: [{
+				id: "1D8B5F90A88308F8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 12.5d
@@ -434,6 +648,15 @@
 				id: "45D0B93138D1D168"
 				type: "item"
 				item: "chroma:enriched_eternal_cryostella_polaris"
+			}]
+			rewards: [{
+				id: "4062C505EFFBA302"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -448,6 +671,15 @@
 				type: "item"
 				item: "mekaevolution:infinite_control_circuit"
 			}]
+			rewards: [{
+				id: "2A5A02DBB674B614"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 12.0d
@@ -460,6 +692,15 @@
 				id: "6B233502713B8164"
 				type: "item"
 				item: "chroma:infinite_alloy"
+			}]
+			rewards: [{
+				id: "1A46824DB159F4DC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -475,6 +716,15 @@
 				id: "7E5C954404D8C6B9"
 				type: "item"
 				item: "solarpanels:photonic_energy_tablet"
+			}]
+			rewards: [{
+				id: "5AFC8CE5E5C5E60D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -527,6 +777,15 @@
 					count: 123L
 				}
 			]
+			rewards: [{
+				id: "28C393E5BAB56ACB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.0d
@@ -540,6 +799,15 @@
 				type: "item"
 				item: "mekanism:pellet_antimatter"
 			}]
+			rewards: [{
+				id: "1F339C12D3C4FDD1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.0d
@@ -551,6 +819,15 @@
 				id: "56A35BF436B5EA82"
 				type: "item"
 				item: "mekaevolution:infinite_energy_cube"
+			}]
+			rewards: [{
+				id: "5376372BF3601052"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -564,6 +841,15 @@
 				id: "02A106DF99E7EE04"
 				type: "item"
 				item: "mekanism:antiprotonic_nucleosynthesizer"
+			}]
+			rewards: [{
+				id: "7469F54D5067F32E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -639,6 +925,15 @@
 					item: "draconicevolution:energy_pylon"
 				}
 			]
+			rewards: [{
+				id: "71094ECE1E141D01"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
@@ -651,6 +946,15 @@
 				id: "20E578DC55FFE004"
 				type: "item"
 				item: "draconicevolution:awakened_draconium_block"
+			}]
+			rewards: [{
+				id: "0F29AC1D1EB588C7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -727,6 +1031,15 @@
 					count: 9L
 				}
 			]
+			rewards: [{
+				id: "6430006718FAA04A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
@@ -743,6 +1056,15 @@
 				type: "item"
 				item: "draconicevolution:awakened_crafting_injector"
 			}]
+			rewards: [{
+				id: "4D499F7023A8F169"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.0d
@@ -755,6 +1077,15 @@
 				id: "441CFD6237817D23"
 				type: "item"
 				item: "draconicevolution:awakened_core"
+			}]
+			rewards: [{
+				id: "15AF7CB16D01A1F5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -769,6 +1100,15 @@
 				type: "item"
 				item: "draconicevolution:draconic_energy_core"
 			}]
+			rewards: [{
+				id: "4A665FE4949199E5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.0d
@@ -780,6 +1120,15 @@
 				id: "47D5068DF7E7238F"
 				type: "item"
 				item: "draconicevolution:chaos_shard"
+			}]
+			rewards: [{
+				id: "3369D324838BE53C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -803,6 +1152,15 @@
 				entity: "draconicevolution:draconic_guardian"
 				value: 1L
 			}]
+			rewards: [{
+				id: "68A0E1A9B6C1F806"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
@@ -816,6 +1174,15 @@
 				type: "item"
 				item: "draconicevolution:chaotic_core"
 			}]
+			rewards: [{
+				id: "40584C3D45931DEA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
@@ -828,6 +1195,15 @@
 				id: "7CBB46F857AEAC1C"
 				type: "item"
 				item: "draconicevolution:chaotic_crafting_injector"
+			}]
+			rewards: [{
+				id: "79AA3533F41EC554"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -848,6 +1224,15 @@
 							id: "hostilenetworks:draconic_guardian"
 						}
 					}
+				}
+			}]
+			rewards: [{
+				id: "22EB1904AC8013EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -872,6 +1257,15 @@
 				}
 				match_nbt: true
 			}]
+			rewards: [{
+				id: "4B5E48FC6F53E86F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 12.0d
@@ -884,6 +1278,15 @@
 				id: "5C9806673E9318E9"
 				type: "item"
 				item: "draconicevolution:small_chaos_frag"
+			}]
+			rewards: [{
+				id: "524422D40EFE9093"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -898,6 +1301,15 @@
 				type: "item"
 				item: "draconicadditions:chaos_heart"
 			}]
+			rewards: [{
+				id: "2532424F0A106D0B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 19.5d
@@ -910,6 +1322,15 @@
 				id: "128B68F8EB9137A2"
 				type: "item"
 				item: "draconicevolution:chaotic_energy_core"
+			}]
+			rewards: [{
+				id: "2D43E061F58CCCD3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -924,6 +1345,15 @@
 				type: "item"
 				item: "chemlib:bismuth"
 			}]
+			rewards: [{
+				id: "2C56E8C1B4734105"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
@@ -936,6 +1366,15 @@
 				type: "item"
 				item: "chemlib:bismuth_dust"
 			}]
+			rewards: [{
+				id: "4CBFC242A4A77E7A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.0d
@@ -947,6 +1386,15 @@
 				id: "47545B8673D0E2A5"
 				type: "item"
 				item: "chemlib:bismuth_ingot"
+			}]
+			rewards: [{
+				id: "64B44E4B28170896"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 	]

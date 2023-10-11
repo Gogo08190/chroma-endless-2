@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 13
 	filename: "mana_and_artifice"
-	title: "Mana And Artifice"
+	title: "{chapter.mana.title}"
 	icon: "mna:guide_book"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -11,7 +11,8 @@
 		{
 			x: -6.5d
 			y: -2.5d
-			description: ["This will be one of your most important item. It contains all the knowledge you need to start!"]
+			subtitle: "{chapter.mana.quest.1.subtitle.1}"
+			description: ["{chapter.mana.quest.1.description.1}"]
 			dependencies: ["48A13293AFC0DB85"]
 			id: "1208D37DB2DD19C6"
 			tasks: [{
@@ -19,12 +20,22 @@
 				type: "item"
 				item: "mna:guide_book"
 			}]
+			rewards: [{
+				id: "2B25A842DED89F41"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.mana.quest.2.title}"
 			x: -6.5d
 			y: -0.5d
-			subtitle: "Read the Codex Arcana"
-			description: ["Once you start reading it, knowledge may flow into you. And maybe some magic too?"]
+			subtitle: "{chapter.mana.quest.2.subtitle.1}"
+			description: ["{chapter.mana.quest.2.description.1}"]
 			dependencies: ["1208D37DB2DD19C6"]
 			id: "561797A04C42F6D5"
 			tasks: [{
@@ -33,11 +44,21 @@
 				advancement: "mna:tier_0/codex_trade"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "36C2C58F7010752E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.5d
 			y: -0.5d
-			description: ["Vinteum is a very important ore, it may be used for many crafts!"]
+			subtitle: "{chapter.mana.quest.3.subtitle.1}"
+			description: ["{chapter.mana.quest.3.description.1}"]
 			dependencies: ["561797A04C42F6D5"]
 			id: "652F1D9D38D36656"
 			tasks: [{
@@ -45,14 +66,24 @@
 				type: "item"
 				item: "mna:vinteum_ore"
 			}]
+			rewards: [{
+				id: "48D0FD38D88A8BA6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -10.5d
 			y: 0.5d
+			subtitle: "{chapter.mana.quest.4.subtitle.1}"
 			description: [
-				"Refer to the Codex Arcana. (You should be level 5 in magic)"
+				"{chapter.mana.quest.4.description.1}"
 				""
-				"Your level is displayed bellow your mana bar."
+				"{chapter.mana.quest.4.description.2}"
 			]
 			dependencies: ["652F1D9D38D36656"]
 			id: "661E2C2883D1E853"
@@ -61,12 +92,21 @@
 				type: "item"
 				item: "mna:chimerite_gem"
 			}]
+			rewards: [{
+				id: "1AD73B88DA36EF53"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -12.5d
 			y: 0.5d
-			subtitle: "Mana Regen"
-			description: ["Stand close to it will boost your mana regenaration!"]
+			subtitle: "{chapter.mana.quest.5.subtitle.1}"
+			description: ["{chapter.mana.quest.5.description.1}"]
 			dependencies: ["661E2C2883D1E853"]
 			id: "588EAF2A021236DA"
 			tasks: [{
@@ -74,11 +114,21 @@
 				type: "item"
 				item: "mna:mana_crystal"
 			}]
+			rewards: [{
+				id: "4C6EF7C231F69CC5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -10.5d
 			y: 2.5d
-			description: ["Or at least unlimited durability..."]
+			subtitle: "{chapter.mana.quest.7.subtitle.1}"
+			description: ["{chapter.mana.quest.7.description.1}"]
 			dependencies: ["661E2C2883D1E853"]
 			id: "52AC3F51B1637D78"
 			tasks: [{
@@ -86,12 +136,21 @@
 				type: "item"
 				item: "mna:manaweaver_wand_advanced"
 			}]
+			rewards: [{
+				id: "695E7E6D2AF69BE8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -12.0d
 			y: 2.0d
-			subtitle: "Rune Forger"
-			description: ["Used mostly to create runes. But can be useful for other things. Refer to the Codex Arcana."]
+			subtitle: "{chapter.mana.quest.6.subtitle.1}"
+			description: ["{chapter.mana.quest.6.description.1}"]
 			dependencies: ["661E2C2883D1E853"]
 			id: "7A1A809E6C19E16E"
 			tasks: [{
@@ -99,11 +158,21 @@
 				type: "item"
 				item: "mna:runic_anvil"
 			}]
+			rewards: [{
+				id: "2481CF9E29B1846B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.5d
 			y: 1.5d
-			description: ["This dust may be used to convert an iron ingot to a Vinteum ingot."]
+			subtitle: "{chapter.mana.quest.8.subtitle.1}"
+			description: ["{chapter.mana.quest.8.description.1}"]
 			dependencies: ["652F1D9D38D36656"]
 			id: "2802816252AF209D"
 			tasks: [{
@@ -111,11 +180,21 @@
 				type: "item"
 				item: "mna:vinteum_dust"
 			}]
+			rewards: [{
+				id: "5C64A8A9CBDD5D85"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.0d
 			y: 1.5d
-			description: ["Merge the newly crafted dust with an Iron Ingot."]
+			subtitle: "{chapter.mana.quest.9.subtitle.1}"
+			description: ["{chapter.mana.quest.9.description.1}"]
 			dependencies: ["2802816252AF209D"]
 			id: "002B81EE35EF4650"
 			tasks: [{
@@ -123,11 +202,21 @@
 				type: "item"
 				item: "mna:vinteum_coated_iron"
 			}]
+			rewards: [{
+				id: "1A40EB58A8E44714"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.5d
 			y: 1.5d
-			description: ["Smelt the Coated Ingot in a furnace."]
+			subtitle: "{chapter.mana.quest.10.subtitle.1}"
+			description: ["{chapter.mana.quest.10.description.1}"]
 			dependencies: ["002B81EE35EF4650"]
 			id: "6946B2C829CBB7BF"
 			tasks: [{
@@ -135,10 +224,20 @@
 				type: "item"
 				item: "mna:vinteum_ingot"
 			}]
+			rewards: [{
+				id: "3AB32CDD331D76F3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.5d
 			y: 3.0d
+			subtitle: "{chapter.mana.quest.11.subtitle.1}"
 			dependencies: ["6946B2C829CBB7BF"]
 			id: "3FD944271A609D62"
 			tasks: [{
@@ -146,11 +245,21 @@
 				type: "item"
 				item: "mna:superheated_vinteum_ingot"
 			}]
+			rewards: [{
+				id: "371E02565D6BD195"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.0d
 			y: 1.5d
-			description: ["Once you got Vinteum Ingot, you may want to craft a better wand. That wand is easy to craft and have a better durability!"]
+			subtitle: "{chapter.mana.quest.13.subtitle.1}"
+			description: ["{chapter.mana.quest.13.description.1}"]
 			dependencies: [
 				"6946B2C829CBB7BF"
 				"108C57CF2EEC246B"
@@ -167,11 +276,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "362AE2855D9D5469"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.0d
 			y: -0.5d
-			description: ["You must start somewhere with magic, why not craft a simple impprovised wand first?"]
+			subtitle: "{chapter.mana.quest.12.subtitle.1}"
+			description: ["{chapter.mana.quest.12.description.1}"]
 			dependencies: ["561797A04C42F6D5"]
 			id: "108C57CF2EEC246B"
 			tasks: [{
@@ -185,19 +304,28 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "32BD1BB0F272C4FC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: -0.5d
-			subtitle: "Your first spells"
+			subtitle: "{chapter.mana.quest.14.subtitle.1}"
 			description: [
-				"Cantrips are simple spells that you can cast with your wand."
+				"{chapter.mana.quest.14.description.1}"
 				""
-				"If you hold the control key and right click with the wand, you'll open a menu with all the cantrips you know."
+				"{chapter.mana.quest.14.description.2}"
 				""
-				"Each spell have a pattern. The pattern must be reproduced in the air with the wand. For that, simply hold right click and do the pattern related to the spell you want to cast."
+				"{chapter.mana.quest.14.description.3}"
 				""
-				"If you don't want to draw the patterns you can also use the raidal menu. For that look at your options and look for Mana and Artifice keybinds."
+				"{chapter.mana.quest.14.description.4}"
 			]
 			dependencies: ["108C57CF2EEC246B"]
 			min_width: 300
@@ -207,12 +335,21 @@
 				type: "checkmark"
 				title: "Cantrips"
 			}]
+			rewards: [{
+				id: "6198071E6AF9437A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.5d
 			y: -2.5d
-			subtitle: "Transmute Stone to Arcane Stone"
-			description: ["Use the spell transmute to transform Stone to Arcane Stone."]
+			subtitle: "{chapter.mana.quest.15.subtitle.1}"
+			description: ["{chapter.mana.quest.15.description.1}"]
 			dependencies: ["3DFA66287E77B9CB"]
 			id: "67505A323D912102"
 			tasks: [{
@@ -220,12 +357,21 @@
 				type: "item"
 				item: "mna:decoration/arcane_stone"
 			}]
+			rewards: [{
+				id: "17658A28CD1B89EA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.5d
 			y: -2.5d
-			subtitle: "Transmute Sandstone to Arcane Sandstone"
-			description: ["Use the spell transmute to transform Sandstone to Arcane Sandstone"]
+			subtitle: "{chapter.mana.quest.16.subtitle.1}"
+			description: ["{chapter.mana.quest.16.description.1}"]
 			dependencies: ["3DFA66287E77B9CB"]
 			id: "2E46E21C0BAF0C1E"
 			tasks: [{
@@ -233,16 +379,26 @@
 				type: "item"
 				item: "mna:decoration/arcane_sandstone"
 			}]
+			rewards: [{
+				id: "5CE11E5BB63EFF82"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: -4.5d
+			subtitle: "{chapter.mana.quest.17.subtitle.1}"
 			description: [
-				"With this altar you can craft many things. "
+				"{chapter.mana.quest.17.description.1}"
 				""
-				"Crafts need items of course, but also may need you to draw some shapes with you wand!"
+				"{chapter.mana.quest.17.description.2}"
 				""
-				"For all the crafts possible, you should refer to the occulus. There is a tab with all possibilities for your current tier."
+				"{chapter.mana.quest.17.description.3}"
 			]
 			dependencies: [
 				"67505A323D912102"
@@ -255,12 +411,21 @@
 				type: "item"
 				item: "mna:manaweaving_altar"
 			}]
+			rewards: [{
+				id: "2FBEA792456A2C8F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
 			y: -4.5d
-			subtitle: "Path to automation"
-			description: ["Use it near the altar, to not have to draw again!"]
+			subtitle: "{chapter.mana.quest.18.subtitle.1}"
+			description: ["{chapter.mana.quest.18.description.1}"]
 			dependencies: ["35716C3A5960CC71"]
 			id: "776D4019800B0225"
 			tasks: [{
@@ -268,11 +433,21 @@
 				type: "item"
 				item: "mna:manaweave_projector"
 			}]
+			rewards: [{
+				id: "6F50BC6F8467F9D9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
 			y: -4.5d
-			description: ["Use one pattern on a projector. And then use the projector to \"project\" the pattern on your altar."]
+			subtitle: "{chapter.mana.quest.19.subtitle.1}"
+			description: ["{chapter.mana.quest.19.description.1}"]
 			dependencies: ["776D4019800B0225"]
 			id: "0614CF89B18DEC6D"
 			tasks: [{
@@ -286,11 +461,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "42155F975C307797"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: -7.0d
-			description: ["You can infuse your mana inside it. But why? You should read the Codex Arcana."]
+			subtitle: "{chapter.mana.quest.21.subtitle.1}"
+			description: ["{chapter.mana.quest.21.description.1}"]
 			dependencies: ["35716C3A5960CC71"]
 			id: "5951E21CD7465019"
 			tasks: [{
@@ -304,11 +489,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "68F6DBA9F91F58FD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
 			y: -7.0d
-			description: ["Want to go through a wall? Use this, it will temporary create a way."]
+			subtitle: "{chapter.mana.quest.20.subtitle.1}"
+			description: ["{chapter.mana.quest.20.description.1}"]
 			dependencies: ["35716C3A5960CC71"]
 			id: "4CBE936CABAF2A67"
 			tasks: [{
@@ -316,12 +511,21 @@
 				type: "item"
 				item: "mna:transitory_tunnel"
 			}]
+			rewards: [{
+				id: "13FC5E1E3804C25A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Mage Hoddies"
+			title: "{chapter.mana.quest.22.title}"
 			x: -3.0d
 			y: -7.0d
-			description: ["Become a real mage!"]
+			subtitle: "{chapter.mana.quest.22.subtitle.1}"
 			dependencies: ["35716C3A5960CC71"]
 			id: "2E1804E442EAAD9A"
 			tasks: [
@@ -370,11 +574,21 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "16B7826BE2B573DB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.5d
 			y: -6.0d
-			description: ["I think you should try to swim in lava."]
+			subtitle: "{chapter.mana.quest.23.subtitle.1}"
+			description: ["{chapter.mana.quest.23.description.1}"]
 			dependencies: ["35716C3A5960CC71"]
 			id: "2B8DF826F6FB3AE7"
 			tasks: [{
@@ -388,11 +602,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "34B2CB26CA5C3088"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.5d
 			y: -5.0d
-			description: ["When you are too far from your house, use this item."]
+			subtitle: "{chapter.mana.quest.25.subtitle.1}"
+			description: ["{chapter.mana.quest.25.description.1}"]
 			dependencies: ["35716C3A5960CC71"]
 			id: "07CA05C13181F735"
 			tasks: [{
@@ -406,11 +630,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "30B327E33C2C5F1C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.5d
 			y: -5.0d
-			description: ["You should fall from very high with it equipped."]
+			subtitle: "{chapter.mana.quest.26.subtitle.1}"
+			description: ["{chapter.mana.quest.26.description.1}"]
 			dependencies: ["35716C3A5960CC71"]
 			id: "4F5C44ACBB29DE3B"
 			tasks: [{
@@ -424,11 +658,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "7A2328DD9F099A74"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.5d
 			y: -6.0d
-			description: ["If you need some fresh air, under water..."]
+			subtitle: "{chapter.mana.quest.24.subtitle.1}"
+			description: ["{chapter.mana.quest.24.description.1}"]
 			dependencies: ["35716C3A5960CC71"]
 			id: "42096C510BDD51FA"
 			tasks: [{
@@ -442,12 +686,22 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "25D06A306FD7FB91"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
 			y: -0.5d
 			shape: "diamond"
-			description: ["Glyphs are useful crafting elements, that can be used in Manaweaving Altar or in Rituals."]
+			subtitle: "{chapter.mana.quest.27.subtitle.1}"
+			description: ["{chapter.mana.quest.27.description.1}"]
 			dependencies: ["3DFA66287E77B9CB"]
 			id: "495F6ECD785C7CCA"
 			tasks: [{
@@ -455,6 +709,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_blank"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "05F72F7916B30286"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -475,6 +738,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "77B8643ECA8729CD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.5d
@@ -487,6 +759,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_blue"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "10A8AD7A16B47300"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -507,6 +788,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "26C3EE121683164B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -519,6 +809,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_cyan"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "3F0CDBF372898611"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -539,6 +838,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "0300B066AAB82CDE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -551,6 +859,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_green"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "543CE796A0883898"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -571,6 +888,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "3D61F1DB5F3A11E4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
@@ -583,6 +909,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_light_gray"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "7FC3BE20B34BB2D6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -603,6 +938,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "206B0E78B6099C07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -615,6 +959,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_magenta"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "23DAA3E3824EEF20"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -635,6 +988,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "4E4B3649B758A4E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.0d
@@ -647,6 +1009,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_pink"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "3592ABD7CCF0160D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -667,6 +1038,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "673CB86663362D9B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
@@ -679,6 +1059,15 @@
 				type: "item"
 				item: {
 					id: "mna:stone_rune_red"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "1CD30AC44E4DB84E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
 					Count: 1
 					tag: { }
 				}
@@ -699,6 +1088,15 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "199085072557E6AE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -715,15 +1113,24 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "2A640AF52C926986"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: 3.0d
-			subtitle: "Transmute Copper to Transmuted Silver!"
+			subtitle: "{chapter.mana.quest.28.subtitle.1}"
 			description: [
-				"With your newly acquired wand, you can cast a very important spell for the next step. That spell is called \"Transmute\""
+				"{chapter.mana.quest.28.description.1}"
 				""
-				"Place a copper block on the floor (Don't drop it, place it), and use the \"Transmute\" spell. Be aware of the pattern if you want to be successful in casting it!"
+				"{chapter.mana.quest.28.description.2}"
 			]
 			dependencies: ["3DFA66287E77B9CB"]
 			id: "55373D07F2198568"
@@ -732,11 +1139,21 @@
 				type: "item"
 				item: "mna:transmuted_silver"
 			}]
+			rewards: [{
+				id: "302C45C8932104DF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
 			y: 3.0d
-			description: ["Runforge is useful for making Bone Ash. But it also act like a furnace (a slow one, but it's free)."]
+			subtitle: "{chapter.mana.quest.43.subtitle.1}"
+			description: ["{chapter.mana.quest.43.description.1}"]
 			dependencies: [
 				"495F6ECD785C7CCA"
 				"55373D07F2198568"
@@ -747,15 +1164,24 @@
 				type: "item"
 				item: "mna:runeforge"
 			}]
+			rewards: [{
+				id: "190380B5D6307A33"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
 			y: 4.5d
-			subtitle: "Upgrade your Runeforge"
+			subtitle: "{chapter.mana.quest.44.subtitle.1}"
 			description: [
-				"Right-clicking with the Brimstone Charm on a Runeform will allow you to enhance it."
+				"{chapter.mana.quest.44.description.1}"
 				""
-				"Runeforge speeds up the transformation of items."
+				"{chapter.mana.quest.44.description.2}"
 			]
 			dependencies: ["7B55E09E0F3FA9EC"]
 			id: "2269804DA7336A90"
@@ -764,11 +1190,20 @@
 				type: "item"
 				item: "mna:brimstone_charm"
 			}]
+			rewards: [{
+				id: "65DF5E337CF9BD6D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 2.0d
-			subtitle: "The base for rituals"
+			subtitle: "{chapter.mana.quest.45.subtitle.1}"
 			dependencies: ["7B55E09E0F3FA9EC"]
 			id: "3E788AC264AA8CD9"
 			tasks: [{
@@ -776,11 +1211,20 @@
 				type: "item"
 				item: "mna:bone_ash"
 			}]
+			rewards: [{
+				id: "7017AC3EC10B70BB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 3.5d
-			description: ["You'll need that for Arcane Ash."]
+			subtitle: "{chapter.mana.quest.46.subtitle.1}"
 			dependencies: ["3E788AC264AA8CD9"]
 			id: "1B276582A6641C98"
 			tasks: [{
@@ -788,11 +1232,21 @@
 				type: "item"
 				item: "mna:arcane_compound"
 			}]
+			rewards: [{
+				id: "6F458E5770115BDF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 5.0d
-			description: ["To get that, you must burn some Arcane Coumpound in your Runeforge"]
+			subtitle: "{chapter.mana.quest.47.subtitle.1}"
+			description: ["{chapter.mana.quest.47.description.1}"]
 			dependencies: ["1B276582A6641C98"]
 			id: "5F065D88968070F8"
 			tasks: [{
@@ -800,10 +1254,20 @@
 				type: "item"
 				item: "mna:arcane_ash"
 			}]
+			rewards: [{
+				id: "59F168B430E83499"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 7.0d
+			subtitle: "{chapter.mana.quest.49.subtitle.1}"
 			dependencies: ["6B54E72345B714F4"]
 			id: "53BF250123754C46"
 			tasks: [{
@@ -817,14 +1281,24 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "234FAABFC5B3139A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
 			y: 7.0d
+			subtitle: "{chapter.mana.quest.48.subtitle.1}"
 			description: [
-				"The inscription table will be used to make spells."
+				"{chapter.mana.quest.48.description.1}"
 				""
-				"You'll need, Velum, Arcane Ash and Arcanist's Ink. Let's craft that last one."
+				"{chapter.mana.quest.48.description.2}"
 			]
 			dependencies: ["5F065D88968070F8"]
 			id: "6B54E72345B714F4"
@@ -833,11 +1307,21 @@
 				type: "item"
 				item: "mna:inscription_table"
 			}]
+			rewards: [{
+				id: "5E8F0D8439AFDD0C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: 7.0d
-			description: ["This is an item needed in many crafts. And it can look good in your room isn't it?"]
+			subtitle: "{chapter.mana.quest.31.subtitle.1}"
+			description: ["{chapter.mana.quest.31.description.1}"]
 			dependencies: ["55373D07F2198568"]
 			id: "421AF2B671AA07B1"
 			tasks: [{
@@ -845,11 +1329,21 @@
 				type: "item"
 				item: "mna:basic_table"
 			}]
+			rewards: [{
+				id: "3B24E9D9B752ACBC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.0d
 			y: 5.0d
-			description: ["Okay, that one is only useful to craft the Occulus. But it looks way better than the other one!"]
+			subtitle: "{chapter.mana.quest.30.subtitle.1}"
+			description: ["{chapter.mana.quest.30.description.1}"]
 			dependencies: ["421AF2B671AA07B1"]
 			id: "399958B386EFFE4E"
 			tasks: [{
@@ -857,16 +1351,25 @@
 				type: "item"
 				item: "mna:ornate_table"
 			}]
+			rewards: [{
+				id: "7BBB19524575D64F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.5d
 			y: 5.0d
 			shape: "octagon"
-			subtitle: "The progression"
+			subtitle: "{chapter.mana.quest.29.subtitle.1}"
 			description: [
-				"The occulus is a very useful item. Once you have placed it you can right click."
+				"{chapter.mana.quest.29.description.1}"
 				""
-				"You'll open an UI with many tabs on it. The first one is very important. It displays what you need to do in order to get a better mage."
+				"{chapter.mana.quest.29.description.2}"
 			]
 			dependencies: [
 				"2802816252AF209D"
@@ -879,6 +1382,15 @@
 				type: "item"
 				item: "mna:occulus"
 			}]
+			rewards: [{
+				id: "1BB94FF52744AD1D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -889,6 +1401,15 @@
 				id: "6B2C015046D8BB63"
 				type: "item"
 				item: "mna:ritual_focus_minor"
+			}]
+			rewards: [{
+				id: "7D5F79658AE769A6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -901,6 +1422,15 @@
 				type: "item"
 				item: "mna:ritual_focus_lesser"
 			}]
+			rewards: [{
+				id: "3FC2DEB2C446DA30"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -912,14 +1442,24 @@
 				type: "item"
 				item: "mna:ritual_focus_greater"
 			}]
+			rewards: [{
+				id: "3348F60DFC676580"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.0d
 			y: 7.0d
+			subtitle: "{chapter.mana.quest.32.subtitle.1}"
 			description: [
-				"You can use it to generate wellspring energy."
+				"{chapter.mana.quest.32.description.1}"
 				""
-				"You can see in the occulus how much energy you have."
+				"{chapter.mana.quest.32.description.2}"
 			]
 			dependencies: ["421AF2B671AA07B1"]
 			id: "0AA25F320B597F75"
@@ -928,14 +1468,24 @@
 				type: "item"
 				item: "mna:eldrin_fume"
 			}]
+			rewards: [{
+				id: "4C8BD2DF6B6CE657"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.0d
 			y: 7.0d
+			subtitle: "{chapter.mana.quest.33.subtitle.1}"
 			description: [
-				"Those are used to spend you Wellspring energy. It will extract the energy from your \"network\" and send it to machines that needs it. (Example: Disenchanter)"
+				"{chapter.mana.quest.33.description.1}"
 				""
-				"Be careful, if the conduits are too close from each other, they will not work."
+				"{chapter.mana.quest.33.description.2}"
 			]
 			dependencies: ["0AA25F320B597F75"]
 			id: "075774E4532B5135"
@@ -976,12 +1526,22 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "109FEA543FD9381F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			title: "Eldrin Conduit"
 			x: -10.0d
 			y: 7.0d
-			description: ["Those are better version on the conduit. And they don't nullify each other if too close."]
+			subtitle: "{chapter.mana.quest.34.subtitle.1}"
+			description: ["{chapter.mana.quest.34.description.1}"]
 			dependencies: ["075774E4532B5135"]
 			id: "5761E856CCCE4602"
 			tasks: [{
@@ -1020,15 +1580,24 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "47B5F9B8BB823E99"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.5d
 			y: 8.5d
-			subtitle: "Workbench for Magicians"
+			subtitle: "{chapter.mana.quest.35.subtitle.1}"
 			description: [
-				"This is a better version of the workbench."
+				"{chapter.mana.quest.35.description.1}"
 				""
-				"It has an inventory. It can also remember recipes."
+				"{chapter.mana.quest.35.description.2}"
 			]
 			dependencies: ["421AF2B671AA07B1"]
 			id: "49F39FF95095D94C"
@@ -1037,12 +1606,21 @@
 				type: "item"
 				item: "mna:magicians_workbench"
 			}]
+			rewards: [{
+				id: "57F3192B347A817A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -6.0d
 			y: 9.5d
-			subtitle: "Modify your spell affinity"
-			description: ["Refer to the Codex Acarna."]
+			subtitle: "{chapter.mana.quest.36.subtitle.1}"
+			description: ["{chapter.mana.quest.36.description.1}"]
 			dependencies: ["421AF2B671AA07B1"]
 			id: "1A6B3A8ADFFA2B00"
 			tasks: [{
@@ -1050,15 +1628,24 @@
 				type: "item"
 				item: "mna:affinity_tinker"
 			}]
+			rewards: [{
+				id: "5FA9E62122BAF1BB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.5d
 			y: 10.5d
-			subtitle: "Copy Spells"
+			subtitle: "{chapter.mana.quest.38.subtitle.1}"
 			description: [
-				"With a book of rote and a rote spell (To have a spell rote, you must use the spell many times), ink, lapis and a receptacle for the spell you can copy the spell."
+				"{chapter.mana.quest.38.description.1}"
 				""
-				"You'll also need wellspring energy and a conduit."
+				"{chapter.mana.quest.38.description.2}"
 			]
 			dependencies: ["421AF2B671AA07B1"]
 			id: "258D0AB6AD51ED25"
@@ -1067,15 +1654,24 @@
 				type: "item"
 				item: "mna:spell_infusion"
 			}]
+			rewards: [{
+				id: "51C5A8DE6EE05B3F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.0d
 			y: 9.5d
-			subtitle: "Disenchant items!"
+			subtitle: "{chapter.mana.quest.37.subtitle.1}"
 			description: [
-				"You'll need Wellsprint Energy, a projection rune and an enchanted item."
+				"{chapter.mana.quest.37.description.1}"
 				""
-				"Refer to the codex arcana."
+				"{chapter.mana.quest.37.description.2}"
 			]
 			dependencies: ["421AF2B671AA07B1"]
 			id: "5171CCFC2F5E98EC"
@@ -1084,11 +1680,20 @@
 				type: "item"
 				item: "mna:disenchanter"
 			}]
+			rewards: [{
+				id: "4149810A94A9A0A1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.5d
 			y: 10.5d
-			subtitle: "Time to study"
+			subtitle: "{chapter.mana.quest.39.subtitle.1}"
 			dependencies: ["421AF2B671AA07B1"]
 			id: "61CE68B6AE291D52"
 			tasks: [{
@@ -1096,17 +1701,36 @@
 				type: "item"
 				item: "mna:study_desk"
 			}]
+			rewards: [{
+				id: "659FF99110296B37"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: 9.0d
-			description: ["The Runescribing Table is used to craft various Rune Patterns using a Runesmith's Hammer and Runesmith's Chisel."]
+			subtitle: "{chapter.mana.quest.40.subtitle.1}"
+			description: ["{chapter.mana.quest.40.description.1}"]
 			dependencies: ["421AF2B671AA07B1"]
 			id: "4260D03CE17E62F4"
 			tasks: [{
 				id: "0C9873169DF5290D"
 				type: "item"
 				item: "mna:runescribing_table"
+			}]
+			rewards: [{
+				id: "41933C416EF2A10B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1123,6 +1747,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "1940790339EC3766"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -1142,11 +1775,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1E507CC7DADA70DF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: 11.0d
-			description: ["Burn it in a Runeforge!"]
+			subtitle: "{chapter.mana.quest.41.subtitle.1}"
+			description: ["{chapter.mana.quest.41.description.1}"]
 			dependencies: ["4260D03CE17E62F4"]
 			id: "14E0C8F635EAA575"
 			tasks: [{
@@ -1154,19 +1797,37 @@
 				type: "item"
 				item: "mna:rune_clay_plate"
 			}]
+			rewards: [{
+				id: "0A7E2B8B34804C02"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: 12.5d
 			shape: "diamond"
-			subtitle: "The base for all runes!"
-			description: ["To create a rune you must draw it. By clicking on each line. You can remove a line by Shift + Click on it (You must have some clay in your table)"]
+			subtitle: "{chapter.mana.quest.42.subtitle.1}"
+			description: ["{chapter.mana.quest.42.description.1}"]
 			dependencies: ["14E0C8F635EAA575"]
 			id: "56360A05567CE0C2"
 			tasks: [{
 				id: "023E52A6B2B4539C"
 				type: "item"
 				item: "mna:rune_pattern"
+			}]
+			rewards: [{
+				id: "0A6595CB436E6840"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1180,6 +1841,15 @@
 				type: "item"
 				item: "mna:rune_pattern_ritual_metal"
 			}]
+			rewards: [{
+				id: "6E1A4D8F04D3C9F5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
@@ -1191,6 +1861,15 @@
 				id: "1042D59C2C110D36"
 				type: "item"
 				item: "mna:rune_pattern_defense"
+			}]
+			rewards: [{
+				id: "26526B50B24B6F70"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1204,6 +1883,15 @@
 				type: "item"
 				item: "mna:rune_pattern_aura"
 			}]
+			rewards: [{
+				id: "2124C8398C139E08"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
@@ -1215,6 +1903,15 @@
 				id: "323F9E8063A38FAB"
 				type: "item"
 				item: "mna:rune_pattern_projection"
+			}]
+			rewards: [{
+				id: "23CFD148990B7F9D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1228,6 +1925,15 @@
 				type: "item"
 				item: "mna:rune_pattern_marking"
 			}]
+			rewards: [{
+				id: "19FAD0BA53F9C657"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -0.5d
@@ -1239,6 +1945,15 @@
 				id: "2A368C33F3BF8394"
 				type: "item"
 				item: "mna:rune_pattern_air"
+			}]
+			rewards: [{
+				id: "692A94D65622AD40"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1252,6 +1967,15 @@
 				type: "item"
 				item: "mna:rune_pattern_earth"
 			}]
+			rewards: [{
+				id: "6A0EF411F6C982EB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.5d
@@ -1263,6 +1987,15 @@
 				id: "2D3CCC9C1E9ECE40"
 				type: "item"
 				item: "mna:rune_pattern_water"
+			}]
+			rewards: [{
+				id: "78058C63D098FD4D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1276,6 +2009,15 @@
 				type: "item"
 				item: "mna:rune_pattern_fire"
 			}]
+			rewards: [{
+				id: "063925ADA59C121E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.5d
@@ -1287,6 +2029,15 @@
 				id: "2B8C39225CE0F431"
 				type: "item"
 				item: "mna:rune_pattern_arcane"
+			}]
+			rewards: [{
+				id: "6540AE4AA3B20C9C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1300,11 +2051,21 @@
 				type: "item"
 				item: "mna:rune_pattern_ender"
 			}]
+			rewards: [{
+				id: "4C42956E0DB1DAF6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 8.5d
-			description: ["But how? Simple! You have two possibilities. For one vellum right click on a water source block with a leather in your hand. For two, right click on a cauldron with leather (Don't forget the water in it)"]
+			subtitle: "{chapter.mana.quest.51.subtitle.1}"
+			description: ["{chapter.mana.quest.51.description.1}"]
 			dependencies: ["6B54E72345B714F4"]
 			id: "02AFDB73A6664111"
 			tasks: [{
@@ -1312,10 +2073,20 @@
 				type: "item"
 				item: "mna:vellum"
 			}]
+			rewards: [{
+				id: "3D8334413702D97F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
 			y: 8.5d
+			subtitle: "{chapter.mana.quest.52.subtitle.1}"
 			dependencies: [
 				"02AFDB73A6664111"
 				"53BF250123754C46"
@@ -1326,11 +2097,21 @@
 				type: "item"
 				item: "mna:enchanted_vellum"
 			}]
+			rewards: [{
+				id: "495575FDA0DF2BD0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
 			y: 8.5d
 			shape: "hexagon"
+			subtitle: "{chapter.mana.quest.53.subtitle.1}"
 			dependencies: [
 				"2FEE2479C9F0A147"
 				"05B10A9AF24EF0FF"
@@ -1346,17 +2127,26 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "2CBD9242BD4C87A9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
 			y: 7.0d
-			subtitle: "Rituals: Activation Item"
+			subtitle: "{chapter.mana.quest.50.subtitle.1}"
 			description: [
-				"To activate the rituals, you must use that."
+				"{chapter.mana.quest.50.description.1}"
 				""
-				"Right click one time to see where the items must be placed, and a second time to activate the ritual."
+				"{chapter.mana.quest.50.description.2}"
 				""
-				"Refer to the Codex Arcana for all the rituals."
+				"{chapter.mana.quest.50.description.3}"
 			]
 			dependencies: ["5F065D88968070F8"]
 			id: "2FEE2479C9F0A147"
@@ -1364,6 +2154,15 @@
 				id: "0B3C68C169FDDF4D"
 				type: "item"
 				item: "mna:purified_vinteum_dust"
+			}]
+			rewards: [{
+				id: "2E0BB9AD97681320"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1376,6 +2175,15 @@
 				type: "item"
 				item: "mna:purified_vinteum_coated_iron"
 			}]
+			rewards: [{
+				id: "675A64A64D20A1F8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
@@ -1386,6 +2194,15 @@
 				id: "460C70564560F900"
 				type: "item"
 				item: "mna:purified_vinteum_ingot"
+			}]
+			rewards: [{
+				id: "3E9BEF343CE7807A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1398,10 +2215,20 @@
 				type: "item"
 				item: "mna:superheated_purified_vinteum_ingot"
 			}]
+			rewards: [{
+				id: "23E6EF16C9BB3A08"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 10.5d
 			y: 8.5d
+			subtitle: "{chapter.mana.quest.54.subtitle.1}"
 			dependencies: ["6403473D9807A920"]
 			id: "4E705DC5F84A9970"
 			tasks: [{
@@ -1409,11 +2236,21 @@
 				type: "item"
 				item: "mna:spell_book"
 			}]
+			rewards: [{
+				id: "3A1D0649ACD9AA15"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
 			y: 2.0d
-			description: ["Chalk is used to draw pattern on the gorund. Yeah i know, it's obvious."]
+			subtitle: "{chapter.mana.quest.55.subtitle.1}"
+			description: ["{chapter.mana.quest.55.description.1}"]
 			dependencies: ["3E788AC264AA8CD9"]
 			id: "402EE775D322261B"
 			tasks: [{
@@ -1425,6 +2262,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "5A7CA17A962314C1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -1445,6 +2291,15 @@
 				type: "item"
 				item: "mna:practitioners_pouch"
 			}]
+			rewards: [{
+				id: "3A7C60FE28CBDCCF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
@@ -1462,6 +2317,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "6C298E9B1C88084B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
@@ -1472,6 +2336,15 @@
 				id: "5BABBBDC08F28FED"
 				type: "item"
 				item: "mna:patch_glyph"
+			}]
+			rewards: [{
+				id: "38CE2811E372D096"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1484,6 +2357,15 @@
 				type: "item"
 				item: "mna:patch_depth"
 			}]
+			rewards: [{
+				id: "7AE30E76ED06E202"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
@@ -1494,6 +2376,15 @@
 				id: "2FF5C10512FAB436"
 				type: "item"
 				item: "mna:patch_depth_2"
+			}]
+			rewards: [{
+				id: "030C8B92F7770B1A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1506,6 +2397,15 @@
 				type: "item"
 				item: "mna:patch_speed"
 			}]
+			rewards: [{
+				id: "394AF7A865EF3F8F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 10.5d
@@ -1516,6 +2416,15 @@
 				id: "11E2B862CB98CBD8"
 				type: "item"
 				item: "mna:patch_speed_2"
+			}]
+			rewards: [{
+				id: "6416033A6DE3DBBA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1528,6 +2437,15 @@
 				type: "item"
 				item: "mna:patch_speed_3"
 			}]
+			rewards: [{
+				id: "2DF5464F7F196F75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
@@ -1538,6 +2456,15 @@
 				id: "260801D55132EF12"
 				type: "item"
 				item: "mna:patch_mote"
+			}]
+			rewards: [{
+				id: "01D84CAE70BDCE22"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1550,11 +2477,20 @@
 				type: "item"
 				item: "mna:patch_collection"
 			}]
+			rewards: [{
+				id: "3769C539F89E8E4D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: 1.5d
-			subtitle: "Do the Ritual of Ancient Stone"
+			subtitle: "{chapter.mana.quest.58.subtitle.1}"
 			dependencies: ["402EE775D322261B"]
 			id: "5D67C3F98C0E4755"
 			tasks: [{
@@ -1562,11 +2498,20 @@
 				type: "item"
 				item: "mna:mote_earth"
 			}]
+			rewards: [{
+				id: "1609F231437627D8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: 2.5d
-			subtitle: "Do the Ritual of the Searing Inferno"
+			subtitle: "{chapter.mana.quest.59.subtitle.1}"
 			dependencies: ["402EE775D322261B"]
 			id: "0A041785C454BD7E"
 			tasks: [{
@@ -1574,11 +2519,20 @@
 				type: "item"
 				item: "mna:mote_fire"
 			}]
+			rewards: [{
+				id: "097E550A07C80E14"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: 0.5d
-			subtitle: "Do the Ritual of the Deep Ocean"
+			subtitle: "{chapter.mana.quest.57.subtitle.1}"
 			dependencies: ["402EE775D322261B"]
 			id: "5BEEFB00D852EBC7"
 			tasks: [{
@@ -1586,11 +2540,20 @@
 				type: "item"
 				item: "mna:mote_water"
 			}]
+			rewards: [{
+				id: "65B22AE687C3C6CF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: -0.5d
-			subtitle: "Do th Ritual of Forgotten Lore"
+			subtitle: "{chapter.mana.quest.56.subtitle.1}"
 			dependencies: ["402EE775D322261B"]
 			id: "00136A5E583621AA"
 			tasks: [{
@@ -1598,11 +2561,20 @@
 				type: "item"
 				item: "mna:mote_arcane"
 			}]
+			rewards: [{
+				id: "3C27A033E2F8637E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: 3.5d
-			subtitle: "Do the Ritual of the Enless Void"
+			subtitle: "{chapter.mana.quest.60.subtitle.1}"
 			dependencies: ["402EE775D322261B"]
 			id: "26468C54CFEA6878"
 			tasks: [{
@@ -1610,11 +2582,21 @@
 				type: "item"
 				item: "mna:mote_ender"
 			}]
+			rewards: [{
+				id: "3317AA6BFDB6976D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: -0.5d
-			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			subtitle: "{chapter.mana.quest.62.subtitle.1}"
+			description: ["{chapter.mana.quest.62.description.1}"]
 			dependencies: ["00136A5E583621AA"]
 			id: "16961BFB5E55D69F"
 			tasks: [{
@@ -1622,11 +2604,21 @@
 				type: "item"
 				item: "mna:greater_mote_arcane"
 			}]
+			rewards: [{
+				id: "14FAC39BE37C9504"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: 0.5d
-			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			subtitle: "{chapter.mana.quest.63.subtitle.1}"
+			description: ["{chapter.mana.quest.63.description.1}"]
 			dependencies: ["5BEEFB00D852EBC7"]
 			id: "377F8D51B417E27B"
 			tasks: [{
@@ -1634,11 +2626,21 @@
 				type: "item"
 				item: "mna:greater_mote_water"
 			}]
+			rewards: [{
+				id: "000CA8702DC0BDF9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: 1.5d
-			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			subtitle: "{chapter.mana.quest.64.subtitle.1}"
+			description: ["{chapter.mana.quest.64.description.1}"]
 			dependencies: ["5D67C3F98C0E4755"]
 			id: "64862833B08BF74B"
 			tasks: [{
@@ -1646,11 +2648,21 @@
 				type: "item"
 				item: "mna:greater_mote_earth"
 			}]
+			rewards: [{
+				id: "2A8B01C38359B0CB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: 2.5d
-			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			subtitle: "{chapter.mana.quest.65.subtitle.1}"
+			description: ["{chapter.mana.quest.65.description.1}"]
 			dependencies: ["0A041785C454BD7E"]
 			id: "077A67234CDCED66"
 			tasks: [{
@@ -1658,11 +2670,21 @@
 				type: "item"
 				item: "mna:greater_mote_fire"
 			}]
+			rewards: [{
+				id: "57F18E82C6504B77"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: 3.5d
-			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			subtitle: "{chapter.mana.quest.66.subtitle.1}"
+			description: ["{chapter.mana.quest.66.description.1}"]
 			dependencies: ["26468C54CFEA6878"]
 			id: "78A65C7D27258B93"
 			tasks: [{
@@ -1670,11 +2692,20 @@
 				type: "item"
 				item: "mna:greater_mote_ender"
 			}]
+			rewards: [{
+				id: "4BF8C169085CCE34"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: 4.5d
-			subtitle: "Do the Ritual of Untamed Wind"
+			subtitle: "{chapter.mana.quest.61.subtitle.1}"
 			dependencies: ["402EE775D322261B"]
 			id: "2C7D684EF66F8ECD"
 			tasks: [{
@@ -1682,11 +2713,21 @@
 				type: "item"
 				item: "mna:mote_air"
 			}]
+			rewards: [{
+				id: "2283181DC3538F3B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: 4.5d
-			description: ["When crafting use a upgraded conduit in order for the altar to work!"]
+			subtitle: "{chapter.mana.quest.67.subtitle.1}"
+			description: ["{chapter.mana.quest.67.description.1}"]
 			dependencies: ["2C7D684EF66F8ECD"]
 			id: "0E78547B59E584E8"
 			tasks: [{
@@ -1694,11 +2735,21 @@
 				type: "item"
 				item: "mna:greater_mote_air"
 			}]
+			rewards: [{
+				id: "0572D56F712C3D64"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 10.5d
-			description: ["Constructs are entities you can control to automate things. The station is used for that. Be aware you'll need a tier 2 item (Rune: Marking) to be able to use it properly."]
+			subtitle: "{chapter.mana.quest.68.subtitle.1}"
+			description: ["{chapter.mana.quest.68.description.1}"]
 			dependencies: ["02AFDB73A6664111"]
 			id: "0D72D6496B179064"
 			tasks: [{
@@ -1706,11 +2757,21 @@
 				type: "item"
 				item: "mna:delegation_station"
 			}]
+			rewards: [{
+				id: "7DD0D3DEB5637C69"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 13.5d
-			description: ["This is a better delagation station, with way more possibilities."]
+			subtitle: "{chapter.mana.quest.71.subtitle.1}"
+			description: ["{chapter.mana.quest.71.description.1}"]
 			dependencies: ["58F1BD875D9E849F"]
 			id: "22751881A67FD4CC"
 			tasks: [{
@@ -1718,12 +2779,21 @@
 				type: "item"
 				item: "mna:lodestar"
 			}]
+			rewards: [{
+				id: "08B4E23815B22F7C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
 			y: 12.0d
-			subtitle: "The next tier of automation"
-			description: ["With that, you can finally tell to the construct what to do! Refer to the Codex Arcana for more informations."]
+			subtitle: "{chapter.mana.quest.70.subtitle.1}"
+			description: ["{chapter.mana.quest.70.description.1}"]
 			dependencies: ["0D72D6496B179064"]
 			id: "58F1BD875D9E849F"
 			tasks: [{
@@ -1731,17 +2801,35 @@
 				type: "item"
 				item: "mna:rune_marking"
 			}]
+			rewards: [{
+				id: "607442200E799DE1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.0d
 			y: 12.0d
-			subtitle: "It's time for an upgrade!"
+			subtitle: "{chapter.mana.quest.69.subtitle.1}"
 			dependencies: ["0D72D6496B179064"]
 			id: "418398D2336E9DFD"
 			tasks: [{
 				id: "33D3423367861B85"
 				type: "item"
 				item: "mna:construct_workbench"
+			}]
+			rewards: [{
+				id: "319E47009277A470"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1754,16 +2842,25 @@
 				type: "item"
 				item: "mna:chimerite_crystal_black"
 			}]
+			rewards: [{
+				id: "4571F765B630B3D4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Construct"
+			title: "{chapter.mana.quest.72.title}"
 			x: 7.5d
 			y: 10.5d
-			subtitle: "A animated... thing?"
+			subtitle: "{chapter.mana.quest.72.subtitle.1}"
 			description: [
-				"Place a armor stand, and then on it place every items you have crafted for this quest."
+				"{chapter.mana.quest.72.description.1}"
 				""
-				"Then use the animus dust on it."
+				"{chapter.mana.quest.72.description.2}"
 			]
 			dependencies: ["0D72D6496B179064"]
 			id: "3E24C47344A9C37E"
@@ -1799,6 +2896,15 @@
 					item: "mna:constructs/construct_grabber_arm_left_wickerwood"
 				}
 			]
+			rewards: [{
+				id: "4E4866C74307ED5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
@@ -1810,15 +2916,24 @@
 				type: "item"
 				item: "mna:magic_broom"
 			}]
+			rewards: [{
+				id: "4226629118E68695"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
 			y: 11.5d
-			subtitle: "Control your construct!"
+			subtitle: "{chapter.mana.quest.73.subtitle.1}"
 			description: [
-				"Now that you have a construct. Use this bell to command it directly!"
+				"{chapter.mana.quest.73.description.1}"
 				""
-				"Refer to the codex arcana for more informations about constructs."
+				"{chapter.mana.quest.73.description.2}"
 			]
 			dependencies: ["3E24C47344A9C37E"]
 			id: "257915D15CE49A8C"
@@ -1827,12 +2942,22 @@
 				type: "item"
 				item: "mna:bell_of_bidding"
 			}]
+			rewards: [{
+				id: "38588750079A890A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Wooden Construct"
+			title: "{chapter.mana.quest.74.title}"
 			x: 7.5d
 			y: 12.5d
 			shape: "rsquare"
+			subtitle: "{chapter.mana.quest.74.subtitle.1}"
 			dependencies: ["3E24C47344A9C37E"]
 			id: "25CADFEC94B48AFA"
 			tasks: [
@@ -1852,12 +2977,22 @@
 					item: "mna:constructs/construct_basic_legs_wood"
 				}
 			]
+			rewards: [{
+				id: "052FEA7E397DCDBE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Stone Construct"
+			title: "{chapter.mana.quest.75.title}"
 			x: 7.5d
 			y: 13.5d
 			shape: "rsquare"
+			subtitle: "{chapter.mana.quest.75.subtitle.1}"
 			dependencies: ["25CADFEC94B48AFA"]
 			id: "3465A66F355A1EC3"
 			tasks: [
@@ -1877,12 +3012,22 @@
 					item: "mna:constructs/construct_basic_legs_stone"
 				}
 			]
+			rewards: [{
+				id: "6ADDB4FE961F3E19"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Iron Construct"
+			title: "{chapter.mana.quest.76.title}"
 			x: 7.5d
 			y: 14.5d
 			shape: "rsquare"
+			subtitle: "{chapter.mana.quest.76.subtitle.1}"
 			dependencies: ["3465A66F355A1EC3"]
 			id: "5AD073B85783E9E9"
 			tasks: [
@@ -1902,12 +3047,22 @@
 					item: "mna:constructs/construct_basic_legs_iron"
 				}
 			]
+			rewards: [{
+				id: "2DD74E3068EDE541"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Gold Construct"
+			title: "{chapter.mana.quest.77.title}"
 			x: 7.5d
 			y: 15.5d
 			shape: "rsquare"
+			subtitle: "{chapter.mana.quest.77.subtitle.1}"
 			dependencies: ["5AD073B85783E9E9"]
 			id: "2B964653B2E33C20"
 			tasks: [
@@ -1927,12 +3082,22 @@
 					item: "mna:constructs/construct_basic_legs_gold"
 				}
 			]
+			rewards: [{
+				id: "2A05976DDD0E5352"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Diamond Construct"
+			title: "{chapter.mana.quest.78.title}"
 			x: 7.5d
 			y: 16.5d
 			shape: "rsquare"
+			subtitle: "{chapter.mana.quest.78.subtitle.1}"
 			dependencies: ["2B964653B2E33C20"]
 			id: "7913A9B83D9D552D"
 			tasks: [
@@ -1952,12 +3117,22 @@
 					item: "mna:constructs/construct_basic_legs_diamond"
 				}
 			]
+			rewards: [{
+				id: "6F4433CE1FD238D0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Obsidian Construct"
+			title: "{chapter.mana.quest.79.title}"
 			x: 7.5d
 			y: 17.5d
 			shape: "rsquare"
+			subtitle: "{chapter.mana.quest.79.subtitle.1}"
 			dependencies: ["7913A9B83D9D552D"]
 			id: "495F8337FDB5D50E"
 			tasks: [
@@ -1977,6 +3152,15 @@
 					item: "mna:constructs/construct_basic_legs_obsidian"
 				}
 			]
+			rewards: [{
+				id: "5AEFBCCA5428E847"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 	]
 	quest_links: [ ]

@@ -32,6 +32,15 @@
 				type: "item"
 				item: "chemlib:carbon"
 			}]
+			rewards: [{
+				id: "7E4796690A4455A6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.6d
@@ -43,6 +52,15 @@
 				id: "717744DB6E5414AC"
 				type: "item"
 				item: "chemlib:nitrogen"
+			}]
+			rewards: [{
+				id: "6F9F076375CAD61E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -56,6 +74,15 @@
 				type: "item"
 				item: "chemlib:oxygen"
 			}]
+			rewards: [{
+				id: "119D3A91C0360A5F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.8d
@@ -67,6 +94,15 @@
 				id: "49A78A7AD8483630"
 				type: "item"
 				item: "chemlib:fluorine"
+			}]
+			rewards: [{
+				id: "32A278E27133A372"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -80,6 +116,15 @@
 				type: "item"
 				item: "chemlib:neon"
 			}]
+			rewards: [{
+				id: "2BB95E5ED8EDFB56"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.4d
@@ -91,6 +136,15 @@
 				id: "78C0C7B86C0DE2B9"
 				type: "item"
 				item: "chemlib:boron"
+			}]
+			rewards: [{
+				id: "567EC424E4AD0582"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -104,6 +158,15 @@
 				type: "item"
 				item: "chemlib:lithium"
 			}]
+			rewards: [{
+				id: "202F18134D52701A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -17.8d
@@ -115,6 +178,15 @@
 				id: "72F7DC074D78A7BD"
 				type: "item"
 				item: "chemlib:hydrogen"
+			}]
+			rewards: [{
+				id: "7B506F4DEDF36304"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -128,6 +200,15 @@
 				type: "item"
 				item: "chemlib:helium"
 			}]
+			rewards: [{
+				id: "27D6D5E6F6EBDC42"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -15.75d
@@ -139,6 +220,15 @@
 				id: "71E1F3875F1DFFE0"
 				type: "item"
 				item: "chemlib:beryllium"
+			}]
+			rewards: [{
+				id: "5DCB6A0BE96828DF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -152,6 +242,15 @@
 				type: "item"
 				item: "chemlib:potassium"
 			}]
+			rewards: [{
+				id: "7F363A757DF0365E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -17.8d
@@ -163,6 +262,15 @@
 				id: "3D36DEAD4F68E2C4"
 				type: "item"
 				item: "chemlib:sodium"
+			}]
+			rewards: [{
+				id: "670C40F6841CCAB8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -176,6 +284,15 @@
 				type: "item"
 				item: "chemlib:magnesium"
 			}]
+			rewards: [{
+				id: "38F22505181C314C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.4d
@@ -187,6 +304,15 @@
 				id: "5238B58A18130659"
 				type: "item"
 				item: "chemlib:aluminum"
+			}]
+			rewards: [{
+				id: "7AFABBDDA80D45B0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -200,6 +326,15 @@
 				type: "item"
 				item: "chemlib:silicon"
 			}]
+			rewards: [{
+				id: "7D5AF4B6AAF18B6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.6d
@@ -211,6 +346,15 @@
 				id: "7C63E6DA4D3D7DD0"
 				type: "item"
 				item: "chemlib:phosphorus"
+			}]
+			rewards: [{
+				id: "09BAF6113A09440F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -224,6 +368,15 @@
 				type: "item"
 				item: "chemlib:sulfur"
 			}]
+			rewards: [{
+				id: "6F6EED0C8AEE71E0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.8d
@@ -235,6 +388,15 @@
 				id: "17CA38807CB85D06"
 				type: "item"
 				item: "chemlib:chlorine"
+			}]
+			rewards: [{
+				id: "4B4FA175E018016E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -248,6 +410,15 @@
 				type: "item"
 				item: "chemlib:argon"
 			}]
+			rewards: [{
+				id: "1C5095C33858F2EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -15.7d
@@ -259,6 +430,15 @@
 				id: "6F75750F0EA17354"
 				type: "item"
 				item: "chemlib:calcium"
+			}]
+			rewards: [{
+				id: "726B3BE7E082FB7E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -272,6 +452,15 @@
 				type: "item"
 				item: "chemlib:scandium"
 			}]
+			rewards: [{
+				id: "65C25E1086B9A653"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -11.5d
@@ -283,6 +472,15 @@
 				id: "0E1B01B6612E2B40"
 				type: "item"
 				item: "chemlib:titanium"
+			}]
+			rewards: [{
+				id: "31A491888277A925"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -296,6 +494,15 @@
 				type: "item"
 				item: "chemlib:vanadium"
 			}]
+			rewards: [{
+				id: "474F6BC9DD2E2757"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.3d
@@ -307,6 +514,15 @@
 				id: "7883A7EDB3E97513"
 				type: "item"
 				item: "chemlib:chromium"
+			}]
+			rewards: [{
+				id: "5890B68FD860839F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -320,6 +536,15 @@
 				type: "item"
 				item: "chemlib:manganese"
 			}]
+			rewards: [{
+				id: "20497D16EBB5F747"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.1d
@@ -331,6 +556,15 @@
 				id: "62AF03C90A7BA305"
 				type: "item"
 				item: "chemlib:iron"
+			}]
+			rewards: [{
+				id: "4CD158E783C63FA2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -344,6 +578,15 @@
 				type: "item"
 				item: "chemlib:copper"
 			}]
+			rewards: [{
+				id: "25A4BB7915524627"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.1d
@@ -355,6 +598,15 @@
 				id: "6242ABF2390B8304"
 				type: "item"
 				item: "chemlib:nickel"
+			}]
+			rewards: [{
+				id: "50723AE1E025F18E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -368,6 +620,15 @@
 				type: "item"
 				item: "chemlib:cobalt"
 			}]
+			rewards: [{
+				id: "1C9D4C4675DD7368"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.3d
@@ -379,6 +640,15 @@
 				id: "093C716A727E499F"
 				type: "item"
 				item: "chemlib:zinc"
+			}]
+			rewards: [{
+				id: "389D215995FE8EE8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -392,6 +662,15 @@
 				type: "item"
 				item: "chemlib:gallium"
 			}]
+			rewards: [{
+				id: "51DBBD7C6610EDC8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
@@ -403,6 +682,15 @@
 				id: "6B045131DC78A55F"
 				type: "item"
 				item: "chemlib:germanium"
+			}]
+			rewards: [{
+				id: "7BE39A506B4991C9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -416,6 +704,15 @@
 				type: "item"
 				item: "chemlib:arsenic"
 			}]
+			rewards: [{
+				id: "059A5B5C735B9DC5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.7d
@@ -427,6 +724,15 @@
 				id: "08BFABC77456B653"
 				type: "item"
 				item: "chemlib:selenium"
+			}]
+			rewards: [{
+				id: "6DBA75398196E88B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -440,6 +746,15 @@
 				type: "item"
 				item: "chemlib:bromine"
 			}]
+			rewards: [{
+				id: "3159D928C0A77328"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.9d
@@ -451,6 +766,15 @@
 				id: "2F124F13FA283B86"
 				type: "item"
 				item: "chemlib:krypton"
+			}]
+			rewards: [{
+				id: "7B30F2A86C2A51F8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -464,6 +788,15 @@
 				type: "item"
 				item: "chemlib:rubidium"
 			}]
+			rewards: [{
+				id: "25304630AB2B073F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -15.7d
@@ -475,6 +808,15 @@
 				id: "2F81C810AAB10982"
 				type: "item"
 				item: "chemlib:strontium"
+			}]
+			rewards: [{
+				id: "3932531980D43C98"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -488,6 +830,15 @@
 				type: "item"
 				item: "chemlib:yttrium"
 			}]
+			rewards: [{
+				id: "096202E17E934BC1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -11.5d
@@ -499,6 +850,15 @@
 				id: "6395FC6431CA0142"
 				type: "item"
 				item: "chemlib:zirconium"
+			}]
+			rewards: [{
+				id: "71B240E625F119BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -512,6 +872,15 @@
 				type: "item"
 				item: "chemlib:niobium"
 			}]
+			rewards: [{
+				id: "2DBA3BCFC0A09E57"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.3d
@@ -523,6 +892,15 @@
 				id: "210BEEB912AFFABA"
 				type: "item"
 				item: "chemlib:molybdenum"
+			}]
+			rewards: [{
+				id: "1DB42E70E158903E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -536,6 +914,15 @@
 				type: "item"
 				item: "chemlib:technetium"
 			}]
+			rewards: [{
+				id: "14A1E4F20B24A624"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.1d
@@ -547,6 +934,15 @@
 				id: "2B87AC7398B577F0"
 				type: "item"
 				item: "chemlib:ruthenium"
+			}]
+			rewards: [{
+				id: "6400DA7B8898AE7C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -560,6 +956,15 @@
 				type: "item"
 				item: "chemlib:rhodium"
 			}]
+			rewards: [{
+				id: "4A658226E1D8AFDF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.1d
@@ -571,6 +976,15 @@
 				id: "526ED1F14E23F593"
 				type: "item"
 				item: "chemlib:palladium"
+			}]
+			rewards: [{
+				id: "4083A3F57AC460E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -584,6 +998,15 @@
 				type: "item"
 				item: "chemlib:silver"
 			}]
+			rewards: [{
+				id: "55A63DD369C36862"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.3d
@@ -595,6 +1018,15 @@
 				id: "09F72598396D3FBE"
 				type: "item"
 				item: "chemlib:cadmium"
+			}]
+			rewards: [{
+				id: "7D7F2B057C4C1B27"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -608,6 +1040,15 @@
 				type: "item"
 				item: "chemlib:indium"
 			}]
+			rewards: [{
+				id: "27C6D51C82D06BEE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.4d
@@ -619,6 +1060,15 @@
 				id: "6FB2E2CFC0EB620C"
 				type: "item"
 				item: "chemlib:tin"
+			}]
+			rewards: [{
+				id: "36740230863BC66B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -632,6 +1082,15 @@
 				type: "item"
 				item: "chemlib:antimony"
 			}]
+			rewards: [{
+				id: "553D83675AFF8A05"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.7d
@@ -643,6 +1102,15 @@
 				id: "01611A72AC734FDC"
 				type: "item"
 				item: "chemlib:tellurium"
+			}]
+			rewards: [{
+				id: "6FD68EC248A87CB2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -656,6 +1124,15 @@
 				type: "item"
 				item: "chemlib:iodine"
 			}]
+			rewards: [{
+				id: "5E6DB40BCF0F9688"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.9d
@@ -667,6 +1144,15 @@
 				id: "23B35479343122E8"
 				type: "item"
 				item: "chemlib:xenon"
+			}]
+			rewards: [{
+				id: "3CAED5E6ADECC996"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -680,6 +1166,15 @@
 				type: "item"
 				item: "chemlib:cesium"
 			}]
+			rewards: [{
+				id: "1ABC0E0702533430"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -15.7d
@@ -691,6 +1186,15 @@
 				id: "586A13E663B689C1"
 				type: "item"
 				item: "chemlib:barium"
+			}]
+			rewards: [{
+				id: "69242A129F785D07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -704,6 +1208,15 @@
 				type: "item"
 				item: "chemlib:hafnium"
 			}]
+			rewards: [{
+				id: "1D506DB25689429A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.4d
@@ -715,6 +1228,15 @@
 				id: "55BB9BF71EEE20DF"
 				type: "item"
 				item: "chemlib:tantalum"
+			}]
+			rewards: [{
+				id: "682127DDA6CDD64A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -728,6 +1250,15 @@
 				type: "item"
 				item: "chemlib:tungsten"
 			}]
+			rewards: [{
+				id: "6771A455A3798F87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.2d
@@ -739,6 +1270,15 @@
 				id: "0CA2D226E2752D0F"
 				type: "item"
 				item: "chemlib:rhenium"
+			}]
+			rewards: [{
+				id: "7234F83FCD823A06"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -752,6 +1292,15 @@
 				type: "item"
 				item: "chemlib:osmium"
 			}]
+			rewards: [{
+				id: "31BBA41D2F505A72"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
@@ -763,6 +1312,15 @@
 				id: "0988F0D3D91A5992"
 				type: "item"
 				item: "chemlib:iridium"
+			}]
+			rewards: [{
+				id: "32B713A809906342"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -776,6 +1334,15 @@
 				type: "item"
 				item: "chemlib:platinum"
 			}]
+			rewards: [{
+				id: "5CD7661D29FA53C7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.2d
@@ -787,6 +1354,15 @@
 				id: "3B95992F0ADF61E0"
 				type: "item"
 				item: "chemlib:gold"
+			}]
+			rewards: [{
+				id: "13AD44D91F4296AE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -800,6 +1376,15 @@
 				type: "item"
 				item: "chemlib:mercury"
 			}]
+			rewards: [{
+				id: "2A6FF7744E9CBE72"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.4d
@@ -811,6 +1396,15 @@
 				id: "7E264B0A43306ABE"
 				type: "item"
 				item: "chemlib:thallium"
+			}]
+			rewards: [{
+				id: "148E133FA2096F11"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -824,6 +1418,15 @@
 				type: "item"
 				item: "chemlib:lead"
 			}]
+			rewards: [{
+				id: "6B0BC048BDB7001D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.6d
@@ -835,6 +1438,15 @@
 				id: "423F1770054AC12D"
 				type: "item"
 				item: "chemlib:bismuth"
+			}]
+			rewards: [{
+				id: "67FCBB663B055029"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -848,6 +1460,15 @@
 				type: "item"
 				item: "chemlib:polonium"
 			}]
+			rewards: [{
+				id: "6E37E52A615B6DA3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.8d
@@ -859,6 +1480,15 @@
 				id: "2308C0C57B73338B"
 				type: "item"
 				item: "chemlib:astatine"
+			}]
+			rewards: [{
+				id: "59DBBB7E30B43D11"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -872,6 +1502,15 @@
 				type: "item"
 				item: "chemlib:radon"
 			}]
+			rewards: [{
+				id: "235C1993E601DCA5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -17.8d
@@ -883,6 +1522,15 @@
 				id: "1DBF81E2556EF054"
 				type: "item"
 				item: "chemlib:francium"
+			}]
+			rewards: [{
+				id: "0AD9E25C8DFE9AB7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -896,6 +1544,15 @@
 				type: "item"
 				item: "chemlib:radium"
 			}]
+			rewards: [{
+				id: "76E00571C15F834F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -13.6d
@@ -907,6 +1564,15 @@
 				id: "1B7B4D72352FAF63"
 				type: "item"
 				item: "chemlib:actinium"
+			}]
+			rewards: [{
+				id: "2E381F354C116A3F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -920,6 +1586,15 @@
 				type: "item"
 				item: "chemlib:lanthanum"
 			}]
+			rewards: [{
+				id: "6DCE4F0867CE6D12"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -11.5d
@@ -931,6 +1606,15 @@
 				id: "0CFA4ED57F8D522D"
 				type: "item"
 				item: "chemlib:rutherfordium"
+			}]
+			rewards: [{
+				id: "283F2BE722FD6DF4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -944,6 +1628,15 @@
 				type: "item"
 				item: "chemlib:dubnium"
 			}]
+			rewards: [{
+				id: "1E8E9C8D4F762583"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -7.3d
@@ -955,6 +1648,15 @@
 				id: "3F1D5E4223837A12"
 				type: "item"
 				item: "chemlib:seaborgium"
+			}]
+			rewards: [{
+				id: "3317F60C062CA3CF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -968,6 +1670,15 @@
 				type: "item"
 				item: "chemlib:bohrium"
 			}]
+			rewards: [{
+				id: "3FF3507F69C0FA6E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.1d
@@ -979,6 +1690,15 @@
 				id: "68D7774A537507DB"
 				type: "item"
 				item: "chemlib:hassium"
+			}]
+			rewards: [{
+				id: "5DA4FFF0F1F15143"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -992,6 +1712,15 @@
 				type: "item"
 				item: "chemlib:meitnerium"
 			}]
+			rewards: [{
+				id: "003BCAA220CA6D36"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.1d
@@ -1003,6 +1732,15 @@
 				id: "7D94F39768FD9B16"
 				type: "item"
 				item: "chemlib:darmstadtium"
+			}]
+			rewards: [{
+				id: "500789BCDACFD03C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1016,6 +1754,15 @@
 				type: "item"
 				item: "chemlib:roentgenium"
 			}]
+			rewards: [{
+				id: "272401C6366167F1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.3d
@@ -1027,6 +1774,15 @@
 				id: "04D9A9EEC53D05B9"
 				type: "item"
 				item: "chemlib:copernicium"
+			}]
+			rewards: [{
+				id: "265B713BE3526940"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1040,6 +1796,15 @@
 				type: "item"
 				item: "chemlib:nihonium"
 			}]
+			rewards: [{
+				id: "34B033C12DFB0E92"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
@@ -1051,6 +1816,15 @@
 				id: "4D45CE27A8AB9F03"
 				type: "item"
 				item: "chemlib:flerovium"
+			}]
+			rewards: [{
+				id: "42F431697FC3B8FB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1064,6 +1838,15 @@
 				type: "item"
 				item: "chemlib:moscovium"
 			}]
+			rewards: [{
+				id: "2E131E9DE8250B05"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.7d
@@ -1075,6 +1858,15 @@
 				id: "3F0A9AB4199A84DA"
 				type: "item"
 				item: "chemlib:livermorium"
+			}]
+			rewards: [{
+				id: "1E95680EFA2A2340"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1088,6 +1880,15 @@
 				type: "item"
 				item: "chemlib:tennessine"
 			}]
+			rewards: [{
+				id: "4799E5258559B000"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.9d
@@ -1099,6 +1900,15 @@
 				id: "7005E1DF0B9F9E1F"
 				type: "item"
 				item: "chemlib:oganesson"
+			}]
+			rewards: [{
+				id: "5B51E2C860467945"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1112,6 +1922,15 @@
 				type: "item"
 				item: "chemlib:cerium"
 			}]
+			rewards: [{
+				id: "4695D0BE39AEBFEB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.4d
@@ -1123,6 +1942,15 @@
 				id: "3550C7AB4D2E6868"
 				type: "item"
 				item: "chemlib:praseodymium"
+			}]
+			rewards: [{
+				id: "4A0944375D89D5C4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1136,6 +1964,15 @@
 				type: "item"
 				item: "chemlib:neodymium"
 			}]
+			rewards: [{
+				id: "76022A32178945E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.2d
@@ -1147,6 +1984,15 @@
 				id: "1CD6D46A39E29112"
 				type: "item"
 				item: "chemlib:promethium"
+			}]
+			rewards: [{
+				id: "0AAEB6CA3C23B06A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1160,6 +2006,15 @@
 				type: "item"
 				item: "chemlib:samarium"
 			}]
+			rewards: [{
+				id: "689E766E4EECE345"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
@@ -1171,6 +2026,15 @@
 				id: "6016AB43F884A9BB"
 				type: "item"
 				item: "chemlib:europium"
+			}]
+			rewards: [{
+				id: "1A300B868B87CD92"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1184,6 +2048,15 @@
 				type: "item"
 				item: "chemlib:gadolinium"
 			}]
+			rewards: [{
+				id: "76D73E8C9BE2EDFC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.2d
@@ -1195,6 +2068,15 @@
 				id: "40D310B3FC40ECC6"
 				type: "item"
 				item: "chemlib:terbium"
+			}]
+			rewards: [{
+				id: "0D15BBD6ADD0CF15"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1208,6 +2090,15 @@
 				type: "item"
 				item: "chemlib:dysprosium"
 			}]
+			rewards: [{
+				id: "2BE5C5CAB308BC2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.4d
@@ -1219,6 +2110,15 @@
 				id: "5F6E410A974211DA"
 				type: "item"
 				item: "chemlib:holmium"
+			}]
+			rewards: [{
+				id: "60DC8C156F665CCB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1232,6 +2132,15 @@
 				type: "item"
 				item: "chemlib:erbium"
 			}]
+			rewards: [{
+				id: "4FA813D7C2CB99AA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.6d
@@ -1243,6 +2152,15 @@
 				id: "68166913BEDDCD9D"
 				type: "item"
 				item: "chemlib:thulium"
+			}]
+			rewards: [{
+				id: "55B3873E76AC7A85"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1256,6 +2174,15 @@
 				type: "item"
 				item: "chemlib:ytterbium"
 			}]
+			rewards: [{
+				id: "4E435B76B986516F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.7d
@@ -1267,6 +2194,15 @@
 				id: "283C7E31B01C41F0"
 				type: "item"
 				item: "chemlib:lutetium"
+			}]
+			rewards: [{
+				id: "755018D8C7A83DDB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1280,6 +2216,15 @@
 				type: "item"
 				item: "chemlib:thorium"
 			}]
+			rewards: [{
+				id: "0CD24101A408D16B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.5d
@@ -1291,6 +2236,15 @@
 				id: "53D23381B99B80AD"
 				type: "item"
 				item: "chemlib:protactinium"
+			}]
+			rewards: [{
+				id: "41DB4AC72FD78192"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1304,6 +2258,15 @@
 				type: "item"
 				item: "chemlib:uranium"
 			}]
+			rewards: [{
+				id: "030E07B4F7497742"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.2d
@@ -1315,6 +2278,15 @@
 				id: "02A9CC667883501C"
 				type: "item"
 				item: "chemlib:neptunium"
+			}]
+			rewards: [{
+				id: "730917C2D2B7801F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1328,6 +2300,15 @@
 				type: "item"
 				item: "chemlib:plutonium"
 			}]
+			rewards: [{
+				id: "4B1A2DF7669E6ED3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
@@ -1339,6 +2320,15 @@
 				id: "7744B3E9CEC3E2C1"
 				type: "item"
 				item: "chemlib:americium"
+			}]
+			rewards: [{
+				id: "6D3D550ED58D25C4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1352,6 +2342,15 @@
 				type: "item"
 				item: "chemlib:curium"
 			}]
+			rewards: [{
+				id: "6399D705DC5A32FD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.2d
@@ -1363,6 +2362,15 @@
 				id: "31C7B9BB1FF75D21"
 				type: "item"
 				item: "chemlib:berkelium"
+			}]
+			rewards: [{
+				id: "1D8029D7FD6B6A5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1376,6 +2384,15 @@
 				type: "item"
 				item: "chemlib:californium"
 			}]
+			rewards: [{
+				id: "4D4567481C719293"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.4d
@@ -1387,6 +2404,15 @@
 				id: "2D2DB5A29D17120F"
 				type: "item"
 				item: "chemlib:einsteinium"
+			}]
+			rewards: [{
+				id: "0D659B5E74D7D0E6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1400,6 +2426,15 @@
 				type: "item"
 				item: "chemlib:fermium"
 			}]
+			rewards: [{
+				id: "0DFBBA9422B93F29"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.6d
@@ -1411,6 +2446,15 @@
 				id: "60BCE4BF09DB3FCF"
 				type: "item"
 				item: "chemlib:mendelevium"
+			}]
+			rewards: [{
+				id: "690BC3D072E0EED2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1424,6 +2468,15 @@
 				type: "item"
 				item: "chemlib:nobelium"
 			}]
+			rewards: [{
+				id: "4D0DB45D9E7AA57F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.7d
@@ -1435,6 +2488,15 @@
 				id: "0EAC7E50EA84AFEC"
 				type: "item"
 				item: "chemlib:lawrencium"
+			}]
+			rewards: [{
+				id: "79D5C72A5295A0FF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 	]

@@ -30,6 +30,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "620F7917D1A25376"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -51,6 +60,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1A4B6AD65A1128DD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
@@ -64,6 +82,15 @@
 				type: "item"
 				item: "minecraft:crafting_table"
 			}]
+			rewards: [{
+				id: "5D7BDC14D4905477"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
@@ -76,6 +103,15 @@
 				id: "3334A64C195699E6"
 				type: "item"
 				item: "minecraft:furnace"
+			}]
+			rewards: [{
+				id: "088A7D59D1391B1D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -103,6 +139,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "23A0B04A14E35023"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -121,6 +166,15 @@
 				type: "item"
 				item: "create:andesite_alloy"
 			}]
+			rewards: [{
+				id: "052397820E70DC57"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
@@ -133,6 +187,15 @@
 				id: "682D4ADDB74F61E2"
 				type: "item"
 				item: "create:shaft"
+			}]
+			rewards: [{
+				id: "119958BD32052388"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -153,6 +216,15 @@
 				type: "item"
 				item: "create:cogwheel"
 			}]
+			rewards: [{
+				id: "67E91A1610596F95"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
@@ -165,6 +237,15 @@
 				id: "04FBB3FE8BBC8820"
 				type: "item"
 				item: "create:large_cogwheel"
+			}]
+			rewards: [{
+				id: "3B6CD26D5BDD6978"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -189,6 +270,15 @@
 				id: "1F7B2E3A74B9FB12"
 				type: "item"
 				item: "create:water_wheel"
+			}]
+			rewards: [{
+				id: "5CBFF907D9E929E0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -216,6 +306,15 @@
 					item: "create:white_sail"
 				}
 			]
+			rewards: [{
+				id: "216698119D1CEBDD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.0d
@@ -245,6 +344,15 @@
 					item: "create:basin"
 				}
 			]
+			rewards: [{
+				id: "7029E3401C252E60"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.5d
@@ -266,6 +374,15 @@
 				}
 				dimension: "minecraft:the_nether"
 			}]
+			rewards: [{
+				id: "2300E59846DE4684"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -283,6 +400,15 @@
 				type: "item"
 				item: "create:empty_blaze_burner"
 			}]
+			rewards: [{
+				id: "55BC62922F682352"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -0.5d
@@ -295,6 +421,15 @@
 				id: "0A7927243A0FE47B"
 				type: "item"
 				item: "create:blaze_burner"
+			}]
+			rewards: [{
+				id: "66C320ED58FCB538"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -316,6 +451,15 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5A8F1A888691B0E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.0d
@@ -329,6 +473,15 @@
 				type: "item"
 				item: "create:rose_quartz"
 			}]
+			rewards: [{
+				id: "5ECEBE2156D9BC07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.0d
@@ -341,6 +494,15 @@
 				id: "6A7A49EA25EBC765"
 				type: "item"
 				item: "create:polished_rose_quartz"
+			}]
+			rewards: [{
+				id: "71AA6B8863C78F0A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -358,6 +520,15 @@
 				type: "item"
 				item: "create:electron_tube"
 			}]
+			rewards: [{
+				id: "4C60C5CBF7EC5026"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.0d
@@ -371,6 +542,15 @@
 				type: "item"
 				item: "create:brass_ingot"
 			}]
+			rewards: [{
+				id: "6002120007E102E6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.5d
@@ -383,6 +563,15 @@
 				id: "5E03157705A447C9"
 				type: "item"
 				item: "create:brass_casing"
+			}]
+			rewards: [{
+				id: "7337B2E7F8493E9A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -422,6 +611,15 @@
 				type: "item"
 				item: "create:deployer"
 			}]
+			rewards: [{
+				id: "793358F54B7B24B4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.5d
@@ -441,6 +639,15 @@
 				id: "6564BA27E4CA881D"
 				type: "item"
 				item: "create:precision_mechanism"
+			}]
+			rewards: [{
+				id: "3B4A428F63FA6B91"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -466,6 +673,15 @@
 				type: "item"
 				item: "createoreexcavation:drilling_machine"
 			}]
+			rewards: [{
+				id: "722319861B713EF6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.0d
@@ -481,6 +697,15 @@
 				id: "36CD235C94664C6B"
 				type: "item"
 				item: "createoreexcavation:extractor"
+			}]
+			rewards: [{
+				id: "6A75FEDEC6377E0D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -498,6 +723,15 @@
 				id: "4C2A08F62B0BA97A"
 				type: "item"
 				item: "createoreexcavation:vein_finder"
+			}]
+			rewards: [{
+				id: "4F6B0E967660FFE7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -524,6 +758,15 @@
 					item: "tconstruct:part_builder"
 				}
 			]
+			rewards: [{
+				id: "256F75BE3D9BEC28"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
@@ -538,6 +781,15 @@
 				type: "item"
 				item: "tconstruct:tinkers_chest"
 			}]
+			rewards: [{
+				id: "5FF84FF039738519"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
@@ -551,6 +803,15 @@
 				id: "3CEF0875FDCD8708"
 				type: "item"
 				item: "tconstruct:part_chest"
+			}]
+			rewards: [{
+				id: "5A661FD16A0BA23A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -571,6 +832,15 @@
 				type: "item"
 				item: "tconstruct:grout"
 			}]
+			rewards: [{
+				id: "363F15DCC6D941B7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -4.5d
@@ -587,6 +857,15 @@
 				id: "7681F9C5CDC3BF2E"
 				type: "item"
 				item: "tconstruct:seared_brick"
+			}]
+			rewards: [{
+				id: "546C86B09D071B0B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -623,6 +902,15 @@
 					item: "tconstruct:seared_basin"
 				}
 			]
+			rewards: [{
+				id: "25B7BEFFD5B1E918"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			title: "{chapter.stage.1.quest.37.title.1}"
@@ -670,6 +958,15 @@
 					item: "tconstruct:seared_drain"
 				}
 			]
+			rewards: [{
+				id: "6223468E74F06873"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.0d
@@ -682,6 +979,15 @@
 				id: "6C692164E390E917"
 				type: "item"
 				item: "mna:vellum"
+			}]
+			rewards: [{
+				id: "54E3934133CEA7A8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -700,6 +1006,15 @@
 				type: "item"
 				item: "mna:guide_book"
 			}]
+			rewards: [{
+				id: "1F29DA4922035D66"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -8.0d
@@ -716,6 +1031,15 @@
 				id: "4989335C5BAFF662"
 				type: "item"
 				item: "mna:occulus"
+			}]
+			rewards: [{
+				id: "583CA534E9A1BAE6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -749,6 +1073,15 @@
 				type: "item"
 				item: "mna:inscription_table"
 			}]
+			rewards: [{
+				id: "7F075ED50730B574"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -9.0d
@@ -775,6 +1108,15 @@
 				id: "2B226DB52047FC73"
 				type: "item"
 				item: "mna:manaweaving_altar"
+			}]
+			rewards: [{
+				id: "6CA589A44F6CB279"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -811,6 +1153,15 @@
 					item: "create:depot"
 				}
 			]
+			rewards: [{
+				id: "61822153BD9FED4A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 5.5d
@@ -823,6 +1174,15 @@
 				id: "0CFCD05338782488"
 				type: "item"
 				item: "thermal:iron_plate"
+			}]
+			rewards: [{
+				id: "10DD914C723EC06A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -868,6 +1228,15 @@
 					item: "chroma:create_item_output"
 				}
 			]
+			rewards: [{
+				id: "2F14968075FA4BB3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			title: "{chapter.stage.1.quest.44.title.1}"
@@ -945,6 +1314,15 @@
 					count: 2L
 				}
 			]
+			rewards: [{
+				id: "78C7FAD648E35946"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
@@ -966,6 +1344,15 @@
 				type: "checkmark"
 				title: "{chapter.stage.1.quest.45.title.1}"
 			}]
+			rewards: [{
+				id: "6177FC4EB1C3D037"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -978,6 +1365,15 @@
 				id: "0AE2383114DB7A7D"
 				type: "item"
 				item: "chroma:raw_feranicalumite"
+			}]
+			rewards: [{
+				id: "2C7348A95D5CCF6A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -992,6 +1388,15 @@
 				type: "item"
 				item: "chroma:raw_cuperargentite"
 			}]
+			rewards: [{
+				id: "50987F3529F85313"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.0d
@@ -1004,6 +1409,15 @@
 				id: "39F8A9B102D4B4D0"
 				type: "item"
 				item: "chroma:raw_aurizincite"
+			}]
+			rewards: [{
+				id: "6469A7CEA847AD7E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1018,6 +1432,15 @@
 				type: "item"
 				item: "chroma:raw_cobalrite"
 			}]
+			rewards: [{
+				id: "50B3C74730AD151C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.5d
@@ -1030,6 +1453,15 @@
 				id: "7198287C4D74BBFF"
 				type: "item"
 				item: "chroma:raw_leadurosmate"
+			}]
+			rewards: [{
+				id: "6275D286F8E254DA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -1049,6 +1481,15 @@
 				type: "item"
 				item: "mna:runeforge"
 			}]
+			rewards: [{
+				id: "4D64CA0546EA494B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.5d
@@ -1059,6 +1500,15 @@
 				id: "7D1C7E94C44B156E"
 				type: "item"
 				item: "create:large_water_wheel"
+			}]
+			rewards: [{
+				id: "43831327FB9DCB1F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 	]

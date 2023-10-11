@@ -1,0 +1,584 @@
+{
+	id: "6083AC7C4F16EA07"
+	order_index: 2
+	title: "Relics"
+	icon: {
+		id: "relics:magic_mirror"
+		Count: 1
+		tag: {
+			abilities: {
+				teleport: {
+					stats: {
+						distance: 482.122d
+						cooldown: 80.177d
+					}
+					points: 0
+				}
+			}
+			Damage: 0
+		}
+	}
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "relics:elytra_booster"
+				Count: 1
+				tag: {
+					abilities: {
+						boost: {
+							stats: {
+								speed: 1.374d
+								capacity: 99.142d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:enders_hand"
+				Count: 1
+				tag: {
+					abilities: {
+						swap: {
+							stats: {
+								distance: 26.704d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:holy_locket"
+				Count: 1
+				tag: {
+					abilities: {
+						steal: {
+							stats: {
+								radius: 3.855d
+								amount: 0.172d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:arrow_quiver"
+				Count: 1
+				tag: {
+					abilities: {
+						receptacle: {
+							stats: {
+								slots: 4.536d
+							}
+							points: 0
+						}
+						agility: {
+							stats: {
+								modifier: 1.0d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:chorus_inhibitor"
+				Count: 1
+				tag: {
+					abilities: {
+						blink: {
+							stats: {
+								distance: 29.413d
+								cooldown: 5.196d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:wool_mitten"
+				Count: 1
+				tag: {
+					abilities: {
+						mold: {
+							stats: {
+								damage: 0.147d
+								freeze: 1.791d
+								size: 21.408d
+								stun: 0.035d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:amphibian_boot"
+				Count: 1
+				tag: {
+					abilities: {
+						swimming: {
+							stats: {
+								speed: 0.005d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:shadow_glaive"
+				Count: 1
+				tag: {
+					abilities: {
+						saw: {
+							stats: {
+								damage: 0.926d
+								speed: 15.16d
+							}
+							points: 0
+						}
+						glaive: {
+							stats: {
+								damage: 3.688d
+								bounces: 3.228d
+								radius: 4.87d
+								recharge: 11.786d
+							}
+							points: 0
+						}
+					}
+					charges: 8
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:infinity_ham"
+				Count: 1
+				tag: {
+					abilities: {
+						infusion: {
+							stats: {
+								duration: 1.522d
+							}
+							points: 0
+						}
+						autophagy: {
+							stats: {
+								feed: 1.338d
+							}
+							points: 0
+						}
+					}
+					pieces: 10
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:aqua_walker"
+				Count: 1
+				tag: {
+					abilities: {
+						walking: {
+							stats: {
+								time: 41.597d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+					leveling: {
+						experience: 2
+					}
+					drench: 1
+				}
+			}
+		}
+		{ item: "relics:solid_snowball" }
+		{
+			item: {
+				id: "relics:spatial_sign"
+				Count: 1
+				tag: {
+					abilities: {
+						seal: {
+							stats: {
+								duration: 7.199d
+								speed: 1.28d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:reflection_necklace"
+				Count: 1
+				tag: {
+					abilities: {
+						explode: {
+							stats: {
+								capacity: 53.519d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:magma_walker"
+				Count: 1
+				tag: {
+					abilities: {
+						pace: {
+							stats: {
+								heat: 29.284d
+							}
+							points: 0
+						}
+					}
+					heat: 0
+					Damage: 0
+					leveling: {
+						experience: 3
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:midnight_robe"
+				Count: 1
+				tag: {
+					abilities: {
+						backstab: {
+							stats: {
+								distance: 18.931d
+								damage: 1.639d
+							}
+							points: 0
+						}
+						vanish: {
+							stats: {
+								light: 1.798d
+								speed: 0.299d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:drowned_belt"
+				Count: 1
+				tag: {
+					abilities: {
+						slots: {
+							stats: {
+								talisman: 1.097d
+							}
+							points: 0
+						}
+						pressure: {
+							stats: {
+								damage: 1.619d
+							}
+							points: 0
+						}
+						riptide: {
+							stats: {
+								cooldown: 7.314d
+							}
+							points: 0
+						}
+						anchor: {
+							stats: {
+								sinking: 4.68d
+								slowness: 0.374d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:jellyfish_necklace"
+				Count: 1
+				tag: {
+					abilities: {
+						paralysis: {
+							stats: {
+								duration: 0.631d
+							}
+							points: 0
+						}
+						shock: {
+							stats: {
+								damage: 2.259d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:hunter_belt"
+				Count: 1
+				tag: {
+					abilities: {
+						slots: {
+							stats: {
+								talisman: 1.373d
+							}
+							points: 0
+						}
+						training: {
+							stats: {
+								damage: 1.615d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:rage_glove"
+				Count: 1
+				tag: {
+					abilities: {
+						rage: {
+							stats: {
+								attack_speed: 0.009d
+								incoming_damage: 0.026d
+								dealt_damage: 0.071d
+								movement_speed: 0.023d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:ice_skates"
+				Count: 1
+				tag: {
+					abilities: {
+						skating: {
+							stats: {
+								duration: 37.145d
+								speed: 0.019d
+							}
+							points: 0
+						}
+						ram: {
+							stats: {
+								damage: 0.153d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:bastion_ring"
+				Count: 1
+				tag: {
+					abilities: {
+						trade: {
+							stats: {
+								rolls: 1.353d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:horse_flute"
+				Count: 1
+				tag: {
+					abilities: {
+						heal: {
+							stats: {
+								amount: 0.055d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:leather_belt"
+				Count: 1
+				tag: {
+					abilities: {
+						slots: {
+							stats: {
+								talisman: 1.155d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:roller_skates"
+				Count: 1
+				tag: {
+					abilities: {
+						skating: {
+							stats: {
+								duration: 22.953d
+								speed: 0.004d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:spore_sack"
+				Count: 1
+				tag: {
+					abilities: {
+						spore: {
+							stats: {
+								resize: 0.022d
+								amount: 1.0d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:blazing_flask"
+				Count: 1
+				tag: {
+					abilities: {
+						bonfire: {
+							stats: {
+								step: 1.214d
+								speed: 0.03d
+								height: 3.65d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:ice_breaker"
+				Count: 1
+				tag: {
+					abilities: {
+						sustainability: {
+							stats: {
+								modifier: 0.575d
+							}
+							points: 0
+						}
+						impact: {
+							stats: {
+								size: 2.578d
+								damage: 4.53d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "relics:magic_mirror"
+				Count: 1
+				tag: {
+					abilities: {
+						teleport: {
+							stats: {
+								distance: 324.976d
+								cooldown: 66.707d
+							}
+							points: 0
+						}
+					}
+					Damage: 0
+				}
+			}
+		}
+	]
+}

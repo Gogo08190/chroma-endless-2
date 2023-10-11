@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 10
 	filename: "applied_energistics_2"
-	title: "Applied Energistics 2"
+	title: "{chapter.ae.title}"
 	icon: "ae2:controller"
 	default_quest_shape: "rsquare"
 	default_hide_dependency_lines: false
@@ -21,15 +21,17 @@
 	}]
 	quests: [
 		{
+			title: "{chapter.ae.quest.1.title}"
 			x: -5.0d
 			y: -10.0d
 			shape: "octagon"
+			subtitle: "{chapter.ae.quest.1.subtitle.1}"
 			description: [
-				"Applied Energistics 2, often abbreviated as &oAE2&r, is a highly adaptable &bdigital storage&f mod. It offers efficient storage solutions and diverse automation features, enhancing your modded Minecraft journey from the onset to the endgame."
+				"{chapter.ae.quest.1.description.1}"
 				""
-				"To begin with AE2, mine the mod's crucial resource, &bCertus Quartz&r. From this, you'll obtain Certus Quartz Crystals, yielding both &6Certus Quartz Dust&r and &6Crystals&r."
+				"{chapter.ae.quest.1.description.2}"
 				""
-				"&cKeep in mind that the AE2 progression in Chroma Endless 2 differs from the base progression of the mod.&r"
+				"{chapter.ae.quest.1.description.3}"
 			]
 			dependencies: ["51B5C098A8CFF70E"]
 			size: 1.5d
@@ -46,11 +48,22 @@
 					item: "ae2:certus_quartz_dust"
 				}
 			]
+			rewards: [{
+				id: "66FAB35E93BF3B82"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.2.title}"
 			x: -4.5d
 			y: -12.0d
-			description: ["A wrench made of Certus Quartz Crystal or Nether Quartz. Useful for rotating blocks, and removing individual parts from cables."]
+			subtitle: "{chapter.ae.quest.2.subtitle.1}"
+			description: ["{chapter.ae.quest.2.description.1}"]
 			dependencies: ["02498CADDFE5DEAC"]
 			id: "44942C85424B5493"
 			tasks: [{
@@ -65,11 +78,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "7DCBAAF98CCA78CD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
 			y: -10.0d
-			description: ["When powered, the &bCharger&r charges &6Certus Quartz Crystals&r, turning them into &6Charged Certus Crystals&r. These are essential for producing &6Fluix&r, a vital resource in the mod. Additionally, it can charge any power-storing item."]
+			subtitle: "{chapter.ae.quest.3.subtitle.1}"
+			description: ["{chapter.ae.quest.3.description.1}"]
 			dependencies: [
 				"02498CADDFE5DEAC"
 				"435075825CDEB1EA"
@@ -80,11 +103,21 @@
 				type: "item"
 				item: "ae2:charger"
 			}]
+			rewards: [{
+				id: "3886E507ED5DB293"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.0d
 			y: -10.0d
-			description: ["The &bInscriber&r not only transforms various AE2 quartz crystals into dust form but is primarily employed to craft unique &6Printed Circuits&r and &6Processors&r."]
+			subtitle: "{chapter.ae.quest.9.subtitle.1}"
+			description: ["{chapter.ae.quest.9.description.1}"]
 			dependencies: ["2C0597C51DFA853C"]
 			id: "138B122C46591626"
 			tasks: [{
@@ -92,14 +125,24 @@
 				type: "item"
 				item: "ae2:inscriber"
 			}]
+			rewards: [{
+				id: "0DFEA27BD160F9D1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: -9.0d
+			subtitle: "{chapter.ae.quest.33.subtitle.1}"
 			description: [
-				"The main resource you will need is &bFluix&r, used in the vast majority of AE2 devices and serving as a base for crafting all of the cabling within an ME network."
+				"{chapter.ae.quest.33.description.1}"
 				""
-				"To make &bFluix&r, throw &6Nether Quartz&r, &6Charged Certus Quartz&r, and &6Redstone&r together into a pool of water."
+				"{chapter.ae.quest.33.description.2}"
 			]
 			dependencies: ["40A6DBF873A234BA"]
 			id: "2DC8F5DB7E835F4F"
@@ -108,16 +151,26 @@
 				type: "item"
 				item: "ae2:fluix_dust"
 			}]
+			rewards: [{
+				id: "44D4A638098702EA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
 			y: -10.0d
+			subtitle: "{chapter.ae.quest.7.subtitle.1}"
 			description: [
-				"It's time to search for &6Meteorites&r, which house the &bSky Stone&r. They can be located either above ground or beneath the surface, with a &bChest&r at their core."
+				"{chapter.ae.quest.7.description.1}"
 				""
-				"This chest houses the variety of &6Presses&r utilized in the Inscriber to create AE2's unique crafting elements."
+				"{chapter.ae.quest.7.description.2}"
 				""
-				"The simplest method to find a meteorite is to use a crafted &6Meteorite Compass&r."
+				"{chapter.ae.quest.7.description.3}"
 			]
 			dependencies: ["40A6DBF873A234BA"]
 			id: "698FE4E4E40B8172"
@@ -126,10 +179,21 @@
 				type: "item"
 				item: "ae2:sky_compass"
 			}]
+			rewards: [{
+				id: "2A1F23F682E39957"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.8.title}"
 			x: 1.0d
 			y: -10.0d
+			subtitle: "{chapter.ae.quest.8.subtitle.1}"
 			dependencies: ["698FE4E4E40B8172"]
 			id: "2C0597C51DFA853C"
 			tasks: [
@@ -154,11 +218,21 @@
 					item: "ae2:calculation_processor_press"
 				}
 			]
+			rewards: [{
+				id: "2F16EA3BC3A363EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.79.title}"
 			x: 5.0d
 			y: -10.0d
-			description: ["After securing a complete set of the necessary &6Inscriber Presses&r, you can begin crafting &6Processors&r. These are crucial components for creating most ME-integrated devices."]
+			subtitle: "{chapter.ae.quest.79.subtitle.1}"
 			dependencies: ["138B122C46591626"]
 			id: "1303B94B389DD883"
 			tasks: [
@@ -178,14 +252,24 @@
 					item: "ae2:engineering_processor"
 				}
 			]
+			rewards: [{
+				id: "42C60B3830A09FD3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: -11.0d
+			subtitle: "{chapter.ae.quest.4.subtitle.1}"
 			description: [
-				"While both the Inscriber and Charger inherently support RF/FE, most of the ME network operates on its distinct power system known as AE."
+				"{chapter.ae.quest.4.description.1}"
 				""
-				"RF/FE can be transitioned to the indigenous AE at a 2:1 RF:AE rate, either directly via an ME Controller or by utilizing the &bEnergy Acceptor&f that can be linked to any segment of the network."
+				"{chapter.ae.quest.4.description.2}"
 			]
 			dependencies: ["40A6DBF873A234BA"]
 			id: "2DB69E0DA88D75C9"
@@ -194,11 +278,22 @@
 				type: "item"
 				item: "ae2:energy_acceptor"
 			}]
+			rewards: [{
+				id: "03ED5F59805FA08C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.35.title}"
 			x: 0.0d
 			y: -8.5d
-			description: ["To link together most of your ME network components, you'll require cabling. The &6ME Glass Cable&r is the foundational type, which you'll frequently produce as the initial stage in crafting other cable variants."]
+			subtitle: "{chapter.ae.quest.35.subtitle.1}"
+			description: ["{chapter.ae.quest.35.description.1}"]
 			dependencies: ["2DC8F5DB7E835F4F"]
 			id: "684F456BDD1867D1"
 			tasks: [
@@ -239,20 +334,30 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "7224EF964B1FB902"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Cable Anchor"
+			title: "{chapter.ae.quest.37.title}"
 			x: 0.5d
 			y: -7.0d
 			shape: "diamond"
+			subtitle: "{chapter.ae.quest.37.subtitle.1}"
 			description: [
-				"The &bQuartz Cutting Knife&r, similar to the wrench, is available in both nether and certus quartz varieties and is a handy crafting tool to possess."
+				"{chapter.ae.quest.37.description.1}"
 				""
-				"You can also segregate cables without coloring them by using a &bCable Anchor&r between them. This anchor is crafted with this knife and can be made up to 50 times with the same knife before it breaks."
+				"{chapter.ae.quest.37.description.2}"
 				""
-				"Cable Anchors are also essential for crafting &bCable Facades&r. These facades let you seamlessly integrate cables into walls by masking them with the appearance of any chosen block. Although facade recipes aren't displayed in JEI, you can craft them by encircling a standard block with 4 cable anchors in the crafting grid."
+				"{chapter.ae.quest.37.description.3}"
 				""
-				"Beyond crafting anchors, the cutting knife offers another function. Right-clicking with it opens a GUI that lets you craft &bInscriber Name Presses&r. Once named, these presses can rename items inside an Inscriber based on the press's name. By using two of these, items can be renamed sequentially with the top press's name followed by the bottom's."
+				"{chapter.ae.quest.37.description.4}"
 			]
 			dependencies: ["684F456BDD1867D1"]
 			id: "2BBC974C46DDF33F"
@@ -284,16 +389,26 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "2689DB137C279530"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			title: "Color Applicator"
 			x: -0.5d
 			y: -7.0d
 			shape: "diamond"
+			subtitle: "{chapter.ae.quest.36.subtitle.1}"
 			description: [
-				"The &bColor Applicator&r is a rechargeable tool designed for on-site cable dyeing. It essentially acts as a specialized &6storage cell&r, which can be filled with vanilla dyes or &6paint balls&r for distinct colors. Additionally, &6snowballs&r can be used to remove the color, reverting the cables back to their Fluix version."
+				"{chapter.ae.quest.36.description.1}"
 				""
-				"Coloring a cable consumes 100AE from its internal battery, allowing for the dyeing of up to 3400 cable segments on a single charge."
+				"{chapter.ae.quest.36.description.2}"
 			]
 			dependencies: ["684F456BDD1867D1"]
 			id: "69F8532FE981F35B"
@@ -306,12 +421,23 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "0EFC514D8AABD81E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.38.title}"
 			x: 0.0d
 			y: -6.5d
 			shape: "diamond"
-			description: ["The &bME Smart Cable&r and &bDense Smart Cable&r not only operate like covered cables in channel distribution but also visually show the number of channels in use as colored lines on their surface."]
+			subtitle: "{chapter.ae.quest.38.subtitle.1}"
+			description: ["{chapter.ae.quest.38.description.1}"]
 			dependencies: ["684F456BDD1867D1"]
 			id: "541EB444F812862D"
 			tasks: [
@@ -340,16 +466,27 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "2F2CBAB77D8AE70E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.39.title}"
 			x: 2.0d
 			y: -8.5d
+			subtitle: "{chapter.ae.quest.39.subtitle.1}"
 			description: [
-				"In Applied Energistics 2, each ME network has a set number of &6channels&r, representing the total devices that can be integrated into the network."
+				"{chapter.ae.quest.39.description.1}"
 				""
-				"Typically, devices directly managing ME data (items within the network) and performing I/O tasks consume a channel. However, components focusing solely on the network's internal power storage, such as &6Energy Cells&r and &6Inscribers&r, do &onot&r use channels."
+				"{chapter.ae.quest.39.description.2}"
 				""
-				"Networks lacking an &bME Controller&r, termed \"ad-hoc\" networks, support a maximum of just 8 channels."
+				"{chapter.ae.quest.39.description.3}"
 			]
 			dependencies: ["684F456BDD1867D1"]
 			id: "31AD6B489C6E8A7F"
@@ -358,19 +495,29 @@
 				type: "checkmark"
 				title: "AE2 Channels"
 			}]
+			rewards: [{
+				id: "763DAE7721B930E7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 4.0d
 			y: -8.5d
 			shape: "hexagon"
+			subtitle: "{chapter.ae.quest.40.subtitle.1}"
 			description: [
-				"The &bME Controller&r is the final component essential for any expansive ME network"
+				"{chapter.ae.quest.40.description.1}"
 				""
-				"A controller boosts an ME Network's capacity well beyond the standard 8 channels of ad-hoc networks, offering 32 channels from each block face, amounting to a total of 216 channels."
+				"{chapter.ae.quest.40.description.2}"
 				""
-				"While that applies to a single-block controller, it's worth noting that the ME Controller is a multi-block structure. It can span up to 7x7x7 blocks and have any shape within that limit. Each block offers its unique set of channels, provided no controller block is flanked by 4 others on the same plane."
+				"{chapter.ae.quest.40.description.3}"
 				""
-				"An ME Network can accommodate only one multiblock controller simultaneously. Trying to integrate multiple controllers in different sections will trigger a conflict, leading to the entire network's shutdown."
+				"{chapter.ae.quest.40.description.4}"
 			]
 			dependencies: ["31AD6B489C6E8A7F"]
 			size: 1.5d
@@ -380,14 +527,24 @@
 				type: "item"
 				item: "ae2:controller"
 			}]
+			rewards: [{
+				id: "07A051CA7D20279C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.0d
 			y: -10.0d
+			subtitle: "{chapter.ae.quest.10.subtitle.1}"
 			description: [
-				"&6Terminals&r offer access to the contents within an ME network. The basic &6ME Terminal&r displays all network items in a comprehensive grid, functioning much like a unified inventory."
+				"{chapter.ae.quest.10.description.1}"
 				""
-				"The &6ME Crafting Terminal&r builds on the ME Terminal by including a crafting grid. This facilitates easy crafting, utilizing any item from the network displayed on the terminal screen."
+				"{chapter.ae.quest.10.description.2}"
 			]
 			dependencies: ["1303B94B389DD883"]
 			id: "064C42F6726AF695"
@@ -403,14 +560,25 @@
 					item: "ae2:crafting_terminal"
 				}
 			]
+			rewards: [{
+				id: "614F1A02DF041A2C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.5.title}"
 			x: 0.0d
 			y: -11.5d
+			subtitle: "{chapter.ae.quest.5.subtitle.1}"
 			description: [
-				"By default, an ME network has an internal buffer of 800AE. Without an ME Controller, this capacity is limited. However, with a controller, there's an added 8kAE per block. For expansive networks, this might fall short, leading to sporadic power outages as the network strives to sustain power for linked devices."
+				"{chapter.ae.quest.5.description.1="
 				""
-				"The &bEnergy Cell&r enhances a ME network's power capacity, contributing an extra 200kAE with each regular Energy Cell. The &bDense Energy Cell&r adds 1.6MAE and the &bSuperdense Energy Cell&r contributes 12.8MAE. These cells can be situated anywhere within the network to boost its energy reserves."
+				"{chapter.ae.quest.5.description.2}"
 			]
 			dependencies: ["2DB69E0DA88D75C9"]
 			id: "35E0BBD81E4C524A"
@@ -443,11 +611,21 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "1773E8AB91ECAEF7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
 			y: -11.5d
-			description: ["The &bEnergy Card&r can be used with most rechargeable devices, such as Portable Cells and Wireless Terminals, to augment &otheir&r energy storage."]
+			subtitle: "{chapter.ae.quest.6.subtitle.1}"
+			description: ["{chapter.ae.quest.6.description.1}"]
 			dependencies: ["35E0BBD81E4C524A"]
 			id: "7DBDBDA172B65F9C"
 			tasks: [{
@@ -455,14 +633,24 @@
 				type: "item"
 				item: "ae2:energy_card"
 			}]
+			rewards: [{
+				id: "4242268D7C9B8151"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.0d
 			y: -11.5d
+			subtitle: "{chapter.ae.quest.11.subtitle.1}"
 			description: [
-				"The &bNetwork Tool&r in AE2 is pivotal, showcasing vital network details like power usage and storage directly on-screen."
+				"{chapter.ae.quest.11.description.1}"
 				""
-				"Additionally, the &bNetwork Tool&r offers a compact inventory for holding &6upgrade cards&r. This can be accessed while viewing any upgradeable device's screen, facilitating easy swaps. But unlike a standard wrench, it can't rotate ME network blocks—only dismantle them when sneaking."
+				"{chapter.ae.quest.11.description.2}"
 			]
 			dependencies: ["064C42F6726AF695"]
 			id: "2198EA6C7A45973C"
@@ -471,16 +659,27 @@
 				type: "item"
 				item: "ae2:network_tool"
 			}]
+			rewards: [{
+				id: "2E3751D3C692EE74"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.42.title}"
 			x: 5.5d
 			y: -7.0d
+			subtitle: "{chapter.ae.quest.42.subtitle.1}"
 			description: [
-				"Perhaps the most pivotal feature of Applied Energistics 2 is its digital storage system, centered around &6Storage Cells&r. You can access these cells using an &6ME Chest&r for individual cells or an &6ME Drive&r to handle multiple cells."
+				"{chapter.ae.quest.42.description.1}"
 				""
-				"The &bME Chest&r accommodates one Cell, accessible and editable from any terminal on the same network. Additionally, the ME Chest has a terminal screen on its top, granting exclusive access to the cell inside."
+				"{chapter.ae.quest.42.description.2}"
 				""
-				"The &bME Drive&r can house up to 10 different Storage Cells within a single block and one ME channel. Unlike the ME Chest, it lacks an integrated terminal screen, necessitating an external terminal on the network to access storage."
+				"{chapter.ae.quest.42.description.3}"
 			]
 			dependencies: ["2AADE885CF4D34D2"]
 			id: "726279FA43C9F6AD"
@@ -496,14 +695,24 @@
 					item: "ae2:drive"
 				}
 			]
+			rewards: [{
+				id: "78DFB4329F9A1BF5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
 			y: -8.0d
+			subtitle: "{chapter.ae.quest.43.subtitle.1}"
 			description: [
-				"The &bME IO Port&r facilitates swift reorganization of an ME network's storage, transferring data between storage mediums like ME cells and external containers linked to storage buses."
+				"{chapter.ae.quest.43.description.1}"
 				""
-				"When a cell is placed in the left input slot, the IO Port can switch modes: it can either empty the cell into other ME storages or populate a (preferably partitioned) cell with specific items from other storages."
+				"{chapter.ae.quest.43.description.2}"
 			]
 			dependencies: ["726279FA43C9F6AD"]
 			id: "16D5B1DB59FCA414"
@@ -512,14 +721,24 @@
 				type: "item"
 				item: "ae2:io_port"
 			}]
+			rewards: [{
+				id: "4A82AAC753BB0120"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
 			y: -6.0d
+			subtitle: "{chapter.ae.quest.44.subtitle.1}"
 			description: [
-				"The &bCell Workbench&r enables cells to be \"partitioned\" for dedicated item storage, essentially setting a whitelist filter. Additionally, the workbench accommodates specific upgrade cards, like the Inverter Card, which converts the whitelist into a blacklist."
+				"{chapter.ae.quest.44.description.1}"
 				""
-				"Through the workbench, cells can be assigned different \"priorities.\" Higher-priority cells fill up first, while lower-priority ones wait until the more prioritized cells are full."
+				"{chapter.ae.quest.44.description.2}"
 			]
 			dependencies: ["726279FA43C9F6AD"]
 			id: "340C9730F6B7D1F7"
@@ -528,14 +747,24 @@
 				type: "item"
 				item: "ae2:cell_workbench"
 			}]
+			rewards: [{
+				id: "112525F4A4FB84C1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
 			y: -6.0d
+			subtitle: "{chapter.ae.quest.45.subtitle.1}"
 			description: [
-				"The &bEqual Distribution Card&r is a storage cell upgrade, ensuring each item type occupies a predetermined amount of space."
+				"{chapter.ae.quest.45.description.1}"
 				""
-				"This functionality is akin to a Functional Storage drawer, where each compartment retains a fixed number of stacks, preventing items from one compartment from overflowing into another and displacing different items."
+				"{chapter.ae.quest.45.description.2}"
 			]
 			dependencies: ["340C9730F6B7D1F7"]
 			id: "45E25080233A02CF"
@@ -544,11 +773,21 @@
 				type: "item"
 				item: "ae2:equal_distribution_card"
 			}]
+			rewards: [{
+				id: "0D465E67D7A4D25A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
 			y: -5.0d
-			description: ["The &bOverflow Destruction Card&r is a cell upgrade. When the cell is full, it deletes any incoming items of a type already stored in it."]
+			subtitle: "{chapter.ae.quest.46.subtitle.1}"
+			description: ["{chapter.ae.quest.46.description.1}"]
 			dependencies: ["340C9730F6B7D1F7"]
 			id: "2C8A29AFE7C830C4"
 			tasks: [{
@@ -556,17 +795,27 @@
 				type: "item"
 				item: "ae2:void_card"
 			}]
+			rewards: [{
+				id: "36C0A899BA85896C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
 			y: -7.0d
 			shape: "diamond"
+			subtitle: "{chapter.ae.quest.47.subtitle.1}"
 			description: [
-				"Each cell's capacity is determined by the &6component&r used in its crafting."
+				"{chapter.ae.quest.47.description.1}"
 				""
-				"The initial component, the &b1k ME Storage Component&r, offers &61024&r bytes of storage for a specified cell. We'll delve deeper into this later."
+				"{chapter.ae.quest.47.description.2}"
 				""
-				"Craft the 1k Component, which you'll combine with a housing in the upcoming quest."
+				"{chapter.ae.quest.47.description.3}"
 			]
 			dependencies: ["726279FA43C9F6AD"]
 			size: 1.2d
@@ -576,12 +825,22 @@
 				type: "item"
 				item: "ae2:cell_component_1k"
 			}]
+			rewards: [{
+				id: "2C4D62543C0C9241"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
 			y: -5.5d
 			shape: "diamond"
-			description: ["The next tier up in storage components offers &64096&r bytes of storage."]
+			subtitle: "{chapter.ae.quest.48.subtitle.1}"
+			description: ["{chapter.ae.quest.48.description.1}"]
 			dependencies: ["157FE966949A6CEE"]
 			id: "0AC48A4118BD4809"
 			tasks: [{
@@ -589,12 +848,22 @@
 				type: "item"
 				item: "ae2:cell_component_4k"
 			}]
+			rewards: [{
+				id: "261C20CDBC78ADBB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.0d
 			y: -5.0d
 			shape: "diamond"
-			description: ["The third-level storage component offers &616384&r bytes of capacity."]
+			subtitle: "{chapter.ae.quest.49.subtitle.1}"
+			description: ["{chapter.ae.quest.49.description.1}"]
 			dependencies: ["0AC48A4118BD4809"]
 			id: "412D9039291640FE"
 			tasks: [{
@@ -602,12 +871,22 @@
 				type: "item"
 				item: "ae2:cell_component_16k"
 			}]
+			rewards: [{
+				id: "2FBC0E0D0C13F445"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 9.5d
 			y: -4.5d
 			shape: "diamond"
-			description: ["The fourth-level storage component offers &665536&r bytes of capacity."]
+			subtitle: "{chapter.ae.quest.50.subtitle.1}"
+			description: ["{chapter.ae.quest.50.description.1}"]
 			dependencies: ["412D9039291640FE"]
 			id: "32C8230FF24ED142"
 			tasks: [{
@@ -615,12 +894,22 @@
 				type: "item"
 				item: "ae2:cell_component_64k"
 			}]
+			rewards: [{
+				id: "3D76B1495370EA47"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 10.0d
 			y: -5.0d
 			shape: "diamond"
-			description: ["The fifth and ultimate standard AE2 tier storage component offers &6262144&r bytes of capacity."]
+			subtitle: "{chapter.ae.quest.51.subtitle.1}"
+			description: ["{chapter.ae.quest.51.description.1}"]
 			dependencies: ["32C8230FF24ED142"]
 			id: "7441A910AF8B56EF"
 			tasks: [{
@@ -628,15 +917,25 @@
 				type: "item"
 				item: "ae2:cell_component_256k"
 			}]
+			rewards: [{
+				id: "16CC7FD3CE1B1C54"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: -5.0d
 			shape: "diamond"
+			subtitle: "{chapter.ae.quest.52.subtitle.1}"
 			description: [
-				"At a certain stage in a comprehensive modpack playthrough, even the top-tier standard storage cell might fall short in accommodating the sheer volume of items and resources you gather."
+				"{chapter.ae.quest.52.description.1}"
 				""
-				"Enter the &dMEGA Cells&f add-on, which elevates storage tiers into the realm of megabytes. The inaugural tier from this series is the &b1M MEGA Storage Component&r, offering 1024 &okilo&rbytes, equivalent to &61048576&r bytes, of capacity."
+				"{chapter.ae.quest.52.description.2}"
 			]
 			dependencies: ["7441A910AF8B56EF"]
 			size: 1.2d
@@ -646,12 +945,22 @@
 				type: "item"
 				item: "megacells:cell_component_1m"
 			}]
+			rewards: [{
+				id: "0AB871D8056A1A94"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: -4.0d
 			shape: "diamond"
-			description: ["The subsequent MEGA storage tier is the component offering &64194304&r bytes, equivalent to 4096k bytes, of capacity."]
+			subtitle: "{chapter.ae.quest.53.subtitle.1}"
+			description: ["{chapter.ae.quest.53.description.1}"]
 			dependencies: ["7851DB7678E97814"]
 			id: "536FFCFF0ABAB76B"
 			tasks: [{
@@ -659,12 +968,22 @@
 				type: "item"
 				item: "megacells:cell_component_4m"
 			}]
+			rewards: [{
+				id: "676384757389BD61"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.0d
 			y: -3.5d
 			shape: "diamond"
-			description: ["The third MEGA storage level offers a component with a capacity of &616777216&r bytes, which translates to 16384k bytes."]
+			subtitle: "{chapter.ae.quest.54.subtitle.1}"
+			description: ["{chapter.ae.quest.54.description.1}"]
 			dependencies: ["536FFCFF0ABAB76B"]
 			id: "353E47F8911CCD8A"
 			tasks: [{
@@ -672,12 +991,22 @@
 				type: "item"
 				item: "megacells:cell_component_16m"
 			}]
+			rewards: [{
+				id: "49EE62EC1FA1DE54"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: -3.0d
 			shape: "diamond"
-			description: ["The fourth MEGA storage level offers a component with a capacity of &667108864&r bytes, equivalent to 65536k bytes."]
+			subtitle: "{chapter.ae.quest.55.subtitle.1}"
+			description: ["{chapter.ae.quest.55.description.1}"]
 			dependencies: ["353E47F8911CCD8A"]
 			id: "70C8C28D61164A28"
 			tasks: [{
@@ -685,12 +1014,22 @@
 				type: "item"
 				item: "megacells:cell_component_64m"
 			}]
+			rewards: [{
+				id: "59F606E51BD00D6E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 12.0d
 			y: -3.5d
 			shape: "diamond"
-			description: ["The pinnacle of MEGA storage is the fifth component, boasting a capacity of &6268435456&r bytes, which translates to 262144k bytes."]
+			subtitle: "{chapter.ae.quest.56.subtitle.1}"
+			description: ["{chapter.ae.quest.56.description.1}"]
 			dependencies: ["70C8C28D61164A28"]
 			id: "4D224469F50D0609"
 			tasks: [{
@@ -698,14 +1037,25 @@
 				type: "item"
 				item: "megacells:cell_component_256m"
 			}]
+			rewards: [{
+				id: "1788B556955D09D2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.68.title}"
 			x: 4.0d
 			y: -2.0d
+			subtitle: "{chapter.ae.quest.68.subtitle.1}"
 			description: [
-				"If you've successfully completed the previous quest, you would have transformed the singularity into two &bQuantum Entangled Singularities&r. These entangled singularities serve as the key to connect the ring-shaped devices called &6Quantum Network Bridges&r."
+				"{chapter.ae.quest.68.description.1}"
 				""
-				"When two of these unique rings are connected using the Quantum Entangled Singularities and kick-started with some AE power (like from an energy cell), they enable an ME network to be extended wirelessly. This bridge allows expansion across vast distances or even different dimensions."
+				"{chapter.ae.quest.68.description.2}"
 			]
 			dependencies: ["299C31AC2471B903"]
 			id: "0A21212FF93FAB16"
@@ -729,14 +1079,24 @@
 					count: 2L
 				}
 			]
+			rewards: [{
+				id: "4411FA1BD7EB609A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.0d
 			y: -3.0d
+			subtitle: "{chapter.ae.quest.67.subtitle.1}"
 			description: [
-				"When utilizing a storage component of 64k or greater capacity, the Matter Condenser significantly enhances its condensation capability to produce a &bSingularity&r. To create one singularity, a whopping 256,000 items must be voided. That equates to precisely &o4000 stacks&r!"
+				"{chapter.ae.quest.67.description.1}"
 				""
-				"Discover the intriguing results by tossing this Singularity on the ground alongside a pinch of &bEnder Dust&r. While this process might cause a bit of a ruckus in the vicinity, fret not! AE2 thoughtfully provides its &bTiny TNT&r to keep the collateral damage to a minimum."
+				"{chapter.ae.quest.67.description.2}"
 			]
 			dependencies: ["5CF231F0B9DD443A"]
 			id: "299C31AC2471B903"
@@ -757,16 +1117,26 @@
 					item: "ae2:tiny_tnt"
 				}
 			]
+			rewards: [{
+				id: "7F0C200AB3F632AC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 3.5d
 			y: -4.5d
+			subtitle: "{chapter.ae.quest.64.subtitle.1}"
 			description: [
-				"When it comes to wirelessly expanding the ME Network itself, the initial step is admittedly somewhat unconventional."
+				"{chapter.ae.quest.64.description.1}"
 				""
-				"The &bMatter Condenser&r represents AE2's unique approach to a disposal system, effectively voiding any items fed into it. Yet, with the integration of a &6Storage Component&r, this condenser gains the ability to capture residual energy from the discarded items. This stored energy can then be utilized to create two distinct crafting items by channeling a sufficient amount of concentrated energy."
+				"{chapter.ae.quest.64.description.2}"
 				""
-				"The initial item in this duo is the &bMatter Ball&r, demanding a minimum of a 1k storage component and the equivalent of 256 voided items' worth of material."
+				"{chapter.ae.quest.64.description.3}"
 			]
 			dependencies: ["78141A05CA4B70CC"]
 			id: "5CF231F0B9DD443A"
@@ -782,17 +1152,27 @@
 					item: "ae2:matter_ball"
 				}
 			]
+			rewards: [{
+				id: "5D35C4116E63E225"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
 			y: -5.5d
 			shape: "hexagon"
+			subtitle: "{chapter.ae.quest.62.subtitle.1}"
 			description: [
-				"ME networks also offer robust wireless capabilities, encompassing not only convenient remote access to ME storage contents while on the move but also establishing extensive network connections across long distances and even between different dimensions."
+				"{chapter.ae.quest.62.description.1}"
 				""
-				"Typically, the initial procedure for achieving the former involves crafting an &bME Security Terminal&r. True to its name, the Security Terminal empowers network security by enabling precise access permissions to the network, thus preventing unauthorized users from gaining entry. To grant access, designated users can be assigned permissions using a &bBiometric Card&r, which is linked to the corresponding user through a right-click action. Alternatively, a blank card can be utilized to establish universal permissions for individuals who aren't either the network owner or already granted access through a whitelisted card."
+				"{chapter.ae.quest.62.description.2}"
 				""
-				"By default, the individual who deploys the terminal is designated as the \"owner\" of the network, automatically wielding complete control over the network without necessitating the use of a biometric card."
+				"{chapter.ae.quest.62.description.3}"
 			]
 			hide_dependency_lines: true
 			dependencies: [
@@ -814,11 +1194,22 @@
 					item: "ae2:biometric_card"
 				}
 			]
+			rewards: [{
+				id: "0B988061B1DF9C6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.63.title}"
 			x: 0.5d
 			y: -4.5d
-			description: ["The subsequent component required to enable wireless network access is the &bME Wireless Access Point&r. This Access Point serves as the gateway for wireless network entry using a &6wireless terminal&r. Its operational range is determined by the number of &bWireless Boosters&r integrated into the access point, establishing a finite coverage area."]
+			subtitle: "{chapter.ae.quest.63.subtitle.1}"
+			description: ["{chapter.ae.quest.63.description.1}"]
 			dependencies: ["78141A05CA4B70CC"]
 			id: "616972F89D86A425"
 			tasks: [
@@ -833,16 +1224,27 @@
 					item: "ae2:wireless_booster"
 				}
 			]
+			rewards: [{
+				id: "15CBBFCD5EB0AB98"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.65.title}"
 			x: 1.0d
 			y: -3.0d
+			subtitle: "{chapter.ae.quest.65.subtitle.1}"
 			description: [
-				"The &bWireless Terminal&r operates in the same manner as a standard terminal, with the added convenience of wireless functionality. Quite a straightforward concept."
+				"{chapter.ae.quest.65.description.1}"
 				""
-				"Prior to utilizing a wireless terminal for network access, it's essential to initially &6link&r the terminal to the network using the previously crafted &6Security Terminal&r. In cases where the terminal lacks a network link, resides beyond the reach of the network's range, or lacks sufficient power, the terminal will remain non-functional."
+				"{chapter.ae.quest.65.description.2}"
 				""
-				"Wireless terminals can also be enhanced by incorporating &6Energy Cards&r, which serve to augment their internal battery capacity."
+				"{chapter.ae.quest.65.description.3}"
 			]
 			dependencies: ["616972F89D86A425"]
 			id: "127391CE6E19DD77"
@@ -858,11 +1260,21 @@
 					item: "ae2:wireless_crafting_terminal"
 				}
 			]
+			rewards: [{
+				id: "0FD59CAE9CAE827E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 0.0d
 			y: -2.0d
-			description: ["The &dAEInfinityBooster&r add-on introduces a pair of specialized wireless boosters that enable limitless connectivity range, along with the choice for cross-dimensional compatibility if desired."]
+			subtitle: "{chapter.ae.quest.66.subtitle.1}"
+			description: ["{chapter.ae.quest.66.description.1}"]
 			dependencies: ["127391CE6E19DD77"]
 			id: "7C5ADBDDA482AD6F"
 			tasks: [
@@ -877,16 +1289,26 @@
 					item: "aeinfinitybooster:dimension_card"
 				}
 			]
+			rewards: [{
+				id: "73E19F70DDF63C3A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
 			y: -3.5d
+			subtitle: "{chapter.ae.quest.77.subtitle.1}"
 			description: [
-				"In addition to its capabilities for storing items and fluids, AE2 also offers a built-in method for containing complete &6structures&r within storage cells, reminiscent of the functionality seen in the Compact Machines mod."
+				"{chapter.ae.quest.77.description.1}"
 				""
-				"The &bSpatial IO Port&r facilitates the capture of structures housed within a &bSpatial Containment Structure&r, storing them within a uniquely designed storage cell. Activation of this process is achieved through a redstone signal."
+				"{chapter.ae.quest.77.description.2}"
 				""
-				"Should a creature or player find themselves within the confines of the SCS during the capturing process, they will also be transported to the same destination as the rest of the enclosed space — typically a dedicated dimension. It's essential to ensure there's a means of returning to the original location if you happen to be the one inadvertently captured."
+				"{chapter.ae.quest.77.description.3}"
 			]
 			hide_dependency_lines: true
 			dependencies: ["16D5B1DB59FCA414"]
@@ -896,16 +1318,26 @@
 				type: "item"
 				item: "ae2:spatial_io_port"
 			}]
+			rewards: [{
+				id: "11B4EB34E6427C91"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.0d
 			y: -3.5d
+			subtitle: "{chapter.ae.quest.78.subtitle.1}"
 			description: [
-				"The Spatial Containment Structure (SCS) is composed of a cage formed by &bSpatial Pylons&r, enveloping the desired volume intended for confinement within a Spatial IO cell. At its most basic configuration, an SCS necessitates three rows of spatial pylon blocks, each corresponding to one dimension of the enclosed space (length, width, height)."
+				"{chapter.ae.quest.78.description.1}"
 				""
-				"Nonetheless, Spatial IO constitutes a power-intensive capability, particularly when attempting to encapsulate more substantial expanses (up to 128x128x128). Incorporating additional spatial pylons within the SCS encompassing the targeted volume will enhance its overall &6efficiency&r, enabling it to achieve capture with reduced energy consumption."
+				"{chapter.ae.quest.78.description.2}"
 				""
-				"Additionally, it's important to bear in mind that every individual pylon, regardless of its dimension, consumes one channel. In scenarios involving particularly expansive spaces, it might be prudent to establish a dedicated network equipped with a controller to accommodate all the necessary pylons."
+				"{chapter.ae.quest.78.description.3}"
 			]
 			dependencies: ["7761D53AA0265A48"]
 			min_width: 300
@@ -915,11 +1347,21 @@
 				type: "item"
 				item: "ae2:spatial_pylon"
 			}]
+			rewards: [{
+				id: "642D906EA6DA2B77"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.5d
 			y: -3.0d
-			description: ["The &bSpatial Anchor&r serves as a complementary device stemming from the Spatial IO family, serving a straightforward role as a chunk loader. Upon integration with an ME network, the Anchor will ensure the continuous loading of all chunks inhabited by the ME network across all cables and devices, excluding subnetworks. This persistent loading remains in effect as long as the network retains a power supply."]
+			subtitle: "{chapter.ae.quest.81.subtitle.1}"
+			description: ["{chapter.ae.quest.81.description.1}"]
 			dependencies: ["76E3C83F6521798A"]
 			id: "3672985E6D7AFFD3"
 			tasks: [{
@@ -927,16 +1369,26 @@
 				type: "item"
 				item: "ae2:spatial_anchor"
 			}]
+			rewards: [{
+				id: "4187B788E08CABEF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 17.5d
 			y: -4.0d
+			subtitle: "{chapter.ae.quest.80.subtitle.1}"
 			description: [
-				"&bSpatial Storage Cells&r are designed to house a specific predefined volume, and are available in three distinct capacities, enabling storage for a maximum of 2x2x2, 16x16x16, and 128x128x128 blocks' worth of space, respectively."
+				"{chapter.ae.quest.80.description.1}"
 				""
-				"Upon encoding, a storage cell is assigned a designated segment within the spatial storage &6dimension&r, accompanied by a distinct ID linked to the allocated region for that cell. Even after encoding, the storage cell remains functional within the Spatial IO Port, facilitating the retrieval of stored blocks and entities."
+				"{chapter.ae.quest.80.description.2}"
 				""
-				"Subsequently, any blocks situated within either the cell's designated spatial area or within an SCS of equivalent dimensions to the one utilized during the initial encoding can be relocated back into the overworld or into the spatial dimension, respectively. In cases where blocks exist both within the spatial region and within the SCS, these will seamlessly exchange places as needed."
+				"{chapter.ae.quest.80.description.3}"
 			]
 			dependencies: ["76E3C83F6521798A"]
 			id: "62E22ED375D9D8D8"
@@ -965,14 +1417,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "2A0FD0347F6C02C9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.57.title}"
 			x: 11.5d
 			y: -7.0d
+			subtitle: "{chapter.ae.quest.57.subtitle.1}"
 			description: [
-				"Each &bME Item Storage Cell&r has the capacity to accommodate as many as 63 distinct item types. When adding a new item type to a cell, it will occupy a specific portion of the cell's total capacity, measured in bytes. For each type already contained within the cell, the allocation equates to 1 \"byte,\" which translates to being able to store 8 items of the same type."
+				"{chapter.ae.quest.57.description.1}"
 				""
-				"As an example, let's consider a 1k Item Storage Cell exclusively containing cobblestone. In this case, the cell can accommodate a maximum of 8128 cobblestone units, calculated as follows: (8*1024b - 8b/type * 1 type)"
+				"{chapter.ae.quest.57.description.2}"
 			]
 			dependencies: ["157FE966949A6CEE"]
 			id: "03EBDB8502E0656A"
@@ -1039,16 +1502,27 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "0B636A687394A62A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.59.title}"
 			x: 13.5d
 			y: -7.0d
+			subtitle: "{chapter.ae.quest.59.subtitle.1}"
 			description: [
-				"Indeed, items aren't the sole entities suitable for storage within ME cells. &bME Fluid Storage Cells&r are adept at containing liquids such as water, lava, and a multitude of modded oils and fuels, among various other possibilities."
+				"{chapter.ae.quest.59.description.1}"
 				""
-				"It's worth nothing that all storage cells, irrespective of their intended contents, diverge only in their housing design. Both item and fluid cells employ the same type of storage component during their creation."
+				"{chapter.ae.quest.59.description.2}"
 				""
-				"In the context of fluids, 1 byte is equivalent to 8 buckets, or 8000mb."
+				"{chapter.ae.quest.59.description.3}"
 			]
 			dependencies: ["157FE966949A6CEE"]
 			id: "1F094109ADE71E47"
@@ -1115,14 +1589,24 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1DD14D142D2A3E61"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.5d
 			y: -7.0d
+			subtitle: "{chapter.ae.quest.60.subtitle.1}"
 			description: [
-				"In the 1.18 versions of Applied Energistics 2, a novel feature is the direct inclusion of Mekanism chemicals support, facilitated by the official integration add-on called &dApplied Mekanistics&r. These cells have the capability to contain a wide range of chemicals from Mekanism, encompassing gases, pigments, and ore slurries, among other substances. It is important to note, however, that these cells are &o&lnot&r compatible with radioactive materials such as nuclear waste."
+				"{chapter.ae.quest.60.description.1}"
 				""
-				"Furthermore, the &dMEGA Cells&r seamlessly integrate with Applied Mekanistics, offering elevated tiers of chemical cells. These advanced cells maintain the same prohibition on radioactive substances, mirroring the constraints of the standard cells."
+				"{chapter.ae.quest.60.description.2}"
 			]
 			dependencies: ["157FE966949A6CEE"]
 			id: "1537805B71040FD9"
@@ -1189,14 +1673,24 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "2A051CC64C1AA4C7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 12.5d
 			y: -8.0d
+			subtitle: "{chapter.ae.quest.58.subtitle.1}"
 			description: [
-				"Within the &dMEGA Cells&r framework, the specialized &bBulk Item Storage Cell&r is introduced. This cell is distinguished by its unique ability to store a single type of item, albeit in a practically &o&linfinite&r* quantity. However, for an item type to be accepted, it must undergo a pre-filtering process using a Cell Workbench."
+				"{chapter.ae.quest.58.description.1}"
 				""
-				"*Please note that the concept of \"infinite\" is subject to the limitations of the system and game mechanics."
+				"{chapter.ae.quest.58.description.2}"
 			]
 			dependencies: ["03EBDB8502E0656A"]
 			id: "3850AA84121CCAD5"
@@ -1209,16 +1703,26 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "6A92EB2E79BA4A17"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
 			y: -6.0d
+			subtitle: "{chapter.ae.quest.61.subtitle.1}"
 			description: [
-				"The &dMEGA Cells&r feature a blacklist for radioactive chemicals, adhering to the same principle as the standard &dApplied Mekanistics&r setup. Nevertheless, they offer a relatively compact storage solution that proves useful for individuals interested in delving into waste reprocessing endeavors."
+				"{chapter.ae.quest.61.description.1}"
 				""
-				"The &bMEGA Radioactive Chemical Storage Cell&r stands as a specialized cell, crafted using a methodology akin to the Bulk Item Storage Cell. However, it represents a considerably more advanced and costly option. This cell boasts a capacity restricted to 256 bytes for a singular chemical type, which translates to approximately 2048 buckets or the equivalent of 4 waste barrels' worth of substances like Polonium, Plutonium, or Nuclear Waste."
+				"{chapter.ae.quest.61.description.2}"
 				""
-				"It's important to highlight that MEGA Radioactive Chemical Storage Cells do not have the capability to store Spent Nuclear Waste. This is a limitation to be mindful of in this context."
+				"{chapter.ae.quest.61.description.3}"
 			]
 			dependencies: ["1537805B71040FD9"]
 			id: "2BAAA499DBED4F98"
@@ -1231,19 +1735,30 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "6FB6F46F3AD5CCD8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.41.title}"
 			x: 3.0d
 			y: -7.0d
 			shape: "gear"
+			subtitle: "{chapter.ae.quest.41.subtitle.1}"
 			description: [
-				"The &bCharged Staff&r is a straightforward powered staff that inflicts 3 hearts of damage and consumes 300 AE (Applied Energistics energy units) per strike. Additionally, it adheres to pre-1.9 combat mechanics, allowing you to engage in rapid click spamming, reminiscent of earlier combat mechanics."
+				"{chapter.ae.quest.41.description.1}"
 				""
-				"The &bEntropy Manipulator&r possesses the ability to trigger certain effects when utilized on specific blocks within the environment. It can conduct in-place smelting of these blocks, transforming substances like sand into glass and metal ores into metal ingots. Alternatively, if used on a block that doesn't support smelting, the manipulator will merely ignite a fire on the targeted block."
+				"{chapter.ae.quest.41.description.2}"
 				""
-				"Lastly, the &bMatter Cannon&r operates in a manner akin to the Color Applicator, serving as a specialized cell designed to contain \"ammo\" items like Matter Balls and iron/gold nuggets. These stored projectiles can subsequently be launched to inflict damage upon mobs or to break blocks. The weightier \"ammo,\" such as metal nuggets, delivers greater damage and is capable of breaking sturdier blocks."
+				"{chapter.ae.quest.41.description.3}"
 				""
-				"In a Matter Cannon, Matter Balls can be replaced with &bPaint Balls&r, imparting a paint splatter effect on the surface of the targeted block upon firing. Furthermore, there's a specialized variation known as &bLumen Paint Balls&r, exclusive to the Matter Cannon, which not only creates paint splatters but also emits light once they are introduced into the world."
+				"{chapter.ae.quest.41.description.4}"
 			]
 			hide_dependency_lines: true
 			dependencies: ["157FE966949A6CEE"]
@@ -1269,17 +1784,27 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "5C446D66FD9C92CE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
 			y: -10.0d
 			shape: "hexagon"
+			subtitle: "{chapter.ae.quest.22.subtitle.1}"
 			description: [
-				"To simplify tasks, AE2 offers a comprehensive array of devices tailored for the manipulation of ME data, essentially facilitating the movement of stored items throughout the world."
+				"{chapter.ae.quest.22.description.1}"
 				""
-				"The &bME Interface&r stands as one of these devices. Functioning as an input mechanism, the Interface grants the capability to channel various items, fluids, and more externally through it. These incoming resources are subsequently automatically integrated into the connected ME Network, streamlining the storage process."
+				"{chapter.ae.quest.22.description.2}"
 				""
-				"When employed as an output device, the Interface can be set up to maintain a designated quantity of a stored item in stock, ensuring a certain supply is retained within its internal inventory from the ME network. This arrangement facilitates the subsequent transfer of items to an external destination, such as another player or a piping system."
+				"{chapter.ae.quest.22.description.3}"
 			]
 			dependencies: ["064C42F6726AF695"]
 			size: 1.5d
@@ -1289,16 +1814,26 @@
 				type: "item"
 				item: "ae2:interface"
 			}]
+			rewards: [{
+				id: "20B459300A0E1459"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
 			y: -9.0d
+			subtitle: "{chapter.ae.quest.30.subtitle.1}"
 			description: [
-				"An integral concept in AE2 is the practice of \"&6subnetting&r,\" involving the creation of an additional and distinct ME network referred to as a \"&6subnetwork&r.\" This subnetwork collaborates with the main network to carry out specialized functions or processes."
+				"{chapter.ae.quest.30.description.1}"
 				""
-				"What distinguishes a subnetwork from a completely separate and independent network is often the utilization of &bQuartz Fiber&r as a cable component. When positioned between two segments of cable that would otherwise remain unconnected, the Quartz Fiber facilitates the transmission of power exclusively, refraining from transferring any data or channels between the two segments."
+				"{chapter.ae.quest.30.description.2}"
 				""
-				"As a result, a subnetwork located on the opposite end of the Fiber can be entirely powered by the primary network's energy source, eliminating the need for additional dedicated power generation."
+				"{chapter.ae.quest.30.description.3}"
 			]
 			dependencies: ["47CCBB423DC0B88C"]
 			id: "4E0FEA0C861554B1"
@@ -1307,16 +1842,26 @@
 				type: "item"
 				item: "ae2:quartz_fiber"
 			}]
+			rewards: [{
+				id: "25C88B9E691B1322"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
 			y: -8.5d
+			subtitle: "{chapter.ae.quest.31.subtitle.1}"
 			description: [
-				"The &bP2P&r (peer-to-peer) system serves as a potent mechanism within AE2, enabling the seamless transfer of items, fluids, and various other entities without necessitating the involvement of any intermediary ME storage units."
+				"{chapter.ae.quest.31.description.1}"
 				""
-				"Interacting with a P2P tunnel through a right-click action using specific items will trigger an &6attunement&r process. This procedure transforms the tunnel into one that is adept at transmitting different types of entities, like items through pipes, energy via cables, redstone signals, and even (by default) ME connections themselves."
+				"{chapter.ae.quest.31.description.2}"
 				""
-				"For the linkage of P2P tunnels, the utilization of a &6Memory Card&r is imperative. Further information about this component is provided in the subsequent quest."
+				"{chapter.ae.quest.31.description.3}"
 			]
 			dependencies: ["47CCBB423DC0B88C"]
 			id: "32C11AD5298B60C9"
@@ -1325,14 +1870,25 @@
 				type: "item"
 				item: "ae2:me_p2p_tunnel"
 			}]
+			rewards: [{
+				id: "7CC3377E5CD783DB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.32.title}"
 			x: 18.0d
 			y: -9.0d
+			subtitle: "{chapter.ae.quest.32.subtitle.1}"
 			description: [
-				"The &bMemory Card&r is a versatile tool encompassing two distinct functions. The simpler of these functions involves saving configurations from various devices, such as whitelist filters, for the purpose of duplicating them onto another device of the same type."
+				"{chapter.ae.quest.32.description.1}"
 				""
-				"The second function of a memory card involves the linking of &6P2P tunnels&r. During this process, the P2P tunnel being linked will receive a unique identifier, which is then stored on the memory card for subsequent linking operations."
+				"{chapter.ae.quest.32.description.2}"
 			]
 			dependencies: ["32C11AD5298B60C9"]
 			id: "7CB543F5885343FB"
@@ -1348,11 +1904,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5FA3D9FB5B43DD6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.0d
 			y: -11.0d
-			description: ["The &bME Export Bus&r operates by intermittently ejecting items listed in its whitelist filter to an external storage destination that the bus is oriented towards. Unlike the Import Bus, the Export Bus is reliant on having a filter in place and cannot function without one."]
+			subtitle: "{chapter.ae.quest.28.subtitle.1}"
+			description: ["{chapter.ae.quest.28.description.1}"]
 			dependencies: ["47CCBB423DC0B88C"]
 			id: "708942C8D9944A1B"
 			tasks: [{
@@ -1360,11 +1926,21 @@
 				type: "item"
 				item: "ae2:export_bus"
 			}]
+			rewards: [{
+				id: "3227297E64447957"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
 			y: -11.5d
-			description: ["The &bME Import Bus&r functions by regularly drawing items from the external storage it is directed towards. It can also be configured with optional filtering to exclusively retrieve specific items from the designated inventory."]
+			subtitle: "{chapter.ae.quest.26.subtitle.1}"
+			description: ["{chapter.ae.quest.26.description.1}"]
 			dependencies: ["47CCBB423DC0B88C"]
 			id: "6B3FAABCCAAE8F01"
 			tasks: [{
@@ -1372,14 +1948,24 @@
 				type: "item"
 				item: "ae2:import_bus"
 			}]
+			rewards: [{
+				id: "03DE4C20E4D812B4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
 			y: -11.0d
+			subtitle: "{chapter.ae.quest.23.subtitle.1}"
 			description: [
-				"The &bME Storage Bus&r, when positioned facing an external storage container, bestows upon the container the ability to be seamlessly integrated into the ME network. This integration enables the extraction of items from the container or the insertion of items into it exclusively through ME interfaces."
+				"{chapter.ae.quest.23.description.1}"
 				""
-				"Storage buses can be configured with filters and assigned distinct priorities. This configuration enables specific items to first attempt placement in the linked storage. However, it's important to note that the storage bus does not retroactively relocate filtered items from other locations within the network to the attached storage."
+				"{chapter.ae.quest.23.description.2}"
 			]
 			dependencies: ["47CCBB423DC0B88C"]
 			id: "6CF18F8D359336E7"
@@ -1388,16 +1974,26 @@
 				type: "item"
 				item: "ae2:storage_bus"
 			}]
+			rewards: [{
+				id: "0BCA9B033A76A82F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
 			y: -13.0d
+			subtitle: "{chapter.ae.quest.27.subtitle.1}"
 			description: [
-				"The &bME Annihilation Plane&r possesses the ability to autonomously dismantle blocks located in front of it. Moreover, any items dropped as a result of block destruction are promptly routed back to the ME network for storage."
+				"{chapter.ae.quest.27.description.1}"
 				""
-				"An additional advantage of the Annihilation Plane is its susceptibility to enchantments, akin to regular digging tools. These enchantments influence block drops in a manner consistent with how the corresponding enchanted tool functions. Consequently, when enchanted with Fortune, for instance, the Annihilation Plane becomes particularly adept at processing ore blocks."
+				"{chapter.ae.quest.27.description.2}"
 				""
-				"Incorporating enchantments substantially escalates the energy consumption of the Annihilation Plane with each block it breaks. When augmented with the &6Efficiency&r enchantment, the overall energy usage for all other enchantments is reduced. On the other hand, the &6Unbreaking&r enchantment grants the plane the potential to consume energy intermittently, akin to how Unbreaking operates on conventional tools."
+				"{chapter.ae.quest.27.description.3}"
 			]
 			dependencies: ["6B3FAABCCAAE8F01"]
 			id: "59DA34D586ED2870"
@@ -1406,14 +2002,24 @@
 				type: "item"
 				item: "ae2:annihilation_plane"
 			}]
+			rewards: [{
+				id: "53D689315B3942AE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.0d
 			y: -12.5d
+			subtitle: "{chapter.ae.quest.29.subtitle.1}"
 			description: [
-				"The &bME Formation Plane&r functions in a manner reminiscent of the Storage Bus, but it treats the surrounding world as its storage medium. In practical terms, this means that the plane is capable of placing any block from its filter directly in front of itself within the game world."
+				"{chapter.ae.quest.29.description.1}"
 				""
-				"This capability can be advantageous in scenarios where a block can be conveniently processed by placing it down and subsequently breaking it with a specific tool."
+				"{chapter.ae.quest.29.description.2}"
 			]
 			dependencies: ["6B3FAABCCAAE8F01"]
 			id: "644A5D1687731D15"
@@ -1422,11 +2028,21 @@
 				type: "item"
 				item: "ae2:formation_plane"
 			}]
+			rewards: [{
+				id: "0C3203C51A90D62F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
 			y: -12.5d
-			description: ["The &bCapacity Card&r provides the enhancement of expanding the filter capacity of a bus it's installed in. When Import and Export buses are upgraded with capacity cards, they transition from accommodating a solitary filtered item to their full potential of a nine-slot filter. Similarly, Storage buses undergo a transformation from having 18 slots to supporting up to 63 slots with the aid of a capacity card."]
+			subtitle: "{chapter.ae.quest.24.subtitle.1}"
+			description: ["{chapter.ae.quest.24.description.1}"]
 			dependencies: ["6CF18F8D359336E7"]
 			id: "12B334E1E6C4F4D8"
 			tasks: [{
@@ -1434,11 +2050,21 @@
 				type: "item"
 				item: "ae2:capacity_card"
 			}]
+			rewards: [{
+				id: "7FD955ABD9688693"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
 			y: -14.0d
-			description: ["The &bFuzzy Card&r introduces the capability to match a filtered item irrespective of any (NBT) metadata, which encompasses attributes like damage or enchantments. On the other hand, the &bInverter Card&r serves to toggle the filter on compatible buses, shifting it from a whitelist configuration to a blacklist configuration."]
+			subtitle: "{chapter.ae.quest.25.subtitle.1}"
+			description: ["{chapter.ae.quest.25.description.1}"]
 			dependencies: ["12B334E1E6C4F4D8"]
 			id: "30458C06F9C72956"
 			tasks: [
@@ -1453,14 +2079,24 @@
 					item: "ae2:inverter_card"
 				}
 			]
+			rewards: [{
+				id: "3D768506F1E5BB31"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -2.0d
 			y: -7.5d
+			subtitle: "{chapter.ae.quest.34.subtitle.1}"
 			description: [
-				"Certainly, AE2 offers its own method to significantly accelerate the process of crystal growth."
+				"{chapter.ae.quest.34.description.1}"
 				""
-				"Position these devices around your Budding Crystals, supply them with power, and observe as your crystals experience rapid growth!"
+				"{chapter.ae.quest.34.description.2}"
 			]
 			dependencies: ["2DC8F5DB7E835F4F"]
 			id: "144EC82AC2B34E52"
@@ -1469,16 +2105,26 @@
 				type: "item"
 				item: "ae2:quartz_growth_accelerator"
 			}]
+			rewards: [{
+				id: "4F5B06516F88688F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Auto-Crafting"
+			title: "{chapter.ae.quest.12.title}"
 			x: 11.5d
 			y: -10.0d
 			shape: "hexagon"
+			subtitle: "{chapter.ae.quest.12.subtitle.1}"
 			description: [
-				"AE2's automated crafting mechanism begins with the &bME Pattern Provider&r. This device serves as a repository for specific items referred to as &bPatterns&r (elaborated on in the subsequent quest). These patterns are designed to encompass recipes that transform input items into specified outputs. A single provider can accommodate up to 9 patterns simultaneously."
+				"{chapter.ae.quest.12.description.1}"
 				""
-				"Frequently, you'll find yourself employing multiple pattern providers distributed across your base. To facilitate seamless access to the contents of all providers within your expansive ME network, the &bPattern Access Terminal&r proves invaluable. This terminal enables remote access to the patterns stored in various providers."
+				"{chapter.ae.quest.12.description.2}"
 			]
 			dependencies: ["064C42F6726AF695"]
 			size: 1.5d
@@ -1495,15 +2141,25 @@
 					item: "ae2:pattern_access_terminal"
 				}
 			]
+			rewards: [{
+				id: "03110BACB3A1E5C4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
-			title: "Patterns"
+			title: "{chapter.ae.quest.16.title}"
 			x: 11.5d
 			y: -11.5d
+			subtitle: "{chapter.ae.quest.16.subtitle.1}"
 			description: [
-				"&bPatterns&r function as repositories for encoded recipes that can be executed by a Pattern Provider. To encode a recipe onto a pattern, the process involves utilizing the &bME Pattern Encoding Terminal&r."
+				"{chapter.ae.quest.16.description.1}"
 				""
-				"Patterns offer the flexibility of holding either a conventional &6crafting&r recipe or a broader \"&6processing&r\" recipe. Crafting recipes entail the utilization of a &6Molecular Assembler&r positioned on the Provider's interface. Conversely, processing recipes involve sending input items from the provider to external machinery or dedicated processing units."
+				"{chapter.ae.quest.16.description.2}"
 			]
 			dependencies: ["694B8C5BF97F0A46"]
 			id: "00CFD2B9E9723DC6"
@@ -1519,16 +2175,26 @@
 					item: "ae2:blank_pattern"
 				}
 			]
+			rewards: [{
+				id: "5FE3B8E90664B5EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: -13.0d
+			subtitle: "{chapter.ae.quest.17.subtitle.1}"
 			description: [
-				"The &bMolecular Assembler&r serves as AE2's counterpart to an automated crafting table, essential for executing all &6crafting&r pattern tasks."
+				"{chapter.ae.quest.17.description.1}"
 				""
-				"Molecular Assemblers possess the capacity to transmit both power and channels to other ME devices linked to them, without consuming a channel themselves. In cases where a Pattern Provider is employed, up to 6 Molecular Assemblers can be linked to it, enabling the execution of multiple crafting tasks concurrently."
+				"{chapter.ae.quest.17.description.2}"
 				""
-				"Each Molecular Assembler (MA) features an exclusive slot designated for a single crafting pattern. This attribute empowers MAs to function autonomously when powered. In this mode, any items inserted into the MA that align with the crafting pattern will be automatically transformed into the resulting product of the pattern."
+				"{chapter.ae.quest.17.description.3}"
 			]
 			dependencies: ["00CFD2B9E9723DC6"]
 			id: "2B74732EED5F2CAA"
@@ -1537,14 +2203,24 @@
 				type: "item"
 				item: "ae2:molecular_assembler"
 			}]
+			rewards: [{
+				id: "24FBF56D44208CD9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 11.5d
 			y: -14.5d
+			subtitle: "{chapter.ae.quest.18.subtitle.1}"
 			description: [
-				"The &bAcceleration Card&r serves a dual purpose, contingent upon the device it's integrated with. Depending on the specific device, the card can either augment the operational speed of the device or enable it to execute a greater number of operations in a single instance."
+				"{chapter.ae.quest.18.description.1}"
 				""
-				"When applied to the &6Molecular Assembler&r, a complete set of 5 &bAcceleration Cards&r drastically diminishes the duration required for the MA to complete a crafting operation. This reduction brings the crafting time down from one second (without any cards) to a single &otick&r, a remarkable improvement in efficiency."
+				"{chapter.ae.quest.18.description.2}"
 			]
 			dependencies: ["2B74732EED5F2CAA"]
 			id: "6FFD214583E9CB27"
@@ -1553,14 +2229,24 @@
 				type: "item"
 				item: "ae2:speed_card"
 			}]
+			rewards: [{
+				id: "53AF207E52A6749F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: -11.0d
+			subtitle: "{chapter.ae.quest.19.subtitle.1}"
 			description: [
-				"The &bME Level Emitter&r operates in accordance with the configuration of a designated item and its corresponding quantity. Based on the item's presence and amount within the network, the emitter will emit a redstone signal, contingent upon whether the stored quantity falls below, exceeds, or matches the specified threshold."
+				"{chapter.ae.quest.19.description.1}"
 				""
-				"This functionality can be leveraged, for instance, to automatically activate specific machines using redstone signals for auto-crafting resources whenever their quantities drop below a predefined minimum threshold."
+				"{chapter.ae.quest.19.description.2}"
 			]
 			dependencies: ["694B8C5BF97F0A46"]
 			id: "4BD994724D9D1B9C"
@@ -1569,14 +2255,24 @@
 				type: "item"
 				item: "ae2:level_emitter"
 			}]
+			rewards: [{
+				id: "411426A5E52A2664"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: -12.5d
+			subtitle: "{chapter.ae.quest.20.subtitle.1}"
 			description: [
-				"Individual ME devices can be tailored to react to redstone signals as well. By integrating a &bRedstone Card&r, a device can be programmed to perform tasks exclusively when powered by a redstone signal or in accordance with specific requirements."
+				"{chapter.ae.quest.20.description.1}"
 				""
-				"This behavior can extend to entire &osections&r of an ME network through the utilization of an &bME Toggle Bus&r. This innovative solution enables a designated network segment connected via the bus to activate only when the bus receives a redstone signal. Alternatively, when employing an &6inverted&r toggle bus, the designated network segment can be deactivated."
+				"{chapter.ae.quest.20.description.2}"
 			]
 			dependencies: ["4BD994724D9D1B9C"]
 			id: "6E8D57FE28E1E4A5"
@@ -1592,14 +2288,24 @@
 					item: "ae2:toggle_bus"
 				}
 			]
+			rewards: [{
+				id: "0130F509519E1896"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.0d
 			y: -14.0d
+			subtitle: "{chapter.ae.quest.21.subtitle.1}"
 			description: [
-				"When incorporated as an upgrade to any compatible device, such as an Interface or Export Bus, the &bCrafting Card&r facilitates the automation of crafting requests for a specified (filtered) item. This enables the respective device to independently initiate crafting procedures. Crafting CPUs can be tailored to exclusively respond to these automated requests, thus ensuring that they don't occupy CPUs designated for crafts requested by players."
+				"{chapter.ae.quest.21.description.1}"
 				""
-				"When the &6Level Emitter&r is augmented with the Crafting Card, it gains the capacity to emit redstone signals that directly contribute to crafting processes. This can manifest in two ways: emitting a signal &owhile&r a crafting job for the specified item is detected or issuing a signal &oto&r initiate the crafting of the item itself. The latter scenario is particularly relevant for situations where a redstone signal is all that's required to produce a specific item, circumventing the need for a conventional crafting pattern."
+				"{chapter.ae.quest.21.description.2}"
 			]
 			dependencies: ["6E8D57FE28E1E4A5"]
 			id: "5AE568732F44B41C"
@@ -1608,14 +2314,25 @@
 				type: "item"
 				item: "ae2:crafting_card"
 			}]
+			rewards: [{
+				id: "0783ED5177D892FD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.13.title}"
 			x: 10.0d
 			y: -11.0d
+			subtitle: "{chapter.ae.quest.13.subtitle.1}"
 			description: [
-				"Prior to executing an auto-crafting operation, you must possess a dedicated device to house the crafting request as well as any intermediate items necessary for multi-step crafts. This specialized device is referred to as a &6crafting CPU&r."
+				"{chapter.ae.quest.13.description.1}"
 				""
-				"A crafting CPU is a composite structure formed by assembling multiple blocks into a coherent unit. At a minimum, it necessitates a &bCrafting Storage&r block, and it can also incorporate additional Crafting Units. The configuration of this multiblock can vary in size, but it must be shaped as a solid cuboid in order to successfully establish and operate."
+				"{chapter.ae.quest.13.description.2}"
 			]
 			dependencies: ["694B8C5BF97F0A46"]
 			id: "1F1095545A500C6F"
@@ -1671,14 +2388,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "528C59C305E4627E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.14.title}"
 			x: 10.0d
 			y: -12.5d
+			subtitle: "{chapter.ae.quest.14.subtitle.1}"
 			description: [
-				"The &bCrafting Co-Processing Unit&r significantly enhances the speed of crafting tasks by enabling pattern providers to either expedite the transfer of items to their linked devices or to collaborate concurrently on the creation of multiple necessary components."
+				"{chapter.ae.quest.14.description.1}"
 				""
-				"The fundamental AE2 co-processor furnishes a single co-processor \"thread\" to support these operations. Conversely, the co-processing unit derived from &dMEGA Cells&r offers a remarkable 4 threads within a single block, thereby bolstering the efficiency of crafting processes."
+				"{chapter.ae.quest.14.description.2}"
 			]
 			dependencies: ["1F1095545A500C6F"]
 			id: "29F2428896A89D58"
@@ -1702,14 +2430,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1ECDC695EBE135EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.ae.quest.15.title}"
 			x: 10.0d
 			y: -14.0d
+			subtitle: "{chapter.ae.quest.15.subtitle.1}"
 			description: [
-				"The &bCrafting Monitor&r functions as a display interface showcasing the ongoing crafting process. It exhibits both the primary item being crafted as well as the remaining quantity of that item yet to be produced."
+				"{chapter.ae.quest.15.description.1}"
 				""
-				"Both the standard AE2 monitor and the MEGA monitor share identical functionality, primarily serving aesthetic purposes. They offer the same capabilities while differing in appearance, allowing users to choose the design that best complements their preferences."
+				"{chapter.ae.quest.15.description.2}"
 			]
 			dependencies: ["29F2428896A89D58"]
 			id: "1D096445058109D6"
@@ -1733,15 +2472,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "59D6E92839EF4ECC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 6.5d
 			y: -1.5d
 			shape: "diamond"
+			subtitle: "{chapter.ae.quest.72.subtitle.1}"
 			description: [
-				"The &bFluix Aggregator&r facilitates in-world crafting by combining Crystal Growth Accelerators."
+				"{chapter.ae.quest.72.description.1}"
 				""
-				"Grants access to &6Crystal Crafts&r by using raw materials and has charging capabilities."
+				"{chapter.ae.quest.72.description.2}"
 			]
 			dependencies: ["0B890D78431E8189"]
 			id: "0D5F7A04C7087C2D"
@@ -1750,12 +2499,22 @@
 				type: "item"
 				item: "lazierae2:aggregator"
 			}]
+			rewards: [{
+				id: "4634F268486D43A6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.0d
 			y: -1.0d
 			shape: "diamond"
-			description: ["The &bCircuit Etcher&r is essentially an &6Advanced Inscriber&r but upgradable and faster by making use of raw materials."]
+			subtitle: "{chapter.ae.quest.73.subtitle.1}"
+			description: ["{chapter.ae.quest.73.description.1}"]
 			dependencies: ["0B890D78431E8189"]
 			id: "2E1EB2F8E25A72B0"
 			tasks: [{
@@ -1763,12 +2522,22 @@
 				type: "item"
 				item: "lazierae2:etcher"
 			}]
+			rewards: [{
+				id: "79A3A38378827703"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.0d
 			y: -1.0d
 			shape: "diamond"
-			description: ["The &bPulse Grinder&r, grinds resources into their component parts for further use."]
+			subtitle: "{chapter.ae.quest.75.subtitle.1}"
+			description: ["{chapter.ae.quest.75.description.1}"]
 			dependencies: ["0B890D78431E8189"]
 			id: "7D98270AC57256E9"
 			tasks: [{
@@ -1776,12 +2545,22 @@
 				type: "item"
 				item: "lazierae2:grinder"
 			}]
+			rewards: [{
+				id: "1D6353074A5AC32C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 8.5d
 			y: -1.5d
 			shape: "diamond"
-			description: ["The &bMatter Infuser&r, fuses materials into new resources."]
+			subtitle: "{chapter.ae.quest.76.subtitle.1}"
+			description: ["{chapter.ae.quest.76.description.1}"]
 			dependencies: ["0B890D78431E8189"]
 			id: "4D94C892097C456F"
 			tasks: [{
@@ -1789,15 +2568,25 @@
 				type: "item"
 				item: "lazierae2:infuser"
 			}]
+			rewards: [{
+				id: "13C6816878E73A5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
 			y: -0.5d
 			shape: "diamond"
+			subtitle: "{chapter.ae.quest.74.subtitle.1}"
 			description: [
-				"The &bME Requester&r is a block essential to an ME network for operation, designed to store up to 6 different types of items. Its configuration can be accessed by right-clicking, and all necessary information is provided there. An additional tip suggests dragging and dropping specific items from the JEI page if they are currently unavailable."
+				"{chapter.ae.quest.74.description.1}"
 				""
-				"Regarding request batches, while the request count specifies the desired stock quantity, the batch size determines the number of items requested each time the Requester initiates a job. For clarity, consider an example: configuring the Requester with planks, a count of 10, and a batch size of 20, if the stock falls below 10, the Requester will ask for 20 planks at once (not 20 recipes). After crafting, you'll have 20 planks until the count dips below 10 for the next request."
+				"{chapter.ae.quest.74.description.2}"
 			]
 			dependencies: ["0B890D78431E8189"]
 			id: "414805D39050FF4C"
@@ -1806,10 +2595,20 @@
 				type: "item"
 				item: "lazierae2:requester"
 			}]
+			rewards: [{
+				id: "19431BB3FE99A52D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
 			y: -3.5d
+			subtitle: "{chapter.ae.quest.70.subtitle.1}"
 			hide_dependency_lines: true
 			dependencies: [
 				"299C31AC2471B903"
@@ -1821,11 +2620,21 @@
 				type: "item"
 				item: "lazierae2:universal_press"
 			}]
+			rewards: [{
+				id: "029425224723754D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 7.5d
 			y: -2.0d
 			shape: "diamond"
+			subtitle: "{chapter.ae.quest.71.subtitle.1}"
 			dependencies: ["03EB2B9AEB1EB52D"]
 			size: 1.3d
 			id: "0B890D78431E8189"
@@ -1834,11 +2643,21 @@
 				type: "item"
 				item: "lazierae2:parallel_processor"
 			}]
+			rewards: [{
+				id: "1E9640793D259E11"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.0d
 			y: -1.0d
 			shape: "hexagon"
+			subtitle: "{chapter.ae.quest.69.subtitle.1}"
 			dependencies: ["299C31AC2471B903"]
 			size: 1.3d
 			id: "66BB5FCB3DDC7186"
@@ -1846,6 +2665,15 @@
 				id: "0879BF5B561EBC26"
 				type: "item"
 				item: "ae2additions:me_wireless_transceiver"
+			}]
+			rewards: [{
+				id: "466EE2A6B4639E27"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 	]

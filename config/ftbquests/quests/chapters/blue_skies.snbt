@@ -3,7 +3,7 @@
 	group: "6E1FC0F5596E1533"
 	order_index: 11
 	filename: "blue_skies"
-	title: "Blue Skies"
+	title: "{chapter.bs.title}"
 	icon: {
 		id: "blue_skies:zeal_lighter"
 		Count: 1
@@ -17,12 +17,13 @@
 		{
 			x: 16.5d
 			y: 0.5d
+			subtitle: "{chapter.bs.quest.1.subtitle.1}"
 			description: [
-				"&9Blue Skies&r adds 2 new dimensions, both filled with new blocks, creatures, and a total of 4 bosses."
+				"{chapter.bs.quest.1.description.1}"
 				""
-				"To get started, we need to find the &6Gatekeeper&r!"
+				"{chapter.bs.quest.1.description.2}"
 				""
-				"The Gatekeeper possesses extensive knowledge about the dimensions in Blue Skies. As you progress through the mod, your &9Blue Journal&r will expand to provide guidance during your journey."
+				"{chapter.bs.quest.1.description.3}"
 				""
 				"{image:chroma:textures/quests/blueskies_gatekeepershouse.png width:200 height:125 align:1}"
 			]
@@ -32,6 +33,15 @@
 				id: "3C636BA1F563F644"
 				type: "item"
 				item: "blue_skies:blue_journal"
+			}]
+			rewards: [{
+				id: "3C7A6C6422B811DF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -54,6 +64,15 @@
 				icon: "blue_skies:everdawn_portal"
 				dimension: "blue_skies:everdawn"
 			}]
+			rewards: [{
+				id: "265AB013371170DC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.5d
@@ -75,14 +94,25 @@
 				icon: "blue_skies:everbright_portal"
 				dimension: "blue_skies:everbright"
 			}]
+			rewards: [{
+				id: "04BFFC5964E162DB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.2.title}"
 			x: 16.5d
 			y: 5.0d
+			subtitle: "{chapter.bs.quest.2.subtitle.1}"
 			description: [
-				"Your Overworldly tools have no power here."
+				"{chapter.bs.quest.2.description.1}"
 				""
-				"For progress in Blue Skies, crafting a new pickaxe from the surrounding woods is essential."
+				"{chapter.bs.quest.2.description.2}"
 			]
 			dependencies: [
 				"0B71D9164C3BC6A7"
@@ -152,14 +182,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "623C4B2377C2C60B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.10.title}"
 			x: 16.5d
 			y: 8.0d
+			subtitle: "{chapter.bs.quest.10.subtitle.1}"
 			description: [
-				"Just like in the Overworld, Wooden tools won't get you very far."
+				"{chapter.bs.quest.10.description.1}"
 				""
-				"Venture underground to acquire stone for crafting a new pickaxe. This will allow us to proceed with the utilization of the newly introduced ores."
+				"{chapter.bs.quest.10.description.2}"
 			]
 			dependencies: ["41C9C0965929B00F"]
 			id: "6F4BE525561CB18C"
@@ -190,14 +231,24 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "4FF300B088DA6508"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.5d
 			y: 6.5d
+			subtitle: "{chapter.bs.quest.4.subtitle.1}"
 			description: [
-				"To become proficient in the realms of Blue Skies, crafting the &6Spear&r is imperative."
+				"{chapter.bs.quest.4.description.1}"
 				""
-				"To craft these, acquiring Moonstone is the first step. Explore the caverns to locate the necessary ores!"
+				"{chapter.bs.quest.4.description.2}"
 			]
 			dependencies: ["6F4BE525561CB18C"]
 			id: "2AB3D907D9CB18A9"
@@ -206,11 +257,22 @@
 				type: "item"
 				item: "blue_skies:moonstone_shard"
 			}]
+			rewards: [{
+				id: "7C75A8E56CB83E47"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.3.title}"
 			x: 14.5d
 			y: 5.5d
-			description: ["The &6Spear&r stands as the preferred weapon within Blue Skies. With enchantment capabilities, it serves as a reliable ranged option against the adversaries you'll encounter."]
+			subtitle: "{chapter.bs.quest.3.subtitle.1}"
+			description: ["{chapter.bs.quest.3.description.1}"]
 			dependencies: ["2AB3D907D9CB18A9"]
 			id: "047CA7B4D77C77DA"
 			tasks: [{
@@ -275,16 +337,22 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1DF34659A363E016"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
 			y: 8.0d
 			shape: "diamond"
-			description: [
-				"&cPyrope&r means Speed in the language of Blue Skies."
-				""
-				"These tools are weak, but fast."
-			]
+			subtitle: "{chapter.bs.quest.8.subtitle.1}"
+			description: ["{chapter.bs.quest.8.description.1}"]
 			dependencies: ["6F4BE525561CB18C"]
 			id: "4FC6B908E932368E"
 			tasks: [{
@@ -292,11 +360,22 @@
 				type: "item"
 				item: "blue_skies:pyrope_gem"
 			}]
+			rewards: [{
+				id: "17989EE586F9E93A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.7.title}"
 			x: 14.0d
 			y: 7.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.7.subtitle.1}"
 			dependencies: ["4FC6B908E932368E"]
 			id: "58911A538E28EEF4"
 			tasks: [
@@ -345,11 +424,22 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "3CEF9207D38B7284"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.9.title}"
 			x: 14.0d
 			y: 8.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.9.subtitle.1}"
 			dependencies: ["4FC6B908E932368E"]
 			id: "70FE777D63EC2DF7"
 			tasks: [
@@ -398,15 +488,25 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "1CF200518DCB0EEA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
 			y: 10.0d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.18.subtitle.1}"
 			description: [
-				"This is the Diamond of Blue Skies."
+				"{chapter.bs.quest.18.description.1}"
 				""
-				"Although Diopside offers increased durability and impact, &dCharoite&r boasts superior speed and lighter weight overall. Charoite tools possess the ability to mine any substance within Blue Skies."
+				"{chapter.bs.quest.18.description.2}"
 			]
 			dependencies: ["37914B330A696D43"]
 			id: "7DF4FAA109D75744"
@@ -415,11 +515,22 @@
 				type: "item"
 				item: "blue_skies:raw_charoite"
 			}]
+			rewards: [{
+				id: "4F4FD54BB58E70D2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.17.title}"
 			x: 14.0d
 			y: 9.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.17.subtitle.1}"
 			dependencies: ["7DF4FAA109D75744"]
 			id: "5D1614AFC915AA67"
 			tasks: [
@@ -468,11 +579,22 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "674F1D8936A458B7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.19.subtitle.1}"
 			x: 14.0d
 			y: 10.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.19.description.1}"
 			dependencies: ["7DF4FAA109D75744"]
 			id: "7BBEFBB3A96F2FA2"
 			tasks: [
@@ -521,12 +643,22 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "6BD22DB290FAED00"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
 			y: 12.0d
 			shape: "diamond"
-			description: ["The robust green gemstone, &aDiopside&r, offers substantial strength but has a slower pace. It proves ideal for crafting formidable weapons."]
+			subtitle: "{chapter.bs.quest.23.subtitle.1}"
+			description: ["{chapter.bs.quest.23.description.1}"]
 			dependencies: ["37914B330A696D43"]
 			id: "56BCCF4344973E36"
 			tasks: [{
@@ -534,11 +666,22 @@
 				type: "item"
 				item: "blue_skies:diopside_gem"
 			}]
+			rewards: [{
+				id: "2004177DC4FD5B01"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.22.title}"
 			x: 14.0d
 			y: 11.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.22.subtitle.1}"
 			dependencies: ["56BCCF4344973E36"]
 			id: "774D3D98E0E53B36"
 			tasks: [
@@ -587,11 +730,22 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "5038BC0B3242CCF3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.24.title}"
 			x: 14.0d
 			y: 12.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.21.subtitle.1}"
 			dependencies: ["56BCCF4344973E36"]
 			id: "437D4C359B8D1BD0"
 			tasks: [
@@ -640,15 +794,25 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "0C1155211617C79D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.5d
 			y: 7.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.11.subtitle.1}"
 			description: [
-				"Ventium is a reddish metal discovered in the majority of non-mountainous biomes within the Everbright dimension."
+				"{chapter.bs.quest.11.description.1="
 				""
-				"It essentially functions like Iron but is limited to crafting shears, buckets, and the &6Tool Box&r."
+				"{chapter.bs.quest.11.description.2}"
 			]
 			dependencies: ["6F4BE525561CB18C"]
 			id: "099150B7F831C035"
@@ -657,15 +821,26 @@
 				type: "item"
 				item: "blue_skies:ventium_ingot"
 			}]
+			rewards: [{
+				id: "016506B400E4D2D5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.6.title}"
 			x: 19.5d
 			y: 7.0d
 			shape: "rsquare"
+			subtitle: "{chapter.bs.quest.6.subtitle.1}"
 			description: [
-				"Ventium can be used to make Shears and a bucket."
+				"{chapter.bs.quest.6.description.1}"
 				""
-				"The bucket can pick up the underwater mobs in Blue Skies."
+				"{chapter.bs.quest.6.description.2}"
 			]
 			dependencies: ["099150B7F831C035"]
 			id: "4B8B81352627CE56"
@@ -687,15 +862,25 @@
 					item: "blue_skies:ventium_bucket"
 				}
 			]
+			rewards: [{
+				id: "026CC847FD7BCDDA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.5d
 			y: 6.5d
 			shape: "rsquare"
+			subtitle: "{chapter.bs.quest.5.subtitle.1}"
 			description: [
-				"It serves to upgrade and enhance tools within the context of Blue Skies."
+				"{chapter.bs.quest.5.description.1="
 				""
-				"Falsite can bolster tool durability, while various sticks from the mod can be utilized to replace tool parts. Different wood types offer distinct functionalities."
+				"{chapter.bs.quest.5.description.2}"
 			]
 			dependencies: ["099150B7F831C035"]
 			id: "52AB24A2233EA062"
@@ -704,15 +889,25 @@
 				type: "item"
 				item: "blue_skies:tool_box"
 			}]
+			rewards: [{
+				id: "590B5C68A64368A2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 19.0d
 			y: 8.0d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.12.subtitle.1}"
 			description: [
-				"Falsite Ore is located within the non-mountainous biomes of Everbright."
+				"{chapter.bs.quest.12.description.1}"
 				""
-				"This ingot is employed in the tool box to enhance the durability of nearly any tool."
+				"{chapter.bs.quest.12.description.2}"
 			]
 			dependencies: ["6F4BE525561CB18C"]
 			id: "35F5460CB2F5A914"
@@ -721,12 +916,22 @@
 				type: "item"
 				item: "blue_skies:falsite_ingot"
 			}]
+			rewards: [{
+				id: "30DD6C43A4DE57C8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 20.0d
 			y: 8.0d
 			shape: "rsquare"
-			description: ["This is a lantern that prevents hostile spawns within a large radius."]
+			subtitle: "{chapter.bs.quest.13.subtitle.1}"
+			description: ["{chapter.bs.quest.13.description.1}"]
 			dependencies: ["35F5460CB2F5A914"]
 			id: "3FDA45258B16E39E"
 			tasks: [{
@@ -734,17 +939,27 @@
 				type: "item"
 				item: "blue_skies:warding_pearl"
 			}]
+			rewards: [{
+				id: "1BB4D9B641681366"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.5d
 			y: 8.5d
 			shape: "diamond"
+			subtitle: "{chapter.bs.quest.14.subtitle.1}"
 			description: [
-				"Found only within the Crystal Dunes."
+				"{chapter.bs.quest.14.description.1}"
 				""
-				"Tools made from this ingot will come with &6Auto-Smelt&r."
+				"{chapter.bs.quest.14.description.2}"
 				""
-				"This can also be used to make the &6Horizonite Forge&r."
+				"{chapter.bs.quest.14.description.3}"
 			]
 			dependencies: ["6F4BE525561CB18C"]
 			id: "450485FA06A83EE7"
@@ -753,11 +968,21 @@
 				type: "item"
 				item: "blue_skies:horizonite_ingot"
 			}]
+			rewards: [{
+				id: "2FE23CDFF2027F24"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 19.5d
 			y: 9.0d
 			shape: "rsquare"
+			subtitle: "{chapter.bs.quest.15.subtitle.1}"
 			dependencies: ["450485FA06A83EE7"]
 			id: "4EF22EFE9A49FEF4"
 			tasks: [{
@@ -765,11 +990,22 @@
 				type: "item"
 				item: "blue_skies:horizonite_forge"
 			}]
+			rewards: [{
+				id: "16B910E4306A03FA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.16.title}"
 			x: 18.5d
 			y: 9.5d
 			shape: "rsquare"
+			subtitle: "{chapter.bs.quest.16.subtitle.1}"
 			dependencies: ["450485FA06A83EE7"]
 			id: "7A43BB90D8C95802"
 			tasks: [
@@ -818,16 +1054,26 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "459745EB49C4BF3D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 16.5d
 			y: 11.0d
+			subtitle: "{chapter.bs.quest.20.subtitle.1}"
 			description: [
-				"As we go further in the caverns of Blue Skies, we'll run into &9Aquite Ore&r."
+				"{chapter.bs.quest.20.description.1}"
 				""
-				"Mine sufficient resources to fashion starter tools, essential for extracting the more resilient Blue Skies ores."
+				"{chapter.bs.quest.20.description.2}"
 				""
-				"At this point, it's advisable to seek out superior materials for crafting improved weaponry and armor."
+				"{chapter.bs.quest.20.description.3}"
 			]
 			dependencies: ["6F4BE525561CB18C"]
 			id: "37914B330A696D43"
@@ -836,15 +1082,25 @@
 				type: "item"
 				item: "blue_skies:aquite"
 			}]
+			rewards: [{
+				id: "53EE9905FC69EC14"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.5d
 			y: 11.0d
 			shape: "octagon"
+			subtitle: "{chapter.bs.quest.21.subtitle.1}"
 			description: [
-				"Within Blue Skies, players must conquer 4 bosses and explore numerous dungeons."
+				"{chapter.bs.quest.21.description.1}"
 				""
-				"You may stumble upon random \"tunnels\" that descend into dungeon chambers. These tunnels spawn Armored Frost Spirits for combat and soul collection."
+				"{chapter.bs.quest.21.description.2}"
 				""
 				"{image:chroma:textures/quests/blueskies_everbright_structuredungeon.png width:150 height:125 align:1}"
 			]
@@ -855,18 +1111,28 @@
 				type: "item"
 				item: "blue_skies:soul_fragment"
 			}]
+			rewards: [{
+				id: "2482E76EE4D051F0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.24.title}"
 			x: 16.5d
 			y: 13.5d
 			shape: "hexagon"
-			subtitle: "The Starter Dungeons"
+			subtitle: "{chapter.bs.quest.25.subtitle.1}"
 			description: [
-				"Whether you commenced in Everbright or Everdawn, prioritize locating a tower structure. These images will be provided in the subsequent quests. These towers house your initial boss encounters."
+				"{chapter.bs.quest.25.description.1}"
 				""
-				"Within the tower's smaller sections, engage in battles to secure loot and obtain &6Blinding Dungeon Keys&r. In the heart of the dungeon, you'll encounter a locked doorway. Employ 4 Blinding Dungeon Keys to unlock the boss fight within."
+				"{chapter.bs.quest.25.description.2}"
 				""
-				"Note: Upon defeating the boss, it will drop an Arc. These can be equipped within a designated tab in your inventory, with a total of 4 Arcs available."
+				"{chapter.bs.quest.25.description.3}"
 			]
 			dependencies: ["37914B330A696D43"]
 			size: 1.5d
@@ -877,16 +1143,26 @@
 				item: "blue_skies:blinding_key"
 				count: 4L
 			}]
+			rewards: [{
+				id: "25A583E34981BA79"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.28.title}"
 			x: 16.0d
 			y: 15.5d
 			shape: "rsquare"
 			subtitle: "The Guardian of the Everdawn Tower"
 			description: [
-				"Within the Everdawn Tower, you'll encounter the Alchemist boss fight. Gather Blinding Dungeon Keys to access and unlock this confrontation."
+				"{chapter.bs.quest.28.description.1}"
 				""
-				"Anticipate facing a barrage of potions while also combating the Alchemist's minions."
+				"{chapter.bs.quest.28.description.2}"
 				""
 				"{image:chroma:textures/quests/blueskies_everdawn_alchemistdungeon.png width:175 height:200 align:1}"
 			]
@@ -899,16 +1175,26 @@
 				entity: "blue_skies:alchemist"
 				value: 1L
 			}]
+			rewards: [{
+				id: "602CD22E2F713FDB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.29.title}"
 			x: 17.0d
 			y: 15.5d
 			shape: "rsquare"
-			subtitle: "The Guardian of the Everbright Tower"
+			subtitle: "{chapter.bs.quest.29.subtitle.1}"
 			description: [
-				"At the heart of the Tower of Everbright, you'll encounter the Summoner boss."
+				"{chapter.bs.quest.29.description.1}"
 				""
-				"The Summoner boss employs lightning and energy attacks, alongside summoned golem guards, to safeguard the tower."
+				"{chapter.bs.quest.29.description.2}"
 				""
 				"{image:chroma:textures/quests/blueskies_everbright_summonersdungeon.png width:175 height:200 align:1}"
 			]
@@ -921,12 +1207,22 @@
 				entity: "blue_skies:summoner"
 				value: 1L
 			}]
+			rewards: [{
+				id: "13A7344D565598A1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
 			y: 15.5d
 			shape: "octagon"
-			description: ["Grants invisibility when sneaking."]
+			subtitle: "{chapter.bs.quest.27.subtitle.1}"
+			description: ["{chapter.bs.quest.27.description.1}"]
 			dependencies: ["5541E4CF6EA06839"]
 			id: "75658859E914CC6C"
 			tasks: [{
@@ -940,11 +1236,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5F0ACC1ECA6E272C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 13.5d
 			y: 15.5d
 			shape: "hexagon"
+			subtitle: "{chapter.bs.quest.26.subtitle.1}"
 			dependencies: ["75658859E914CC6C"]
 			id: "5A81CDD3D4E88272"
 			tasks: [{
@@ -958,12 +1264,22 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5397B788FF4F0E04"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.5d
 			y: 15.5d
 			shape: "octagon"
-			description: ["Increases movement speed."]
+			subtitle: "{chapter.bs.quest.30.subtitle.1}"
+			description: ["{chapter.bs.quest.30.description.1}"]
 			dependencies: ["34EB53D227ED1EE3"]
 			id: "01F99F313EB2030E"
 			tasks: [{
@@ -977,11 +1293,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "50F4E15549583E08"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 19.5d
 			y: 15.0d
 			shape: "hexagon"
+			subtitle: "{chapter.bs.quest.31.subtitle.1}"
 			dependencies: ["01F99F313EB2030E"]
 			id: "05B3962B129C70FD"
 			tasks: [{
@@ -995,11 +1321,21 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5F7581428029F1D2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 19.5d
 			y: 16.0d
 			shape: "hexagon"
+			subtitle: "{chapter.bs.quest.32.subtitle.1}"
 			dependencies: ["01F99F313EB2030E"]
 			id: "18A6BD8393B169FA"
 			tasks: [{
@@ -1007,18 +1343,28 @@
 				type: "item"
 				item: "blue_skies:summoning_table"
 			}]
+			rewards: [{
+				id: "6B1303122A8C1656"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.33.title}"
 			x: 15.0d
 			y: 17.5d
 			shape: "rsquare"
-			subtitle: "The Boss of the Poison Dungeon"
+			subtitle: "{chapter.bs.quest.33.subtitle.1}"
 			description: [
-				"Note: If you have arachnophobia, this particular battle might be uncomfortable for you."
+				"{chapter.bs.quest.33.description.1}"
 				""
-				"Inside Everdawn, you'll encounter a colossal deceased tree enveloped in spider webs."
+				"{chapter.bs.quest.33.description.2}"
 				""
-				"Collect Poison Dungeon Keys from within to access and unlock the ultimate boss confrontation!"
+				"{chapter.bs.quest.33.description.3}"
 				""
 				"{image:chroma:textures/quests/blueskies_everdawn_poisondungeon.png width:175 height:200 align:1}"
 			]
@@ -1032,18 +1378,28 @@
 				entity: "blue_skies:arachnarch"
 				value: 1L
 			}]
+			rewards: [{
+				id: "558FDC6DDDCB2614"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
+			title: "{chapter.bs.quest.37.title}"
 			x: 18.0d
 			y: 17.5d
 			shape: "rsquare"
-			subtitle: "The Boss of the Nature Dungeon"
+			subtitle: "{chapter.bs.quest.37.subtitle.1}"
 			description: [
-				"The expansive Nature's Dungeon is located within Everbright. Its size makes it impossible to overlook."
+				"{chapter.bs.quest.37.description.1}"
 				""
-				"Navigate through the structure's intricate maze to collect Nature Dungeon Keys, which are essential for unlocking the boss fight. Prepare to engage in battle and bring down the formidable adversary!"
+				"{chapter.bs.quest.37.description.2}"
 				""
-				"Note: If you struggle to locate all the keys, you have the option to trade with the Gatekeeper. However, this option becomes available only after you've right-clicked the gate to initiate the boss fight."
+				"{chapter.bs.quest.37.description.3}"
 				""
 				"{image:chroma:textures/quests/blueskies_everbright_naturedungeon.png width:200 height:150 align:1}"
 			]
@@ -1057,12 +1413,21 @@
 				entity: "blue_skies:starlit_crusher"
 				value: 1L
 			}]
+			rewards: [{
+				id: "7F71A3FF5DC9C371"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.0d
 			y: 19.0d
-			subtitle: "Drops from the Starlit Crusher's Loot Bag"
-			description: ["Increases max hearts."]
+			subtitle: "{chapter.bs.quest.38.subtitle.1}"
+			description: ["{chapter.bs.quest.38.description.1}"]
 			dependencies: ["5A7FD133939A8002"]
 			id: "34EACDA7A28DF96B"
 			tasks: [{
@@ -1076,11 +1441,20 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1237A8C9C8B84EAC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 18.0d
 			y: 20.0d
-			subtitle: "Drops from the Starlit Crusher's Loot Bag"
+			subtitle: "{chapter.bs.quest.39.subtitle.1}"
 			dependencies: ["5A7FD133939A8002"]
 			id: "2F4F3949463DDF07"
 			tasks: [{
@@ -1094,12 +1468,25 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "6D24E8F7AFCBCFCE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.0d
 			y: 19.0d
-			subtitle: "Drops from the Arachnarch's Loot Bag"
-			description: ["Increases damage done when poisoned."]
+			subtitle: "{chapter.bs.quest.34.subtitle.1}"
+			description: [
+				"{chapter.bs.quest.34.description.1}"
+				""
+				"{chapter.bs.quest.34.description.2}"
+			]
 			dependencies: ["00ED8937C0F138CD"]
 			id: "73053F65AB9E2861"
 			tasks: [{
@@ -1113,11 +1500,20 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "7C04A803A520D464"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 15.5d
 			y: 20.0d
-			subtitle: "Drops from the Arachnarch's Loot Bag"
+			subtitle: "{chapter.bs.quest.36.subtitle.1}"
 			dependencies: ["00ED8937C0F138CD"]
 			id: "2D204795C54FA23B"
 			tasks: [{
@@ -1131,11 +1527,20 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "156881D9A4E7AA04"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 14.5d
 			y: 20.0d
-			subtitle: "Drops from the Arachnarch's Loot Bag"
+			subtitle: "{chapter.bs.quest.35.subtitle.1}"
 			dependencies: ["00ED8937C0F138CD"]
 			id: "5F0084E56EEFDBFC"
 			tasks: [{
@@ -1147,6 +1552,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "37F443E8D4538B92"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}
@@ -1174,6 +1588,15 @@
 					tag: {
 						Damage: 0
 					}
+				}
+			}]
+			rewards: [{
+				id: "25B212D2659679D3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
 				}
 			}]
 		}

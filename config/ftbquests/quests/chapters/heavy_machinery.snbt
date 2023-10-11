@@ -66,6 +66,15 @@
 				observe_type: 0
 				to_observe: "immersiveengineering:crusher"
 			}]
+			rewards: [{
+				id: "3D59D3EA3220B3D3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
@@ -82,6 +91,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersiveengineering:sawmill"
+			}]
+			rewards: [{
+				id: "6EB419A3212B39BD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -100,6 +118,15 @@
 				observe_type: 0
 				to_observe: "immersiveengineering:assembler"
 			}]
+			rewards: [{
+				id: "66D89FE27956CD60"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -116,6 +143,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersiveengineering:auto_workbench"
+			}]
+			rewards: [{
+				id: "2EF5C7A154E0216D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -138,6 +174,15 @@
 				observe_type: 0
 				to_observe: "immersiveengineering:advanced_blast_furnace"
 			}]
+			rewards: [{
+				id: "094023EC0765B146"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 1.0d
@@ -154,6 +199,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersiveengineering:diesel_generator"
+			}]
+			rewards: [{
+				id: "75F6B9516148359C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -172,6 +226,15 @@
 				observe_type: 0
 				to_observe: "immersiveengineering:excavator"
 			}]
+			rewards: [{
+				id: "1C2DFB7B9F7A20A4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
@@ -188,6 +251,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersiveengineering:lightning_rod"
+			}]
+			rewards: [{
+				id: "63C99B21A9218945"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -206,6 +278,15 @@
 				observe_type: 0
 				to_observe: "immersiveengineering:tank"
 			}]
+			rewards: [{
+				id: "35EF200A7690F7DE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
@@ -221,6 +302,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersiveengineering:silo"
+			}]
+			rewards: [{
+				id: "115EE9CBB617CD22"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -239,6 +329,15 @@
 				observe_type: 0
 				to_observe: "immersivepetroleum:distillation_tower"
 			}]
+			rewards: [{
+				id: "340B6FA84C23BD90"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -3.0d
@@ -255,6 +354,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersivepetroleum:pumpjack"
+			}]
+			rewards: [{
+				id: "6202BC549B693F20"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -273,6 +381,15 @@
 				observe_type: 0
 				to_observe: "immersivepetroleum:coker_unit"
 			}]
+			rewards: [{
+				id: "0F000A0A23D7B14D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -5.0d
@@ -290,6 +407,15 @@
 				observe_type: 0
 				to_observe: "immersivepetroleum:hydrotreater"
 			}]
+			rewards: [{
+				id: "1D12C85512A9C787"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: -1.0d
@@ -305,6 +431,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersivepetroleum:derrick"
+			}]
+			rewards: [{
+				id: "12A6D96C56CB37EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 		{
@@ -322,6 +457,15 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "immersivepetroleum:oiltank"
+			}]
+			rewards: [{
+				id: "7ADEBC5CF81E210C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
 			}]
 		}
 	]
