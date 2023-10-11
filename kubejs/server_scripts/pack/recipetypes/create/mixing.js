@@ -12,25 +12,25 @@ onEvent('recipes', (event) => {
             id: 'create:mixing/andesite_alloy'
         },
         {
-            inputs: [Item.of('#forge:sand', 4), Item.of('#forge:gravel', 4), 'minecraft:clay'],
+            inputs: [Item.of('minecraft:sand', 4), Item.of('minecraft:gravel', 4), 'minecraft:clay'],
             output: Item.of('tconstruct:grout', 8),
             heated: true,
             id: 'tconstruct:smeltery/seared/grout_multiple'
         },
         {
-            inputs: ['#forge:sand', '#forge:gravel', 'minecraft:clay_ball'],
+            inputs: ['minecraft:sand', 'minecraft:gravel', 'minecraft:clay_ball'],
             output: Item.of('tconstruct:grout', 2),
             heated: true,
             id: 'tconstruct:smeltery/seared/grout'
         },
         {
-            inputs: [Item.of('minecraft:soul_sand', 4), Item.of('#forge:gravel', 4), 'minecraft:magma_block'],
+            inputs: [Item.of('minecraft:soul_sand', 4), Item.of('minecraft:gravel', 4), 'minecraft:magma_block'],
             output: Item.of('tconstruct:nether_grout', 8),
             heated: true,
             id: 'tconstruct:smeltery/scorched/nether_grout_multiple'
         },
         {
-            inputs: ['minecraft:soul_sand', '#forge:gravel', 'minecraft:magma_block'],
+            inputs: ['minecraft:soul_sand', 'minecraft:gravel', 'minecraft:magma_block'],
             output: Item.of('tconstruct:nether_grout', 2),
             heated: true,
             id: 'tconstruct:smeltery/scorched/nether_grout'

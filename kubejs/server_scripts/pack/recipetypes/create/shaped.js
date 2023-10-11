@@ -328,6 +328,17 @@ onEvent('recipes', (event) => {
             },
             id: 'create:crafting/kinetics/fluid_tank'
         },
+        {
+            output: 'createoreexcavation:vein_finder',
+            pattern: ['EA ', 'RS ', '  S'],
+            key: {
+                E: 'minecraft:ender_eye',
+                A: 'minecraft:amethyst_shard',
+                R: '#forge:dusts/redstone',
+                S: 'minecraft:stick'
+            },
+            id: 'createoreexcavation:vein_finder'
+        },
     ];
 
     recipes.forEach((recipe) => {
