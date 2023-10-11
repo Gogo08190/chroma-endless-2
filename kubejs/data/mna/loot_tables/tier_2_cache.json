@@ -3,7 +3,7 @@
 		{
 			"rolls": {
         		"min": 1,
-        		"max": 5
+        		"max": 3
       		},
 			"entries": [
 				{
@@ -64,7 +64,7 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "mna:staff_a",
+					"name": "mna:staff_aum",
 					"weight": 1,
 					"functions": [
 						{
@@ -83,7 +83,7 @@
 		{
 			"rolls": {
 				"min": 0,
-				"max": 4
+				"max": 2
 			},
 			"entries": [
 				{
@@ -99,44 +99,6 @@
 						{
 							"condition": "minecraft:random_chance",
 							"chance": 0.25
-						}
-					]
-				}
-			]
-		},
-		{
-			"rolls": {
-				"min": 0,
-				"max": 6
-			},
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:stone",
-					"weight": 1,
-					"functions": [
-						{
-							"function": "mna:random_manaweave_recipe"
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:stone",
-					"weight": 1,
-					"functions": [
-						{
-							"function": "mna:random_runescribe_recipe"
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:stone",
-					"weight": 2,
-					"functions": [
-						{
-							"function": "mna:random_thaumaturgic_link"
 						}
 					]
 				}
@@ -178,46 +140,6 @@
 							"count": {
 								"min": 2,
 								"max": 5
-							}
-						}
-					],
-					"conditions": [
-						{
-							"condition": "minecraft:random_chance",
-							"chance": 0.5
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"weight": 10,
-					"name": "mna:rune_clay_plate",
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 1,
-								"max": 3
-							}
-						}
-					],
-					"conditions": [
-						{
-							"condition": "minecraft:random_chance",
-							"chance": 0.5
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"weight": 5,
-					"name": "mna:rune_pattern",
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 1,
-								"max": 3
 							}
 						}
 					],
