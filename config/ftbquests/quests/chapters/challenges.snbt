@@ -105,7 +105,7 @@
 					}
 				}
 				stat: "minecraft:time_since_death"
-				value: 1000
+				value: 720000
 			}]
 			rewards: [{
 				id: "7A095E9A0D421803"

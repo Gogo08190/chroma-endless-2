@@ -43,6 +43,63 @@
 				type: "checkmark"
 				title: "{chapter.welcome.quest.12.title.1}"
 			}]
+			rewards: [
+				{
+					id: "149F8B0B21CCA44F"
+					type: "item"
+					team_reward: false
+					item: {
+						id: "minecraft:leather_helmet"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0406968ABA6F21B5"
+					type: "item"
+					team_reward: false
+					item: {
+						id: "minecraft:leather_chestplate"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6859B41D4E129555"
+					type: "item"
+					team_reward: false
+					item: {
+						id: "minecraft:leather_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "29B958A4F0A80C95"
+					type: "item"
+					team_reward: false
+					item: {
+						id: "minecraft:leather_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "62661898C029F5E8"
+					type: "item"
+					team_reward: false
+					item: "minecraft:apple"
+					count: 16
+				}
+			]
 		}
 		{
 			icon: {
@@ -233,6 +290,7 @@
 			rewards: [{
 				id: "740D53B9149B9BE7"
 				type: "item"
+				team_reward: false
 				item: "solcarrot:food_book"
 			}]
 		}
