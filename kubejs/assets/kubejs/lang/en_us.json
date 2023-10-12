@@ -444,6 +444,10 @@
   "chapter.stage.1.quest.51.description.1": "&5Runeforge&r is used as furnace to refine several items. But be careful with the required tier.",
   "chapter.stage.1.quest.51.description.2": "It can be used to create unique crafting recipes like &5&lEssence Of Darkness&r from Chroma Endless 2 !",
 
+  "chapter.stage.1.quest.52.subtitle.1": "Crushing Master",
+  "chapter.stage.1.quest.52.description.1": "The Crushing Wheel allows for the crushing of various resources.",
+  "chapter.stage.1.quest.52.description.2": "Two Crushing Wheels must be placed next to each other horizontally or vertically one block apart. Both wheels must be given opposite rotational force. Any items to be crushed must be inserted where the wheels rotate inwards.",
+
   "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.2.title": "Stage 2",

@@ -444,6 +444,10 @@
   "chapter.stage.1.quest.51.description.1": "&5La Runeforge&r est utilisé comme four pour affiner plusieurs objets. Mais faites attention au niveau requis.",
   "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des recettes artisanales uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
 
+  "chapter.stage.1.quest.52.subtitle.1": "Maître du Concassage",
+  "chapter.stage.1.quest.52.description.1": "La Crushing Wheel permet de concasser diverses ressources.",
+  "chapter.stage.1.quest.52.description.2": "Deux Crushing Wheels doivent être placées l'une à côté de l'autre horizontalement ou verticalement à une distance d'un bloc. Les deux roues doivent recevoir une force de rotation opposée. Tout objet à broyer doit être inséré là où les roues tournent vers l'intérieur.",
+
   "Stage 2":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.2.title": "Étape 2",
