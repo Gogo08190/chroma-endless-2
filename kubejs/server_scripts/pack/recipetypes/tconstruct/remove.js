@@ -10,7 +10,8 @@ onEvent('recipes', (event) => {
       'tconstruct:smeltery/scorched/duct_retextured',
       'tconstruct:smeltery/scorched/drain_retextured',
       'tconstruct:smeltery/scorched/chute_retextured',
-      'tconstruct:smeltery/alloys/molten_brass'
+      'tconstruct:smeltery/alloys/molten_brass',
+      'tconstruct:common/flint'
     ];
 
     const outputRemovals = [
