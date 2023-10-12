@@ -56,6 +56,11 @@ onEvent('recipes', (event) => {
           inputs: ['chroma:raw_leadurosmate_block'],
           id: `${id_prefix}raw_leadurosmate_from_raw_leadurosmate_block`
       },
+      {
+          output: '4x minecraft:clay_ball',
+          inputs: ['minecraft:clay'],
+          id: `${id_prefix}clay_ball_from_clay`
+      },
     ];
 
     recipes.forEach((recipe) => {
