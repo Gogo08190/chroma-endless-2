@@ -7,7 +7,7 @@ onEvent('recipes', (event) => {
     var idRemovals = [
       'tconstruct:compat/create/andesite_alloy_iron',
       'tconstruct:compat/create/andesite_alloy_zinc',
-      'create:crafting/kinetics/large_cogwheelfrom_little',
+      'create:crafting/kinetics/large_cogwheel_from_little',
       'create:deploying/cogwheel',
       'jaopca:create.material_to_plate.obsidian',
       'jaopca:create.material_to_plate_hammer.obsidian',
