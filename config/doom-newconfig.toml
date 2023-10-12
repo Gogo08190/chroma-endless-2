@@ -512,7 +512,7 @@
 	#Supports Biome Registry Names (minecraft:desert) or Biomes Tag with #
 	"Archvile Biomes" = ["#nether"]
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Archvile Ranged Damage damage" = 2.0
+	"Sets Archvile Ranged Damage damage" = 1.0
 	#Range: > 1
 	"Archvile Min Group" = 1
 	#Range: 1.0 ~ 1.7976931348623157E308
