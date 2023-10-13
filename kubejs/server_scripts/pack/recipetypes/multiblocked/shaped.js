@@ -1,5 +1,5 @@
 onEvent('recipes', (event) => {
-    const id_prefix = 'chroma:pack/multiblocker/shaped/';
+    const id_prefix = 'chroma:pack/multiblocked/shaped/';
     const recipes = [
         {
             output: 'chroma:brass_create_input',
@@ -13,7 +13,7 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'chroma:brass_create_output',
-            pattern: ['BBB', 'BGM', 'BBB'],
+            pattern: ['BBB', 'BMG', 'BBB'],
             key: {
                 B: 'create:brass_casing',
                 M: 'create:rotation_speed_controller',
@@ -26,17 +26,17 @@ onEvent('recipes', (event) => {
             pattern: ['BBB', 'MGB', 'BBB'],
             key: {
                 B: 'create:brass_casing',
-                M: 'chroma:brass_create_output',
+                M: 'create:item_vault',
                 G: 'create:precision_mechanism'
             },
             id: `${id_prefix}create_item_output`
         },
         {
             output: 'chroma:create_item_input',
-            pattern: ['BBB', 'BGM', 'BBB'],
+            pattern: ['BBB', 'BMG', 'BBB'],
             key: {
                 B: 'create:brass_casing',
-                M: 'chroma:brass_create_output',
+                M: 'create:item_vault',
                 G: 'create:precision_mechanism'
             },
             id: `${id_prefix}create_item_input`
