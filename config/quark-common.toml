@@ -24,7 +24,13 @@
 	"Allowed Screens" = []
 	#If set to true, the 'Allowed Screens' option will work as a Blacklist rather than a Whitelist. WARNING: Use at your own risk as some mods may not support this.
 	"Use Screen List Blacklist" = false
-	#Set to true to make the quark big worldgen features such as stone clusters generate as spheres rather than unique shapes. It's faster, but won't look as cool
+	#Set to true to make the quark big worldgen features such as
+
+
+
+
+
+    clusters generate as spheres rather than unique shapes. It's faster, but won't look as cool
 	"Use Fast Worldgen" = false
 	#Enables quark network profiling features. Do not enable this unless requested to.
 	"Enable Network Profiling" = false
@@ -1182,8 +1188,8 @@
 
 [mobs]
 	Wraith = true
-	Toretoise = true
-	Stonelings = true
+	Toretoise = false
+	Stonelings = false
 	Shiba = true
 	Frogs = true
 	Foxhound = true
