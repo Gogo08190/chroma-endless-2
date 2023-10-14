@@ -39,7 +39,7 @@ onEvent('recipes', (event) => {
                 C: 'mekanism:alloy_infused',
                 R: '#forge:dusts/redstone'
             },
-            id: 'pipez:energy_pipe'
+            id: 'pipez:gaz_pipe'
         },
         {
             output: Item.of('pipez:universal_pipe', 6),
