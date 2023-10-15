@@ -244,6 +244,118 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}shard_of_knowledge`
         },
+        {
+            output: 'doom:doom_helmet',
+            pattern: ["AAAAAAA", 'ABBBBBA', 'ABBBBBA', 'AB   BA'],
+            key: {
+                A: 'doom:argent_plate',
+                B: 'doom:argent_energy'
+            },
+            id: 'doom:doom_helmet'
+        },
+        {
+            output: 'doom:doom_chestplate',
+            pattern: ["AABBBAA", 'AABBBAA', ' ABBBA ', ' ABBBA ', ' ABBBA ', ' ABBBA ', ' AAAAA '],
+            key: {
+                A: 'doom:argent_plate',
+                B: 'doom:argent_energy'
+            },
+            id: 'doom:doom_chestplate'
+        },
+        {
+            output: 'doom:doom_leggings',
+            pattern: ["AAAAAAA", 'AAAAAAA', 'AABBBAA', 'AAB BAA', 'AAB BAA', 'AAB BAA', 'AAB BAA'],
+            key: {
+                A: 'doom:argent_plate',
+                B: 'doom:argent_energy'
+            },
+            id: 'doom:doom_leggings'
+        },
+        {
+            output: 'doom:doom_boots',
+            pattern: ["  B B  ", ' BB BB ', ' BB BB ', ' BA AB ', ' BA AB ', ' BA AB ', 'AAA AAA'],
+            key: {
+                A: 'doom:argent_plate',
+                B: 'doom:argent_energy'
+            },
+            id: 'doom:doom_boots'
+        },
+        {
+            output: 'doom:praetor_doom_helmet',
+            pattern: ["AAAAAAA", 'ABBBBBA', 'ABBBBBA', 'AB   BA'],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy'
+            },
+            id: 'doom:praetor_doom_helmet'
+        },
+        {
+            output: 'doom:praetor_doom_chestplate',
+            pattern: ["AABBBAA", 'AABBBAA', ' ABBBA ', ' ABBBA ', ' ABBBA ', ' ABBBA ', ' AAAAA '],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy'
+            },
+            id: 'doom:praetor_doom_chestplate'
+        },
+        {
+            output: 'doom:praetor_doom_leggings',
+            pattern: ["AAAAAAA", 'AAAAAAA', 'AABBBAA', 'AAB BAA', 'AAB BAA', 'AAB BAA', 'AAB BAA'],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy'
+            },
+            id: 'doom:praetor_doom_leggings'
+        },
+        {
+            output: 'doom:praetor_doom_boots',
+            pattern: ["  B B  ", ' BB BB ', ' BB BB ', ' BA AB ', ' BA AB ', ' BA AB ', 'AAA AAA'],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy'
+            },
+            id: 'doom:praetor_doom_boots'
+        },
+        {
+            output: 'doom:classic_doom_helmet',
+            pattern: ["AAACAAA", 'ABBBBBA', 'ABBBBBA', 'AB   BA'],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy',
+                C: 'doom:energy_cells'
+            },
+            id: 'doom:classic_doom_helmet'
+        },
+        {
+            output: 'doom:classic_doom_chestplate',
+            pattern: ["AABCBAA", 'AABBBAA', ' ABBBA ', ' ABBBA ', ' ABBBA ', ' ABBBA ', ' AAAAA '],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy',
+                C: 'doom:energy_cells'
+            },
+            id: 'doom:classic_doom_chestplate'
+        },
+        {
+            output: 'doom:classic_doom_leggings',
+            pattern: ["AAACAAA", 'AAAAAAA', 'AABBBAA', 'AAB BAA', 'AAB BAA', 'AAB BAA', 'AAB BAA'],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy',
+                C: 'doom:energy_cells'
+            },
+            id: 'doom:classic_doom_leggings'
+        },
+        {
+            output: 'doom:classic_doom_boots',
+            pattern: ["  B B  ", ' BB BB ', ' BB BB ', ' BA AB ', ' BA AB ', ' BA AB ', 'AAACAAA'],
+            key: {
+                B: 'doom:argent_plate',
+                A: 'doom:argent_energy',
+                C: 'doom:energy_cells'
+            },
+            id: 'doom:classic_doom_boots'
+        },
     ];
 
     recipes.forEach((recipe) => {
