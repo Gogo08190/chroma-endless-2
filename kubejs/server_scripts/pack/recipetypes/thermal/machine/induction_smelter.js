@@ -30,7 +30,12 @@ onEvent('recipes', (event) => {
         inputs: [Item.of('rftoolsbase:infused_diamond', 2), 'rftoolspower:power_core2', Item.of('mekanism:elite_control_circuit', 2)],
         outputs: ['rftoolspower:power_core3'],
         id: 'rftoolspower:power_core3'
-    },
+      },
+      {
+        inputs: ['thermal:slag'],
+        outputs: ['thermal:white_rockwool'],
+        id: 'thermal:rockwool/white_rockwool_from_smelting'
+      },
 
     ];
 
