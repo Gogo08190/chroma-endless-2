@@ -157,10 +157,10 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'immersiveengineering:cloche',
-            pattern: ['GTG', 'GBG', 'TCT'],
+            pattern: ['GLG', 'GBG', 'TCT'],
             key: {
                 G: '#forge:glass',
-                T: 'immersiveengineering:light_bulb',
+                L: 'immersiveengineering:light_bulb',
                 B: '#botanypots:hopper_botany_pots',
                 T: 'immersiveengineering:treated_wood_horizontal',
                 C: 'immersiveengineering:component_steel'
