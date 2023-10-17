@@ -166,6 +166,16 @@ onEvent('recipes', (event) => {
                 C: 'immersiveengineering:component_steel'
             },
             id: 'immersiveengineering:crafting/cloche'
+        },
+        {
+            output: Item.of('immersiveengineering:blueprint', '{blueprint:"electrode"}'),
+            pattern: ['HHH', 'BBB', 'PPP'],
+            key: {
+                H: '#forge:ingots/hop_graphite',
+                B: '#forge:dyes/blue',
+                P: 'minecraft:paper'
+            },
+            id: 'immersiveengineering:blueprint/hop_graphite'
         }
     ];
 
