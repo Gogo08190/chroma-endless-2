@@ -25,7 +25,7 @@ onEvent('recipes', (event) => {
             output: Item.of('sophisticatedstorage:storage_link', 3),
             pattern: [' P ', 'PCP', ' P '],
             key: {
-                P: 'rftoolsbase:infused_enderpearl',
+                P: 'minecraft:ender_pearl',
                 C: 'sophisticatedstorage:controller'
             },
             id: 'sophisticatedstorage:storage_link_from_controller'
