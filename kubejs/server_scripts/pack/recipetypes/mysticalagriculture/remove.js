@@ -11,7 +11,9 @@ onEvent('recipes', (event) => {
         'mysticalagriculture:tertium_farmland_till',
         'mysticalagriculture:imperium_farmland_till',
         'mysticalagriculture:supremium_farmland_till',
-        'mysticalagradditions:insanium_farmland_till'
+        'mysticalagradditions:insanium_farmland_till',
+        'mysticalagriculture:essence/minecraft/honeycomb',
+        'mysticalagriculture:essence/minecraft/honey_bottle'
     ];
 
     const outputRemovals = [
@@ -77,9 +79,7 @@ onEvent('recipes', (event) => {
       'mysticalagriculture:nether_star_essence',
       'mysticalagriculture:turtle_essence',
       'mysticalagradditions:nether_star_shard',
-      'mysticalagradditions:dragon_egg_chunk',
-      'mysticalagriculture:essence/minecraft/honeycomb',
-      'mysticalagriculture:essence/minecraft/honey_bottle'
+      'mysticalagradditions:dragon_egg_chunk'
     ];
 
     idRemovals.forEach((id) => {
