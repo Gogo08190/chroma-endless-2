@@ -720,6 +720,10 @@
 
   "chapter.stage.2.quest.73.subtitle.1": "Forger des Runes",
   "chapter.stage.2.quest.73.description.1": "La Runic Anvil est utilisée en plaçant un modèle, en plaçant le bon objet comme la &bViveroche&r ou l'ingot de &bSuperheated Vinteum&r, puis en les forgeant ensemble avec un Runesmith's Hammer.",
+  "chapter.stage.2.quest.73.description.2": "&6La gemme Chimerite&r a une chance de tomber des minerais de base lorsque vous atteignez le niveau de magie 5.",
+  "chapter.stage.2.quest.73.description.3": "&aLe minerais d'émeraude&r drop 90%% de Chimerite Gem à partir du niveau de magie 5.",
+  "chapter.stage.2.quest.73.description.4": "&bLe minerais de diamant&r drop 60%% de Chimerite Gem à partir du niveau de magie 10.",
+  "chapter.stage.2.quest.73.description.5": "&8Le minerais de charbon&r drop 30%% de Chimerite Gem à partir du niveau de magie 20.",
 
   "chapter.stage.2.quest.74.subtitle.1": "Rune de l'Avatar",
   "chapter.stage.2.quest.74.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",

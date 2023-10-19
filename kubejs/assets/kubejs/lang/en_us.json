@@ -720,6 +720,10 @@
 
   "chapter.stage.2.quest.73.subtitle.1": "Runes Forger",
   "chapter.stage.2.quest.73.description.1": "Runic Anvil is used by placing a pattern down, placing the right item like &bLiving Rock&r or &bSuperheated Vinteum&r Ingot and then hammering them together with a Runesmith's Hammer.",
+  "chapter.stage.2.quest.73.description.2": "&6Chimerite Gem&r has a chance of dropping from vanilla ores when you reach magic level 5.",
+  "chapter.stage.2.quest.73.description.3": "&aEmerald Ore&r drops 90%% of Chimerite Gem starting at Magic Level 5.",
+  "chapter.stage.2.quest.73.description.4": "&bDiamond Ore&r drops 60%% of Chimerite Gem starting at Magic Level 10.",
+  "chapter.stage.2.quest.73.description.5": "&8Coal Ore&r drops 30%% of Chimerite Gem starting at Magic Level 20.",
 
   "chapter.stage.2.quest.74.subtitle.1": "Avatar Rune",
   "chapter.stage.2.quest.74.description.1": "This rune must first be made with the Runic Anvil, and then you will be able to make it with the Runic Altar.",
