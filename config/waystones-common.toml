@@ -10,25 +10,25 @@
 	minimumBaseXpCost = 0.0
 	#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	maximumBaseXpCost = 3.0
+	maximumBaseXpCost = 0.0
 	#How much xp is needed per leashed animal to travel with you
 	#Range: > -2147483648
-	xpCostPerLeashed = 1
+	xpCostPerLeashed = 0
 	#The base xp level cost when travelling between dimensions. Ignores block distance.
 	#Range: > -2147483648
 	dimensionalWarpXpCost = 3
 	#The multiplier applied to the base xp cost when teleporting to a global waystone through any method.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	globalWaystoneXpCostMultiplier = 1.0
+	globalWaystoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting using a Warp Stone item (not the Waystone block, Konstantin)
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	warpStoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting from one waystone to another.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	waystoneXpCostMultiplier = 1.0
+	waystoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting from one sharestone to another.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	sharestoneXpCostMultiplier = 1.0
+	sharestoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting from a portstone.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	portstoneXpCostMultiplier = 0.0
@@ -132,4 +132,3 @@
 	displayWaystonesOnJourneyMap = true
 	#If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
 	preferJourneyMapIntegration = true
-
