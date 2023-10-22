@@ -10,7 +10,7 @@ onEvent('recipes', (event) => {
       },
       {
         input: Item.of('powah:dielectric_rod', 12),
-        extrainput: Item.of('#forge:storage_blocks/steel', 4),
+        extrainput: Item.of('immersiveengineering:storage_steel', 4),
         output: 'powah:dielectric_casing',
         id: 'powah:crafting/dielectric_casing'
       },
