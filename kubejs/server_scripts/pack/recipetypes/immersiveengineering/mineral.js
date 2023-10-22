@@ -15,6 +15,7 @@ onEvent('recipes', (event) => {
             {
                 ores: [
                     { chance: 0.5, output: { tag: 'forge:ores/quartz' } },
+                    { chance: 0.2, output: { item: 'ae2:quartz_ore' } },
                     { chance: 0.3, output: { tag: 'forge:ores/fluorite' } },
                     { chance: 0.1, output: { tag: 'forge:ores/gold' } },
                     { chance: 0.1, output: { tag: 'forge:dusts/sulfur' } }
@@ -62,7 +63,8 @@ onEvent('recipes', (event) => {
             {
                 ores: [
                     { chance: 7.0, output: { tag: 'forge:ores/tin' } },
-                    { chance: 3.0, output: { tag: 'forge:ores/osmium' } }
+                    { chance: 2.0, output: { tag: 'forge:ores/osmium' } },
+                    { chance: 3.0, output: { item: 'ae2:quartz_ore' } }
                 ],
                 dimensions: ['minecraft:overworld', 'undergarden:undergarden'],
                 weight: 20,
