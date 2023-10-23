@@ -1,6 +1,7 @@
 onEvent('recipes', (event) => {
     const idRemovals = [
-      'pneumaticcraft:speed_upgrade'
+      'pneumaticcraft:speed_upgrade',
+      'pneumaticcraft:pressure_chamber_valve'
     ];
 
     const outputRemovals = [
