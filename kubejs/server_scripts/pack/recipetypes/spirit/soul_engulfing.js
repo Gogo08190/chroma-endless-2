@@ -2,7 +2,7 @@ onEvent("recipes", (event) => {
     const id_prefix = 'chroma:pack/spirit/soul_engulfing/';
     const recipes = [
       {
-          ingredient: { item: 'minecraft:deepslate' },
+          ingredient: { item: 'minecraft:blackstone' },
           block: 'blue_skies:mossy_lunar_stonebrick',
           duration: 5,
           destroysStructure: false,
