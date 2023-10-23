@@ -71,7 +71,7 @@ onEvent('recipes', (event) => {
                 T: 'pneumaticcraft:pressure_tube',
                 C: '#forge:ingots/compressed_iron',
                 P: 'powah:thermoelectric_plate',
-                S: 'pneumaticcraft:small_tank',
+                S: 'ae2:sky_stone_tank',
                 H: 'powah:capacitor_hardened'
             },
             id: 'pneumaticcraft:thermopneumatic_processing_plant'
