@@ -48,7 +48,7 @@ onEvent('recipes', (event) => {
                 T: 'pneumaticcraft:pressure_tube',
                 C: '#forge:ingots/compressed_iron',
                 I: 'mekanism:alloy_infused',
-                S: 'pneumaticcraft:small_tank',
+                S: 'ae2:sky_stone_tank',
                 H: 'powah:capacitor_hardened'
             },
             id: 'pneumaticcraft:refinery'
@@ -60,7 +60,7 @@ onEvent('recipes', (event) => {
                 D: 'powah:dielectric_paste',
                 C: '#forge:ingots/compressed_iron',
                 M: 'botania:mana_diamond',
-                S: 'pneumaticcraft:small_tank',
+                S: 'ae2:sky_stone_tank',
             },
             id: 'pneumaticcraft:refinery_output'
         },
