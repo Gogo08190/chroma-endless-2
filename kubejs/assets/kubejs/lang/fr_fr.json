@@ -2065,7 +2065,6 @@
 
   "chapter.machinery.quest.14.title.1": "Regardez un &6Pumpjack&r complet",
   "chapter.machinery.quest.14.subtitle.1": "Maestro de Pompage",
-  "chapter.machinery.quest.14.description.1": "Le Pumpjack est un multibloc de 6×4×3 ajouté par Immersive Petroleum. Il extrait des liquides comme le Crude Oil de réservoirs situés sous le bedrock. Une Foreuse d'échantillonnage teste la présence de ces réservoirs. Une fois alimenté et qu'un tuyau vide est connecté à l'un des ports de liquide, le pumpjack opère à un débit de 15 mB/tick. Si un réservoir est présent en dessous, il amène le Crude Oil à la surface. Plusieurs Pumpjacks dans un même chunk augmentent le taux d'extraction. Si le réservoir est vidé, jusqu'à 6 mB/tick de Crude Oil peuvent continuer à être extraits du réservoir vidé en utilisant un seul Pumpjack.",
 
   "chapter.machinery.quest.15.title.1": "Regardez un &6Paratonnerre&r complet",
   "chapter.machinery.quest.15.subtitle.1": "Énergie de l'Orage",

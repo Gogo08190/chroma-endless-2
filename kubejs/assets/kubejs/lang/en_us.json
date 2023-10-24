@@ -2065,7 +2065,6 @@
 
   "chapter.machinery.quest.14.title.1": "Look at a complete &6Pumpjack",
   "chapter.machinery.quest.14.subtitle.1": "Pumping Maestro",
-  "chapter.machinery.quest.14.description.1": "The Pumpjack is a 6×4×3 multiblock added by Immersive Petroleum. It extracts fluids like Crude Oil from reservoirs that are below bedrock. A Core Sample Drill tests for these reservoirs. Once it's powered and an empty pipe is connected to either fluid port, the jack pumps at a rate of 15 mB/tick. If there's a reservoir below it, it brings the fluid to the surface. Multiple Pumpjacks in one chunk increases the rate of extraction. If the reservoir is emptied, up to 6 mB/tick of fluid can continue to be extracted from the drained reservoir using a single Pumpjack.",
 
   "chapter.machinery.quest.15.title.1": "Look at a complete &6Lightning Rod",
   "chapter.machinery.quest.15.subtitle.1": "Thunder Power",
