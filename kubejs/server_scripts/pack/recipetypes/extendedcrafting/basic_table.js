@@ -83,65 +83,6 @@ onEvent("recipes", (event) => {
     {
       "type": "extendedcrafting:shaped_table",
       "pattern": [
-        "AAA",
-        "BCB",
-        "DED"
-      ],
-      "key": {
-        "A": {
-          "item": "mekanismgenerators:solar_panel"
-        },
-        "B": {
-          "item": "mekanism:alloy_reinforced"
-        },
-        "C": {
-          "item": "powah:capacitor_hardened"
-        },
-        "D": {
-          "item": "extendedcrafting:black_iron_ingot"
-        },
-        "E": {
-          "item": "mekanism:energy_tablet"
-        }
-      },
-      "result": {
-        "item": "mekanismgenerators:solar_generator"
-      }
-    }
-  ).id('mekanismgenerators:generator/solar')
-
-  event.custom(
-    {
-      "type": "extendedcrafting:shaped_table",
-      "pattern": [
-        " A ",
-        "ABA",
-        "CDC"
-      ],
-      "key": {
-        "A": {
-          "item": "mekanism:ingot_osmium"
-        },
-        "B": {
-          "item": "pneumaticcraft:turbine_rotor"
-        },
-        "C": {
-          "item": "mekanism:energy_tablet"
-        },
-        "D": {
-          "item": "mekanism:advanced_control_circuit"
-        }
-      },
-      "result": {
-        "item": "mekanismgenerators:wind_generator"
-      }
-    }
-  ).id('mekanismgenerators:generator/wind')
-
-  event.custom(
-    {
-      "type": "extendedcrafting:shaped_table",
-      "pattern": [
         "ABA",
         "CDC",
         "EFE"

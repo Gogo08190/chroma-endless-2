@@ -1212,6 +1212,29 @@ onEvent('recipes', (event) => {
             },
             id: 'solarpanels:creative_solar_element'
         },
+        {
+            output: 'mekanismgenerators:wind_generator',
+            pattern: [' O ', 'OBO', 'TCT'],
+            key: {
+                O: '#forge:ingots/osmium',
+                B: '#forge:ingots/osmium',
+                T: Item.of('mekanism:energy_tablet').weakNBT(),
+                C: '#forge:circuits/advanced'
+            },
+            id: 'mekanismgenerators:generator/wind'
+        },
+        {
+            output: 'mekanismgenerators:solar_generator',
+            pattern: ['PPP', 'ABA', 'CTC'],
+            key: {
+                P: 'mekanismgenerators:solar_panel',
+                A: '#mekanism:alloys/reinforced',
+                B: 'powah:capacitor_hardened',
+                T: Item.of('mekanism:energy_tablet').weakNBT(),
+                C: '#forge:ingots/compressed_iron'
+            },
+            id: 'mekanismgenerators:generator/solar'
+        },
     ];
 
     recipes.forEach((recipe) => {
