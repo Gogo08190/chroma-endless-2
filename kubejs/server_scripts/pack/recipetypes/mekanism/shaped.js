@@ -1217,7 +1217,7 @@ onEvent('recipes', (event) => {
             pattern: [' O ', 'OBO', 'TCT'],
             key: {
                 O: '#forge:ingots/osmium',
-                B: '#forge:ingots/osmium',
+                B: 'pneumaticcraft:turbine_rotor',
                 T: Item.of('mekanism:energy_tablet').weakNBT(),
                 C: '#forge:circuits/advanced'
             },
