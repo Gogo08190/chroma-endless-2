@@ -1030,7 +1030,7 @@
   "chapter.stage.3.quest.72.description.2": "As an example, let's consider a 1k Item Storage Cell exclusively containing cobblestone. In this case, the cell can accommodate a maximum of 8128 cobblestone units, calculated as follows: (8*1024b - 8b/type * 1 type).",
 
   "chapter.stage.3.quest.73.title.1": "Fluid Storage Cell",
-  "chapter.stage.3.quest.73.stitle.1": "Storing fluids with ME Disks",
+  "chapter.stage.3.quest.73.subtitle.1": "Storing fluids with ME Disks",
   "chapter.stage.3.quest.73.description.1": "Indeed, items aren't the sole entities suitable for storage within ME cells. &bME Fluid Storage Cells&r are adept at containing liquids such as water, lava, and a multitude of modded oils and fuels, among various other possibilities.",
   "chapter.stage.3.quest.73.description.2": "In the context of fluids, 1 byte is equivalent to 8 buckets, or 8000mb.",
 

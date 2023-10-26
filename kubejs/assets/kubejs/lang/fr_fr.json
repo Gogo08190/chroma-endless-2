@@ -1030,7 +1030,7 @@
   "chapter.stage.3.quest.72.description.2": "Par exemple, prenons une Cellule de Stockage d'Objets 1k contenant exclusivement de la pierre. Dans ce cas, la cellule peut accueillir au maximum 8128 unités de pierre, calculé comme suit : (8*1024 octets - 8 octets/type * 1 type).",
 
   "chapter.stage.3.quest.73.title.1": "Cellule de Stockage de Liquides",
-  "chapter.stage.3.quest.73.stitle.1": "Stockage de liquides avec des Disques ME",
+  "chapter.stage.3.quest.73.subtitle.1": "Stockage de liquides avec des Disques ME",
   "chapter.stage.3.quest.73.description.1": "En effet, les objets ne sont pas les seules entités adaptées au stockage dans les cellules ME. Les Cellules de Stockage de Liquides ME sont aptes à contenir des liquides tels que l'eau, la lave, et une multitude d'huiles et de carburants modifiés, parmi diverses autres possibilités.",
   "chapter.stage.3.quest.73.description.2": "Dans le contexte des liquides, 1 octet équivaut à 8 seaux, soit 8000 millibuckets.",
 
