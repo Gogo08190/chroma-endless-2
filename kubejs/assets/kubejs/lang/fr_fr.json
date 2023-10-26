@@ -2051,6 +2051,10 @@
 
   "chapter.machinery.quest.11.title.1": "Regardez un &6Derrick&r complet",
   "chapter.machinery.quest.11.subtitle.1": "Tour de Localisation de Pétrole",
+  "chapter.machinery.quest.11.description.1": "Comment obtenir du fluide avec Immersive Petroleum ?",
+  "chapter.machinery.quest.11.description.2": "La première étape consiste à fabriquer un &6Outil de sondage sismique&r. Une fois que vous l'avez placé, cliquez simplement avec une Cartouche de Chevrotine, puis une fois qu'elle a explosé, cliquez à nouveau pour obtenir des informations sur un papier indiquant le réservoir que vous avez trouvé.",
+  "chapter.machinery.quest.11.description.3": "La deuxième étape consiste à fabriquer la &3Derrick&r. Une fois placée, vous devez fournir des tuyaux, du béton liquide et bien sûr de l'énergie pour forer. Le béton est utilisé pour renforcer vos tuyaux, et pour forer, il vous demandera de le remplir d'eau. Une fois terminé, vous devrez connecter un tuyau pour extraire le fluide foré.",
+  "chapter.machinery.quest.11.description.4": "Pour la dernière étape, assurez-vous que la pression est à 0 (50% du réservoir), éliminez la Derrick et placez une &5Pompe à balancier&r pour pomper ce qu'il reste de la Derrick. Assurez-vous de placer votre Pompe à balancier sur le Puits de tête creusé par la Derrick.",
 
   "chapter.machinery.quest.12.title.1": "Regardez un &6Coker&r complet",
   "chapter.machinery.quest.12.subtitle.1": "Craqueur de Bitume",
