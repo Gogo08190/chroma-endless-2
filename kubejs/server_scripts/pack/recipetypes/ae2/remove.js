@@ -6,7 +6,8 @@ onEvent('recipes', (event) => {
 
     var idRemovals = [
       'ae2:network/wireless_crafting_terminal',
-      'create:compat/ae2/mixing/fluix_crystal'
+      'create:compat/ae2/mixing/fluix_crystal',
+      'ae2wtlib:pattern_encoding/upgrade_wireless_pattern_encoding_terminal'
     ];
 
     outputRemovals.forEach((removal) => {
