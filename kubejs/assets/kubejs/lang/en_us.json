@@ -2051,6 +2051,10 @@
 
   "chapter.machinery.quest.11.title.1": "Look at a complete &6Derrick",
   "chapter.machinery.quest.11.subtitle.1": "Oil Finding Tower",
+  "chapter.machinery.quest.11.description.1": "How to get fluid with Immersive Petroleum?",
+  "chapter.machinery.quest.11.description.2": "The first step is to craft a &6Seismic Survey Tool&r, once you have placed it, simply right click with a Buckshot Cartridge and then once it exploded do a right click again to obtain info on a paper of which reservoir you got.",
+  "chapter.machinery.quest.11.description.3": "The second step is to craft the &3Derrick&r, once placed you must supply pipes, liquid concrete and of course energy to drill. The concrete is used to reinforce your pipes and then , in order to drill, it will ask you to fill it with water. Once it’s done you will have to connect a pipe to extract the drilled fluid.",
+  "chapter.machinery.quest.11.description.4": "For the final step, you will have to make sure that the pression is at 0 (50% of the reservoir), get rid of the Derrick and place a &5Pumpjack&r in order to pump the Derrick’s leftover. Make sure to place your Pumpjack on the Wellhead dug by the Derrick.",
 
   "chapter.machinery.quest.12.title.1": "Look at a complete &6Coker",
   "chapter.machinery.quest.12.subtitle.1": "Bitumen Cracker",
