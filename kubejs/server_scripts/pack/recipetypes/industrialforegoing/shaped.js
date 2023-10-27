@@ -729,6 +729,16 @@ onEvent('recipes', (event) => {
           },
           id: 'industrialforegoing:simple_black_hole_unit'
       },
+      {
+        output: 'chroma:unassembled_pity_machine_frame',
+          pattern: ['OSO', 'STS', 'OSO'],
+          key: {
+              O: '#minecraft:logs',
+              S: 'pneumaticcraft:reinforced_stone',
+              T: 'thermal:redstone_servo'
+          },
+          id: `${id_prefix}unassembled_pity_machine_frame`
+      },
     ];
 
     recipes.forEach((recipe) => {

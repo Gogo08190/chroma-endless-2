@@ -102,16 +102,6 @@ onEvent('recipes', (event) => {
         },
         {
             inputs: [
-                { item: 'minecraft:oak_log', count: 4 },
-                { item: 'pneumaticcraft:reinforced_stone', count: 4 },
-                { item: 'thermal:redstone_servo', count: 1 }
-            ],
-            pressure: 2.5,
-            results: [{ item: 'chroma:unassembled_pity_machine_frame', count: 1 }],
-            id: `${id_prefix}unassembled_pity_machine_frame`
-        },
-        {
-            inputs: [
                 { item: 'chemlib:phosphoric_acid', count: 2 },
                 { item: 'chemlib:nitric_acid', count: 2 },
                 { item: 'chemlib:acetic_acid', count: 2 },
