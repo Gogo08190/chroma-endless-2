@@ -1096,7 +1096,8 @@
   "chapter.stage.4.title": "Stage 4",
 
   "chapter.stage.4.quest.1.subtitle.1": "Resin Preparation Step 1",
-  "chapter.stage.4.quest.1.description.1": "Combine Carbon , Hydrogen and Oxygen Elements.",
+  "chapter.stage.4.quest.1.description.1": "Combine Carbon, Hydrogen and Oxygen Elements.",
+  "chapter.stage.4.quest.1.description.2": "Before using the Combiner, don't forget to lock your recipe !",
 
   "chapter.stage.4.quest.2.subtitle.1": "Resin Preparation Step 2",
   "chapter.stage.4.quest.2.description.1": "Combine Nickel and Chlorine Elements.",
