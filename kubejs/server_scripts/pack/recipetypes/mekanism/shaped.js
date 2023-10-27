@@ -95,7 +95,7 @@ onEvent('recipes', (event) => {
             key: {
                 Q: 'ae2:quartz_fiber',
                 S: '#forge:ingots/steel',
-                T: 'mekanism:basic_control_circuit'
+                T: 'immersiveengineering:fluid_pipe'
             },
             id: 'mekanism:transmitter/mechanical_pipe/basic'
         },
