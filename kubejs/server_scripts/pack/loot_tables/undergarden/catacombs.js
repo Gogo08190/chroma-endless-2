@@ -91,12 +91,12 @@ onEvent('generic.loot_tables', (event) => {
             entries: [
                 {
                     item: 'botania:blacker_lotus',
-                    count: [2, 4],
-                    weight: 50
+                    count: [1, 2],
+                    weight: 10
                 },
                 {
                     item: Item.of('shrink:mob_bottle', '{entity:"undergarden:forgotten_guardian"}'),
-                    weight: 50
+                    weight: 2
                 },
                 {
                     item: 'undergarden:music_disc_mammoth',
