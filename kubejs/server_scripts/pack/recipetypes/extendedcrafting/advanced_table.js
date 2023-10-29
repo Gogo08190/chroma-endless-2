@@ -58,10 +58,7 @@ onEvent("recipes", (event) => {
           "item": "pneumaticcraft:compressed_bricks"
         },
         "C": {
-          "type": "forge:nbt",
           "item": "thermal:flux_drill",
-          "count": 1,
-          "nbt": "{Energy:28080}"
         },
         "D": {
           "item": "mekanism:alloy_reinforced"
@@ -76,10 +73,7 @@ onEvent("recipes", (event) => {
           "item": "rftoolsbase:machine_frame"
         },
         "H": {
-          "type": "forge:nbt",
-          "item": "thermal:flux_saw",
-          "count": 1,
-          "nbt": "{Energy:33000}"
+          "item": "thermal:flux_saw"
         }
       },
       "result": {
