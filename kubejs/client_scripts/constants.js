@@ -55,7 +55,8 @@ const itemsToHide = [
     'hostilenetworks:twilight_prediction',
     'draconicevolution:end_draconium_ore',
     'draconicevolution:nether_draconium_ore',
-    'draconicevolution:deepslate_draconium_ore'
+    'draconicevolution:deepslate_draconium_ore',
+    'create:powdered_obsidian'
 ];
 
 const recipesToHide = [

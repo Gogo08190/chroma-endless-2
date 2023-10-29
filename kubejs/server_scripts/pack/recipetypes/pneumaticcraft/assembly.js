@@ -10,7 +10,7 @@ onEvent('recipes', (event) => {
         },
         {
             input: { item: 'minecraft:obsidian', count: 1 },
-            output: { item: 'mekanism:dust_obsidian', count: 1 },
+            output: { item: 'mekanism:dust_obsidian', count: 2 },
             program: 'drill',
             id: 'mekanism:enriching/conversion/obsidian_to_obsidian_dust'
         },

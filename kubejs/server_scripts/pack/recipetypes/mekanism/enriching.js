@@ -42,11 +42,6 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}enriched_venustar_luminae`
       },
       {
-        input: 'minecraft:obsidian',
-        output: '4x create:powdered_obsidian',
-        id: `${id_prefix}powdered_obsidian`
-      },
-      {
         input: 'chroma:eternal_cryostella_polaris',
         output: 'chroma:enriched_eternal_cryostella_polaris',
         id: `${id_prefix}enriched_eternal_cryostella_polaris`
