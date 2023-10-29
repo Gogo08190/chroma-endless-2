@@ -96,7 +96,7 @@ onEvent('generic.loot_tables', (event) => {
                 },
                 {
                     item: Item.of('shrink:mob_bottle', '{entity:"undergarden:forgotten_guardian"}'),
-                    weight: 2
+                    weight: 8
                 },
                 {
                     item: 'undergarden:music_disc_mammoth',
