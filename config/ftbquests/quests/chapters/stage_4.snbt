@@ -86,7 +86,11 @@
 			x: 21.5d
 			y: -9.0d
 			subtitle: "{chapter.stage.4.quest.1.subtitle.1}"
-			description: ["{chapter.stage.4.quest.1.description.1}"]
+			description: [
+				"{chapter.stage.4.quest.1.description.1}"
+				""
+				"{chapter.stage.4.quest.1.description.2}"
+			]
 			dependencies: ["68B1F7248978E910"]
 			id: "41789C57F62EA873"
 			tasks: [{
@@ -871,7 +875,7 @@
 			x: 31.5d
 			y: -12.0d
 			shape: "hexagon"
-			subtitle: "{chapter.stage.4.quest.30bis.subtitle.1}"
+			subtitle: "{chapter.stage.4.quest.130.subtitle.1}"
 			description: [
 				"{chapter.stage.4.quest.130.description.1}"
 				""
@@ -1294,10 +1298,13 @@
 		}
 		{
 			x: 45.0d
-			y: -6.0d
+			y: -4.5d
 			subtitle: "{chapter.stage.4.quest.51.subtitle.1}"
 			description: ["{chapter.stage.4.quest.51.description.1}"]
-			dependencies: ["0BF20D703FF5B64B"]
+			dependencies: [
+				"0BF20D703FF5B64B"
+				"4A078EDB7787E942"
+			]
 			id: "79CC02F06F0A19B6"
 			tasks: [{
 				id: "078C0D82DB3423D8"
@@ -1315,8 +1322,8 @@
 			}]
 		}
 		{
-			x: 45.0d
-			y: -4.5d
+			x: 46.5d
+			y: -6.0d
 			subtitle: "{chapter.stage.4.quest.52.subtitle.1}"
 			description: ["{chapter.stage.4.quest.52.description.1}"]
 			dependencies: ["79CC02F06F0A19B6"]

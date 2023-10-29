@@ -695,7 +695,10 @@
 			y: 3.0d
 			subtitle: "{chapter.stage.3.quest.40.subtitle.1}"
 			description: ["{chapter.stage.3.quest.40.description.1}"]
-			dependencies: ["33047DF4952EB7F6"]
+			dependencies: [
+				"33047DF4952EB7F6"
+				"3BE4BF5D7EC90BC9"
+			]
 			id: "614011CEF48B8B5E"
 			tasks: [{
 				id: "61EDA09CAEF8A61E"
@@ -1501,7 +1504,10 @@
 				""
 				"{chapter.stage.3.quest.66.description.4}"
 			]
-			dependencies: ["02DA081A050F4BBF"]
+			dependencies: [
+				"02DA081A050F4BBF"
+				"457A28641EB7FEBA"
+			]
 			id: "2E8893A3038F6EA6"
 			tasks: [{
 				id: "7107C472E86C7A81"
@@ -1899,8 +1905,8 @@
 			}]
 		}
 		{
-			x: 44.5d
-			y: 7.0d
+			x: 46.5d
+			y: 4.5d
 			subtitle: "{chapter.stage.3.quest.82.subtitle.1}"
 			description: ["{chapter.stage.3.quest.82.description.1}"]
 			dependencies: ["620C7FFD14179EB2"]
@@ -2188,33 +2194,11 @@
 			}]
 		}
 		{
-			x: 31.0d
-			y: 11.0d
-			subtitle: "{chapter.stage.3.quest.91.subtitle.1}"
-			description: ["{chapter.stage.3.quest.91.description.1}"]
-			dependencies: ["5A07D65389C70B25"]
-			id: "0841FFEC3744FA32"
-			tasks: [{
-				id: "514155CC09F6A496"
-				type: "item"
-				item: "extendedcrafting:ender_star"
-			}]
-			rewards: [{
-				id: "56155563538A3C62"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 29.0d
-			y: 11.0d
+			x: 43.5d
+			y: 7.5d
 			subtitle: "{chapter.stage.3.quest.92.subtitle.1}"
 			description: ["{chapter.stage.3.quest.92.description.1}"]
-			dependencies: ["0841FFEC3744FA32"]
+			dependencies: ["015716B5CC573B84"]
 			id: "3C463B35A8EBBA21"
 			tasks: [{
 				id: "6920D20D6C1C20D0"
@@ -2232,8 +2216,8 @@
 			}]
 		}
 		{
-			x: 28.0d
-			y: 12.5d
+			x: 46.0d
+			y: 7.5d
 			subtitle: "{chapter.stage.3.quest.93.subtitle.1}"
 			description: ["{chapter.stage.3.quest.93.description.1}"]
 			dependencies: ["3C463B35A8EBBA21"]
@@ -2254,8 +2238,8 @@
 			}]
 		}
 		{
-			x: 29.0d
-			y: 14.0d
+			x: 47.5d
+			y: 6.5d
 			subtitle: "{chapter.stage.3.quest.94.subtitle.1}"
 			description: ["{chapter.stage.3.quest.94.description.1}"]
 			dependencies: ["4E30780A4255E009"]

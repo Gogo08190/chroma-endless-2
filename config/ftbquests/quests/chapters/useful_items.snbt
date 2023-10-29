@@ -121,7 +121,7 @@
 			tasks: [{
 				id: "40A1913EABD6B5FA"
 				type: "item"
-				item: "structures_compass:structures_compass"
+				item: "structurecompass:structure_compass"
 			}]
 			rewards: [{
 				id: "7B0E302E1C04EF85"

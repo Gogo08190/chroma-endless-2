@@ -96,8 +96,8 @@
 			}]
 		}
 		{
-			x: 6.5d
-			y: -3.5d
+			x: 7.0d
+			y: -4.0d
 			shape: "rsquare"
 			dependencies: ["300537E738AF88CB"]
 			can_repeat: true
@@ -182,7 +182,10 @@
 			}
 			x: 0.0d
 			y: -2.0d
-			dependencies: ["300537E738AF88CB"]
+			dependencies: [
+				"300537E738AF88CB"
+				"464933A1BA43B817"
+			]
 			can_repeat: true
 			id: "2E01B262B4138B44"
 			tasks: [{
@@ -393,7 +396,7 @@
 					id: "2191E8F80DDA1C1C"
 					type: "item"
 					item: "create:blaze_cake"
-					count: 64L
+					count: 1024L
 					consume_items: true
 				}
 			]
@@ -418,17 +421,26 @@
 			dependencies: ["300537E738AF88CB"]
 			can_repeat: true
 			id: "4B55D31BA2D75167"
-			tasks: [{
-				id: "62620D9BFCE559F2"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:gold_coin"
-					Count: 1
-					tag: { }
+			tasks: [
+				{
+					id: "62620D9BFCE559F2"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+					count: 15L
+					consume_items: true
 				}
-				count: 15L
-				consume_items: true
-			}]
+				{
+					id: "20C91D1036BE01E7"
+					type: "item"
+					item: "tconstruct:hepatizon_ingot"
+					count: 32L
+					consume_items: true
+				}
+			]
 			rewards: [{
 				id: "4EA08E729C651B15"
 				type: "item"
@@ -456,17 +468,26 @@
 			dependencies: ["300537E738AF88CB"]
 			can_repeat: true
 			id: "5FFCDEE4A28A7276"
-			tasks: [{
-				id: "0A03DB4616952F28"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:gold_coin"
-					Count: 1
-					tag: { }
+			tasks: [
+				{
+					id: "0A03DB4616952F28"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+					count: 15L
+					consume_items: true
 				}
-				count: 15L
-				consume_items: true
-			}]
+				{
+					id: "2D66CB4C8E37B8A0"
+					type: "item"
+					item: "tconstruct:hepatizon_ingot"
+					count: 32L
+					consume_items: true
+				}
+			]
 			rewards: [{
 				id: "40CB173EEB1EB9A8"
 				type: "item"
@@ -494,17 +515,26 @@
 			dependencies: ["300537E738AF88CB"]
 			can_repeat: true
 			id: "5B110D4C5F2B52A8"
-			tasks: [{
-				id: "7E3BE93386265CA1"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:gold_coin"
-					Count: 1
-					tag: { }
+			tasks: [
+				{
+					id: "7E3BE93386265CA1"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+					count: 15L
+					consume_items: true
 				}
-				count: 15L
-				consume_items: true
-			}]
+				{
+					id: "516DC2CFF4547C23"
+					type: "item"
+					item: "tconstruct:hepatizon_ingot"
+					count: 32L
+					consume_items: true
+				}
+			]
 			rewards: [{
 				id: "6D1AF42EE146E1E1"
 				type: "item"
@@ -532,17 +562,26 @@
 			dependencies: ["300537E738AF88CB"]
 			can_repeat: true
 			id: "7914DA7E8DF7E2DA"
-			tasks: [{
-				id: "4BD9F3FD37B6A9A3"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:gold_coin"
-					Count: 1
-					tag: { }
+			tasks: [
+				{
+					id: "4BD9F3FD37B6A9A3"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+					count: 15L
+					consume_items: true
 				}
-				count: 15L
-				consume_items: true
-			}]
+				{
+					id: "0D77303DB16AB423"
+					type: "item"
+					item: "tconstruct:hepatizon_ingot"
+					count: 32L
+					consume_items: true
+				}
+			]
 			rewards: [{
 				id: "1BBBA181C01066BF"
 				type: "item"
@@ -570,17 +609,26 @@
 			dependencies: ["300537E738AF88CB"]
 			can_repeat: true
 			id: "2CA38FD2B36C9CE3"
-			tasks: [{
-				id: "04FEDF36ADD89037"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:gold_coin"
-					Count: 1
-					tag: { }
+			tasks: [
+				{
+					id: "04FEDF36ADD89037"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+					count: 15L
+					consume_items: true
 				}
-				count: 15L
-				consume_items: true
-			}]
+				{
+					id: "0417CCC077B7FDCF"
+					type: "item"
+					item: "tconstruct:hepatizon_ingot"
+					count: 32L
+					consume_items: true
+				}
+			]
 			rewards: [{
 				id: "5BD3D5C3076701BD"
 				type: "item"
@@ -625,7 +673,10 @@
 			x: -4.5d
 			y: 6.0d
 			shape: "diamond"
-			dependencies: ["300537E738AF88CB"]
+			dependencies: [
+				"300537E738AF88CB"
+				"7506236CC595E493"
+			]
 			can_repeat: true
 			id: "5E87EB6691FAC4C0"
 			tasks: [{
@@ -651,7 +702,10 @@
 			x: -4.0d
 			y: 6.5d
 			shape: "diamond"
-			dependencies: ["300537E738AF88CB"]
+			dependencies: [
+				"300537E738AF88CB"
+				"2163DBB8BBA7AC9B"
+			]
 			can_repeat: true
 			id: "51AC089CD887D4D5"
 			tasks: [{
@@ -677,7 +731,10 @@
 			x: -2.0d
 			y: 6.5d
 			shape: "diamond"
-			dependencies: ["300537E738AF88CB"]
+			dependencies: [
+				"300537E738AF88CB"
+				"3BD66E854EE5131C"
+			]
 			can_repeat: true
 			id: "28DD6C3476368C08"
 			tasks: [{
@@ -703,7 +760,10 @@
 			x: -1.5d
 			y: 6.0d
 			shape: "diamond"
-			dependencies: ["300537E738AF88CB"]
+			dependencies: [
+				"300537E738AF88CB"
+				"63CCB050DF3C13EE"
+			]
 			can_repeat: true
 			id: "0F578A865388741E"
 			tasks: [{
@@ -729,7 +789,10 @@
 			x: -1.0d
 			y: 5.5d
 			shape: "diamond"
-			dependencies: ["300537E738AF88CB"]
+			dependencies: [
+				"300537E738AF88CB"
+				"3E4758B1AF6FDD8D"
+			]
 			can_repeat: true
 			id: "65E5134ACB02DEE6"
 			tasks: [{
@@ -2203,32 +2266,7 @@
 			}]
 		}
 		{
-			x: 6.5d
-			y: -4.5d
-			shape: "rsquare"
-			dependencies: ["300537E738AF88CB"]
-			can_repeat: true
-			id: "03BB31F8910B4AAB"
-			tasks: [{
-				id: "4DCBAF27A2532DA7"
-				type: "forge_energy"
-				value: 10000L
-				max_input: 1000L
-			}]
-			rewards: [{
-				id: "35846A66BC6B5BF3"
-				type: "item"
-				auto: "no_toast"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-				count: 5
-			}]
-		}
-		{
-			x: 5.5d
+			x: 6.0d
 			y: -4.0d
 			shape: "rsquare"
 			dependencies: ["300537E738AF88CB"]
@@ -2249,32 +2287,7 @@
 					Count: 1
 					tag: { }
 				}
-				count: 55
-			}]
-		}
-		{
-			x: 7.5d
-			y: -4.0d
-			shape: "rsquare"
-			dependencies: ["300537E738AF88CB"]
-			can_repeat: true
-			id: "6D119C50AAB29DD0"
-			tasks: [{
-				id: "5A5081F31D3B90EF"
-				type: "forge_energy"
-				value: 10000000L
-				max_input: 1000L
-			}]
-			rewards: [{
-				id: "73467804E603B22F"
-				type: "item"
-				auto: "no_toast"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-				count: 400
+				count: 10
 			}]
 		}
 		{
@@ -2290,6 +2303,7 @@
 			x: -4.0d
 			y: -0.5d
 			dependencies: ["300537E738AF88CB"]
+			can_repeat: true
 			id: "7687F8F0DC39CE1D"
 			tasks: [{
 				id: "788ED143F282A83F"

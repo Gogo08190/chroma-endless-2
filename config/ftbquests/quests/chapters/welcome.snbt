@@ -322,35 +322,6 @@
 				type: "checkmark"
 				title: "{chapter.welcome.quest.9.title.1}"
 			}]
-			rewards: [
-				{
-					id: "17AAE5E91E8E572A"
-					type: "item"
-					item: {
-						id: "numismaticoverhaul:bronze_coin"
-						Count: 1
-						tag: { }
-					}
-				}
-				{
-					id: "68FB3CE808F61CF7"
-					type: "item"
-					item: {
-						id: "numismaticoverhaul:silver_coin"
-						Count: 1
-						tag: { }
-					}
-				}
-				{
-					id: "2A787B40E711116E"
-					type: "item"
-					item: {
-						id: "numismaticoverhaul:gold_coin"
-						Count: 1
-						tag: { }
-					}
-				}
-			]
 		}
 		{
 			icon: {

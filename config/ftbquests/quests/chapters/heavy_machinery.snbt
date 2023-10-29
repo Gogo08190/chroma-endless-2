@@ -343,7 +343,6 @@
 			x: -3.0d
 			y: 3.0d
 			subtitle: "{chapter.machinery.quest.14.subtitle.1}"
-			description: ["{chapter.machinery.quest.14.description.1}"]
 			dependencies: ["5399655B3844833B"]
 			id: "57CC194659B5DD92"
 			tasks: [{
@@ -421,7 +420,17 @@
 			x: -1.0d
 			y: 1.0d
 			subtitle: "{chapter.machinery.quest.11.subtitle.1}"
+			description: [
+				"{chapter.machinery.quest.11.description.1}"
+				""
+				"{chapter.machinery.quest.11.description.2}"
+				""
+				"{chapter.machinery.quest.11.description.3}"
+				""
+				"{chapter.machinery.quest.11.description.4}"
+			]
 			dependencies: ["5399655B3844833B"]
+			min_width: 300
 			id: "615E0DDF6AA8BA0C"
 			tasks: [{
 				id: "60ECC63396401310"

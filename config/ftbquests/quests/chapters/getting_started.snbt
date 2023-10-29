@@ -666,6 +666,7 @@
 			dependencies: [
 				"6516060435BF41D9"
 				"4AC978F915ECB43C"
+				"1B1A209D53BAA6CC"
 			]
 			id: "142D6BCB3BE8D394"
 			tasks: [{
@@ -691,6 +692,7 @@
 			dependencies: [
 				"6516060435BF41D9"
 				"4AC978F915ECB43C"
+				"1B1A209D53BAA6CC"
 			]
 			id: "39130271DD00ECFB"
 			tasks: [{
@@ -1503,6 +1505,36 @@
 			}]
 			rewards: [{
 				id: "43831327FB9DCB1F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 15.0d
+			subtitle: "{chapter.stage.1.quest.52.subtitle.1}"
+			description: [
+				"{chapter.stage.1.quest.52.description.1}"
+				""
+				"{chapter.stage.1.quest.52.description.2}"
+			]
+			dependencies: [
+				"4AC978F915ECB43C"
+				"6516060435BF41D9"
+			]
+			id: "1B1A209D53BAA6CC"
+			tasks: [{
+				id: "6B56F33A4649C63B"
+				type: "item"
+				item: "create:crushing_wheel"
+				count: 2L
+			}]
+			rewards: [{
+				id: "6B308B4893200A5F"
 				type: "item"
 				item: {
 					id: "numismaticoverhaul:bronze_coin"

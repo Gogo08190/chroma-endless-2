@@ -15,21 +15,30 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
+			icon: "immersiveengineering:coke_oven"
 			x: 8.0d
 			y: 1.5d
 			subtitle: "{chapter.stage.2.quest.3.subtitle.1}"
 			description: ["{chapter.stage.2.quest.3.description.1}"]
 			dependencies: ["3125B28DBC36530F"]
 			id: "36A47B57CA00D3A9"
-			tasks: [{
-				id: "0AD7B9BED2950392"
-				type: "observation"
-				title: "{chapter.stage.2.quest.3.title.1}"
-				icon: "immersiveengineering:coke_oven"
-				timer: 0L
-				observe_type: 0
-				to_observe: "immersiveengineering:coke_oven"
-			}]
+			tasks: [
+				{
+					id: "0AD7B9BED2950392"
+					type: "observation"
+					title: "{chapter.stage.2.quest.3.title.1}"
+					icon: "immersiveengineering:coke_oven"
+					timer: 0L
+					observe_type: 0
+					to_observe: "immersiveengineering:coke_oven"
+				}
+				{
+					id: "34303B442EC1A118"
+					type: "item"
+					item: "immersiveengineering:cokebrick"
+					count: 27L
+				}
+			]
 			rewards: [{
 				id: "5810436C4364E64A"
 				type: "item"
@@ -41,21 +50,30 @@
 			}]
 		}
 		{
+			icon: "immersiveengineering:alloy_smelter"
 			x: 6.5d
 			y: 1.0d
 			subtitle: "{chapter.stage.2.quest.2.subtitle.1}"
 			description: ["{chapter.stage.2.quest.2.description.1}"]
 			dependencies: ["3125B28DBC36530F"]
 			id: "62E491DE99C883DB"
-			tasks: [{
-				id: "005B4A68EDB17393"
-				type: "observation"
-				title: "{chapter.stage.2.quest.2.title.1}"
-				icon: "immersiveengineering:alloy_smelter"
-				timer: 0L
-				observe_type: 0
-				to_observe: "immersiveengineering:alloy_smelter"
-			}]
+			tasks: [
+				{
+					id: "005B4A68EDB17393"
+					type: "observation"
+					title: "{chapter.stage.2.quest.2.title.1}"
+					icon: "immersiveengineering:alloy_smelter"
+					timer: 0L
+					observe_type: 0
+					to_observe: "immersiveengineering:alloy_smelter"
+				}
+				{
+					id: "7E2FE078DE578E45"
+					type: "item"
+					item: "immersiveengineering:alloybrick"
+					count: 8L
+				}
+			]
 			rewards: [{
 				id: "4BA927151E417B8E"
 				type: "item"
@@ -67,21 +85,30 @@
 			}]
 		}
 		{
+			icon: "immersiveengineering:blast_furnace"
 			x: 8.5d
 			y: 3.0d
 			subtitle: "{chapter.stage.2.quest.4.subtitle.1}"
 			description: ["{chapter.stage.2.quest.4.description.1}"]
 			dependencies: ["36A47B57CA00D3A9"]
 			id: "3A8FD39A74BFEC82"
-			tasks: [{
-				id: "240F37CC63C84AC8"
-				type: "observation"
-				title: "{chapter.stage.2.quest.4.title.1}"
-				icon: "immersiveengineering:blast_furnace"
-				timer: 0L
-				observe_type: 0
-				to_observe: "immersiveengineering:blast_furnace"
-			}]
+			tasks: [
+				{
+					id: "240F37CC63C84AC8"
+					type: "observation"
+					title: "{chapter.stage.2.quest.4.title.1}"
+					icon: "immersiveengineering:blast_furnace"
+					timer: 0L
+					observe_type: 0
+					to_observe: "immersiveengineering:blast_furnace"
+				}
+				{
+					id: "3B0D69CFB8422A9E"
+					type: "item"
+					item: "immersiveengineering:blastbrick"
+					count: 27L
+				}
+			]
 			rewards: [{
 				id: "6CC980204598F32B"
 				type: "item"
@@ -228,8 +255,8 @@
 			}]
 		}
 		{
-			x: 19.0d
-			y: 13.0d
+			x: 18.5d
+			y: 12.5d
 			shape: "gear"
 			subtitle: "{chapter.stage.2.quest.34.subtitle.1}"
 			dependencies: ["2E90A31C97E6772E"]
@@ -330,7 +357,10 @@
 			y: 5.0d
 			subtitle: "{chapter.stage.2.quest.19.subtitle.1}"
 			description: ["{chapter.stage.2.quest.19.description.1}"]
-			dependencies: ["5399655B3844833B"]
+			dependencies: [
+				"5399655B3844833B"
+				"1F0B01FEFC273FA8"
+			]
 			id: "57A247A0D095A713"
 			tasks: [{
 				id: "427AEF74E58B18DA"
@@ -610,8 +640,8 @@
 			}]
 		}
 		{
-			x: 17.0d
-			y: 13.0d
+			x: 16.0d
+			y: 12.5d
 			subtitle: "{chapter.stage.2.quest.35.subtitle.1}"
 			description: ["{chapter.stage.2.quest.35.description.1}"]
 			dependencies: ["4BDF9BFA4CBA1DC9"]
@@ -658,8 +688,8 @@
 			}]
 		}
 		{
-			x: 15.0d
-			y: 13.0d
+			x: 14.0d
+			y: 12.5d
 			subtitle: "{chapter.stage.2.quest.36.subtitle.1}"
 			description: ["{chapter.stage.2.quest.36.description.1}"]
 			dependencies: [
@@ -684,12 +714,13 @@
 		}
 		{
 			x: 14.0d
-			y: 12.0d
+			y: 10.5d
 			subtitle: "{chapter.stage.2.quest.32.subtitle.1}"
 			description: ["{chapter.stage.2.quest.32.description.1}"]
 			dependencies: [
 				"16EC93F4101F247F"
 				"0D9276F1C221C682"
+				"7379508342AA6E87"
 			]
 			id: "435075825CDEB1EA"
 			tasks: [{
@@ -1314,7 +1345,15 @@
 			y: 13.5d
 			shape: "gear"
 			subtitle: "{chapter.stage.2.quest.73.subtitle.1}"
-			description: ["{chapter.stage.2.quest.73.description.1}"]
+			description: [
+				"{chapter.stage.2.quest.73.description.1}"
+				""
+				"{chapter.stage.2.quest.73.description.2}"
+				""
+				"{chapter.stage.2.quest.73.description.3}"
+				"{chapter.stage.2.quest.73.description.4}"
+				"{chapter.stage.2.quest.73.description.5}"
+			]
 			dependencies: [
 				"671AE16E7E9B4E0D"
 				"6BBF7E74DA9AD1B2"
@@ -1894,7 +1933,7 @@
 				{
 					id: "6F38F63543CDEC8E"
 					type: "item"
-					item: "botania:livingwood_log"
+					item: "botania:livingwood"
 					count: 8L
 				}
 				{
@@ -2025,7 +2064,7 @@
 		}
 		{
 			x: 12.5d
-			y: 8.0d
+			y: 8.5d
 			subtitle: "{chapter.stage.2.quest.13.subtitle.1}"
 			description: [
 				"{chapter.stage.2.quest.13.description.1}"
@@ -2135,7 +2174,7 @@
 			}]
 		}
 		{
-			x: 15.5d
+			x: 17.0d
 			y: 10.5d
 			subtitle: "{chapter.stage.2.quest.17.subtitle.1}"
 			description: [
@@ -2167,7 +2206,7 @@
 			}]
 		}
 		{
-			x: 14.0d
+			x: 15.5d
 			y: 10.5d
 			subtitle: "{chapter.stage.2.quest.18.subtitle.1}"
 			description: ["{chapter.stage.2.quest.18.description.1}"]
@@ -2190,7 +2229,7 @@
 		}
 		{
 			x: 17.0d
-			y: 9.5d
+			y: 8.5d
 			subtitle: "{chapter.stage.2.quest.16.subtitle.1}"
 			description: ["{chapter.stage.2.quest.16.description.1}"]
 			dependencies: ["4420897B0A0E24F6"]
@@ -2212,12 +2251,12 @@
 		}
 		{
 			title: "Improved Coke Oven"
-			x: 17.5d
-			y: 3.0d
+			x: 12.5d
+			y: 6.5d
 			shape: "gear"
 			subtitle: "{chapter.stage.2.quest.11.subtitle.1}"
 			description: ["{chapter.stage.2.quest.11.description.1}"]
-			dependencies: ["5399655B3844833B"]
+			dependencies: ["7379508342AA6E87"]
 			id: "3B91255318311593"
 			tasks: [
 				{
@@ -2307,8 +2346,8 @@
 			}]
 		}
 		{
-			x: 12.5d
-			y: 10.0d
+			x: 14.0d
+			y: 8.5d
 			subtitle: "{chapter.stage.2.quest.90.subtitle.1}"
 			description: [
 				"{chapter.stage.2.quest.90.description.1}"

@@ -627,6 +627,7 @@
 			subtitle: "{chapter.ae.quest.6.subtitle.1}"
 			description: ["{chapter.ae.quest.6.description.1}"]
 			dependencies: ["35E0BBD81E4C524A"]
+			dependency_requirement: "one_started"
 			id: "7DBDBDA172B65F9C"
 			tasks: [{
 				id: "47BD2C19B7C5580C"

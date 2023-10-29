@@ -63,13 +63,7 @@
 				{
 					id: "5C62B057DF90AF56"
 					type: "item"
-					item: {
-						id: "evilcraft:weather_container"
-						Count: 1
-						tag: {
-							weather: "EMPTY"
-						}
-					}
+					item: "evilcraft:weather_container"
 					match_nbt: true
 				}
 			]
@@ -443,22 +437,17 @@
 				""
 				"{chapter.evil.quest.12.description.2}"
 				""
+				"{chapter.evil.quest.12.description.4}"
+				""
 				"{chapter.evil.quest.12.description.3}"
 			]
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "71E9B1CEED94CF62"
-			tasks: [
-				{
-					id: "3D7B5398C00F8A9B"
-					type: "item"
-					item: "evilcraft:vengeance_essence"
-				}
-				{
-					id: "7D511C659AC22356"
-					type: "item"
-					item: "evilcraft:vengeance_ring"
-				}
-			]
+			tasks: [{
+				id: "7D511C659AC22356"
+				type: "item"
+				item: "evilcraft:vengeance_ring"
+			}]
 			rewards: [{
 				id: "51A9607AC74D6F2D"
 				type: "item"
@@ -896,6 +885,7 @@
 							broom_parts_tag: ["evilcraft:rod_bare"]
 						}
 					}
+					match_nbt: true
 				}
 				{
 					id: "117D9D493D7B2C7F"
@@ -907,6 +897,7 @@
 							broom_parts_tag: ["evilcraft:brush_bare"]
 						}
 					}
+					match_nbt: true
 				}
 				{
 					id: "36CBB287C243D5F5"
@@ -918,6 +909,7 @@
 							broom_parts_tag: ["evilcraft:cap_bare"]
 						}
 					}
+					match_nbt: true
 				}
 				{
 					id: "54F0BC5102E8C676"
@@ -940,6 +932,7 @@
 							}
 						}
 					}
+					match_nbt: false
 				}
 			]
 			rewards: [{
@@ -1535,47 +1528,6 @@
 			}]
 		}
 		{
-			x: 4.5d
-			y: -5.0d
-			shape: "diamond"
-			subtitle: "{chapter.evil.quest.39.subtitle.1}"
-			description: ["{chapter.evil.quest.39.description.1}"]
-			hide_dependency_lines: true
-			dependencies: ["42E3B1B976B65214"]
-			id: "6C6D6B99691D1ABC"
-			tasks: [{
-				id: "0F8CD6B81D2C5C6F"
-				type: "item"
-				item: {
-					id: "evilcraft:mace_of_destruction"
-					Count: 1
-					tag: {
-						Fluid: {
-							FluidName: "minecraft:empty"
-							Amount: 0
-						}
-						capacity: 4000
-					}
-					ForgeCaps: {
-						Parent: {
-							FluidName: "minecraft:empty"
-							Amount: 0
-							capacity: 4000
-						}
-					}
-				}
-			}]
-			rewards: [{
-				id: "5AE9F2807BCE5A6A"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: 5.0d
 			y: -4.5d
 			shape: "diamond"
@@ -1617,8 +1569,8 @@
 			}]
 		}
 		{
-			x: 7.5d
-			y: -5.0d
+			x: 6.0d
+			y: -5.5d
 			shape: "diamond"
 			subtitle: "{chapter.evil.quest.45.subtitle.1}"
 			hide_dependency_lines: true
