@@ -4148,5 +4148,15 @@
   "chapter.mana.quest.78.subtitle.1": "L'amélioration la plus brillante",
 
   "chapter.mana.quest.79.title": "Construct en obsidienne",
-  "chapter.mana.quest.79.subtitle.1": "La dernière amélioration"
+  "chapter.mana.quest.79.subtitle.1": "La dernière amélioration",
+
+  "Apotheosis":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.apotheosis.title": "Apotheosis",
+
+  "chapter.apotheosis.quest.1.title": "Table d'enchantement améliorée",
+
+  "chapter.apotheosis.quest.2.title": "Ma première configuration d'enchantement",
+
+  "chapter.apotheosis.quest.3.title": "Seulement le meilleur"
 }
