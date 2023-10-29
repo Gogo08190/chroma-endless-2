@@ -15,9 +15,9 @@ onEvent('recipes', (event) => {
       },
       {
         inputs: [
-          'blue_skies:pink_brewberry',
-          'blue_skies:crescent_fruit',
-          'blue_skies:black_brewberry',
+          'blue_skies:brewberry',
+          'blue_skies:brewberry',
+          'blue_skies:brewberry',
           'blue_skies:brewberry',
           'botania:rune_lust',
           'mob_grinding_utils:fluid_xp_bucket',
