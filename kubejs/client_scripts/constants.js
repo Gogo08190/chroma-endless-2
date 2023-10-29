@@ -56,7 +56,8 @@ const itemsToHide = [
     'draconicevolution:end_draconium_ore',
     'draconicevolution:nether_draconium_ore',
     'draconicevolution:deepslate_draconium_ore',
-    'create:powdered_obsidian'
+    'create:powdered_obsidian',
+    /apotheosis:potion_charm$/
 ];
 
 const recipesToHide = [
