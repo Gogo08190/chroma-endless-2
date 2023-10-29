@@ -69,4 +69,4 @@
 	#Range: 0 ~ 1000
 	boarSpawnWeight = 15
 	#Remove farm animals from savanna biomes (sheep, pig, chicken, cow)
-	removeSavannaFarmAnimals = true
+	removeSavannaFarmAnimals = false
