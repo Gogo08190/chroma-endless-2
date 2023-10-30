@@ -184,7 +184,7 @@
 
   "chapter.challenge.killing.wither": "Tuez 100 &6Withers&r",
 
-  "chapter.challenge.potato": "Creez 1000 petites pommes de terre",
+  "chapter.challenge.potato": "Effectuez 1000 clic droit sur une petite pomme de terre",
 
   "chapter.challenge.piggy.title.1": "Piggy Bank - Partie 1",
   "chapter.challenge.piggy.title.2": "Piggy Bank - Partie 2",
@@ -212,14 +212,14 @@
   "chapter.useful.quest.2.description": "Une compacte machine est un bloc qui permet de simuler un espace virtuel en forme de cube incassable. Pour y acceder, il suffit de faire un clic droit avec un Personnal Shrinking Device sur une Compact Machine",
 
   "chapter.useful.quest.3.subtitle": "Construction Facile",
-  "chapter.useful.quest.3.description": "Avec une Baguette de Construction, vous pouvez placer plusieurs blocs (jusqu'à 1024) en une seule fois, en étendant votre construction du côté que vous regardez. Si vous faites une erreur, ne vous inquiétez pas, utilisez la combinaison de touches Shift + Ctrl.",
+  "chapter.useful.quest.3.description": "Avec une Baguette de Construction, vous pouvez placer plusieurs blocs (jusqu'à 1024) en une seule fois, en étendant votre construction du côté que vous regardez. Si vous faites une erreur, ne vous inquiétez pas, utilisez la combinaison de touches Maj + Ctrl.",
 
   "chapter.useful.quest.4.subtitle": "Pro du Bâtiment",
   "chapter.useful.quest.4.description": "Parfois, la construction de grandes structures peut être un peu fastidieuse et demander beaucoup d'efforts. Nous ne sommes pas tous de grands constructeurs, vous savez ! L'outil de construction vise à rendre la construction un peu plus facile.",
-  "chapter.useful.quest.4.description.2": "&4Faites Attention ! &r LE Destruction Gadget supprime les blocs détruis!",
+  "chapter.useful.quest.4.description.2": "&4Faites Attention ! &r LE Destruction Gadget ne vous donnes pas les blocs détruis!",
 
   "chapter.useful.quest.5.subtitle": "À travers les sables du temps",
-  "chapter.useful.quest.5.description": "La bouteille de temps est un objet unique qui vous permet d'accélérer la vitesse de fonctionnement des machines, comme les fours ou les hopper. La bouteille collecte passivement du temps tant qu'elle est dans votre inventaire (pas dans les sac à dos ou dans le systeme Applied). Pour utiliser le temps stocké, faites un clic droit avec la touche shift enfoncée sur une machine.",
+  "chapter.useful.quest.5.description": "La bouteille de temps est un objet unique qui vous permet d'accélérer la vitesse de fonctionnement de certain blocs, comme les fours ou les entonnoirs. La bouteille collecte passivement du temps tant qu'elle est dans votre inventaire (pas dans les sac à dos ou dans le système Applied). Pour utiliser le temps stocké, faites un clic droit avec la touche Maj enfoncée sur un bloc.",
 
   "chapter.useful.quest.6.subtitle": "Calculateur d'Énergie",
   "chapter.useful.quest.6.description": "Un bloc simple que vous pouvez utiliser pour mesurer les taux de transfert d'énergie avec un affichage en temps réel.",
