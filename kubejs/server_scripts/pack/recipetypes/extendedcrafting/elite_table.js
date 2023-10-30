@@ -60,7 +60,7 @@ onEvent("recipes", (event) => {
             "item": "scannable:block_module"
           },
           "P": {
-            "item": "mna:transitory_tunnel"
+            "item": "mna:mote_ender"
           },
           "Q": {
             "item": "mekanism:steel_casing"
