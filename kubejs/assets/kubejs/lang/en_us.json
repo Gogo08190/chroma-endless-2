@@ -4158,5 +4158,43 @@
 
   "chapter.apotheosis.quest.2.title": "My First Enchanting Setup",
 
-  "chapter.apotheosis.quest.3.title": "Only The Best"
+  "chapter.apotheosis.quest.3.title": "Only The Best",
+
+  "FtbQuests": "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "ftbquests.gui.pin": "Pin",
+  "ftbquests.gui.view_dependencies": "View Dependencies",
+  "ftbquests.gui.view_dependants": "View Dependants",
+  "ftbquests.gui.no_dependencies": "No Dependencies",
+  "ftbquests.gui.no_dependants": "No Dependants",
+  "ftbquests.dependencies": "Dependencies",
+
+  "ftbquests.task": "Task",
+  "ftbquests.tasks": "Tasks",
+  "ftbquests.task.ftbquests.kill.title": "Kill: %sx %s",
+  "ftbquests.task.ftbquests.advancement": "Advancement",
+  "ftbquests.task.completed": "Task completed!",
+  "ftbquests.task.click_to_submit": "Click to submit",
+  "ftbquests.task.ftbquests.item.consume_true": "Consumes item",
+  "ftbquests.task.ftbquests.item.consume_false": "Doesn't consume item",
+  "ftbquests.task.ftbquests.item.hide_valid_items": "Hide Valid Items",
+  "ftbquests.task.ftbquests.item.valid_items": "Valid items:",
+  "ftbquests.task.ftbquests.item.view_items": "Click to view valid items",
+  "ftbquests.task.ftbquests.item.valid_for": "Valid items for %s",
+  "ftbquests.task.ftbquests.item.click_recipe": "Click to view recipe(s)",
+
+  "ftbquests.quest.optional": "Optional",
+  "ftbquests.quest.locked": "Locked: uncompleted dependencies",
+
+  "ftbquests.quest.can_repeat": "Repeatable quest",
+  "ftbquests.quest": "Quest",
+  "ftbquests.quests": "Quests",
+
+  "ftbquests.reward": "Reward",
+  "ftbquests.rewards": "Rewards",
+  "ftbquests.reward.team_reward": "Team Reward",
+  "ftbquests.reward.emergency": "Emergency Item",
+  "ftbquests.reward.autoclaim": "Auto-claim",
+  "ftbquests.reward.claim_all": "Claim All Rewards",
+  "ftbquests.reward.collected": "Reward Collected!"
 }
