@@ -4158,5 +4158,43 @@
 
   "chapter.apotheosis.quest.2.title": "Ma première configuration d'enchantement",
 
-  "chapter.apotheosis.quest.3.title": "Seulement le meilleur"
+  "chapter.apotheosis.quest.3.title": "Seulement le meilleur",
+
+  "FtbQuests": "---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "ftbquests.gui.pin": "Epingler",
+  "ftbquests.gui.view_dependencies": "Voir les dépendances",
+  "ftbquests.gui.view_dependants": "Voir les dépendances",
+  "ftbquests.gui.no_dependencies": "Pas de dépendances",
+  "ftbquests.gui.no_dependants": "Pas de dépendances",
+  "ftbquests.dependencies": "Dépendances",
+
+  "ftbquests.task": "Tâche",
+  "ftbquests.tasks": "Tâches",
+  "ftbquests.task.ftbquests.kill.title": "Tuez: %sx %s",
+  "ftbquests.task.ftbquests.advancement": "Progrès",
+  "ftbquests.task.completed": "Tâche complétée!",
+  "ftbquests.task.click_to_submit": "Cliquez pour envoyer",
+  "ftbquests.task.ftbquests.item.consume_true": "Consomme l'objet",
+  "ftbquests.task.ftbquests.item.consume_false": "Ne consomme pas l'objet",
+  "ftbquests.task.ftbquests.item.hide_valid_items": "Cacher les objets acceptés",
+  "ftbquests.task.ftbquests.item.valid_items": "Objets acceptés:",
+  "ftbquests.task.ftbquests.item.view_items": "Cliquez pour voir les objets acceptés",
+  "ftbquests.task.ftbquests.item.valid_for": "Objets acceptés pour %s",
+  "ftbquests.task.ftbquests.item.click_recipe": "Cliquez pour voir les crafts",
+
+  "ftbquests.quest.optional": "Quête optionnelle",
+  "ftbquests.quest.locked": "Verrouillé : vous devez compléter les quêtes précédentes",
+
+  "ftbquests.quest.can_repeat": "Quête répétable",
+  "ftbquests.quest": "Quête",
+  "ftbquests.quests": "Quêtes",
+
+  "ftbquests.reward": "Récompense",
+  "ftbquests.rewards": "Récompenses",
+  "ftbquests.reward.team_reward": "Récompense d'équipe",
+  "ftbquests.reward.emergency": "Objet d'urgence",
+  "ftbquests.reward.autoclaim": "Récupération automatique",
+  "ftbquests.reward.claim_all": "Récupérer toutes les récompenses",
+  "ftbquests.reward.collected": "Récompenses reçues"
 }
