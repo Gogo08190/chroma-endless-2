@@ -254,7 +254,7 @@
   "chapter.stage.1.quest.5.subtitle.1": "Mélangeons des minerais ! ",
   "chapter.stage.1.quest.5.description.1" : "En créant cet alliage vous allez pouvoir avancer !",
   "chapter.stage.1.quest.5.description.2" : "Nous vous suggérons de regarder comment il se craft.",
-  "chapter.stage.1.quest.5.description.3" : "Plus tard dans le pack, d'autres recettes seront possibles, ne vous inquiétez pas.",
+  "chapter.stage.1.quest.5.description.3" : "Plus tard dans le pack, d'autres crafts seront possibles, ne vous inquiétez pas.",
 
   "chapter.stage.1.quest.6.subtitle.1": "Un Nouvel Alliage",
   "chapter.stage.1.quest.6.description.1" : "En brulant ce mélange vous allez pouvoir avoir ce nouvel alliage.",
@@ -287,8 +287,8 @@
   "chapter.stage.1.quest.12.description.1": "C'est un objet important en début de partie, car il est utilisé pour presser les lingots en feuilles, qui sont des ingrédients importants pour les composants de niveau supérieur.",
   "chapter.stage.1.quest.12.description.2": "La presse mécanique est alimentée par un rotor interne, accessible depuis deux côtés opposés. Tout comme les rotors, les presses transmettent la rotation le long de leur axe. Elle traite les objets plus rapidement lorsqu'elle reçoit une vitesse de rotation plus élevée.",
   "chapter.stage.1.quest.12.description.3":"Par défaut, la presse mécanique appliquera des crafts de pressage aux objets situés en dessous d'elle. Cela peut être configuré de deux manières :",
-  "chapter.stage.1.quest.12.description.4":"● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal redstone (comme un levier). Les objets sans recette de pressage ne sont pas affectés.",
-  "chapter.stage.1.quest.12.description.5":"● Lorsqu'elle est placée à un bloc au-dessus d'une bande mécanique, elle pressera automatiquement les tas d'objets entrants, arrêtant la bande jusqu'à ce que chaque opération soit terminée. Les objets sans recette de pressage sont ignorés.",
+  "chapter.stage.1.quest.12.description.4":"● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal redstone (comme un levier). Les objets sans craft de pressage ne sont pas affectés.",
+  "chapter.stage.1.quest.12.description.5":"● Lorsqu'elle est placée à un bloc au-dessus d'une bande mécanique, elle pressera automatiquement les tas d'objets entrants, arrêtant la bande jusqu'à ce que chaque opération soit terminée. Les objets sans craft de pressage sont ignorés.",
 
   "chapter.stage.1.quest.13.title.1": "Papier de verre",
   "chapter.stage.1.quest.13.subtitle.1": "Pressons du Sable",
@@ -309,8 +309,8 @@
   "chapter.stage.1.quest.18.subtitle.1": "Le Mixeur Mécanique",
   "chapter.stage.1.quest.18.description.1" : "Le Mixeur Mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
   "chapter.stage.1.quest.18.description.2" : "Le Mixeur Mécanique a besoins d'une vitesse de rotation minimale de 32 RPM (tours par minute). Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
-  "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une recette valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
-  "chapter.stage.1.quest.18.description.4" : "Le mélangeur mécanique peut être utilisé pour réaliser des recettes de mélange qui ne peuvent être réalisées nulle part ailleurs.",
+  "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une craft valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
+  "chapter.stage.1.quest.18.description.4" : "Le mélangeur mécanique peut être utilisé pour réaliser des crafts de mélange qui ne peuvent être réalisées nulle part ailleurs.",
 
   "chapter.stage.1.quest.19.title.1": "Visiter la dimension : &cLe Nether",
   "chapter.stage.1.quest.19.subtitle.1": "Allons en Enfer !",
@@ -334,12 +334,12 @@
   "chapter.stage.1.quest.24.description.1" : "Utiliser le Déployeur précédemment créé pourrait être une bonne idée... juste en passant.",
 
   "chapter.stage.1.quest.25.subtitle.1": "Un nouveau type de création",
-  "chapter.stage.1.quest.25.description.1" : "Un ensemble d'établis méchaniques peut être utilisé pour automatiser n'importe quelle recette.",
+  "chapter.stage.1.quest.25.description.1" : "Un ensemble d'établis méchaniques peut être utilisé pour automatiser n'importe quelle craft.",
   "chapter.stage.1.quest.25.description.2" : "Tous les chemins doivent converger et mener à une sortie, et cela de n'importe quel côté de l'artisan.",
 
   "chapter.stage.1.quest.26.subtitle.1": "Un composant vraiment utile",
   "chapter.stage.1.quest.26.description.1" : "Fabriqué avec une séquence que vous allez devoir faire 5 fois,",
-  "chapter.stage.1.quest.26.description.2" : "Le Mécanisme de Précision sera utilisé dans plusieurs recettes utiles.",
+  "chapter.stage.1.quest.26.description.2" : "Le Mécanisme de Précision sera utilisé dans plusieurs crafts utiles.",
   "chapter.stage.1.quest.26.description.3" : "Info : Automatiser tôt pourrait être une bonne idée.",
 
   "chapter.stage.1.quest.27.subtitle.1": "Exploitation minière avec Create !",
@@ -355,7 +355,7 @@
   "chapter.stage.1.quest.30s.description.1" : "Utilisé pour localiser des minerais ou des fluides à extraire avec la Foreuse ou le Puits.",
 
   "chapter.stage.1.quest.31.subtitle.1": "Démarrage de Tinker !",
-  "chapter.stage.1.quest.31.description.1" : "Tinker est un mod vraiment utile ! Je suppose que vous devriez regarder la recette pour avancer.",
+  "chapter.stage.1.quest.31.description.1" : "Tinker est un mod vraiment utile ! Je suppose que vous devriez regarder la craft pour avancer.",
   "chapter.stage.1.quest.31.description.2" : "Ces premières tables vous permettront de créer votre premier outil Tinker !",
 
   "chapter.stage.1.quest.32.subtitle.1": "Stocker les pièces inutiles",
@@ -367,7 +367,7 @@
   "chapter.stage.1.quest.34.subtitle.1": "Je s'appelle Grout !",
   "chapter.stage.1.quest.34.description.1" : "Le Grout est le début de toute bonne fonderie Tinker.",
   "chapter.stage.1.quest.34.description.2" : "Récoltez du sable, du gravier et de l'argile, puis mélangez-les dans Create pour obtenir du Grout.",
-  "chapter.stage.1.quest.34.description.3" : "N'oubliez pas de chauffer votre recette de mélange !",
+  "chapter.stage.1.quest.34.description.3" : "N'oubliez pas de chauffer votre craft de mélange !",
 
   "chapter.stage.1.quest.35.subtitle.1": "Fonte du Grout",
   "chapter.stage.1.quest.35.description.1" : "Les Briques de fusion sont utilisées pour fabriquer les composants de la fonderie Tinker.",
@@ -426,19 +426,19 @@
   "chapter.stage.1.quest.49.description.6": "Au lieu d'utiliser une Manaweaving Wand, vous pouvez utiliser une Manaweave in a Bottle de Mana ou un Manaweave Projector à la place.",
 
   "chapter.stage.1.quest.50.subtitle.1": "Fabrication de sorts",
-  "chapter.stage.1.quest.50.description.1": "L'Inscription Table est utilisée pour créer des recettes de sorts.",
+  "chapter.stage.1.quest.50.description.1": "L'Inscription Table est utilisée pour créer des crafts de sorts.",
   "chapter.stage.1.quest.50.description.2": "Elle possède 3 emplacements dans le coin supérieur gauche de l'interface utilisateur (GUI). Le slot le plus à gauche est réservé à l'Arcanist Ink, celui du milieu pour le Vellum, et celui le plus à droite pour l'Arcane Ash.",
   "chapter.stage.1.quest.50.description.3": "Il existe trois types d'options de sorts : Formes (Shapes), Composants (Components) et Modificateurs (Modifiers). Il y a cinq emplacements au milieu de l'interface utilisateur (GUI) qui contiennent les options de sorts.",
-  "chapter.stage.1.quest.50.description.4": "Une recette peut contenir 1 Forme, 1 Composant et 3 Modificateurs.",
+  "chapter.stage.1.quest.50.description.4": "Une craft peut contenir 1 Forme, 1 Composant et 3 Modificateurs.",
   "chapter.stage.1.quest.50.description.5": "Les Formes (Shapes) affectent la manière dont le sort est lancé, comme un rayon, par contact ou sur soi-même. Les Composants (Components) affectent ce que le sort fait, comme des dégâts de feu, de la guérison ou de la fouille. Les Modificateurs (Modifiers) affectent les propriétés du sort, comme l'extension de la portée, de la durée ou de la puissance.",
-  "chapter.stage.1.quest.50.description.6": "En cliquant sur les options, elles sont ajoutées à la recette ; au moins une forme et un composant doivent être sélectionnés.",
+  "chapter.stage.1.quest.50.description.6": "En cliquant sur les options, elles sont ajoutées à la craft ; au moins une forme et un composant doivent être sélectionnés.",
   "chapter.stage.1.quest.50.description.7": "Pour ajuster les paramètres du modificateur, sélectionnez un modificateur et cliquez sur les flèches jaunes qui apparaissent pour augmenter ou diminuer la propriété souhaitée.",
   "chapter.stage.1.quest.50.description.8": "Sur le côté droit de l'interface utilisateur (GUI), la complexité, le coût en mana, les coûts de l'Inscription Table et les composants de sort requis sont affichés.",
-  "chapter.stage.1.quest.50.description.9": "Pour terminer une recette, cliquez sur la flèche verte en haut de l'interface utilisateur (GUI). Les recettes prennent du temps à être fabriquées, ce qui est indiqué par une barre de progression le long du haut. Une fois terminée, l'Inscription Table dépose la recette de sort dans le coin supérieur droit de l'interface utilisateur (GUI).",
+  "chapter.stage.1.quest.50.description.9": "Pour terminer une craft, cliquez sur la flèche verte en haut de l'interface utilisateur (GUI). Les crafts prennent du temps à être fabriquées, ce qui est indiqué par une barre de progression le long du haut. Une fois terminée, l'Inscription Table dépose la craft de sort dans le coin supérieur droit de l'interface utilisateur (GUI).",
 
   "chapter.stage.1.quest.51.subtitle.1": "Forgeage de Runes",
   "chapter.stage.1.quest.51.description.1": "&5La Runeforge&r est utilisé comme four pour affiner plusieurs objets. Mais faites attention au niveau requis.",
-  "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des recettes artisanales uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
+  "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des crafts artisanales uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
 
   "chapter.stage.1.quest.52.subtitle.1": "Maître du Concassage",
   "chapter.stage.1.quest.52.description.1": "La Crushing Wheel permet de concasser diverses ressources.",
@@ -466,7 +466,7 @@
 
   "chapter.stage.2.quest.5.subtitle.1": "L'Établi de l'ingénieur",
   "chapter.stage.2.quest.5.description.1": "Pour fabriquer les premiers composants d'&5Immersive&r, vous devrez fabriquer cet établi.",
-  "chapter.stage.2.quest.5.description.2": "Plus tard dans le jeu, une recette plus précieuse sera utilisée, mais pour l'instant nous vous suggérons d'utiliser celle-ci.",
+  "chapter.stage.2.quest.5.description.2": "Plus tard dans le jeu, une craft plus précieuse sera utilisée, mais pour l'instant nous vous suggérons d'utiliser celle-ci.",
 
   "chapter.stage.2.quest.6.subtitle.1": "Pinces coupantes",
   "chapter.stage.2.quest.6.description.1": "Les &9Coupes-fils de l'ingénieur&r sont très utiles pour fabriquer votre première presse et vos câbles d'&5Immersive&r.",
@@ -622,7 +622,7 @@
 
   "chapter.stage.2.quest.48.subtitle.1": "Fuuusiionnn !",
   "chapter.stage.2.quest.48.description.1": "Cette machine est principalement utilisée pour combiner deux objets entre eux.",
-  "chapter.stage.2.quest.48.description.2": "Consultez JEI pour voir toutes les recettes disponibles.",
+  "chapter.stage.2.quest.48.description.2": "Consultez JEI pour voir toutes les crafts disponibles.",
 
   "chapter.stage.2.quest.49.subtitle.1": "Fonte de mana",
 
@@ -698,8 +698,8 @@
   "chapter.stage.2.quest.67.description.1": "La Runescribing Table est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
   "chapter.stage.2.quest.67.description.2": "À gauche de l'interface graphique, il y a trois emplacements. L'emplacement supérieur est destiné au Hammer, celui du milieu au Chisel et celui du bas à l'argile.",
   "chapter.stage.2.quest.67.description.3": "L'argile n'est pas nécessaire pour ciseler des marques, mais elle est nécessaire pour les annuler.",
-  "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du Rune Pattern. En haut à droite de l'interface graphique se trouve un emplacement pour insérer une recette d'inscription runique, qui affichera ensuite un motif dans la zone ci-dessous.",
-  "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les recettes d'inscription runique. Lorsqu'un modèle de rune vierge est inséré, une grande grille de points apparaîtra.",
+  "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du Rune Pattern. En haut à droite de l'interface graphique se trouve un emplacement pour insérer une craft d'inscription runique, qui affichera ensuite un motif dans la zone ci-dessous.",
+  "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les crafts d'inscription runique. Lorsqu'un modèle de rune vierge est inséré, une grande grille de points apparaîtra.",
   "chapter.stage.2.quest.67.description.6": "En cliquant gauche entre les points, vous créerez une marque droite les reliant, ce qui utilisera également une partie de la durabilité de votre outil.",
   "chapter.stage.2.quest.67.description.7": "Vous pouvez retirer une marque en cliquant à nouveau sur la marque, mais vous avez besoin d'argile et d'XP pour la retirer.",
   "chapter.stage.2.quest.67.description.8": "Une fois que vos marques correspondent à une rune, le motif de rune sera automatiquement terminé.",
@@ -898,7 +898,7 @@
   "chapter.stage.3.quest.32.description.1" : "Il suffit d'infuser un Circuit de Contrôle Avancé avec une infusion d'Acier Compressé.",
 
   "chapter.stage.3.quest.33.subtitle.1": "Tablette Utile",
-  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est un pack de batterie portable et rechargeable qui peut être chargé avec jusqu'à 1 000 kJ d'énergie, puis utilisé pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses recettes.",
+  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est un pack de batterie portable et rechargeable qui peut être chargé avec jusqu'à 1 000 kJ d'énergie, puis utilisé pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses crafts.",
 
   "chapter.stage.3.quest.34.subtitle.1": "La nuit est ennuyeuse",
   "chapter.stage.3.quest.34.description.1" : "Génère de l'énergie Forge grâce à la puissance du soleil. Peut être amélioré ultérieurement.",
@@ -953,7 +953,7 @@
   "chapter.stage.3.quest.51.subtitle.1": "Artisanat Automatique de Base",
   "chapter.stage.3.quest.51.description.1": "Artisanat Automatique des Artisanats de Base avec des FE !",
   "chapter.stage.3.quest.51.description.2": "Afin d'automatiser la table, n'oubliez pas de placer un inventaire (comme une coffre) au-dessus de la Table de craft Automatique.",
-  "chapter.stage.3.quest.51.description.3": "Ensuite, configurez la recette souhaitée et enregistrez-la avec Maj + Clic Gauche dans le coin supérieur gauche (1, 2, 3). Notez qu'il ne fabriquera automatiquement que l'emplacement sauvegardé sélectionné.",
+  "chapter.stage.3.quest.51.description.3": "Ensuite, configurez la craft souhaitée et enregistrez-la avec Maj + Clic Gauche dans le coin supérieur gauche (1, 2, 3). Notez qu'il ne fabriquera automatiquement que l'emplacement sauvegardé sélectionné.",
 
   "chapter.stage.3.quest.52.subtitle.1": "Artisanat Automatique Avancé",
   "chapter.stage.3.quest.52.description.1": "Artisanat Automatique des Artisanats Avancés avec des FE !",
@@ -1052,7 +1052,7 @@
   "chapter.stage.3.quest.80.description.1": "Enrobe une tige d'électrum avec du redstone déstabilisé.",
 
   "chapter.stage.3.quest.81.subtitle.1": "Fonderie de Thermal",
-  "chapter.stage.3.quest.81.description.1": "Combinez des objets (maximum 3) pour en obtenir un autre. Cela est principalement utilisé pour mélanger des lingots. Consultez JEI pour les recettes.",
+  "chapter.stage.3.quest.81.description.1": "Combinez des objets (maximum 3) pour en obtenir un autre. Cela est principalement utilisé pour mélanger des lingots. Consultez JEI pour les crafts.",
 
   "chapter.stage.3.quest.82.subtitle.1": "Acheminement avec des modules",
   "chapter.stage.3.quest.82.description.1": "&bModular Router&r est un mod flexible pour déplacer des objets de différentes manières. Avec un seul bloc - l'Item Router - et un ou plusieurs modules complémentaires, vous pouvez extraire des objets d'un inventaire (y compris des inventaires modifiés tels que Drawers), les envoyer vers d'autres inventaires proches ou lointains, les placer comme des blocs, casser des blocs, lâcher des objets dans le monde, et plus encore. Pensez à l'Item Router comme à une trémie super configurable dopée...",
@@ -1245,7 +1245,7 @@
   "chapter.stage.4.quest.51.description.1": "Avec le &4Compresseur Quantique&r, mettez 256 Cristaux d'Utherium et le Noyau de Téléportation comme Catalyseur.",
 
   "chapter.stage.4.quest.52.subtitle.1": "L'Extraction à son Meilleur",
-  "chapter.stage.4.quest.52.description.1": "La Mineuse Digitale extrait tout ce que vous lui demandez d'extraire. Consultez sa recette dans JEI.",
+  "chapter.stage.4.quest.52.description.1": "La Mineuse Digitale extrait tout ce que vous lui demandez d'extraire. Consultez sa craft dans JEI.",
 
   "chapter.stage.4.quest.53.subtitle.1": "Composant Oublié",
   "chapter.stage.4.quest.53.description.1": "Énergisez simplement des Lingots Oubliés, une Plaque d'Acier Noir et une Luminescence.",
@@ -1257,7 +1257,7 @@
   "chapter.stage.4.quest.56.description.1": "Utilisez la Chambre de Dissolution pour assembler des Composants d'Élite, des Tables de Craft Avancées, un Catalyseur d'Élite et un Bloc de Métal Oublié avec de l'Utherium fondu.",
 
   "chapter.stage.4.quest.57.subtitle.1": "Table de Craft Auto Oubliée",
-  "chapter.stage.4.quest.57.description.1": "Utilisez le Craft de l'Ender pour assembler la Table de Craft Auto d'Élite. Consultez JEI pour la recette.",
+  "chapter.stage.4.quest.57.description.1": "Utilisez le Craft de l'Ender pour assembler la Table de Craft Auto d'Élite. Consultez JEI pour la craft.",
 
   "chapter.stage.4.quest.58.subtitle.1": "Séparation de Fluide",
   "chapter.stage.4.quest.58.description.1": "Sépare n'importe quel fluide compatible en deux autres fluides.",
@@ -1277,7 +1277,7 @@
   "chapter.stage.4.quest.63.description.1": "Utilisez simplement une Chambre d'Enrichissement pour obtenir des Feuilles de PE-HD.",
 
   "chapter.stage.4.quest.64.subtitle.1": "Maniaque de l'Autocrafting",
-  "chapter.stage.4.quest.64.description.1": "Le mécanisme de fabrication automatisée d'AE2 commence avec le &bME Patterns Provider&r. Cet appareil sert de réceptacle pour des objets spécifiques appelés &bmodèles vides&r (détaillés dans la quête suivante). Ces modèles vides sont conçus pour englober des recettes qui transforment des objets d'entrée en sorties spécifiées. Un seul fournisseur peut accueillir jusqu'à 9 modèles vides simultanément.",
+  "chapter.stage.4.quest.64.description.1": "Le mécanisme de fabrication automatisée d'AE2 commence avec le &bME Patterns Provider&r. Cet appareil sert de réceptacle pour des objets spécifiques appelés &bmodèles vides&r (détaillés dans la quête suivante). Ces modèles vides sont conçus pour englober des crafts qui transforment des objets d'entrée en sorties spécifiées. Un seul fournisseur peut accueillir jusqu'à 9 modèles vides simultanément.",
 
   "chapter.stage.4.quest.65.subtitle.1": "Assemblage de Craft",
   "chapter.stage.4.quest.65.description.1": "Les Assembleurs Moléculaires ont la capacité de transmettre à la fois de l'énergie et des canaux à d'autres appareils ME qui leur sont liés, sans consommer de canal eux-mêmes. Dans les cas où un Patterns providers est utilisé, jusqu'à 6 Assembleurs Moléculaires peuvent y être liés, permettant l'exécution de plusieurs tâches de fabrication simultanément.",
@@ -1287,10 +1287,10 @@
   "chapter.stage.4.quest.66.description.1": "Souvent, vous utiliserez plusieurs patterns providers répartis dans toute votre base. Pour faciliter l'accès transparent aux contenus de tous les fournisseurs de votre vaste réseau ME, le &bTerminal d'Accès aux modèles vides&r s'avère inestimable. Ce terminal permet un accès distant aux modèles vides stockés dans différents fournisseurs.",
 
   "chapter.stage.4.quest.67.subtitle.1": "Encodage de Crafts Partie 1",
-  "chapter.stage.4.quest.67.description.1": "Les modèles vides offrent la flexibilité de contenir soit une recette de &6crafting&r classique, soit une recette plus large de '&6processing&r'. Les recettes de fabrication impliquent l'utilisation d'un &6Assembleur Moléculaire&r positionné sur l'interface du Fournisseur. En revanche, les recettes de traitement impliquent l'envoi d'objets d'entrée du fournisseur vers des machines externes ou des unités de traitement dédiées.",
+  "chapter.stage.4.quest.67.description.1": "Les modèles vides offrent la flexibilité de contenir soit une craft de &6crafting&r classique, soit une craft plus large de '&6processing&r'. Les crafts de fabrication impliquent l'utilisation d'un &6Assembleur Moléculaire&r positionné sur l'interface du Fournisseur. En revanche, les crafts de traitement impliquent l'envoi d'objets d'entrée du fournisseur vers des machines externes ou des unités de traitement dédiées.",
 
   "chapter.stage.4.quest.68.subtitle.1": "Encodage de Crafts Partie 2",
-  "chapter.stage.4.quest.68.description.1": "Les &bmodèles vides&r fonctionnent comme des réceptacles pour les recettes encodées qui peuvent être exécutées par un Patterns provider. Pour encoder une recette sur un motif, le processus implique l'utilisation du &bTerminal d'Encodage de modèles vides ME&r.",
+  "chapter.stage.4.quest.68.description.1": "Les &bmodèles vides&r fonctionnent comme des réceptacles pour les crafts encodées qui peuvent être exécutées par un Patterns provider. Pour encoder une craft sur un motif, le processus implique l'utilisation du &bTerminal d'Encodage de modèles vides ME&r.",
 
   "chapter.stage.4.quest.69.subtitle.1": "Composant d'Autocrafting",
   "chapter.stage.4.quest.69.description.1": "Utilisez la Chambre de Dissolution pour assembler des Feuilles de HDPE, tous les Processeurs, un Verre de Fluix ME avec du Quartz Certus fondu.",
@@ -1434,7 +1434,7 @@
 
   "chapter.stage.4.quest.118.subtitle.1": "Bloc de Demande de Fabrication",
   "chapter.stage.4.quest.118.description.1": "Le &bME Requester&f est un bloc essentiel pour un réseau ME, conçu pour stocker jusqu'à 6 types différents d'objets. Sa configuration peut être accessible en faisant un clic droit, et toutes les informations nécessaires sont fournies là-bas. Un conseil supplémentaire suggère de faire glisser et déposer des objets spécifiques à partir de la page JEI s'ils ne sont pas disponibles pour le moment.",
-  "chapter.stage.4.quest.118.description.2": "En ce qui concerne les lots de demande, alors que le nombre de demande spécifie la quantité de stock souhaitée, la taille du lot détermine le nombre d'articles demandés à chaque fois que le Demandeur lance un travail. Pour plus de clarté, considérez un exemple : en configurant le Demandeur avec des planches, un nombre de 10 et une taille de lot de 20, si le stock tombe en dessous de 10, le Demandeur demandera 20 planches à la fois (pas 20 recettes). Après la fabrication, vous aurez 20 planches jusqu'à ce que le nombre tombe en dessous de 10 pour la prochaine demande.",
+  "chapter.stage.4.quest.118.description.2": "En ce qui concerne les lots de demande, alors que le nombre de demande spécifie la quantité de stock souhaitée, la taille du lot détermine le nombre d'articles demandés à chaque fois que le Demandeur lance un travail. Pour plus de clarté, considérez un exemple : en configurant le Demandeur avec des planches, un nombre de 10 et une taille de lot de 20, si le stock tombe en dessous de 10, le Demandeur demandera 20 planches à la fois (pas 20 crafts). Après la fabrication, vous aurez 20 planches jusqu'à ce que le nombre tombe en dessous de 10 pour la prochaine demande.",
 
   "chapter.stage.4.quest.119.subtitle.1": "Extraction de la Nébulosité Spatiale Partie 1",
   "chapter.stage.4.quest.119.description.1": "Cette première partie contient les blocs pour le noyau principal du Multibloc Extracteur de Nébuleuses.",
@@ -1838,7 +1838,7 @@
   "chapter.stage.7.quest.7.subtitle.1": "Automatisation des Crafts Ultime !",
 
   "chapter.stage.7.quest.8.subtitle.1": "Maestro de Craft",
-  "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 recettes ! N'oubliez pas que cela fonctionne avec Applied. Voir l'Étape 4 pour pour automatiser les crafts.",
+  "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 crafts ! N'oubliez pas que cela fonctionne avec Applied. Voir l'Étape 4 pour pour automatiser les crafts.",
 
   "chapter.stage.7.quest.9.subtitle.1": "Fusion Chimique du Bismuth",
   "chapter.stage.7.quest.9.description.1": "Avec le Réacteur à Fusion, obtenez de l'Élément Bismuth",
@@ -1934,7 +1934,7 @@
 
   "chapter.stage.7.quest.32.title": "Déphaseur en phase supercritique",
   "chapter.stage.7.quest.32.subtitle.1": "Antimatière",
-  "chapter.stage.7.quest.32.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs recettes de fin de partie.",
+  "chapter.stage.7.quest.32.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs crafts de fin de partie.",
   "chapter.stage.7.quest.32.description.2": "La construction minimale optimale se compose de :",
   "chapter.stage.7.quest.32.description.3": "• 60 Structures du SPS (+12 matériaux de fabrication pour 3 Ports du SPS)",
   "chapter.stage.7.quest.32.description.4": "• 123 Verres de réacteur ou verre structurel",
@@ -2015,7 +2015,7 @@
 
   "chapter.machinery.quest.3.title.1": "Regardez un &6Assembleur&r complet",
   "chapter.machinery.quest.3.subtitle.1": "Autocrafting Immersif",
-  "chapter.machinery.quest.3.description.1": "L'Assembleur est un multi-bloc 3x3x3 ajouté par Immersive Engineering. Il est utilisé pour fabriquer automatiquement des objets. Les recettes peuvent être définies à l'intérieur de l'Assembleur. Les réservoirs de liquide dans l'Assembleur sont également capables d'utiliser des seaux de liquide comme pour fabriquer le Bois Traités.",
+  "chapter.machinery.quest.3.description.1": "L'Assembleur est un multi-bloc 3x3x3 ajouté par Immersive Engineering. Il est utilisé pour fabriquer automatiquement des objets. Les crafts peuvent être définies à l'intérieur de l'Assembleur. Les réservoirs de liquide dans l'Assembleur sont également capables d'utiliser des seaux de liquide comme pour fabriquer le Bois Traités.",
 
   "chapter.machinery.quest.4.title.1": "Regardez un &6Atelier de l'Ingénieur Automatisé&r complet",
   "chapter.machinery.quest.4.subtitle.1": "Automatisation des Plans de l'ingénieur",
@@ -2235,7 +2235,7 @@
   "chapter.thermal.quest.29.description.1": "L'Extracteur Arboreal est un dispositif qui extrait du fluide d'un arbre adjacent.",
   "chapter.thermal.quest.29.description.2": "Peut éventuellement prendre de l'engrais pour augmenter le taux de production.",
   "chapter.thermal.quest.29.description.3": "Le bonemeal augmente la production de 1,5x pendant 8 cycles, tandis que le phyto-gro augmente de 2,0x pendant 16 cycles.",
-  "chapter.thermal.quest.29.description.4": "Différents arbres produisent différents fluides ; utilisez JEI pour voir les recettes disponibles.",
+  "chapter.thermal.quest.29.description.4": "Différents arbres produisent différents fluides ; utilisez JEI pour voir les crafts disponibles.",
 
   "chapter.thermal.quest.30.subtitle.1": "Plantes en croissance",
   "chapter.thermal.quest.30.description.1": "L'Infuseur de Phyto-Terre est un dispositif qui utilise de la RF pour accélérer la croissance des cultures sur la phyto-terre à proximité. Dans sa forme de base, il infuse une zone de 3x3x3 autour de lui, qui peut être améliorée en utilisant des augmentations d'amélioration radiale jusqu'à 7x3x7.",
@@ -2388,7 +2388,7 @@
 
   "chapter.forbidden.quest.15.subtitle.1": "Poussière de Composant",
   "chapter.forbidden.quest.15.description.1": "En utilisant notre Poussière de Cristal Arcane, nous devrons la combiner avec d'autres poussières et poudres pour créer de la Poussière de Mundabiter.",
-  "chapter.forbidden.quest.15.description.2": "Cette poussière est utilisée dans plusieurs recettes, ainsi que pour activer la Forge d'Héphaïstos.",
+  "chapter.forbidden.quest.15.description.2": "Cette poussière est utilisée dans plusieurs crafts, ainsi que pour activer la Forge d'Héphaïstos.",
 
   "chapter.forbidden.quest.16.subtitle.1": "L'Or Arcane Doré",
   "chapter.forbidden.quest.16.description.1": "L'Ingot d'Or Arcane &6&r est nécessaire pour continuer votre progression dans le mod.",
@@ -2563,7 +2563,7 @@
 
   "chapter.mekanism.quest.20.title": "Déphaseur en phase supercritique",
   "chapter.mekanism.quest.20.subtitle.1": "Antimatière",
-  "chapter.mekanism.quest.20.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs recettes de fin de partie.",
+  "chapter.mekanism.quest.20.description.1": "Un &dDéphaseur de phase supercritique&r est une structure multiblocs qui consomme une grande quantité d'énergie et de gaz de polonium pour créer du gaz d'antimatière, qui peut être cristallisé en pastilles d'antimatière. Les pastilles d'antimatière sont utilisées dans plusieurs crafts de fin de partie.",
   "chapter.mekanism.quest.20.description.2": "La construction minimale optimale se compose de :",
   "chapter.mekanism.quest.20.description.3": "• 60 Structures du SPS (+12 matériaux de fabrication pour 3 Ports du SPS)",
   "chapter.mekanism.quest.20.description.4": "• 123 Verres de réacteur ou verre structurel",
@@ -3176,7 +3176,7 @@
   "chapter.bigger.quest.13.description.2": "C'est un excellent modérateur pour les réacteurs, il peut être utilisé pour fabriquer le &cContrôleur d'échangeur de chaleur&r.",
 
   "chapter.bigger.quest.14.subtitle.1": "Un autre lingot bleu",
-  "chapter.bigger.quest.14.description.1": "Le &bBlutonium&r est utilisé dans plusieurs recettes d'artisanat, mais il peut également être utilisé comme combustible dans un réacteur, tout comme l'uranium.",
+  "chapter.bigger.quest.14.description.1": "Le &bBlutonium&r est utilisé dans plusieurs crafts d'artisanat, mais il peut également être utilisé comme combustible dans un réacteur, tout comme l'uranium.",
 
   "chapter.bigger.quest.15.subtitle.1": "Informations sur la turbine",
   "chapter.bigger.quest.15.description.1": "Les &bTerminaux de turbine&r sont les panneaux de commande de la turbine. Un multi-bloc de turbine se formera sans terminal, mais vous ne pourrez pas faire grand-chose sans lui.",
@@ -3280,7 +3280,7 @@
 
   "chapter.ae.quest.12.title": "Auto-Crafting",
   "chapter.ae.quest.12.subtitle.1": "Maître de l'Artisanat",
-  "chapter.ae.quest.12.description.1": "Le mécanisme d'artisanat automatisé d'AE2 commence avec le &bFournisseur de Modèle ME&r. Ce dispositif sert de réserve pour des objets spécifiques appelés &bModèles&r (détaillés dans la quête suivante). Ces modèles sont conçus pour englober des recettes qui transforment des objets d'entrée en objets de sortie spécifiés. Un seul fournisseur peut accueillir jusqu'à 9 modèles simultanément.",
+  "chapter.ae.quest.12.description.1": "Le mécanisme d'artisanat automatisé d'AE2 commence avec le &bFournisseur de Modèle ME&r. Ce dispositif sert de réserve pour des objets spécifiques appelés &bModèles&r (détaillés dans la quête suivante). Ces modèles sont conçus pour englober des crafts qui transforment des objets d'entrée en objets de sortie spécifiés. Un seul fournisseur peut accueillir jusqu'à 9 modèles simultanément.",
   "chapter.ae.quest.12.description.2": "Vous vous retrouverez souvent à utiliser plusieurs fournisseurs de modèles répartis dans votre base. Pour faciliter l'accès aux contenus de tous les fournisseurs dans votre vaste réseau ME, le &bTerminal d'Accès aux Modèles&r s'avère inestimable. Ce terminal permet un accès distant aux modèles stockés dans différents fournisseurs.",
 
   "chapter.ae.quest.13.title": "Stockage de l'Artisanat",
@@ -3300,8 +3300,8 @@
 
   "chapter.ae.quest.16.title": "Modèles",
   "chapter.ae.quest.16.subtitle.1": "Configuration de l'Artisanat",
-  "chapter.ae.quest.16.description.1": "Les &bmodèles&r fonctionnent comme des référentiels pour les recettes encodées pouvant être exécutées par un fournisseur de modèles. Pour encoder une recette sur un modèle, le processus implique l'utilisation du &bterminal d'encodage de modèle ME&r.",
-  "chapter.ae.quest.16.description.2": "Les modèles offrent la flexibilité de contenir soit une recette de &6fabrication&r conventionnelle, soit une recette de '&6traitement&r' plus large. Les recettes de fabrication nécessitent l'utilisation d'un &6assembleur moléculaire&r positionné sur l'interface du fournisseur. En revanche, les recettes de traitement impliquent l'envoi d'objets d'entrée du fournisseur vers des machines externes ou des unités de traitement dédiées.",
+  "chapter.ae.quest.16.description.1": "Les &bmodèles&r fonctionnent comme des référentiels pour les crafts encodées pouvant être exécutées par un fournisseur de modèles. Pour encoder une craft sur un modèle, le processus implique l'utilisation du &bterminal d'encodage de modèle ME&r.",
+  "chapter.ae.quest.16.description.2": "Les modèles offrent la flexibilité de contenir soit une craft de &6fabrication&r conventionnelle, soit une craft de '&6traitement&r' plus large. Les crafts de fabrication nécessitent l'utilisation d'un &6assembleur moléculaire&r positionné sur l'interface du fournisseur. En revanche, les crafts de traitement impliquent l'envoi d'objets d'entrée du fournisseur vers des machines externes ou des unités de traitement dédiées.",
 
   "chapter.ae.quest.17.subtitle.1": "Table d'Artisanat Automatique",
   "chapter.ae.quest.17.description.1": "L'&bassembleur moléculaire&r sert de pendant d'AE2 à une table d'artisanat automatisée, essentiel pour exécuter toutes les tâches de modèle de &6fabrication&r.",
@@ -3390,7 +3390,7 @@
   "chapter.ae.quest.37.subtitle.1": "Maître du Câblage",
   "chapter.ae.quest.37.description.1": "Le &bCouteau de Découpe en Quartz&r, similaire à la clé à molette, est disponible en variétés de quartz du Nether et du certus et est un outil de fabrication pratique à posséder.",
   "chapter.ae.quest.37.description.2": "Vous pouvez également séparer les câbles sans les colorer en utilisant une &bAncre de Câble&r entre eux. Cette ancre est fabriquée avec ce couteau et peut être fabriquée jusqu'à 50 fois avec le même couteau avant de se casser.",
-  "chapter.ae.quest.37.description.3": "Les ancres de câbles sont également essentielles pour fabriquer des &bFaçades de Câbles&r. Ces façades vous permettent d'intégrer parfaitement les câbles dans les murs en les masquant avec l'apparence d'un bloc choisi. Bien que les recettes de façades ne soient pas affichées dans JEI, vous pouvez les fabriquer en entourant un bloc standard de 4 ancres de câbles dans la grille de fabrication.",
+  "chapter.ae.quest.37.description.3": "Les ancres de câbles sont également essentielles pour fabriquer des &bFaçades de Câbles&r. Ces façades vous permettent d'intégrer parfaitement les câbles dans les murs en les masquant avec l'apparence d'un bloc choisi. Bien que les crafts de façades ne soient pas affichées dans JEI, vous pouvez les fabriquer en entourant un bloc standard de 4 ancres de câbles dans la grille de fabrication.",
   "chapter.ae.quest.37.description.4": "Outre la fabrication d'ancres, le couteau de découpe offre une autre fonction. En cliquant avec le bouton droit, vous pouvez ouvrir une interface utilisateur qui vous permet de fabriquer des &bMoules à Inscriptions&r. Une fois nommés, ces moules peuvent renommer des objets à l'intérieur d'un Inscriber en fonction du nom du moule. En utilisant deux de ces moules, les objets peuvent être renommés séquentiellement avec le nom du moule supérieur suivi de celui du bas.",
 
   "chapter.ae.quest.38.title": "Câbles Intelligents",
@@ -3542,7 +3542,7 @@
 
   "chapter.ae.quest.74.subtitle.1": "Demande d'objets",
   "chapter.ae.quest.74.description.1": "Le &bDemandeur ME&r est un bloc essentiel pour un réseau ME en fonctionnement, conçu pour stocker jusqu'à 6 types d'objets différents. Sa configuration peut être consultée en faisant un clic droit, et toutes les informations nécessaires y sont fournies. Un conseil supplémentaire suggère de faire glisser et de déposer des objets spécifiques depuis la page JEI s'ils ne sont actuellement pas disponibles.",
-  "chapter.ae.quest.74.description.2": "En ce qui concerne les lots de demandes, tandis que le nombre de demandes spécifie la quantité de stock souhaitée, la taille du lot détermine le nombre d'objets demandés à chaque fois que le Demandeur lance un travail. Pour plus de clarté, considérez un exemple : si vous configurez le Demandeur avec des planches, un compte de 10 et une taille de lot de 20, si le stock tombe en dessous de 10, le Demandeur demandera 20 planches à la fois (et non pas 20 recettes). Après la fabrication, vous disposerez de 20 planches jusqu'à ce que le compte retombe en dessous de 10 pour la prochaine demande.",
+  "chapter.ae.quest.74.description.2": "En ce qui concerne les lots de demandes, tandis que le nombre de demandes spécifie la quantité de stock souhaitée, la taille du lot détermine le nombre d'objets demandés à chaque fois que le Demandeur lance un travail. Pour plus de clarté, considérez un exemple : si vous configurez le Demandeur avec des planches, un compte de 10 et une taille de lot de 20, si le stock tombe en dessous de 10, le Demandeur demandera 20 planches à la fois (et non pas 20 crafts). Après la fabrication, vous disposerez de 20 planches jusqu'à ce que le compte retombe en dessous de 10 pour la prochaine demande.",
 
   "chapter.ae.quest.75.subtitle.1": "Récupération des Composants",
   "chapter.ae.quest.75.description.1": "Le &bBroyeur d'Impulsion&r broie les ressources en leurs composants pour une utilisation ultérieure.",
@@ -3840,8 +3840,8 @@
 
   "chapter.evil.quest.26.title": "Première Promesse",
   "chapter.evil.quest.26.subtitle.1": "Commencer à obtenir des Améliorations",
-  "chapter.evil.quest.26.description.1": "Les machines d'EvilCraft peuvent être améliorées à l'aide de &6Promesses&r. Chaque Promesse confère des effets distincts, mais pour commencer, nous devrions améliorer notre Infuseur de Sang pour débloquer des recettes supplémentaires.",
-  "chapter.evil.quest.26.description.2": "Pour ce faire, fabriquez une &6Promesse de Ténacité : Niveau 1&r. Dans la plupart des cas, cela augmentera la capacité de stockage d'une machine. Cependant, pour l'Infuseur de Sang, cela débloquera des recettes supplémentaires !",
+  "chapter.evil.quest.26.description.1": "Les machines d'EvilCraft peuvent être améliorées à l'aide de &6Promesses&r. Chaque Promesse confère des effets distincts, mais pour commencer, nous devrions améliorer notre Infuseur de Sang pour débloquer des crafts supplémentaires.",
+  "chapter.evil.quest.26.description.2": "Pour ce faire, fabriquez une &6Promesse de Ténacité : Niveau 1&r. Dans la plupart des cas, cela augmentera la capacité de stockage d'une machine. Cependant, pour l'Infuseur de Sang, cela débloquera des crafts supplémentaires !",
 
   "chapter.evil.quest.27.subtitle.1": "Augmenter la Vitesse des Machines EvilCraft",
 
@@ -3888,7 +3888,7 @@
   "chapter.evil.quest.41.subtitle.1": "Salud !",
   "chapter.evil.quest.41.description.1": "La &6Coupe Entrelacée&r est semblable à un Tank Ender.",
   "chapter.evil.quest.41.description.2": "Une fois située dans le monde, la &9Pompe de Sang&r peut infuser du Sang. Lorsqu'elle est activée dans votre inventaire, elle s'efforcera de reconstituer les objets qui dépendent du &cSang&r en tant que ressource.",
-  "chapter.evil.quest.41.description.3": "Si vous souhaitez produire des Coupes supplémentaires en utilisant le même réseau, utilisez la recette d'artisanat qui utilise une Coupe à la place d'un lingot d'or.",
+  "chapter.evil.quest.41.description.3": "Si vous souhaitez produire des Coupes supplémentaires en utilisant le même réseau, utilisez la craft d'artisanat qui utilise une Coupe à la place d'un lingot d'or.",
 
   "chapter.evil.quest.42.subtitle.1": "Une Perle d'Ender Réutilisable",
 
@@ -4021,7 +4021,7 @@
 
   "chapter.mana.quest.35.subtitle.1": "Établi pour Magiciens",
   "chapter.mana.quest.35.description.1": "Il s'agit d'une version améliorée de l'établi.",
-  "chapter.mana.quest.35.description.2": "Il a un inventaire. Il peut aussi se souvenir des recettes.",
+  "chapter.mana.quest.35.description.2": "Il a un inventaire. Il peut aussi se souvenir des crafts.",
 
   "chapter.mana.quest.36.subtitle.1": "Modifier votre affinité de sort",
   "chapter.mana.quest.36.description.1": "Consultez le Codex Acarna.",
