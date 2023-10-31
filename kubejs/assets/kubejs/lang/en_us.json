@@ -4150,6 +4150,21 @@
   "chapter.mana.quest.79.title": "Obsidian Construct",
   "chapter.mana.quest.79.subtitle.1": "The Last Upgrade",
 
+  "chapter.mana.quest.80.subtitle.1": "The Dowser",
+  "chapter.mana.quest.80.description.1": "It's the wizard's staff that shows you the way to a Wellspring.",
+
+  "chapter.mana.quest.81.description.1": "Eldrin Sight Unguent has shorter durability, but it allows you to see other entities in addition to wellsprings.",
+  "chapter.mana.quest.81.description.2": "It is faction-locked to the Wizard Council.",
+
+  "chapter.mana.quest.82.description.1": "Wellspring Sight Unguent has longer durability and only allows you to see wellsprings.",
+  "chapter.mana.quest.82.description.2": "It is not faction-locked; this can be used without penalty.",
+  "chapter.mana.quest.82.description.3": "Upon use, you'll see wellsprings if you're close.",
+  "chapter.mana.quest.82.description.4": "Hunt around until you find one.",
+
+  "chapter.mana.quest.83.description.1": "To capture the wellsprings, build the Wellspring Prism.",
+  "chapter.mana.quest.83.description.2": "Once complete, the wellspring will remain visible even without Eldrin sight.",
+
+
   "Apotheosis":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.apotheosis.title": "Apotheosis",

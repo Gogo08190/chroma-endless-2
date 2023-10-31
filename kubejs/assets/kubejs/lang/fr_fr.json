@@ -4150,6 +4150,21 @@
   "chapter.mana.quest.79.title": "Construct en obsidienne",
   "chapter.mana.quest.79.subtitle.1": "La dernière amélioration",
 
+  "chapter.mana.quest.80.subtitle.1": "Le sourcier",
+  "chapter.mana.quest.80.description.1": "C'est le bâton du magicien qui vous montre le chemin vers une Source.",
+
+  "chapter.mana.quest.81.description.1": "L'onguent Vision d'Eldrin a une durabilité plus courte, mais il vous permet également de voir d'autres entités en plus des sources.",
+  "chapter.mana.quest.81.description.2": "Il est réservé à la faction du Conseil des Magiciens.",
+
+  "chapter.mana.quest.82.description.1": "L'onguent Vision de Source a une durabilité plus longue et vous permet uniquement de voir les sources.",
+  "chapter.mana.quest.82.description.2": "Il n'est pas réservé à une faction, il peut donc être utilisé sans pénalité.",
+  "chapter.mana.quest.82.description.3": "Lors de son utilisation, vous verrez les sources si vous êtes suffisamment proche.",
+  "chapter.mana.quest.82.description.4": "Cherchez autour de vous jusqu'à en trouver une.",
+
+  "chapter.mana.quest.83.description.1": "Pour capturer les sources, construisez le prisme de Source.",
+  "chapter.mana.quest.83.description.2": "Une fois terminé, la source restera visible même sans la Vision d'Eldrin.",
+
+
   "Apotheosis":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.apotheosis.title": "Apotheosis",
