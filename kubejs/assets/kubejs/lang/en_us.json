@@ -265,18 +265,18 @@
 
   "chapter.stage.1.quest.8.subtitle.1": "The Cogwheels are a basic mechanical component in Create that relays rotation",
   "chapter.stage.1.quest.8.description.1" : "Cogwheels can transmit rotation to another adjacent coghweel.",
-  "chapter.stage.1.quest.8.description.2" : "If a Coghweel A is facing a coghweel B then the B will change it's rotation sense.",
+  "chapter.stage.1.quest.8.description.2" : "If a Coghweel A is facing a coghweel B then coghweel B will rotate in the opposite direction of wheel A.",
   "chapter.stage.1.quest.8.description.3" : "You can use, by default, the 'W' key to have more info on coghweels.",
 
   "chapter.stage.1.quest.9.subtitle.1": "A much bigger wheel !",
   "chapter.stage.1.quest.9.description.1" : "Info : Big Cogwheels and Cogwheels can only be linked diagonally !",
 
   "chapter.stage.1.quest.10.subtitle.1": "Water Wheel is a source of rotational power",
-  "chapter.stage.1.quest.10.description.1" : "It generates rotational force when water flows over it Due to the fact that the materials required to craft it are easily accessible in the early-game.",
-  "chapter.stage.1.quest.10.description.2" : "The Water Wheel serves as the earliest generator that can be made. Total stress capacity can be increased by adding more wheels in sequence.",
-  "chapter.stage.1.quest.10.description.3" : "When water flows over a Water Wheel, it will begin to rotate. This rotational power can be conveyed to other components from the Water Wheels' axis",
-  "chapter.stage.1.quest.10.description.4" : "The more sides of the wheel the water covers, the faster the wheel will rotate and the more stress capacity it will provide. Only flowing water or source blocks with bubble columns counts toward the power generation.",
-  "chapter.stage.1.quest.10.description.5" : "To maximize the output from a Water Wheel, have water flowing in the right direction around as much of the wheel as possible.",
+  "chapter.stage.1.quest.10.description.1" : "It generates rotational force when water or lava flows over.",
+  "chapter.stage.1.quest.10.description.2" : "The Water Wheel serves as the earliest generator that can be made due to its low cost. Total stress capacity can be increased by adding more wheels in sequence.",
+  "chapter.stage.1.quest.10.description.3" : "When water flows or lava over a Water Wheel, it will begin to rotate. This rotational power can be conveyed to other components from the Water Wheels' axis",
+  "chapter.stage.1.quest.10.description.4" : "Compared to previous versions of Create, it is no longer necessary to use multiple liquid sources to achieve maximum SU power, one is sufficient.",
+  "chapter.stage.1.quest.10.description.5" : "Ligne INUTILE, a supprimer dans les quêtes",
 
   "chapter.stage.1.quest.11.subtitle.1": "It is composed of a Windmill Bearing and Sails",
   "chapter.stage.1.quest.11.description.1": "Any block can be attached to the front of the Windmill Bearing but only Wool and Sails will produce power. The wool or sail can be placed in any configuration since shape does not matter.",

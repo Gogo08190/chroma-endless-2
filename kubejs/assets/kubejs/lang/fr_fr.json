@@ -258,35 +258,35 @@
 
   "chapter.stage.1.quest.6.subtitle.1": "Un Nouvel Alliage",
   "chapter.stage.1.quest.6.description.1" : "En brulant ce mélange vous allez pouvoir avoir ce nouvel alliage.",
-  "chapter.stage.1.quest.6.description.2" : "Tout comme le mélange de l'étape d'avant d'autres méthodes de fabrication seront disponibles plus tard.",
+  "chapter.stage.1.quest.6.description.2" : "Tout comme le mélange de la quête précédente, d'autres méthodes de fabrication seront disponibles plus tard.",
 
   "chapter.stage.1.quest.7.subtitle.1": "La rotation c'est génial",
   "chapter.stage.1.quest.7.description.1" : "Ces rotors peuvent être placés comme bon vous semble et transmette ce qu'on va appeler l'énergie create: La rotation.",
 
   "chapter.stage.1.quest.8.subtitle.1": "Les roues dentées sont un composant mécanique de base dans Create qui relaie la rotation",
   "chapter.stage.1.quest.8.description.1" : "Les roues dentées peuvent transmettre la rotation à une autre roue dentée adjacente.",
-  "chapter.stage.1.quest.8.description.2" : "Si un coghweel A fait face à un coghweel B alors la B changera son sens de rotation.",
+  "chapter.stage.1.quest.8.description.2" : "Si une roue dentée A est collée à une roue dentée B, alors la roue B tournera dans le sens inverse de celui de la roue A.",
   "chapter.stage.1.quest.8.description.3" : "Vous pouvez utiliser, par défaut, la touche 'Z' pour avoir plus d'informations sur les roues dentées.",
 
   "chapter.stage.1.quest.9.subtitle.1": "Une plus grosse roue!",
   "chapter.stage.1.quest.9.description.1" : "Info : Les grandes roues dentées et les roues dentées ne peuvent être reliées qu'en diagonale!",
 
   "chapter.stage.1.quest.10.subtitle.1": "La roue à eau est une source de Rotation",
-  "chapter.stage.1.quest.10.description.1" : "Elle génère une force rotative lorsque l'eau s'écoule dessus en raison du fait que les matériaux nécessaires pour la fabriquer sont facilement accessibles en début de partie.",
-  "chapter.stage.1.quest.10.description.2" : "La roue à eau sert de générateur précoce pouvant être fabriqué. La capacité totale de stress peut être augmentée en ajoutant davantage de roues en série.",
+  "chapter.stage.1.quest.10.description.1" : "Elle génère une force rotative lorsque de l'eau ou de la lave s'écoule dessus.",
+  "chapter.stage.1.quest.10.description.2" : "La roue à eau sert de premier générateur de force rotationnel en raison de son faible cout. La capacité totale de stress peut être augmentée en ajoutant davantage de roues en série.",
   "chapter.stage.1.quest.10.description.3" : "Lorsque l'eau s'écoule sur une roue à eau, elle commence à tourner. Cette puissance rotative peut être transmise à d'autres composants à partir de l'axe des roues à eau.",
-  "chapter.stage.1.quest.10.description.4" : "Plus le nombre de côtés de la roue couverts par l'eau est élevé, plus la roue tournera rapidement et plus elle fournira de capacité de stress. Seule l'eau en mouvement ou les blocs sources avec des colonnes de bulles contribuent à la génération de puissance.",
-  "chapter.stage.1.quest.10.description.5" : "Pour maximiser la production d'une roue à eau, il est préférable d'avoir de l'eau s'écoulant dans la bonne direction autour de la roue autant que possible.",
+  "chapter.stage.1.quest.10.description.4" : "Comparé aux anciennes versions de create, il n'est plus nécessaire de mettre plusieurs courant pour avoir le maximum de force rotationnelle, un seul suffit",
+  "chapter.stage.1.quest.10.description.5" : "Ligne INUTILE, a supprimer dans les quêtes",
 
-  "chapter.stage.1.quest.11.subtitle.1": "Elle est composée d'un palier de moulin à vent et de voiles.",
-  "chapter.stage.1.quest.11.description.1": "N'importe quel bloc peut être attaché à l'avant du palier de moulin à vent, mais seules la laine et les voiles produiront de l'énergie. La laine ou les voiles peuvent être placés dans n'importe quelle configuration, car la forme n'a pas d'importance.",
+  "chapter.stage.1.quest.11.subtitle.1": "Elle est composée d'un support de moulin à vent et de voiles.",
+  "chapter.stage.1.quest.11.description.1": "N'importe quel bloc peut être attaché à l'avant du support de moulin à vent, mais seules la laine et les voiles produiront de l'énergie. La laine ou les voiles peuvent être placés dans n'importe quelle configuration, car la forme n'a pas d'importance.",
   "chapter.stage.1.quest.11.description.2": "La Super Glue est nécessaire pour attacher les blocs ensemble. Les voiles se connecteront les unes aux autres et aux blocs déjà attachés sans avoir besoin d'utiliser de Super Glue. Cliquez avec le bouton droit de la souris sur le palier de moulin à vent avec une main vide pour démarrer le moulin à vent.",
   "chapter.stage.1.quest.11.description.3": "Si vous souhaitez l'arrêter pour changer les blocs attachés, cliquez simplement à nouveau sur le bloc avec une main vide. Une clé anglaise peut être utilisée pour changer la direction de rotation du moulin à vent.",
 
-  "chapter.stage.1.quest.12.subtitle.1": "La presse mécanique est un composant mécanique qui applique des recettes de pressage, d'emballage et de compactage aux objets situés en dessous d'elle.",
+  "chapter.stage.1.quest.12.subtitle.1": "La presse mécanique est un composant mécanique qui applique pressions aux objets situés en dessous d'elle pour faire des crafts de pressage ou de compactage.",
   "chapter.stage.1.quest.12.description.1": "C'est un objet important en début de partie, car il est utilisé pour presser les lingots en feuilles, qui sont des ingrédients importants pour les composants de niveau supérieur.",
-  "chapter.stage.1.quest.12.description.2": "La presse mécanique est alimentée par un arbre interne, accessible depuis deux côtés opposés. Tout comme les arbres, les presses transmettent la rotation le long de leur axe. Elle traite les objets plus rapidement lorsqu'elle reçoit une puissance de rotation plus élevée.",
-  "chapter.stage.1.quest.12.description.3":"Par défaut, la presse mécanique appliquera des recettes de pressage aux objets situés en dessous d'elle. Cela peut être configuré de deux manières :",
+  "chapter.stage.1.quest.12.description.2": "La presse mécanique est alimentée par un rotor interne, accessible depuis deux côtés opposés. Tout comme les rotors, les presses transmettent la rotation le long de leur axe. Elle traite les objets plus rapidement lorsqu'elle reçoit une vitesse de rotation plus élevée.",
+  "chapter.stage.1.quest.12.description.3":"Par défaut, la presse mécanique appliquera des crafts de pressage aux objets situés en dessous d'elle. Cela peut être configuré de deux manières :",
   "chapter.stage.1.quest.12.description.4":"● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal redstone (comme un levier). Les objets sans recette de pressage ne sont pas affectés.",
   "chapter.stage.1.quest.12.description.5":"● Lorsqu'elle est placée à un bloc au-dessus d'une bande mécanique, elle pressera automatiquement les tas d'objets entrants, arrêtant la bande jusqu'à ce que chaque opération soit terminée. Les objets sans recette de pressage sont ignorés.",
 
@@ -306,9 +306,9 @@
   "chapter.stage.1.quest.17.subtitle.1": "Compressage du Fer",
   "chapter.stage.1.quest.17.description.1" : "Procurez vous une plaque de fer et passe à la quête suivante ! !",
 
-  "chapter.stage.1.quest.18.subtitle.1": "Le Mélangeur Mécanique",
-  "chapter.stage.1.quest.18.description.1" : "Le mélangeur mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
-  "chapter.stage.1.quest.18.description.2" : "Le mélangeur nécessite une vitesse de rotation minimale de 32 RPM (tours par minute) de sa source d'alimentation pour fonctionner. Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
+  "chapter.stage.1.quest.18.subtitle.1": "Le Mixeur Mécanique",
+  "chapter.stage.1.quest.18.description.1" : "Le Mixeur Mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
+  "chapter.stage.1.quest.18.description.2" : "Le Mixeur Mécanique a besoins d'une vitesse de rotation minimale de 32 RPM (tours par minute). Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
   "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une recette valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
   "chapter.stage.1.quest.18.description.4" : "Le mélangeur mécanique peut être utilisé pour réaliser des recettes de mélange qui ne peuvent être réalisées nulle part ailleurs.",
 
