@@ -1783,7 +1783,7 @@ onEvent("recipes", (event) => {
           "item": "minecraft:hopper"
         },
         "D": {
-          "item": "minecraft:chest"
+          "tag": "forge:chests"
         },
         "E": {
           "item": "packagedauto:me_package_component"
