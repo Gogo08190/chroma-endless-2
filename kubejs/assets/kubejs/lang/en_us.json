@@ -471,8 +471,8 @@
   "chapter.stage.2.quest.6.description.1": "The &9Engineer Wire Cutters&r are very helpful to craft your first &5Immersive&r press and wires.",
 
   "chapter.stage.2.quest.7.subtitle.1": "Your first &5Immersive&r Energy",
-  "chapter.stage.2.quest.7.description.1": "The &9Kinetic Dynamo&r is mainly used to hold the &6Water Wheel&r and the &6Windmill&r.",
-  "chapter.stage.2.quest.7.description.2": "Please go to each items quest to see how to use them.",
+  "chapter.stage.2.quest.7.description.1": "The &9Kinetic Dynamo&r is mainly used to generate the energy produced by the &6Water Wheel&r and the &6Windmill&r.",
+  "chapter.stage.2.quest.7.description.2": "Please go to each items quest to see how to use the &6Water Wheel&r and the &6Windmill&r.",
 
   "chapter.stage.2.quest.8.subtitle.1": "&6The Water Wheel&r",
   "chapter.stage.2.quest.8.description.1": "It generates &c&lIF&r with water that flows around it.",

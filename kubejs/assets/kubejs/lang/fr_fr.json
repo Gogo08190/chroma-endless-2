@@ -448,16 +448,16 @@
   "chapter.stage.2.title": "Étape 2",
 
   "chapter.stage.2.quest.1.subtitle.1": "Le Marteau de l'ingénieur",
-  "chapter.stage.2.quest.1.description.1": "&9Le Marteau de l'ingénieur&r sera utile pour construire tous vos &cMultiblocs Immersifs&r.",
+  "chapter.stage.2.quest.1.description.1": "&9Le Marteau de l'ingénieur&r sera utile pour construire tous vos &cMultiblocs du mode Immersive Engineering&r.",
   "chapter.stage.2.quest.1.description.2": "Nous vous suggérons de le garder quelque part où vous vous en souviendrez !",
 
   "chapter.stage.2.quest.2.title.1": "Regardez un &6Alloy Kiln&r complet.",
-  "chapter.stage.2.quest.2.subtitle.1": "Construisez un &5Alliage Kiln&r.",
-  "chapter.stage.2.quest.2.description.1": "&5L'Alliage Kiln&r est utile pour créer des alliages en début de partie.",
+  "chapter.stage.2.quest.2.subtitle.1": "Construisez un &5Alloy Kiln&r.",
+  "chapter.stage.2.quest.2.description.1": "&5L'Alloy Kiln&r est utile pour créer des alliages en début de partie.",
 
   "chapter.stage.2.quest.3.title.1": "Regardez un &6Coke Oven&r complet.",
-  "chapter.stage.2.quest.3.subtitle.1": "Construisez un &6Four à coke&r",
-  "chapter.stage.2.quest.3.description.1": "Le &6Four à coke&r est le premier moyen d'obtenir du &4Bois traité&r avec de l'&7Huile de créosote&r.",
+  "chapter.stage.2.quest.3.subtitle.1": "Construisez un &6Coke Oven&r",
+  "chapter.stage.2.quest.3.description.1": "Le &6Coke Oven&r est le premier moyen d'obtenir du &4Bois traité&r avec de l'&7Huile de créosote&r.",
 
   "chapter.stage.2.quest.4.title.1": "Regardez un &6Haut Fourneau Brut&r complet.",
   "chapter.stage.2.quest.4.subtitle.1": "Expert en explosifs.",
@@ -471,12 +471,12 @@
   "chapter.stage.2.quest.6.description.1": "Les &9Coupes-fils de l'ingénieur&r sont très utiles pour fabriquer votre première presse et vos câbles d'&5Immersive&r.",
 
   "chapter.stage.2.quest.7.subtitle.1": "Votre première énergie d'&5Immersive&r.",
-  "chapter.stage.2.quest.7.description.1": "Le &9Dynamo Cinétique&r est principalement utilisé pour alimenter la &6Roue à Eau&r et le &6Moulin à Vent&r.",
-  "chapter.stage.2.quest.7.description.2": "Veuillez consulter chaque quête d'objet pour voir comment les utiliser.",
+  "chapter.stage.2.quest.7.description.1": "Le &9Dynamo Cinétique&r est principalement utilisé pour générer l'énergie produite par la &6Roue à Eau&r et l'&6Éolienne&r.",
+  "chapter.stage.2.quest.7.description.2": "Veuillez consulter les quêtes de la &6Roue à Eau&r et de l'&6Éolienne&r pour voir comment les utiliser.",
 
   "chapter.stage.2.quest.8.subtitle.1": "La &6Roue à Eau&r.",
   "chapter.stage.2.quest.8.description.1": "Elle génère de l'&c&lIF&r avec l'eau qui coule autour d'elle.",
-  "chapter.stage.2.quest.8.description.2": "Pour des résultats optimaux, dirigez l'eau en demi-cercle du haut vers le bas d'un côté et le long du bas.",
+  "chapter.stage.2.quest.8.description.2": "Pour des résultats optimaux, augmentez la surface de la roue en contact avec l'eau qui entraine la rotation de la roue.",
   "chapter.stage.2.quest.8.description.3": "Vous pouvez ajouter 2 autres &5Roues à Eau&r pour obtenir plus d'énergie.",
 
   "chapter.stage.2.quest.9.subtitle.1": "&6L'Éolienne&r",
@@ -491,22 +491,22 @@
   "chapter.stage.2.quest.10.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
   "chapter.stage.2.quest.11.subtitle.1": "Un &9Coke Oven&r amélioré et alimenté.",
-  "chapter.stage.2.quest.11.description.1": "Ce multibloc est une version amélioré du coke oven, il utilise de l'énergie mais est beaucoup plus rapide !",
+  "chapter.stage.2.quest.11.description.1": "Ce multibloc est une version amélioré du coke oven, il utilise de l'énergie mais il est beaucoup plus rapide !",
 
   "chapter.stage.2.quest.12.title.1": "Regardez un &6Mixeur&r complet.",
   "chapter.stage.2.quest.12.subtitle.1": "&6Le Mixeur&r",
-  "chapter.stage.2.quest.12.description.1": "Ceci est principalement utilisé pour mélanger un objet avec un liquide.",
+  "chapter.stage.2.quest.12.description.1": "Il est principalement utilisé pour mélanger un objet avec un liquide.",
   "chapter.stage.2.quest.12.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.12.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
   "chapter.stage.2.quest.13.title.1": "Condensateur",
   "chapter.stage.2.quest.13.subtitle.1": "Stockage de l'&cIF&r",
-  "chapter.stage.2.quest.13.description.1": "Les condensateurs peuvent stocker de l'&cIF&r.",
-  "chapter.stage.2.quest.13.description.2": "Vous pouvez utiliser le marteau pour ajuster la configuration de chaque côté.",
+  "chapter.stage.2.quest.13.description.1": "Les condensateurs servent à stocker de l'&cIF&r.",
+  "chapter.stage.2.quest.13.description.2": "Vous pouvez utiliser le marteau pour ajuster l'entrée ou la sortie de l'énergie de chaque côté.",
 
   "chapter.stage.2.quest.14.title.1": "Regardez un &6Fermenteur&r complet.",
   "chapter.stage.2.quest.14.subtitle.1": "Le &6Fermenteur&r.",
-  "chapter.stage.2.quest.14.description.1": "Ceci est principalement utilisé pour distiller n'importe quelle nourriture en croissance en &7&lÉthanol&r.",
+  "chapter.stage.2.quest.14.description.1": "Il est principalement utilisé pour distiller de la nourriture en &7&lÉthanol&r.",
   "chapter.stage.2.quest.14.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.14.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
@@ -517,35 +517,35 @@
   "chapter.stage.2.quest.15.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
   "chapter.stage.2.quest.16.subtitle.1": "Utilisation de &6La Raffinerie&r.",
-  "chapter.stage.2.quest.16.description.1": "Obtenir ce liquide vous permettra de progresser davantage à cette étape.",
+  "chapter.stage.2.quest.16.description.1": "Obtenir ce liquide vous permettra de progresser davantage dans cette étape.",
 
   "chapter.stage.2.quest.17.title.1": "Regardez une &6Embouteilleuse&r complète.",
   "chapter.stage.2.quest.17.subtitle.1": "L'&6Embouteilleuse&r",
-  "chapter.stage.2.quest.17.description.1": "Ceci est principalement utilisé pour remplir n'importe quel objet avec un fluide.",
+  "chapter.stage.2.quest.17.description.1": "Elle est principalement utilisé pour remplir n'importe quel objet avec un fluide.",
   "chapter.stage.2.quest.17.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.17.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
   "chapter.stage.2.quest.18.subtitle.1": "Devenez un ingénieur énergétique.",
-  "chapter.stage.2.quest.18.description.1": "Charger des objets est génial, mais vous devez d'abord faire ceci.",
+  "chapter.stage.2.quest.18.description.1": "Charger des objets est génial, mais vous devez d'abord faire cet objet.",
 
   "chapter.stage.2.quest.19.subtitle.1": "Chasseur de météorites",
-  "chapter.stage.2.quest.19.description.1": "Les météorites peuvent être trouvées n'importe où, cela vous aidera à en trouver une.",
+  "chapter.stage.2.quest.19.description.1": "Les météorites peuvent être trouvées n'importe où, la boussole vous aidera à en trouver une.",
 
   "chapter.stage.2.quest.20.subtitle.1": "Pressage de silicone",
-  "chapter.stage.2.quest.20.description.1": "Il est utilisé pour créer du Silicone Imprimé.",
-  "chapter.stage.2.quest.20.description.2": "Il doit être trouvé dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
+  "chapter.stage.2.quest.20.description.1": "Elle est utilisée pour créer du Silicone Imprimé.",
+  "chapter.stage.2.quest.20.description.2": "Elle doit être trouvée dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
 
   "chapter.stage.2.quest.21.subtitle.1": "Pressage de l'or",
-  "chapter.stage.2.quest.21.description.1": "Il est utilisé pour créer un Circuit imprimé de logique.",
-  "chapter.stage.2.quest.21.description.2": "Il doit être trouvé dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
+  "chapter.stage.2.quest.21.description.1": "Elle est utilisée pour créer un Circuit imprimé de logique.",
+  "chapter.stage.2.quest.21.description.2": "Elle doit être trouvée dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
 
   "chapter.stage.2.quest.22.subtitle.1": "Pressage du diamant",
-  "chapter.stage.2.quest.22.description.1": "Il est utilisé pour créer un Circuit imprimé d'ingénierie.",
-  "chapter.stage.2.quest.22.description.2": "Il doit être trouvé dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
+  "chapter.stage.2.quest.22.description.1": "Elle est utilisée pour créer un Circuit imprimé d'ingénierie.",
+  "chapter.stage.2.quest.22.description.2": "Elle doit être trouvée dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
 
   "chapter.stage.2.quest.23.subtitle.1": "Pressage de Certus Quartz.",
-  "chapter.stage.2.quest.23.description.1": "Il est utilisé pour créer un Circuit imprimé de calcul.",
-  "chapter.stage.2.quest.23.description.2": "Il doit être trouvé dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
+  "chapter.stage.2.quest.23.description.1": "Elle est utilisée pour créer un Circuit imprimé de calcul.",
+  "chapter.stage.2.quest.23.description.2": "Elle doit être trouvée dans un &7Coffre en Pierre Ciel&r à l'intérieur d'une &7Météorite&r.",
 
   "chapter.stage.2.quest.24.subtitle.1": "Impression de Silicone",
 
@@ -581,16 +581,16 @@
   "chapter.stage.2.quest.36.description.1": "Accélère la vitesse de croissance de toutes les graines Applied.",
 
   "chapter.stage.2.quest.37.subtitle.1": "Premier système de stockage",
-  "chapter.stage.2.quest.37.description.1": "En plaçant ceci sur n'importe quel dispositif de stockage, vous pourrez gérer son inventaire avec Applied.",
+  "chapter.stage.2.quest.37.description.1": "En plaçant ceci sur n'importe quel dispositif de stockage, vous pourrez gérer votre inventaire avec Applied.",
   "chapter.stage.2.quest.37.description.2": "Utiliser des câbles en verre ME pourrait être une bonne idée.",
 
   "chapter.stage.2.quest.38.subtitle.1": "Visualisation des objets",
-  "chapter.stage.2.quest.38.description.1": "C'est un panneau qui vous permet de voir tous les objets dans vos dispositifs de stockage Applied.",
-  "chapter.stage.2.quest.38.description.2": "Utiliser des câbles en verre ME pourrait être une bonne idée.",
+  "chapter.stage.2.quest.38.description.1": "C'est un panneau qui vous permet de voir tous les objets dans vos dispositifs de stockage connectés à Applied.",
+  "chapter.stage.2.quest.38.description.2": "Utiliser des câbles en verre ME pour connecter ce panneau à votre système Applied pourrait être une bonne idée.",
 
   "chapter.stage.2.quest.39.subtitle.1": "Visualisation des objets + établi ",
-  "chapter.stage.2.quest.39.description.1": "Permettre au joueur de fabriquer avec le stockage ME.",
-  "chapter.stage.2.quest.39.description.2": "Utiliser des câbles en verre ME pourrait être une bonne idée.",
+  "chapter.stage.2.quest.39.description.1": "Ce panneau est identique au terminal ME, avec la possibilité de crafter directement depuis le système Applied",
+  "chapter.stage.2.quest.39.description.2": "Utiliser des câbles en verre ME pour connecter ce panneau à votre système Applied pourrait être une bonne idée.",
 
   "chapter.stage.2.quest.40.subtitle.1": "Commencer à se mécaniser",
   "chapter.stage.2.quest.40.description.1": "Le début d'une nouvelle ère est à vos portes.",
