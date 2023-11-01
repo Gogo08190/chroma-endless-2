@@ -336,6 +336,18 @@ onEvent('recipes', (event) => {
             },
             id: 'beyond_earth:calorite_engine'
         },
+        {
+            output: 'beyond_earth:oxygen_bubble_distributor',
+            pattern: ['DCD', 'FOF', 'HHH'],
+            key: {
+                D: '#beyond_earth:compresseds/desh',
+                C: '#forge:alloys/ultimate',
+                F: 'beyond_earth:engine_fan',
+                O: 'beyond_earth_giselle_addon:oxygen_can',
+                H: '#beyond_earth:compresseds/hop_graphite'
+            },
+            id: 'beyond_earth:oxygen_bubble_distributor'
+        },
     ];
 
     recipes.forEach((recipe) => {
