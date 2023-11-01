@@ -339,12 +339,12 @@
   "chapter.stage.1.quest.26.subtitle.1": "Un composant vraiment utile",
   "chapter.stage.1.quest.26.description.1" : "Fabriqué avec une séquence que vous allez devoir reproduire 5 fois,",
   "chapter.stage.1.quest.26.description.2" : "Le Mécanisme de Précision sera utilisé dans plusieurs crafts utiles.",
-  "chapter.stage.1.quest.26.description.3" : "Info : Automatiser tôt pourrait être une bonne idée.",
+  "chapter.stage.1.quest.26.description.3" : "Info : automatiser le Mécanisme de Précision serait une bonne idée.",
 
   "chapter.stage.1.quest.27.subtitle.1": "Exploitation minière avec Create !",
   "chapter.stage.1.quest.27.description.1" : "Premièrement : Utilisez un Ore Vain Finder (Détecteur de filons de minerais) pour localiser les chunks qui contiennent minerais.",
-  "chapter.stage.1.quest.27.description.2" : "Deuxièmement : Placez une Machine de forage ou un Extracteur de fluides pour récolter la ressource et installez un foret.",
-  "chapter.stage.1.quest.27.description.3" : "Enfin : Ajoutez de la rotation et extrayez les résultats.",
+  "chapter.stage.1.quest.27.description.2" : "Deuxièmement : Placez une Machine de forage ou un Extracteur de fluides pour récolter les ressources et installez un foret.",
+  "chapter.stage.1.quest.27.description.3" : "Enfin : Ajoutez de la rotation et extrayez les ressources.",
   "chapter.stage.1.quest.27.description.4" : "Info : Pour obtenir plus d'informations, vous pouvez appuyer sur la touche 'Z' par défaut.",
 
   "chapter.stage.1.quest.28.subtitle.1": "Extraction de fluides avec Create",
@@ -358,28 +358,28 @@
   "chapter.stage.1.quest.31.description.2" : "Ces premières tables vous permettront de créer votre premier outil Tinker !",
 
   "chapter.stage.1.quest.32.subtitle.1": "Stocker les pièces inutiles",
-  "chapter.stage.1.quest.32.description.1" : "Cette spécialité est, comme son nom l'indique, utile pour stocker les pièces que vous n'utilisez plus.",
+  "chapter.stage.1.quest.32.description.1" : "Ce coffre est utile pour stocker les pièces que vous n'utilisez plus.",
 
   "chapter.stage.1.quest.33.subtitle.1": "Un meilleur coffre, du moins pour le moment",
   "chapter.stage.1.quest.33.description.1" : "Le coffre Tinker peut stocker n'importe quel objet dans un total de 64 emplacements. Cependant, notez que chaque emplacement peut contenir uniquement 16 objets.",
 
   "chapter.stage.1.quest.34.subtitle.1": "Je s'appelle Grout !",
   "chapter.stage.1.quest.34.description.1" : "Le Grout est le début de toute bonne fonderie Tinker.",
-  "chapter.stage.1.quest.34.description.2" : "Récoltez du sable, du gravier et de l'argile, puis mélangez-les dans Create pour obtenir du Grout.",
-  "chapter.stage.1.quest.34.description.3" : "N'oubliez pas de chauffer votre craft de mélange !",
+  "chapter.stage.1.quest.34.description.2" : "Récoltez du sable, du gravier et de l'argile, puis mélangez-les avec un mixeur méchanique Create pour obtenir du Grout.",
+  "chapter.stage.1.quest.34.description.3" : "N'oubliez pas de chauffer votre brûleur à blaze!",
 
   "chapter.stage.1.quest.35.subtitle.1": "Fonte du Grout",
-  "chapter.stage.1.quest.35.description.1" : "Les Briques de fusion sont utilisées pour fabriquer les composants de la fonderie Tinker.",
+  "chapter.stage.1.quest.35.description.1" : "Les Briques de seared sont utilisées pour fabriquer les composants de la fonderie Tinker.",
   "chapter.stage.1.quest.35.description.2" : "Passez à la quête suivante pour voir quels composants seront utiles.",
 
   "chapter.stage.1.quest.36.title.1": "Le Premier Four",
   "chapter.stage.1.quest.36.subtitle.1": "Votre première 'Fonderie', Le Melter !",
-  "chapter.stage.1.quest.36.description.1" : "Avant de construire la grande et vieille fonderie, vous devriez fabriquer le Melter.",
+  "chapter.stage.1.quest.36.description.1" : "Avant de construire la grande et vieille fonderie, vous devriez fabriquer le Melter en premier.",
   "chapter.stage.1.quest.36.description.2" : "Toutes les pièces nécessaires sont répertoriées dans cette quête.",
 
   "chapter.stage.1.quest.37.title.1": "La Fonderie",
   "chapter.stage.1.quest.37.subtitle.1": "La Fonderie Tinker !",
-  "chapter.stage.1.quest.37.description.1" : "Comme nous l'avons vu précédemment dans les quêtes, des briques de fusion seront à nouveau nécessaires.",
+  "chapter.stage.1.quest.37.description.1" : "Comme nous l'avons vu précédemment dans les quêtes, des briques de seared seront à nouveau nécessaires.",
   "chapter.stage.1.quest.37.description.2" : "Le Fondeur sera également utile pour fabriquer certaines pièces !",
 
   "chapter.stage.1.quest.38.subtitle.1": "Mélange d'or et de zinc.",
@@ -392,16 +392,16 @@
 
   "chapter.stage.1.quest.42.subtitle.1": "Mélange de fer, d'aluminium et de nickel.",
 
-  "chapter.stage.1.quest.43.title.1": "Usine de tamisage de base - Partie 1",
+  "chapter.stage.1.quest.43.title.1": "Usine de traitement de base - Partie 1",
   "chapter.stage.1.quest.43.subtitle.1": "Un nouveau multibloc de Create - Partie Un !",
   "chapter.stage.1.quest.43.description.1": "Voici les premières pièces de notre multibloc personnalisé de Create !",
 
-  "chapter.stage.1.quest.44.title.1": "Usine de tamisage de base - Partie 2",
+  "chapter.stage.1.quest.44.title.1": "Usine de traitement de base - Partie 2",
   "chapter.stage.1.quest.44.subtitle.1": "Un nouveau multibloc de Create - Partie Deux !",
   "chapter.stage.1.quest.44.description.1": "Voici les deuxièmes parties de notre multibloc personnalisé de Create !",
 
-  "chapter.stage.1.quest.45.title.1": "Usine de tamisage de base",
-  "chapter.stage.1.quest.45.subtitle.1": "Le tamisage à son meilleur !",
+  "chapter.stage.1.quest.45.title.1": "Usine de traitement de base",
+  "chapter.stage.1.quest.45.subtitle.1": "Le traitement à son meilleur !",
   "chapter.stage.1.quest.45.description.1": "Ce multibloc vous permettra de traiter les ressources obtenues par la &6Machine de forage&r.",
   "chapter.stage.1.quest.45.description.2": "Pour alimenter ce multibloc, vous aurez besoin de stress et d'eau.",
 
@@ -428,16 +428,16 @@
   "chapter.stage.1.quest.50.description.1": "L'Inscription Table est utilisée pour créer des crafts de sorts.",
   "chapter.stage.1.quest.50.description.2": "Elle possède 3 emplacements dans le coin supérieur gauche de l'interface utilisateur (GUI). Le slot le plus à gauche est réservé à l'Arcanist Ink, celui du milieu pour le Vellum, et celui le plus à droite pour l'Arcane Ash.",
   "chapter.stage.1.quest.50.description.3": "Il existe trois types d'options de sorts : Formes (Shapes), Composants (Components) et Modificateurs (Modifiers). Il y a cinq emplacements au milieu de l'interface utilisateur (GUI) qui contiennent les options de sorts.",
-  "chapter.stage.1.quest.50.description.4": "Une craft peut contenir 1 Forme, 1 Composant et 3 Modificateurs.",
+  "chapter.stage.1.quest.50.description.4": "Un craft peut contenir 1 Forme, 1 Composant et 3 Modificateurs.",
   "chapter.stage.1.quest.50.description.5": "Les Formes (Shapes) affectent la manière dont le sort est lancé, comme un rayon, par contact ou sur soi-même. Les Composants (Components) affectent ce que le sort fait, comme des dégâts de feu, de la guérison ou de la fouille. Les Modificateurs (Modifiers) affectent les propriétés du sort, comme l'extension de la portée, de la durée ou de la puissance.",
-  "chapter.stage.1.quest.50.description.6": "En cliquant sur les options, elles sont ajoutées à la craft ; au moins une forme et un composant doivent être sélectionnés.",
+  "chapter.stage.1.quest.50.description.6": "En cliquant sur les options, elles sont ajoutées au craft ; au moins une forme et un composant doivent être sélectionnés.",
   "chapter.stage.1.quest.50.description.7": "Pour ajuster les paramètres du modificateur, sélectionnez un modificateur et cliquez sur les flèches jaunes qui apparaissent pour augmenter ou diminuer la propriété souhaitée.",
   "chapter.stage.1.quest.50.description.8": "Sur le côté droit de l'interface utilisateur (GUI), la complexité, le coût en mana, les coûts de l'Inscription Table et les composants de sort requis sont affichés.",
   "chapter.stage.1.quest.50.description.9": "Pour terminer une craft, cliquez sur la flèche verte en haut de l'interface utilisateur (GUI). Les crafts prennent du temps à être fabriquées, ce qui est indiqué par une barre de progression le long du haut. Une fois terminée, l'Inscription Table dépose la craft de sort dans le coin supérieur droit de l'interface utilisateur (GUI).",
 
   "chapter.stage.1.quest.51.subtitle.1": "Forgeage de Runes",
-  "chapter.stage.1.quest.51.description.1": "&5La Runeforge&r est utilisé comme four pour affiner plusieurs objets. Mais faites attention au niveau requis.",
-  "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des crafts artisanales uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
+  "chapter.stage.1.quest.51.description.1": "&5La Runeforge&r est utilisé comme un four pour affiner plusieurs objets. Mais faites attention au niveau requis.",
+  "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des crafts uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
 
   "chapter.stage.1.quest.52.subtitle.1": "Maître du Concassage",
   "chapter.stage.1.quest.52.description.1": "La Crushing Wheel permet de concasser diverses ressources.",
