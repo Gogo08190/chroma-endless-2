@@ -276,7 +276,6 @@
   "chapter.stage.1.quest.10.description.2" : "The Water Wheel serves as the earliest generator that can be made due to its low cost. Total stress capacity can be increased by adding more wheels in sequence.",
   "chapter.stage.1.quest.10.description.3" : "When water flows or lava over a Water Wheel, it will begin to rotate. This rotational power can be conveyed to other components from the Water Wheels' axis",
   "chapter.stage.1.quest.10.description.4" : "Compared to previous versions of Create, it is no longer necessary to use multiple liquid sources to achieve maximum SU power, one is sufficient.",
-  "chapter.stage.1.quest.10.description.5" : "Ligne INUTILE, a supprimer dans les quêtes",
 
   "chapter.stage.1.quest.11.subtitle.1": "It is composed of a Windmill Bearing and Sails",
   "chapter.stage.1.quest.11.description.1": "Any block can be attached to the front of the Windmill Bearing but only Wool and Sails will produce power. The wool or sail can be placed in any configuration since shape does not matter.",

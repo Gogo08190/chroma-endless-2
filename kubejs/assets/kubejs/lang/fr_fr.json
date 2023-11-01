@@ -276,7 +276,6 @@
   "chapter.stage.1.quest.10.description.2" : "La roue à eau sert de premier générateur de force rotationnel en raison de son faible cout. La capacité totale de stress peut être augmentée en ajoutant davantage de roues en série.",
   "chapter.stage.1.quest.10.description.3" : "Lorsque l'eau s'écoule sur une roue à eau, elle commence à tourner. Cette puissance rotative peut être transmise à d'autres composants à partir de l'axe des roues à eau.",
   "chapter.stage.1.quest.10.description.4" : "Comparé aux anciennes versions de create, il n'est plus nécessaire de mettre plusieurs courant pour avoir le maximum de force rotationnelle, un seul suffit",
-  "chapter.stage.1.quest.10.description.5" : "Ligne INUTILE, a supprimer dans les quêtes",
 
   "chapter.stage.1.quest.11.subtitle.1": "Elle est composée d'un support de moulin à vent et de voiles.",
   "chapter.stage.1.quest.11.description.1": "N'importe quel bloc peut être attaché à l'avant du support de moulin à vent, mais seules la laine et les voiles produiront de l'énergie. La laine ou les voiles peuvent être placés dans n'importe quelle configuration, car la forme n'a pas d'importance.",
