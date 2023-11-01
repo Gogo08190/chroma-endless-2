@@ -1,7 +1,7 @@
 {
    "type":"beyond_earth:fuel_refinery",
    "input":{
-      "tag":"pneumaticcraft:oil",
+      "name":"pneumaticcraft:oil",
       "amount":2
    },
    "output":{
