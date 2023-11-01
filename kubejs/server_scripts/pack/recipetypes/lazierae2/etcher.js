@@ -5,7 +5,7 @@ onEvent('recipes', (event) => {
         output: { item: 'lazierae2:parallel_processor' },
         inputs: [
           { tag: 'forge:gems/resonating' },
-          { item: 'extendedcrafting:redstone_ingot' },
+          { tag: 'forge:ingots/desh' },
           { tag: 'forge:silicon' }
         ],
         process_time: 120,

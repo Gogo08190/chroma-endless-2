@@ -4,7 +4,7 @@ onEvent('recipes', (event) => {
       {
         mode: 'press',
         top: { item: 'lazierae2:parallel_printed' },
-        middle: { item: 'extendedcrafting:redstone_ingot' },
+        middle: { tag: 'forge:ingots/desh' },
         bottom: { item: 'ae2:printed_silicon' },
         result: { item: 'lazierae2:parallel_processor' },
         id: 'lazierae2:compat/ae2/inscriber/parallel_processor'
