@@ -283,7 +283,7 @@
   "chapter.stage.1.quest.11.description.3": "Si vous souhaitez l'arrêter pour changer les blocs attachés, cliquez simplement à nouveau sur le bloc avec une main vide. Une clé anglaise peut être utilisée pour changer la direction de rotation du moulin à vent.",
 
   "chapter.stage.1.quest.12.subtitle.1": "La presse mécanique est un composant mécanique qui applique pressions aux objets situés en dessous d'elle pour faire des crafts de pressage ou de compactage.",
-  "chapter.stage.1.quest.12.description.1": "C'est un objet important en début de partie, car il est utilisé pour presser les lingots en feuilles, qui sont des ingrédients importants pour les composants de niveau supérieur.",
+  "chapter.stage.1.quest.12.description.1": "C'est un objet important en début de partie, car il est utilisé pour presser les lingots en plaques, qui sont des ingrédients importants pour les composants de niveau supérieur.",
   "chapter.stage.1.quest.12.description.2": "La presse mécanique est alimentée par un rotor interne, accessible depuis deux côtés opposés. Tout comme les rotors, les presses transmettent la rotation le long de leur axe. Elle traite les objets plus rapidement lorsqu'elle reçoit une vitesse de rotation plus élevée.",
   "chapter.stage.1.quest.12.description.3":"Par défaut, la presse mécanique appliquera des crafts de pressage aux objets situés en dessous d'elle. Cela peut être configuré de deux manières :",
   "chapter.stage.1.quest.12.description.4":"● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal redstone (comme un levier). Les objets sans craft de pressage ne sont pas affectés.",
@@ -294,21 +294,21 @@
   "chapter.stage.1.quest.13.description.1" : "Le papier de verre est un outil utilisé uniquement pour créer du quartz rose poli.",
 
   "chapter.stage.1.quest.14.subtitle.1": "Oh, un nouveau quartz brillant !",
-  "chapter.stage.1.quest.14.description.1" : "Le quartz rose peut être utilisé pour fabriquer du quartz rose poli. Pour cela, le joueur doit tenir du papier de verre dans leur main gauche (offhand), du quartz rose dans leur main droite (main hand), puis faire un clic droit. La version polie du quartz rose tombera alors par terre.",
+  "chapter.stage.1.quest.14.description.1" : "Le quartz rose peut être utilisé pour fabriquer du quartz rose poli. Pour cela, le joueur doit tenir du papier de verre dans leur main gauche (seconde main), du quartz rose dans leur main droite (main principale), puis maintenir le clic droit. Vous obtiendrez un quartz rose poli.",
 
   "chapter.stage.1.quest.15.subtitle.1": "C'est cool en rouge !",
   "chapter.stage.1.quest.15.description.1" : "Procurez vous un &cquartz rose poli&r et passez à la quête suivante !",
 
-  "chapter.stage.1.quest.16.subtitle.1": "Un tube d'Electrons",
-  "chapter.stage.1.quest.16.description.1" : "Fabriqué avec du Quartz Polis Rose",
+  "chapter.stage.1.quest.16.subtitle.1": "Un tube électronique",
+  "chapter.stage.1.quest.16.description.1" : "Fabriqué avec du Quartz Poli Rose",
 
   "chapter.stage.1.quest.17.subtitle.1": "Compressage du Fer",
-  "chapter.stage.1.quest.17.description.1" : "Procurez vous une plaque de fer et passe à la quête suivante ! !",
+  "chapter.stage.1.quest.17.description.1" : "Procurez vous une plaque de fer et passez à la quête suivante ! !",
 
   "chapter.stage.1.quest.18.subtitle.1": "Le Mixeur Mécanique",
   "chapter.stage.1.quest.18.description.1" : "Le Mixeur Mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
   "chapter.stage.1.quest.18.description.2" : "Le Mixeur Mécanique a besoins d'une vitesse de rotation minimale de 32 RPM (tours par minute). Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
-  "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'une craft valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
+  "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'un craft valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
   "chapter.stage.1.quest.18.description.4" : "Le mélangeur mécanique peut être utilisé pour réaliser des crafts de mélange qui ne peuvent être réalisées nulle part ailleurs.",
 
   "chapter.stage.1.quest.19.title.1": "Visiter la dimension : &cLe Nether",
@@ -323,26 +323,26 @@
   "chapter.stage.1.quest.21.description.1" : "N'oubliez pas d'apporter des potions de résistance au feu !",
 
   "chapter.stage.1.quest.22.subtitle.1": "C'est l'heure de Bronzer",
-  "chapter.stage.1.quest.22.description.1" : "Combinez un &#B87333Lingot de cuivret&r et un &#BAC4C8Lingot de Zinc&r dans un &oCreate&r &lMechanical Mixer&r et &lBassin&r (&4Chauffé&r). Ils vont fusionner et donner du&#B5A642Lingot Brass&r",
+  "chapter.stage.1.quest.22.description.1" : "Combinez un &#B87333Lingot de cuivret&r et un &#BAC4C8Lingot de Zinc&r dans un &oCreate&r &lMechanical Mixer&r et &lBassin&r (&4Chauffé&r). Ils vont fusionner et donner du &#B5A642Lingot de Laiton&r",
 
-  "chapter.stage.1.quest.23.subtitle.1": "Le Deployeur simule une interaction de joueur jusqu'à 2 blocs de lui",
-  "chapter.stage.1.quest.23.description.1" : "Le Deployer simule de base le clic droit. Vous pouvez mettre le clic gauche avec la Wrench de Create.",
-  "chapter.stage.1.quest.23.description.2" : "Le Deployer a 2 slots d'inventaire; l'item tenu et un extra slot interne. En plus des objets inutilisables, les objets récoltés par le Déployeur seront transférés vers l'emplacement supplémentaire pour être retirés par d'autres machines, pendant ce temps le Déployeur se bloquera. Les objets ne peuvent pas être extraits de l'emplacement supplémentaire directement par le joueur.",
+  "chapter.stage.1.quest.23.subtitle.1": "Le Déployeur simule une interaction de joueur. Il peut atteindre jusqu'à 2 blocs autour de lui",
+  "chapter.stage.1.quest.23.description.1" : "Le Déployeur simule de base le clic droit d'un joueur. Vous pouvez choisir de simuler un clic gauche de joueur avec un clic gauche sur le Déployeur avec la Clé Create.",
+  "chapter.stage.1.quest.23.description.2" : "Le Déployeur a 2 slots d'inventaire; un pour l'objet tenu et un autre slot pour le stockage interne. En plus des objets inutilisables, les objets récoltés par le Déployeur seront transférés vers l'emplacement supplémentaire pour être retirés par d'autres machines. Tant qu'il y a des objets dans le stockage interne, le Déployeur se bloquera. Le joueur ne peux pas retirer les objets dedans avec un clic droit, il doit utiliser des câbles, des entonnoirs etc...",
 
   "chapter.stage.1.quest.24.subtitle.1": "Un meilleur revêtement",
   "chapter.stage.1.quest.24.description.1" : "Utiliser le Déployeur précédemment créé pourrait être une bonne idée... juste en passant.",
 
   "chapter.stage.1.quest.25.subtitle.1": "Un nouveau type de création",
   "chapter.stage.1.quest.25.description.1" : "Un ensemble d'établis méchaniques peut être utilisé pour automatiser n'importe quelle craft.",
-  "chapter.stage.1.quest.25.description.2" : "Tous les chemins doivent converger et mener à une sortie, et cela de n'importe quel côté de l'artisan.",
+  "chapter.stage.1.quest.25.description.2" : "Tous les chemins doivent converger et mener à une même sortie pour finaliser le craft.",
 
   "chapter.stage.1.quest.26.subtitle.1": "Un composant vraiment utile",
-  "chapter.stage.1.quest.26.description.1" : "Fabriqué avec une séquence que vous allez devoir faire 5 fois,",
+  "chapter.stage.1.quest.26.description.1" : "Fabriqué avec une séquence que vous allez devoir reproduire 5 fois,",
   "chapter.stage.1.quest.26.description.2" : "Le Mécanisme de Précision sera utilisé dans plusieurs crafts utiles.",
   "chapter.stage.1.quest.26.description.3" : "Info : Automatiser tôt pourrait être une bonne idée.",
 
   "chapter.stage.1.quest.27.subtitle.1": "Exploitation minière avec Create !",
-  "chapter.stage.1.quest.27.description.1" : "Premièrement : Utilisez un Détecteur de filons de minerais pour localiser les minerais.",
+  "chapter.stage.1.quest.27.description.1" : "Premièrement : Utilisez un Ore Vain Finder (Détecteur de filons de minerais) pour localiser les chunks qui contiennent minerais.",
   "chapter.stage.1.quest.27.description.2" : "Deuxièmement : Placez une Machine de forage ou un Extracteur de fluides pour récolter la ressource et installez un foret.",
   "chapter.stage.1.quest.27.description.3" : "Enfin : Ajoutez de la rotation et extrayez les résultats.",
   "chapter.stage.1.quest.27.description.4" : "Info : Pour obtenir plus d'informations, vous pouvez appuyer sur la touche 'Z' par défaut.",
@@ -354,7 +354,7 @@
   "chapter.stage.1.quest.30s.description.1" : "Utilisé pour localiser des minerais ou des fluides à extraire avec la Foreuse ou le Puits.",
 
   "chapter.stage.1.quest.31.subtitle.1": "Démarrage de Tinker !",
-  "chapter.stage.1.quest.31.description.1" : "Tinker est un mod vraiment utile ! Je suppose que vous devriez regarder la craft pour avancer.",
+  "chapter.stage.1.quest.31.description.1" : "Tinker est un mod vraiment utile ! Je suppose que vous devriez regarder le craft pour avancer.",
   "chapter.stage.1.quest.31.description.2" : "Ces premières tables vous permettront de créer votre premier outil Tinker !",
 
   "chapter.stage.1.quest.32.subtitle.1": "Stocker les pièces inutiles",
