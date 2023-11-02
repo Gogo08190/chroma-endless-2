@@ -43,12 +43,12 @@ onEvent('recipes', (event) => {
       },
       {
         input: { ingredient: { item: 'chroma:enriched_lunaris_nova' } },
-        output: { amount: 80, infuse_type: 'chroma:marsova_ignis' },
+        output: { amount: 80, infuse_type: 'chroma:lunaris_nova' },
         id: `${id_prefix}lunaris_nova_from_enriched`
       },
       {
         input: { ingredient: { item: 'chroma:marsova_ignis' } },
-        output: { amount: 10, infuse_type: 'chroma:lunaris_nova' },
+        output: { amount: 10, infuse_type: 'chroma:marsova_ignis' },
         id: `${id_prefix}marsova_ignis`
       },
       {
