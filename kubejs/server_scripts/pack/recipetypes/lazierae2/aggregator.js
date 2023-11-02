@@ -177,6 +177,15 @@ onEvent('recipes', (event) => {
         energy_cost: 3000,
         id: `${id_prefix}ostrum_seeds`
       },
+      {
+        output: { item: 'create:polished_rose_quartz' },
+        inputs: [
+          { item: 'create:rose_quartz', count: 1 }
+        ],
+        process_time: 200,
+        energy_cost: 3000,
+        id: `${id_prefix}polished_rose_quartz`
+      },
     ];
 
     recipes.forEach((recipe) => {
