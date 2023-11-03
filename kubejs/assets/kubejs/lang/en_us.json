@@ -597,7 +597,7 @@
   "chapter.stage.2.quest.40.description.2": "For now you'll have to use the Miniaturization crafting. An easier way will be available later.",
 
   "chapter.stage.2.quest.41.subtitle.1": "Infusing at it's best",
-  "chapter.stage.2.quest.41.description.1": "This machine is mainly used to infuse infuse one substance into another.",
+  "chapter.stage.2.quest.41.description.1": "This machine is mainly used to infuse one substance into another.",
   "chapter.stage.2.quest.41.description.2": "Each infuse types will be used to create new items or ingots to advance in the game.",
 
   "chapter.stage.2.quest.42.subtitle.1": "Certus Infused",
@@ -607,7 +607,7 @@
   "chapter.stage.2.quest.43.description.1": "Simply Infuse Logic Processor with Redstone infusion.",
 
   "chapter.stage.2.quest.44.subtitle.1": "Transforming into Basic Tier",
-  "chapter.stage.2.quest.44.description.1": "Simply right click with this will transform any Mekanism machine into the Basic Tier",
+  "chapter.stage.2.quest.44.description.1": "Simply shift + right click with this will transform any Mekanism upgradable machine into the Basic Tier",
   "chapter.stage.2.quest.44.description.2": "Obviously it won't work if your machine is already setup as the said tier.",
 
   "chapter.stage.2.quest.45.subtitle.1": "Basic Infusion",
@@ -647,7 +647,7 @@
   "chapter.stage.2.quest.54.description.2": "You can also obtain it by using the Excavator from Immersive Engineering.",
 
   "chapter.stage.2.quest.55.subtitle.1": "Transforming into Advanced Tier",
-  "chapter.stage.2.quest.55.description.1": "Simply right click with this will transform any Basic Mekanism machine into the Advanced Tier.",
+  "chapter.stage.2.quest.55.description.1": "Simply shift + right click with this will transform any Mekanism upgradable machine into Advanced Tier.",
   "chapter.stage.2.quest.55.description.2": "Obviously it won't work if your machine is already setup as the said tier.",
 
   "chapter.stage.2.quest.56.title.1": "Visit Dimension : &cEverDawn",
