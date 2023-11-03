@@ -230,13 +230,13 @@ onEvent('recipes', (event) => {
       },
       {
           inputs: [
-              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}').weakNBT().toJson(),
               { item: 'mysticalagriculture:imperium_essence' },
-              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}').weakNBT().toJson(),
               { item: 'mysticalagriculture:imperium_essence' },
-              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}').weakNBT().toJson(),
               { item: 'mysticalagriculture:imperium_essence' },
-              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}'),
+              Item.of('mysticalagriculture:experience_capsule', '{Experience:1200}').weakNBT().toJson(),
               { item: 'mysticalagriculture:imperium_essence' },
           ],
           catalyst: { item: 'chroma:imperium_seed_base' },
