@@ -135,32 +135,6 @@ onEvent("recipes", (event) => {
     {
       "type": "extendedcrafting:shaped_table",
       "pattern": [
-        "AAAAAAA",
-        "ABBBBBA",
-        "ABBBBBA",
-        "AB   BA",
-        "       ",
-        "       ",
-        "       "
-      ],
-      "key": {
-        "A": {
-          "item": "doom:argent_energy"
-        },
-        "B": {
-          "item": "doom:argent_plate"
-        }
-      },
-      "result": {
-        "item": "doom:praetor_doom_helmet"
-      }
-    }
-  ).id('doom:praetor_doom_helmet')
-
-  event.custom(
-    {
-      "type": "extendedcrafting:shaped_table",
-      "pattern": [
         "ABCDCBA",
         "BCEFECB",
         "CEFGFEC",
