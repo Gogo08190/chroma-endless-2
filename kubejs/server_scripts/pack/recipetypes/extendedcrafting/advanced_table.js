@@ -640,10 +640,7 @@ onEvent("recipes", (event) => {
           "item": "jaopca:beyond_earth_compresseds.tungsten"
         },
         "C": {
-          "type": "forge:nbt",
-          "item": "mekanism:hdpe_sheet",
-          "count": 1,
-          "nbt": "{display:{Name:\u0027{\"text\":\"Carbon sheet\"}\u0027}}"
+          "item": "chroma:carbon_fiber"
         },
         "D": {
           "item": "mekanism:ultimate_control_circuit"
