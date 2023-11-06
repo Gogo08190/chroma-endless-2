@@ -49,7 +49,7 @@ onEvent('recipes', (event) => {
                 E: 'pipez:energy_pipe',
                 F: 'pipez:fluid_pipe',
                 G: 'pipez:gas_pipe',
-                L: 'ae2:printed_logic_processor'
+                L: 'ae2:logic_processor'
             },
             id: 'pipez:universal_pipe'
         },
