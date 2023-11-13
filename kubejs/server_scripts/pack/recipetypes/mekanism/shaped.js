@@ -530,7 +530,7 @@ onEvent('recipes', (event) => {
             id: 'mekanism:induction/provider/ultimate'
         },
         {
-            output: Item.of('mekaevolution:absolute_mechanical_pipe', 8),
+            output: Item.of('mekaevolution:absolute_mechanical_pipe', 4),
             pattern: ['UUU', 'UAU', 'UUU'],
             key: {
                 U: Item.of('mekanism:ultimate_mechanical_pipe').ignoreNBT(),
@@ -539,7 +539,7 @@ onEvent('recipes', (event) => {
             id: 'mekaevolution:absolute_mechanical_pipe'
         },
         {
-            output: Item.of('mekaevolution:absolute_logistical_transporter', 8),
+            output: Item.of('mekaevolution:absolute_logistical_transporter', 4),
             pattern: ['UUU', 'UAU', 'UUU'],
             key: {
                 U: Item.of('mekanism:ultimate_logistical_transporter').ignoreNBT(),
@@ -548,7 +548,7 @@ onEvent('recipes', (event) => {
             id: 'mekaevolution:absolute_logistical_transporter'
         },
         {
-            output: Item.of('mekaevolution:absolute_universal_cable', 8),
+            output: Item.of('mekaevolution:absolute_universal_cable', 4),
             pattern: ['UUU', 'UAU', 'UUU'],
             key: {
                 U: Item.of('mekanism:ultimate_universal_cable').ignoreNBT(),
@@ -1052,7 +1052,7 @@ onEvent('recipes', (event) => {
             id: 'mekanism:chemical_washer'
         },
         {
-            output: Item.of('mekaevolution:cosmic_universal_cable', 8),
+            output: Item.of('mekaevolution:cosmic_universal_cable', 4),
             pattern: ['AAA', 'ACA', 'AAA'],
             key: {
                 A: 'mekaevolution:supreme_universal_cable',
@@ -1061,7 +1061,7 @@ onEvent('recipes', (event) => {
             id: 'mekaevolution:cosmic_universal_cable'
         },
         {
-            output: Item.of('mekaevolution:cosmic_mechanical_pipe', 8),
+            output: Item.of('mekaevolution:cosmic_mechanical_pipe', 4),
             pattern: ['AAA', 'ACA', 'AAA'],
             key: {
                 A: 'mekaevolution:supreme_mechanical_pipe',
@@ -1070,7 +1070,7 @@ onEvent('recipes', (event) => {
             id: 'mekaevolution:cosmic_mechanical_pipe'
         },
         {
-            output: Item.of('mekaevolution:cosmic_logistical_transporter', 8),
+            output: Item.of('mekaevolution:cosmic_logistical_transporter', 4),
             pattern: ['AAA', 'ACA', 'AAA'],
             key: {
                 A: 'mekaevolution:supreme_logistical_transporter',
