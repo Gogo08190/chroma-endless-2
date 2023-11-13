@@ -201,8 +201,8 @@ onEvent('recipes', (event) => {
         output: { item: 'mysticalagriculture:slimesteel_seeds', count: 1 },
         inputs: [
           { item: 'tconstruct:slimesteel_block', count: 4 },
-          { item: 'mysticalagriculture:tertium_essence', count: 1 },
-          { item: 'chroma:tertium_seed_base', count: 4 }
+          { item: 'mysticalagriculture:tertium_essence', count: 4 },
+          { item: 'chroma:tertium_seed_base', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -212,8 +212,8 @@ onEvent('recipes', (event) => {
         output: { item: 'mysticalagriculture:bronze_seeds', count: 1 },
         inputs: [
           { item: 'thermal:bronze_block', count: 4 },
-          { item: 'mysticalagriculture:tertium_essence', count: 1 },
-          { item: 'chroma:tertium_seed_base', count: 4 }
+          { item: 'mysticalagriculture:tertium_essence', count: 4 },
+          { item: 'chroma:tertium_seed_base', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -223,8 +223,8 @@ onEvent('recipes', (event) => {
         output: { item: 'mysticalagriculture:brass_seeds', count: 1 },
         inputs: [
           { item: 'create:brass_block', count: 4 },
-          { item: 'mysticalagriculture:tertium_essence', count: 1 },
-          { item: 'chroma:tertium_seed_base', count: 4 }
+          { item: 'mysticalagriculture:tertium_essence', count: 4 },
+          { item: 'chroma:tertium_seed_base', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -234,8 +234,8 @@ onEvent('recipes', (event) => {
         output: { item: 'mysticalagriculture:amethyst_bronze_seeds', count: 1 },
         inputs: [
           { item: 'tconstruct:amethyst_bronze_block', count: 4 },
-          { item: 'mysticalagriculture:tertium_essence', count: 1 },
-          { item: 'chroma:tertium_seed_base', count: 4 }
+          { item: 'mysticalagriculture:tertium_essence', count: 4 },
+          { item: 'chroma:tertium_seed_base', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -245,8 +245,8 @@ onEvent('recipes', (event) => {
         output: { item: 'mysticalagriculture:pig_iron_seeds', count: 1 },
         inputs: [
           { item: 'tconstruct:pig_iron_block', count: 4 },
-          { item: 'mysticalagriculture:tertium_essence', count: 1 },
-          { item: 'chroma:tertium_seed_base', count: 4 }
+          { item: 'mysticalagriculture:tertium_essence', count: 4 },
+          { item: 'chroma:tertium_seed_base', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
@@ -256,8 +256,8 @@ onEvent('recipes', (event) => {
         output: { item: 'mysticalagriculture:silicon_seeds', count: 1 },
         inputs: [
           { item: 'ae2:printed_silicon', count: 4 },
-          { item: 'mysticalagriculture:tertium_essence', count: 1 },
-          { item: 'chroma:tertium_seed_base', count: 4 }
+          { item: 'mysticalagriculture:tertium_essence', count: 4 },
+          { item: 'chroma:tertium_seed_base', count: 1 }
         ],
         process_time: 80,
         energy_cost: 1500,
