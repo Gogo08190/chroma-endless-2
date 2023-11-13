@@ -197,6 +197,14 @@ onEvent('recipes', (event) => {
             },
             id: `${id_prefix}calorite_ingot`
         },
+        {
+            output: Item.of('thermal:sulfur_dust', 8),
+            pattern: ['AAA'],
+            key: {
+                A: 'mysticalagriculture:sulfur_essence'
+            },
+            id: 'mysticalagriculture:essence/common/sulfur'
+        },
     ];
 
     recipes.forEach((recipe) => {
