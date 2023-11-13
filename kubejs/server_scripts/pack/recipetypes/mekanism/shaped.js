@@ -1022,7 +1022,7 @@ onEvent('recipes', (event) => {
             pattern: ['ATA', 'CFC', 'ATA'],
             key: {
                 A: '#forge:ingots/refined_obsidian',
-                C: 'mekaevolution:cosmic_control_circuit',
+                C: 'mekaevolution:supreme_control_circuit',
                 F: 'mekanism:steel_casing',
                 T: 'mekanism:basic_chemical_tank'
             },
