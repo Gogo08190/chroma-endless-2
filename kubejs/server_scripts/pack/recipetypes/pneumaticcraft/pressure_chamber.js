@@ -228,6 +228,16 @@ onEvent('recipes', (event) => {
         },
         {
             inputs: [
+                { item: 'mysticalagriculture:nether_agglomeratio', count: 4 },
+                { item: 'mysticalagriculture:prudentium_essence', count: 4 },
+                { item: 'chroma:prudentium_seed_base', count: 1 }
+            ],
+            pressure: 2.5,
+            results: [{ item: 'mysticalagriculture:nether_seeds', count: 1 }],
+            id: 'mysticalagriculture:seed/infusion/nether'
+        },
+        {
+            inputs: [
                 { item: 'mysticalagriculture:end_agglomeratio', count: 4 },
                 { item: 'mysticalagriculture:prudentium_essence', count: 4 },
                 { item: 'chroma:prudentium_seed_base', count: 1 }
