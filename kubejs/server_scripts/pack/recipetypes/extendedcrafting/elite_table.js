@@ -251,7 +251,7 @@ onEvent("recipes", (event) => {
       ],
       "key": {
         "A": {
-          "item": "chroma:void_miner_frame_tier1"
+          "item": "chroma:void_miner_frame_tier2"
         },
         "B": {
           "item": "mekanism:hdpe_sheet"
