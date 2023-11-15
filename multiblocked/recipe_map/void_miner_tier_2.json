@@ -493,7 +493,7 @@
       "tickInputs": {
         "forge_energy": [
           {
-            "content": 75000,
+            "content": 225000,
             "chance": 1.0
           }
         ]
