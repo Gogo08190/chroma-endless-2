@@ -4174,6 +4174,44 @@
 
   "chapter.apotheosis.quest.3.title": "Only The Best",
 
+  "Spirit":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.spirit.title": "Spirit",
+
+  "chapter.spirit.quest.1.title": "Starting Spirit",
+  "chapter.spirit.quest.1.description.1": "To start the Spirit mod, you will need soul sand and a flint and steel. It's a new crafting method called \"&3Soul Engulfing&r\".",
+
+  "chapter.spirit.quest.2.description.1": "To create Soul Powder, engulfing Glowstone Powder.",
+  "chapter.spirit.quest.2.description.2": "It will only take a few seconds for this process to be completed, then it'ill give us our disired item.",
+
+  "chapter.spirit.quest.3.description.1": "To create Soul Slates, engulfing Deepslates.",
+
+  "chapter.spirit.quest.4.description.1": "Engulf four Tinted Glasses with blocks of Lapis Lazuli next to soul sand to obtain Soul Glass.",
+
+  "chapter.spirit.quest.5.description.1": "To get Broken Spawner, locate and break a mob spawner.",
+
+  "chapter.spirit.quest.6.description.1": "To get Soul Steel Ingot, we will have to place four Soul Powder Block next to soul sand, and engulf iron ingots.",
+
+  "chapter.spirit.quest.7.subtitle.1": "Better Spawner",
+  "chapter.spirit.quest.7.description.1": "To get Soul Steel Block, we will have to place four Soul Powder Block next to soul sand, and Broken Spawner.",
+  "chapter.spirit.quest.7.description.2": "&cThis will consume the blocks in the process.&r",
+  "chapter.spirit.quest.7.description.3": "Soul Cages can be placed anywhere in the world in order to spawn mobs of the souls we have stored in our Soul Crystal.",
+  "chapter.spirit.quest.7.description.4": "However, keep in mind that the Soul Crystal needs at least 64 souls of the same mob in order to activate the soul Cage.",
+  "chapter.spirit.quest.7.description.5": "To activate it, simply right-click the Soul Cage using a filled Soul Crystal, then it will spawn soul-bound mobs during the night.",
+  "chapter.spirit.quest.7.description.6": "This mob will drop the same loot and experience as normal mobs, and the higher the amount of souls we use to activate it, the better the soul cage will perform.",
+
+  "chapter.spirit.quest.8.description.1": "To create Soul Crystal Shard, engulfing Soul Powder.",
+  "chapter.spirit.quest.8.description.2": "&cThis will consume the blocks in the process.&r",
+
+  "chapter.spirit.quest.9.description.1": "To get Crude Soul Crystal, we will have to place four Soul Slates next to soul sand, and engulf a Soul Crystal Shard.",
+  "chapter.spirit.quest.9.description.2": "&cThis will consume the blocks in the process.&r",
+
+  "chapter.spirit.quest.10.subtitle.1": "Like Soul Shards",
+  "chapter.spirit.quest.10.description.1": "To get &3Soul Crystal&r, we will have to place four Soul Glasses next to soul sand, and engulf a Soul Crude Crystal.",
+  "chapter.spirit.quest.10.description.2": "Killing a mob with an empty Soul Crystal, will cause the crystal to absorb its soul.",
+  "chapter.spirit.quest.10.description.3": "If multiple mobs are killed, their souls will also be stored in the crystal, but it'ill only store souls of the same mob.",
+  "chapter.spirit.quest.10.description.4": "One a Soul Crystal has absorbed 64 souls it will be upgraded to Tier I, wich is something that will be useful later on.",
+
   "FtbQuests": "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "ftbquests.gui.pin": "Pin",

@@ -105,7 +105,7 @@
   "chapter.shop.coin.title": "Pièce de Fermier",
 
   "chapter.shop.dark.title.1": "Essence de Non-Mort",
-  "chapter.shop.dark.title.2": "Lingot d'Acier d'Âme",
+  "chapter.shop.dark.title.2": "Soul Steel Ingot",
   "chapter.shop.dark.title.3": "Poussière de Tombe",
   "chapter.shop.dark.title.4": "Ossuaire",
 
@@ -4173,6 +4173,44 @@
   "chapter.apotheosis.quest.2.title": "Ma première configuration d'enchantement",
 
   "chapter.apotheosis.quest.3.title": "Seulement le meilleur",
+
+  "Spirit":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.spirit.title": "Spirit",
+
+  "chapter.spirit.quest.1.title": "Débuter sur Spirit",
+  "chapter.spirit.quest.1.description.1": "Pour commencer le mod Spirit, vous aurez besoin de sable des âmes et d'un briquet. C'est une nouvelle méthode de fabrication appelée \"&3Soul Engulfing&r\".",
+
+  "chapter.spirit.quest.2.description.1": "Pour créer de la Soul Powder, engulf de la Poudre de Glowstone.",
+  "chapter.spirit.quest.2.description.2": "Il ne faudra que quelques secondes pour que ce processus soit complété, puis cela nous donnera l'objet désiré.",
+
+  "chapter.spirit.quest.3.description.1": "Pour créer des Soul Slates, engulf de la Deepslate.",
+
+  "chapter.spirit.quest.4.description.1": "Engulf quatre Vitres Teintées avec des blocs de Lapis Lazuli à côté du sable des âmes pour obtenir du Soul Glass.",
+
+  "chapter.spirit.quest.5.description.1": "Pour obtenir un Spawner Brisé, localisez et cassez un générateur de monstres.",
+
+  "chapter.spirit.quest.6.description.1": "Pour obtenir un lingot de Soul Steel, nous devrons placer quatre Blocs de Soul Powder à côté du sable des âmes et engulf des lingots de fer.",
+
+  "chapter.spirit.quest.7.subtitle.1": "Amélioration du Spawner",
+  "chapter.spirit.quest.7.description.1": "Pour obtenir un Bloc de Soul Steel, nous devrons placer quatre Blocs de Soul Powder à côté du sable des âmes et un Spawner Brisé.",
+  "chapter.spirit.quest.7.description.2": "&cCela consommera les blocs dans le processus.&r",
+  "chapter.spirit.quest.7.description.3": "Les Soul Cages peuvent être placées n'importe où dans le monde afin de faire apparaître des mobs des âmes que nous avons stockées dans notre Soul Crystal.",
+  "chapter.spirit.quest.7.description.4": "Cependant, gardez à l'esprit que le Soul Crystal a besoin d'au moins 64 âmes du même mob pour activer la Soul Cage.",
+  "chapter.spirit.quest.7.description.5": "Pour l'activer, cliquez simplement avec le bouton droit sur la Soul Cage en utilisant un Soul Crystal rempli, puis elle fera apparaître des mobs liés aux âmes pendant la nuit.",
+  "chapter.spirit.quest.7.description.6": "Ce mob lâchera le même butin et expérience que les mobs normaux, et plus le nombre d'âmes utilisées pour l'activer est élevé, mieux la cage d'âme fonctionnera.",
+
+  "chapter.spirit.quest.8.description.1": "Pour créer un Soul Crystal Shard, enfulg de la Soul Powder.",
+  "chapter.spirit.quest.8.description.2": "&cCela consommera les blocs dans le processus.&r",
+
+  "chapter.spirit.quest.9.description.1": "Pour obtenir un Crude Soul Crystal, nous devrons placer quatre Soul Slates à côté du sable des âmes et enfulg un Soul Crystal Shard.",
+  "chapter.spirit.quest.9.description.2": "&cCela consommera les blocs dans le processus.&r",
+
+  "chapter.spirit.quest.10.subtitle.1": "Comme Soul Shards",
+  "chapter.spirit.quest.10.description.1": "Pour obtenir un &3Soul Crystal&r, nous devrons placer quatre Soul Glasses à côté du sable des âmes et enfulg un Crude Soul Crystal.",
+  "chapter.spirit.quest.10.description.2": "Tuer un mob avec un Soul Crystal vide fera absorber son âme par le cristal.",
+  "chapter.spirit.quest.10.description.3": "Si plusieurs mobs sont tués, leurs âmes seront également stockées dans le cristal, mais il ne stockera que les âmes du même mob.",
+  "chapter.spirit.quest.10.description.4": "Une fois qu'un Soul Crystal a absorbé 64 âmes, il sera amélioré au Niveau I, ce qui sera utile plus tard.",
 
   "FtbQuests": "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
