@@ -660,7 +660,7 @@
   "chapter.stage.2.quest.57.description.1": "L'Apothicaire de Pétales permet au joueur d'infuser des pétales et des runes pour créer des fleurs générationnelles et fonctionnelles.",
 
   "chapter.stage.2.quest.58.subtitle.1": "Plante de conversion",
-  "chapter.stage.2.quest.58.description.1" : "Cette plante convertira n'importe quels blocs compatibles a la meme hauteur que la fleur dans un rayon de 1 bloc de chaque côté.",
+  "chapter.stage.2.quest.58.description.1" : "Cette plante convertira n'importe quels blocs compatibles à la meme hauteur que la fleur dans un rayon de 1 bloc de chaque côté.",
 
   "chapter.stage.2.quest.59.subtitle.1": "Bois Purifié",
   "chapter.stage.2.quest.59.description.1": "La bûche de Vifbois (Livingwood Log) est créé en plaçant une bûche d'&7Érable&r adjacent à une Pâquerette Pure (Pure Daisy).",
@@ -673,19 +673,19 @@
   "chapter.stage.2.quest.60.description.3": "La pierre lunaire peut être trouvée dans la dimension Blue Skies (EverDawn).",
 
   "chapter.stage.2.quest.61.subtitle.1": "Stockage de Mana... pas vraiment",
-  "chapter.stage.2.quest.61.description.1": "Ceci est le premier Bassin de mana que vous pourrez créer. Elle peut contenir 100 fois moins que le Bassin de Mana classique.",
+  "chapter.stage.2.quest.61.description.1": "Ceci est le premier Bassin de mana que vous pourrez créer. Il peut contenir 100 fois moins de Mana que le Bassin de Mana classique.",
   "chapter.stage.2.quest.61.description.2": "Pour créer ce Bassin de mana, vous devrez construire une structure composée de 4 blocs de Viveroche avec un bloc de sable des âmes placé au centre.",
   "chapter.stage.2.quest.61.description.3": "Ensuite, allumez le sable d'âme avec un briquet et jetez un chaudron dans le feu.",
 
   "chapter.stage.2.quest.62.subtitle.1": "Premier Stockage de Mana",
 
   "chapter.stage.2.quest.63.subtitle.1": "Mana avec de l'eau",
-  "chapter.stage.2.quest.63.description.1" : "Vous pouvez générer votre premier mana avec cette fleur. Il vous suffit de les placer près de l'eau.",
+  "chapter.stage.2.quest.63.description.1" : "Vous pouvez utiliser cette fleur comme votre premiere source mana. Il vous suffit de les placer près de l'eau.",
   "chapter.stage.2.quest.63.description.2" : "Sachez simplement que cette fleur finira par se faner et que vous devrez la remplacer.",
 
   "chapter.stage.2.quest.64.subtitle.1": "Mana avec du feu",
   "chapter.stage.2.quest.64.description.1" : "Vous pouvez générer du mana avec n'importe quel objet combustible.",
-  "chapter.stage.2.quest.64.description.2" : "Sachez simplement que la quantité de mana généré est en fonction de l'objet tombé près de la fleur.",
+  "chapter.stage.2.quest.64.description.2" : "Sachez simplement que la quantité de mana généré est en fonction de l'objet consommé par la fleur.",
 
   "chapter.stage.2.quest.65.subtitle.1": "Transfert de Mana",
   "chapter.stage.2.quest.65.description.1" : "Ce bloc peut transférer du mana vers n'importe quel bloc de stockage de mana de Botania en utilisant la &2Baguette de la Forêt&r.",
@@ -694,51 +694,51 @@
   "chapter.stage.2.quest.66.description.1": "On peut obtenir du manacier en jetant un lingot d'acier dans un Bassin de Mana.",
 
   "chapter.stage.2.quest.67.subtitle.1": "Fabrication de Runes",
-  "chapter.stage.2.quest.67.description.1": "La Runescribing Table est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
-  "chapter.stage.2.quest.67.description.2": "À gauche de l'interface graphique, il y a trois emplacements. L'emplacement supérieur est destiné au Hammer, celui du milieu au Chisel et celui du bas à l'argile.",
-  "chapter.stage.2.quest.67.description.3": "L'argile n'est pas nécessaire pour ciseler des marques, mais elle est nécessaire pour les annuler.",
-  "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du Rune Pattern. En haut à droite de l'interface graphique se trouve un emplacement pour insérer une craft d'inscription runique, qui affichera ensuite un motif dans la zone ci-dessous.",
-  "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les crafts d'inscription runique. Lorsqu'un modèle de rune vierge est inséré, une grande grille de points apparaîtra.",
-  "chapter.stage.2.quest.67.description.6": "En cliquant gauche entre les points, vous créerez une marque droite les reliant, ce qui utilisera également une partie de la durabilité de votre outil.",
-  "chapter.stage.2.quest.67.description.7": "Vous pouvez retirer une marque en cliquant à nouveau sur la marque, mais vous avez besoin d'argile et d'XP pour la retirer.",
+  "chapter.stage.2.quest.67.description.1": "La \"Runescribing Table\" est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
+  "chapter.stage.2.quest.67.description.2": "Dans l'interface graphique, sur la gauche, il y a trois emplacements. L'emplacement supérieur est destiné au \"Runesmith's Hammer\", celui du milieu au \"Runesmith's Chisel\" et celui du bas à l'argile.",
+  "chapter.stage.2.quest.67.description.3": "L'argile n'est pas nécessaire pour graver des marques, mais elle est nécessaire pour les annuler.",
+  "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du \"Rune Pattern\". En haut à droite de l'interface graphique se trouve un emplacement pour insérer un Schéma Runique (Runescribing Recipe de son nom anglais), qui affichera ensuite un motif en dessous de la rune.",
+  "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les \"Runescribing Recipes\". Lorsqu'un modèle de rune vierge est inséré, une grande grille de quadrillée apparaîtra.",
+  "chapter.stage.2.quest.67.description.6": "En cliquant gauche entre les points, vous dessinerez un trait pour les relier, ce qui utilisera de la durabilité de votre Chisel et de votre Hammer.",
+  "chapter.stage.2.quest.67.description.7": "Vous pouvez effacer un trait en échange d'argile et d'XP en cliquant à nouveau sur celui que vous voulez effacer.",
   "chapter.stage.2.quest.67.description.8": "Une fois que vos marques correspondent à une rune, le motif de rune sera automatiquement terminé.",
 
-  "chapter.stage.2.quest.68.subtitle.1": "Rêve de Ciselure de Runes",
+  "chapter.stage.2.quest.68.subtitle.1": "Rêve de Graveur de Runes",
 
-  "chapter.stage.2.quest.69.subtitle.1": "Ciseler la Rune de l'Avatar",
+  "chapter.stage.2.quest.69.subtitle.1": "Graver la Rune de l'Avatar",
 
-  "chapter.stage.2.quest.70.subtitle.1": "Ciseler la Rune de Magma",
+  "chapter.stage.2.quest.70.subtitle.1": "Graver la Rune de Magma",
 
-  "chapter.stage.2.quest.71.subtitle.1": "Ciseler la Rune de Terra",
+  "chapter.stage.2.quest.71.subtitle.1": "Graver la Rune de Terra",
 
-  "chapter.stage.2.quest.72.subtitle.1": "Ciseler la Rune Aqua",
+  "chapter.stage.2.quest.72.subtitle.1": "Graver la Rune Aqua",
 
   "chapter.stage.2.quest.73.subtitle.1": "Forger des Runes",
-  "chapter.stage.2.quest.73.description.1": "La Runic Anvil est utilisée en plaçant un modèle, en plaçant le bon objet comme la &bViveroche&r ou l'ingot de &bSuperheated Vinteum&r, puis en les forgeant ensemble avec un Runesmith's Hammer.",
+  "chapter.stage.2.quest.73.description.1": "La \"Runic Anvil\" est utilisée en plaçant un modèle, en plaçant le bon objet comme la &bViveroche&r ou l'ingot de &bSuperheated Vinteum&r, puis en les forgeant ensemble avec un \"Runesmith's Hammer\".",
   "chapter.stage.2.quest.73.description.2": "&6La gemme Chimerite&r a une chance de tomber des minerais de base lorsque vous atteignez le niveau de magie 5.",
   "chapter.stage.2.quest.73.description.3": "&aLe minerais d'émeraude&r drop 90%% de Chimerite Gem à partir du niveau de magie 5.",
   "chapter.stage.2.quest.73.description.4": "&bLe minerais de diamant&r drop 60%% de Chimerite Gem à partir du niveau de magie 10.",
   "chapter.stage.2.quest.73.description.5": "&8Le minerais de charbon&r drop 30%% de Chimerite Gem à partir du niveau de magie 20.",
 
-  "chapter.stage.2.quest.74.subtitle.1": "Rune de l'Avatar",
-  "chapter.stage.2.quest.74.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
+  "chapter.stage.2.quest.74.subtitle.1": "Rune d'air",
+  "chapter.stage.2.quest.74.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
-  "chapter.stage.2.quest.75.subtitle.1": "Rune de Magma",
-  "chapter.stage.2.quest.75.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
+  "chapter.stage.2.quest.75.subtitle.1": "Rune de feu",
+  "chapter.stage.2.quest.75.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
-  "chapter.stage.2.quest.76.subtitle.1": "Rune de Terra",
-  "chapter.stage.2.quest.76.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
+  "chapter.stage.2.quest.76.subtitle.1": "Rune de terre",
+  "chapter.stage.2.quest.76.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
-  "chapter.stage.2.quest.77.subtitle.1": "Rune Aqua",
-  "chapter.stage.2.quest.77.description.1": "Cette rune doit d'abord être fabriquée avec la Runic Anvil, puis vous pourrez la fabriquer avec l'Autel runique.",
+  "chapter.stage.2.quest.77.subtitle.1": "Rune d'eau",
+  "chapter.stage.2.quest.77.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
   "chapter.stage.2.quest.78.subtitle.1": "Découverte de la Connaissance Runique",
-  "chapter.stage.2.quest.78.description.1": "Le Noyau Runique est utilisé pour fabriquer l'Autel Runique.",
+  "chapter.stage.2.quest.78.description.1": "Le \"Runic Core\" est utilisé pour fabriquer l'Autel Runique.",
 
   "chapter.stage.2.quest.79.subtitle.1": "L'Artisanat Runique",
   "chapter.stage.2.quest.79.description.1": "L'Autel Runique est utilisé pour fabriquer des runes.",
 
-  "chapter.stage.2.quest.80.subtitle.1": "Le Maître des Runes",
+  "chapter.stage.2.quest.80.subtitle.1": "Le Maitre des Runes",
 
   "chapter.stage.2.quest.81.subtitle.1": "Plaque Magique",
   "chapter.stage.2.quest.81.description.1": "La Plaque d'Agglomération Terrestre est utilisée pour combiner plusieurs objets avec du mana.",
@@ -746,9 +746,10 @@
   "chapter.stage.2.quest.82.subtitle.1": "Luxe Terrestre",
 
   "chapter.stage.2.quest.83.title.1": "Visiter la Dimension : &5Le Néant&r",
-  "chapter.stage.2.quest.83.description.1": "Une fois dans l'End, vous serez en mesure d'obtenir un objet principal pour la progression, en plus des nombreuses choses que vous pouvez trouver dans le néant.",
-  "chapter.stage.2.quest.83.description.2": "L'objet &aBouteille d'Air du néant&r est obtenu en cliquant droit sur n'importe quel bloc dans le néant avec une Bouteille en Verre.",
-  "chapter.stage.2.quest.83.description.3": "Cliquer droit avec cet objet le lancera. Il convertira jusqu'à 64 blocs de Pierre dans une zone de 7x7x7 autour du point d'impact en Pierre de l'End.",
+  "chapter.stage.2.quest.83.subtitle.1" : "L'Entre du Dragon",
+  "chapter.stage.2.quest.83.description.1": "Une fois dans l'End, vous serez en mesure d'obtenir un objet principal pour la progression, en plus des nombreuses choses que vous pouvez y trouver.",
+  "chapter.stage.2.quest.83.description.2": "L'objet &aBouteille d'Air du néant&r est obtenu avec un clic droit dans l'end avec une fiole vide.",
+  "chapter.stage.2.quest.83.description.3": "un clic droit avec cet objet le lancera. Il convertira jusqu'à 64 blocs de Roche en Pierre de l'End dans une zone de 7x7x7 autour de la zone d'impact.",
 
   "chapter.stage.2.quest.84.title.1": "Portail vers Alfheim",
   "chapter.stage.2.quest.84.subtitle.1": "Le Portail Magique",
