@@ -867,7 +867,7 @@
 
   "chapter.stage.3.quest.23.subtitle.1": "Cooling or Heating? Both !",
   "chapter.stage.3.quest.23.description.1": "This must be placed on any inventory. When heated by an adjacent heat source it will smelt any item in as well as freeze if cooled.",
-  "chapter.stage.3.quest.23.description.2": "It will only succeed if the storage is empty. The more heat or cold you bring the faster it will go.",
+  "chapter.stage.3.quest.23.description.2": "It will only succeed if the storage have enough space to store items. The more heat or cold you bring the faster it will go.",
 
   "chapter.stage.3.quest.24.title": "The Pressure Chamber",
   "chapter.stage.3.quest.24.subtitle.1": "Crafting with pression",

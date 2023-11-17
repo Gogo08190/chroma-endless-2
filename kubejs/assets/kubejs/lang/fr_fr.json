@@ -867,7 +867,7 @@
 
   "chapter.stage.3.quest.23.subtitle.1": "Refroidissement ou Chauffage ? Les deux !",
   "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé ou refroidis par une source de chaleur adjacente, il chauffera certains objets compatibles, alors que s'il est refroidi, il les refroidira dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les objets compatibles.",
-  "chapter.stage.3.quest.23.description.2": "Cela ne réussira que si le stockage est vide. Plus vous apporterez de chaleur ou de froid, plus cela ira rapidement.",
+  "chapter.stage.3.quest.23.description.2": "Cela ne réussira que si le stockage contient des emplacements vides pour accueillir les objets créés. Plus vous apporterez de chaleur ou de froid, plus cela ira rapidement.",
 
   "chapter.stage.3.quest.24.title": "La Chambre de Pression",
   "chapter.stage.3.quest.24.subtitle.1": "Fabrication avec Pression",
