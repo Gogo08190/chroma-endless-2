@@ -319,7 +319,15 @@ onEvent('recipes', (event) => {
             { item: 'chroma:eternal_cryostella_polaris' }
           ],
           tier: "WYVERN",
-          catalyst: { item: 'draconicevolution:draconium_block', count: 4 },
+          catalyst: {
+            count: 4,
+            items: [
+              {
+                item: 'draconicevolution:draconium_block'
+              }
+            ],
+            type: 'draconicevolution:ingredient_stack'
+          },
           total_energy: 50000000,
           result: { item: 'draconicevolution:awakened_draconium_block', count: 4 },
           id: 'draconicevolution:awakened_draconium_block'
