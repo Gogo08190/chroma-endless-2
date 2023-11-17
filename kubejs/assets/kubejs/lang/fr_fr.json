@@ -758,15 +758,15 @@
   "chapter.stage.2.quest.84.description.3": "Si le portail manque de mana, ou si une partie de la structure est endommagée, le portail se fermera.",
 
   "chapter.stage.2.quest.85.subtitle.1": "Pylône Merveilleux",
-  "chapter.stage.2.quest.85.description.1": "Le Gaia Pylon est utilisé pour construire la structure du Rituel de Gaïa.",
+  "chapter.stage.2.quest.85.description.1": "Le Gaia Pylon est utilisé pour construire la structure du Rituel de Gaia.",
 
-  "chapter.stage.2.quest.86.subtitle.1": "Le Rituel de Gaïa",
-  "chapter.stage.2.quest.86.description.1": "Le Rituel de Gaïa est utilisé pour invoquer le Gardien de Gaïa, qui est la source des Esprits de Gaïa.",
-  "chapter.stage.2.quest.86.description.2": "Pour effectuer le rituel, un Phare et 4 Pylônes Gaïa sont nécessaires. Les positions exactes peuvent être prévisualisées dans le monde en utilisant l'aperçu de structure du Lexica Botania.",
-  "chapter.stage.2.quest.86.description.3": "Une fois que la structure a été construite, en faisant un clic-droit en maintenant la touche Majuscule sur un Lingot de terracier sur la Balise, vous invoquerez le Gardien de Gaïa. Si une partie de l'arène est manquante ou obstruée, des particules roses indiqueront les emplacements fautifs.",
-  "chapter.stage.2.quest.86.description.4": "Utiliser un Lingot d'Esprit de Gaïa à la place d'un Lingot de terracier invoquera la version plus difficile du Gardien pour une récompense plus importante.",
+  "chapter.stage.2.quest.86.subtitle.1": "Le Rituel de Gaia",
+  "chapter.stage.2.quest.86.description.1": "Le Rituel de Gaia est utilisé pour invoquer le Gardien de Gaia, qui est la source des Esprits de Gaia.",
+  "chapter.stage.2.quest.86.description.2": "Pour effectuer le rituel, un Phare et 4 Pylônes Gaia sont nécessaires. Les positions exactes peuvent être prévisualisées dans le monde en utilisant l'aperçu de structure du Lexica Botania.",
+  "chapter.stage.2.quest.86.description.3": "Une fois que la structure a été construite, en faisant un clic-droit en maintenant la touche Majuscule sur un Lingot de terracier sur la Balise, vous invoquerez le Gardien de Gaia. Si une partie de l'arène est manquante ou obstruée, des particules roses indiqueront les emplacements fautifs.",
+  "chapter.stage.2.quest.86.description.4": "Utiliser un Lingot d'Esprit de Gaia à la place d'un Lingot de terracier invoquera la version plus difficile du Gardien pour une récompense plus importante.",
 
-  "chapter.stage.2.quest.87.description.1": "Le Lingot d'Esprit de Gaïa peut être fabriqué dans la Plaque d'Agglomération Terrestre.",
+  "chapter.stage.2.quest.87.description.1": "Le Lingot d'Esprit de Gaia peut être fabriqué dans la Plaque d'Agglomération Terrestre.",
   "chapter.stage.2.quest.87.description.2": "Plus tard, vous pourrez le faire à travers l'Industrial Agglomeration Factory.",
 
   "chapter.stage.2.quest.88.subtitle.1": "Transformation Magique",
@@ -1562,7 +1562,7 @@
   "chapter.stage.5.quest.28.description.1": "Après avoir attendu suffisamment longtemps, vous obtiendrez ceci. Skål !",
 
   "chapter.stage.5.quest.29.subtitle.1": "Nouveau Butin Gaia",
-  "chapter.stage.5.quest.29.description.1": "Après avoir bu l'Eau du puits de Mimir, vous devrez à nouveau affronter le Gaïa de Stade 2.",
+  "chapter.stage.5.quest.29.description.1": "Après avoir bu l'Eau du puits de Mimir, vous devrez à nouveau affronter le Gaia de Stade 2.",
 
   "chapter.stage.5.quest.30.subtitle.1": "Rituels de Rune",
   "chapter.stage.5.quest.30.description.1": "Mythic Botany ajoute une nouvelle manière de fabriquer des objets avancés. En fait, selon le nombre de composants, vous aurez besoin du même nombre exact de Supports de Rune et bien sûr du Support de Rune Central.",
