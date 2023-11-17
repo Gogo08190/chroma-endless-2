@@ -802,7 +802,7 @@
   "chapter.stage.3.quest.3.title": "Dieletric Rods",
 
   "chapter.stage.3.quest.4.subtitle.1": "Casing Building",
-  "chapter.stage.3.quest.4.description.1": "First you will have to energize Dielectric Rods and Steel Plates.",
+  "chapter.stage.3.quest.4.description.1": "First you will have to combine Dielectric Rods and Steel Blocks.",
   "chapter.stage.3.quest.4.description.2": "Later a new way of crafting will be possible, dont worry.",
 
   "chapter.stage.3.quest.5.subtitle.1": "Crafting Capacitors",
@@ -822,11 +822,11 @@
   "chapter.stage.3.quest.10.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !",
 
   "chapter.stage.3.quest.11.subtitle.1": "Explosive Crafting !",
-  "chapter.stage.3.quest.11.description.1": "To obtain this item to begin with, drop &6Energized Steel Ingot&r and activate TNT next to the dropped item(s). 90%% of the ingots will be converted into &7Compressed Steel Ingots&r.",
-  "chapter.stage.3.quest.11.description.2": "But don't worry there is a way to get a 100%% compressed steel, by creating the &ePressure Chamber&r, any &6Energized Steel Ingot&r you place into it with at least 2.0 bar of pressure will be converted into &7Compressed Steel Ingots&r.",
+  "chapter.stage.3.quest.11.description.1": "To obtain this item to begin with, drop &6Energized Steel&r and activate TNT next to the dropped item(s). 90%% of the ingots will be converted into &7Compressed Steel Ingots&r.",
+  "chapter.stage.3.quest.11.description.2": "But don't worry there is a way to get a 100% compressed steel, by creating the &ePressure Chamber&r, any &6Energized Steel&r you place into it with at least 2.0 bar of pressure will be converted into &7Compressed Steel Ingots&r.",
 
   "chapter.stage.3.quest.12.subtitle.1": "Dispersing Heat",
-  "chapter.stage.3.quest.12.description.1": "Block that disperses heat into the air. It only connects to the block it's on.",
+  "chapter.stage.3.quest.12.description.1": "A block that disperses both heat and coolness into the air. It only connects to the block it's on.",
 
   "chapter.stage.3.quest.13.subtitle.1": "Hot Cold? Both !",
   "chapter.stage.3.quest.13.description.1": "The &5Vortex Tube&r is a dynamic heat source which converts pressure directly to heat and cold.",

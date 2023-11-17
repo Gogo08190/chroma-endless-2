@@ -802,7 +802,7 @@
   "chapter.stage.3.quest.3.title": "Barres Diélectriques",
 
   "chapter.stage.3.quest.4.subtitle.1": "Construction de boîtier",
-  "chapter.stage.3.quest.4.description.1": "Tout d'abord, vous devrez énergiser les Barres Diélectriques et les Plaques en Acier.",
+  "chapter.stage.3.quest.4.description.1": "Tout d'abord, vous devrez combiner les Barres Diélectriques et les Blocs d'acier.",
   "chapter.stage.3.quest.4.description.2": "Plus tard, une nouvelle méthode de fabrication sera possible, ne vous inquiétez pas.",
 
   "chapter.stage.3.quest.5.subtitle.1": "Fabrication de Condensateurs",
@@ -810,7 +810,7 @@
   "chapter.stage.3.quest.6.subtitle.1": "Double Efficacité",
 
   "chapter.stage.3.quest.7.subtitle.1": "Stockage de Powah",
-  "chapter.stage.3.quest.7.description.1": "Cette batterie est extensible et peut être utilisée pour obtenir des objets énergisés avec le niveau correspondant.",
+  "chapter.stage.3.quest.7.description.1": "Cette batterie est améliorable et peut être utilisée pour fabriquer des objets avec un tier équivalent.",
 
   "chapter.stage.3.quest.8.subtitle.1": "Une nouvelle manière de fabriquer",
   "chapter.stage.3.quest.8.description.1": "Chaque niveau a une capacité de stockage d'énergie maximale, en améliorant l'Artisanat Énergisant, vous pourrez fabriquer plus rapidement.",
@@ -822,15 +822,15 @@
   "chapter.stage.3.quest.10.description.1": "Énergisez un Lingot de Netherite avec de l'Électrum et obtenez un &e&lAcier Énergisé&r !",
 
   "chapter.stage.3.quest.11.subtitle.1": "Artisanat Explosif !",
-  "chapter.stage.3.quest.11.description.1": "Pour obtenir cet objet au départ, lâchez un &6Lingot d'Acier Énergisé&r et activez de la TNT à côté de l'objet (ou des objets) lâché(s). 90%% des lingots seront convertis en &7Lingots d'Acier Compressé&r.",
-  "chapter.stage.3.quest.11.description.2": "Mais ne vous inquiétez pas, il y a un moyen d'obtenir de l'acier compressé à 100%% en créant la &eChambre de Pression&r. Tout &6Lingot d'Acier Énergisé&r que vous placez dedans avec au moins 2,0 bars de pression sera converti en &7Lingots d'Acier Compressé&r.",
+  "chapter.stage.3.quest.11.description.1": "Pour obtenir cet objet au départ, lâchez un &Acier Énergisé&r et activez de la TNT à côté de l'objet (ou des objets) lâché(s). 90%% des lingots seront convertis en &7Lingots d'Acier Compressé&r.",
+  "chapter.stage.3.quest.11.description.2": "Mais ne vous inquiétez pas, il y a un moyen d'obtenir de l'acier compressé avec un taux de 100% en créant la &eChambre de Pression&r. Tout &Acier Énergisé&r que vous placez dedans avec au moins 2,0 bars de pression sera converti en &7Lingots d'Acier Compressé&r.",
 
   "chapter.stage.3.quest.12.subtitle.1": "Dispersion de la Chaleur",
-  "chapter.stage.3.quest.12.description.1": "Bloc qui disperse la chaleur dans l'air. Il ne se connecte qu'au bloc sur lequel il se trouve.",
+  "chapter.stage.3.quest.12.description.1": "Un bloc qui disperse la chaleur et la fraicheur dans l'air. Il ne dissipe que la chaleur du bloc sur lequel il se trouve.",
 
   "chapter.stage.3.quest.13.subtitle.1": "Chaud ou Froid ? Les deux !",
-  "chapter.stage.3.quest.13.description.1": "Le &5Tube Vortex&r est une source de chaleur dynamique qui convertit directement la pression en chaleur et en froid.",
-  "chapter.stage.3.quest.13.description.2": "Il est fortement recommandé de placer un Dissipateur de Chaleur sur le côté inutilisé d'un Tube Vortex, pour une meilleure efficacité.",
+  "chapter.stage.3.quest.13.description.1": "Le &5Vortex Tube&r est une source de chaleur dynamique qui convertit directement la pression en chaleur et en fraicheur.",
+  "chapter.stage.3.quest.13.description.2": "Il est fortement recommandé de placer un Dissipateur de Chaleur (Heat Sink en anglais) sur le côté inutilisé d'un &5Vortex Tube&r, pour une meilleure efficacité.",
 
   "chapter.stage.3.quest.14.subtitle.1": "Le Raffineur Pneumatique",
   "chapter.stage.3.quest.14.description.1": "La &5Raffinerie&r est une machine multibloc qui utilise la chaleur pour raffiner le pétrole en divers carburants.",
@@ -839,34 +839,34 @@
   "chapter.stage.3.quest.14.description.4": "• Gasoline",
   "chapter.stage.3.quest.14.description.5": "• Kerosene",
   "chapter.stage.3.quest.14.description.6": "• Diesel",
-  "chapter.stage.3.quest.14.description.7": "Le multibloc &5Raffinerie&r est créé en plaçant un Contrôleur de Raffinerie en bas, puis en empilant 2 à 4 Sorties de Raffinerie au-dessus ou sur n'importe quel côté du Contrôleur.",
+  "chapter.stage.3.quest.14.description.7": "Le multibloc &5Raffinerie&r est créé en plaçant un \"Refinery Controller\" en bas, puis en empilant 2 à 4 \"Refinery Outputs\" au-dessus ou sur n'importe quel côté du Contrôleur.",
 
   "chapter.stage.3.quest.15.subtitle.1": "L'Usine de Traitement",
-  "chapter.stage.3.quest.15.description.1": "Cette machine est utilisée pour traiter des objets et/ou des liquides en d'autres objets/liquides.",
+  "chapter.stage.3.quest.15.description.1": "Cette machine est utilisée pour transformer des objets et/ou des liquides en d'autres objets/liquides.",
 
   "chapter.stage.3.quest.16.subtitle.1": "Fabrication de Mises à Niveau",
-  "chapter.stage.3.quest.16.description.1": "Fabrication des composants pour les Améliorations Pneumatiques.",
+  "chapter.stage.3.quest.16.description.1": "Fabrication des composants pour les Améliorations Pneumatiques (Upgrade Matrix en anglais).",
 
   "chapter.stage.3.quest.17.subtitle.1": "Mélange à Chaud",
-  "chapter.stage.3.quest.17.description.1": "Cet objet sera utile, je vous suggère donc de mettre en place une automatisation précoce.",
+  "chapter.stage.3.quest.17.description.1": "Cet objet sera utile pour la suite du modpack, je vous suggère donc de mettre en place une automatisation.",
 
   "chapter.stage.3.quest.18.subtitle.1": "Transfert de Pression",
-  "chapter.stage.3.quest.18.description.1": "Les tubes de pression déplacent l'air entre les compresseurs et les machines. Des modules de tube peuvent être placés sur eux.",
+  "chapter.stage.3.quest.18.description.1": "Les \"Pressure Tube\" déplacent l'air entre les compresseurs à air et les machines. Des modules de tube peuvent être placés dessus.",
 
   "chapter.stage.3.quest.19.subtitle.1": "Un Meilleur Transfert de Pression",
-  "chapter.stage.3.quest.19.description.1": "Une version plus puissante du tube de pression de base.",
+  "chapter.stage.3.quest.19.description.1": "Une version plus puissante du \"Pressure Tube\" de base.",
 
-  "chapter.stage.3.quest.20.subtitle.1": "Fabrication de Plastique Chaud",
-  "chapter.stage.3.quest.20.description.1": "Traitez le LPG et le charbon dans le Thermoprocessor et obtenez du Plastique Fondu.",
+  "chapter.stage.3.quest.20.subtitle.1": "Fabrication de Plastique Liquide",
+  "chapter.stage.3.quest.20.description.1": "Mélangez du LPG et du charbon dans le \"Thermopneumatic Processor\" et obtenez du Plastique Liquide.",
 
   "chapter.stage.3.quest.21.subtitle.1": "Première Génération d'Air",
-  "chapter.stage.3.quest.21.description.1": "Pour générer de l'air comprimé avec cette machine, il vous suffit d'insérer n'importe quel combustible solide inflammable, à l'exception d'un seau de carburant.",
+  "chapter.stage.3.quest.21.description.1": "Pour générer de l'air comprimé avec cette machine, il vous suffit d'insérer n'importe quel combustible solide inflammable, à l'exception d'un seau de carburant (comme la lave).",
 
   "chapter.stage.3.quest.22.subtitle.1": "Générateur d'Air Combustible",
-  "chapter.stage.3.quest.22.description.1": "Pour générer de l'air comprimé avec cette machine, utilisez un fluide variable comme carburant. Assurez-vous de vérifier dans JEI les fluides compatibles.",
+  "chapter.stage.3.quest.22.description.1": "Pour générer de l'air comprimé avec cette machine, utilisez un fluide inflammable comme carburant. Assurez-vous de vérifier dans JEI les fluides compatibles.",
 
   "chapter.stage.3.quest.23.subtitle.1": "Refroidissement ou Chauffage ? Les deux !",
-  "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé par une source de chaleur adjacente, il chauffera certains objets spécifiques, alors que s'il est refroidi, il refroidira les objets dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les objets compatibles.",
+  "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé ou refroidis par une source de chaleur adjacente, il chauffera certains objets compatibles, alors que s'il est refroidi, il les refroidira dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les objets compatibles.",
   "chapter.stage.3.quest.23.description.2": "Cela ne réussira que si le stockage est vide. Plus vous apporterez de chaleur ou de froid, plus cela ira rapidement.",
 
   "chapter.stage.3.quest.24.title": "La Chambre de Pression",
