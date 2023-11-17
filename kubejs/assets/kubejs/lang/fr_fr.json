@@ -696,7 +696,7 @@
   "chapter.stage.2.quest.67.subtitle.1": "Fabrication de Runes",
   "chapter.stage.2.quest.67.description.1": "La \"Runescribing Table\" est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
   "chapter.stage.2.quest.67.description.2": "Dans l'interface graphique, sur la gauche, il y a trois emplacements. L'emplacement supérieur est destiné au \"Runesmith's Hammer\", celui du milieu au \"Runesmith's Chisel\" et celui du bas à l'argile.",
-  "chapter.stage.2.quest.67.description.3": "L'argile n'est pas nécessaire pour graver des marques, mais elle est nécessaire pour les annuler.",
+  "chapter.stage.2.quest.67.description.3": "L'argile n'est pas nécessaire pour dessiner la rune, mais elle est nécessaire pour effacer les traits.",
   "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du \"Rune Pattern\". En haut à droite de l'interface graphique se trouve un emplacement pour insérer un Schéma Runique (Runescribing Recipe de son nom anglais), qui affichera ensuite un motif en dessous de la rune.",
   "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les \"Runescribing Recipes\". Lorsqu'un modèle de rune vierge est inséré, une grande grille de quadrillée apparaîtra.",
   "chapter.stage.2.quest.67.description.6": "En cliquant gauche entre les points, vous dessinerez un trait pour les relier, ce qui utilisera de la durabilité de votre Chisel et de votre Hammer.",
