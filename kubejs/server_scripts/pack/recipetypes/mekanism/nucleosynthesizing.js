@@ -30,6 +30,13 @@ onEvent('recipes', (event) => {
               duration: 100,
               id: `${id_prefix}mana_battery_creative`
           },
+          {
+              output: Item.of('draconicevolution:chaos_shard', 5),
+              itemInput: { ingredient: { item: 'draconicadditions:chaos_heart' } },
+              gasInput: { amount: 1000, gas: 'mekanism:antimatter' },
+              duration: 100,
+              id: `${id_prefix}chaos_shard`
+          },
         ]
     };
 
