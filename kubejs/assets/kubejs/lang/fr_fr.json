@@ -439,7 +439,7 @@
   "chapter.stage.1.quest.51.description.1": "&5La Runeforge&r est utilisé comme un four pour affiner plusieurs objets. Mais faites attention au niveau requis.",
   "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des crafts uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
 
-  "chapter.stage.1.quest.52.subtitle.1": "Maître du Concassage",
+  "chapter.stage.1.quest.52.subtitle.1": "Maitre du Concassage",
   "chapter.stage.1.quest.52.description.1": "La Crushing Wheel permet de concasser diverses ressources.",
   "chapter.stage.1.quest.52.description.2": "Deux Crushing Wheels doivent être placées l'une à côté de l'autre horizontalement ou verticalement à une distance d'un bloc. Les deux roues doivent recevoir une force de rotation opposée. Tout objet à broyer doit être inséré là où les roues tournent vers l'intérieur.",
 
@@ -1238,10 +1238,10 @@
   "chapter.stage.4.quest.49.subtitle.1": "Alliage Atomique",
   "chapter.stage.4.quest.49.description.1": "Infusez simplement un Alliage Renforcé avec l'infusion de l'Obsidienne Raffinée.",
 
-  "chapter.stage.4.quest.50.subtitle.1": "Maître de la Téléportation",
+  "chapter.stage.4.quest.50.subtitle.1": "Maitre de la Téléportation",
   "chapter.stage.4.quest.50.description.1": "Principallement utilisé comme composant de fabrication.",
 
-  "chapter.stage.4.quest.51.subtitle.1": "Maître de l'Extraction",
+  "chapter.stage.4.quest.51.subtitle.1": "Maitre de l'Extraction",
   "chapter.stage.4.quest.51.description.1": "Avec le &4Compresseur Quantique&r, mettez 256 Cristaux d'Utherium et le Noyau de Téléportation comme Catalyseur.",
 
   "chapter.stage.4.quest.52.subtitle.1": "L'Extraction à son Meilleur",
@@ -3077,7 +3077,7 @@
   "chapter.undergarden.15.subtitle" : "Quelle affaire !",
 
   "chapter.undergarden.16.title": "&aCréer un Serviteur Oublié",
-  "chapter.undergarden.16.subtitle" : "Maître des Marionnettes",
+  "chapter.undergarden.16.subtitle" : "Maitre des Marionnettes",
   "chapter.undergarden.16.description.1": "Créez un Serviteur Oublié en utilisant un Bloc Oublié et une Citrouille Sombre sculptée.",
 
   "chapter.undergarden.17.title": "Obtenir du Minerai d'Utherium",
@@ -3280,7 +3280,7 @@
   "chapter.ae.quest.11.description.2": "De plus, l'outil de réseau &bNetwork Tool&r offre un inventaire compact pour contenir des &6cartes d'amélioration&r. Cet inventaire peut être consulté tout en examinant l'écran de n'importe quel dispositif améliorable, facilitant ainsi les remplacements. Contrairement à une clé à molette standard, elle ne peut pas faire tourner les blocs du réseau ME, seulement les démonter lorsque vous êtes accroupi.",
 
   "chapter.ae.quest.12.title": "Auto-Crafting",
-  "chapter.ae.quest.12.subtitle.1": "Maître de l'Artisanat",
+  "chapter.ae.quest.12.subtitle.1": "Maitre de l'Artisanat",
   "chapter.ae.quest.12.description.1": "Le mécanisme d'artisanat automatisé d'AE2 commence avec le &bFournisseur de Modèle ME&r. Ce dispositif sert de réserve pour des objets spécifiques appelés &bModèles&r (détaillés dans la quête suivante). Ces modèles sont conçus pour englober des crafts qui transforment des objets d'entrée en objets de sortie spécifiés. Un seul fournisseur peut accueillir jusqu'à 9 modèles simultanément.",
   "chapter.ae.quest.12.description.2": "Vous vous retrouverez souvent à utiliser plusieurs fournisseurs de modèles répartis dans votre base. Pour faciliter l'accès aux contenus de tous les fournisseurs dans votre vaste réseau ME, le &bTerminal d'Accès aux Modèles&r s'avère inestimable. Ce terminal permet un accès distant aux modèles stockés dans différents fournisseurs.",
 
@@ -3388,7 +3388,7 @@
   "chapter.ae.quest.36.description.2": "La coloration d'un câble consomme 100 AE de sa batterie interne, permettant de teindre jusqu'à 3400 segments de câble sur une seule charge.",
 
   "chapter.ae.quest.37.title": "Ancre de Câble",
-  "chapter.ae.quest.37.subtitle.1": "Maître du Câblage",
+  "chapter.ae.quest.37.subtitle.1": "Maitre du Câblage",
   "chapter.ae.quest.37.description.1": "Le &bCouteau de Découpe en Quartz&r, similaire à la clé à molette, est disponible en variétés de quartz du Nether et du certus et est un outil de fabrication pratique à posséder.",
   "chapter.ae.quest.37.description.2": "Vous pouvez également séparer les câbles sans les colorer en utilisant une &bAncre de Câble&r entre eux. Cette ancre est fabriquée avec ce couteau et peut être fabriquée jusqu'à 50 fois avec le même couteau avant de se casser.",
   "chapter.ae.quest.37.description.3": "Les ancres de câbles sont également essentielles pour fabriquer des &bFaçades de Câbles&r. Ces façades vous permettent d'intégrer parfaitement les câbles dans les murs en les masquant avec l'apparence d'un bloc choisi. Bien que les crafts de façades ne soient pas affichées dans JEI, vous pouvez les fabriquer en entourant un bloc standard de 4 ancres de câbles dans la grille de fabrication.",
@@ -3875,7 +3875,7 @@
   "chapter.evil.quest.36.description.1": "Au sein des villages, vous rencontrerez des villageois &ointéressants&r qui se révèlent être des &dLoups-Garous&r.",
   "chapter.evil.quest.36.description.2": "Vaincre ces créatures vous rapportera de la &dChair de Loup-Garou&r.",
 
-  "chapter.evil.quest.37.subtitle.1": "Maître Cuisinier",
+  "chapter.evil.quest.37.subtitle.1": "Maitre Cuisinier",
   "chapter.evil.quest.37.description.1": "En utilisant la chair des &aJoueurs&r ou des &dLoups-Garous&r, vous avez la capacité de créer une &aSource Infinie de Nourriture&r grâce à la puissance de la Garmonbozia !",
 
   "chapter.evil.quest.38.subtitle.1": "Supprime les Effets de Potions Négatives",
@@ -3937,7 +3937,7 @@
   "chapter.mana.quest.9.subtitle.1": "Une Autre Fusion",
   "chapter.mana.quest.9.description.1": "Fusionnez la poussière nouvellement créée avec un lingot de fer.",
 
-  "chapter.mana.quest.10.subtitle.1": "Maître de la Fusion",
+  "chapter.mana.quest.10.subtitle.1": "Maitre de la Fusion",
   "chapter.mana.quest.10.description.1": "Faites fondre le lingot enduit dans un four.",
 
   "chapter.mana.quest.11.subtitle.1": "Fusion Arcanique",
