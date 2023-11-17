@@ -763,23 +763,23 @@
   "chapter.stage.2.quest.86.subtitle.1": "Le Rituel de Gaïa",
   "chapter.stage.2.quest.86.description.1": "Le Rituel de Gaïa est utilisé pour invoquer le Gardien de Gaïa, qui est la source des Esprits de Gaïa.",
   "chapter.stage.2.quest.86.description.2": "Pour effectuer le rituel, un Phare et 4 Pylônes Gaia sont nécessaires. Les positions exactes peuvent être prévisualisées dans le monde en utilisant l'aperçu de structure du Lexica Botania.",
-  "chapter.stage.2.quest.86.description.3": "Une fois que la structure a été construite, en faisant un clic-droit en maintenant la touche Majuscule sur un Lingot de terracier sur la Balise, vous invoquerez le Gardien de Gaïa. Si une partie de l'arène est manquante ou obstruée, des particules roses indiqueront les emplacements fautifs.",
+  "chapter.stage.2.quest.86.description.3": "Une fois que la structure a été construite, en faisant un clic-droit en maintenant la touche Majuscule avec un Lingot de terracier sur la Balise, vous invoquerez le Gardien de Gaïa. Si une partie de l'arène est manquante ou incomplète, des particules roses indiqueront les emplacements qui posent problème.",
   "chapter.stage.2.quest.86.description.4": "Utiliser un Lingot d'Esprit de Gaïa à la place d'un Lingot de terracier invoquera la version plus difficile du Gardien pour une récompense plus importante.",
 
   "chapter.stage.2.quest.87.description.1": "Le Lingot d'Esprit de Gaïa peut être fabriqué dans la Plaque d'Agglomération Terrestre.",
-  "chapter.stage.2.quest.87.description.2": "Plus tard, vous pourrez le faire à travers l'Industrial Agglomeration Factory.",
+  "chapter.stage.2.quest.87.description.2": "Plus tard, vous pourrez le faire à travers l'\"Industrial Agglomeration Factory\".",
 
   "chapter.stage.2.quest.88.subtitle.1": "Transformation Magique",
-  "chapter.stage.2.quest.88.description.1": "Le Catalyseur alchimique est utilisé pour conférer à certains objets une transformation secondaire lorsqu'ils sont jetés dans un Bassin de Mana, moyennant une certaine quantité de Mana stockée dans le bassin.",
-  "chapter.stage.2.quest.88.description.2": "Il doit être placé directement sous un Bassin de Mana.",
-  "chapter.stage.2.quest.88.description.3": "Vous en aurez besoin pour débloquer Powah et fabriquer le Silicon Paste.",
+  "chapter.stage.2.quest.88.description.1": "Le Catalyseur alchimique est utilisé pour transformer certains objets lorsqu'ils sont jetés dans un Bassin de Mana, en échange d'une quantitée de Mana stockée dans le bassin.",
+  "chapter.stage.2.quest.88.description.2": "Il doit être collé en dessous d'un Bassin de Mana.",
+  "chapter.stage.2.quest.88.description.3": "Vous en aurez besoin pour débloquer Powah et fabriquer le \"Silicon Paste\".",
 
   "chapter.stage.2.quest.89.subtitle.1": "Beaucoup de ressources",
-  "chapter.stage.2.quest.89.description.1": "Fabriquez le Mining Portal, puis faites un clic droit et vous voilà dans la dimension minière !",
+  "chapter.stage.2.quest.89.description.1": "Fabriquez le Mining Portal, puis faites un clic droit dessus. Vous voilà dans la dimension du minage !",
 
   "chapter.stage.2.quest.90.title.1": "Regardez une &6Presse-fruits industrielle&r complète.",
   "chapter.stage.2.quest.90.subtitle.1": "La &6Presse à fruits&r",
-  "chapter.stage.2.quest.90.description.1": "&6La Presse à fruits&r est utilisée pour fabriquer de l'huile végétale ou de la poussière de graphite HOP.",
+  "chapter.stage.2.quest.90.description.1": "&6La Presse à fruits&r est utilisée pour fabriquer de l'Huile Végétale ou de la poudre de graphite HOP.",
   "chapter.stage.2.quest.90.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.90.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
