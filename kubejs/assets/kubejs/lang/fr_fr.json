@@ -758,15 +758,15 @@
   "chapter.stage.2.quest.84.description.3": "Si le portail manque de mana, ou si une partie de la structure est endommagée, le portail se fermera.",
 
   "chapter.stage.2.quest.85.subtitle.1": "Pylône Merveilleux",
-  "chapter.stage.2.quest.85.description.1": "Le Gaia Pylon est utilisé pour construire la structure du Rituel de Gaia.",
+  "chapter.stage.2.quest.85.description.1": "Le Gaia Pylon est utilisé pour construire la structure du Rituel de Gaïa.",
 
-  "chapter.stage.2.quest.86.subtitle.1": "Le Rituel de Gaia",
-  "chapter.stage.2.quest.86.description.1": "Le Rituel de Gaia est utilisé pour invoquer le Gardien de Gaia, qui est la source des Esprits de Gaia.",
+  "chapter.stage.2.quest.86.subtitle.1": "Le Rituel de Gaïa",
+  "chapter.stage.2.quest.86.description.1": "Le Rituel de Gaïa est utilisé pour invoquer le Gardien de Gaïa, qui est la source des Esprits de Gaïa.",
   "chapter.stage.2.quest.86.description.2": "Pour effectuer le rituel, un Phare et 4 Pylônes Gaia sont nécessaires. Les positions exactes peuvent être prévisualisées dans le monde en utilisant l'aperçu de structure du Lexica Botania.",
-  "chapter.stage.2.quest.86.description.3": "Une fois que la structure a été construite, en faisant un clic-droit en maintenant la touche Majuscule sur un Lingot de terracier sur la Balise, vous invoquerez le Gardien de Gaia. Si une partie de l'arène est manquante ou obstruée, des particules roses indiqueront les emplacements fautifs.",
-  "chapter.stage.2.quest.86.description.4": "Utiliser un Lingot d'Esprit de Gaia à la place d'un Lingot de terracier invoquera la version plus difficile du Gardien pour une récompense plus importante.",
+  "chapter.stage.2.quest.86.description.3": "Une fois que la structure a été construite, en faisant un clic-droit en maintenant la touche Majuscule sur un Lingot de terracier sur la Balise, vous invoquerez le Gardien de Gaïa. Si une partie de l'arène est manquante ou obstruée, des particules roses indiqueront les emplacements fautifs.",
+  "chapter.stage.2.quest.86.description.4": "Utiliser un Lingot d'Esprit de Gaïa à la place d'un Lingot de terracier invoquera la version plus difficile du Gardien pour une récompense plus importante.",
 
-  "chapter.stage.2.quest.87.description.1": "Le Lingot d'Esprit de Gaia peut être fabriqué dans la Plaque d'Agglomération Terrestre.",
+  "chapter.stage.2.quest.87.description.1": "Le Lingot d'Esprit de Gaïa peut être fabriqué dans la Plaque d'Agglomération Terrestre.",
   "chapter.stage.2.quest.87.description.2": "Plus tard, vous pourrez le faire à travers l'Industrial Agglomeration Factory.",
 
   "chapter.stage.2.quest.88.subtitle.1": "Transformation Magique",
@@ -1518,14 +1518,14 @@
   "chapter.stage.5.quest.11.subtitle.1": "Pilleur de Prédiction",
   "chapter.stage.5.quest.11.description.1": "Une fois que votre modèle est Basique ou supérieur, vous pouvez utiliser la chambre de simulation pour exécuter des simulations de votre modèle. Les simulations produiront toujours une prédiction généralisée, et peuvent également produire une Prédiction de Mob, en fonction de la précision du modèle. Plus le niveau du modèle est élevé, plus la précision est grande, jusqu'à 99,5%% en Self Aware.",
 
-  "chapter.stage.5.quest.12.subtitle.1": "Simulation Gaia",
-  "chapter.stage.5.quest.12.description.1": "Obtenez une prédiction du Gardien de Gaia avec la Chambre de Simulation.",
+    "chapter.stage.5.quest.12.subtitle.1": "Simulation Gaïa",
+  "chapter.stage.5.quest.12.description.1": "Obtenez une prédiction du Gardien de Gaïa avec la Chambre de Simulation.",
 
   "chapter.stage.5.quest.13.subtitle.1": "Fabrication de Butin",
   "chapter.stage.5.quest.13.description.1": "Les Prédictions de Mob devront être traitées dans un Fabricateur de Butin, un appareil qui utilise de l'énergie pour convertir les prédictions en drops de mobs. Les drops disponibles sont basés sur une liste d'articles prédéfinis, et une cible peut être sélectionnée pour chaque type de modèle. Le fabricateur de butin se souviendra de vos choix pour chaque type, vous pouvez donc alimenter plusieurs types de prédictions dans un seul fabricateur.",
 
-  "chapter.stage.5.quest.14.subtitle.1": "Butin Gaia",
-  "chapter.stage.5.quest.14.description.1": "Grâce à la prédiction du Gardien de Gaia, obtenez du Gaia Skin.",
+  "chapter.stage.5.quest.14.subtitle.1": "Butin Gaïa",
+  "chapter.stage.5.quest.14.description.1": "Grâce à la prédiction du Gardien de Gaïa, obtenez du Gaia Skin.",
 
   "chapter.stage.5.quest.15.subtitle.1": "Brasseur de Mana Automatique",
 
@@ -1545,7 +1545,7 @@
   "chapter.stage.5.quest.22.description.1": "C'est le bloc principal de Botanical machinery. Il vous permet de stocker du Mana et de l'envoyer à d'autres machines. N'oubliez pas d'utiliser les Étincelles avec les améliorations que vous souhaitez. (Selon ce que vous voulez faire.)",
 
   "chapter.stage.5.quest.23.subtitle.1": "Viking, Prenez Garde",
-  "chapter.stage.5.quest.23.description.1": "Grâce à la prédiction du Gardien de Gaia, obtenez quelques Runes d'Asgard.",
+  "chapter.stage.5.quest.23.description.1": "Grâce à la prédiction du Gardien de Gaïa, obtenez quelques Runes d'Asgard.",
 
   "chapter.stage.5.quest.24.subtitle.1": "Meilleure Agglomération",
   "chapter.stage.5.quest.24.description.1": "Avec l'Infuseur de Mana et le nouveau multibloc correspondant, vous pourrez fabriquer plus rapidement les Lingots Basiques de Botania mais aussi de l'&6Alfsteel&r.",
@@ -1561,8 +1561,8 @@
   "chapter.stage.5.quest.28.subtitle.1": "Buvez !",
   "chapter.stage.5.quest.28.description.1": "Après avoir attendu suffisamment longtemps, vous obtiendrez ceci. Skål !",
 
-  "chapter.stage.5.quest.29.subtitle.1": "Nouveau Butin Gaia",
-  "chapter.stage.5.quest.29.description.1": "Après avoir bu l'Eau du puits de Mimir, vous devrez à nouveau affronter le Gaia de Stade 2.",
+  "chapter.stage.5.quest.29.subtitle.1": "Nouveau Butin Gaïa",
+  "chapter.stage.5.quest.29.description.1": "Après avoir bu l'Eau du puits de Mimir, vous devrez à nouveau affronter le Gaïa de Stade 2.",
 
   "chapter.stage.5.quest.30.subtitle.1": "Rituels de Rune",
   "chapter.stage.5.quest.30.description.1": "Mythic Botany ajoute une nouvelle manière de fabriquer des objets avancés. En fait, selon le nombre de composants, vous aurez besoin du même nombre exact de Supports de Rune et bien sûr du Support de Rune Central.",
