@@ -2215,7 +2215,7 @@ onEvent("recipes", (event) => {
           "item": "draconicevolution:awakened_draconium_ingot"
         },
         "E": {
-          "item": "megacells:mega_energy_cell"
+          "item": "chroma:infinite_alloy"
         },
         "F": {
           "item": "extendedcrafting:redstone_ingot"
