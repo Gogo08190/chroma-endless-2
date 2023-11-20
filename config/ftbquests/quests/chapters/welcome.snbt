@@ -13,7 +13,7 @@
 				id: "ftbquests:custom_icon"
 				Count: 1
 				tag: {
-					Icon: "chroma:textures/ui/logobis.png"
+					Icon: "chroma:textures/ui/ce2.png"
 				}
 			}
 			x: 0.0d
@@ -34,6 +34,11 @@
 				"{chapter.welcome.quest.12.description.6}"
 				""
 				"{chapter.welcome.quest.12.description.7}"
+			]
+			dependencies: [
+				"61808EE328D7FBFD"
+				"13EA8C7388E3EC86"
+				"1555A7B370CA8371"
 			]
 			size: 2.0d
 			min_width: 400

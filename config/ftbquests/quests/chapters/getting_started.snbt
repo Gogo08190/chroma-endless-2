@@ -260,8 +260,6 @@
 				"{chapter.stage.1.quest.10.description.3}"
 				""
 				"{chapter.stage.1.quest.10.description.4}"
-				""
-				"{chapter.stage.1.quest.10.description.5}"
 			]
 			dependencies: ["52F41B4EC55CF7E7"]
 			min_width: 300
@@ -594,6 +592,15 @@
 				type: "item"
 				item: "create:mechanical_crafter"
 			}]
+			rewards: [{
+				id: "1E385DC18DDBF032"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
 		}
 		{
 			x: 2.5d
@@ -692,7 +699,6 @@
 			dependencies: [
 				"6516060435BF41D9"
 				"4AC978F915ECB43C"
-				"1B1A209D53BAA6CC"
 			]
 			id: "39130271DD00ECFB"
 			tasks: [{
@@ -1522,10 +1528,7 @@
 				""
 				"{chapter.stage.1.quest.52.description.2}"
 			]
-			dependencies: [
-				"4AC978F915ECB43C"
-				"6516060435BF41D9"
-			]
+			dependencies: ["4AC978F915ECB43C"]
 			id: "1B1A209D53BAA6CC"
 			tasks: [{
 				id: "6B56F33A4649C63B"

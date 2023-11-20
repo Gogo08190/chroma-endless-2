@@ -1,0 +1,482 @@
+{
+	id: "5D6CE9149C0A3367"
+	group: "6E1FC0F5596E1533"
+	order_index: 15
+	filename: "apotheosis"
+	title: "Apotheosis"
+	icon: "apotheosis:boss_summoner"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "{chapter.apotheosis.quest.2.title}"
+			x: -7.0d
+			y: -2.5d
+			id: "13EA8C7388E3EC86"
+			tasks: [
+				{
+					id: "35D29AC03B813785"
+					type: "item"
+					title: "bookshelves"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1
+						tag: {
+							value: "forge:bookshelves"
+						}
+					}
+					count: 10L
+				}
+				{
+					id: "440577A66B7FD83F"
+					type: "item"
+					item: "apotheosis:hellshelf"
+					count: 10L
+				}
+			]
+			rewards: [{
+				id: "153CA459F84E3773"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.5d
+			dependencies: [
+				"13EA8C7388E3EC86"
+				"51B5C098A8CFF70E"
+			]
+			id: "618C9C19CF5A7645"
+			tasks: [{
+				id: "082D187772AC7C4B"
+				type: "item"
+				item: "apotheosis:library"
+			}]
+			rewards: [{
+				id: "4343FE6F711F515A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 0.0d
+			dependencies: [
+				"618C9C19CF5A7645"
+				"61808EE328D7FBFD"
+				"51B5C098A8CFF70E"
+			]
+			id: "13B2602C9089C789"
+			tasks: [{
+				id: "14C8A51FFB327E53"
+				type: "item"
+				item: "apotheosis:ender_library"
+			}]
+			rewards: [{
+				id: "40C3875728DE739E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.apotheosis.quest.1.title}"
+			x: -8.5d
+			y: 1.5d
+			id: "61808EE328D7FBFD"
+			tasks: [
+				{
+					id: "5A3814DDF242A653"
+					type: "item"
+					item: "apotheosis:melonshelf"
+					count: 4L
+				}
+				{
+					id: "672FC0C9FC8891F0"
+					type: "item"
+					item: "apotheosis:pearl_endshelf"
+					count: 14L
+				}
+				{
+					id: "484DF5F627264937"
+					type: "item"
+					item: "apotheosis:draconic_endshelf"
+					count: 3L
+				}
+			]
+			rewards: [{
+				id: "391C49AD4FE44266"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.apotheosis.quest.3.title}"
+			x: -7.0d
+			y: -0.5d
+			description: ["{image:chroma:textures/quests/enchant_full.png width:100 height:100 align:1 fit:true}"]
+			id: "1555A7B370CA8371"
+			tasks: [
+				{
+					id: "03131E899D55DF16"
+					type: "item"
+					item: "apotheosis:pearl_endshelf"
+					count: 14L
+				}
+				{
+					id: "7CD578DB82D73332"
+					type: "item"
+					item: "apotheosis:draconic_endshelf"
+					count: 3L
+				}
+				{
+					id: "1FDA1D173ADF18D7"
+					type: "item"
+					item: "apotheosis:rectifier_t3"
+					count: 5L
+				}
+				{
+					id: "30ED11D4C3D6C7F5"
+					type: "item"
+					item: "apotheosis:sightshelf_t2"
+					count: 3L
+				}
+				{
+					id: "3FA93488C7A48112"
+					type: "item"
+					item: "minecraft:wither_skeleton_skull"
+					count: 2L
+				}
+			]
+			rewards: [{
+				id: "23C2DB7204A010DD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 1.0d
+			dependencies: [
+				"1555A7B370CA8371"
+				"51B5C098A8CFF70E"
+			]
+			id: "646A4D62508E5C5D"
+			tasks: [{
+				id: "27F534C1C21ECEF0"
+				type: "advancement"
+				advancement: "apotheosis:enchanting/max_rectified"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "6D0D303501220658"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -1.5d
+			dependencies: [
+				"13EA8C7388E3EC86"
+				"51B5C098A8CFF70E"
+			]
+			id: "0DFC83A1FA27AFF6"
+			tasks: [{
+				id: "40EB48AFEA1513DD"
+				type: "item"
+				item: "apotheosis:infused_hellshelf"
+			}]
+			rewards: [{
+				id: "0913E7951EEA1FF0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 0.0d
+			dependencies: [
+				"0DFC83A1FA27AFF6"
+				"51B5C098A8CFF70E"
+			]
+			id: "7DBBF72521D7EA1B"
+			tasks: [{
+				id: "00D6F08777E204DF"
+				type: "item"
+				item: "apotheosis:sightshelf"
+			}]
+			rewards: [{
+				id: "1B4B23BEA08E8244"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 1.5d
+			dependencies: [
+				"7DBBF72521D7EA1B"
+				"51B5C098A8CFF70E"
+			]
+			id: "590258726CB3EC44"
+			tasks: [{
+				id: "3BF44B541D9ADA73"
+				type: "item"
+				item: "apotheosis:sightshelf_t2"
+			}]
+			rewards: [{
+				id: "66006563A742FE6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: -1.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "57AF4496784A98F0"
+			tasks: [{
+				id: "07C6DD089E363FA9"
+				type: "item"
+				item: "apotheosis:other_tome"
+			}]
+			rewards: [{
+				id: "26C5CD4C67053BFD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.0d
+			y: -1.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "649B3075B9495CD2"
+			tasks: [{
+				id: "6A98DC825F97DDF7"
+				type: "item"
+				item: "apotheosis:helmet_tome"
+			}]
+			rewards: [{
+				id: "5CFD52741C384B9D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -1.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "49144B5348A7DC7C"
+			tasks: [{
+				id: "46379C0FC7E94142"
+				type: "item"
+				item: "apotheosis:chestplate_tome"
+			}]
+			rewards: [{
+				id: "639736E45C83614E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: 0.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "16A33B26A8106AEC"
+			tasks: [{
+				id: "42A091C64FF60DF1"
+				type: "item"
+				item: "apotheosis:leggings_tome"
+			}]
+			rewards: [{
+				id: "48349E26AEBD9856"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.0d
+			y: 0.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "16686A7EF42AA16A"
+			tasks: [{
+				id: "74BD6574A8EC2A69"
+				type: "item"
+				item: "apotheosis:boots_tome"
+			}]
+			rewards: [{
+				id: "77689C30C423C75A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: 0.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "2C73C2872713E2FB"
+			tasks: [{
+				id: "74A07025E3104BC6"
+				type: "item"
+				item: "apotheosis:weapon_tome"
+			}]
+			rewards: [{
+				id: "4E80D30F4DA2CA86"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: 1.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "261F508B7BEE2CBB"
+			tasks: [{
+				id: "0CEF1ECB64FBD864"
+				type: "item"
+				item: "apotheosis:pickaxe_tome"
+			}]
+			rewards: [{
+				id: "68F90CDE367FFB2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.0d
+			y: 1.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "7279F19668593036"
+			tasks: [{
+				id: "4769427B534E23E0"
+				type: "item"
+				item: "apotheosis:fishing_tome"
+			}]
+			rewards: [{
+				id: "75AC529A4CA216A2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: 1.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "07D450EE2F15FF49"
+			tasks: [{
+				id: "054A07FF5682670A"
+				type: "item"
+				item: "apotheosis:bow_tome"
+			}]
+			rewards: [{
+				id: "3C09A9E28E4B0CE1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.0d
+			y: -2.0d
+			shape: "square"
+			dependencies: ["7B33480DC2C83D14"]
+			id: "3067CFAA5A834DAC"
+			tasks: [{
+				id: "0B831183DF13B712"
+				type: "item"
+				item: "apotheosis:scrap_tome"
+			}]
+			rewards: [{
+				id: "3E5B51CB3C499169"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

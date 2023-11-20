@@ -1403,10 +1403,10 @@
 			subtitle: "{chapter.mekanism.quest.58.subtitle.1}"
 			description: ["{chapter.mekanism.quest.58.description.1}"]
 			dependencies: [
-				"4298483C07988405"
 				"03075ABE714A908E"
 				"11A0E7361B133959"
 				"392E5A6724DA4ECD"
+				"61B3FC73BACC424E"
 			]
 			id: "3993D6185364A551"
 			tasks: [{

@@ -1,0 +1,280 @@
+{
+	id: "2D0168BAC0070E47"
+	group: "6E1FC0F5596E1533"
+	order_index: 16
+	filename: "spirit"
+	title: "{chapter.spirit.title}"
+	icon: "spirit:soul_cage"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.5d
+			y: 2.0d
+			shape: "octagon"
+			subtitle: "{chapter.spirit.quest.7.subtitle.1}"
+			description: [
+				"{chapter.spirit.quest.7.description.1}"
+				""
+				"{chapter.spirit.quest.7.description.2}"
+				""
+				"{chapter.spirit.quest.7.description.3}"
+				""
+				"{chapter.spirit.quest.7.description.4}"
+				""
+				"{chapter.spirit.quest.7.description.5}"
+				""
+				"{chapter.spirit.quest.7.description.6}"
+			]
+			dependencies: [
+				"767186615A65114E"
+				"55D861A00A5040D5"
+			]
+			size: 2.0d
+			min_width: 300
+			id: "253CF20ACFBE0572"
+			tasks: [{
+				id: "2BDF57CD115B713E"
+				type: "item"
+				item: "spirit:soul_cage"
+			}]
+			rewards: [{
+				id: "19A7CFB4E24D8397"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -0.5d
+			description: ["{chapter.spirit.quest.4.description.1}"]
+			dependencies: ["5446FB55E18E441B"]
+			id: "07EE1F3841E65987"
+			tasks: [{
+				id: "3500BEF7E1A08117"
+				type: "item"
+				item: "spirit:soul_glass"
+			}]
+			rewards: [{
+				id: "69FB296E958D3E22"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -0.5d
+			description: ["{chapter.spirit.quest.3.description.1}"]
+			dependencies: ["5446FB55E18E441B"]
+			id: "153A769E6EA2E6E3"
+			tasks: [{
+				id: "5256153921BE3803"
+				type: "item"
+				item: "spirit:soul_slate"
+			}]
+			rewards: [{
+				id: "4BEB51AEC6BC9D2B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.5d
+			description: ["{chapter.spirit.quest.5.description.1}"]
+			dependencies: ["32D450B6586F3772"]
+			id: "55D861A00A5040D5"
+			tasks: [{
+				id: "72F1970826E1E931"
+				type: "item"
+				item: "spirit:broken_spawner"
+			}]
+			rewards: [{
+				id: "7EAB04938061F697"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 3.5d
+			description: [
+				"{chapter.spirit.quest.8.description.1}"
+				""
+				"{chapter.spirit.quest.8.description.2}"
+			]
+			dependencies: ["253CF20ACFBE0572"]
+			id: "2B5A5FB0D37BE6CE"
+			tasks: [{
+				id: "0CABFA1EED522207"
+				type: "item"
+				item: "spirit:soul_crystal_shard"
+			}]
+			rewards: [{
+				id: "00BAA04EB5C0A16A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			description: [
+				"{chapter.spirit.quest.9.description.1}"
+				""
+				"{chapter.spirit.quest.9.description.2}"
+			]
+			dependencies: ["2B5A5FB0D37BE6CE"]
+			id: "60011B4D4C19FD2A"
+			tasks: [{
+				id: "08F1CF5FC4A1C96D"
+				type: "item"
+				item: "spirit:crude_soul_crystal"
+			}]
+			rewards: [{
+				id: "686186A00FF0E44D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 6.0d
+			shape: "octagon"
+			subtitle: "{chapter.spirit.quest.10.subtitle.1}"
+			description: [
+				"{chapter.spirit.quest.10.description.1}"
+				""
+				"{chapter.spirit.quest.10.description.2}"
+				""
+				"{chapter.spirit.quest.10.description.3}"
+				""
+				"{chapter.spirit.quest.10.description.4}"
+			]
+			dependencies: ["60011B4D4C19FD2A"]
+			size: 1.5d
+			min_width: 300
+			id: "4899AE619FA50787"
+			tasks: [{
+				id: "32B413C32F2DF321"
+				type: "item"
+				item: "spirit:soul_crystal"
+			}]
+			rewards: [{
+				id: "3A752702086A8605"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.5d
+			description: ["{chapter.spirit.quest.6.description.1}"]
+			dependencies: ["32D450B6586F3772"]
+			id: "767186615A65114E"
+			tasks: [{
+				id: "5442182449EAC2BE"
+				type: "item"
+				item: "spirit:soul_steel_ingot"
+			}]
+			rewards: [{
+				id: "6B68AA4D6C447133"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			description: [
+				"{chapter.spirit.quest.2.description.1}"
+				""
+				"{chapter.spirit.quest.2.description.2}"
+			]
+			dependencies: ["5446FB55E18E441B"]
+			id: "32D450B6586F3772"
+			tasks: [{
+				id: "4D962072D421F845"
+				type: "item"
+				item: "spirit:soul_powder"
+			}]
+			rewards: [{
+				id: "0E6F25A140014423"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.spirit.quest.1.title}"
+			x: 1.5d
+			y: -3.0d
+			description: ["{chapter.spirit.quest.1.description.1}"]
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "5446FB55E18E441B"
+			tasks: [
+				{
+					id: "1BEB92CBD32062DC"
+					type: "item"
+					item: "minecraft:soul_sand"
+				}
+				{
+					id: "2B7F60B849C5558C"
+					type: "item"
+					item: {
+						id: "minecraft:flint_and_steel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "3F9981AF6130EF75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

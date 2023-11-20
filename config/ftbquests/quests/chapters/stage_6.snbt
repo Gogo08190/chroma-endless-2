@@ -1164,31 +1164,6 @@
 			}]
 		}
 		{
-			x: 11.5d
-			y: -3.5d
-			subtitle: "{chapter.stage.6.quest.38.subtitle.1}"
-			description: ["{chapter.stage.6.quest.38.description.1}"]
-			dependencies: [
-				"5A16D989A0B006D8"
-				"4298483C07988405"
-			]
-			id: "385DDAD130983B65"
-			tasks: [{
-				id: "52A972C771638005"
-				type: "item"
-				item: "mekanism:chemical_dissolution_chamber"
-			}]
-			rewards: [{
-				id: "0660F7A76181C9AE"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:gold_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			title: "{chapter.stage.6.quest.43.title}"
 			icon: "alchemistry:fusion_chamber_controller"
 			x: 12.0d
@@ -1312,7 +1287,7 @@
 				{
 					id: "05D832948B11E163"
 					type: "item"
-					item: "chroma:nebula_extractor_t3_frame"
+					item: "chroma:void_miner_laser_core_t3"
 				}
 				{
 					id: "6A5C15FE67E9AA08"

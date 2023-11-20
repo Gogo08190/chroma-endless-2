@@ -1141,16 +1141,11 @@
 				id: "4F7D8D523B6776B8"
 				type: "item"
 				item: "blue_skies:blinding_key"
-				count: 4L
 			}]
 			rewards: [{
 				id: "25A583E34981BA79"
 				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
+				item: "blue_skies:blinding_key"
 			}]
 		}
 		{

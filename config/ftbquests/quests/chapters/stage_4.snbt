@@ -2126,7 +2126,11 @@
 			x: 51.5d
 			y: -2.5d
 			subtitle: "{chapter.stage.4.quest.80.subtitle.1}"
-			description: ["{chapter.stage.4.quest.80.description.1}"]
+			description: [
+				"{chapter.stage.4.quest.80.description.1}"
+				""
+				"{chapter.stage.4.quest.80.description.2}"
+			]
 			dependencies: ["78DCFB9750CE0E09"]
 			id: "55F3152AA7684C7C"
 			tasks: [

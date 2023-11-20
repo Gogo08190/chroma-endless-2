@@ -3162,6 +3162,207 @@
 				}
 			}]
 		}
+		{
+			x: -8.5d
+			y: 9.5d
+			subtitle: "{chapter.mana.quest.80.subtitle.1}"
+			description: ["{chapter.mana.quest.80.description.1}"]
+			dependencies: ["075774E4532B5135"]
+			id: "5C3F3E3D1174571B"
+			tasks: [{
+				id: "2BBEBCC42736103E"
+				type: "item"
+				item: "mna:wellspring_dowsing_rod"
+			}]
+			rewards: [{
+				id: "1D5C67B8DC28003A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 9.0d
+			description: [
+				"{chapter.mana.quest.81.description.1}"
+				""
+				"{chapter.mana.quest.81.description.2}"
+			]
+			dependencies: ["5C3F3E3D1174571B"]
+			id: "0853B412C767A3F9"
+			tasks: [{
+				id: "0B60B46ED7B5C0CA"
+				type: "item"
+				item: {
+					id: "mna:eldrin_sight_unguent"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "7A51A4DEF784C11F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 10.0d
+			description: [
+				"{chapter.mana.quest.82.description.1}"
+				""
+				"{chapter.mana.quest.82.description.2}"
+				""
+				"{chapter.mana.quest.82.description.3}"
+				""
+				"{chapter.mana.quest.82.description.4}"
+			]
+			dependencies: ["5C3F3E3D1174571B"]
+			id: "228A434868B21AD5"
+			tasks: [{
+				id: "6675F174716FB978"
+				type: "item"
+				item: {
+					id: "mna:wellspring_sight_unguent"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "70FE8BC128EB94B3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "Wellsping prism"
+			x: -12.5d
+			y: 9.5d
+			description: [
+				"{chapter.mana.quest.83.description.1}"
+				""
+				"{chapter.mana.quest.83.description.2}"
+				""
+				"{image:chroma:textures/quests/wellspring.png width:192 height:108 align:1 fit:true}"
+			]
+			dependencies: [
+				"228A434868B21AD5"
+				"0853B412C767A3F9"
+			]
+			dependency_requirement: "one_completed"
+			id: "4B7AC87779946823"
+			tasks: [
+				{
+					id: "156BA91AE86FB10E"
+					type: "item"
+					item: "mna:decoration/chimerite_arcane_stone_chiseled"
+				}
+				{
+					id: "5152EFB020D5BE41"
+					type: "item"
+					item: "mna:decoration/arcane_stone_slab"
+					count: 4L
+				}
+				{
+					id: "0CE2BF5515AC6C8E"
+					type: "item"
+					item: "minecraft:chain"
+					count: 12L
+				}
+				{
+					id: "68FB61CE7C28CDAC"
+					type: "item"
+					item: "mna:wellspring_pillar"
+					count: 4L
+				}
+				{
+					id: "0D47AF3388962B43"
+					type: "item"
+					item: "mna:decoration/chimerite_arcane_stone_pillar"
+					count: 4L
+				}
+				{
+					id: "5534EB97CE8893E5"
+					type: "item"
+					item: "mna:decoration/chimerite_arcane_stone_straight"
+					count: 4L
+				}
+				{
+					id: "15A8B31072AE7AB1"
+					type: "item"
+					item: "mna:decoration/chimerite_arcane_stone_corner"
+					count: 4L
+				}
+				{
+					id: "72248565B64452DF"
+					type: "item"
+					item: "mna:decoration/arcane_stone_stairs"
+					count: 8L
+				}
+				{
+					id: "2E5BD01FE2CA04D7"
+					type: "item"
+					title: "Refraction Lens"
+					item: {
+						id: "itemfilters:or"
+						Count: 1
+						tag: {
+							items: [
+								{
+									id: "mna:refraction_lens_fire"
+									Count: 1
+								}
+								{
+									id: "mna:refraction_lens_water"
+									Count: 1
+								}
+								{
+									id: "mna:refraction_lens_earth"
+									Count: 1
+								}
+								{
+									id: "mna:refraction_lens_arcane"
+									Count: 1
+								}
+								{
+									id: "mna:refraction_lens_ender"
+									Count: 1
+								}
+								{
+									id: "mna:refraction_lens_wind"
+									Count: 1
+								}
+							]
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "24BFD4D12DC5FBE5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
 	]
 	quest_links: [ ]
 }

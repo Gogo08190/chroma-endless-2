@@ -11,6 +11,7 @@
 			Icon: "ftbquests:textures/gui/shop.png"
 		}
 	}
+	disable_toast: true
 	default_quest_shape: ""
 	default_hide_dependency_lines: true
 	images: [
@@ -267,6 +268,7 @@
 		{
 			title: "{chapter.shop.dark.title.2}"
 			icon: "spirit:soul_steel_ingot"
+			disable_toast: true
 			x: -6.5d
 			y: 3.5d
 			shape: "pentagon"
@@ -1152,8 +1154,8 @@
 		{
 			title: "{chapter.shop.charm.title.3}"
 			icon: "darkutils:charm_warding"
-			x: -3.0d
-			y: 0.0d
+			x: -4.0d
+			y: -0.5d
 			dependencies: ["300537E738AF88CB"]
 			can_repeat: true
 			id: "57E3AAB50AEAEEE3"
@@ -2291,40 +2293,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.charm.title.4}"
-			icon: {
-				id: "apotheosis:potion_charm"
-				Count: 1
-				tag: {
-					Damage: 0
-					Potion: "minecraft:leaping"
-				}
-			}
-			x: -4.0d
-			y: -0.5d
-			dependencies: ["300537E738AF88CB"]
-			can_repeat: true
-			id: "7687F8F0DC39CE1D"
-			tasks: [{
-				id: "788ED143F282A83F"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:silver_coin"
-					Count: 1
-					tag: { }
-				}
-				count: 40L
-				consume_items: true
-			}]
-			rewards: [{
-				id: "63E4B7410919BD56"
-				type: "choice"
-				title: "Charms"
-				exclude_from_claim_all: true
-				table_id: 9172433528839612270L
-			}]
-		}
-		{
 			title: "{chapter.shop.dj.title}"
 			icon: "minecraft:jukebox"
 			x: -6.0d
@@ -2353,6 +2321,7 @@
 		{
 			title: "{chapter.shop.artifact.title}"
 			icon: "artifacts:superstitious_hat"
+			disable_toast: true
 			x: -3.0d
 			y: 5.5d
 			shape: "square"
@@ -2395,6 +2364,7 @@
 					Damage: 0
 				}
 			}
+			disable_toast: true
 			x: -3.0d
 			y: 4.5d
 			shape: "square"
@@ -2417,6 +2387,110 @@
 				type: "random"
 				title: "{chapter.shop.relic.title}"
 				table_id: 6954591899493001735L
+			}]
+		}
+		{
+			title: "{chapter.shop.bs.title.1}"
+			icon: "blue_skies:blinding_key"
+			x: -4.0d
+			y: 8.0d
+			shape: "hexagon"
+			dependencies: ["4F7D8D523B6776B8"]
+			can_repeat: true
+			id: "3891FB3096A0A788"
+			tasks: [{
+				id: "334D09CA37989701"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 6L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "18E0EB241DA69B65"
+				type: "item"
+				item: "blue_skies:blinding_key"
+			}]
+		}
+		{
+			title: "{chapter.shop.bs.title.2}"
+			icon: "blue_skies:nature_key"
+			x: -3.0d
+			y: 7.5d
+			shape: "hexagon"
+			dependencies: ["34EB53D227ED1EE3"]
+			can_repeat: true
+			id: "707E04F843490246"
+			tasks: [{
+				id: "6B6AF797682938C1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 12L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "528F74A45FD1B9E8"
+				type: "item"
+				item: "blue_skies:nature_key"
+			}]
+		}
+		{
+			title: "{chapter.shop.bs.title.3}"
+			icon: "blue_skies:poison_key"
+			x: -2.0d
+			y: 8.0d
+			shape: "hexagon"
+			dependencies: ["5541E4CF6EA06839"]
+			can_repeat: true
+			id: "13632D53CCFEF907"
+			tasks: [{
+				id: "4E3CD36F76412D4E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 12L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4C2DF65EE8EEFBC4"
+				type: "item"
+				item: "blue_skies:poison_key"
+			}]
+		}
+		{
+			title: "{chapter.shop.draco.title.1}"
+			icon: "draconicadditions:chaos_heart"
+			x: -3.0d
+			y: 9.0d
+			shape: "heart"
+			dependencies: ["4CBC3D63234685E3"]
+			can_repeat: true
+			id: "42C6C82A30118E7B"
+			tasks: [{
+				id: "40D640F111ED9FC8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 4L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "557211D78DFE623A"
+				type: "item"
+				item: "draconicadditions:chaos_heart"
 			}]
 		}
 	]

@@ -1764,6 +1764,7 @@
 		{
 			x: 39.0d
 			y: 11.5d
+			subtitle: "{chapter.stage.2.quest.83.subtitle.1}"
 			description: [
 				"{chapter.stage.2.quest.83.description.1}"
 				""

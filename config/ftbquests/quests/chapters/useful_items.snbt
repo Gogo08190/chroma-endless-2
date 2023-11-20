@@ -84,7 +84,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: 1.5d
 			shape: "hexagon"
 			subtitle: "{chapter.useful.quest.7.subtitle}"
@@ -102,29 +102,6 @@
 			}]
 			rewards: [{
 				id: "131DD4122449C410"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 7.0d
-			y: 1.5d
-			shape: "hexagon"
-			subtitle: "{chapter.useful.quest.8.subtitle}"
-			description: ["{chapter.useful.quest.8.description}"]
-			dependencies: ["51B5C098A8CFF70E"]
-			id: "5513B3C8452CC80D"
-			tasks: [{
-				id: "40A1913EABD6B5FA"
-				type: "item"
-				item: "structurecompass:structure_compass"
-			}]
-			rewards: [{
-				id: "7B0E302E1C04EF85"
 				type: "item"
 				item: {
 					id: "numismaticoverhaul:bronze_coin"
