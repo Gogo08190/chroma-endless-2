@@ -35,7 +35,6 @@
 	]
 	quests: [
 		{
-			title: "{chapter.challenges.applied}"
 			x: 9.0d
 			y: 0.5d
 			shape: "octagon"
@@ -44,14 +43,16 @@
 			tasks: [{
 				id: "778949662007943A"
 				type: "stat"
-				title: "Add: 100K item to your ME Storage System"
+				title: "{chapter.challenges.gate}"
 				icon: {
-					id: "ae2:item_storage_cell_64k"
+					id: "gateways:gate_pearl"
 					Count: 1
-					tag: { }
+					tag: {
+						gateway: "gateways:enderman_gate_large"
+					}
 				}
-				stat: "ae2:items_inserted"
-				value: 1000000
+				stat: "gateways:gates_defeated"
+				value: 50
 			}]
 			rewards: [{
 				id: "0C76824BBE272D4B"
@@ -64,7 +65,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenge.potato}"
 			x: 4.0d
 			y: 0.5d
 			shape: "octagon"
@@ -74,6 +74,7 @@
 			tasks: [{
 				id: "7331E9F5C2ACA33A"
 				type: "stat"
+				title: "{chapter.challenge.potato}"
 				icon: "botania:tiny_potato"
 				stat: "botania:tiny_potatoes_petted"
 				value: 1000
@@ -277,7 +278,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenge.killing.wither}"
 			x: 6.5d
 			y: 1.5d
 			shape: "hexagon"
@@ -286,6 +286,7 @@
 			tasks: [{
 				id: "705677AA5ADDBDA7"
 				type: "kill"
+				title: "{chapter.challenge.killing.wither}"
 				entity: "minecraft:wither"
 				value: 100L
 			}]
@@ -401,7 +402,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenges.xp}"
 			x: 5.5d
 			y: 0.0d
 			shape: "hexagon"
@@ -411,7 +411,7 @@
 			tasks: [{
 				id: "29685DFDCB838EE5"
 				type: "xp"
-				title: "XP Levels: &a3,000"
+				title: "{chapter.challenges.xp}"
 				value: 3000L
 				points: false
 			}]
@@ -426,7 +426,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenges.enchant}"
 			x: 5.5d
 			y: 1.0d
 			shape: "hexagon"
@@ -435,7 +434,7 @@
 			tasks: [{
 				id: "16F5060D547FC29A"
 				type: "stat"
-				title: "Enchant: 500x Items"
+				title: "{chapter.challenges.enchant}"
 				icon: "minecraft:enchanting_table"
 				stat: "minecraft:enchant_item"
 				value: 500
@@ -451,7 +450,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenges.love}"
 			x: 7.5d
 			y: 0.0d
 			shape: "hexagon"
@@ -460,7 +458,7 @@
 			tasks: [{
 				id: "33AB0BA8914531B1"
 				type: "stat"
-				title: "Bred: 1,500 Animals"
+				title: "{chapter.challenges.love}"
 				icon: "artifacts:crystal_heart"
 				stat: "minecraft:animals_bred"
 				value: 1500
@@ -476,7 +474,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenges.title.bis}"
 			x: 6.5d
 			y: -0.5d
 			shape: "hexagon"
@@ -485,7 +482,7 @@
 			tasks: [{
 				id: "5A8716E35706B30E"
 				type: "stat"
-				title: "Kill: 1,000,000 Mobs"
+				title: "{chapter.challenges.title.bis}"
 				icon: "apotheosis:boss_summoner"
 				stat: "minecraft:mob_kills"
 				value: 1000000
@@ -501,7 +498,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenges.trade}"
 			x: 6.5d
 			y: 0.5d
 			shape: "hexagon"
@@ -510,7 +506,7 @@
 			tasks: [{
 				id: "12BD84D37DDA2BBF"
 				type: "stat"
-				title: "Make: 1,000 trades with Villagers"
+				title: "{chapter.challenges.trade}"
 				icon: {
 					id: "ftbquests:custom_icon"
 					Count: 1
@@ -555,7 +551,6 @@
 			}]
 		}
 		{
-			title: "{chapter.challenges.pickaxe}"
 			x: 6.5d
 			y: -1.5d
 			shape: "diamond"
@@ -564,6 +559,7 @@
 			tasks: [{
 				id: "026C5D69B0F50E53"
 				type: "advancement"
+				title: "{chapter.challenges.pickaxe}"
 				advancement: "botania:challenge/rank_ss_pick"
 				criterion: ""
 			}]

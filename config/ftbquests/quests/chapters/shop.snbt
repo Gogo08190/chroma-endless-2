@@ -1202,7 +1202,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.create.choco.title.1}"
 			x: 6.5d
 			y: -2.0d
 			dependencies: ["300537E738AF88CB"]
@@ -1211,6 +1210,7 @@
 			tasks: [{
 				id: "24CBA55271E241A5"
 				type: "item"
+				title: "{chapter.shop.create.choco.title.1}"
 				item: "create:bar_of_chocolate"
 				count: 64L
 				consume_items: true
@@ -1228,7 +1228,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.create.choco.title.6}"
 			x: 5.5d
 			y: -1.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1237,6 +1236,7 @@
 			tasks: [{
 				id: "306CD6167EDA20B6"
 				type: "item"
+				title: "{chapter.shop.create.choco.title.6}"
 				item: "create:sweet_roll"
 				count: 64L
 				consume_items: true
@@ -1254,7 +1254,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.create.choco.title.2}"
 			x: 7.5d
 			y: -1.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1263,6 +1262,7 @@
 			tasks: [{
 				id: "7C39A784A624EDC4"
 				type: "item"
+				title: "{chapter.shop.create.choco.title.2}"
 				item: "create:chocolate_glazed_berries"
 				count: 64L
 				consume_items: true
@@ -1280,7 +1280,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.create.choco.title.5}"
 			x: 5.5d
 			y: -0.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1289,6 +1288,7 @@
 			tasks: [{
 				id: "307A87A3F578FFE8"
 				type: "item"
+				title: "{chapter.shop.create.choco.title.5}"
 				item: "create:honeyed_apple"
 				count: 64L
 				consume_items: true
@@ -1306,7 +1306,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.create.choco.title.4}"
 			x: 6.5d
 			y: 0.0d
 			dependencies: ["300537E738AF88CB"]
@@ -1315,6 +1314,7 @@
 			tasks: [{
 				id: "5046A30340A1C05B"
 				type: "item"
+				title: "{chapter.shop.create.choco.title.4}"
 				item: "create:builders_tea"
 				count: 16L
 				consume_items: true
@@ -1332,7 +1332,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.create.choco.title.3}"
 			x: 7.5d
 			y: -0.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1341,6 +1340,7 @@
 			tasks: [{
 				id: "446E465BA16C11BE"
 				type: "item"
+				title: "{chapter.shop.create.choco.title.3}"
 				item: "create_confectionery:gingerbread_man"
 				count: 64L
 				consume_items: true
@@ -1514,7 +1514,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.4}"
 			x: 3.5d
 			y: 3.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1523,6 +1522,7 @@
 			tasks: [{
 				id: "55F102B1B99D17DF"
 				type: "kill"
+				title: "{chapter.shop.killing.title.4}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1548,7 +1548,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.3}"
 			x: 3.5d
 			y: 2.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1557,6 +1556,7 @@
 			tasks: [{
 				id: "3766B844EBD9842A"
 				type: "kill"
+				title: "{chapter.shop.killing.title.3}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1582,7 +1582,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.8}"
 			x: 4.5d
 			y: 3.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1591,6 +1590,7 @@
 			tasks: [{
 				id: "5C65E47897DE4F25"
 				type: "kill"
+				title: "{chapter.shop.killing.title.8}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1616,7 +1616,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.5}"
 			x: 5.5d
 			y: 3.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1625,6 +1624,7 @@
 			tasks: [{
 				id: "5947142CA1351431"
 				type: "kill"
+				title: "{chapter.shop.killing.title.5}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1650,7 +1650,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.10}"
 			x: 6.5d
 			y: 3.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1659,6 +1658,7 @@
 			tasks: [{
 				id: "7C86BEFA22E6F082"
 				type: "kill"
+				title: "{chapter.shop.killing.title.10}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1684,7 +1684,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.13}"
 			x: 7.5d
 			y: 3.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1693,6 +1692,7 @@
 			tasks: [{
 				id: "72BB902E4B217788"
 				type: "kill"
+				title: "{chapter.shop.killing.title.13}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1718,7 +1718,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.15}"
 			x: 8.5d
 			y: 3.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1727,6 +1726,7 @@
 			tasks: [{
 				id: "778283C7A195F990"
 				type: "kill"
+				title: "{chapter.shop.killing.title.15}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1752,7 +1752,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.6}"
 			x: 4.0d
 			y: 4.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1761,6 +1760,7 @@
 			tasks: [{
 				id: "2F8C976F75894252"
 				type: "kill"
+				title: "{chapter.shop.killing.title.6}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1786,7 +1786,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.7}"
 			x: 5.0d
 			y: 4.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1795,6 +1794,7 @@
 			tasks: [{
 				id: "08D8D8B44986EBD0"
 				type: "kill"
+				title: "{chapter.shop.killing.title.7}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1820,7 +1820,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.14}"
 			x: 8.0d
 			y: 4.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1829,6 +1828,7 @@
 			tasks: [{
 				id: "4F2091ED4876AE0E"
 				type: "kill"
+				title: "{chapter.shop.killing.title.14}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1854,7 +1854,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.18}"
 			x: 9.0d
 			y: 4.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1863,6 +1862,7 @@
 			tasks: [{
 				id: "7927A74074745B04"
 				type: "kill"
+				title: "{chapter.shop.killing.title.18}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1888,7 +1888,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.9}"
 			x: 6.0d
 			y: 4.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1897,6 +1896,7 @@
 			tasks: [{
 				id: "64AB5920DC989962"
 				type: "kill"
+				title: "{chapter.shop.killing.title.9}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1956,7 +1956,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.17}"
 			x: 9.5d
 			y: 3.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1965,6 +1964,7 @@
 			tasks: [{
 				id: "065D100BD814587A"
 				type: "kill"
+				title: "{chapter.shop.killing.title.17}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -1990,7 +1990,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.12}"
 			x: 6.5d
 			y: 5.5d
 			dependencies: ["300537E738AF88CB"]
@@ -1999,6 +1998,7 @@
 			tasks: [{
 				id: "2627B90BD0F116AA"
 				type: "kill"
+				title: "{chapter.shop.killing.title.12}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -2024,7 +2024,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.1}"
 			x: 4.0d
 			y: -2.5d
 			shape: "diamond"
@@ -2035,6 +2034,7 @@
 			tasks: [{
 				id: "67CF0F1B247D0248"
 				type: "kill"
+				title: "{chapter.shop.killing.title.1}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -2060,7 +2060,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.11}"
 			x: 7.0d
 			y: 4.5d
 			dependencies: ["300537E738AF88CB"]
@@ -2069,6 +2068,7 @@
 			tasks: [{
 				id: "5956F081710A42EB"
 				type: "kill"
+				title: "{chapter.shop.killing.title.11}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1
@@ -2094,7 +2094,6 @@
 			}]
 		}
 		{
-			title: "{chapter.shop.killing.title.2}"
 			x: 9.0d
 			y: -2.5d
 			shape: "diamond"
@@ -2105,6 +2104,7 @@
 			tasks: [{
 				id: "412E6C8407ACFFB8"
 				type: "kill"
+				title: "{chapter.shop.killing.title.2}"
 				icon: {
 					id: "hostilenetworks:data_model"
 					Count: 1

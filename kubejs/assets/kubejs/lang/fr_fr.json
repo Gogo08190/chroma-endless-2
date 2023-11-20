@@ -148,16 +148,16 @@
   "chapter.shop.killing.title.3": "Tuez 100 &2Zombies&r",
   "chapter.shop.killing.title.4": "Tuez 100 &8Squelettes&r",
   "chapter.shop.killing.title.5": "Tuez 50 &dShulkers&r",
-  "chapter.shop.killing.title.6": "Tuez 100 &aEndermens&r",
+  "chapter.shop.killing.title.6": "Tuez 100 &8Endermens&r",
   "chapter.shop.killing.title.7": "Tuez 100 &bNoyés&r",
   "chapter.shop.killing.title.8": "Tuez 100 &cAraignées&r",
-  "chapter.shop.killing.title.9": "Tuez 100 &1Cubes de magma&r",
+  "chapter.shop.killing.title.9": "Tuez 100 &4Cubes de magma&r",
   "chapter.shop.killing.title.10": "Tuez 100 &cRotwalkers&r",
   "chapter.shop.killing.title.11": "Tuez 100 &dPiglins Zombifiés&r",
   "chapter.shop.killing.title.12": "Tuez 100 &0&lWither Squelettes&r",
   "chapter.shop.killing.title.13": "Tuez 100 &2Creepers&r",
   "chapter.shop.killing.title.14": "Tuez 100 &n&lGhasts&r",
-  "chapter.shop.killing.title.15": "Tuez 100 &aBlazes&r",
+  "chapter.shop.killing.title.15": "Tuez 100 &eBlazes&r",
   "chapter.shop.killing.title.16": "Tuez 100 &dSorcières&r",
   "chapter.shop.killing.title.17": "Tuez 50 &2Phantoms&r",
   "chapter.shop.killing.title.18": "Tuez 100 &5Gardiens&r",
@@ -180,7 +180,7 @@
 
   "chapter.challenges.love": "Accoupler 1500 Animaux",
 
-  "chapter.challenges.applied": "Ajoutez 100K Objets dans votre système ME",
+  "chapter.challenges.gate": "Vaincre 50 Gateaways",
 
   "chapter.challenges.trade": "Commercez 1000 fois avec des Villageois",
 
