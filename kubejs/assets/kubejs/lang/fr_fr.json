@@ -797,7 +797,7 @@
   "chapter.stage.3.quest.1.description.1": "Vous pouvez obtenir ce nouveau matériau en le minant.",
 
   "chapter.stage.3.quest.2.subtitle.1": "Préparation Diélectrique",
-  "chapter.stage.3.quest.2.description.1": "Lancez votre Silicone dans un bassin de mana et obtenez cet objet.",
+  "chapter.stage.3.quest.2.description.1": "Lancez votre Silicone dans un bassin de mana et obtenez cet item.",
 
   "chapter.stage.3.quest.3.title": "Barres Diélectriques",
 
@@ -813,10 +813,10 @@
   "chapter.stage.3.quest.7.description.1": "Cette batterie est améliorable et peut être utilisée pour fabriquer des objets avec un tier équivalent.",
 
   "chapter.stage.3.quest.8.subtitle.1": "Une nouvelle manière de fabriquer",
-  "chapter.stage.3.quest.8.description.1": "Chaque niveau a une capacité de stockage d'énergie maximale, en améliorant l'Artisanat Énergisant, vous pourrez fabriquer plus rapidement.",
+  "chapter.stage.3.quest.8.description.1": "Chaque niveau a une capacité de stockage d'énergie maximale, en améliorant l'Artisanat Énergisé, vous pourrez fabriquer plus rapidement.",
 
   "chapter.stage.3.quest.9.subtitle.1": "Énergiseur d'Objets",
-  "chapter.stage.3.quest.9.description.1": "L'&3Orbe Énergisant&r est la partie principale des fabrications Énergisants. Placez vos objets dedans et attendez !",
+  "chapter.stage.3.quest.9.description.1": "L'&3Orbe d'Énergie&r est la partie principale des fabrications énergisées. Placez vos objets dedans et attendez !",
 
   "chapter.stage.3.quest.10.subtitle.1": "Votre première fabrication Énergisée",
   "chapter.stage.3.quest.10.description.1": "Énergisez un Lingot de Netherite avec de l'Électrum et obtenez un &e&lAcier Énergisé&r !",
@@ -866,7 +866,7 @@
   "chapter.stage.3.quest.22.description.1": "Pour générer de l'air comprimé avec cette machine, utilisez un fluide inflammable comme carburant. Assurez-vous de vérifier dans JEI les fluides compatibles.",
 
   "chapter.stage.3.quest.23.subtitle.1": "Refroidissement ou Chauffage ? Les deux !",
-  "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé ou refroidis par une source de chaleur adjacente, il chauffera certains objets compatibles, alors que s'il est refroidi, il les refroidira dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les objets compatibles.",
+  "chapter.stage.3.quest.23.description.1": "Cet objet peut être placé sur la plupart des blocs contenant des inventaires, comme des coffres. Lorsque le bloc est chauffé ou refroidi par une source de chaleur adjacente, il chauffera certains objets compatibles, alors que s'il est refroidi, il les refroidira dans son inventaire (comme les sceaux de plastique liquide qui deviennent du plastique solide). Assurez-vous de vérifier dans JEI les objets compatibles.",
   "chapter.stage.3.quest.23.description.2": "Cela ne réussira que si le stockage contient des emplacements vides pour accueillir les objets créés. Plus vous apporterez de chaleur ou de froid, plus cela ira rapidement.",
 
   "chapter.stage.3.quest.24.title": "La Chambre de Pression",
@@ -904,7 +904,7 @@
   "chapter.stage.3.quest.32.description.1" : "Il suffit d'infuser un Circuit de Contrôle Avancé avec une infusion d'Acier Compressé.",
 
   "chapter.stage.3.quest.33.subtitle.1": "Tablette Utile",
-  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est un pack de batterie portable et rechargeable qui peut être chargé avec jusqu'à 1 000 kJ d'énergie, puis utilisé pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses crafts.",
+  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est un pack de batterie portable et rechargable qui peut être chargé avec jusqu'à 1 000 kJ d'énergie, puis utilisé pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses crafts.",
 
   "chapter.stage.3.quest.34.subtitle.1": "La nuit est ennuyeuse",
   "chapter.stage.3.quest.34.description.1" : "Génère de l'énergie Forge grâce à la puissance du soleil. Peut être amélioré ultérieurement.",
@@ -912,7 +912,7 @@
   "chapter.stage.3.quest.35.subtitle.1": "Énergie Éolienne !",
   "chapter.stage.3.quest.35.description.1" : "Génère de l'énergie Forge grâce à la puissance du vent.",
 
-  "chapter.stage.3.quest.36.subtitle.1": "Un Autre Compresseur",
+  "chapter.stage.3.quest.36.subtitle.1": "Un Autre Compresseur",<
   "chapter.stage.3.quest.36.description.1" : "Le &bCompresseur d'Osmium&f est utilisé pour créer des &aLingots d'Obsidienne Raffinée&f à partir de la Poussière d'Obsidienne Raffinée et des &aLingots de Pierre Lumineuse&f à partir de la Poussière de Pierre Lumineuse.",
 
   "chapter.stage.3.quest.37.subtitle.1": "Fusion Arcanique du Flux",
@@ -1006,9 +1006,9 @@
   "chapter.stage.3.quest.65.description.1": "Il suffit d'infuser un Cristal de Fluix, de la Poussière de Fluix Carbonique et un Lingot de Fer dans l'Infuseur de Matière.",
 
   "chapter.stage.3.quest.66.subtitle.1": "Contrôler le Fluix",
-  "chapter.stage.3.quest.66.description.1": "Le &bContrôleur ME&r est le composant final essentiel pour tout réseau ME expansif.",
-  "chapter.stage.3.quest.66.description.2": "Un contrôleur augmente la capacité d'un réseau ME bien au-delà des 8 canaux standard des réseaux ad hoc, offrant 32 canaux à chaque face du bloc, pour un total de 216 canaux.",
-  "chapter.stage.3.quest.66.description.3": "Bien que cela s'applique à un contrôleur monobloc, il convient de noter que le Contrôleur ME est une structure multibloc. Il peut s'étendre sur 7x7x7 blocs et avoir n'importe quelle forme à l'intérieur de cette limite. Chaque bloc offre son propre ensemble de canaux, à condition qu'aucun bloc de contrôleur ne soit entouré de 4 autres sur le même plan.",
+  "chapter.stage.3.quest.66.description.1": "Le &bContrôleur ME&r est le composant final essentiel pour tout réseau ME.",
+  "chapter.stage.3.quest.66.description.2": "Un contrôleur augmente la capacité d'un réseau ME bien au-delà des 8 canaux standard des réseaux, offrant 32 canaux à chaque face du bloc, pour un total de 216 canaux.",
+  "chapter.stage.3.quest.66.description.3": "Bien que cela s'applique à un contrôleur seul, il convient de noter que le Contrôleur ME est une structure multibloc. Il peut s'étendre sur 7x7x7 blocs et avoir n'importe quelle forme à l'intérieur de cette limite. Chaque bloc offre son propre ensemble de canaux, à condition qu'aucun bloc de contrôleur ne soit entouré de 4 autres sur le même plan.",
   "chapter.stage.3.quest.66.description.4": "Un réseau ME ne peut accueillir qu'un seul contrôleur multibloc simultanément. Essayer d'intégrer plusieurs contrôleurs dans différentes sections déclenchera un conflit, entraînant l'arrêt de tout le réseau.",
 
   "chapter.stage.3.quest.67.subtitle.1": "Stockage d'Accès",
@@ -1040,7 +1040,7 @@
   "chapter.stage.3.quest.74.description.1": "Fabriquez un cadre de machine thermique avec des engrenages en étain, des boîtiers diélectriques et des plaques en acier dans le &5Infuseur de Matière&r.",
 
   "chapter.stage.3.quest.75.subtitle.1": "Fonte d'objets en liquide",
-  "chapter.stage.3.quest.75.description.1": "Le Magma Crucible est conçu pour transformer des objets en liquide correspondant.",
+  "chapter.stage.3.quest.75.description.1": "Le Magma Crucible est conçu pour transformer des objets en un liquide correspondant.",
 
   "chapter.stage.3.quest.76.subtitle.1": "Création d'un cadre RFTools",
   "chapter.stage.3.quest.76.description.1": "Pour fabriquer un Cadre de Machine RFTools, vous devrez combiner des Servos en Redstone, des Circuits de Contrôle Élite et des Bases de Machine en utilisant l'&5Infuseur de Matière&r.",
