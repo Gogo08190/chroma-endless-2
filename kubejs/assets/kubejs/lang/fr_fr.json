@@ -1,14 +1,14 @@
 {
-  "recipes.lychee.item_inside.charoite.condition.description": "Se converti dans les environs de midi (3:20 - 6:40). S'annule si laissé trop longtemps...",
-  "recipes.lychee.item_inside.moonstone.condition.description": "Se converti dans les environs de minuit (13:20 - 16:40). S'annule si laissé trop longtemps...",
+  "recipes.lychee.item_inside.charoite.condition.description": "Se convertit dans les environs de midi (12:20 - 18:40). S'annule si laissé trop longtemps...",
+  "recipes.lychee.item_inside.moonstone.condition.description": "Se convertit dans les environs de minuit (1:20 - 4:40). S'annule si laissé trop longtemps...",
 
   "Introduction" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.welcome.title": "&lBienvenue",
 
-  "chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
+"chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
-  "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25%% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
+  "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
 
   "chapter.welcome.quest.2.title.1": "Posséder & Charger un terrain",
@@ -83,11 +83,11 @@
   "chapter.shop.shipped.title.7": "Établi du Souffleur de Verre",
   "chapter.shop.shipped.subtitle" : "Décorateur d'intérieur",
 
-  "chapter.shop.task.title" : "Ecran de Tâche",
+  "chapter.shop.task.title": "Écran de Tâche",
   "chapter.shop.task.subtitle": "Automatisation des quêtes",
-  "chapter.shop.task.description": "Les écrans de tâches sont des blocs qui montrent les objectifs de quête dans le monde. Ils peuvent être liés à une seule tâche et afficher des informations liées à cette tâche, certaines tâches nécessitent des écrans afin de permettre l’automatisation (objectifs basés sur l’énergie par exemple). Vous pouvez modifier la tâche à laquelle un écran est défini en cliquant furtivement avec le bouton droit sur l’écran, cela ouvrira l’interface graphique des paramètres des écrans. Vous pouvez également modifier leur texture et les rendre incassables, ce qui peut être utile dans les cartes personnalisées.",
+  "chapter.shop.task.description": "Les écrans de tâches sont des blocs qui affichent les objectifs de quête dans le monde. Ils peuvent être associés à une seule tâche et afficher des informations spécifiques à cette tâche. Certains objectifs de quête nécessitent des écrans pour permettre l'automatisation, par exemple, ceux basés sur l'énergie. Vous pouvez modifier la tâche associée à un écran en effectuant un clic droit discret sur l'écran, ce qui ouvrira l'interface graphique des paramètres des écrans. Vous avez également la possibilité de personnaliser leur texture et de les rendre incassables, ce qui peut être utile dans le cadre de cartes personnalisées.",
 
-  "chapter.shop.dj.title": "Disque de Musique",
+  "chapter.shop.dj.title": "Disque Musical",
 
   "chapter.shop.elytra.title": "Elytres",
 
@@ -104,8 +104,8 @@
 
   "chapter.shop.coin.title": "Pièce de Fermier",
 
-  "chapter.shop.dark.title.1": "Essence de Non-Mort",
-  "chapter.shop.dark.title.2": "Soul Steel Ingot",
+  "chapter.shop.dark.title.1": "Essence de Mort Vivant",
+  "chapter.shop.dark.title.2": "Lingot d'Acier d'Âme",
   "chapter.shop.dark.title.3": "Poussière de Tombe",
   "chapter.shop.dark.title.4": "Ossuaire",
 
@@ -121,11 +121,11 @@
   "chapter.shop.globe.title.5": "Globe de Vénus",
   "chapter.shop.globe.title.6": "Globe de Glacio",
 
-  "chapter.shop.bs.title.1": "&7Blinding Dungeon Key",
-  "chapter.shop.bs.title.2": "&aNature Dungeon Key",
-  "chapter.shop.bs.title.3": "&dPoison Dungeon Key",
+  "chapter.shop.bs.title.1": "Clé du Donjon Aveuglant",
+  "chapter.shop.bs.title.2": "Clé du Donjon Naturel",
+  "chapter.shop.bs.title.3": "Clé du Donjon Empoisonné",
 
-  "chapter.shop.draco.title.1": "&8Chaos Heart",
+  "chapter.shop.draco.title.1": "Cœur du Chaos",
 
   "chapter.shop.crea.title.1": "Moteur Créatif",
   "chapter.shop.crea.title.2": "Emplacement de Défense Créatif",
@@ -140,7 +140,7 @@
   "chapter.shop.create.choco.title.2" : "Fabriquez 64 baies glacées au chocolat",
   "chapter.shop.create.choco.title.3" : "Fabriquez 64 Bonhommes en Pain d'épice",
   "chapter.shop.create.choco.title.4" : "Fabriquez 16 thés du constructeur",
-  "chapter.shop.create.choco.title.5" : "Fabriquez 64 pommes miellées",
+  "chapter.shop.create.choco.title.5" : "Fabriquez 64 pommes au miel",
   "chapter.shop.create.choco.title.6" : "Fabriquez 64 Rouleaux Sucrés",
 
   "chapter.shop.killing.title.1": "Tuez 10 &6Withers&r",
@@ -176,7 +176,7 @@
 
   "chapter.challenges.title.bis": "Tuez 1.000.000 Mobs",
 
-  "chapter.challenges.pickaxe": "Creuser avec le mode destruction du \"Voleur en éclat de terre\" au rang SS",
+  "chapter.challenges.pickaxe": "Creuser avec le mode destruction de la pioche appelée : \"Destructrice de la Terre\" au rang SS",
 
   "chapter.challenges.love": "Accoupler 1500 Animaux",
 
@@ -192,10 +192,10 @@
 
   "chapter.challenge.potato": "Effectuez 1000 clic droit sur une petite pomme de terre",
 
-  "chapter.challenge.piggy.title.1": "Piggy Bank - Partie 1",
-  "chapter.challenge.piggy.title.2": "Piggy Bank - Partie 2",
+  "chapter.challenge.piggy.title.1": "La Tirelire - Partie 1",
+  "chapter.challenge.piggy.title.2": "La Tirelire - Partie 2",
   "chapter.challenge.piggy.subtitle": "Gruik Gruik !",
-  "chapter.challenge.piggy.description": "La &cCochon Tirelire&r est un bon moyen de générer de l'argent. Pour obtenir des Pièces d'Or, il vous suffit d'alimenter votre Cochon Tirelire et de laisser pleuvoir l'argent !",
+  "chapter.challenge.piggy.description": "La &cTirelire&r est un bon moyen de générer de l'argent. Pour obtenir des Pièces d'Or, il vous suffit d'alimenter votre Cochon Tirelire et de laisser pleuvoir l'argent !",
 
   "chapter.challenge.rich.title": "$$ &6Le Millionaire&r $$",
   "chapter.challenge.rich.subtitle": "J'aime l'argent!",
