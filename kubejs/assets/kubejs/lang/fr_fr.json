@@ -6,11 +6,11 @@
 
   "chapter.welcome.title": "&lBienvenue",
 
-"chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
+  "chapter.welcome.quest.1.title.1": "Procurez-vous un serveur !",
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
   "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
-
+  
   "chapter.welcome.quest.2.title.1": "Posséder & Charger un terrain",
   "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\nCliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
 
@@ -85,7 +85,7 @@
 
   "chapter.shop.task.title": "Écran de Tâche",
   "chapter.shop.task.subtitle": "Automatisation des quêtes",
-  "chapter.shop.task.description": "Les écrans de tâches sont des blocs qui affichent les objectifs de quête dans le monde. Ils peuvent être associés à une seule tâche et afficher des informations spécifiques à cette tâche. Certains objectifs de quête nécessitent des écrans pour permettre l'automatisation, par exemple, ceux basés sur l'énergie. Vous pouvez modifier la tâche associée à un écran en effectuant un clic droit discret sur l'écran, ce qui ouvrira l'interface graphique des paramètres des écrans. Vous avez également la possibilité de personnaliser leur texture et de les rendre incassables, ce qui peut être utile dans le cadre de cartes personnalisées.",
+  "chapter.shop.task.description": "Les écrans de tâches sont des blocs qui affichent les objectifs de quête dans le monde. Ils peuvent être associés à une seule tâche et afficher des informations spécifiques à cette tâche. Certains objectifs de quête nécessitent des écrans pour permettre l'automatisation, par exemple, ceux basés sur l'énergie. Vous pouvez modifier la tâche associée à un écran en effectuant un clic droit sur l'écran, ce qui ouvrira l'interface graphique des paramètres des écrans. Vous avez également la possibilité de personnaliser leur texture et de les rendre incassables, ce qui peut être utile dans le cadre de cartes personnalisées.",
 
   "chapter.shop.dj.title": "Disque Musical",
 
@@ -104,7 +104,7 @@
 
   "chapter.shop.coin.title": "Pièce de Fermier",
 
-  "chapter.shop.dark.title.1": "Essence de Mort Vivant",
+  "chapter.shop.dark.title.1": "Essence de Non-Morts",
   "chapter.shop.dark.title.2": "Lingot d'Acier d'Âme",
   "chapter.shop.dark.title.3": "Poussière de Tombe",
   "chapter.shop.dark.title.4": "Ossuaire",
@@ -176,7 +176,7 @@
 
   "chapter.challenges.title.bis": "Tuez 1.000.000 Mobs",
 
-  "chapter.challenges.pickaxe": "Creuser avec le mode destruction de la pioche appelée : \"Destructrice de la Terre\" au rang SS",
+  "chapter.challenges.pickaxe": "Creuser avec le mode destruction de la pioche appelée : \"Voleur d'éclat de verre\" au rang SS",
 
   "chapter.challenges.love": "Accoupler 1500 Animaux",
 
@@ -222,7 +222,7 @@
 
   "chapter.useful.quest.4.subtitle": "Pro du Bâtiment",
   "chapter.useful.quest.4.description": "Parfois, la construction de grandes structures peut être un peu fastidieuse et demander beaucoup d'efforts. Nous ne sommes pas tous de grands constructeurs, vous savez ! L'outil de construction vise à rendre la construction un peu plus facile.",
-  "chapter.useful.quest.4.description.2": "&4Faites Attention ! &r LE Destruction Gadget ne vous donnes pas les blocs détruis!",
+  "chapter.useful.quest.4.description.2": "&4Faites Attention ! &rLe Destruction Gadget ne vous donnes pas les blocs détruis!",
 
   "chapter.useful.quest.5.subtitle": "À travers les sables du temps",
   "chapter.useful.quest.5.description": "La bouteille de temps est un objet unique qui vous permet d'accélérer la vitesse de fonctionnement de certain blocs, comme les fours ou les entonnoirs. La bouteille collecte passivement du temps tant qu'elle est dans votre inventaire (pas dans les sac à dos ou dans le système Applied). Pour utiliser le temps stocké, faites un clic droit avec la touche Maj enfoncée sur un bloc.",
@@ -231,7 +231,7 @@
   "chapter.useful.quest.6.description": "Un bloc simple que vous pouvez utiliser pour mesurer les taux de transfert d'énergie avec un affichage en temps réel.",
 
   "chapter.useful.quest.7.subtitle": "Recherche de Biome",
-  "chapter.useful.quest.7.description": "Trouvez tous les biomes disponibles dans le jeu y compris les moddés, assurez-vous d'être dans la bonne dimension avant de chercher un biome.",
+  "chapter.useful.quest.7.description": "Trouvez tous les biomes disponibles dans le jeu dont les biomes ajoutés par les mods. Assurez-vous d'être dans la bonne dimension avant de chercher un biome.",
 
   "Quêtes principales" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
@@ -263,13 +263,13 @@
   "chapter.stage.1.quest.5.description.3" : "Plus tard dans le pack, d'autres crafts seront possibles, ne vous inquiétez pas.",
 
   "chapter.stage.1.quest.6.subtitle.1": "Un Nouvel Alliage",
-  "chapter.stage.1.quest.6.description.1" : "En brulant ce mélange vous allez pouvoir avoir ce nouvel alliage.",
+  "chapter.stage.1.quest.6.description.1" : "En cuisant ce mélange vous allez pouvoir avoir ce nouvel alliage.",
   "chapter.stage.1.quest.6.description.2" : "Tout comme le mélange de la quête précédente, d'autres méthodes de fabrication seront disponibles plus tard.",
 
   "chapter.stage.1.quest.7.subtitle.1": "La rotation c'est génial",
   "chapter.stage.1.quest.7.description.1" : "Ces rotors peuvent être placés comme bon vous semble et transmette ce qu'on va appeler l'énergie create: La rotation.",
 
-  "chapter.stage.1.quest.8.subtitle.1": "Les roues dentées sont un composant mécanique de base dans Create qui relaie la rotation",
+  "chapter.stage.1.quest.8.subtitle.1": "Les roues dentées sont un composant mécanique de base dans Create qui relaient la rotation",
   "chapter.stage.1.quest.8.description.1" : "Les roues dentées peuvent transmettre la rotation à une autre roue dentée adjacente.",
   "chapter.stage.1.quest.8.description.2" : "Si une roue dentée A est collée à une roue dentée B, alors la roue B tournera dans le sens inverse de celui de la roue A.",
   "chapter.stage.1.quest.8.description.3" : "Vous pouvez utiliser, par défaut, la touche 'Z' pour avoir plus d'informations sur les roues dentées.",
@@ -279,21 +279,21 @@
 
   "chapter.stage.1.quest.10.subtitle.1": "La roue à eau est une source de Rotation",
   "chapter.stage.1.quest.10.description.1" : "Elle génère une force rotative lorsque de l'eau ou de la lave s'écoule dessus.",
-  "chapter.stage.1.quest.10.description.2" : "La roue à eau sert de premier générateur de force rotationnel en raison de son faible cout. La capacité totale de stress peut être augmentée en ajoutant davantage de roues en série.",
+  "chapter.stage.1.quest.10.description.2" : "La roue à eau sert de premier générateur de force rotationnelle en raison de son faible coût. La capacité totale de stress peut être augmentée en ajoutant davantage de roues en série.",
   "chapter.stage.1.quest.10.description.3" : "Lorsque l'eau s'écoule sur une roue à eau, elle commence à tourner. Cette puissance rotative peut être transmise à d'autres composants à partir de l'axe des roues à eau.",
-  "chapter.stage.1.quest.10.description.4" : "Comparé aux anciennes versions de create, il n'est plus nécessaire de mettre plusieurs courant pour avoir le maximum de force rotationnelle, un seul suffit",
+  "chapter.stage.1.quest.10.description.4" : "Comparé aux anciennes versions de create, il n'est plus nécessaire de mettre plusieurs courants pour avoir le maximum de force rotationnelle, un seul suffit",
 
   "chapter.stage.1.quest.11.subtitle.1": "Elle est composée d'un support de moulin à vent et de voiles.",
   "chapter.stage.1.quest.11.description.1": "N'importe quel bloc peut être attaché à l'avant du support de moulin à vent, mais seules la laine et les voiles produiront de l'énergie. La laine ou les voiles peuvent être placés dans n'importe quelle configuration, car la forme n'a pas d'importance.",
   "chapter.stage.1.quest.11.description.2": "La Super Glue est nécessaire pour attacher les blocs ensemble. Les voiles se connecteront les unes aux autres et aux blocs déjà attachés sans avoir besoin d'utiliser de Super Glue. Cliquez avec le bouton droit de la souris sur le palier de moulin à vent avec une main vide pour démarrer le moulin à vent.",
-  "chapter.stage.1.quest.11.description.3": "Si vous souhaitez l'arrêter pour changer les blocs attachés, cliquez simplement à nouveau sur le bloc avec une main vide. Une clé anglaise peut être utilisée pour changer la direction de rotation du moulin à vent.",
+  "chapter.stage.1.quest.11.description.3": "Si vous souhaitez l'arrêter pour changer les blocs attachés, cliquez simplement à nouveau sur le bloc avec une main vide. Une clé Create peut être utilisée pour changer la direction de rotation du moulin à vent.",
 
-  "chapter.stage.1.quest.12.subtitle.1": "La presse mécanique est un composant mécanique qui applique pressions aux objets situés en dessous d'elle pour faire des crafts de pressage ou de compactage.",
+  "chapter.stage.1.quest.12.subtitle.1": "La presse mécanique est un composant qui compresse les objets situés en dessous d'elle pour faire des crafts.",
   "chapter.stage.1.quest.12.description.1": "C'est un objet important en début de partie, car il est utilisé pour presser les lingots en plaques, qui sont des ingrédients importants pour les composants de niveau supérieur.",
   "chapter.stage.1.quest.12.description.2": "La presse mécanique est alimentée par un rotor interne, accessible depuis deux côtés opposés. Tout comme les rotors, les presses transmettent la rotation le long de leur axe. Elle traite les objets plus rapidement lorsqu'elle reçoit une vitesse de rotation plus élevée.",
-  "chapter.stage.1.quest.12.description.3":"Par défaut, la presse mécanique appliquera des crafts de pressage aux objets situés en dessous d'elle. Cela peut être configuré de deux manières :",
-  "chapter.stage.1.quest.12.description.4":"● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal redstone (comme un levier). Les objets sans craft de pressage ne sont pas affectés.",
-  "chapter.stage.1.quest.12.description.5":"● Lorsqu'elle est placée à un bloc au-dessus d'une bande mécanique, elle pressera automatiquement les tas d'objets entrants, arrêtant la bande jusqu'à ce que chaque opération soit terminée. Les objets sans craft de pressage sont ignorés.",
+  "chapter.stage.1.quest.12.description.3": "Par défaut, la presse mécanique appliquera des crafts de pressage aux objets situés en dessous d'elle. Cela peut être configuré de deux manières :",
+  "chapter.stage.1.quest.12.description.4": "● Lorsqu'elle est placée à un bloc au-dessus de n'importe quel bloc, elle traitera tous les tas d'objets valides présents sur le bloc lorsqu'elle reçoit une puissance de rotation et un signal de redstone (comme un levier). Les objets sans craft de pressage ne sont pas affectés.",
+  "chapter.stage.1.quest.12.description.5": "● Lorsqu'elle est placée à un bloc au-dessus d'une bande mécanique, elle pressera automatiquement les tas d'objets entrants, arrêtant la bande jusqu'à ce que chaque opération soit terminée. Les objets sans craft de pressage sont ignorés.",
 
   "chapter.stage.1.quest.13.title.1": "Papier de verre",
   "chapter.stage.1.quest.13.subtitle.1": "Pressons du Sable",
@@ -313,8 +313,8 @@
 
   "chapter.stage.1.quest.18.subtitle.1": "Le Mixeur Mécanique",
   "chapter.stage.1.quest.18.description.1" : "Le Mixeur Mécanique est alimenté par une roue dentée interne et se comportera comme une telle avec tous les composants adjacents, transmettant et inversant la rotation latéralement.",
-  "chapter.stage.1.quest.18.description.2" : "Le Mixeur Mécanique a besoins d'une vitesse de rotation minimale de 32 RPM (tours par minute). Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
-  "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'un craft valide est insérée en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
+  "chapter.stage.1.quest.18.description.2" : "Le Mixeur Mécanique a besoin d'une vitesse de rotation minimale de 32 RPM (tours par minute). Plus il est alimenté avec de la vitesse, plus il traitera rapidement les ingrédients.",
+  "chapter.stage.1.quest.18.description.3" : "Pour fonctionner, un mélangeur doit être placé directement au-dessus d'un bassin, avec un espace d'un bloc entre les deux. Lorsqu'un craft valide est inséré en jetant les ingrédients dans le mélangeur, celui-ci combinera automatiquement les ingrédients.",
   "chapter.stage.1.quest.18.description.4" : "Le mélangeur mécanique peut être utilisé pour réaliser des crafts de mélange qui ne peuvent être réalisées nulle part ailleurs.",
 
   "chapter.stage.1.quest.19.title.1": "Visiter la dimension : &cLe Nether",
@@ -322,8 +322,8 @@
   "chapter.stage.1.quest.19.description.1" : "On vous suggère de vous préparer avant de visiter &4le Nether&r... Ou Sinon...",
 
   "chapter.stage.1.quest.20.subtitle.1": "Une chasse d'Enfer...",
-  "chapter.stage.1.quest.20.description.1" : "Lorsque vous trouverez une forteresse, n'oubliez pas d'apporter le &cbrûleur de Blaze&r pour capturer un Blaze.",
-  "chapter.stage.1.quest.20.description.2" : "Cela vous donnera un &4brûleur de Blaze&r.",
+  "chapter.stage.1.quest.20.description.1" : "Lorsque vous trouverez une forteresse, n'oubliez pas d'apporter le &cbrûleur de Blaze vide&r pour capturer un Blaze.",
+  "chapter.stage.1.quest.20.description.2" : "Cela vous donnera un &4brûleur de Blaze plein&r.",
 
   "chapter.stage.1.quest.21.subtitle.1": "Capturer des Blazes",
   "chapter.stage.1.quest.21.description.1" : "N'oubliez pas d'apporter des potions de résistance au feu !",
@@ -339,7 +339,7 @@
   "chapter.stage.1.quest.24.description.1" : "Utiliser le Déployeur précédemment créé pourrait être une bonne idée... juste en passant.",
 
   "chapter.stage.1.quest.25.subtitle.1": "Un nouveau type de création",
-  "chapter.stage.1.quest.25.description.1" : "Un ensemble d'établis méchaniques peut être utilisé pour automatiser n'importe quelle craft.",
+  "chapter.stage.1.quest.25.description.1" : "Un ensemble d'établis méchaniques peut être utilisé pour automatiser n'importe quel craft.",
   "chapter.stage.1.quest.25.description.2" : "Tous les chemins doivent converger et mener à une même sortie pour finaliser le craft.",
 
   "chapter.stage.1.quest.26.subtitle.1": "Un composant vraiment utile",
@@ -348,7 +348,7 @@
   "chapter.stage.1.quest.26.description.3" : "Info : automatiser le Mécanisme de Précision serait une bonne idée.",
 
   "chapter.stage.1.quest.27.subtitle.1": "Exploitation minière avec Create !",
-  "chapter.stage.1.quest.27.description.1" : "Premièrement : Utilisez un Ore Vain Finder (Détecteur de filons de minerais) pour localiser les chunks qui contiennent minerais.",
+  "chapter.stage.1.quest.27.description.1" : "Premièrement : Utilisez un Ore Vein Finder (Détecteur de filons de minerais) pour localiser les chunks qui contiennent minerais.",
   "chapter.stage.1.quest.27.description.2" : "Deuxièmement : Placez une Machine de forage ou un Extracteur de fluides pour récolter les ressources et installez un foret.",
   "chapter.stage.1.quest.27.description.3" : "Enfin : Ajoutez de la rotation et extrayez les ressources.",
   "chapter.stage.1.quest.27.description.4" : "Info : Pour obtenir plus d'informations, vous pouvez appuyer sur la touche 'Z' par défaut.",
@@ -357,7 +357,7 @@
   "chapter.stage.1.quest.29.description.1" : "Comme pour le forage, trouvez un fluide à extraire et répétez les mêmes étapes.",
 
   "chapter.stage.1.quest.30.subtitle.1": "Un meilleur œil",
-  "chapter.stage.1.quest.30s.description.1" : "Utilisé pour localiser des minerais ou des fluides à extraire avec la Foreuse ou le Puits.",
+  "chapter.stage.1.quest.30s.description.1" : "Utilisé pour localiser des minerais ou des fluides à extraire avec la Foreuse ou le Puit.",
 
   "chapter.stage.1.quest.31.subtitle.1": "Démarrage de Tinker !",
   "chapter.stage.1.quest.31.description.1" : "Tinker est un mod vraiment utile ! Je suppose que vous devriez regarder le craft pour avancer.",
@@ -380,7 +380,7 @@
 
   "chapter.stage.1.quest.36.title.1": "Le Premier Four",
   "chapter.stage.1.quest.36.subtitle.1": "Votre première 'Fonderie', Le Melter !",
-  "chapter.stage.1.quest.36.description.1" : "Avant de construire la grande et vieille fonderie, vous devriez fabriquer le Melter en premier.",
+  "chapter.stage.1.quest.36.description.1" : "Avant de construire la grande fonderie, vous devriez fabriquer le Fondeur en premier.",
   "chapter.stage.1.quest.36.description.2" : "Toutes les pièces nécessaires sont répertoriées dans cette quête.",
 
   "chapter.stage.1.quest.37.title.1": "La Fonderie",
@@ -442,7 +442,7 @@
   "chapter.stage.1.quest.50.description.9": "Pour terminer une craft, cliquez sur la flèche verte en haut de l'interface utilisateur (GUI). Les crafts prennent du temps à être fabriquées, ce qui est indiqué par une barre de progression le long du haut. Une fois terminée, l'Inscription Table dépose la craft de sort dans le coin supérieur droit de l'interface utilisateur (GUI).",
 
   "chapter.stage.1.quest.51.subtitle.1": "Forgeage de Runes",
-  "chapter.stage.1.quest.51.description.1": "&5La Runeforge&r est utilisé comme un four pour affiner plusieurs objets. Mais faites attention au niveau requis.",
+  "chapter.stage.1.quest.51.description.1": "&5La Runeforge&r est utilisée comme un four pour affiner plusieurs objets. Mais faites attention au niveau requis.",
   "chapter.stage.1.quest.51.description.2": "Il peut être utilisé pour créer des crafts uniques comme &5&ll'Essence Of Darkness&r de Chroma Endless 2 !",
 
   "chapter.stage.1.quest.52.subtitle.1": "Maître du Concassage",
@@ -523,11 +523,11 @@
   "chapter.stage.2.quest.15.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
   "chapter.stage.2.quest.16.subtitle.1": "Utilisation de &6La Raffinerie&r.",
-  "chapter.stage.2.quest.16.description.1": "Obtenir ce liquide vous permettra de progresser davantage dans cette étape.",
+  "chapter.stage.2.quest.16.description.1": "Obtenir ce liquide vous permettra de progresser d'avantage dans cette étape.",
 
   "chapter.stage.2.quest.17.title.1": "Regardez une &6Embouteilleuse&r complète.",
   "chapter.stage.2.quest.17.subtitle.1": "L'&6Embouteilleuse&r",
-  "chapter.stage.2.quest.17.description.1": "Elle est principalement utilisé pour remplir n'importe quel objet avec un fluide.",
+  "chapter.stage.2.quest.17.description.1": "Elle est principalement utilisée pour remplir n'importe quel objet avec un fluide.",
   "chapter.stage.2.quest.17.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.17.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
 
@@ -644,7 +644,7 @@
 
   "chapter.stage.2.quest.53.title.1": "Visitez la dimension : &bEverBright&r",
   "chapter.stage.2.quest.53.subtitle.1": "Accéder au \"paradis\"",
-  "chapter.stage.2.quest.53.description.1": "L'Everbright est le royaume du jour éternel et du froid glacial. Habité par de grandes bêtes et par des créatures ésothériques , vous devrez garder un œil sur votre arrière lorsque vous traverserez ce monde.",
+  "chapter.stage.2.quest.53.description.1": "L'Everbright est le royaume du jour éternel et du froid glacial. Habité par de grandes bêtes et par des créatures ésothériques , vous devrez garder un œil des alentours lorsque vous traverserez ce monde.",
   "chapter.stage.2.quest.53.description.2": "Prenez garde aux tempêtes de neige, car vous serez plongé dans un brouillard opaque, en plus de devenir la proie des prédateurs qui rodent dans les parages",
   "chapter.stage.2.quest.53.description.3": "Lors de votre exploration, vous rencontrerez le Donjon Aveuglant de l'Invocateur (Summoner's Blinding Dungeon) et le nouveau Donjon Naturel (Nature Dungeon), où se trouve le Broyeur Étoilé (Starlit Crusher).",
 
@@ -697,7 +697,7 @@
   "chapter.stage.2.quest.65.description.1" : "Ce bloc peut transférer du mana vers n'importe quel bloc de stockage de mana de Botania en utilisant la &2Baguette de la Forêt&r.",
 
   "chapter.stage.2.quest.66.subtitle.1": "L'acier rencontre le mana",
-  "chapter.stage.2.quest.66.description.1": "On peut obtenir du manacier en jetant un lingot d'acier dans un Bassin de Mana.",
+  "chapter.stage.2.quest.66.description.1": "On peut obtenir du fer de mana en jetant un lingot de fer dans un Bassin de Mana.",
 
   "chapter.stage.2.quest.67.subtitle.1": "Fabrication de Runes",
   "chapter.stage.2.quest.67.description.1": "La \"Runescribing Table\" est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
@@ -752,7 +752,7 @@
   "chapter.stage.2.quest.82.subtitle.1": "Luxe Terrestre",
 
   "chapter.stage.2.quest.83.title.1": "Visiter la Dimension : &5Le Néant&r",
-  "chapter.stage.2.quest.83.subtitle.1" : "L'Entre du Dragon",
+  "chapter.stage.2.quest.83.subtitle.1" : "L'Antre du Dragon",
   "chapter.stage.2.quest.83.description.1": "Une fois dans l'End, vous serez en mesure d'obtenir un objet principal pour la progression, en plus des nombreuses choses que vous pouvez y trouver.",
   "chapter.stage.2.quest.83.description.2": "L'objet &aBouteille d'Air du néant&r est obtenu avec un clic droit dans l'end avec une fiole vide.",
   "chapter.stage.2.quest.83.description.3": "Un clic droit avec cet objet le lancera. Il convertira jusqu'à 64 blocs de Roche en Pierre de l'End dans une zone de 7x7x7 autour de la zone d'impact.",
@@ -781,7 +781,7 @@
   "chapter.stage.2.quest.88.description.3": "Vous en aurez besoin pour débloquer Powah et fabriquer le \"Silicon Paste\".",
 
   "chapter.stage.2.quest.89.subtitle.1": "Beaucoup de ressources",
-  "chapter.stage.2.quest.89.description.1": "Fabriquez le Mining Portal, puis faites un clic droit dessus. Vous voilà dans la dimension du minage !",
+  "chapter.stage.2.quest.89.description.1": "Fabriquez le Mining Portal, puis faites un clic droit dessus. Vous voilà dans la dimension minage !",
 
   "chapter.stage.2.quest.90.title.1": "Regardez une &6Presse-fruits industrielle&r complète.",
   "chapter.stage.2.quest.90.subtitle.1": "La &6Presse à fruits&r",
