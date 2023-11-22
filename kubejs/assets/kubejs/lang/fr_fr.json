@@ -10,7 +10,7 @@
   "chapter.welcome.quest.1.description.1": "BisectHosting propose un hébergement de serveur simple, rapide et de haute qualité, avec plus d'une douzaine d'emplacements disponibles dans le monde entier, garantissant une faible latence. Après votre achat, le serveur est déjà configuré et prêt à être utilisé.",
   "chapter.welcome.quest.1.description.2": "Utilisez le code &l&bCHROMATECH&r pour obtenir une réduction de 25% sur votre premier mois en tant que nouveau client pour l'un de leurs serveurs de jeux.",
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
-  
+
   "chapter.welcome.quest.2.title.1": "Posséder & Charger un terrain",
   "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\nCliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
 
@@ -904,7 +904,7 @@
   "chapter.stage.3.quest.32.description.1" : "Il suffit d'infuser un Circuit de Contrôle Avancé avec une infusion d'Acier Compressé.",
 
   "chapter.stage.3.quest.33.subtitle.1": "Tablette Utile",
-  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est un pack de batterie portable et rechargable qui peut être chargé avec jusqu'à 1 000 kJ d'énergie, puis utilisé pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses crafts.",
+  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est un pack de batterie portable et rechargeable qui peut être chargé avec jusqu'à 1 000 kJ d'énergie, puis utilisé pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses crafts.",
 
   "chapter.stage.3.quest.34.subtitle.1": "La nuit est ennuyeuse",
   "chapter.stage.3.quest.34.description.1" : "Génère de l'énergie Forge grâce à la puissance du soleil. Peut être amélioré ultérieurement.",
@@ -912,7 +912,7 @@
   "chapter.stage.3.quest.35.subtitle.1": "Énergie Éolienne !",
   "chapter.stage.3.quest.35.description.1" : "Génère de l'énergie Forge grâce à la puissance du vent.",
 
-  "chapter.stage.3.quest.36.subtitle.1": "Un Autre Compresseur",<
+  "chapter.stage.3.quest.36.subtitle.1": "Un Autre Compresseur",
   "chapter.stage.3.quest.36.description.1" : "Le &bCompresseur d'Osmium&f est utilisé pour créer des &aLingots d'Obsidienne Raffinée&f à partir de la Poussière d'Obsidienne Raffinée et des &aLingots de Pierre Lumineuse&f à partir de la Poussière de Pierre Lumineuse.",
 
   "chapter.stage.3.quest.37.subtitle.1": "Fusion Arcanique du Flux",
