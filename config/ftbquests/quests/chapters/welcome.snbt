@@ -35,11 +35,6 @@
 				""
 				"{chapter.welcome.quest.12.description.7}"
 			]
-			dependencies: [
-				"61808EE328D7FBFD"
-				"13EA8C7388E3EC86"
-				"1555A7B370CA8371"
-			]
 			size: 2.0d
 			min_width: 400
 			id: "51B5C098A8CFF70E"
@@ -96,13 +91,6 @@
 							Damage: 0
 						}
 					}
-				}
-				{
-					id: "62661898C029F5E8"
-					type: "item"
-					team_reward: false
-					item: "minecraft:apple"
-					count: 16
 				}
 			]
 		}

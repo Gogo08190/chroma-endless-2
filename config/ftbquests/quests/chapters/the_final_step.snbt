@@ -322,6 +322,11 @@
 				type: "item"
 				item: "functionalstorage:creative_vending_upgrade"
 			}]
+			rewards: [{
+				id: "206794606E0ED703"
+				type: "item"
+				item: "functionalstorage:creative_vending_upgrade"
+			}]
 		}
 		{
 			x: -1.5d

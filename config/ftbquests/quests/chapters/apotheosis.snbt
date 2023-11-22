@@ -12,6 +12,7 @@
 			title: "{chapter.apotheosis.quest.2.title}"
 			x: -7.0d
 			y: -2.5d
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "13EA8C7388E3EC86"
 			tasks: [
 				{
@@ -95,6 +96,7 @@
 			title: "{chapter.apotheosis.quest.1.title}"
 			x: -8.5d
 			y: 1.5d
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "61808EE328D7FBFD"
 			tasks: [
 				{
@@ -131,6 +133,7 @@
 			x: -7.0d
 			y: -0.5d
 			description: ["{image:chroma:textures/quests/enchant_full.png width:100 height:100 align:1 fit:true}"]
+			dependencies: ["51B5C098A8CFF70E"]
 			id: "1555A7B370CA8371"
 			tasks: [
 				{
