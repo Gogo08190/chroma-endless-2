@@ -879,21 +879,21 @@
   "chapter.stage.3.quest.24.description.6": "La Chambre de Pression doit également contenir 2 interfaces, une pour insérer les objets et une autre les retirer une fois qu'ils ont été compressés. Cela permet d'automatiser le processus, notamment avec des câbles de transports d'objets.",
 
   "chapter.stage.3.quest.25.subtitle.1": "Refroidissement du Plastique",
-  "chapter.stage.3.quest.25.description.1": "Refroidissez du Plastique Liquide contenu dans un seau ou un réservoir de liquide du mod pneumaticcraft à l'aide du Cadre de Chaleur et obtenez une ou deux Feuilles de Plastique en fonction de la fraicheur du Cadre en échange de 1000Mb de Plastique Liquide.",
+  "chapter.stage.3.quest.25.description.1": "Refroidissez du Plastique Liquide contenu dans un seau ou d'un \"Fluid Tank\" du mod pneumaticcraft à l'aide du \"Heat Frame\" et obtenez une ou deux Feuilles de Plastique en fonction de la fraicheur du Cadre en échange de 1000Mb de Plastique Liquide.",
 
   "chapter.stage.3.quest.26.subtitle.1": "Premier Composant Pneumatique",
-  "chapter.stage.3.quest.26.description.1": "Utilisez la Chambre de Pression pour fabriquer le Transistor.",
+  "chapter.stage.3.quest.26.description.1": "Utilisez la Chambre de Pression pour fabriquer le \"Transistor\".",
 
   "chapter.stage.3.quest.27.subtitle.1": "Un autre Composant Pneumatique",
-  "chapter.stage.3.quest.27.description.1": "Utilisez la Chambre de Pression pour fabriquer le Condensateur.",
+  "chapter.stage.3.quest.27.description.1": "Utilisez la Chambre de Pression pour fabriquer le \"Condensator\".",
 
   "chapter.stage.3.quest.28.subtitle.1": "Première Infusion",
-  "chapter.stage.3.quest.28.description.1": "Il suffit d'infuser un Lingot d'Acier Compressé avec une infusion de Redstone.",
+  "chapter.stage.3.quest.28.description.1": "Il suffit d'infuser un Lingot d'Acier Compressé avec de la Redstone.",
 
   "chapter.stage.3.quest.29.subtitle.1": "Préparation d'Enrichissement",
-  "chapter.stage.3.quest.29.description.1": "Cette machine utilise de l'énergie pour extraire des &6poussières&r de certains blocs et minerais, ce qui en fait un élément essentiel pour produire différents types d'outils.",
+  "chapter.stage.3.quest.29.description.1": "Cette machine utilise de l'énergie pour extraire des poudres de certains blocs et minerais, ce qui en fait un élément essentiel pour produire différents types d'outils.",
   "chapter.stage.3.quest.29.description.2": "Ne pas confondre avec le &6Broyeur&f, cette machine est l'équivalent du pulvérisateur dans d'autres mods.",
-  "chapter.stage.3.quest.29.description.3": "Info : Cela apporte plus de types d'infusion dans vos fabrications d'Infusion.",
+  "chapter.stage.3.quest.29.description.3": "Info : Cela apporte de nouveaux types d'infusion dans vos fabrications d'Infusion.",
 
   "chapter.stage.3.quest.30.subtitle.1": "Enrichissement de l'Acier Compressé",
 
