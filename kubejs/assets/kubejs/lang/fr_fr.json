@@ -12,12 +12,12 @@
   "chapter.welcome.quest.1.description.3" : "Code promo : &l&aCHROMATECH&r",
 
   "chapter.welcome.quest.2.title.1": "Posséder & Charger un terrain",
-  "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\nCliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
+  "chapter.welcome.quest.2.description.1" : "FTB Chunks vous permet de &4réclamer des chunks&r pour &4protéger&r vos blocs. Il dispose également d'une &9minicarte et d'une plus grande carte&r ! Vous pouvez la trouver dans le coin supérieur gauche de votre inventaire. \n\n&6Cliquez-droit&r n'importe où sur la carte pour créer un waypoint. \n\n&6Cliquez-droit&r sur les waypoints et les points de mort pour les modifier ou les supprimer.\n\n Cliquez sur le &1bouton des chunks claims&r, puis cliquez gauche ou &6droit&r sur la carte pour sélectionner les chunks qui vous appartiendront. &6Maintenez la touche Maj gauche&r ou &6cliquez-droit&r sur les chunks claims pour basculer le chargement forcé.",
 
   "chapter.welcome.quest.3.title.1": "Ultimine",
-  "chapter.welcome.quest.3.description.1" : "&6&lFTB Ultimine&r est un mod très utile pour l'exploitation minière.",
+  "chapter.welcome.quest.3.description.1" : "&6&lFTB Ultimine&r est un mod très utile pour miner.",
   "chapter.welcome.quest.3.description.2" : "En effet, en utilisant la touche ² (par défaut), vous verrez un contour blanc qui sera appelé la &c&lZone Ultimine&r et qui représente ce que vous allez miner.",
-  "chapter.welcome.quest.3.description.3" : "Cette &c&lZone Ultimine&r peut être modifiée. En fait, si vous continuez à appuyer sur la touche ² + scroll de la souris, vous pouvez changer la forme de cette zone et trouver celle qui vous convient le mieux.",
+  "chapter.welcome.quest.3.description.3" : "Cette &c&lZone Ultimine&r peut être modifiée. Si vous continuez à appuyer sur la touche ² + scroll de la souris, vous pouvez changer la forme de cette zone et trouver celle qui vous convient le mieux.",
 
   "chapter.welcome.quest.4.title.1": "Équipes",
   "chapter.welcome.quest.4.description.1" : "Pour partager vos quêtes avec vos amis, vous devez créer une équipe.",
@@ -26,9 +26,9 @@
   "chapter.welcome.quest.4.description.4" : "Vos amis n'ont qu'à accepter, et vous êtes maintenant dans une équipe.",
 
   "chapter.welcome.quest.5.title.1": "Quêtes",
-  "chapter.welcome.quest.5.description.1" : "En fait, une &8quête&r par défaut ne nécessite pas de &7&ldépendance&r, vous pouvez donc la faire dès maintenant ou plus tard, c'est à vous de décider.",
+  "chapter.welcome.quest.5.description.1" : "Une &8quête&r par défaut ne nécessite pas de &7&ldépendance&r, vous pouvez donc la faire dès maintenant ou plus tard, c'est à vous de décider.",
   "chapter.welcome.quest.5.description.2" : "Comme vous pouvez le constater, la majorité des quêtes nécessitent une &7&ldépendance&r. Pour les débloquer, vous pouvez cliquer sur la &4&l&nFlèche Rouge Clignotante&r pour afficher la ou les &7&ldépendances&r nécessaires.",
-  "chapter.welcome.quest.5.description.3" : "Dans le modpack Chroma Endless 2, les joueurs peuvent suivre un chemin guidé de progression grâce aux quêtes de (&l&6Avancement principal&r). Ces quêtes principales orientent et structurent l'expérience de jeu. Par ailleurs, il existe également des (&l&6Quêtes secondaires&r) qui sont des quêtes optionnelles centrées sur divers mods. Ces quêtes secondaires ne sont pas nécessaires pour avancer dans la progression principale du modpack, offrant ainsi aux joueurs la liberté d'explorer et d'expérimenter à leur propre rythme.",
+  "chapter.welcome.quest.5.description.3" : "Dans le modpack Chroma Endless 2, les joueurs peuvent suivre un chemin guidé de progression grâce aux quêtes de &l&6Avancement principal&r. Ces quêtes principales orientent et structurent l'expérience de jeu. Par ailleurs, il existe également des &l&6Quêtes secondaires&r qui sont des quêtes optionnelles centrées sur divers mods. Ces quêtes secondaires ne sont pas nécessaires pour avancer dans la progression principale du modpack, offrant ainsi aux joueurs la liberté d'explorer et d'expérimenter à leur propre rythme.",
 
   "chapter.welcome.quest.6.title.1": "Se Nourrir",
   "chapter.welcome.quest.6.description.1" : "&aSpice of Life: Carrot Edition&r permet de suivre le nombre d'aliments uniques qu'un joueur a consommés. À mesure qu'ils atteignent certains paliers de quantités d'aliments uniques, ils gagnent de manière permanente de nouveaux cœurs, augmentant ainsi leur santé maximale ! Pour atteindre le maximum de leurs barres de points de vie, les joueurs devront partir en quête et fabriquer des aliments exotiques.",
@@ -47,11 +47,11 @@
 
   "chapter.welcome.quest.9.title.1": "Boutique",
   "chapter.welcome.quest.9.subtitle.1" : "Je suis un rat !",
-  "chapter.welcome.quest.9.description.1" : "Vous pouvez gagner des pièces en accomplissant des quêtes (chaque niveau de pièces dépend de la difficulté de la quête).",
+  "chapter.welcome.quest.9.description.1" : "Vous pouvez gagner des pièces en accomplissant des quêtes. (Chaque niveau de pièces dépend de la difficulté de la quête).",
   "chapter.welcome.quest.9.description.2" : "Les pièces sont utilisées pour faire du commerce avec les villageois.",
   "chapter.welcome.quest.9.description.3" : "Vous pouvez faire un clic droit sur les pièces pour les stocker dans votre sac d'argent personnel (trouvé dans le coin supérieur droit de l'inventaire du joueur).",
   "chapter.welcome.quest.9.description.4" : "Le coût des objets est plus élevé en fonction de leur rareté.",
-  "chapter.welcome.quest.9.description.5" : "Les pièces ont différents niveaux :\n\n                    (&#C86A13Cuivre&r > &#bcbcbcArgent&r > &#FFBE0AOr&r)",
+  "chapter.welcome.quest.9.description.5" : "Les pièces ont différents niveaux :\n\n (&#C86A13Cuivre&r > &#bcbcbcArgent&r > &#FFBE0AOr&r)",
 
   "chapter.welcome.quest.10.title.1": "Langues",
   "chapter.welcome.quest.10.description.1" : "Sur Chroma Endless 2, nous avons voulu rendre les quêtes accessibles à tous, suivant la langue que vous parlez.",
@@ -176,7 +176,7 @@
 
   "chapter.challenges.title.bis": "Tuez 1.000.000 Mobs",
 
-  "chapter.challenges.pickaxe": "Creuser avec le mode destruction de la pioche appelée : \"Voleur d'éclat de verre\" au rang SS",
+  "chapter.challenges.pickaxe": "Creuser avec le mod destruction de la pioche appelée : 'Voleur d'éclat de verre' au rang SS",
 
   "chapter.challenges.love": "Accoupler 1500 Animaux",
 
@@ -212,7 +212,7 @@
   "chapter.useful.torch.description.2": "・La Mega Torche empêche également la mort naturelle des monstres à l'intérieur de son rayon. Les monstres à l'extérieur de la Mega Torche peuvent toujours entrer dans sa zone d'effet.",
 
   "chapter.useful.quest.1.subtitle": "Géant ou Petit ?",
-  "chapter.useful.quest.1.description": "En maintenant la touche Maj enfoncée et en cliquant avec le bouton droit de la souris, vous pouvez rétrécir ou agrandir votre personnage en échange d'énergie RF/Forge. Cette fonction vous permet d'accéder à des endroits normalement inaccessibles sans avoir à casser des blocs. De plus, vous pouvez capturer une entité dans une fiole avec un clic gauche sur l'entité avec le shrink, puis avec un clic droit avec une fiole sur l'entité dont la taille a été modifiée.",
+  "chapter.useful.quest.1.description": "En maintenant la touche Maj enfoncée et en cliquant avec le bouton droit de la souris, vous pouvez rétrécir ou agrandir votre personnage en échange d'énergie RF/Forge. Cette fonction vous permet d'accéder à des endroits normalement inaccessibles sans avoir à casser des blocs. De plus, vous pouvez capturer une entité dans une fiole avec un clic gauche sur l'entité avec l'item, puis avec un clic droit avec une fiole sur l'entité dont la taille a été modifiée.",
 
   "chapter.useful.quest.2.subtitle": "Dimension dans un Bloc",
   "chapter.useful.quest.2.description": "Une compacte machine est un bloc qui permet de simuler un espace virtuel en forme de cube incassable. Pour y acceder, il suffit de faire un clic droit avec un Personnal Shrinking Device sur une Compact Machine",
@@ -230,7 +230,7 @@
   "chapter.useful.quest.6.subtitle": "Calculateur d'Énergie",
   "chapter.useful.quest.6.description": "Un bloc simple que vous pouvez utiliser pour mesurer les taux de transfert d'énergie avec un affichage en temps réel.",
 
-  "chapter.useful.quest.7.subtitle": "Recherche de Biome",
+  "chapter.useful.quest.7.subtitle": "Recherche de Biomes",
   "chapter.useful.quest.7.description": "Trouvez tous les biomes disponibles dans le jeu dont les biomes ajoutés par les mods. Assurez-vous d'être dans la bonne dimension avant de chercher un biome.",
 
   "Quêtes principales" : "---------------------------------------------------------------------------------------------------------------------------------------------------",
@@ -272,7 +272,7 @@
   "chapter.stage.1.quest.8.subtitle.1": "Les roues dentées sont un composant mécanique de base dans Create qui relaient la rotation",
   "chapter.stage.1.quest.8.description.1" : "Les roues dentées peuvent transmettre la rotation à une autre roue dentée adjacente.",
   "chapter.stage.1.quest.8.description.2" : "Si une roue dentée A est collée à une roue dentée B, alors la roue B tournera dans le sens inverse de celui de la roue A.",
-  "chapter.stage.1.quest.8.description.3" : "Vous pouvez utiliser, par défaut, la touche 'Z' pour avoir plus d'informations sur les roues dentées.",
+  "chapter.stage.1.quest.8.description.3" : "Vous pouvez utiliser, par défaut, la touche 'Z' (par défaut) pour avoir plus d'informations sur les roues dentées.",
 
   "chapter.stage.1.quest.9.subtitle.1": "Une plus grosse roue!",
   "chapter.stage.1.quest.9.description.1" : "Info : Les grandes roues dentées et les roues dentées ne peuvent être reliées qu'en diagonale!",
@@ -562,7 +562,7 @@
   "chapter.stage.2.quest.27.subtitle.1": "Impression de Quartz Certus",
 
   "chapter.stage.2.quest.28.title.1": "Regardez un &6Four d'Arcs&r complet.",
-  "chapter.stage.2.quest.28.subtitle.1": "Le &6Four d'Arcs&r.",
+  "chapter.stage.2.quest.28.subtitle.1": "Le &6Four à Arcs&r.",
   "chapter.stage.2.quest.28.description.1": "Ceci est principalement utilisé pour fondre des objets avancés et obtenir des processeurs. ",
   "chapter.stage.2.quest.28.description.2": "Pour construire cette structure, vous pouvez consulter le &6Manuel de l'Ingénieur&r.",
   "chapter.stage.2.quest.28.description.3": "Info : Le bloc rouge est l'endroit où vous devriez cliquer pour former le multibloc.",
@@ -643,7 +643,7 @@
   "chapter.stage.2.quest.52.description.3": "Vous pouvez trouver les maisons de guardiens dans les plaines, les montagnes et la plupart des biomes enneigés.",
 
   "chapter.stage.2.quest.53.title.1": "Visitez la dimension : &bEverBright&r",
-  "chapter.stage.2.quest.53.subtitle.1": "Accéder au \"paradis\"",
+  "chapter.stage.2.quest.53.subtitle.1": "Accéder au 'paradis'",
   "chapter.stage.2.quest.53.description.1": "L'Everbright est le royaume du jour éternel et du froid glacial. Habité par de grandes bêtes et par des créatures ésothériques , vous devrez garder un œil des alentours lorsque vous traverserez ce monde.",
   "chapter.stage.2.quest.53.description.2": "Prenez garde aux tempêtes de neige, car vous serez plongé dans un brouillard opaque, en plus de devenir la proie des prédateurs qui rodent dans les parages",
   "chapter.stage.2.quest.53.description.3": "Lors de votre exploration, vous rencontrerez le Donjon Aveuglant de l'Invocateur (Summoner's Blinding Dungeon) et le nouveau Donjon Naturel (Nature Dungeon), où se trouve le Broyeur Étoilé (Starlit Crusher).",
@@ -671,7 +671,7 @@
   "chapter.stage.2.quest.59.subtitle.1": "Bois Purifié",
   "chapter.stage.2.quest.59.description.1": "La bûche de Vifbois (Livingwood Log) est créé en plaçant une bûche d'&7Érable&r adjacent à une Pâquerette Pure (Pure Daisy).",
   "chapter.stage.2.quest.59.description.2": "Après une minute, il se transformera en Vifbois.",
-  "chapter.stage.2.quest.59.description.3": "Le plant de l'Érable peut être trouvé dans la dimension Blue Skies dans le biome \"Sunset Maple Forest\".",
+  "chapter.stage.2.quest.59.description.3": "Le plant de l'Érable peut être trouvé dans la dimension Blue Skies dans le biome 'Sunset Maple Forest'.",
 
   "chapter.stage.2.quest.60.subtitle.1": "Viveroche",
   "chapter.stage.2.quest.60.description.1": "La Viveroche est créé en plaçant un bloc de &7Pierres Lunaires&r adjacent à une Pâquerette Pure.",
@@ -700,11 +700,11 @@
   "chapter.stage.2.quest.66.description.1": "On peut obtenir du fer de mana en jetant un lingot de fer dans un Bassin de Mana.",
 
   "chapter.stage.2.quest.67.subtitle.1": "Fabrication de Runes",
-  "chapter.stage.2.quest.67.description.1": "La \"Runescribing Table\" est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
-  "chapter.stage.2.quest.67.description.2": "Dans l'interface graphique, sur la gauche, il y a trois emplacements. L'emplacement supérieur est destiné au \"Runesmith's Hammer\", celui du milieu au \"Runesmith's Chisel\" et celui du bas à l'argile.",
+  "chapter.stage.2.quest.67.description.1": "La 'Runescribing Table' est utilisée pour fabriquer divers modèles de runes en utilisant un Runesmith's Hammer et un Runesmith's Chisel.",
+  "chapter.stage.2.quest.67.description.2": "Dans l'interface graphique, sur la gauche, il y a trois emplacements. L'emplacement supérieur est destiné au 'Runesmith's Hammer', celui du milieu au 'Runesmith's Chisel' et celui du bas à l'argile.",
   "chapter.stage.2.quest.67.description.3": "L'argile n'est pas nécessaire pour dessiner la rune, mais elle est nécessaire pour effacer les traits.",
-  "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du \"Rune Pattern\". En haut à droite de l'interface graphique se trouve un emplacement pour insérer un Schéma Runique (Runescribing Recipe de son nom anglais), qui affichera ensuite un motif en dessous de la rune.",
-  "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les \"Runescribing Recipes\". Lorsqu'un modèle de rune vierge est inséré, une grande grille de quadrillée apparaîtra.",
+  "chapter.stage.2.quest.67.description.4": "Vers le milieu droit de l'interface graphique se trouve l'emplacement du 'Rune Pattern'. En haut à droite de l'interface graphique se trouve un emplacement pour insérer un Schéma Runique (Runescribing Recipe de son nom anglais), qui affichera ensuite un motif en dessous de la rune.",
+  "chapter.stage.2.quest.67.description.5": "Les emplacements en bas à droite sont destinés à stocker les 'Runescribing Recipes'. Lorsqu'un modèle de rune vierge est inséré, une grande grille de quadrillée apparaîtra.",
   "chapter.stage.2.quest.67.description.6": "En cliquant gauche entre les points, vous dessinerez un trait pour les relier, ce qui utilisera de la durabilité de votre Chisel et de votre Hammer.",
   "chapter.stage.2.quest.67.description.7": "Vous pouvez effacer un trait en échange d'argile et d'XP en cliquant à nouveau sur celui que vous voulez effacer.",
   "chapter.stage.2.quest.67.description.8": "Une fois que vos marques correspondent à une rune, le motif de rune sera automatiquement terminé.",
@@ -727,19 +727,19 @@
   "chapter.stage.2.quest.73.description.5": "&8Le minerais de charbon&r drop 30%% de Chimerite Gem à partir du niveau de magie 20.",
 
   "chapter.stage.2.quest.74.subtitle.1": "Rune d'air",
-  "chapter.stage.2.quest.74.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
+  "chapter.stage.2.quest.74.description.1": "Cette rune doit d'abord être fabriquée avec la 'Runic Anvil', puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
   "chapter.stage.2.quest.75.subtitle.1": "Rune de feu",
-  "chapter.stage.2.quest.75.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
+  "chapter.stage.2.quest.75.description.1": "Cette rune doit d'abord être fabriquée avec la 'Runic Anvil', puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
   "chapter.stage.2.quest.76.subtitle.1": "Rune de terre",
-  "chapter.stage.2.quest.76.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
+  "chapter.stage.2.quest.76.description.1": "Cette rune doit d'abord être fabriquée avec la 'Runic Anvil', puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
   "chapter.stage.2.quest.77.subtitle.1": "Rune d'eau",
-  "chapter.stage.2.quest.77.description.1": "Cette rune doit d'abord être fabriquée avec la \"Runic Anvil\", puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
+  "chapter.stage.2.quest.77.description.1": "Cette rune doit d'abord être fabriquée avec la 'Runic Anvil', puis vous pourrez la fabriquer avec l'Autel runique du mod Botania.",
 
   "chapter.stage.2.quest.78.subtitle.1": "Découverte de la Connaissance Runique",
-  "chapter.stage.2.quest.78.description.1": "Le \"Runic Core\" est utilisé pour fabriquer l'Autel Runique.",
+  "chapter.stage.2.quest.78.description.1": "Le 'Runic Core' est utilisé pour fabriquer l'Autel Runique.",
 
   "chapter.stage.2.quest.79.subtitle.1": "L'Artisanat Runique",
   "chapter.stage.2.quest.79.description.1": "L'Autel Runique est utilisé pour fabriquer des runes.",
@@ -778,7 +778,7 @@
   "chapter.stage.2.quest.88.subtitle.1": "Transformation Magique",
   "chapter.stage.2.quest.88.description.1": "Le Catalyseur alchimique est utilisé pour transformer certains objets lorsqu'ils sont jetés dans un Bassin de Mana, en échange d'une quantitée de Mana stockée dans le bassin.",
   "chapter.stage.2.quest.88.description.2": "Il doit être collé en dessous d'un Bassin de Mana.",
-  "chapter.stage.2.quest.88.description.3": "Vous en aurez besoin pour débloquer Powah et fabriquer le \"Silicon Paste\".",
+  "chapter.stage.2.quest.88.description.3": "Vous en aurez besoin pour débloquer Powah et fabriquer le 'Silicon Paste'".",
 
   "chapter.stage.2.quest.89.subtitle.1": "Beaucoup de ressources",
   "chapter.stage.2.quest.89.description.1": "Fabriquez le Mining Portal, puis faites un clic droit dessus. Vous voilà dans la dimension minage !",
@@ -839,7 +839,7 @@
   "chapter.stage.3.quest.14.description.4": "• Gasoline",
   "chapter.stage.3.quest.14.description.5": "• Kerosene",
   "chapter.stage.3.quest.14.description.6": "• Diesel",
-  "chapter.stage.3.quest.14.description.7": "Le multibloc &5Raffinerie&r est créé en plaçant un \"Refinery Controller\" en bas, puis en empilant 2 à 4 \"Refinery Outputs\" au-dessus ou sur n'importe quel côté du Contrôleur.",
+  "chapter.stage.3.quest.14.description.7": "Le multibloc &5Raffinerie&r est créé en plaçant un 'Refinery Controller' en bas, puis en empilant 2 à 4 'Refinery Outputs' au-dessus ou sur n'importe quel côté du Contrôleur.",
 
   "chapter.stage.3.quest.15.subtitle.1": "L'Usine de Traitement",
   "chapter.stage.3.quest.15.description.1": "Cette machine est utilisée pour transformer des objets et/ou des liquides en d'autres objets/liquides.",
@@ -851,13 +851,13 @@
   "chapter.stage.3.quest.17.description.1": "Cet objet sera utile pour la suite du modpack, je vous suggère donc de mettre en place une automatisation.",
 
   "chapter.stage.3.quest.18.subtitle.1": "Transfert de Pression",
-  "chapter.stage.3.quest.18.description.1": "Les \"Pressure Tube\" déplacent l'air entre les compresseurs à air et les machines. Des modules de tube peuvent être placés dessus.",
+  "chapter.stage.3.quest.18.description.1": "Les 'Pressure Tube' (Tube de pressure) déplacent l'air entre les compresseurs à air et les machines. Des modules de tube peuvent être placés dessus.",
 
   "chapter.stage.3.quest.19.subtitle.1": "Un Meilleur Transfert de Pression",
-  "chapter.stage.3.quest.19.description.1": "Une version plus puissante du \"Pressure Tube\" de base.",
+  "chapter.stage.3.quest.19.description.1": "Une version plus puissante du 'Pressure Tube' (Tube de pressure) de base.",
 
   "chapter.stage.3.quest.20.subtitle.1": "Fabrication de Plastique Liquide",
-  "chapter.stage.3.quest.20.description.1": "Mélangez du LPG et du charbon dans le \"Thermopneumatic Processor\" et obtenez du Plastique Liquide.",
+  "chapter.stage.3.quest.20.description.1": "Mélangez du LPG et du charbon dans le 'Thermopneumatic Processor' et obtenez du Plastique Liquide.",
 
   "chapter.stage.3.quest.21.subtitle.1": "Première Génération d'Air",
   "chapter.stage.3.quest.21.description.1": "Pour générer de l'air comprimé avec cette machine, il vous suffit d'insérer n'importe quel combustible solide inflammable, à l'exception d'un seau de carburant (comme la lave).",
@@ -879,21 +879,21 @@
   "chapter.stage.3.quest.24.description.6": "La Chambre de Pression doit également contenir 2 interfaces, une pour insérer les objets et une autre les retirer une fois qu'ils ont été compressés. Cela permet d'automatiser le processus, notamment avec des câbles de transports d'objets.",
 
   "chapter.stage.3.quest.25.subtitle.1": "Refroidissement du Plastique",
-  "chapter.stage.3.quest.25.description.1": "Refroidissez du Plastique Liquide contenu dans un seau ou d'un \"Fluid Tank\" du mod pneumaticcraft à l'aide du \"Heat Frame\" et obtenez une ou deux Feuilles de Plastique en fonction de la fraicheur du Cadre en échange de 1000Mb de Plastique Liquide.",
+  "chapter.stage.3.quest.25.description.1": "Refroidissez du Plastique Liquide contenu dans un seau ou d'un 'Fluid Tank' (Réservoir de fluide) du mod pneumaticcraft à l'aide du 'Heat Frame' (Cadre de Chaleur) et obtenez une ou deux Feuilles de Plastique en fonction de la fraicheur du Cadre en échange de 1000Mb de Plastique Liquide.",
 
   "chapter.stage.3.quest.26.subtitle.1": "Premier Composant Pneumatique",
-  "chapter.stage.3.quest.26.description.1": "Utilisez la Chambre de Pression pour fabriquer le \"Transistor\".",
+  "chapter.stage.3.quest.26.description.1": "Utilisez la Chambre de Pression pour fabriquer le 'Transistor' (Réservoir de fluide).",
 
   "chapter.stage.3.quest.27.subtitle.1": "Un autre Composant Pneumatique",
-  "chapter.stage.3.quest.27.description.1": "Utilisez la Chambre de Pression pour fabriquer le \"Capacitor\".",
+  "chapter.stage.3.quest.27.description.1": "Utilisez la Chambre de Pression pour fabriquer le 'Capacitor'.",
 
   "chapter.stage.3.quest.28.subtitle.1": "Première Infusion",
-  "chapter.stage.3.quest.28.description.1": "Il suffit d'infuser un Lingot d'Acier Compressé avec de la Redstone.",
+  "chapter.stage.3.quest.28.description.1": "Il suffit d'infuser un Lingot d'Acier Compressé avec une infusion de Redstone.",
 
   "chapter.stage.3.quest.29.subtitle.1": "Préparation d'Enrichissement",
-  "chapter.stage.3.quest.29.description.1": "Cette machine utilise de l'énergie pour extraire des poudres de certains blocs et minerais, ce qui en fait un élément essentiel pour produire différents types d'outils.",
+  "chapter.stage.3.quest.29.description.1": "Cette machine utilise de l'énergie pour extraire des &6poudres&r de certains blocs et minerais, ce qui en fait un élément essentiel pour produire différents types d'outils.",
   "chapter.stage.3.quest.29.description.2": "Ne pas confondre avec le &6Broyeur&f, cette machine est l'équivalent du pulvérisateur dans d'autres mods.",
-  "chapter.stage.3.quest.29.description.3": "Info : Cela apporte de nouveaux types d'infusion dans vos fabrications d'Infusion.",
+  "chapter.stage.3.quest.29.description.3": "Info : Cela apporte de nouveaux types d'infusion dans vos fabrications avec Infusion.",
 
   "chapter.stage.3.quest.30.subtitle.1": "Enrichissement de l'Acier Compressé",
 
@@ -904,7 +904,7 @@
   "chapter.stage.3.quest.32.description.1" : "Il suffit d'infuser un Circuit de Contrôle Avancé avec une infusion d'Acier Compressé.",
 
   "chapter.stage.3.quest.33.subtitle.1": "Tablette Utile",
-  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est un pack de batterie portable et rechargeable qui peut être chargé avec jusqu'à 1 000 kJ d'énergie, puis utilisé pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses crafts.",
+  "chatper.stage.3.quest.33.description.1" : "La &bTablette d'Énergie&f est une batterie portable et rechargeable qui peut être chargée jusqu'à 1 000 kJ d'énergie, puis utilisée pour alimenter d'autres appareils. Elle est également un ingrédient dans de nombreuses crafts.",
 
   "chapter.stage.3.quest.34.subtitle.1": "La nuit est ennuyeuse",
   "chapter.stage.3.quest.34.description.1" : "Génère de l'énergie Forge grâce à la puissance du soleil. Peut être amélioré ultérieurement.",
@@ -916,7 +916,7 @@
   "chapter.stage.3.quest.36.description.1" : "Le &bCompresseur d'Osmium&f est utilisé pour créer des &aLingots d'Obsidienne Raffinée&f à partir de la Poussière d'Obsidienne Raffinée et des &aLingots de Pierre Lumineuse&f à partir de la Poussière de Pierre Lumineuse.",
 
   "chapter.stage.3.quest.37.subtitle.1": "Fusion Arcanique du Flux",
-  "chapter.stage.3.quest.37.description.1" : "L'Essence of Darkness est un nouveau type d'infusion qui est fabriqué avec le Runeforge.",
+  "chapter.stage.3.quest.37.description.1" : "L'Essence of Darkness (Essence des Ténèbres) est un nouveau type d'infusion qui est fabriqué avec le Runeforge.",
 
   "chapter.stage.3.quest.38.subtitle.1": "Que les Ténèbres viennent",
   "chapter.stage.3.quest.38.description.1" : "Il suffit d'infuser un Lingot d'Acier avec une infusion d'Essence of Darkness.",
@@ -1049,13 +1049,13 @@
   "chapter.stage.3.quest.77.description.1": "Mélangez un liquide avec un objet pour le remplir.",
 
   "chapter.stage.3.quest.78.subtitle.1": "Premier cadre RFTools",
-  "chapter.stage.3.quest.78.description.1": "Traitez du Redstone Déstabilisé et de la Pierre Renforcée dans le Thermopneumatic Processor pour obtenir un Cadre de Machine.",
+  "chapter.stage.3.quest.78.description.1": "Traitez de la Redstone Déstabilisée et de la Pierre Renforcée dans le Thermopneumatic Processor pour obtenir un Cadre de Machine.",
 
   "chapter.stage.3.quest.79.subtitle.1": "Servo avec Redstone",
-  "chapter.stage.3.quest.79.description.1": "Enrobe une plaque de fer avec du redstone déstabilisé.",
+  "chapter.stage.3.quest.79.description.1": "Enrobe une plaque de fer avec de la redstone déstabilisée.",
 
   "chapter.stage.3.quest.80.subtitle.1": "Bobine avec Redstone",
-  "chapter.stage.3.quest.80.description.1": "Enrobe une tige d'électrum avec du redstone déstabilisé.",
+  "chapter.stage.3.quest.80.description.1": "Enrobe une tige d'électrum avec de la redstone déstabilisée.",
 
   "chapter.stage.3.quest.81.subtitle.1": "Fonderie de Thermal",
   "chapter.stage.3.quest.81.description.1": "Combinez des objets (maximum 3) pour en obtenir un autre. Cela est principalement utilisé pour mélanger des lingots. Consultez JEI pour les crafts.",
@@ -1082,7 +1082,7 @@
   "chapter.stage.3.quest.89.subtitle.1": "Fusion du Scandium",
 
   "chapter.stage.3.quest.90.subtitle.1": "Transformation d'élite",
-  "chapter.stage.3.quest.90.description.1": "Transforme n'importe quel machines avancées de Mekanism en niveau Élite.",
+  "chapter.stage.3.quest.90.description.1": "Transforme n'importe quelle machine avancée de Mekanism en niveau Élite.",
 
   "chapter.stage.3.quest.92.subtitle.1": "Infusion d'Ender Ingot",
   "chapter.stage.3.quest.92.description.1": "Avec l'Ender Crafter, assemblez 4 Lingots d'Ender avec une Étoile de l'End !",
@@ -1110,7 +1110,7 @@
   "chapter.stage.4.quest.4.subtitle.1": "Pressage de la Résine",
 
   "chapter.stage.4.quest.5.subtitle.1": "Un Meilleur Chassis",
-  "chapter.stage.4.quest.5.description.1": "En utilisant la Chambre de Dissolution, assemblez du Plastique, des Lingots de Platine, un Alliage Renforcé, un Engrenage en Constantan et un Pity MAchine Frame avec du Latex.",
+  "chapter.stage.4.quest.5.description.1": "En utilisant la Chambre de Dissolution, assemblez du Plastique, des Lingots de Platine, un Alliage Renforcé, un Engrenage en Constantan et un Pity Machine Frame avec du Latex.",
 
   "chapter.stage.4.quest.6.subtitle.1": "Préparation des circuits imprimés",
   "chapter.stage.4.quest.6.description.1": "Avec la Chambre de Pression, combinez des Pépites d'Électrum, une Plaque de Résine et un Servo Moteur en Redstone.",
@@ -1147,7 +1147,7 @@
   "chapter.stage.4.quest.15.description.3": "Ces lignes d'assemblage fonctionnent à l'air comprimé, mais vous n'avez besoin de fournir de l'air qu'au Contrôleur d'Assemblage pour alimenter tout le système.",
 
   "chapter.stage.4.quest.16.subtitle.1": "Encore un Échange Valable",
-  "chapter.stage.4.quest.16.description.1": "Obtenez ces programmes avec le Système d'Échange d'Amadron. Le programme Perceuse and Laser peut également être fabriqué.",
+  "chapter.stage.4.quest.16.description.1": "Obtenez ces programmes avec le Système d'Échange d'Amadron. Le programme Perceuse et Laser peut également être fabriqué.",
 
   "chapter.stage.4.quest.17.subtitle.1": "Premier Chassis Non Assemblé Industriel",
   "chapter.stage.4.quest.17.description.1": "Avec la Chambre de Pression, combinez des Bûches de Chêne, des Pierres Renforcées et un Servo Moteur en Redstone.",
@@ -1223,7 +1223,7 @@
   "chapter.stage.4.quest.41.description.1": "Une meilleure façon de générer de l'Énergie avec le Soleil. Vous pouvez l'utiliser pour la Tour d'Évaporation Thermique.",
 
   "chapter.stage.4.quest.42.subtitle.1": "Donjons de The Undergarden",
-  "chapter.stage.4.quest.42.description.1": "Vainquez le Gardien Oublié et obtenez des Pépites Oubliées pour les utiliser dans la fabrication des Lingots.",
+  "chapter.stage.4.quest.42.description.1": "Battez le Gardien Oublié et obtenez des Pépites Oubliées pour les utiliser dans la fabrication des Lingots.",
 
   "chapter.stage.4.quest.43.subtitle.1": "Énergisation des Lingots Oubliés",
   "chapter.stage.4.quest.43.description.1": "Énergisez un Lingot Oublié et obtenez un &e&lCristal Niotique&r !",
@@ -1245,13 +1245,13 @@
   "chapter.stage.4.quest.49.description.1": "Infusez simplement un Alliage Renforcé avec l'infusion de l'Obsidienne Raffinée.",
 
   "chapter.stage.4.quest.50.subtitle.1": "Maître de la Téléportation",
-  "chapter.stage.4.quest.50.description.1": "Principallement utilisé comme composant de fabrication.",
+  "chapter.stage.4.quest.50.description.1": "Principalement utilisé comme composant de fabrication.",
 
   "chapter.stage.4.quest.51.subtitle.1": "Maître de l'Extraction",
   "chapter.stage.4.quest.51.description.1": "Avec le &4Compresseur Quantique&r, mettez 256 Cristaux d'Utherium et le Noyau de Téléportation comme Catalyseur.",
 
   "chapter.stage.4.quest.52.subtitle.1": "L'Extraction à son Meilleur",
-  "chapter.stage.4.quest.52.description.1": "La Mineuse Digitale extrait tout ce que vous lui demandez d'extraire. Consultez sa craft dans JEI.",
+  "chapter.stage.4.quest.52.description.1": "La Mineuse Digitale extrait tout ce que vous lui demandez d'extraire. Consultez son craft dans JEI.",
 
   "chapter.stage.4.quest.53.subtitle.1": "Composant Oublié",
   "chapter.stage.4.quest.53.description.1": "Énergisez simplement des Lingots Oubliés, une Plaque d'Acier Noir et une Luminescence.",
@@ -1263,7 +1263,7 @@
   "chapter.stage.4.quest.56.description.1": "Utilisez la Chambre de Dissolution pour assembler des Composants d'Élite, des Tables de Craft Avancées, un Catalyseur d'Élite et un Bloc de Métal Oublié avec de l'Utherium fondu.",
 
   "chapter.stage.4.quest.57.subtitle.1": "Table de Craft Auto Oubliée",
-  "chapter.stage.4.quest.57.description.1": "Utilisez le Craft de l'Ender pour assembler la Table de Craft Auto d'Élite. Consultez JEI pour la craft.",
+  "chapter.stage.4.quest.57.description.1": "Utilisez le Craft de l'Ender pour assembler la Table de Craft Auto d'Élite. Consultez JEI pour le craft.",
 
   "chapter.stage.4.quest.58.subtitle.1": "Séparation de Fluide",
   "chapter.stage.4.quest.58.description.1": "Sépare n'importe quel fluide compatible en deux autres fluides.",
@@ -1280,23 +1280,23 @@
   "chapter.stage.4.quest.62.subtitle.1": "Assemblage de Tiges",
 
   "chapter.stage.4.quest.63.subtitle.1": "Enrichissement du PE-HD",
-  "chapter.stage.4.quest.63.description.1": "Utilisez simplement une Chambre d'Enrichissement pour obtenir des Feuilles de PE-HD.",
+  "chapter.stage.4.quest.63.description.1": "Utilisez simplement une Chambre d'Enrichissement pour obtenir des Feuilles de HDPE.",
 
   "chapter.stage.4.quest.64.subtitle.1": "Maniaque de l'Autocrafting",
-  "chapter.stage.4.quest.64.description.1": "Le mécanisme de fabrication automatisée d'AE2 commence avec le &bME Patterns Provider&r. Cet appareil sert de réceptacle pour des objets spécifiques appelés &bmodèles vides&r (détaillés dans la quête suivante). Ces modèles vides sont conçus pour englober des crafts qui transforment des objets d'entrée en sorties spécifiées. Un seul fournisseur peut accueillir jusqu'à 9 modèles vides simultanément.",
+  "chapter.stage.4.quest.64.description.1": "Le mécanisme de fabrication automatisée d'AE2 commence avec le '&bME Patterns Provider&r'. Cet appareil sert de réceptacle pour des objets spécifiques appelés &bmodèles&r (détails dans la quête suivante). Ces modèles sont conçus pour englober des crafts qui transforment des objets d'entrée en sorties spécifiées. Un seul 'Provider' peut accueillir jusqu'à 9 modèles simultanément.",
 
   "chapter.stage.4.quest.65.subtitle.1": "Assemblage de Craft",
-  "chapter.stage.4.quest.65.description.1": "Les Assembleurs Moléculaires ont la capacité de transmettre à la fois de l'énergie et des canaux à d'autres appareils ME qui leur sont liés, sans consommer de canal eux-mêmes. Dans les cas où un Patterns providers est utilisé, jusqu'à 6 Assembleurs Moléculaires peuvent y être liés, permettant l'exécution de plusieurs tâches de fabrication simultanément.",
-  "chapter.stage.4.quest.65.description.2": "Chaque Assembleur Moléculaire possède un emplacement exclusif désigné pour un seul patterns. Cette caractéristique permet aux Assembleur Moléculaire de fonctionner de manière autonome lorsqu'ils sont alimentés. Dans ce mode, tous les objets insérés dans l'AM qui correspondent au patterns seront automatiquement transformés en produit résultant du motif.",
+  "chapter.stage.4.quest.65.description.1": "Les Assembleurs Moléculaires ont la capacité de transmettre à la fois de l'énergie et des canaux à d'autres appareils ME qui leur sont liés, sans consommer de canal eux-mêmes. Dans les cas où un 'Pattern Provider' est utilisé, jusqu'à 6 Assembleurs Moléculaires peuvent y être liés, permettant l'exécution de plusieurs tâches de fabrication simultanément.",
+  "chapter.stage.4.quest.65.description.2": "Chaque Assembleur Moléculaire possède un emplacement exclusif désigné pour un seul pattern. Cette caractéristique permet aux Assembleurs Moléculaires (AM) de fonctionner de manière autonome lorsqu'ils sont alimentés. Dans ce mod, tous les objets insérés dans l'AM qui correspondent au patterns seront automatiquement transformés en produit résultant du motif.",
 
   "chapter.stage.4.quest.66.subtitle.1": "Vérification de Craft",
-  "chapter.stage.4.quest.66.description.1": "Souvent, vous utiliserez plusieurs patterns providers répartis dans toute votre base. Pour faciliter l'accès transparent aux contenus de tous les fournisseurs de votre vaste réseau ME, le &bTerminal d'Accès aux modèles vides&r s'avère inestimable. Ce terminal permet un accès distant aux modèles vides stockés dans différents fournisseurs.",
+  "chapter.stage.4.quest.66.description.1": "Souvent, vous utiliserez plusieurs patterns 'Providers' répartis dans toute votre base. Pour faciliter l'accès aux contenus de tous les 'Providers' de votre vaste réseau ME, le &bTerminal d'Accès aux modèles&r s'avère très utile. Ce terminal permet un accès distant aux modèles stockés dans différents 'Providers'.",
 
   "chapter.stage.4.quest.67.subtitle.1": "Encodage de Crafts Partie 1",
-  "chapter.stage.4.quest.67.description.1": "Les modèles vides offrent la flexibilité de contenir soit une craft de &6crafting&r classique, soit une craft plus large de '&6processing&r'. Les crafts de fabrication impliquent l'utilisation d'un &6Assembleur Moléculaire&r positionné sur l'interface du Fournisseur. En revanche, les crafts de traitement impliquent l'envoi d'objets d'entrée du fournisseur vers des machines externes ou des unités de traitement dédiées.",
+  "chapter.stage.4.quest.67.description.1": "Les modèles offrent une flexibilité de contenir soit un craft de type classique, soit un craft plus large de '&6processing&r'. Les crafts de fabrication impliquent l'utilisation d'un &6Assembleur Moléculaire&r positionné sur l'interface du 'Provider'. En revanche, les crafts de traitement impliquent l'envoi d'objets d'entrée du 'Provider' vers des machines externes ou des unités de traitement dédiées.",
 
   "chapter.stage.4.quest.68.subtitle.1": "Encodage de Crafts Partie 2",
-  "chapter.stage.4.quest.68.description.1": "Les &bmodèles vides&r fonctionnent comme des réceptacles pour les crafts encodées qui peuvent être exécutées par un Patterns provider. Pour encoder une craft sur un motif, le processus implique l'utilisation du &bTerminal d'Encodage de modèles vides ME&r.",
+  "chapter.stage.4.quest.68.description.1": "Les &bmodèles vides&r fonctionnent comme des réceptacles pour les crafts encodés qui peuvent être exécutés par un 'Pattern Provider'. Pour encoder une craft sur un motif, le processus implique l'utilisation du &bTerminal d'Encodage de modèles ME&r.",
 
   "chapter.stage.4.quest.69.subtitle.1": "Composant d'Autocrafting",
   "chapter.stage.4.quest.69.description.1": "Utilisez la Chambre de Dissolution pour assembler des Feuilles de HDPE, tous les Processeurs, un Verre de Fluix ME avec du Quartz Certus fondu.",
@@ -1304,13 +1304,13 @@
   "chapter.stage.4.quest.70.title": "Stockage de fabrication",
   "chapter.stage.4.quest.70.subtitle.1": "Opérer les Autocrafts",
   "chapter.stage.4.quest.70.description.1": "Avant d'exécuter une opération d'autocrafting, vous devez disposer d'un dispositif dédié pour abriter la demande de fabrication ainsi que les objets intermédiaires nécessaires aux crafts en plusieurs étapes. Ce dispositif spécialisé est appelé &6Unité de Fabrication CPU&r.",
-  "chapter.stage.4.quest.70.description.2": "Un CPU de fabrication est une structure composite formée en assemblant plusieurs blocs en une unité cohérente. Au minimum, il nécessite un bloc de &bStockage de Fabrication&r, et il peut également incorporer des Unités de Fabrication supplémentaires. La configuration de ce multibloc peut varier en taille, mais elle doit être en forme de cuboïde solide pour s'établir et fonctionner avec succès.",
+  "chapter.stage.4.quest.70.description.2": "Un CPU de fabrication est une structure multiple formée en assemblant plusieurs blocs en une unité. Au minimum, cela nécessite un bloc de &bStockage de Fabrication&r, et il peut également incorporer des Unités de Fabrication supplémentaires. La configuration de ce multibloc peut varier en taille, mais elle doit être en forme de cuboïde solide pour s'unir et fonctionner avec succès.",
 
   "chapter.stage.4.quest.71.subtitle.1": "Surveiller les Opérations",
 
   "chapter.stage.4.quest.72.subtitle.1": "Accélérer les Choses",
-  "chapter.stage.4.quest.72.description.1": "L'&bUnité de Co-Traitement de Fabrication&r améliore considérablement la vitesse des tâches de fabrication en permettant aux Patterns providers d'accélérer le transfert d'objets vers leurs dispositifs liés ou de collaborer simultanément à la création de plusieurs composants nécessaires.",
-  "chapter.stage.4.quest.72.description.2": "Le co-processeur AE2 fondamental fournit un seul 'thread' de co-processeur pour soutenir ces opérations. En revanche, l'unité de co-traitement dérivée des &dCellules MEGA&r offre 4 threads remarquables dans un seul bloc, renforçant ainsi l'efficacité des processus de fabrication.",
+  "chapter.stage.4.quest.72.description.1": "L'&bUnité de Co-Traitement de Fabrication&r améliore considérablement la vitesse des tâches de fabrication en permettant aux 'Patterns Providers' d'accélérer le transfert d'objets vers leurs dispositifs liés ou de collaborer simultanément à la création de plusieurs composants nécessaires.",
+  "chapter.stage.4.quest.72.description.2": "Le co-processeur AE2 fondamental fournit un seul 'thread' de co-processeur pour soutenir ces opérations. En revanche, l'unité de co-traitement dérivée des &dCellules MEGA&r offre 4 threads dans un seul bloc, renforçant ainsi l'efficacité des processus de fabrication.",
 
   "chapter.stage.4.quest.73.subtitle.1": "Encore du Minerai Rouge ?",
 
@@ -1329,13 +1329,13 @@
   "chapter.stage.4.quest.78.subtitle.1": "Compression de Carbone",
   "chapter.stage.4.quest.78.description.1": "Avec le Compresseur Quantique, compressez 512 Carbone avec le Moule de Compression en tant que Catalyseur.",
 
-  "chapter.stage.4.quest.79.subtitle.1": "Personne ne Peut Vous Entendre Mourir",
+  "chapter.stage.4.quest.79.subtitle.1": "Mort Silencieuse",
   "chapter.stage.4.quest.79.description.1": "Sans ceci, vous ne pourrez pas respirer dans l'Espace.",
 
   "chapter.stage.4.quest.80.title" : "Armure spatiale",
   "chapter.stage.4.quest.80.subtitle.1": "Combinaison Spatiale",
   "chapter.stage.4.quest.80.description.1": "Une protection vraiment efficace pour l'exploration spatiale.",
-  "chapter.stage.4.quest.80.description.2": "Pour recharger votre armure en oxygène, vous pouvez utiliser l'oxygène de Mekanism. En termes simples, placez votre armure dans un réservoir chimique rempli d'oxygène.",
+  "chapter.stage.4.quest.80.description.2": "Pour recharger votre armure en oxygène, vous pouvez utiliser l'oxygène de Mekanism. Placez simplement votre armure dans un réservoir chimique rempli d'oxygène.",
 
   "chapter.stage.4.quest.81.subtitle.1": "Table de Craft Spatiale",
   "chapter.stage.4.quest.81.description.1": "Assemblez vos fusées dans cette nouvelle table de craft.",
@@ -1382,7 +1382,7 @@
   "chapter.stage.4.quest.97.description.1": "Revalorisez votre Cyanite et créez du Blutonium ? Il suffit d'ajouter de l'eau et de l'énergie.",
 
   "chapter.stage.4.quest.98.subtitle.1": "Démarrage de la Compression Spatiale",
-  "chapter.stage.4.quest.98.description.1": "À l'aide de la Chambre de Dissolution, assemblez des Lingots de Blutonium, des Tiges de Blaze et des Blocs d'Endérium avec de la Gelée Rose.",
+  "chapter.stage.4.quest.98.description.1": "À l'aide de la Chambre de Dissolution, assemblez des Lingots de Blutonium, des Bâtons de Blaze et des Blocs d'Enderium avec de la Gelée Rose.",
 
   "chapter.stage.4.quest.99.subtitle.1": "Moules Spatiaux",
 
@@ -1395,7 +1395,7 @@
   "chapter.stage.4.quest.102.subtitle.1": "Carburant de Fusée",
 
   "chapter.stage.4.quest.103b.subtitle.1": "Station de Ravitaillement",
-  "chapter.stage.4.quest.103b.description.1": "Fabriqué avec le processus Ender Crafting, le Chargeur de Carburant chargera le carburant dans vos fusées.",
+  "chapter.stage.4.quest.103b.description.1": "Fabriqué avec le processus appelé Ender Crafting, le Chargeur de Carburant chargera le carburant dans vos fusées.",
 
   "chapter.stage.4.quest.103.subtitle.1": "Tour Solaire",
   "chapter.stage.4.quest.103.description.1": "La &bCentrale de Thermosiphon&f est une structure multi-blocs ayant pour but de convertir l'eau en &eSaumure&f, qui peut ensuite être convertie en &eLithium&f en utilisant une deuxième Centrale de Thermosiphon.",
@@ -1405,7 +1405,7 @@
   "chapter.stage.4.quest.104.description.1": "Pour obtenir de la Saumure, mettez de l'eau dans la Tour de Thermosiphon.",
 
   "chapter.stage.4.quest.105.subtitle.1": "Cristallisation",
-  "chapter.stage.4.quest.105.description.1": "Cela vous permet de cristalliser toute Slurry compatible.",
+  "chapter.stage.4.quest.105.description.1": "Cela vous permet de cristalliser tout les Slurry compatibles.",
 
   "chapter.stage.4.quest.106.subtitle.1": "Cristalliseur de Lithium",
   "chapter.stage.4.quest.106.description.1": "Cristallisez le Gaz de Lithium pour obtenir des Poussières de Lithium.",
@@ -1440,8 +1440,8 @@
   "chapter.stage.4.quest.117.subtitle.1": "Ecraser avec du Flux",
 
   "chapter.stage.4.quest.118.subtitle.1": "Bloc de Demande de Fabrication",
-  "chapter.stage.4.quest.118.description.1": "Le &bME Requester&f est un bloc essentiel pour un réseau ME, conçu pour stocker jusqu'à 6 types différents d'objets. Sa configuration peut être accessible en faisant un clic droit, et toutes les informations nécessaires sont fournies là-bas. Un conseil supplémentaire suggère de faire glisser et déposer des objets spécifiques à partir de la page JEI s'ils ne sont pas disponibles pour le moment.",
-  "chapter.stage.4.quest.118.description.2": "En ce qui concerne les lots de demande, alors que le nombre de demande spécifie la quantité de stock souhaitée, la taille du lot détermine le nombre d'articles demandés à chaque fois que le Demandeur lance un travail. Pour plus de clarté, considérez un exemple : en configurant le Demandeur avec des planches, un nombre de 10 et une taille de lot de 20, si le stock tombe en dessous de 10, le Demandeur demandera 20 planches à la fois (pas 20 crafts). Après la fabrication, vous aurez 20 planches jusqu'à ce que le nombre tombe en dessous de 10 pour la prochaine demande.",
+  "chapter.stage.4.quest.118.description.1": "Le bloc &bME Requester&f est important dans un réseau ME. Il permet de définir combien d'item on garde dans notre système ME, si le nombre est inférieur a celui qu'on a défini il va lancer un autocraft de cet item en question. On peut définir 6 items différents dans un requester. Pour le configurer, faites un clic droit. Vous pouvez glisser-déposer des objets depuis la page JEI s'ils ne sont pas disponibles.",
+  "chapter.stage.4.quest.118.description.2": "En parlant des demandes, le nombre spécifie la quantité de stock souhaitée, et la taille du lot détermine combien le 'Requester' demande à chaque fois. Par exemple, si vous configurez le 'Requester' pour des planches avec un nombre de 10 et une taille de lot de 20, il demandera 20 planches à la fois lorsque le stock tombe en dessous de 10. Vous aurez alors 20 planches jusqu'à la prochaine demande."
 
   "chapter.stage.4.quest.119.subtitle.1": "Extraction de la Nébulosité Spatiale Partie 1",
   "chapter.stage.4.quest.119.description.1": "Cette première partie contient les blocs pour le noyau principal du Multibloc Extracteur de Nébuleuses.",
@@ -1472,9 +1472,9 @@
   "chapter.stage.4.quest.128.subtitle.1": "Cellules de Matrice d'Induction",
   "chapter.stage.4.quest.128.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daugmente la capacité totale de stockage d'énergie&f d'une Matrice.",
 
-  "chapter.stage.4.quest.129.title": "Fournisseurs d'induction",
-  "chapter.stage.4.quest.129.subtitle.1": "Fournisseurs de Matrice",
-  "chapter.stage.4.quest.129.description.1": "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut délivrer par tick&f à travers le Port d'Induction.",
+  "chapter.stage.4.quest.129.title": "'Providers' d'induction",
+  "chapter.stage.4.quest.129.subtitle.1": "'Providers' de Matrice",
+  "chapter.stage.4.quest.129.description.1": "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut délivrer par tick&f à travers le Port d'Induction.",
 
   "chapter.stage.4.quest.130.subtitle.1": "Accès au Vide",
   "chapter.stage.4.quest.130.description.1": "À l'aide de la Fabrication de Miniaturisation, construisez le Multibloc avec des Blocs d'Obsidienne Transformée, de l'Obsidienne, du Verre Sombre, des Blocs de Métal Oublié, des Blocs de Cristal Flamboyant et la Machine Compacte Maximale.",
@@ -1482,10 +1482,10 @@
 
   "chapter.stage.4.quest.131.title.1": "Comment automatiser Extended Crafting ?",
   "chapter.stage.4.quest.131.subtitle.1": "Automatisation d'Extended Crafting",
-  "chapter.stage.4.quest.131.description.1": "Pour automatiser Extended Crafting, il est nécessaire de fabriquer &d2 Package Recipe Holders&r et de les encoder avec un &aPackage Recipe Encoder&r.",
-  "chapter.stage.4.quest.131.description.2": "Ensuite, il faut placer un Package Recipe Holder dans un &bPackager&r et l'autre dans un &bUnpackager&r, tous deux connectés à un réseau ME.",
-  "chapter.stage.4.quest.131.description.3": "Le Packager acceptera les objets et les transformera en Paquets de Recettes, tandis que l'Unpackager les prendra et les déposera dans un inventaire adjacent.",
-  "chapter.stage.4.quest.131.description.4": "Les deux machines informent le Réseau ME de ce qu'elles peuvent faire en fonction du package recipe holder, et le Packager, lorsqu'il est connecté, éjecte les paquets dans le réseau.",
+  "chapter.stage.4.quest.131.description.1": "Pour automatiser Extended Crafting, il est nécessaire de fabriquer des '&d2 Package Recipe Holders&r' et de les encoder avec un '&aPackage Recipe Encoder&r'.",
+  "chapter.stage.4.quest.131.description.2": "Ensuite, il faut placer un 'Package Recipe Holder' dans un '&bPackager&r' et l'autre dans un '&bUnpackager&r', tous deux connectés à un réseau ME.",
+  "chapter.stage.4.quest.131.description.3": "Le 'Packager' acceptera les objets et les transformera en Paquets de Recettes (Recipe Packages), tandis que 'l'Unpackager' les prendra et les déposera dans un inventaire adjacent.",
+  "chapter.stage.4.quest.131.description.4": "Les deux machines informent le Réseau ME de ce qu'elles peuvent faire en fonction du package recipe holder, et le 'Packager', lorsqu'il est connecté, éjecte les paquets dans le réseau.",
 
   "Stage 5":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
@@ -1609,16 +1609,16 @@
   "chapter.stage.5.quest.42.description.1": "Avec quelques Cristaux Spirituels, vous pourrez construire notre Mineur de Minerais Multibloc personnalisé.",
 
   "chapter.stage.5.quest.43.subtitle.1": "Dissolution de la Pierre de l'End",
-  "chapter.stage.5.quest.43.description.1": "En utilisant le Dissolveur, dissoudre de la &5Pierre de l'End&r pour obtenir des Éléments Thorium.",
+  "chapter.stage.5.quest.43.description.1": "En utilisant le Dissolveur, dissoudre de la &5Pierre de l'End&r pour obtenir des éléments de Thorium.",
 
   "chapter.stage.5.quest.44.subtitle.1": "Fission du Thorium",
   "chapter.stage.5.quest.44.description.1": "Utilisez le Réacteur à Fission pour obtenir du Rhodium.",
 
   "chapter.stage.5.quest.45.subtitle.1": "Constructeur de Turbine",
-  "chapter.stage.5.quest.45.description.1": "Construisez de Grandes Turbines. Pour les obtenir, énergisez simplement les Éléments Rhodium avec des Blocs de Graphite et de Cyanite.",
+  "chapter.stage.5.quest.45.description.1": "Construisez une Grande Turbine. Pour les obtenir, énergisez simplement les Éléments Rhodium avec des Blocs de Graphite et de Cyanite.",
 
   "chapter.stage.5.quest.46.subtitle.1": "Dissolution des Larmes de Ghast",
-  "chapter.stage.5.quest.46.description.1": "En utilisant le Dissolveur, dissoudre &3Larmes de Ghast&r pour obtenir des Éléments Polonium.",
+  "chapter.stage.5.quest.46.description.1": "En utilisant le Dissolveur, dissoudre &3Larmes de Ghast&r pour obtenir des éléments de Polonium.",
 
   "chapter.stage.5.quest.47.subtitle.1": "Fission du Polonium",
   "chapter.stage.5.quest.47.description.1": "Utilisez le Réacteur à Fission pour obtenir du Molybdenum.",
@@ -1628,7 +1628,7 @@
   "chapter.stage.5.quest.48.description.2": "Il est uniquement nécessaire si vous voulez faire circuler un fluide différent à travers le réacteur (comme le sodium).",
 
   "chapter.stage.5.quest.49.subtitle.1": "Offre Trois pour Un",
-  "chapter.stage.5.quest.49.description.1": "Le Compresseur Avancé peut, comme le normal, compresser tout article compatible. Mais maintenant, il peut également faire du Laminage et de l'Extrusion.",
+  "chapter.stage.5.quest.49.description.1": "Le Compresseur Avancé peut, comme le normal, compresser tout item compatible. Mais maintenant, il peut également faire du Laminage et de l'Extrusion.",
 
   "chapter.stage.5.quest.50.subtitle.1": "Composants de la fusée T2 - Partie 1",
 
@@ -1703,10 +1703,10 @@
   "chapter.stage.6.quest.4.description.1": "Reçoit de l'énergie des blocs adjacents passivement, ajoutant de l'énergie à votre réseau Flux.",
 
   "chapter.stage.6.quest.5.subtitle.1": "Contrôle de Flux",
-  "chapter.stage.6.quest.5.description.1": "Permet la charge sans fil depuis votre réseau Flux.",
+  "chapter.stage.6.quest.5.description.1": "Permet la recharge sans fil depuis votre réseau Flux.",
 
   "chapter.stage.6.quest.6.subtitle.1": "Émetteur d'Énergie Flux",
-  "chapter.stage.6.quest.6.description.1": "Fournit de l'énergie aux blocs adjacents activement, retirant de l'énergie de votre réseau Flux.",
+  "chapter.stage.6.quest.6.description.1": "Fournit de l'énergie aux blocs adjacents, retirant de l'énergie de votre réseau Flux.",
 
   "chapter.stage.6.quest.7.subtitle.1": "Stockage de Flux Basique",
   "chapter.stage.6.quest.7.description.1": "Stocke l'énergie pour votre réseau Flux. Capacité énergétique : 2 000 000 FE.",
@@ -1842,7 +1842,7 @@
   "chapter.stage.7.quest.6.subtitle.1": "Table de Craft de Césium",
   "chapter.stage.7.quest.6.description.1": "Avec le Cœur de Fusion Craft au niveau Wyvern, combinez des Composants Ultime, des Alliages Cosmiques avec un Catalyseur Ultime et un Bloc de Césium.",
 
-  "chapter.stage.7.quest.7.subtitle.1": "Automatisation des Crafts Ultime !",
+  "chapter.stage.7.quest.7.subtitle.1": "Automatisation des Crafts Ultimes !",
 
   "chapter.stage.7.quest.8.subtitle.1": "Maestro de Craft",
   "chapter.stage.7.quest.8.description.1": "Vous pouvez maintenant automatiser plus de 3 crafts ! N'oubliez pas que cela fonctionne avec Applied. Voir l'Étape 4 pour pour automatiser les crafts.",
@@ -1986,7 +1986,7 @@
   "chapter.stage.7.quest.45.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combiner des Draconic Cores, Large Chaos Fragments, un Dragon Egg, un pastille d'Antimatière et un Chaotic Core avec un Awakened Crafting Injector.",
 
   "chapter.stage.7.quest.46.subtitle.1": "Élevage de Chaos",
-  "chapter.stage.7.quest.46.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combiner des Dragon Predictions, Golden Dragon Scales, un Chaotic Core, un Dragon Heart et tête de dragon et une Chaos Shard avec un Model Framework.",
+  "chapter.stage.7.quest.46.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combiner des Dragon Predictions, Golden Dragon Scales, un Chaotic Core, un Dragon Heart et tête de dragon et une Chaos Shard avec un modl Framework.",
 
   "chapter.stage.7.quest.47.subtitle.1": "Simulation Chaotique",
   "chapter.stage.7.quest.47.description.1": "Obtenez une prédiction du Chaos Guardian avec la Chambre de Simulation.",
@@ -2047,7 +2047,7 @@
 
   "chapter.machinery.quest.9.title.1": "Regardez un &6High-Pressure Refinery Unit&r complet",
   "chapter.machinery.quest.9.subtitle.1": "Raffinage Immersif",
-  "chapter.machinery.quest.9.description.1": "L'High Pressure Refinery Unit chauffe et combine des fluides dans son tambour de réaction principal. Elle est essentielle aux chaînes de processus secondaires dans le raffinage pétrolier moderne, y compris le craquage et la désulfuration.",
+  "chapter.machinery.quest.9.description.1": "L'High Pressure Refinery Unit chauffe et combine des fluides dans son tambour de réaction principal. Elle est essentielle aux chaînes de processus secondaires dans le raffinage pétrolier modrne, y compris le craquage et la désulfuration.",
 
   "chapter.machinery.quest.10.title.1": "Regardez un &6Distillation Tower&r complète",
   "chapter.machinery.quest.10.subtitle.1": "Distillation en colonne",
@@ -2120,7 +2120,7 @@
 
   "chapter.powah.quest.9.title": "Conseils sur les Câbles",
   "chapter.powah.quest.9.subtitle.1": "Les câbles servent à transférer de l'énergie entre les machines.",
-  "chapter.powah.quest.9.description.1": "Vous pouvez changer le mode de transfert en cliquant avec le bouton droit sur un câble en utilisant une clé à molette en mode Config sélectionné.",
+  "chapter.powah.quest.9.description.1": "Vous pouvez changer le mod de transfert en cliquant avec le bouton droit sur un câble en utilisant une clé à molette en mod Config sélectionné.",
 
   "chapter.powah.quest.10.title": "Porte de l'End",
   "chapter.powah.quest.10.subtitle.1": "Transfert Ender",
@@ -2378,7 +2378,7 @@
   "chapter.forbidden.quest.9.description.2": "Soyez prudent ! À des niveaux de corruption plus élevés, des choses négatives se produiront !",
   "chapter.forbidden.quest.9.description.3": "Fabriquer un Indicateur de Santé mettra à niveau votre interface utilisateur pour afficher votre corruption totale, pour ceux qui veulent battre de nouveaux records.",
 
-  "chapter.forbidden.quest.10.subtitle.1": "Vol... Presque",
+  "chapter.forbidden.quest.10.subtitle.1": "Je vole... pas encore",
 
   "chapter.forbidden.quest.11.subtitle.1": "Cristal Principal",
   "chapter.forbidden.quest.11.description.1": "Il s'agit de la principale ressource du mod. Allez en chercher !",
@@ -2642,16 +2642,16 @@
   "chapter.mekanism.quest.40.description.1": "La &bCarcasse d'Induction&f forme la structure multi-blocs de la &eMatrice d'Induction&f, une structure de &6stockage d'énergie&f capable de stocker une grande quantité d'énergie.",
 
   "chapter.mekanism.quest.41.subtitle.1": "Fourniture de Matrice : Basique",
-  "chapter.mekanism.quest.41.description.1": "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.41.description.1": "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.42.subtitle.1": "Fourniture de Matrice : Avancée",
-  "chapter.mekanism.quest.42.description.1" : "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.42.description.1" : "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.43.subtitle.1": "Fourniture de Matrice : Élite",
-  "chapter.mekanism.quest.43.description.1" : "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.43.description.1" : "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.44.subtitle.1": "Fourniture de Matrice : Ultime",
-  "chapter.mekanism.quest.44.description.1" : "Les &bFournisseurs d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.44.description.1" : "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.45.subtitle.1": "Cellule Basique",
   "chapter.mekanism.quest.45.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daccroît la capacité de stockage totale d'énergie&f d'une Matrice.",
@@ -2676,14 +2676,14 @@
   "chapter.mekanism.quest.51.description.1": "Le &bCombineur&f permet au joueur de créer un &abloc de minerai&f à partir de &28 poussières&f.",
 
   "chapter.mekanism.quest.52.subtitle.1": "Agrégation",
-  "chapter.mekanism.quest.52.description.1": "La &bChambre de Purification&f utilise de l'&7oxygène&f pour raffiner les minerais et les éclats en &agrume&f. Chaque minerai produit 3 agrumes, tandis que chaque éclat n'en donne qu'un.",
+  "chapter.mekanism.quest.52.description.1": "La &bChambre de Purification&f utilise de l'&7oxygène&f pour raffiner les minerais et les éclats en &amas de minerais&f. Chaque minerai produit 3 amas de minerais, tandis que chaque éclat n'en donne qu'un.",
 
   "chapter.mekanism.quest.53.subtitle.1": "Extraction de Gaz",
   "chapter.mekanism.quest.53.description.1": "Le &bSéparateur Électrolytique&f envoie des courants continus contrôlés dans un fluide, provoquant la rupture des liaisons entre les atomes du fluide. Ce processus d'électrolyse est utilisé pour &ecréer certains gaz très utiles&f à partir de fluides assez ordinaires.",
 
   "chapter.mekanism.quest.54.subtitle.1": "Transformation Chimique",
   "chapter.mekanism.quest.54.description.1": "Le &bCondensentrator Rotatif&f est utilisé pour convertir des substances entre leurs formes liquides et gazeuses à un taux de 1:1.",
-  "chapter.mekanism.quest.54.description.2": "Il possède deux modes :",
+  "chapter.mekanism.quest.54.description.2": "Il possède deux mods :",
   "chapter.mekanism.quest.54.description.3": "&6Décondensation&f, qui transforme les liquides en gaz.",
   "chapter.mekanism.quest.54.description.4": "&6Condensation&f, qui transforme les gaz en liquides.",
 
@@ -3207,7 +3207,7 @@
 
   "chapter.bigger.quest.21.title": "Réacteur passif à actif",
   "chapter.bigger.quest.21.subtitle.1": "Production de vapeur",
-  "chapter.bigger.quest.21.description.1": "Dans son état passif, un réacteur convertit directement le combustible en énergie. Cependant, en ajoutant un &bPort de réfrigérant de réacteur&r sur la paroi du réacteur, il passe en mode actif. Cette forme active utilise du combustible pour chauffer des fluides, comme la transformation de l'eau en &dVapeur&r.",
+  "chapter.bigger.quest.21.description.1": "Dans son état passif, un réacteur convertit directement le combustible en énergie. Cependant, en ajoutant un &bPort de réfrigérant de réacteur&r sur la paroi du réacteur, il passe en mod actif. Cette forme active utilise du combustible pour chauffer des fluides, comme la transformation de l'eau en &dVapeur&r.",
   "chapter.bigger.quest.21.description.2": "Notez que vous ne pouvez pas avoir à la fois un &cTonneau de puissance&r et un &bPort de réfrigérant&r sur le même réacteur.",
   "chapter.bigger.quest.21.description.3": "Une fois installée, l'interface du réacteur se transformera, fournissant des informations plus détaillées sur son fonctionnement. L'interface mise à jour affichera un réservoir pour le liquide de refroidissement, un autre pour les gaz d'échappement, et le &bTaux de génération des gaz d'échappement&r.",
   "chapter.bigger.quest.21.description.4": "Par exemple, si vous introduisez de l'eau, ce taux indiquera la production de vapeur.",
@@ -3287,8 +3287,8 @@
 
   "chapter.ae.quest.12.title": "Auto-Crafting",
   "chapter.ae.quest.12.subtitle.1": "Maître de l'Artisanat",
-  "chapter.ae.quest.12.description.1": "Le mécanisme d'artisanat automatisé d'AE2 commence avec le &bFournisseur de Modèle ME&r. Ce dispositif sert de réserve pour des objets spécifiques appelés &bModèles&r (détaillés dans la quête suivante). Ces modèles sont conçus pour englober des crafts qui transforment des objets d'entrée en objets de sortie spécifiés. Un seul fournisseur peut accueillir jusqu'à 9 modèles simultanément.",
-  "chapter.ae.quest.12.description.2": "Vous vous retrouverez souvent à utiliser plusieurs fournisseurs de modèles répartis dans votre base. Pour faciliter l'accès aux contenus de tous les fournisseurs dans votre vaste réseau ME, le &bTerminal d'Accès aux Modèles&r s'avère inestimable. Ce terminal permet un accès distant aux modèles stockés dans différents fournisseurs.",
+  "chapter.ae.quest.12.description.1": "Le mécanisme d'artisanat automatisé d'AE2 commence avec le &b'Provider' de Modèle ME&r. Ce dispositif sert de réserve pour des objets spécifiques appelés &bModèles&r (détaillés dans la quête suivante). Ces modèles sont conçus pour englober des crafts qui transforment des objets d'entrée en objets de sortie spécifiés. Un seul 'Provider' peut accueillir jusqu'à 9 modèles simultanément.",
+  "chapter.ae.quest.12.description.2": "Vous vous retrouverez souvent à utiliser plusieurs 'Providers' de modèles répartis dans votre base. Pour faciliter l'accès aux contenus de tous les 'Providers' dans votre vaste réseau ME, le &bTerminal d'Accès aux Modèles&r s'avère inestimable. Ce terminal permet un accès distant aux modèles stockés dans différents 'Providers'.",
 
   "chapter.ae.quest.13.title": "Stockage de l'Artisanat",
   "chapter.ae.quest.13.subtitle.1": "Unité de Traitement de l'Artisanat",
@@ -3297,7 +3297,7 @@
 
   "chapter.ae.quest.14.title": "Unité de Co-traitement de l'Artisanat",
   "chapter.ae.quest.14.subtitle.1": "Accélérer le Processus",
-  "chapter.ae.quest.14.description.1": "L'&bunité de co-traitement de l'artisanat&r améliore considérablement la vitesse des tâches d'artisanat en permettant aux fournisseurs de modèles d'accélérer le transfert des objets vers leurs dispositifs liés ou de collaborer simultanément à la création de plusieurs composants nécessaires.",
+  "chapter.ae.quest.14.description.1": "L'&bunité de co-traitement de l'artisanat&r améliore considérablement la vitesse des tâches d'artisanat en permettant aux 'Providers' de modèles d'accélérer le transfert des objets vers leurs dispositifs liés ou de collaborer simultanément à la création de plusieurs composants nécessaires.",
   "chapter.ae.quest.14.description.2": "Le co-processeur AE2 fondamental fournit un unique 'thread' de co-processeur pour prendre en charge ces opérations. En revanche, l'unité de co-traitement dérivée des &dMéga Cellules&r offre un remarquable total de 4 threads dans un seul bloc, renforçant ainsi l'efficacité des processus d'artisanat.",
 
   "chapter.ae.quest.15.title": "Moniteur de l'Artisanat",
@@ -3307,13 +3307,13 @@
 
   "chapter.ae.quest.16.title": "Modèles",
   "chapter.ae.quest.16.subtitle.1": "Configuration de l'Artisanat",
-  "chapter.ae.quest.16.description.1": "Les &bmodèles&r fonctionnent comme des référentiels pour les crafts encodées pouvant être exécutées par un fournisseur de modèles. Pour encoder une craft sur un modèle, le processus implique l'utilisation du &bterminal d'encodage de modèle ME&r.",
-  "chapter.ae.quest.16.description.2": "Les modèles offrent la flexibilité de contenir soit une craft de &6fabrication&r conventionnelle, soit une craft de '&6traitement&r' plus large. Les crafts de fabrication nécessitent l'utilisation d'un &6assembleur moléculaire&r positionné sur l'interface du fournisseur. En revanche, les crafts de traitement impliquent l'envoi d'objets d'entrée du fournisseur vers des machines externes ou des unités de traitement dédiées.",
+  "chapter.ae.quest.16.description.1": "Les &bmodèles&r fonctionnent comme des référentiels pour les crafts encodées pouvant être exécutées par un 'Provider' de modèles. Pour encoder une craft sur un modèle, le processus implique l'utilisation du &bterminal d'encodage de modèle ME&r.",
+  "chapter.ae.quest.16.description.2": "Les modèles offrent la flexibilité de contenir soit une craft de &6fabrication&r conventionnelle, soit une craft de '&6traitement&r' plus large. Les crafts de fabrication nécessitent l'utilisation d'un &6assembleur moléculaire&r positionné sur l'interface du 'Provider'. En revanche, les crafts de traitement impliquent l'envoi d'objets d'entrée du 'Provider' vers des machines externes ou des unités de traitement dédiées.",
 
   "chapter.ae.quest.17.subtitle.1": "Table d'Artisanat Automatique",
   "chapter.ae.quest.17.description.1": "L'&bassembleur moléculaire&r sert de pendant d'AE2 à une table d'artisanat automatisée, essentiel pour exécuter toutes les tâches de modèle de &6fabrication&r.",
-  "chapter.ae.quest.17.description.2": "Les assembleurs moléculaires ont la capacité de transmettre à la fois de l'énergie et des canaux à d'autres dispositifs ME qui leur sont liés, sans consommer de canal eux-mêmes. Dans les cas où un fournisseur de modèles est employé, jusqu'à 6 assembleurs moléculaires peuvent lui être liés, permettant l'exécution de plusieurs tâches d'artisanat en même temps.",
-  "chapter.ae.quest.17.description.3": "Chaque Assembleur Moléculaire (AM) dispose d'un emplacement exclusif désigné pour un seul modèle de fabrication. Cette caractéristique permet aux AM de fonctionner de manière autonome lorsqu'ils sont alimentés. Dans ce mode, tout objet inséré dans l'AM qui correspond au modèle de fabrication sera automatiquement transformé en produit final du modèle.",
+  "chapter.ae.quest.17.description.2": "Les assembleurs moléculaires ont la capacité de transmettre à la fois de l'énergie et des canaux à d'autres dispositifs ME qui leur sont liés, sans consommer de canal eux-mêmes. Dans les cas où un 'Provider' de modèles est employé, jusqu'à 6 assembleurs moléculaires peuvent lui être liés, permettant l'exécution de plusieurs tâches d'artisanat en même temps.",
+  "chapter.ae.quest.17.description.3": "Chaque Assembleur Moléculaire (AM) dispose d'un emplacement exclusif désigné pour un seul modèle de fabrication. Cette caractéristique permet aux AM de fonctionner de manière autonome lorsqu'ils sont alimentés. Dans ce mod, tout objet inséré dans l'AM qui correspond au modèle de fabrication sera automatiquement transformé en produit final du modèle.",
 
   "chapter.ae.quest.18.subtitle.1": "Aller Plus Vite",
   "chapter.ae.quest.18.description.1": "La &bCarte d'Accélération&r remplit une double fonction, en fonction du dispositif avec lequel elle est intégrée. Selon le dispositif spécifique, la carte peut soit augmenter la vitesse opérationnelle du dispositif, soit lui permettre d'exécuter un plus grand nombre d'opérations en une seule instance.",
@@ -3431,7 +3431,7 @@
 
   "chapter.ae.quest.43.subtitle.1": "Réorganisateur de Stockage",
   "chapter.ae.quest.43.description.1": "Le &bPort IO ME&r facilite la réorganisation rapide du stockage d'un réseau ME, transférant des données entre des supports de stockage tels que des cellules ME et des conteneurs externes connectés à des bus de stockage.",
-  "chapter.ae.quest.43.description.2": "Lorsqu'une cellule est placée dans la fente d'entrée de gauche, le Port IO peut changer de mode : il peut soit vider la cellule dans d'autres supports ME, soit remplir une cellule (de préférence partitionnée) avec des objets spécifiques à partir d'autres supports de stockage.",
+  "chapter.ae.quest.43.description.2": "Lorsqu'une cellule est placée dans la fente d'entrée de gauche, le Port IO peut changer de mod : il peut soit vider la cellule dans d'autres supports ME, soit remplir une cellule (de préférence partitionnée) avec des objets spécifiques à partir d'autres supports de stockage.",
 
   "chapter.ae.quest.44.subtitle.1": "Ouvrier de Cellules",
   "chapter.ae.quest.44.description.1": "L'&bÉtabli de Cellules&r permet aux cellules d'être 'partitionnées' pour le stockage d'objets dédié, en définissant essentiellement une liste blanche. De plus, l'établi prend en charge des cartes d'amélioration spécifiques, comme la Carte Inversée, qui convertit la liste blanche en une liste noire.",
@@ -3565,7 +3565,7 @@
   "chapter.ae.quest.78.subtitle.1": "Stockage de Structures Partie 2",
   "chapter.ae.quest.78.description.1": "La Structure de Confinement Spatial (SCS) est composée d'une cage formée par des &bPylônes Spatiaux&r, enveloppant le volume souhaité destiné à la confinement à l'intérieur d'une cellule IO spatiale. Dans sa configuration la plus basique, une SCS nécessite trois rangées de blocs de pylônes spatiaux, chacune correspondant à une dimension de l'espace clos (longueur, largeur, hauteur).",
   "chapter.ae.quest.78.description.2": "Cependant, l'IO spatial constitue une capacité gourmande en énergie, notamment lorsqu'il s'agit d'encapsuler des espaces plus importants (jusqu'à 128x128x128). L'incorporation de pylônes spatiaux supplémentaires à l'intérieur de la SCS enveloppant le volume ciblé améliorera son efficacité globale, lui permettant d'effectuer une capture avec une consommation d'énergie réduite.",
-  "chapter.ae.quest.78.description.3": "De plus, il est important de garder à l'esprit que chaque pylône individuel, quelle que soit sa dimension, consomme un canal. Dans les scénarios impliquant des espaces particulièrement vastes, il peut être judicieux de mettre en place un réseau dédié équipé d'un contrôleur pour accommoder tous les pylônes nécessaires.",
+  "chapter.ae.quest.78.description.3": "De plus, il est important de garder à l'esprit que chaque pylône individuel, quelle que soit sa dimension, consomme un canal. Dans les scénarios impliquant des espaces particulièrement vastes, il peut être judicieux de mettre en place un réseau dédié équipé d'un contrôleur pour accommodr tous les pylônes nécessaires.",
 
   "chapter.ae.quest.79.title" : "Processeurs d'Inscription",
   "chapter.ae.quest.79.subtitle.1": "Création du Traitement",
@@ -3761,7 +3761,7 @@
   "chapter.evil.quest.8.description.2": "Tant que vous portez cet extracteur dans votre inventaire, éliminer les monstres fera collecter leur sang à l'intérieur. Le &cSang&r revêt une grande importance en tant que ressource dans EvilCraft.",
   "chapter.evil.quest.8.description.3": "Si vous avez besoin de plus d'espace de stockage pour l'extracteur, créez-en un supplémentaire, puis combinez-les dans une grille de crafting.",
   "chapter.evil.quest.8.description.4": "Ces seaux peuvent également être utilisés pour extraire du sang des &cTaches de Sang&r que vous rencontrez ou générez sur le sol.",
-  "chapter.evil.quest.8.description.5": "Enfin, une fois que vous avez amassé suffisamment de sang, effectuez un clic droit en mode furtif sur le sol pour placer un seau de sang.",
+  "chapter.evil.quest.8.description.5": "Enfin, une fois que vous avez amassé suffisamment de sang, effectuez un clic droit en mod furtif sur le sol pour placer un seau de sang.",
 
   "chapter.evil.quest.9.subtitle.1": "Stockage de Sang",
   "chapter.evil.quest.9.description.1": "En utilisant la puissance des &9Gemmes Sombres&r, nous pouvons fabriquer des &aRéservoirs Sombres&r.",
