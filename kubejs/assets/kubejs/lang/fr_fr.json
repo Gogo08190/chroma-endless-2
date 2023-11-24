@@ -1441,7 +1441,7 @@
 
   "chapter.stage.4.quest.118.subtitle.1": "Bloc de Demande de Fabrication",
   "chapter.stage.4.quest.118.description.1": "Le bloc &bME Requester&f est important dans un réseau ME. Il permet de définir combien d'item on garde dans notre système ME, si le nombre est inférieur a celui qu'on a défini il va lancer un autocraft de cet item en question. On peut définir 6 items différents dans un requester. Pour le configurer, faites un clic droit. Vous pouvez glisser-déposer des objets depuis la page JEI s'ils ne sont pas disponibles.",
-  "chapter.stage.4.quest.118.description.2": "En parlant des demandes, le nombre spécifie la quantité de stock souhaitée, et la taille du lot détermine combien le 'Requester' demande à chaque fois. Par exemple, si vous configurez le 'Requester' pour des planches avec un nombre de 10 et une taille de lot de 20, il demandera 20 planches à la fois lorsque le stock tombe en dessous de 10. Vous aurez alors 20 planches jusqu'à la prochaine demande."
+  "chapter.stage.4.quest.118.description.2": "En parlant des demandes, le nombre spécifie la quantité de stock souhaitée, et la taille du lot détermine combien le 'Requester' demande à chaque fois. Par exemple, si vous configurez le 'Requester' pour des planches avec un nombre de 10 et une taille de lot de 20, il demandera 20 planches à la fois lorsque le stock tombe en dessous de 10. Vous aurez alors 20 planches jusqu'à la prochaine demande.",
 
   "chapter.stage.4.quest.119.subtitle.1": "Extraction de la Nébulosité Spatiale Partie 1",
   "chapter.stage.4.quest.119.description.1": "Cette première partie contient les blocs pour le noyau principal du Multibloc Extracteur de Nébuleuses.",
