@@ -1986,7 +1986,7 @@
   "chapter.stage.7.quest.45.description.1": "Avec le Fusion Crafting Core au tier Wyvern, combiner des Draconic Cores, Large Chaos Fragments, un Dragon Egg, un pastille d'Antimatière et un Chaotic Core avec un Awakened Crafting Injector.",
 
   "chapter.stage.7.quest.46.subtitle.1": "Élevage de Chaos",
-  "chapter.stage.7.quest.46.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combiner des Dragon Predictions, Golden Dragon Scales, un Chaotic Core, un Dragon Heart et tête de dragon et une Chaos Shard avec un modl Framework.",
+  "chapter.stage.7.quest.46.description.1": "Avec le Fusion Crafting Core au tier Chaotic, combiner des Dragon Predictions, Ecailles Dorées de Dragon, un Chaotic Core, un Dragon Heart et tête de dragon et une Chaos Shard avec un model Framework.",
 
   "chapter.stage.7.quest.47.subtitle.1": "Simulation Chaotique",
   "chapter.stage.7.quest.47.description.1": "Obtenez une prédiction du Chaos Guardian avec la Chambre de Simulation.",
@@ -2047,7 +2047,7 @@
 
   "chapter.machinery.quest.9.title.1": "Regardez un &6High-Pressure Refinery Unit&r complet",
   "chapter.machinery.quest.9.subtitle.1": "Raffinage Immersif",
-  "chapter.machinery.quest.9.description.1": "L'High Pressure Refinery Unit chauffe et combine des fluides dans son tambour de réaction principal. Elle est essentielle aux chaînes de processus secondaires dans le raffinage pétrolier modrne, y compris le craquage et la désulfuration.",
+  "chapter.machinery.quest.9.description.1": "L'High Pressure Refinery Unit chauffe et combine des fluides dans son tambour de réaction principal. Elle est essentielle aux chaînes de processus secondaires dans le raffinage pétrolier moderne, y compris le craquage et la désulfuration.",
 
   "chapter.machinery.quest.10.title.1": "Regardez un &6Distillation Tower&r complète",
   "chapter.machinery.quest.10.subtitle.1": "Distillation en colonne",
@@ -2120,7 +2120,7 @@
 
   "chapter.powah.quest.9.title": "Conseils sur les Câbles",
   "chapter.powah.quest.9.subtitle.1": "Les câbles servent à transférer de l'énergie entre les machines.",
-  "chapter.powah.quest.9.description.1": "Vous pouvez changer le mod de transfert en cliquant avec le bouton droit sur un câble en utilisant une clé à molette en mod Config sélectionné.",
+  "chapter.powah.quest.9.description.1": "Vous pouvez changer le mode de transfert en cliquant avec le bouton droit sur un câble en utilisant une clé à molette en mode Config sélectionné.",
 
   "chapter.powah.quest.10.title": "Porte de l'End",
   "chapter.powah.quest.10.subtitle.1": "Transfert Ender",
@@ -2683,7 +2683,7 @@
 
   "chapter.mekanism.quest.54.subtitle.1": "Transformation Chimique",
   "chapter.mekanism.quest.54.description.1": "Le &bCondensentrator Rotatif&f est utilisé pour convertir des substances entre leurs formes liquides et gazeuses à un taux de 1:1.",
-  "chapter.mekanism.quest.54.description.2": "Il possède deux mods :",
+  "chapter.mekanism.quest.54.description.2": "Il possède deux modes :",
   "chapter.mekanism.quest.54.description.3": "&6Décondensation&f, qui transforme les liquides en gaz.",
   "chapter.mekanism.quest.54.description.4": "&6Condensation&f, qui transforme les gaz en liquides.",
 
@@ -3207,7 +3207,7 @@
 
   "chapter.bigger.quest.21.title": "Réacteur passif à actif",
   "chapter.bigger.quest.21.subtitle.1": "Production de vapeur",
-  "chapter.bigger.quest.21.description.1": "Dans son état passif, un réacteur convertit directement le combustible en énergie. Cependant, en ajoutant un &bPort de réfrigérant de réacteur&r sur la paroi du réacteur, il passe en mod actif. Cette forme active utilise du combustible pour chauffer des fluides, comme la transformation de l'eau en &dVapeur&r.",
+  "chapter.bigger.quest.21.description.1": "Dans son état passif, un réacteur convertit directement le combustible en énergie. Cependant, en ajoutant un &bPort de réfrigérant de réacteur&r sur la paroi du réacteur, il passe en mode actif. Cette forme active utilise du combustible pour chauffer des fluides, comme la transformation de l'eau en &dVapeur&r.",
   "chapter.bigger.quest.21.description.2": "Notez que vous ne pouvez pas avoir à la fois un &cTonneau de puissance&r et un &bPort de réfrigérant&r sur le même réacteur.",
   "chapter.bigger.quest.21.description.3": "Une fois installée, l'interface du réacteur se transformera, fournissant des informations plus détaillées sur son fonctionnement. L'interface mise à jour affichera un réservoir pour le liquide de refroidissement, un autre pour les gaz d'échappement, et le &bTaux de génération des gaz d'échappement&r.",
   "chapter.bigger.quest.21.description.4": "Par exemple, si vous introduisez de l'eau, ce taux indiquera la production de vapeur.",
@@ -3431,7 +3431,7 @@
 
   "chapter.ae.quest.43.subtitle.1": "Réorganisateur de Stockage",
   "chapter.ae.quest.43.description.1": "Le &bPort IO ME&r facilite la réorganisation rapide du stockage d'un réseau ME, transférant des données entre des supports de stockage tels que des cellules ME et des conteneurs externes connectés à des bus de stockage.",
-  "chapter.ae.quest.43.description.2": "Lorsqu'une cellule est placée dans la fente d'entrée de gauche, le Port IO peut changer de mod : il peut soit vider la cellule dans d'autres supports ME, soit remplir une cellule (de préférence partitionnée) avec des objets spécifiques à partir d'autres supports de stockage.",
+  "chapter.ae.quest.43.description.2": "Lorsqu'une cellule est placée dans la fente d'entrée de gauche, le Port IO peut changer de mode : il peut soit vider la cellule dans d'autres supports ME, soit remplir une cellule (de préférence partitionnée) avec des objets spécifiques à partir d'autres supports de stockage.",
 
   "chapter.ae.quest.44.subtitle.1": "Ouvrier de Cellules",
   "chapter.ae.quest.44.description.1": "L'&bÉtabli de Cellules&r permet aux cellules d'être 'partitionnées' pour le stockage d'objets dédié, en définissant essentiellement une liste blanche. De plus, l'établi prend en charge des cartes d'amélioration spécifiques, comme la Carte Inversée, qui convertit la liste blanche en une liste noire.",
@@ -3565,7 +3565,7 @@
   "chapter.ae.quest.78.subtitle.1": "Stockage de Structures Partie 2",
   "chapter.ae.quest.78.description.1": "La Structure de Confinement Spatial (SCS) est composée d'une cage formée par des &bPylônes Spatiaux&r, enveloppant le volume souhaité destiné à la confinement à l'intérieur d'une cellule IO spatiale. Dans sa configuration la plus basique, une SCS nécessite trois rangées de blocs de pylônes spatiaux, chacune correspondant à une dimension de l'espace clos (longueur, largeur, hauteur).",
   "chapter.ae.quest.78.description.2": "Cependant, l'IO spatial constitue une capacité gourmande en énergie, notamment lorsqu'il s'agit d'encapsuler des espaces plus importants (jusqu'à 128x128x128). L'incorporation de pylônes spatiaux supplémentaires à l'intérieur de la SCS enveloppant le volume ciblé améliorera son efficacité globale, lui permettant d'effectuer une capture avec une consommation d'énergie réduite.",
-  "chapter.ae.quest.78.description.3": "De plus, il est important de garder à l'esprit que chaque pylône individuel, quelle que soit sa dimension, consomme un canal. Dans les scénarios impliquant des espaces particulièrement vastes, il peut être judicieux de mettre en place un réseau dédié équipé d'un contrôleur pour accommodr tous les pylônes nécessaires.",
+  "chapter.ae.quest.78.description.3": "De plus, il est important de garder à l'esprit que chaque pylône individuel, quelle que soit sa dimension, consomme un canal. Dans les scénarios impliquant des espaces particulièrement vastes, il peut être judicieux de mettre en place un réseau dédié équipé d'un contrôleur pour accommoder tous les pylônes nécessaires.",
 
   "chapter.ae.quest.79.title" : "Processeurs d'Inscription",
   "chapter.ae.quest.79.subtitle.1": "Création du Traitement",
@@ -3761,7 +3761,7 @@
   "chapter.evil.quest.8.description.2": "Tant que vous portez cet extracteur dans votre inventaire, éliminer les monstres fera collecter leur sang à l'intérieur. Le &cSang&r revêt une grande importance en tant que ressource dans EvilCraft.",
   "chapter.evil.quest.8.description.3": "Si vous avez besoin de plus d'espace de stockage pour l'extracteur, créez-en un supplémentaire, puis combinez-les dans une grille de crafting.",
   "chapter.evil.quest.8.description.4": "Ces seaux peuvent également être utilisés pour extraire du sang des &cTaches de Sang&r que vous rencontrez ou générez sur le sol.",
-  "chapter.evil.quest.8.description.5": "Enfin, une fois que vous avez amassé suffisamment de sang, effectuez un clic droit en mod furtif sur le sol pour placer un seau de sang.",
+  "chapter.evil.quest.8.description.5": "Enfin, une fois que vous avez amassé suffisamment de sang, effectuez un clic droit en sneak sur le sol pour placer un seau de sang.",
 
   "chapter.evil.quest.9.subtitle.1": "Stockage de Sang",
   "chapter.evil.quest.9.description.1": "En utilisant la puissance des &9Gemmes Sombres&r, nous pouvons fabriquer des &aRéservoirs Sombres&r.",
