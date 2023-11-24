@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://www.curseforge.com/minecraft/modpacks/chroma-endless">
-    <img border="0" alt="Chroma Endless 2" src="https://imgur.com/5X6YNc4.jpg">
+    <img border="0" alt="Chroma Endless 2" src="https://chromatech.fr/img/ce2banner.jpg">
   </a>
 </p>
 <h1 align="center">Chroma Endless 2</h1>
@@ -53,7 +53,7 @@ Embark on an adventure and uncover a world where possibilities truly have no end
 
 <p align="center">
   <a target="_blank" href="https://bisecthosting.com/chromatech">
-    <img border="0" alt="BisectHosting" src="https://imgur.com/xj2fEQc.jpg">
+    <img border="0" alt="BisectHosting" src="https://chromatech.fr/img/ce2_bh_card.jpg">
   </a>
 </p>                                                                                                                                             
 
