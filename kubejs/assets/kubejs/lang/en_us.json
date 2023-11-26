@@ -1821,7 +1821,7 @@
   "chapter.stage.6.quest.43.description.1": "Combine 2 compatibles Chemical Element in order to get a Super Chemical Element.",
 
   "chapter.stage.6.quest.44.subtitle.1": "Void Miner Tier 3",
-  "chapter.stage.6.quest.44.description.1": "Better Than the Tier 2",
+  "chapter.stage.6.quest.44.description.1": "Better Than Tier 2",
 
   "Stage 7":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
@@ -1963,7 +1963,8 @@
   "chapter.stage.7.quest.37.subtitle.1": "Awakening Core",
   "chapter.stage.7.quest.37.description.1": "With the Fusion Crafting Core at the Wyvern Tier combine Wyvern Cores, Awakened Draconium Ingots and a Nether Star.",
 
-  "chapter.stage.7.quest.38.subtitle.1": "Void Miner T4",
+  "chapter.stage.7.quest.38.title.1": "Void Miner Tier 4",
+  "chapter.stage.7.quest.38.subtitle.1": "Better Than Tier 3",
 
   "chapter.stage.7.quest.39.subtitle.1": "Awakening Injector",
   "chapter.stage.7.quest.39.description.1": "With the Fusion Crafting Core at the Wyvern Tier combine Wyvern Cores, an Awakened Draconium Core, Crystaltine Ingots, an Infinite Control Circuit and an Awakened Draconium block with a Wyvern Fusion Crafting Injector.",
