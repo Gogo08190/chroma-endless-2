@@ -14,7 +14,7 @@
 		height: 0.5d
 		rotation: 0.0d
 		image: "cofh_core:textures/gui/icons/icon_information.png"
-		hover: ["Applied Energisitcs 2 Guide"]
+		hover: ["{chapter.ae.info}"]
 		click: "https://appliedenergistics.org/"
 		dev: false
 		corner: false

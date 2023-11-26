@@ -687,13 +687,7 @@
 					item: {
 						id: "evilcraft:colossal_blood_chest"
 						Count: 1
-						tag: {
-							Fluid: {
-								FluidName: "minecraft:empty"
-								Amount: 0
-							}
-							capacity: 10000
-						}
+						tag: { }
 						ForgeCaps: {
 							Parent: {
 								FluidName: "minecraft:empty"
