@@ -3256,7 +3256,7 @@
   "chapter.ae.quest.2.description.1": "Une clé à douille fabriquée en Cristal de Certus Quartz ou Quartz de l'Enfer. Utile pour faire tourner des blocs et retirer des parties individuelles des câbles.",
 
   "chapter.ae.quest.3.subtitle.1": "Station de Charge",
-  "chapter.ae.quest.3.description.1": "Lorsqu'elle est alimentée, la &bStation de Charge&r charge les &6Cristaux de Certus Quartz&r, les transformant en &6Cristaux de Certus Chargés&r. Ceux-ci sont essentiels pour produire du &6Fluix&, une ressource vitale dans le mod. De plus, elle peut charger n'importe quel objet de stockage d'énergie.",
+  "chapter.ae.quest.3.description.1": "Lorsqu'elle est alimentée, la &bStation de Charge&r charge les &6Cristaux de Certus Quartz&r, les transformant en &6Cristaux de Certus Chargés&r. Ceux-ci sont essentiels pour produire du &6Fluix&r, une ressource vitale dans le mod. De plus, elle peut charger n'importe quel objet de stockage d'énergie.",
 
   "chapter.ae.quest.4.subtitle.1": "Entrée RF",
   "chapter.ae.quest.4.description.1": "Bien que l'Inscriber et la Station de Charge prennent en charge nativement le RF/FE, la majeure partie du réseau ME fonctionne avec son propre système d'alimentation distinct appelé AE.",
