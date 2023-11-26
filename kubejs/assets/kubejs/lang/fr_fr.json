@@ -3172,6 +3172,7 @@
   "chapter.bigger.quest.10.description.5": "• &aModération :&r L'efficacité avec laquelle les radiations sont modérées ('adoucies').",
   "chapter.bigger.quest.10.description.6": "• &aConductivité :&r Comment la chaleur est transférée des barres de combustible à l'enveloppe du réacteur.",
   "chapter.bigger.quest.10.description.7": "En général, des valeurs plus élevées sont toujours meilleures (à l'exception de l'absorption, qui peut être meilleure ou pire en fonction de la conception de votre réacteur).",
+  "chapter.bigger.quest.10.info.1": "Liste complète des modérateurs",
 
   "chapter.bigger.quest.11.subtitle.1": "Déchets nucléaires",
   "chapter.bigger.quest.11.description.1": "Le &bCyanite&r est un déchet résultant de la combustion de l'uranium dans le réacteur passif.",
@@ -3237,6 +3238,7 @@
   "chapter.bigger.quest.23.description.4": "• &aEfficacité :&r Affecte la quantité de RF bonus qui est ensuite convertie en RF de sortie.",
   "chapter.bigger.quest.23.description.5": "• &aBonus :&r Applique un bonus RF final exponentiel sur la valeur RF extraite.",
   "chapter.bigger.quest.23.description.6": "En général, plus les valeurs sont élevées, meilleure est la production de RF.",
+  "chapter.bigger.quest.23.info.1": "Liste complète des bobines de turbine et de leurs propriétés",
 
   "Applied Energistics": "---------------------------------------------------------------------------------------------------------------------------------------------------",
 

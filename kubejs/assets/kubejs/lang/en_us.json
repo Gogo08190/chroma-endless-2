@@ -3172,6 +3172,7 @@
   "chapter.bigger.quest.10.description.5": "• &aModeration:&r The effectiveness at which radiation is moderated ('softened').",
   "chapter.bigger.quest.10.description.6": "• &aConductivity:&r How well heat is transferred from the fuel rods to the reactor casing.",
   "chapter.bigger.quest.10.description.7": "In general, higher values are always better (except for absorption, which may be better or worse depending on your reactor design).",
+  "chapter.bigger.quest.10.info.1": "Full List of Moderators",
 
   "chapter.bigger.quest.11.subtitle.1": "Nuclear Waste",
   "chapter.bigger.quest.11.description.1": "&bCyanite&r is a waste resulting from the combustion of uranium in the passive reactor.",
@@ -3237,6 +3238,7 @@
   "chapter.bigger.quest.23.description.4": "• &aEfficiency:&r Affects how much of the bonus RF is then turned into output RF.",
   "chapter.bigger.quest.23.description.5": "• &aBonus:&r Applies a final exponential RF bonus onto the extracted RF value .",
   "chapter.bigger.quest.23.description.6": "In general, higher values are better.",
+  "chapter.bigger.quest.23.info.1": "Full List of Turbine Coils and Properties",
 
   "Applied Energistics":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
