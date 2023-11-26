@@ -15,7 +15,7 @@
 			height: 0.5d
 			rotation: 0.0d
 			image: "cofh_core:textures/gui/icons/icon_information.png"
-			hover: ["Full List of Moderators"]
+			hover: ["{chapter.bigger.quest.10.info.1}"]
 			click: "https://biggerseries.net/en/biggerreactors/reactor/moderators"
 			dev: false
 			corner: false
@@ -27,7 +27,7 @@
 			height: 0.5d
 			rotation: 0.0d
 			image: "cofh_core:textures/gui/icons/icon_information.png"
-			hover: ["Full List of Turbine Coils and Properties"]
+			hover: ["{chapter.bigger.quest.23.info.1}"]
 			click: "https://biggerseries.net/en/biggerreactors/turbine/coils"
 			dev: false
 			corner: false

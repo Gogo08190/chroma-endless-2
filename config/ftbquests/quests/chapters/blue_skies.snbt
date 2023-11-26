@@ -123,7 +123,7 @@
 			tasks: [{
 				id: "74CE8E807D9ABFB0"
 				type: "item"
-				title: "Any Blue Skies Wooden Pickaxe"
+				title: "{chapter.bs.quest.2.title}"
 				item: {
 					id: "itemfilters:or"
 					Count: 1
@@ -207,7 +207,7 @@
 			tasks: [{
 				id: "5F7E48BA185528B2"
 				type: "item"
-				title: "Any Blue Skies Stone Pickaxe"
+				title: "{chapter.bs.quest.10.title}"
 				item: {
 					id: "itemfilters:or"
 					Count: 1
@@ -278,7 +278,7 @@
 			tasks: [{
 				id: "4B95348028B34C8E"
 				type: "item"
-				title: "Any Blue Skies Spear"
+				title: "{chapter.bs.quest.3.title}"
 				item: {
 					id: "itemfilters:or"
 					Count: 1
@@ -1122,7 +1122,7 @@
 			}]
 		}
 		{
-			title: "{chapter.bs.quest.24.title}"
+			title: "{chapter.bs.quest.25.title}"
 			x: 16.5d
 			y: 13.5d
 			shape: "hexagon"

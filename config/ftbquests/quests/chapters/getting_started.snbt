@@ -291,6 +291,7 @@
 				"{chapter.stage.1.quest.11.description.3}"
 			]
 			dependencies: ["52F41B4EC55CF7E7"]
+			min_width: 300
 			id: "441CE6D625161842"
 			tasks: [
 				{
@@ -612,6 +613,7 @@
 				"{chapter.stage.1.quest.23.description.2}"
 			]
 			dependencies: ["764066296A108875"]
+			min_width: 300
 			id: "311EE5DA420856A5"
 			tasks: [{
 				id: "1B014B98C46E00CC"

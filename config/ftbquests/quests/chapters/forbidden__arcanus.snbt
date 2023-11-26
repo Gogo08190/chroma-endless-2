@@ -1030,7 +1030,7 @@
 			tasks: [{
 				id: "427B17C303F12C07"
 				type: "item"
-				title: "Blacksmith Gavel"
+				title: "{chapter.forbidden.quest.37.title}"
 				item: {
 					id: "itemfilters:or"
 					Count: 1
@@ -1298,7 +1298,7 @@
 			tasks: [{
 				id: "7150437822A11E23"
 				type: "checkmark"
-				title: "Powering the Forge"
+				title: "{chapter.forbidden.quest.34.title.1}"
 			}]
 			rewards: [{
 				id: "4A006589BCCC903C"

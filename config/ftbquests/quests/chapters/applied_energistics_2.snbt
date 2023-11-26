@@ -360,6 +360,7 @@
 				"{chapter.ae.quest.37.description.4}"
 			]
 			dependencies: ["684F456BDD1867D1"]
+			min_width: 300
 			id: "2BBC974C46DDF33F"
 			tasks: [
 				{
@@ -581,6 +582,7 @@
 				"{chapter.ae.quest.5.description.2}"
 			]
 			dependencies: ["2DB69E0DA88D75C9"]
+			min_width: 300
 			id: "35E0BBD81E4C524A"
 			tasks: [
 				{
@@ -1763,6 +1765,7 @@
 			]
 			hide_dependency_lines: true
 			dependencies: ["157FE966949A6CEE"]
+			min_width: 300
 			id: "77437A1BC1E2E19A"
 			tasks: [
 				{
@@ -1809,6 +1812,7 @@
 			]
 			dependencies: ["064C42F6726AF695"]
 			size: 1.5d
+			min_width: 300
 			id: "47CCBB423DC0B88C"
 			tasks: [{
 				id: "0B41F9CF49915756"
@@ -1997,6 +2001,7 @@
 				"{chapter.ae.quest.27.description.3}"
 			]
 			dependencies: ["6B3FAABCCAAE8F01"]
+			min_width: 300
 			id: "59DA34D586ED2870"
 			tasks: [{
 				id: "02869A7D5FB03950"
@@ -2198,6 +2203,7 @@
 				"{chapter.ae.quest.17.description.3}"
 			]
 			dependencies: ["00CFD2B9E9723DC6"]
+			min_width: 300
 			id: "2B74732EED5F2CAA"
 			tasks: [{
 				id: "168A3721E375EC9A"
@@ -2309,6 +2315,7 @@
 				"{chapter.ae.quest.21.description.2}"
 			]
 			dependencies: ["6E8D57FE28E1E4A5"]
+			min_width: 300
 			id: "5AE568732F44B41C"
 			tasks: [{
 				id: "3D3DEA127527746C"
@@ -2590,6 +2597,7 @@
 				"{chapter.ae.quest.74.description.2}"
 			]
 			dependencies: ["0B890D78431E8189"]
+			min_width: 300
 			id: "414805D39050FF4C"
 			tasks: [{
 				id: "0F2FCCDE3195C828"

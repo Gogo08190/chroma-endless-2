@@ -89,6 +89,7 @@
 			description: ["{chapter.shop.task.description}"]
 			dependencies: ["51B5C098A8CFF70E"]
 			size: 3.0d
+			min_width: 300
 			id: "300537E738AF88CB"
 			tasks: [{
 				id: "218EFA228500670C"

@@ -1136,6 +1136,7 @@
 				"30C63B030158B258"
 				"492AC5035C5B11AF"
 			]
+			min_width: 300
 			id: "0B0FB1A24C881B0A"
 			tasks: [{
 				id: "1F938ACF1A18FFED"
@@ -1948,7 +1949,7 @@
 			x: -5.5d
 			y: -9.0d
 			shape: "square"
-			subtitle: "{hapter.mekanism.quest.16.subtitle.1}"
+			subtitle: "{chapter.mekanism.quest.16.subtitle.1}"
 			description: ["{chapter.mekanism.quest.16.description.1}"]
 			dependencies: [
 				"1150C87094D9662A"
@@ -3254,6 +3255,7 @@
 			x: -4.5d
 			y: 14.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.124.subtitle.1}"
 			description: ["{chapter.mekanism.quest.124.description.1}"]
 			dependencies: ["105A56C8F79D71B0"]
 			id: "0975B2A27D28DA7D"
@@ -3559,6 +3561,7 @@
 			x: -5.5d
 			y: 16.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.143.subtitle.1}"
 			description: [
 				"{chapter.mekanism.quest.143.description.1}"
 				""
@@ -3631,6 +3634,7 @@
 			x: -7.0d
 			y: 17.0d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.146.subtitle.1}"
 			description: [
 				"{chapter.mekanism.quest.146.description.1}"
 				""
@@ -3703,6 +3707,7 @@
 			x: -7.5d
 			y: 15.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.132.subtitle.1}"
 			description: [
 				"{chapter.mekanism.quest.132.description.1}"
 				""
@@ -3900,6 +3905,7 @@
 			x: -6.5d
 			y: 14.5d
 			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.123.subtitle.1}"
 			description: [
 				"{chapter.mekanism.quest.123.description.1}"
 				""

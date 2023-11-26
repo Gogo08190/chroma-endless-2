@@ -2620,6 +2620,7 @@
 				"{chapter.stage.4.quest.118.description.2}"
 			]
 			dependencies: ["26CAD9E34BDFF285"]
+			min_width: 300
 			id: "660432C32AD8E7B8"
 			tasks: [{
 				id: "743CE362789294C8"

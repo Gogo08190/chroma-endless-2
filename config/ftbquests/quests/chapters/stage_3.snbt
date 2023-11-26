@@ -1508,6 +1508,7 @@
 				"02DA081A050F4BBF"
 				"457A28641EB7FEBA"
 			]
+			min_width: 300
 			id: "2E8893A3038F6EA6"
 			tasks: [{
 				id: "7107C472E86C7A81"

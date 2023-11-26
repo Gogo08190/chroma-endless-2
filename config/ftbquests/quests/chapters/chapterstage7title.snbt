@@ -958,6 +958,7 @@
 			}]
 		}
 		{
+			title: "{chapter.stage.7.quest.38.title.1}"
 			icon: "chroma:void_miner_tier_4"
 			x: 19.0d
 			y: 11.0d

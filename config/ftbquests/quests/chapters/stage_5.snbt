@@ -731,7 +731,7 @@
 			tasks: [{
 				id: "7F26B776556551B6"
 				type: "dimension"
-				title: "Visit Dimension : &bAlfheim&r"
+				title: "{chapter.stage.5.quest.33.title.1}"
 				icon: {
 					id: "ftbquests:custom_icon"
 					Count: 1

@@ -514,6 +514,7 @@
 				"3A7B1F0C2480D0AB"
 				"165A1D20CEEA51A3"
 			]
+			min_width: 300
 			id: "4121E7BEB3421C80"
 			tasks: [
 				{
@@ -686,7 +687,13 @@
 					item: {
 						id: "evilcraft:colossal_blood_chest"
 						Count: 1
-						tag: { }
+						tag: {
+							Fluid: {
+								FluidName: "minecraft:empty"
+								Amount: 0
+							}
+							capacity: 10000
+						}
 						ForgeCaps: {
 							Parent: {
 								FluidName: "minecraft:empty"
