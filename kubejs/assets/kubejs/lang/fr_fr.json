@@ -121,11 +121,11 @@
   "chapter.shop.globe.title.5": "Globe de Vénus",
   "chapter.shop.globe.title.6": "Globe de Glacio",
 
-  "chapter.shop.bs.title.1": "Clé du Donjon Aveuglant",
-  "chapter.shop.bs.title.2": "Clé du Donjon Naturel",
-  "chapter.shop.bs.title.3": "Clé du Donjon Empoisonné",
+  "chapter.shop.bs.title.1": "&7Clé de Donjon Aveuglante",
+  "chapter.shop.bs.title.2": "&aClé du Donjon de la nature",
+  "chapter.shop.bs.title.3": "&dClé du Donjon Empoisonné",
 
-  "chapter.shop.draco.title.1": "Cœur du Chaos",
+  "chapter.shop.draco.title.1": "&8Cœur du Chaos",
 
   "chapter.shop.crea.title.1": "Moteur Créatif",
   "chapter.shop.crea.title.2": "Emplacement de Défense Créatif",
@@ -3677,10 +3677,10 @@
   "chapter.bs.quest.24.title": "Armure de Diopside",
   "chapter.bs.quest.24.subtitle.1": "Armure Verte",
 
-  "chapter.bs.quest.25.title": "Clé de Donjon Éblouissant",
+  "chapter.bs.quest.25.title": "Clé de Donjon Aveuglante",
   "chapter.bs.quest.25.subtitle.1": "Les Donjons de Départ",
   "chapter.bs.quest.25.description.1": "Que vous ayez commencé dans Everbright ou Everdawn, privilégiez la recherche d'une structure de tour. Ces images seront fournies dans les quêtes suivantes. Ces tours abritent vos premières confrontations de boss.",
-  "chapter.bs.quest.25.description.2": "Dans les sections plus petites de la tour, engagez-vous dans des combats pour sécuriser le butin et obtenir des &6Clés de Donjon Éblouissant&r. Au cœur du donjon, vous rencontrerez une porte verrouillée. Utilisez 4 Clés de Donjon Éblouissant pour déverrouiller le combat de boss à l'intérieur.",
+  "chapter.bs.quest.25.description.2": "Dans les sections plus petites de la tour, engagez-vous dans des combats pour sécuriser le butin et obtenir des &6Clés de Donjon Aveuglante&r. Au cœur du donjon, vous rencontrerez une porte verrouillée. Utilisez 4 Clés de Donjon Éblouissant pour déverrouiller le combat de boss à l'intérieur.",
   "chapter.bs.quest.25.description.3": "Note : Après avoir vaincu le boss, il laissera tomber un Arc. Ceux-ci peuvent être équipés dans un onglet désigné de votre inventaire, avec un total de 4 Arcs disponibles.",
 
   "chapter.bs.quest.26.subtitle.1": "Bouclier avec Dégâts",
