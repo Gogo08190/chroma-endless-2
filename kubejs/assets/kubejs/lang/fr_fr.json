@@ -822,8 +822,8 @@
   "chapter.stage.3.quest.10.description.1": "Énergisez un Lingot de Netherite avec de l'Électrum et obtenez un &e&lAcier Énergisé&r !",
 
   "chapter.stage.3.quest.11.subtitle.1": "Artisanat Explosif !",
-  "chapter.stage.3.quest.11.description.1": "Pour obtenir cet objet au départ, lâchez un &Acier Énergisé&r et activez de la TNT à côté de l'objet (ou des objets) lâché(s). 90%% des lingots seront convertis en &7Lingots d'Acier Compressé&r.",
-  "chapter.stage.3.quest.11.description.2": "Mais ne vous inquiétez pas, il y a un moyen d'obtenir de l'acier compressé avec un taux de 100% en créant la &eChambre de Pression&r. Tout &Acier Énergisé&r que vous placez dedans avec au moins 2,0 bars de pression sera converti en &7Lingots d'Acier Compressé&r.",
+  "chapter.stage.3.quest.11.description.1": "Pour obtenir cet objet au départ, lâchez un &6Acier Énergisé&r et activez de la TNT à côté de l'objet (ou des objets) lâché(s). 90%% des lingots seront convertis en &7Lingots d'Acier Compressé&r.",
+  "chapter.stage.3.quest.11.description.2": "Mais ne vous inquiétez pas, il y a un moyen d'obtenir de l'acier compressé avec un taux de 100%% en créant la &eChambre de Pression&r. Tout &6Acier Énergisé&r que vous placez dedans avec au moins 2,0 bars de pression sera converti en &7Lingots d'Acier Compressé&r.",
 
   "chapter.stage.3.quest.12.subtitle.1": "Dispersion de la Chaleur",
   "chapter.stage.3.quest.12.description.1": "Un bloc qui disperse la chaleur et la fraicheur dans l'air. Il ne dissipe que la chaleur du bloc sur lequel il se trouve.",
