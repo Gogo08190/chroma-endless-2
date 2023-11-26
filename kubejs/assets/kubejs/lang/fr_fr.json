@@ -1472,9 +1472,9 @@
   "chapter.stage.4.quest.128.subtitle.1": "Cellules de Matrice d'Induction",
   "chapter.stage.4.quest.128.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daugmente la capacité totale de stockage d'énergie&f d'une Matrice.",
 
-  "chapter.stage.4.quest.129.title": "'Providers' d'induction",
+  "chapter.stage.4.quest.129.title": "Fournisseurs d'induction",
   "chapter.stage.4.quest.129.subtitle.1": "'Providers' de Matrice",
-  "chapter.stage.4.quest.129.description.1": "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut délivrer par tick&f à travers le Port d'Induction.",
+  "chapter.stage.4.quest.129.description.1": "Les &bFournisseurs d'induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut délivrer par tick&f à travers le Port d'Induction.",
 
   "chapter.stage.4.quest.130.subtitle.1": "Accès au Vide",
   "chapter.stage.4.quest.130.description.1": "À l'aide de la Fabrication de Miniaturisation, construisez le Multibloc avec des Blocs d'Obsidienne Transformée, de l'Obsidienne, du Verre Sombre, des Blocs de Métal Oublié, des Blocs de Cristal Flamboyant et la Machine Compacte Maximale.",
@@ -2644,16 +2644,16 @@
   "chapter.mekanism.quest.40.description.1": "La &bCarcasse d'Induction&f forme la structure multi-blocs de la &eMatrice d'Induction&f, une structure de &6stockage d'énergie&f capable de stocker une grande quantité d'énergie.",
 
   "chapter.mekanism.quest.41.subtitle.1": "Fourniture de Matrice : Basique",
-  "chapter.mekanism.quest.41.description.1": "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.41.description.1": "Les &bFournisseurs d'induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.42.subtitle.1": "Fourniture de Matrice : Avancée",
-  "chapter.mekanism.quest.42.description.1" : "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.42.description.1" : "Les &bFournisseurs d'induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.43.subtitle.1": "Fourniture de Matrice : Élite",
-  "chapter.mekanism.quest.43.description.1" : "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.43.description.1" : "Les &bFournisseurs d'induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.44.subtitle.1": "Fourniture de Matrice : Ultime",
-  "chapter.mekanism.quest.44.description.1" : "Les &b'Providers' d'Induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
+  "chapter.mekanism.quest.44.description.1" : "Les &bFournisseurs d'induction&f sont utilisés dans la &eMatrice d'Induction&f pour déterminer &dcombien d'énergie elle peut fournir par opération&f via le Port d'Induction.",
 
   "chapter.mekanism.quest.45.subtitle.1": "Cellule Basique",
   "chapter.mekanism.quest.45.description.1": "Les &bCellules d'Induction&f sont des composants de la &eMatrice d'Induction&f. Chaque cellule &daccroît la capacité de stockage totale d'énergie&f d'une Matrice.",
