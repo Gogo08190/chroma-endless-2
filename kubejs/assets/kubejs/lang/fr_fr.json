@@ -329,7 +329,7 @@
   "chapter.stage.1.quest.21.description.1" : "N'oubliez pas d'apporter des potions de résistance au feu !",
 
   "chapter.stage.1.quest.22.subtitle.1": "C'est l'heure de Bronzer",
-  "chapter.stage.1.quest.22.description.1" : "Combinez un &#B87333Lingot de cuivret&r et un &#BAC4C8Lingot de Zinc&r dans un &oCreate&r &lMechanical Mixer&r et &lBassin&r (&4Chauffé&r). Ils vont fusionner et donner du &#B5A642Lingot de Laiton&r",
+  "chapter.stage.1.quest.22.description.1" : "Combinez un &#B87333Lingot de cuivre&r et un &#BAC4C8Lingot de Zinc&r dans un &oCreate&r &lMechanical Mixer&r et &lBassin&r (&4Chauffé&r). Ils vont fusionner et donner un &#B5A642Lingot de Laiton&r",
 
   "chapter.stage.1.quest.23.subtitle.1": "Le Déployeur simule une interaction de joueur. Il peut atteindre jusqu'à 2 blocs autour de lui",
   "chapter.stage.1.quest.23.description.1" : "Le Déployeur simule de base le clic droit d'un joueur. Vous pouvez choisir de simuler un clic gauche de joueur avec un clic gauche sur le Déployeur avec la Clé Create.",
