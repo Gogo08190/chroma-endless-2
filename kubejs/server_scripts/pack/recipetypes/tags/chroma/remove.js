@@ -135,3 +135,7 @@ onEvent('item.tags', (event) => {
       event.removeAllTagsFrom(seed)
   });
 });
+
+onEvent('item.tags', event => {
+  event.remove('forge:storage_blocks/copper', 'minecraft:cut_copper')
+})
