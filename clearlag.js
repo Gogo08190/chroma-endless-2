@@ -34,7 +34,29 @@ let blacklist = [
   'draconicadditions:chaos_heart',
   'draconicevolution:dragon_heart',
   'minecraft:dragon_egg',
-  'minecraft:dragon_head'
+  'minecraft:dragon_head',
+  'create:crushed_raw_iron',
+  'create:crushed_raw_gold',
+  'create:crushed_raw_copper',
+  'create:crushed_raw_zinc',
+  'create:crushed_raw_osmium',
+  'create:crushed_raw_silver',
+  'create:crushed_raw_tin',
+  'create:crushed_raw_lead',
+  'create:crushed_raw_aluminum',
+  'create:crushed_raw_uranium',
+  'create:crushed_raw_nickel',
+  'jaopca:create_crushed_ores.calorite',
+  'jaopca:create_crushed_ores.cloggrum',
+  'jaopca:create_crushed_ores.cobalt',
+  'jaopca:create_crushed_ores.desh',
+  'jaopca:create_crushed_ores.draconium',
+  'jaopca:create_crushed_ores.elementium',
+  'jaopca:create_crushed_ores.froststeel',
+  'jaopca:create_crushed_ores.netherite_scrap',
+  'jaopca:create_crushed_ores.ostrum',
+  'jaopca:create_crushed_ores.regalium',
+  'jaopca:create_crushed_ores.utherium'
 ];
 
 // Notification Clear Items
