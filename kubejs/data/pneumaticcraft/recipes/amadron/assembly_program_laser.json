@@ -3,7 +3,7 @@
   "id": "pneumaticcraft:amadron/assembly_program_laser",
   "input": {
     "type": "ITEM",
-    "id": "numismaticoverhaul:silver_coin",
+    "id": "powah:steel_energized",
     "amount": 49
   },
   "output": {

@@ -3,8 +3,8 @@
   "id": "pneumaticcraft:amadron/pcb_blueprint",
   "input": {
     "type": "ITEM",
-    "id": "numismaticoverhaul:gold_coin",
-    "amount": 1
+    "id": "lazierae2:fluix_steel_ingot",
+    "amount": 16
   },
   "output": {
     "type": "ITEM",

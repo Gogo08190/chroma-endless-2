@@ -3,8 +3,8 @@
   "id": "pneumaticcraft:amadron/assembly_program_drill_laser",
   "input": {
     "type": "ITEM",
-    "id": "numismaticoverhaul:gold_coin",
-    "amount": 1
+    "id": "lazierae2:fluix_steel_ingot",
+    "amount": 16
   },
   "output": {
     "type": "ITEM",

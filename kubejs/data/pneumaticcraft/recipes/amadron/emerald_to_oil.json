@@ -3,7 +3,7 @@
   "id": "pneumaticcraft:amadron/emerald_to_oil",
   "input": {
     "type": "ITEM",
-    "id": "numismaticoverhaul:silver_coin",
+    "id": "powah:steel_energized",
     "amount": 6
   },
   "output": {
