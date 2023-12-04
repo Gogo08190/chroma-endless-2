@@ -1323,6 +1323,11 @@
 					item: "create:crushing_wheel"
 					count: 2L
 				}
+				{
+					id: "2A57223EB0CDB4C0"
+					type: "item"
+					item: "simplylight:illuminant_block"
+				}
 			]
 			rewards: [{
 				id: "78C7FAD648E35946"
