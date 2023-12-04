@@ -78,7 +78,7 @@
     },
     {
       "uid": "basic_cobalrite_sieving",
-      "duration": 1,
+      "duration": 60,
       "inputs": {
         "item": [
           {
