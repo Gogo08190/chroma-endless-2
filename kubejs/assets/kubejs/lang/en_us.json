@@ -819,7 +819,7 @@
   "chapter.stage.3.quest.9.description.1": "The &3Enegizing Orb&r is the main part in the Energizing Crafts. Place your items in it and wait !",
 
   "chapter.stage.3.quest.10.subtitle.1": "Your first Energized Craft",
-  "chapter.stage.3.quest.10.description.1": "Energize a Netherite Ingot with an Electrum and get an &e&lEnergized Steel !",
+  "chapter.stage.3.quest.10.description.1": "Energize a Steel Ingot with an Electrum and get an &e&lEnergized Steel !",
 
   "chapter.stage.3.quest.11.subtitle.1": "Explosive Crafting !",
   "chapter.stage.3.quest.11.description.1": "To obtain this item to begin with, drop &6Energized Steel&r and activate TNT next to the dropped item(s). 90%% of the ingots will be converted into &7Compressed Steel Ingots&r.",
@@ -3766,7 +3766,7 @@
   "chapter.evil.quest.8.description.2": "As long as you carry this extractor in your inventory, eliminating mobs will cause their blood to be collected within it. &cBlood&r holds significant importance as a resource in EvilCraft.",
   "chapter.evil.quest.8.description.3": "If you require increased storage for the Extractor, create an additional one and then combine them within a crafting grid.",
   "chapter.evil.quest.8.description.4": "These buckets can also be employed to extract blood from &cBlood Stains&r that you encounter or generate on the ground.",
-  "chapter.evil.quest.8.description.5": "Finally, once you've amassed sufficient blood, perform a sneak-right click on the ground to place a bucket of blood.",
+  "chapter.evil.quest.8.description.5": "Finally, once you've amassed sufficient blood, perform a right click on the ground to place a bucket of blood.",
 
   "chapter.evil.quest.9.subtitle.1": "Blood Storage",
   "chapter.evil.quest.9.description.1": "Harnessing the potency of &9Dark Gems&r, we can fabricate &aDark Tanks&r.",
