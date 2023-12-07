@@ -57,7 +57,7 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}aluminum_rod`
       },
       {
-        inputs: [Item.of('#forge:ingots/steel'), Ingredient.of('immersiveengineering:mold_rod')],
+        inputs: [Item.of('immersiveengineering:ingot_steel'), Ingredient.of('immersiveengineering:mold_rod')],
         output: Item.of('immersiveengineering:stick_steel', 2),
         energy: '2400',
         id: `${id_prefix}steel_rod`
@@ -67,6 +67,36 @@ onEvent('recipes', (event) => {
         output: Item.of('immersiveengineering:stick_iron', 2),
         energy: '2400',
         id: `${id_prefix}iron_rod`
+      },
+      {
+        inputs: [Item.of('#forge:ingots/copper'), Ingredient.of('immersiveengineering:mold_wire')],
+        output: Item.of('immersiveengineering:wire_copper', 2),
+        energy: '2400',
+        id: `${id_prefix}wire_copper`
+      },
+      {
+        inputs: [Item.of('#forge:ingots/electrum'), Ingredient.of('immersiveengineering:mold_wire')],
+        output: Item.of('immersiveengineering:wire_electrum', 2),
+        energy: '2400',
+        id: `${id_prefix}wire_electrum`
+      },
+      {
+        inputs: [Item.of('#forge:ingots/aluminum'), Ingredient.of('immersiveengineering:mold_wire')],
+        output: Item.of('immersiveengineering:wire_aluminum', 2),
+        energy: '2400',
+        id: `${id_prefix}wire_aluminum`
+      },
+      {
+        inputs: [Item.of('#forge:ingots/lead'), Ingredient.of('immersiveengineering:mold_wire')],
+        output: Item.of('immersiveengineering:wire_lead', 2),
+        energy: '2400',
+        id: `${id_prefix}wire_lead`
+      },
+      {
+        inputs: [Item.of('immersiveengineering:ingot_steel'), Ingredient.of('immersiveengineering:mold_wire')],
+        output: Item.of('immersiveengineering:wire_steel', 2),
+        energy: '2400',
+        id: `${id_prefix}wire_steel`
       },
       {
         inputs: ['#forge:sheetmetals/lead'],
