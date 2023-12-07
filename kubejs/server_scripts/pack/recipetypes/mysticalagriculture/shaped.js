@@ -166,6 +166,14 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}forgotten_ingot`
         },
         {
+            output: Item.of('undergarden:froststeel_ingot', 3),
+            pattern: ['AAA', 'A A', 'AAA'],
+            key: {
+                A: 'mysticalagriculture:froststeel_essence'
+            },
+            id: `${id_prefix}froststeel_ingot`
+        },
+        {
             output: Item.of('immersiveengineering:ingot_steel', 3),
             pattern: ['AAA', 'A A', 'AAA'],
             key: {
