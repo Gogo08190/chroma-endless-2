@@ -819,7 +819,7 @@
   "chapter.stage.3.quest.9.description.1": "L'&3Orbe d'Énergie&r est la partie principale des fabrications énergisées. Placez vos objets dedans et attendez !",
 
   "chapter.stage.3.quest.10.subtitle.1": "Votre première fabrication Énergisée",
-  "chapter.stage.3.quest.10.description.1": "Énergisez un Lingot de Netherite avec de l'Électrum et obtenez un &e&lAcier Énergisé&r !",
+  "chapter.stage.3.quest.10.description.1": "Énergisez un Lingot d'acier avec de l'Électrum et obtenez un &e&lAcier Énergisé&r !",
 
   "chapter.stage.3.quest.11.subtitle.1": "Artisanat Explosif !",
   "chapter.stage.3.quest.11.description.1": "Pour obtenir cet objet au départ, lâchez un &6Acier Énergisé&r et activez de la TNT à côté de l'objet (ou des objets) lâché(s). 90%% des lingots seront convertis en &7Lingots d'Acier Compressé&r.",
@@ -3766,7 +3766,7 @@
   "chapter.evil.quest.8.description.2": "Tant que vous portez cet extracteur dans votre inventaire, éliminer les monstres fera collecter leur sang à l'intérieur. Le &cSang&r revêt une grande importance en tant que ressource dans EvilCraft.",
   "chapter.evil.quest.8.description.3": "Si vous avez besoin de plus d'espace de stockage pour l'extracteur, créez-en un supplémentaire, puis combinez-les dans une grille de crafting.",
   "chapter.evil.quest.8.description.4": "Ces seaux peuvent également être utilisés pour extraire du sang des &cTaches de Sang&r que vous rencontrez ou générez sur le sol.",
-  "chapter.evil.quest.8.description.5": "Enfin, une fois que vous avez amassé suffisamment de sang, effectuez un clic droit en sneak sur le sol pour placer un seau de sang.",
+  "chapter.evil.quest.8.description.5": "Enfin, une fois que vous avez amassé suffisamment de sang, effectuez un clic droit sur le sol pour placer un seau de sang.",
 
   "chapter.evil.quest.9.subtitle.1": "Stockage de Sang",
   "chapter.evil.quest.9.description.1": "En utilisant la puissance des &9Gemmes Sombres&r, nous pouvons fabriquer des &aRéservoirs Sombres&r.",
