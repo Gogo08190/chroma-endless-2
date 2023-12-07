@@ -6804,26 +6804,6 @@
 			}]
 		}
 		{
-			x: -42.0d
-			y: 7.5d
-			dependencies: ["5E26989223C5C851"]
-			id: "7BB1DA4C5D3FDFD8"
-			tasks: [{
-				id: "62E70FB54063BF3E"
-				type: "item"
-				item: "farmersdelight:wheat_dough"
-			}]
-			rewards: [{
-				id: "12BCD089220CD976"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: -41.0d
 			y: 7.5d
 			dependencies: ["5E26989223C5C851"]
@@ -6985,7 +6965,7 @@
 		}
 		{
 			x: -42.0d
-			y: 8.5d
+			y: 7.5d
 			dependencies: ["5E26989223C5C851"]
 			id: "06A58946A15D1FA6"
 			tasks: [{
@@ -7004,7 +6984,7 @@
 			}]
 		}
 		{
-			x: -41.0d
+			x: -42.0d
 			y: 8.5d
 			dependencies: ["5E26989223C5C851"]
 			id: "51E95AB2593F42CB"
@@ -7090,8 +7070,8 @@
 			}]
 		}
 		{
-			x: -42.0d
-			y: 9.5d
+			x: -41.0d
+			y: 8.5d
 			dependencies: ["5E26989223C5C851"]
 			id: "539B0355D2839CE4"
 			tasks: [{
