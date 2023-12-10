@@ -126,14 +126,13 @@ onEvent('recipes', (event) => {
                     { chance: 0.2, output: { item: 'botania:metamorphic_swamp_cobblestone' } },
                     { chance: 0.2, output: { item: 'botania:metamorphic_fungal_cobblestone' } },
                     { chance: 0.2, output: { item: 'botania:metamorphic_plains_cobblestone' } },
-                    { chance: 0.2, output: { item: 'botania:metamorphic_forest_cobblestone' } },
                     { chance: 0.2, output: { item: 'botania:metamorphic_taiga_cobblestone' } }
                 ],
                 dimensions: ['minecraft:overworld'],
                 weight: 10,
                 fail_chance: 0.05,
                 sample_background: 'minecraft:stone',
-                id: 'vivacious_metamorphic_rock'
+                id: 'bivacious_metamorphic_rock'
             },
             {
                 ores: [
@@ -323,7 +322,7 @@ onEvent('recipes', (event) => {
                 weight: 5,
                 fail_chance: 0.1,
                 sample_background: 'blue_skies:turquoise_stone',
-                id: 'vendiparline'
+                id: 'bendiparline'
             },
             {
                 ores: [{ chance: 1.0, output: { tag: 'blue_skies:ores/horizonite' } }],
@@ -357,14 +356,12 @@ onEvent('recipes', (event) => {
                 id: 'lunarisium'
             },
             {
-                ores: [
-                    { chance: 0.23, output: { item: 'beyond_earth:venus_calorite_ore' } }
-                ],
+                ores: [{ chance: 1.0, output: { item: 'beyond_earth:venus_calorite_ore' } }],
                 dimensions: ['beyond_earth:venus'],
                 weight: 5,
                 fail_chance: 0.1,
                 sample_background: 'beyond_earth:venus_sand',
-                id: 'venusium'
+                id: 'benusium'
             },
             {
                 ores: [
