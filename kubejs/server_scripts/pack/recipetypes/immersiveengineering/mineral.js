@@ -132,7 +132,7 @@ onEvent('recipes', (event) => {
                 weight: 10,
                 fail_chance: 0.05,
                 sample_background: 'minecraft:stone',
-                id: 'bivacious_metamorphic_rock'
+                id: 'botavivacious_metamorphic_rock'
             },
             {
                 ores: [
@@ -361,7 +361,7 @@ onEvent('recipes', (event) => {
                 weight: 5,
                 fail_chance: 0.1,
                 sample_background: 'beyond_earth:venus_sand',
-                id: 'benusium'
+                id: 'bevenusium'
             },
             {
                 ores: [
