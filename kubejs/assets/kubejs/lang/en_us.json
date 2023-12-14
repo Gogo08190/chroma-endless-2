@@ -1823,6 +1823,11 @@
   "chapter.stage.6.quest.44.subtitle.1": "Void Miner Tier 3",
   "chapter.stage.6.quest.44.description.1": "Better Than Tier 2",
 
+  "chapter.stage.6.quest.45.subtitle.1": "Draconic Evolution Autocrafting",
+  "chapter.stage.6.quest.45.description.1": "The &dFusion Package Crafting&r adds the ability to automatically craft items more easily using Draconic Evolution's fusion crafting.",
+  "chapter.stage.6.quest.45.description.2": "To make this automation, you need a &bFusion Package Crafting&r to replace the Fusion Crafting Core and &bMarked Fusion Injectors&r to replace the Fusion Injectors",
+  "chapter.stage.6.quest.45.description.3": "On the top of the Fusion Package Crafing, place an &bUnpackager&r and a &bPackager&r as you would do to automate advanced crafting tables.",
+
   "Stage 7":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.7.title": "Stage 7",

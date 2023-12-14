@@ -1823,6 +1823,11 @@
   "chapter.stage.6.quest.44.subtitle.1": "Mineur du Vide Tier 3",
   "chapter.stage.6.quest.44.description.1": "Mieux que le Tier 2",
 
+  "chapter.stage.6.quest.45.subtitle.1": "Autocraft avec Draconic Evolution",
+  "chapter.stage.6.quest.45.description.1": "Le &dFusion Package Crafting&r ajoute la possibilité de crafter automatiquement et plus facilement des items en utilisant le fusion crafting de Draconic Evolution.",
+  "chapter.stage.6.quest.45.description.2": "Pour faire cette automatisation, vous avez besoin d'un &bFusion Package Crafting&r en remplacement du Fusion Crafting Core et de &bMarked Fusion Crafting Injectors&r en remplacement des Fusion Crafting Injectors.",
+  "chapter.stage.6.quest.45.description.3": "Sur le dessus du Fusion Package Crafting, placez un &bUnpackager&r et un &bPackager&r comme ce que l'on peut faire pour automatiser les tables de craft avancées.",
+
   "Stage 7":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.stage.7.title": "Étape 7",
