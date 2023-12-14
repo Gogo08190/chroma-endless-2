@@ -150,6 +150,42 @@ onEvent('recipes', (event) => {
           result: { item: 'mysticalagriculture:deepslate_seeds', count: 1 },
           id: 'mysticalagriculture:seed/infusion/deepslate'
       },
+      {
+          pattern: ['DDD', 'DFD', 'DDD'],
+          key: {
+            D: { item: 'draconicevolution:draconium_dust' },
+            F: { item: 'draconicevolution:basic_crafting_injector' }
+          },
+          result: { item: 'packageddraconic:marked_draconium_injector', count: 1 },
+          id: 'packageddraconic:marked_draconium_injector'
+      },
+      {
+          pattern: ['DDD', 'DFD', 'DDD'],
+          key: {
+            D: { item: 'draconicevolution:draconium_dust' },
+            F: { item: 'draconicevolution:wyvern_crafting_injector' }
+          },
+          result: { item: 'packageddraconic:marked_wyvern_injector', count: 1 },
+          id: 'packageddraconic:marked_wyvern_injector'
+      },
+      {
+          pattern: ['DDD', 'DFD', 'DDD'],
+          key: {
+            D: { item: 'draconicevolution:draconium_dust' },
+            F: { item: 'draconicevolution:awakened_crafting_injector' }
+          },
+          result: { item: 'packageddraconic:marked_draconic_injector', count: 1 },
+          id: 'packageddraconic:marked_draconic_injector'
+      },
+      {
+          pattern: ['DDD', 'DFD', 'DDD'],
+          key: {
+            D: { item: 'draconicevolution:draconium_dust' },
+            F: { item: 'draconicevolution:chaotic_crafting_injector' }
+          },
+          result: { item: 'packageddraconic:marked_chaotic_injector', count: 1 },
+          id: 'packageddraconic:marked_chaotic_injector'
+      },
     ];
 
     recipes.forEach((recipe) => {

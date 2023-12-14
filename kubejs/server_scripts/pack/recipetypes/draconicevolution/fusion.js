@@ -613,6 +613,25 @@ onEvent('recipes', (event) => {
           result: { item: 'chroma:shard_of_imunity', count: 1 },
           id: `${id_prefix}shard_of_imunity`
       },
+      {
+          inputs: [
+            { item: 'lazierae2:logic_unit' },
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'draconicevolution:wyvern_core' },
+            { item: 'packagedauto:me_package_component' },
+            { item: 'mekaevolution:cosmic_control_circuit' },
+            { item: 'mekaevolution:cosmic_control_circuit' },
+            { item: 'powah:nitro_crystal_block' },
+            { item: 'powah:nitro_crystal_block' },
+            { item: 'extendedcrafting:enhanced_ender_catalyst' },
+            { item: 'extendedcrafting:enhanced_ender_catalyst' }
+          ],
+          tier: "WYVERN",
+          catalyst: { item: 'draconicevolution:crafting_core' },
+          total_energy: 90000000,
+          result: { item: 'packageddraconic:fusion_crafter', count: 1 },
+          id: 'packageddraconic:fusion_crafter_ae'
+      },
     ];
 
     recipes.forEach((recipe) => {
