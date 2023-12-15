@@ -67,12 +67,6 @@
             },
             "chance": 0.5
           }
-        ],
-        "create_stress": [
-          {
-            "content": 64.0,
-            "chance": 1.0
-          }
         ]
       }
     },
@@ -141,12 +135,6 @@
             "chance": 0.3
           }
         ],
-        "create_stress": [
-          {
-            "content": 64.0,
-            "chance": 1.0
-          }
-        ]
       }
     },
     {
@@ -222,12 +210,6 @@
               }
             },
             "chance": 0.5
-          }
-        ],
-        "create_stress": [
-          {
-            "content": 64.0,
-            "chance": 1.0
           }
         ]
       }
@@ -306,12 +288,6 @@
             },
             "chance": 0.5
           }
-        ],
-        "create_stress": [
-          {
-            "content": 64.0,
-            "chance": 1.0
-          }
         ]
       }
     },
@@ -388,12 +364,6 @@
               }
             },
             "chance": 0.5
-          }
-        ],
-        "create_stress": [
-          {
-            "content": 64.0,
-            "chance": 1.0
           }
         ]
       }
