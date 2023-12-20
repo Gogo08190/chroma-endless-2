@@ -1140,7 +1140,7 @@
 		}
 		{
 			x: 11.5d
-			y: -1.5d
+			y: -1.0d
 			subtitle: "{chapter.stage.6.quest.40.subtitle.1}"
 			description: ["{chapter.stage.6.quest.40.description.1}"]
 			dependencies: [
@@ -1344,6 +1344,69 @@
 			]
 			rewards: [{
 				id: "627B788F1B80AD83"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.5d
+			y: -2.5d
+			shape: "pentagon"
+			subtitle: "{chapter.stage.6.quest.45.subtitle.1}"
+			description: [
+				"{chapter.stage.6.quest.45.description.1}"
+				""
+				"{chapter.stage.6.quest.45.description.2}"
+				""
+				"{chapter.stage.6.quest.45.description.3}"
+			]
+			dependencies: [
+				"5A16D989A0B006D8"
+				"4D3D9EA2AE60AD73"
+			]
+			id: "15CABC81F6017AF0"
+			tasks: [
+				{
+					id: "095966DA9DB16EF4"
+					type: "item"
+					item: "packageddraconic:fusion_crafter"
+				}
+				{
+					id: "5E904C52F0AA8656"
+					type: "item"
+					title: "Marked Fusion Crafting Injector"
+					item: {
+						id: "itemfilters:or"
+						Count: 1
+						tag: {
+							items: [
+								{
+									id: "packageddraconic:marked_draconium_injector"
+									Count: 1
+								}
+								{
+									id: "packageddraconic:marked_wyvern_injector"
+									Count: 1
+								}
+								{
+									id: "packageddraconic:marked_draconic_injector"
+									Count: 1
+								}
+								{
+									id: "packageddraconic:marked_chaotic_injector"
+									Count: 1
+								}
+							]
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "43AE3DF3E10ED804"
 				type: "item"
 				item: {
 					id: "numismaticoverhaul:gold_coin"
