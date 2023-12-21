@@ -60,6 +60,7 @@ onEvent('recipes', event => {
 	event.recipes.createoreexcavation
 		.extracting(Fluid.of('pneumaticcraft:oil', 400), '{"text": "Oil well"}', 10, 100)
 		.biomeWhitelist('forge:is_overworld')
-		.alwaysInfinite()
+		.alwaysFinite()
+		.veinSize(5, 8)
 		.id("chroma:reservoir/oil");
 })
