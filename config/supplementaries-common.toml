@@ -42,16 +42,16 @@
 		range = 64
 
 	[blocks.bellows]
-		#bellows pushes air following this equation: 
-		#air=(sin(2PI*ticks/period)<0), with period = base_period-(redstone_power-1)*power_scaling 
+		#bellows pushes air following this equation:
+		#air=(sin(2PI*ticks/period)<0), with period = base_period-(redstone_power-1)*power_scaling
 		#represents base period at 1 power
 		#Range: 1 ~ 512
 		base_period = 78
 		#entities with velocity greater than this won't be pushed
 		#Range: 0.0 ~ 16.0
 		power_scaling = 2.0
-		#velocity increase uses this equation: 
-		#vel = base_vel*((range-entity_distance)/range) with base_vel = base_velocity_scaling/period 
+		#velocity increase uses this equation:
+		#vel = base_vel*((range-entity_distance)/range) with base_vel = base_velocity_scaling/period
 		#note that the block will push further the faster it's pulsing
 		#Range: 0.0 ~ 64.0
 		base_velocity_scaling = 5.0
@@ -196,7 +196,7 @@
 			biomes = ["minecraft:swamp", "minecraft:swamp_hills", "minecraft:plains", "minecraft:sunflower_plains", "minecraft:dark_forest", "minecraft:dark_forest_hills", "byg:bayou", "byg:cypress_swamplands", "byg:glowshroom_bayou", "byg:mangrove_marshes", "byg:vibrant_swamplands", "byg:fresh_water_lake", "byg:grassland_plateau", "byg:wooded_grassland_plateau", "byg:flowering_grove", "byg:guiana_shield", "byg:guiana_clearing", "byg:meadow", "byg:orchard", "byg:seasonal_birch_forest", "byg:seasonal_deciduous_forest", "byg:seasonal_forest", "biomesoplenty:flower_meadow", "biomesoplenty:fir_clearing", "biomesoplenty:grove_lakes", "biomesoplenty:grove", "biomesoplenty:highland_moor", "biomesoplenty:wetland_marsh", "biomesoplenty:deep_bayou", "biomesoplenty:wetland"]
 			#Whitelisted mods. All biomes from said mods will be able to spawn fireflies. Use the one above for more control
 			mod_whitelist = []
-			#Spawn weight 
+			#Spawn weight
 			#Set to 0 to disable spawning entirely
 			#Range: 0 ~ 100
 			weight = 3
@@ -344,7 +344,7 @@
 		# - <max_price> maximum emerald price
 		# - <map_name> map item name
 		# - <map_color> hex color of the map item overlay texture
-		# - <map_marker> id of the map marker to be used (ie: supplementaries:igloo). 
+		# - <map_marker> id of the map marker to be used (ie: supplementaries:igloo).
 		#See texture folder for all the names. Leave empty for default ones.
 		#You can also use vanilla map markers by referring to them with their enum name (i.e: minecraft:target_x)
 		#Other vanilla valid ones are: player, target, red_marker, target_point, player_off_map, player_off_limits, mansion, monument, red_x, banner_white
@@ -363,7 +363,7 @@
 
 	[tweaks.placeable_books]
 		#Allow books and enchanted books to be placed on the ground
-		enabled = true
+		enabled = false
 		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
 		#Range: 0.0 ~ 5.0
 		book_power = 1.0
@@ -457,4 +457,3 @@
 [general]
 	#Turn this on to disable any interaction on blocks placed by other players. This affects item shelves, signs, flower pots, and boards. Useful for protected servers. Note that it will affect only blocks placed after this is turned on and such blocks will keep being protected after this option is disabled
 	server_protection = false
-
