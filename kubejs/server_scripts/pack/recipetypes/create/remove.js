@@ -14,6 +14,7 @@ onEvent('recipes', (event) => {
       'jaopca:immersiveengineering.material_to_plate_press.obsidian',
       'jaopca:thermal_expansion.material_to_plate.obsidian',
       'jaopca:beyond_earth_giselle_addon.rolling.obsidian',
+      'jaopca:create.default_ore_to_material.certus_quartz',
 
       'createoreexcavation:drilling/gold',
       'createoreexcavation:drilling/zinc',
