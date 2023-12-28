@@ -8,7 +8,8 @@ onEvent('recipes', (event) => {
       'blue_skies:stonecutter_compat',
       'tconstruct:common/glass/vanilla/beacon',
       'quark:building/crafting/furnaces/cobblestone_furnace',
-      'quark:building/crafting/furnaces/mixed_furnace'
+      'quark:building/crafting/furnaces/mixed_furnace',
+      'minecraft:comparator'
     ];
 
     const outputRemovals = [
