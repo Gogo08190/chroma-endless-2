@@ -44,7 +44,7 @@ onEvent('recipes', (event) => {
                 S: '#forge:ingots/steel',
                 B: 'powah:capacitor_basic',
                 D: 'powah:dielectric_casing',
-                T: 'mob_grinding_utils:tank'
+                T: 'industrialforegoing:common_black_hole_tank'
             },
             id: 'powah:crafting/magmator_basic'
         },
