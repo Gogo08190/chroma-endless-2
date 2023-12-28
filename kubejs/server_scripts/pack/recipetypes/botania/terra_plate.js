@@ -171,6 +171,22 @@ onEvent('recipes', (event) => {
           mana: 60000,
           id: 'mysticalagriculture:seed/infusion/terrasteel'
       },
+      {
+          inputs: [
+              { item: 'mysticalagriculture:mystical_flower_agglomeratio' },
+              { item: 'mysticalagriculture:mystical_flower_agglomeratio' },
+              { item: 'mysticalagriculture:mystical_flower_agglomeratio' },
+              { item: 'mysticalagriculture:mystical_flower_agglomeratio' },
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'mysticalagriculture:inferium_essence' },
+              { item: 'chroma:inferium_seed_base' }
+          ],
+          output: { item: 'mysticalagriculture:mystical_flower_seeds', count: 1 },
+          mana: 5000,
+          id: 'mysticalagriculture:seed/infusion/mystical_flower'
+      },
     ];
 
     recipes.forEach((recipe) => {
