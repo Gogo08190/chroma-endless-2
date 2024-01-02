@@ -9,5 +9,8 @@
   "nearbyRange": 32,
   "redstoneControlled": false,
   "ignoreSpawnConditions": false,
-  "blacklist": []
+  "blacklist": [
+    "minecraft:pillager",
+    "minecraft:vindicator"
+  ]
 }
