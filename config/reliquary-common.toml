@@ -8,7 +8,7 @@ mobDropsEnabled = true
 #Disable sections of the mod
 [disable]
 	#Disable Alkahestry tome and its recipes
-	alkahestryTome = false
+	alkahestryTome = true
 	#Disable the HANDGUN, bullets, magazines, and gun parts
 	handgun = false
 	#Disable the POTION system including mortar, altar, potions, tipped arrows, and powder
@@ -510,4 +510,3 @@ mobDropsEnabled = true
 		#Delay in seconds before it would start fishing again after retracting the hook.
 		#Range: 1 ~ 20
 		fishingWrapperRetractDelay = 2
-
