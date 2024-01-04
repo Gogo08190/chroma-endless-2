@@ -3095,10 +3095,10 @@
 		{
 			title: "{chapter.mana.quest.78.title}"
 			x: 7.5d
-			y: 16.5d
+			y: 17.5d
 			shape: "rsquare"
 			subtitle: "{chapter.mana.quest.78.subtitle.1}"
-			dependencies: ["2B964653B2E33C20"]
+			dependencies: ["495F8337FDB5D50E"]
 			id: "7913A9B83D9D552D"
 			tasks: [
 				{
@@ -3130,10 +3130,10 @@
 		{
 			title: "{chapter.mana.quest.79.title}"
 			x: 7.5d
-			y: 17.5d
+			y: 16.5d
 			shape: "rsquare"
 			subtitle: "{chapter.mana.quest.79.subtitle.1}"
-			dependencies: ["7913A9B83D9D552D"]
+			dependencies: ["2B964653B2E33C20"]
 			id: "495F8337FDB5D50E"
 			tasks: [
 				{
