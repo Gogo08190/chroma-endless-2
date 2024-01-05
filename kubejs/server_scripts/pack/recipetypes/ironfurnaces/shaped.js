@@ -84,6 +84,16 @@ onEvent('recipes', (event) => {
           },
           id: 'ironfurnaces:furnaces/netherite_furnace'
       },
+      {
+        output: 'ironfurnaces:augment_generator',
+          pattern: ['IGI', 'GFG', 'IGI'],
+          key: {
+              F: 'mekanism:basic_control_circuit',
+              I: '#forge:ingots/steel',
+              G: 'thermal:rf_coil'
+          },
+          id: 'ironfurnaces:augments/augment_generator'
+      },
     ];
 
     recipes.forEach((recipe) => {
