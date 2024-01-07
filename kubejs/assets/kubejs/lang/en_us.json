@@ -15,7 +15,7 @@
   "chapter.welcome.quest.2.description.1" : "FTB Chunks allows you to &4claim chunks&r to &4protect&r your blocks. It also has a &9minimap and large map&r ! You can find it in the top left corner of your inventory. \n\n&6Right-click&r anywhere in map to create a waypoint. \n\n&6Right-click&r on waypoints and death points to edit or delete them. \n\nClick on &1Claimed Chunks button&r, then left or &6right-click&r on map to select chunks that will belong to you. &6Shift-left&r or &6right-click&r on claimed chunks to toggle forceloading",
 
   "chapter.welcome.quest.3.title.1": "Ultimine",
-  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r is a very usefill mod for mining.",
+  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r is a very useful mod for mining.",
   "chapter.welcome.quest.3.description.2" : "Indeed, with the ² key (by default) you will see a &nwhite outline&r that we will call the &c&lUltimine Zone&r which represents what you will mine.",
   "chapter.welcome.quest.3.description.3" : "This &c&lUltimine Zone&r can be changed. In fact you can see that, if you keep pressing the ² key + mouse scrolling, you can change the shape of this zone and find the one that suits you best.",
 
@@ -4090,6 +4090,11 @@
 
   "chapter.mana.quest.55.subtitle.1": "Rituals",
   "chapter.mana.quest.55.description.1": "Chalk is used to draw pattern on the ground. Yeah i know, it's obvious.",
+
+  "chapter.mana.quest.pouch.subtitle.1": "A really useful pouch",
+  "chapter.mana.quest.pouch.description.1": "It's a magical backpack. To Open it you must use the control key and right click.",
+  "chapter.mana.quest.pouch.description.2": "But it can also be used to store rituals. To do so, you must shift + right click on the ritual pattern. Once it saved you can place it on the ground if you have the needed items in your pouch.",
+  "chapter.mana.quest.pouch.description.3": "To select the ritual stored, use the configured key-bind. (Same as the spells shapes)",
 
   "chapter.mana.quest.56.subtitle.1": "Do the Ritual of Forgotten Lore",
 
