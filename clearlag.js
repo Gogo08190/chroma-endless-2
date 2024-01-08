@@ -56,7 +56,8 @@ let blacklist = [
   'jaopca:create_crushed_ores.netherite_scrap',
   'jaopca:create_crushed_ores.ostrum',
   'jaopca:create_crushed_ores.regalium',
-  'jaopca:create_crushed_ores.utherium'
+  'jaopca:create_crushed_ores.utherium',
+  'immersiveengineering:mold_plate'
 ];
 
 // Notification Clear Items
