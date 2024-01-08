@@ -1,0 +1,30 @@
+{
+	id: "759E4A744C3541E0"
+	group: ""
+	order_index: 4
+	filename: "option"
+	title: "Quests Options"
+	icon: "thermal:iron_gear"
+	always_invisible: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		invisible: true
+		id: "384723845C908742"
+		tasks: [{
+			id: "29F3267165DE9BBA"
+			type: "stat"
+			stat: "minecraft:play_time"
+			value: 1
+		}]
+		rewards: [{
+			id: "326778470BC9601B"
+			type: "command"
+			auto: "enabled"
+			command: "/gamestage add @p enable_mana_and_artifice_mobs true"
+		}]
+	}]
+	quest_links: [ ]
+}

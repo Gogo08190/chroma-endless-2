@@ -1,0 +1,26 @@
+{
+	id: "59FBBACF0C2CF0C4"
+	order_index: 4
+	title: "{chapter.mana.quest.85.reward.title}"
+	icon: "mna:mark_of_the_undead"
+	loot_size: 1
+	rewards: [
+		{
+			title: "{chapter.mana.quest.85.reward.1}"
+			icon: "mna:mark_of_the_fey"
+			auto: "invisible"
+			ignore_reward_blocking: true
+			stage: "enable_mana_and_artifice_mobs"
+			type: "gamestage"
+		}
+		{
+			title: "{chapter.mana.quest.85.reward.2}"
+			icon: "mna:mark_of_the_undead"
+			auto: "invisible"
+			ignore_reward_blocking: true
+			stage: "enable_mana_and_artifice_mobs"
+			remove: true
+			type: "gamestage"
+		}
+	]
+}
