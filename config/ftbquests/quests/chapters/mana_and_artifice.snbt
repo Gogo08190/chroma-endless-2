@@ -2277,12 +2277,13 @@
 		{
 			x: 8.5d
 			y: 0.0d
+			subtitle: "{chapter.mana.quest.84.subtitle.1}"
 			description: [
-				"It's a magical backpack. To Open it you must use the control key and right click."
+				"{chapter.mana.quest.84.description.1}"
 				""
-				"But it can also be used to store rituals. To do so, you must shift + right click on the ritual pattern. Once it saved you can place it on the ground if you have the needed items in your pouch."
+				"{chapter.mana.quest.84.description.2}"
 				""
-				"To select the ritual sotred, use the keybind configured. (Same as the spells shapes)"
+				"{chapter.mana.quest.84.description.3}"
 			]
 			dependencies: ["402EE775D322261B"]
 			id: "52F50D461A3B403C"
