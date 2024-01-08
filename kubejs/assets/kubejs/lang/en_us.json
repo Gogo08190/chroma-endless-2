@@ -4178,6 +4178,13 @@
   "chapter.mana.quest.84.description.2": "But it can also be used to store rituals. To do so, you must shift + right click on the ritual pattern. Once it saved you can place it on the ground if you have the needed items in your pouch.",
   "chapter.mana.quest.84.description.3": "To select the ritual stored, use the configured key-bind. (Same as the spells shapes)",
 
+  "chapter.mana.quest.85.task": "Toggle Mana and Artifice mobs",
+  "chapter.mana.quest.85.reward.1": "Select your option",
+  "chapter.mana.quest.85.reward.2": "Reset the quest",
+  "chapter.mana.quest.85.reward.title": "Toggle Mana and Artifice mobs",
+  "chapter.mana.quest.85.reward.1": "Enable Mana and Artifice mob spawns",
+  "chapter.mana.quest.85.reward.2": "Disable Mana and Artifice mob spawns",
+
   "Apotheosis":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.apotheosis.title": "Apotheosis",

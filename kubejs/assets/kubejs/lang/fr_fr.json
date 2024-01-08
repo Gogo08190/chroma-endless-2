@@ -4178,6 +4178,13 @@
   "chapter.mana.quest.84.description.2": "Mais il peut aussi servir à stocker des rituels. Pour cela, vous devez shift + clic droit sur le schéma rituel. Une fois enregistré vous pourrez le poser au sol si vous avez les objets nécessaires dans votre pochette.",
   "chapter.mana.quest.84.description.3": "Pour sélectionner le rituel stocké, utilisez le raccourci clavier configuré. (Identique aux formes des sorts)",
 
+  "chapter.mana.quest.85.task": "Activer / Désactiber les mobs de Mana et Artifice",
+  "chapter.mana.quest.85.reward.1": "Choisir une option",
+  "chapter.mana.quest.85.reward.2": "Réinitialiser la quête",
+  "chapter.mana.quest.85.reward.title": "Activer / Désactiber les mobs de Mana et Artifice",
+  "chapter.mana.quest.85.reward.1": "Activer les apparitions de mobs de Mana et Artifice",
+  "chapter.mana.quest.85.reward.2": "Désactiver les apparitions de mobs de Mana et Artifice",
+
   "Apotheosis":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "chapter.apotheosis.title": "Apotheosis",
