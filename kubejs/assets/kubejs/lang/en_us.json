@@ -4091,11 +4091,6 @@
   "chapter.mana.quest.55.subtitle.1": "Rituals",
   "chapter.mana.quest.55.description.1": "Chalk is used to draw pattern on the ground. Yeah i know, it's obvious.",
 
-  "chapter.mana.quest.pouch.subtitle.1": "A really useful pouch",
-  "chapter.mana.quest.pouch.description.1": "It's a magical backpack. To Open it you must use the control key and right click.",
-  "chapter.mana.quest.pouch.description.2": "But it can also be used to store rituals. To do so, you must shift + right click on the ritual pattern. Once it saved you can place it on the ground if you have the needed items in your pouch.",
-  "chapter.mana.quest.pouch.description.3": "To select the ritual stored, use the configured key-bind. (Same as the spells shapes)",
-
   "chapter.mana.quest.56.subtitle.1": "Do the Ritual of Forgotten Lore",
 
   "chapter.mana.quest.57.subtitle.1": "Do the Ritual of the Deep Ocean",
@@ -4177,6 +4172,11 @@
 
   "chapter.mana.quest.83.description.1": "To capture the wellsprings, build the Wellspring Prism.",
   "chapter.mana.quest.83.description.2": "Once complete, the wellspring will remain visible even without Eldrin sight.",
+
+  "chapter.mana.quest.84.subtitle.1": "A really useful pouch",
+  "chapter.mana.quest.84.description.1": "It's a magical backpack. To Open it you must use the control key and right click.",
+  "chapter.mana.quest.84.description.2": "But it can also be used to store rituals. To do so, you must shift + right click on the ritual pattern. Once it saved you can place it on the ground if you have the needed items in your pouch.",
+  "chapter.mana.quest.84.description.3": "To select the ritual stored, use the configured key-bind. (Same as the spells shapes)",
 
   "Apotheosis":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 
