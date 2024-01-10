@@ -3381,14 +3381,14 @@
 				{
 					id: "4F5F980D60C984E6"
 					type: "choice"
-					title: "{chapter.mana.quest.85.reward.title}"
+					title: "{chapter.mana.quest.85.reward.title.1}"
 					exclude_from_claim_all: true
 					table_id: 6483981486955229380L
 				}
 				{
 					id: "2B6A8AB5CA3307CF"
 					type: "command"
-					title: "{chapter.mana.quest.85.reward.2}"
+					title: "{chapter.mana.quest.85.reward.title.2}"
 					command: "/ftbquests change_progress @p reset 18E002BEB83E3017"
 				}
 			]
