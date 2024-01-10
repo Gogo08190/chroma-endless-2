@@ -29,9 +29,7 @@
 		"heat_blocks": {
 			"minecraft:magma_block": 800,
 			"minecraft:lava": 1000,
-			"tconstruct:blazing_blood": 1200,
-			"powah:blazing_crystal_block": 2800,
-			"draconicevolution:awakened_draconium_block": 8400
+			"powah:blazing_crystal_block": 2800
 		},
 		// Energy produced per fuel tick in the Furnator.
 		"energy_per_fuel_tick": 30,
