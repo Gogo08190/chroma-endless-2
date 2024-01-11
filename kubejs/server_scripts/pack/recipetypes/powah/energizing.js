@@ -574,6 +574,22 @@ onEvent('recipes', (event) => {
             },
             id: 'mysticalagriculture:seed/infusion/niotic_crystal'
         },
+        {
+            ingredients: [
+                { item: 'minecraft:lily_pad' },
+                { item: 'mysticalagradditions:insanium_essence' },
+                { item: 'mysticalagradditions:insanium_essence' },
+                { item: 'reliquary:fertile_essence' },
+                { item: 'reliquary:fertile_essence' },
+                { item: 'reliquary:fertile_essence' }
+            ],
+            energy: 1000000000,
+            result: {
+                item: 'reliquary:fertile_lily_pad',
+                count: 1
+            },
+            id: 'reliquary:fertile_lily_pad'
+        },
     ];
 
     recipes.forEach((recipe) => {
