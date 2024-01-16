@@ -118,7 +118,7 @@ onEvent('recipes', (event) => {
             pattern: ['III', 'BMR', 'LCL'],
             key: {
                 I: '#forge:sheetmetals/iron',
-                B: 'immersivepetroleum:crudeoil_bucket',
+                B: 'pneumaticcraft:oil_bucket',
                 M: 'thermal:machine_frame',
                 R: 'thermal:resin_bucket',
                 L: '#forge:gears/lapis',
