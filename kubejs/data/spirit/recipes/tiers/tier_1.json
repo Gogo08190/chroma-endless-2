@@ -5,7 +5,7 @@
   "minSpawnDelay": 300,
   "maxSpawnDelay": 1000,
   "spawnCount": 3,
-  "spawnRange": 5,
+  "spawnRange": 4,
   "nearbyRange": 16,
   "redstoneControlled": false,
   "ignoreSpawnConditions": false,
