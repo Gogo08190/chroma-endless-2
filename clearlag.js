@@ -18,10 +18,12 @@ let blacklist = [
   'ae2:fluix_pearl',
   'minecraft:redstone',
   'ae2:charged_certus_quartz_crystal',
+  'ae2:certus_quartz_crystal',
   'minecraft:quartz',
   'ae2:fluix_dust',
   'ae2:quantum_entangled_singularity',
   'ae2:fluix_crystal_seed',
+  'ae2:fluix_crystal',
   'ae2:certus_crystal_seed',
   'chroma:andesite_with_zinc',
   'ae2:ender_dust',
@@ -56,7 +58,8 @@ let blacklist = [
   'jaopca:create_crushed_ores.netherite_scrap',
   'jaopca:create_crushed_ores.ostrum',
   'jaopca:create_crushed_ores.regalium',
-  'jaopca:create_crushed_ores.utherium'
+  'jaopca:create_crushed_ores.utherium',
+  'immersiveengineering:mold_plate'
 ];
 
 // Notification Clear Items

@@ -14,7 +14,7 @@
 	#Should the Ender Dragon drop essence when killed with an essence weapon?
 	dragonDropsEssence = true
 	#Should right clicking on Farmland with an Essence create Essence Farmland?
-	essenceFarmlandConversion = true
+	essenceFarmlandConversion = false
 	#Should the Wither drop essence when killed with an essence weapon?
 	witherDropsEssence = true
 	#Should crops have a chance of dropping a second seed when harvested?
@@ -84,4 +84,3 @@
 	#The list of biome IDs that Soulstone veins can spawn in.
 	#Leaving this value empty will result in the default spawn behavior.
 	soulstoneBiomeWhitelist = []
-

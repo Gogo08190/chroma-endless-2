@@ -2277,12 +2277,13 @@
 		{
 			x: 8.5d
 			y: 0.0d
+			subtitle: "{chapter.mana.quest.84.subtitle.1}"
 			description: [
-				"It's a magical backpack. To Open it you must use the control key and right click."
+				"{chapter.mana.quest.84.description.1}"
 				""
-				"But it can also be used to store rituals. To do so, you must shift + right click on the ritual pattern. Once it saved you can place it on the ground if you have the needed items in your pouch."
+				"{chapter.mana.quest.84.description.2}"
 				""
-				"To select the ritual sotred, use the keybind configured. (Same as the spells shapes)"
+				"{chapter.mana.quest.84.description.3}"
 			]
 			dependencies: ["402EE775D322261B"]
 			id: "52F50D461A3B403C"
@@ -3362,6 +3363,35 @@
 					tag: { }
 				}
 			}]
+		}
+		{
+			icon: "mna:mark_of_the_undead"
+			x: -11.5d
+			y: -3.5d
+			shape: "gear"
+			dependencies: ["51B5C098A8CFF70E"]
+			size: 3.0d
+			id: "18E002BEB83E3017"
+			tasks: [{
+				id: "42AD641641A2B4C7"
+				type: "checkmark"
+				title: "{chapter.mana.quest.85.task}"
+			}]
+			rewards: [
+				{
+					id: "4F5F980D60C984E6"
+					type: "choice"
+					title: "{chapter.mana.quest.85.reward.title.1}"
+					exclude_from_claim_all: true
+					table_id: 6483981486955229380L
+				}
+				{
+					id: "2B6A8AB5CA3307CF"
+					type: "command"
+					title: "{chapter.mana.quest.85.reward.title.2}"
+					command: "/ftbquests change_progress @p reset 18E002BEB83E3017"
+				}
+			]
 		}
 	]
 	quest_links: [ ]

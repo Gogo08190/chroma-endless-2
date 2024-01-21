@@ -6,5 +6,16 @@
     ],
     "onjoin": true,
     "result": "deny"
+  },
+  {
+    "mod":"mna",
+    "gamestage":"enable_mana_and_artifice_mobs",
+    "result":"default",
+    "onjoin":true
+  },
+  {
+    "mod":"mna",
+    "result":"deny",
+    "onjoin":true
   }
  ]

@@ -18,7 +18,8 @@
 		"lens_of_ender": true,
 		// List of fluids used in the Magmator.
 		"magmatic_fluids": {
-			"minecraft:lava": 10000
+			"minecraft:lava": 10000,
+			"tconstruct:blazing_blood": 12000,
 		},
 		// List of coolant fluids used in the Reactor and the Thermo Generator.
 		"coolant_fluids": {

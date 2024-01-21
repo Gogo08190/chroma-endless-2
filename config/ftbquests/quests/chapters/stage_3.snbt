@@ -507,7 +507,7 @@
 			description: [
 				"{chapter.stage.3.quest.13.description.1}"
 				""
-				"{chapter.stage.3.quest.13.description.1}"
+				"{chapter.stage.3.quest.13.description.2}"
 			]
 			dependencies: ["5219F0F6EC952D57"]
 			id: "46EF4EC4584E82C2"
@@ -1252,7 +1252,7 @@
 		{
 			x: 31.0d
 			y: 9.5d
-			subtitle: "chapter.stage.3.quest.49.subtitle.1"
+			subtitle: "{chapter.stage.3.quest.49.subtitle.1}"
 			description: ["{chapter.stage.3.quest.49.description.1}"]
 			dependencies: ["5A07D65389C70B25"]
 			id: "606B4C43B8E11AD2"

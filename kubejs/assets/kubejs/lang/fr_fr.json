@@ -4091,12 +4091,6 @@
   "chapter.mana.quest.55.subtitle.1": "Rituels",
   "chapter.mana.quest.55.description.1": "La craie est utilisée pour dessiner des motifs sur le sol. Ouais, je sais, c'est évident.",
 
-  "chapter.mana.quest.pouch.subtitle.1": "Une poche vraiment utile",
-  "chapter.mana.quest.pouch.description.1": "C'est un sac à dos magique. Pour l'ouvrir, vous devez utiliser la touche contrôle et faire un clic droit.",
-  "chapter.mana.quest.pouch.description.2": "Mais il peut aussi servir à stocker des rituels. Pour cela, vous devez shift + clic droit sur le schéma rituel. Une fois enregistré vous pourrez le poser au sol si vous avez les objets nécessaires dans votre pochette.",
-  "chapter.mana.quest.pouch.description.3": "Pour sélectionner le rituel stocké, utilisez le raccourci clavier configuré. (Identique aux formes des sorts)",
-
-
   "chapter.mana.quest.56.subtitle.1": "Faites le Rituel de la Sagesse Oubliée",
 
   "chapter.mana.quest.57.subtitle.1": "Faites le Rituel de l'Océan Profond",
@@ -4178,6 +4172,18 @@
 
   "chapter.mana.quest.83.description.1": "Pour capturer les sources, construisez le prisme de Source.",
   "chapter.mana.quest.83.description.2": "Une fois terminé, la source restera visible même sans la Vision d'Eldrin.",
+
+  "chapter.mana.quest.84.subtitle.1": "Une poche vraiment utile",
+  "chapter.mana.quest.84.description.1": "C'est un sac à dos magique. Pour l'ouvrir, vous devez utiliser la touche contrôle et faire un clic droit.",
+  "chapter.mana.quest.84.description.2": "Mais il peut aussi servir à stocker des rituels. Pour cela, vous devez shift + clic droit sur le schéma rituel. Une fois enregistré vous pourrez le poser au sol si vous avez les objets nécessaires dans votre pochette.",
+  "chapter.mana.quest.84.description.3": "Pour sélectionner le rituel stocké, utilisez le raccourci clavier configuré. (Identique aux formes des sorts)",
+
+  "chapter.mana.quest.85.task": "Activer / Désactiber les mobs de Mana et Artifice",
+  "chapter.mana.quest.85.reward.title.1": "Choisir une option",
+  "chapter.mana.quest.85.reward.title.2": "Réinitialiser la quête",
+  "chapter.mana.quest.85.reward.title": "Activer / Désactiber les mobs de Mana et Artifice",
+  "chapter.mana.quest.85.reward.1": "Activer les apparitions de mobs de Mana et Artifice",
+  "chapter.mana.quest.85.reward.2": "Désactiver les apparitions de mobs de Mana et Artifice",
 
   "Apotheosis":"---------------------------------------------------------------------------------------------------------------------------------------------------",
 

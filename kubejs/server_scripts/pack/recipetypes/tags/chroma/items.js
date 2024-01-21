@@ -27,6 +27,7 @@ const TAGS_ITEMS = [
     ["forge:ores/bitumen", "thermal:oil_red_sand"],
 
     ["thermal:crafting/dies", "immersiveengineering:mold_rod"],
+    ["thermal:crafting/dies", "immersiveengineering:mold_wire"],
 ]
 
 onEvent('item.tags', (event) => {
