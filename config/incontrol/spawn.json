@@ -8,6 +8,14 @@
     "result": "deny"
   },
   {
+    "dimension": "minecraft:overworld",
+    "mob": [
+      "betteranimalsplus:lammergeier"
+    ],
+    "onjoin": true,
+    "result": "deny"
+  },
+  {
     "mod":"mna",
     "gamestage":"enable_mana_and_artifice_mobs",
     "result":"default",
