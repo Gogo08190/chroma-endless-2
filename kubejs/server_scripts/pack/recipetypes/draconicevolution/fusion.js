@@ -632,6 +632,24 @@ onEvent('recipes', (event) => {
           result: { item: 'packageddraconic:fusion_crafter', count: 1 },
           id: 'packageddraconic:fusion_crafter_ae'
       },
+      {
+          inputs: [
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' },
+            { item: 'chroma:dragon_heart_chunk' }
+          ],
+          tier: "DRACONIC",
+          catalyst: { item: 'chroma:eternal_cryostella_polaris' },
+          total_energy: 100000,
+          result: { item: 'draconicevolution:dragon_heart', count: 1 },
+          id: `${id_prefix}dragon_heart`
+      }
     ];
 
     recipes.forEach((recipe) => {

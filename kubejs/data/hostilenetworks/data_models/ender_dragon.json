@@ -26,6 +26,10 @@
 		{
 			"item": "minecraft:dragon_head",
 			"count": 1
+		},
+		{
+			"item": "chroma:dragon_heart_chunk",
+			"count": 1
 		}
 	],
 	"data_per_kill": [

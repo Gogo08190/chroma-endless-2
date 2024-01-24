@@ -95,8 +95,8 @@ onEvent('item.registry', (event) => {
       'shard_of_perserevity',
       'shard_of_the_greater_good',
       'shard_of_the_greater_mana',
-      'endless'
-
+      'endless',
+      'dragon_heart_chunk'
     ];
 
     items.forEach((item) => {
