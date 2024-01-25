@@ -240,7 +240,7 @@ onEvent('recipes', (event) => {
                 P: 'tconstruct:pig_iron_block',
                 V: 'mna:vinteum_block',
                 C: 'mysticalagradditions:creative_essence',
-                B: 'create:blaze_burner'
+                B: 'create:creative_blaze_cake'
             },
             id: `${id_prefix}shard_of_knowledge`
         },
