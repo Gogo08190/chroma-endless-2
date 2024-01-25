@@ -7,7 +7,7 @@
   "runes": [
     {
       "rune": {
-        "item": "mekanism:pellet_polonium"
+        "item": "mekanism:pellet_antimatter"
       },
       "x": -5,
       "z": 0,
@@ -15,7 +15,7 @@
     },
     {
       "rune": {
-        "item": "mekanism:pellet_polonium"
+        "item": "mekanism:pellet_antimatter"
       },
       "x": 5,
       "z": 0,
@@ -23,7 +23,7 @@
     },
     {
       "rune": {
-        "item": "mekanism:pellet_plutonium"
+        "item": "mekanism:pellet_polonium"
       },
       "x": 0,
       "z": -5,
@@ -87,7 +87,7 @@
     },
     {
       "rune": {
-        "item": "powah:capacitor_spirited"
+        "item": "powah:capacitor_nitro"
       },
       "x": -2,
       "z": 3,
@@ -95,7 +95,7 @@
     },
     {
       "rune": {
-        "item": "powah:capacitor_spirited"
+        "item": "powah:capacitor_nitro"
       },
       "x": 2,
       "z": 3,
@@ -119,7 +119,7 @@
     },
     {
       "rune": {
-        "item": "powah:capacitor_spirited"
+        "item": "powah:capacitor_nitro"
       },
       "x": -2,
       "z": -3,
@@ -127,7 +127,7 @@
     },
     {
       "rune": {
-        "item": "powah:capacitor_spirited"
+        "item": "powah:capacitor_nitro"
       },
       "x": 2,
       "z": -3,
@@ -166,8 +166,8 @@
       "consume": true
     }
   ],
-  "mana": 500000,
-  "ticks": 300,
+  "mana": 1000000,
+  "ticks": 600,
   "inputs": [
     {
       "item": "mysticalagradditions:creative_essence"
@@ -176,10 +176,10 @@
       "item": "mythicbotany:kvasir_blood"
     },
     {
-      "item": "chroma:supreme_alloy"
+      "item": "chroma:infinite_alloy"
     },
     {
-      "item": "mekaevolution:supreme_control_circuit"
+      "item": "mekaevolution:infinite_control_circuit"
     }
   ],
   "outputs": [
