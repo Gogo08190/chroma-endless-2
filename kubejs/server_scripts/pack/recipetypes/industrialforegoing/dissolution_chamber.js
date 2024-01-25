@@ -668,9 +668,9 @@ onEvent('recipes', (event) => {
         },
         {
             inputs: [
-                'solarpanels:spectral_energy_tablet',
+                'solarpanels:creative_energy_tablet',
                 'mysticalagradditions:creative_essence',
-                'solarpanels:spectral_energy_tablet',
+                'solarpanels:creative_energy_tablet',
                 'lazierae2:parallel_processor',
                 'lazierae2:parallel_processor',
                 'beyond_earth:desh_block',
