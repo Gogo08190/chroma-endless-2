@@ -607,7 +607,7 @@ onEvent('recipes', (event) => {
             { item: 'fluxnetworks:flux_block' },
             { item: 'fluxnetworks:flux_block' }
           ],
-          tier: "WYVERN",
+          tier: "CHAOTIC",
           catalyst: { item: 'mysticalagradditions:creative_essence' },
           total_energy: 10000000,
           result: { item: 'chroma:shard_of_imunity', count: 1 },
