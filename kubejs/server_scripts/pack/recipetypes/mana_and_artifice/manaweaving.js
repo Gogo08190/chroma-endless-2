@@ -71,9 +71,10 @@ onEvent('recipes', (event) => {
             'mysticalagradditions:creative_essence',
             'botania:rune_mana',
             'mekanism:steel_casing',
-            'mekanism:advanced_tier_installer',
+            'mekanism:ultimate_tier_installer',
             'botania:gaia_ingot',
-            'mekanism:advanced_control_circuit'
+            'mekanism:advanced_control_circuit',
+            'mekanism:pellet_antimatter'
           ],
           patterns: [
             'mna:split_triangle',
