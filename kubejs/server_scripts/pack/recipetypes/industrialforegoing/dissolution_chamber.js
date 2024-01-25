@@ -673,9 +673,9 @@ onEvent('recipes', (event) => {
                 'solarpanels:creative_energy_tablet',
                 'lazierae2:parallel_processor',
                 'lazierae2:parallel_processor',
-                'beyond_earth:desh_block',
+                'extendedcrafting:crystaltine_block',
                 'chroma:miner_core',
-                'beyond_earth:desh_block'
+                'extendedcrafting:crystaltine_block'
             ],
             inputFluid: 'mekanism:lithium',
             inputFluidAmount: 8000,
