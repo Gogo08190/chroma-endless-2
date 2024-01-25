@@ -842,7 +842,7 @@ onEvent("recipes", (event) => {
           "item": "mekanism:pellet_antimatter"
         },
         "H": {
-          "item": "solarpanels:photonic_energy_tablet"
+          "item": "solarpanels:creative_energy_tablet"
         },
         "I": {
           "item": "draconicevolution:chaotic_core"
