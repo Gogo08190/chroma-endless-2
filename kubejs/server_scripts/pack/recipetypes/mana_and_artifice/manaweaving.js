@@ -83,7 +83,7 @@ onEvent('recipes', (event) => {
             'mna:diamond',
             'mna:slash'
           ],
-          tier: 4,
+          tier: 5,
           output: 'chroma:shard_of_the_greater_mana',
           id: `${id_prefix}shard_of_the_greater_mana`
       },
