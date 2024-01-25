@@ -264,12 +264,13 @@ onEvent('recipes', (event) => {
         },
         {
             inputs: [
-                { item: 'mekanism:elite_tier_installer', count: 1 },
+                { item: 'mekanism:ultimate_tier_installer', count: 1 },
                 { item: 'mysticalagradditions:creative_essence', count: 1 },
                 { item: 'extendedcrafting:enhanced_ender_catalyst', count: 3 },
-                { item: 'extendedcrafting:luminessence', count: 4 }
+                { item: 'extendedcrafting:luminessence', count: 4 },
+                { item: 'mekanism:pellet_antimatter', count: 2 }
             ],
-            pressure: 3.5,
+            pressure: 4.5,
             results: [{ item: 'chroma:shard_of_the_greater_good', count: 1 }],
             id: `${id_prefix}shard_of_the_greater_good`
         },
