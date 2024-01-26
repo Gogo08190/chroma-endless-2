@@ -52,6 +52,123 @@ onEvent('recipes', event => {
 		.id("chroma:veins/raw_cobalrite");
 
 	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:ventium_ore')
+		.withChance(0.5)], '{"text": "Ventium Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everbright')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/ventium");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:falsite_ore')
+		.withChance(0.5)], '{"text": "Falsite Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everbright')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/falsite");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everbright_moonstone_ore')
+		.withChance(0.5)], '{"text": "Moonstone Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everbright')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/moonstone");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everbright_charoite_ore')
+		.withChance(0.5)], '{"text": "Charoite Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everbright')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/charoite");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everbright_aquite_ore')
+		.withChance(0.5)], '{"text": "Aquite Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everbright')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/aquite");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everbright_pyrope_ore')
+		.withChance(0.5)], '{"text": "Pyrope Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everbright')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/pyrope");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everbright_diopside_ore')
+		.withChance(0.5)], '{"text": "Diopside Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everbright')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/diopside");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:horizonite_ore')
+		.withChance(0.5)], '{"text": "Horizonite Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everdawn')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/horizonite");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everdawn_moonstone_ore')
+		.withChance(0.5)], '{"text": "Moonstone Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everdawn')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/moonstone_2");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everdawn_charoite_ore')
+		.withChance(0.5)], '{"text": "Charoite Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everdawn')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/charoite_2");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everdawn_aquite_ore')
+		.withChance(0.5)], '{"text": "Aquite Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everdawn')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/aquite_2");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everdawn_pyrope_ore')
+		.withChance(0.5)], '{"text": "Pyrope Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everdawn')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/pyrope_2");
+
+	event.recipes.createoreexcavation
+		.drilling([Item.of('blue_skies:everdawn_diopside_ore')
+		.withChance(0.5)], '{"text": "Diopsite Vein"}', 60, 100)
+		.biomeWhitelist('blue_skies:everdawn')
+		.drill('createoreexcavation:netherite_drill')
+		.alwaysFinite()
+		.veinSize(5, 8)
+		.id("chroma:veins/diopside_2");
+
+	event.recipes.createoreexcavation
 		.extracting(Fluid.of('minecraft:lava', 400), '{"text": "Lava well"}', 10, 100)
 		.biomeWhitelist('minecraft:is_nether')
 		.alwaysInfinite()
