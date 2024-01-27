@@ -146,17 +146,6 @@ onEvent('recipes', (event) => {
             id: 'sophisticatedbackpacks:inception_upgrade'
         },
         {
-            output: 'sophisticatedbackpacks:crafting_upgrade',
-            pattern: [' T ', 'IBI', ' C '],
-            key: {
-                B: 'sophisticatedbackpacks:upgrade_base',
-                C: '#forge:chests/wooden',
-                T: 'minecraft:crafting_table',
-                I: '#forge:plates/iron'
-            },
-            id: 'sophisticatedbackpacks:crafting_upgrade'
-        },
-        {
             output: 'sophisticatedbackpacks:pickup_upgrade',
             pattern: [' P ', 'SBS', 'RRR'],
             key: {
