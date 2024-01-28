@@ -3194,6 +3194,7 @@
 				"{chapter.mana.quest.81.description.2}"
 			]
 			dependencies: ["5C3F3E3D1174571B"]
+			optional: true
 			id: "0853B412C767A3F9"
 			tasks: [{
 				id: "0B60B46ED7B5C0CA"
