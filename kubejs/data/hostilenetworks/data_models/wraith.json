@@ -1,10 +1,11 @@
 {
-  "type": "graveyard:wraith",
+  "type": "graveyard:acolyte",
 	"subtypes": [
-    "quark:wraith",
-    "mna:lantern_wraith"
+    "graveyard:wraith",
+    "graveyard:corrupted_pillager",
+    "graveyard:corrupted_vindicator"
   ],
-  "name": "entity.graveyard.wraith",
+  "name": "entity.graveyard.acolyte",
   "name_color": "0x686868",
   "gui_scale": 0.5,
   "gui_x_offset": 0.0,
