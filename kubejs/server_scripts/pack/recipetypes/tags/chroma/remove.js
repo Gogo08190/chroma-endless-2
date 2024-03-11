@@ -137,5 +137,8 @@ onEvent('item.tags', (event) => {
 });
 
 onEvent('item.tags', event => {
-  event.remove('forge:storage_blocks/copper', 'minecraft:cut_copper')
+  event.remove('forge:storage_blocks/copper', 'minecraft:cut_copper');
+  event.remove('forge:ores/diamond', 'beyond_earth:venus_diamond_ore');
+  event.remove('forge:ores/coal', 'beyond_earth:venus_coal_ore');
+  event.remove('forge:ores/gold', 'beyond_earth:venus_gold_ore');
 })

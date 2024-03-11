@@ -154,27 +154,6 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}aluminum`
         },
         {
-            output: { tag: 'forge:ores/coal' },
-            rarity: [
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 5,
-                    depth_max: 132,
-                    weight: 10
-                },
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 4
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.black },
-            id: `${id_prefix}coal`
-        },
-        {
             output: { tag: 'forge:ores/copper' },
             rarity: [
                 {
@@ -194,27 +173,6 @@ onEvent('recipes', (event) => {
             ],
             catalyst: { item: industrialforegoing.laser_lens.orange },
             id: `${id_prefix}copper`
-        },
-        {
-            output: { tag: 'forge:ores/diamond' },
-            rarity: [
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 5,
-                    depth_max: 16,
-                    weight: 4
-                },
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 1
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.light_blue },
-            id: `${id_prefix}diamond`
         },
         {
             output: { tag: 'forge:ores/cinnabar' },
