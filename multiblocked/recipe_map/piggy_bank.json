@@ -5,13 +5,13 @@
   "recipes": [
     {
       "uid": "energy_to_coin",
-      "duration": 10,
+      "duration": 4,
       "outputs": {
         "item": [
           {
             "content": {
               "type": "multiblocked:sized",
-              "count": 1,
+              "count": 2,
               "ingredient": {
                 "item": "numismaticoverhaul:gold_coin"
               }
@@ -23,7 +23,7 @@
       "tickInputs": {
         "forge_energy": [
           {
-            "content": 100000,
+            "content": 1000000,
             "chance": 1.0
           }
         ]
