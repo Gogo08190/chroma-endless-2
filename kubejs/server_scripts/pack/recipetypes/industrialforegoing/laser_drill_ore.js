@@ -84,27 +84,6 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}bitumen`
         },
         {
-            output: { tag: 'forge:ores/fluorite' },
-            rarity: [
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 5,
-                    depth_max: 16,
-                    weight: 4
-                },
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 1
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.gray },
-            id: `${id_prefix}fluorite`
-        },
-        {
             output: { item: 'rftoolsbase:dimensionalshard_nether' },
             rarity: [
                 {
@@ -196,27 +175,6 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}cinnabar`
         },
         {
-            output: { tag: 'forge:ores/lapis' },
-            rarity: [
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 13,
-                    depth_max: 34,
-                    weight: 14
-                },
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 2
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.blue },
-            id: `${id_prefix}lapis`
-        },
-        {
             output: { tag: 'forge:ores/lead' },
             rarity: [
                 {
@@ -301,27 +259,6 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}nickel`
         },
         {
-            output: { tag: 'forge:ores/quartz' },
-            rarity: [
-                {
-                    whitelist: netherBiomes,
-                    blacklist: {},
-                    depth_min: 7,
-                    depth_max: 117,
-                    weight: 12
-                },
-                {
-                    whitelist: netherBiomes,
-                    blacklist: {},
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 1
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.white },
-            id: `${id_prefix}quartz`
-        },
-        {
             output: { tag: 'forge:ores/cobalt' },
             rarity: [
                 {
@@ -343,27 +280,6 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}cobalt`
         },
         {
-            output: { tag: 'forge:ores/redstone' },
-            rarity: [
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 5,
-                    depth_max: 16,
-                    weight: 28
-                },
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 4
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.red },
-            id: `${id_prefix}redstone`
-        },
-        {
             output: { tag: 'forge:ores/silver' },
             rarity: [
                 {
@@ -383,27 +299,6 @@ onEvent('recipes', (event) => {
             ],
             catalyst: { item: industrialforegoing.laser_lens.light_gray },
             id: `${id_prefix}silver`
-        },
-        {
-            output: { tag: 'forge:ores/sulfur' },
-            rarity: [
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 5,
-                    depth_max: 10,
-                    weight: 6
-                },
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 1
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.yellow },
-            id: `${id_prefix}sulfur`
         },
         {
             output: { tag: 'forge:ores/tin' },
@@ -448,37 +343,6 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}uranium`
         },
         {
-            output: { tag: 'forge:ores/emerald' },
-            rarity: [
-                {
-                    whitelist: {
-                        type: 'minecraft:worldgen/biome',
-                        values: [
-                            'minecraft:mountains',
-                            'minecraft:mountain_edge',
-                            'minecraft:gravelly_mountains',
-                            'minecraft:modified_gravelly_mountains',
-                            'minecraft:snowy_mountains',
-                            'minecraft:snowy_taiga_mountains'
-                        ]
-                    },
-                    blacklist: {},
-                    depth_min: 5,
-                    depth_max: 29,
-                    weight: 8
-                },
-                {
-                    whitelist: {},
-                    blacklist: endBiomes,
-                    depth_min: 0,
-                    depth_max: 255,
-                    weight: 1
-                }
-            ],
-            catalyst: { item: industrialforegoing.laser_lens.green },
-            id: `${id_prefix}emerald`
-        },
-        {
             output: { item: 'minecraft:glowstone' },
             rarity: [
                 {
@@ -500,7 +364,7 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}glowstone`
         },
         {
-            output: { tag: 'forge:ores/gold' },
+            output: { item: 'minecraft:gold_ore' },
             rarity: [
                 {
                     whitelist: {
