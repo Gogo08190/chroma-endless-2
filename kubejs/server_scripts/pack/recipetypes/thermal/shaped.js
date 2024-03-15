@@ -7,7 +7,7 @@ onEvent('recipes', (event) => {
             key: {
                 S: '#forge:gears/signalum',
                 T: 'thermal:redstone_servo',
-                F: 'ironfurnaces:crystal_furnace',
+                F: 'ironfurnaces:diamond_furnace',
                 M: 'thermal:machine_frame',
                 I: '#forge:sheetmetals/iron'
             },
