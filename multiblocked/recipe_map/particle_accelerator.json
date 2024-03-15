@@ -5,7 +5,7 @@
   "recipes": [
     {
       "uid": "creative_essence",
-      "duration": 60,
+      "duration": 100,
       "inputs": {
         "item": [
           {
@@ -53,7 +53,7 @@
       "tickInputs": {
         "forge_energy": [
           {
-            "content": 1000000,
+            "content": 500000,
             "chance": 1.0
           }
         ]
