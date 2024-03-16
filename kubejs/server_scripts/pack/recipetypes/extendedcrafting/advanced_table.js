@@ -2442,4 +2442,44 @@ onEvent("recipes", (event) => {
       }
     }
   ).id('mysticalagriculture:seed/infusion/hepatizon')
+
+  event.custom(
+    {
+      "type": "extendedcrafting:shaped_table",
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FEGEF",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "powah:reactor_niotic"
+        },
+        "B": {
+          "item": "chroma:dielectric_paste_block"
+        },
+        "C": {
+          "item": "mythicbotany:alfsteel_ingot"
+        },
+        "D": {
+          "item": "mekaevolution:absolute_control_circuit"
+        },
+        "E": {
+          "item": "chroma:absolute_alloy"
+        },
+        "F": {
+          "item": "powah:capacitor_spirited"
+        },
+        "G": {
+          "item": "industrialforegoing:machine_frame_advanced"
+        }
+      },
+      "result": {
+        "item": "powah:reactor_spirited",
+        "count": 4
+      }
+    }
+  ).id('powah:crafting/reactor_spirited')
 });
