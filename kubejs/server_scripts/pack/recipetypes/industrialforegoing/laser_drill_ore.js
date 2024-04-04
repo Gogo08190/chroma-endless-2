@@ -154,6 +154,27 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}copper`
         },
         {
+            output: { item: 'evilcraft:dark_ore' },
+            rarity: [
+                {
+                    whitelist: {},
+                    blacklist: endBiomes,
+                    depth_min: 15,
+                    depth_max: 45,
+                    weight: 5
+                },
+                {
+                    whitelist: {},
+                    blacklist: endBiomes,
+                    depth_min: 0,
+                    depth_max: 255,
+                    weight: 1
+                }
+            ],
+            catalyst: { item: industrialforegoing.laser_lens.black },
+            id: `${id_prefix}dark_gem`
+        },
+        {
             output: { tag: 'forge:ores/cinnabar' },
             rarity: [
                 {
