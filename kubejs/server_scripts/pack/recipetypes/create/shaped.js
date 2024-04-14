@@ -126,15 +126,6 @@ onEvent('recipes', (event) => {
             id: 'create:crafting/kinetics/whisk'
         },
         {
-            output: 'create:whisk',
-            pattern: [' S ', 'ISI', 'III'],
-            key: {
-                S: 'create:shaft',
-                I: '#forge:plates/iron'
-            },
-            id: 'create:crafting/kinetics/whisk'
-        },
-        {
             output: 'create:propeller',
             pattern: [' I ', 'ISI', ' I '],
             key: {
