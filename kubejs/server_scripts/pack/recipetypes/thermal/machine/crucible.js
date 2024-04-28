@@ -2,127 +2,127 @@ onEvent('recipes', (event) => {
     const id_prefix = 'chroma:pack/thermal/crucible/';
     const recipes = [
       {
-          output: Fluid.of('materialis:molten_forgotten_metal', 1296),
+          output: Fluid.of('materialis:molten_forgotten_metal', 810),
           input: '#forge:storage_blocks/forgotten_metal',
           energy: 40000,
           id: `${id_prefix}forgotten_block`
       },
       {
-          output: Fluid.of('materialis:molten_forgotten_metal', 144),
+          output: Fluid.of('materialis:molten_forgotten_metal', 90),
           input: '#forge:ingots/forgotten_metal',
           energy: 5000,
           id: `${id_prefix}forgotten_ingot`
       },
       {
-          output: Fluid.of('materialis:molten_forgotten_metal', 16),
+          output: Fluid.of('materialis:molten_forgotten_metal', 10),
           input: '#forge:nuggets/forgotten_metal',
           energy: 555,
           id: `${id_prefix}forgotten_nugget`
       },
       {
-          output: Fluid.of('materialis:molten_utherium', 1296),
+          output: Fluid.of('materialis:molten_utherium', 810),
           input: '#forge:storage_blocks/utherium',
           energy: 40000,
           id: `${id_prefix}utherium_block`
       },
       {
-          output: Fluid.of('materialis:molten_utherium', 144),
+          output: Fluid.of('materialis:molten_utherium', 90),
           input: '#forge:ingots/utherium',
           energy: 5000,
           id: `${id_prefix}utherium_ingot`
       },
       {
-          output: Fluid.of('materialis:molten_utherium', 16),
+          output: Fluid.of('materialis:molten_utherium', 10),
           input: 'undergarden:utheric_shard',
           energy: 555,
           id: `${id_prefix}utherium_nugget`
       },
       {
-          output: Fluid.of('materialis:molten_froststeel', 1296),
+          output: Fluid.of('materialis:molten_froststeel', 810),
           input: '#forge:storage_blocks/froststeel',
           energy: 40000,
           id: `${id_prefix}froststeel_block`
       },
       {
-          output: Fluid.of('materialis:molten_froststeel', 144),
+          output: Fluid.of('materialis:molten_froststeel', 90),
           input: '#forge:ingots/froststeel',
           energy: 5000,
           id: `${id_prefix}froststeel_ingot`
       },
       {
-          output: Fluid.of('materialis:molten_froststeel', 16),
+          output: Fluid.of('materialis:molten_froststeel', 10),
           input: '#forge:nuggets/froststeel',
           energy: 555,
           id: `${id_prefix}froststeel_nugget`
       },
       {
-          output: Fluid.of('materialis:molten_cloggrum', 1296),
+          output: Fluid.of('materialis:molten_cloggrum', 810),
           input: '#forge:storage_blocks/cloggrum',
           energy: 40000,
           id: `${id_prefix}cloggrum_block`
       },
       {
-          output: Fluid.of('materialis:molten_cloggrum', 144),
+          output: Fluid.of('materialis:molten_cloggrum', 90),
           input: '#forge:ingots/cloggrum',
           energy: 5000,
           id: `${id_prefix}cloggrum_ingot`
       },
       {
-          output: Fluid.of('materialis:molten_cloggrum', 16),
+          output: Fluid.of('materialis:molten_cloggrum', 10),
           input: '#forge:nuggets/cloggrum',
           energy: 555,
           id: `${id_prefix}cloggrum_nugget`
       },
       {
-          output: Fluid.of('materialis:molten_regalium', 1296),
+          output: Fluid.of('materialis:molten_regalium', 810),
           input: '#forge:storage_blocks/regalium',
           energy: 40000,
           id: `${id_prefix}regalium_block`
       },
       {
-          output: Fluid.of('materialis:molten_regalium', 144),
+          output: Fluid.of('materialis:molten_regalium', 90),
           input: '#forge:ingots/regalium',
           energy: 5000,
           id: `${id_prefix}regalium_ingot`
       },
       {
-          output: Fluid.of('materialis:molten_regalium', 16),
+          output: Fluid.of('materialis:molten_regalium', 10),
           input: '#forge:nuggets/regalium',
           energy: 555,
           id: `${id_prefix}regalium_nugget`
       },
       {
-          output: Fluid.of('tconstruct:molten_copper', 1296),
+          output: Fluid.of('tconstruct:molten_copper', 810),
           input: '#forge:storage_blocks/copper',
           energy: 40000,
           id: `${id_prefix}copper_block`
       },
       {
-          output: Fluid.of('tconstruct:molten_copper', 144),
+          output: Fluid.of('tconstruct:molten_copper', 90),
           input: '#forge:ingots/copper',
           energy: 5000,
           id: `${id_prefix}copper_ingot`
       },
       {
-          output: Fluid.of('tconstruct:molten_copper', 16),
+          output: Fluid.of('tconstruct:molten_copper', 10),
           input: '#forge:nuggets/copper',
           energy: 555,
           id: `${id_prefix}copper_nugget`
       },
       {
-          output: Fluid.of('tconstruct:molten_netherite', 1296),
+          output: Fluid.of('tconstruct:molten_netherite', 810),
           input: '#forge:storage_blocks/netherite',
           energy: 40000,
           id: `${id_prefix}netherite_block`
       },
       {
-          output: Fluid.of('tconstruct:molten_netherite', 144),
+          output: Fluid.of('tconstruct:molten_netherite', 90),
           input: '#forge:ingots/netherite',
           energy: 5000,
           id: `${id_prefix}netherite_ingot`
       },
       {
-          output: Fluid.of('tconstruct:molten_netherite', 16),
+          output: Fluid.of('tconstruct:molten_netherite', 10),
           input: '#forge:nuggets/netherite',
           energy: 555,
           id: `${id_prefix}netherite_nugget`
@@ -246,6 +246,54 @@ onEvent('recipes', (event) => {
           input: 'minecraft:amethyst_block',
           energy: 10000,
           id: `${id_prefix}molten_amethyst_from_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_iron', 810),
+          input: '#forge:storage_blocks/iron',
+          energy: 40000,
+          id: `${id_prefix}iron_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_iron', 90),
+          input: '#forge:ingots/iron',
+          energy: 5000,
+          id: `${id_prefix}iron_ingot`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_iron', 10),
+          input: '#forge:nuggets/iron',
+          energy: 555,
+          id: `${id_prefix}iron_nugget`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_gold', 810),
+          input: '#forge:storage_blocks/gold',
+          energy: 40000,
+          id: `${id_prefix}gold_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_gold', 90),
+          input: '#forge:ingots/gold',
+          energy: 5000,
+          id: `${id_prefix}gold_ingot`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_gold', 10),
+          input: '#forge:nuggets/gold',
+          energy: 555,
+          id: `${id_prefix}gold_nugget`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_diamond', 900),
+          input: '#forge:storage_blocks/diamond',
+          energy: 40000,
+          id: `${id_prefix}diamond_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_diamond', 100),
+          input: '#forge:gems/diamond',
+          energy: 5000,
+          id: `${id_prefix}diamond_gems`
       },
     ];
 
