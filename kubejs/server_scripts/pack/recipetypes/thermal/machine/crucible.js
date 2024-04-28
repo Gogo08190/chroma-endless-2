@@ -247,6 +247,54 @@ onEvent('recipes', (event) => {
           energy: 10000,
           id: `${id_prefix}molten_amethyst_from_block`
       },
+      {
+          output: Fluid.of('tconstruct:molten_iron', 1296),
+          input: '#forge:storage_blocks/iron',
+          energy: 40000,
+          id: `${id_prefix}iron_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_iron', 144),
+          input: '#forge:ingots/iron',
+          energy: 5000,
+          id: `${id_prefix}iron_ingot`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_iron', 16),
+          input: '#forge:nuggets/iron',
+          energy: 555,
+          id: `${id_prefix}iron_nugget`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_gold', 1296),
+          input: '#forge:storage_blocks/gold',
+          energy: 40000,
+          id: `${id_prefix}gold_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_gold', 144),
+          input: '#forge:ingots/gold',
+          energy: 5000,
+          id: `${id_prefix}gold_ingot`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_gold', 16),
+          input: '#forge:nuggets/gold',
+          energy: 555,
+          id: `${id_prefix}gold_nugget`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_diamond', 900),
+          input: '#forge:storage_blocks/diamond',
+          energy: 40000,
+          id: `${id_prefix}diamond_block`
+      },
+      {
+          output: Fluid.of('tconstruct:molten_diamond', 100),
+          input: '#forge:gems/diamond',
+          energy: 5000,
+          id: `${id_prefix}diamond_gems`
+      },
     ];
 
     recipes.forEach((recipe) => {
