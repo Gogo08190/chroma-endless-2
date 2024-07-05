@@ -2,7 +2,8 @@
 
 onEvent('recipes', (event) => {
     const idRemovals = [
-      'jaopca:storage_blocks.to_storage_block.wood'
+      'jaopca:storage_blocks.to_storage_block.wood',
+      'jaopca:mekanism.dust_to_material.sulfur'
     ];
 
     const outputRemovals = [
