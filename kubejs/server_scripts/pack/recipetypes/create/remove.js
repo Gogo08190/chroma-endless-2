@@ -22,7 +22,9 @@ onEvent('recipes', (event) => {
       'createoreexcavation:drilling/copper',
 
       'jaopca:immersiveengineering.material_to_plate_hammer.obsidian',
-      'create:crushing/obsidian'
+      'create:crushing/obsidian',
+
+      'create:crushing/nether_gold_ore'
     ];
 
     outputRemovals.forEach((removal) => {
