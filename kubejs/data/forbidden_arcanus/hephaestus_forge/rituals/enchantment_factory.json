@@ -30,7 +30,7 @@
         "aureal": 82,
         "experience": 500,
         "blood": 80,
-        "souls": 16
+        "souls": 1
     },
     "result": {
         "item": "industrialforegoing:enchantment_factory",
