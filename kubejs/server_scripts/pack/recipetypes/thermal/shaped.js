@@ -443,7 +443,7 @@ onEvent('recipes', (event) => {
             pattern: [' C ', 'TMT', 'SDS'],
             key: {
                 C: 'chroma:excitation_coil',
-                T: 'createdeco:netherite_coin',
+                T: 'thermal:netherite_coin',
                 M: 'chroma:manasteel_flux_coil',
                 S: '#forge:sheetmetals/steel',
                 D: 'immersiveengineering:dynamo'
