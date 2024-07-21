@@ -311,55 +311,56 @@
 							HideFlags: 3
 							AttributeModifiers: [
 								{
-									AttributeName: "generic.knockback_resistance"
+									Amount: 255
 									UUID: [I;
 										-123525
 										18232
 										1113
 										-36464
 									]
-									Amount: 255
 									Name: "generic.knockback_resistance"
+									AttributeName: "generic.knockback_resistance"
 								}
 								{
 									Amount: 255
-									Slot: "head"
-									AttributeName: "generic.armor"
 									Operation: 2
+									Slot: "head"
 									UUID: [I;
 										-123525
 										18332
 										1113
 										-36664
 									]
+									AttributeName: "generic.armor"
 									Name: "generic.armor"
 								}
 								{
 									Amount: 255
-									Slot: "head"
-									AttributeName: "generic.armor_toughness"
 									Operation: 2
+									Slot: "head"
 									UUID: [I;
 										-123525
 										18432
 										1113
 										-36864
 									]
+									AttributeName: "generic.armor_toughness"
 									Name: "generic.armor_toughness"
 								}
 								{
-									AttributeName: "generic.attack_knockback"
+									Amount: 255
 									UUID: [I;
 										-123525
 										18532
 										1113
 										-37064
 									]
-									Amount: 255
 									Name: "generic.attack_knockback"
+									AttributeName: "generic.attack_knockback"
 								}
 							]
 							display: {
+								Name: "[{\"text\":\"       \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"dfg\",\"obfuscated\":true},{\"text\":\" The Ban Hammer \",\"obfuscated\":false,\"underlined\":true},{\"text\":\"dfg\",\"obfuscated\":true,\"underlined\":false}]"
 								Lore: [
 									"[{\"text\":\"+\",\"italic\":false,\"color\":\"dark_red\",\"obfuscated\":true},{\"text\":\"-------------------------------------\",\"obfuscated\":false},{\"text\":\"+\"},{\"text\":\"\",\"obfuscated\":false,\"color\":\"dark_purple\"}]"
 									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"I  see   that  you've   found   something     \",\"color\":\"dark_purple\"},{\"text\":\" |\"},{\"text\":\" \",\"color\":\"dark_purple\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
@@ -373,7 +374,6 @@
 									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"your enemies will forever echo in the sky\",\"color\":\"dark_purple\"},{\"text\":\"    |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
 									"[{\"text\":\"+\",\"italic\":false,\"color\":\"dark_red\",\"obfuscated\":true},{\"text\":\"-------------------------------------\",\"obfuscated\":false},{\"text\":\"+\"}]"
 								]
-								Name: "[{\"text\":\"       \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"dfg\",\"obfuscated\":true},{\"text\":\" The Ban Hammer \",\"obfuscated\":false,\"underlined\":true},{\"text\":\"dfg\",\"obfuscated\":true,\"underlined\":false}]"
 							}
 						}
 					}
@@ -613,6 +613,7 @@
 				"34398A2894F63C4F"
 			]
 			size: 1.5d
+			can_repeat: true
 			id: "609570CE56E454C5"
 			tasks: [{
 				id: "418EFE03834070CC"
