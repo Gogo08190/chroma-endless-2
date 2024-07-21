@@ -39,6 +39,7 @@
 			y: 0.5d
 			shape: "octagon"
 			dependencies: ["51B5C098A8CFF70E"]
+			can_repeat: true
 			id: "0B1292772204A5D0"
 			tasks: [{
 				id: "778949662007943A"
