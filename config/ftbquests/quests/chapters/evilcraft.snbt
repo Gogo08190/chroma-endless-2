@@ -363,7 +363,7 @@
 				""
 				"{chapter.evil.quest.11.description.2}"
 				""
-				"{chapter.evil.quest.10.description.2}"
+				"{chapter.evil.quest.11.description.2}"
 			]
 			dependencies: ["2ED440BD4DB4DF72"]
 			id: "1B18B7E28E9F4887"
