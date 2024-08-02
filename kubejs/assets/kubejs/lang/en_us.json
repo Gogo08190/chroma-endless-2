@@ -2167,7 +2167,7 @@
 
   "chapter.thermal.quest.7.subtitle.1": "Range Upgrade",
   "chapter.thermal.quest.7.description.1": "The Radial Enhancement Augment allows your tool or machine to affect a greater area around it.",
-  "chapter.thermal.quest.7.description.2": "Each aygment will increase the maximum area by 1 block in every direction.",
+  "chapter.thermal.quest.7.description.2": "Each augment will increase the maximum area by 1 block in every direction.",
 
   "chapter.thermal.quest.8.subtitle.1": "Efficient Fuel",
   "chapter.thermal.quest.8.description.1": "Increase fuel efficiency.",
@@ -2179,7 +2179,7 @@
   "chapter.thermal.quest.10.description.1": "The Expanded Tank Construction augment scales the size of all fluid storage in machine, device, dynamo, or tool by 4.",
 
   "chapter.thermal.quest.11.subtitle.1": "Better Dynamo",
-  "chapter.thermal.quest.11.description.1": "The Auxiliary Reaction Chamber augment inscreases maximum generation of a dynamo by 100%% but scales the efficiency by 0.9.",
+  "chapter.thermal.quest.11.description.1": "The Auxiliary Reaction Chamber augment increases maximum generation of a dynamo by 100%% but scales the efficiency by 0.9.",
 
   "chapter.thermal.quest.12.subtitle.1": "Secondary Output",
   "chapter.thermal.quest.12.description.1": "The Auxilliary Process Sieve augment increases chance of secondary output by 15%% but scales the energy per operation by 1.25.",
@@ -2194,16 +2194,16 @@
   "chapter.thermal.quest.15.description.1": "The Alchemical Extender augment increases duration of potion by 100%%. Has no effect on potion that have instant, on-time effects.",
 
   "chapter.thermal.quest.16.subtitle.1": "Potion Amplifier",
-  "chapter.thermal.quest.16.description.1": "The Alchemical Amplifier augment increases the effect of the stored potion by 1 level but descreases its duration by 25%%.",
+  "chapter.thermal.quest.16.description.1": "The Alchemical Amplifier augment increases the effect of the stored potion by 1 level but decreases its duration by 25%%.",
 
   "chapter.thermal.quest.17.subtitle.1": "FE Upgrader",
   "chapter.thermal.quest.17.description.1": "The High-Flux RF Coil augment scales the RF storage by 2 and the RF transfer by 6.",
 
   "chapter.thermal.quest.18.subtitle.1": "XP Keeper",
-  "chapter.thermal.quest.18.description.1": "Allow XP to be stored and retrieved.",
+  "chapter.thermal.quest.18.description.1": "Allows XP to be stored and retrieved.",
 
   "chapter.thermal.quest.19.subtitle.1": "Filtering Power",
-  "chapter.thermal.quest.19.description.1": "The Item Filter augment allows a machine, device, or piece of equipement to selectively accept items.",
+  "chapter.thermal.quest.19.description.1": "The Item Filter augment allows a machine, device, or piece of equipment to selectively accept items.",
   "chapter.thermal.quest.19.description.2": "The filter can be configured in a separate GUI, accessible by shift right-clicking the block or item it is installed in, or through a tab in the block's GUI.",
   "chapter.thermal.quest.19.description.3": "Up to 15 items can be added to the filter, with option to change between allow/deny list and to match/ignore NBT.",
 
