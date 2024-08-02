@@ -7090,46 +7090,6 @@
 			}]
 		}
 		{
-			x: -25.0d
-			y: -15.5d
-			dependencies: ["5BBEC317ADF6C20C"]
-			id: "3DB6E592C3C98DFA"
-			tasks: [{
-				id: "745671A9926A6919"
-				type: "item"
-				item: "delightful:raw_goat"
-			}]
-			rewards: [{
-				id: "64AA2F98FB044279"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -24.0d
-			y: -15.5d
-			dependencies: ["5BBEC317ADF6C20C"]
-			id: "4A7299AE3B61E038"
-			tasks: [{
-				id: "3C433B0F49082433"
-				type: "item"
-				item: "delightful:cooked_goat"
-			}]
-			rewards: [{
-				id: "31A104AA316E7AFC"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: -23.0d
 			y: -15.5d
 			dependencies: ["5BBEC317ADF6C20C"]
@@ -7161,26 +7121,6 @@
 			}]
 			rewards: [{
 				id: "3C4461C3A737CAA8"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -21.0d
-			y: -15.5d
-			dependencies: ["5BBEC317ADF6C20C"]
-			id: "13D0889AD6FEF927"
-			tasks: [{
-				id: "12F85750E7AE27FB"
-				type: "item"
-				item: "delightful:honey_glazed_walnut"
-			}]
-			rewards: [{
-				id: "7936E99626EF17AC"
 				type: "item"
 				item: {
 					id: "numismaticoverhaul:bronze_coin"
@@ -7270,26 +7210,6 @@
 			}]
 		}
 		{
-			x: -25.0d
-			y: -14.5d
-			dependencies: ["5BBEC317ADF6C20C"]
-			id: "4794421212C5F4EC"
-			tasks: [{
-				id: "314EA529960EA64C"
-				type: "item"
-				item: "delightful:field_salad"
-			}]
-			rewards: [{
-				id: "0C637A1F6B0814E2"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: -24.0d
 			y: -14.5d
 			dependencies: ["5BBEC317ADF6C20C"]
@@ -7370,26 +7290,6 @@
 			}]
 		}
 		{
-			x: -20.0d
-			y: -14.5d
-			dependencies: ["5BBEC317ADF6C20C"]
-			id: "40DB77C880843C31"
-			tasks: [{
-				id: "5B0E4C18F9C2DA99"
-				type: "item"
-				item: "delightful:salmonberries"
-			}]
-			rewards: [{
-				id: "2E6817BF7B50C00D"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: -19.0d
 			y: -14.5d
 			dependencies: ["5BBEC317ADF6C20C"]
@@ -7450,8 +7350,8 @@
 			}]
 		}
 		{
-			x: -25.0d
-			y: -13.5d
+			x: -24.0d
+			y: -15.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "236FEE9F307863F4"
 			tasks: [{
@@ -7470,8 +7370,8 @@
 			}]
 		}
 		{
-			x: -24.0d
-			y: -13.5d
+			x: -21.0d
+			y: -15.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "5B39CC5B0039DD4A"
 			tasks: [{
@@ -7490,8 +7390,8 @@
 			}]
 		}
 		{
-			x: -23.0d
-			y: -13.5d
+			x: -20.0d
+			y: -14.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "35DDB9011432A40C"
 			tasks: [{
@@ -7510,7 +7410,7 @@
 			}]
 		}
 		{
-			x: -22.0d
+			x: -23.0d
 			y: -13.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "5C7D2CE514A511BA"
@@ -7530,7 +7430,7 @@
 			}]
 		}
 		{
-			x: -21.0d
+			x: -22.0d
 			y: -13.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "46A06E067E182878"
@@ -7550,7 +7450,7 @@
 			}]
 		}
 		{
-			x: -20.0d
+			x: -21.0d
 			y: -13.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "5D7B4738A78A7A11"
@@ -7570,7 +7470,7 @@
 			}]
 		}
 		{
-			x: -19.0d
+			x: -20.0d
 			y: -13.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "1E4510366D07DEB7"
@@ -7590,7 +7490,7 @@
 			}]
 		}
 		{
-			x: -18.0d
+			x: -19.0d
 			y: -13.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "5B0B02927B538474"
@@ -9999,14 +9899,14 @@
 			}]
 		}
 		{
-			x: -17.0d
+			x: -18.0d
 			y: -13.5d
 			dependencies: ["5BBEC317ADF6C20C"]
 			id: "3A8993AB5DFAFC15"
 			tasks: [{
 				id: "6B5405341DE4768D"
 				type: "item"
-				title: "Any #farmersdelight:tools/knives"
+				title: "Knives"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1
