@@ -493,6 +493,17 @@ onEvent('recipes', (event) => {
             },
             id: 'ae2:misc/tank_sky_stone'
         },
+        {
+            output: 'ae2wtlib:infinity_booster_card',
+            pattern: ['PSP', 'CWC'],
+            key: {
+                S: 'aeinfinitybooster:infinity_card',
+                P: 'ae2:fluix_pearl',
+                W: 'ae2:wireless_receiver',
+                C: 'ae2:advanced_card'
+            },
+            id: 'ae2wtlib:infinity_booster_card'
+        },
     ];
 
     recipes.forEach((recipe) => {
