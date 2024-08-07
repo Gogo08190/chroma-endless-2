@@ -10264,26 +10264,6 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: -8.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "2E2FC29A40C26B7F"
-			tasks: [{
-				id: "2555CAAB8E070CE7"
-				type: "item"
-				item: "alexsmobs:gongylidia"
-			}]
-			rewards: [{
-				id: "3623DBC237491EE7"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: 0.0d
 			y: -8.5d
 			dependencies: ["578E72BE9F1B045C"]
@@ -10344,8 +10324,8 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: -7.5d
+			x: -3.0d
+			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "669DF72959414794"
 			tasks: [{
@@ -10464,86 +10444,6 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -7.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "196612D0DB227AB1"
-			tasks: [{
-				id: "0CEA2834802714BA"
-				type: "item"
-				item: "alexsdelight:bison_mince"
-			}]
-			rewards: [{
-				id: "2CEE975C32BCCC3E"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 2.0d
-			y: -7.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "3FC1BA87F881486B"
-			tasks: [{
-				id: "53C348AFE65DC76D"
-				type: "item"
-				item: "alexsdelight:bison_patty"
-			}]
-			rewards: [{
-				id: "1F4713DA639AAA43"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 3.0d
-			y: -9.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "02391B518B5AF938"
-			tasks: [{
-				id: "5EA852A73EBCC988"
-				type: "item"
-				item: "alexsdelight:raw_bunfungus_drumstick"
-			}]
-			rewards: [{
-				id: "417FD18F708250ED"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 0.5d
-			y: -5.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "5583C54EE0D93BFA"
-			tasks: [{
-				id: "3C2B701462275CCA"
-				type: "item"
-				item: "alexsdelight:cooked_bunfungus_drumstick"
-			}]
-			rewards: [{
-				id: "29F90B079B45D16E"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: 3.0d
 			y: -8.5d
 			dependencies: ["578E72BE9F1B045C"]
@@ -10564,7 +10464,7 @@
 			}]
 		}
 		{
-			x: 3.0d
+			x: -2.0d
 			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "631864939C5F4A4E"
@@ -10584,87 +10484,7 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -7.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "4CA166D391660477"
-			tasks: [{
-				id: "59C00680E694903D"
-				type: "item"
-				item: "alexsdelight:raw_bison"
-			}]
-			rewards: [{
-				id: "3C2B75065ED971C0"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 2.0d
-			y: -6.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "7E1C4A60A8DD2127"
-			tasks: [{
-				id: "32F5184B1E95D29B"
-				type: "item"
-				item: "alexsdelight:cooked_bison"
-			}]
-			rewards: [{
-				id: "52FD185E1A5DD575"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -5.0d
-			y: -6.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "1E1B6D62884CCBA3"
-			tasks: [{
-				id: "44ACF7FC0BBF4EF2"
-				type: "item"
-				item: "alexsdelight:raw_bunfungus"
-			}]
-			rewards: [{
-				id: "1770F645BDCB80F2"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -4.0d
-			y: -6.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "1E40F1ABB094DCF2"
-			tasks: [{
-				id: "318C7DBFD7FAA68D"
-				type: "item"
-				item: "alexsdelight:cooked_bunfungus"
-			}]
-			rewards: [{
-				id: "312DF773E01C2847"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -3.0d
+			x: -1.0d
 			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "04A48C4CB1E8247D"
@@ -10684,27 +10504,7 @@
 			}]
 		}
 		{
-			x: -2.0d
-			y: -6.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "760F715BD9CB5D88"
-			tasks: [{
-				id: "334F6D7E6EA53647"
-				type: "item"
-				item: "alexsdelight:gongylidia_bruschetta"
-			}]
-			rewards: [{
-				id: "5977E5D2465A5CD7"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -1.0d
+			x: 1.0d
 			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "23BC54BC31282210"
@@ -10724,8 +10524,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -6.5d
+			x: 2.0d
+			y: -7.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "7E29B53310D34D9C"
 			tasks: [{
@@ -10745,7 +10545,7 @@
 		}
 		{
 			x: 1.0d
-			y: -6.5d
+			y: -7.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "78F4FC913DEA0491"
 			tasks: [{
@@ -10764,8 +10564,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -5.5d
+			x: -1.0d
+			y: -8.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "1F84FE17A0275CC4"
 			tasks: [{
@@ -10784,48 +10584,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: -5.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "118C88E9136C84AF"
-			tasks: [{
-				id: "2371B4F35893D834"
-				type: "item"
-				item: "alexsdelight:bison_burger"
-			}]
-			rewards: [{
-				id: "15F6EA32E4A04AAA"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -0.5d
-			y: -5.5d
-			dependencies: ["578E72BE9F1B045C"]
-			id: "427B75D6A3A63BAA"
-			tasks: [{
-				id: "1E30F1914873030D"
-				type: "item"
-				item: "alexsdelight:bunfungus_sandwich"
-			}]
-			rewards: [{
-				id: "4E2E9812195AB158"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -3.5d
-			y: -5.5d
+			x: 0.0d
+			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "265335452EFB4C0E"
 			tasks: [{
@@ -10844,8 +10604,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -5.5d
+			x: 3.0d
+			y: -9.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "4192B9E8AA8B966C"
 			tasks: [{
