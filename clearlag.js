@@ -59,7 +59,8 @@ let blacklist = [
   'jaopca:create_crushed_ores.ostrum',
   'jaopca:create_crushed_ores.regalium',
   'jaopca:create_crushed_ores.utherium',
-  'immersiveengineering:mold_plate'
+  'immersiveengineering:mold_plate',
+  'minecraft:glowstone_dust'
 ];
 
 // Notification Clear Items
@@ -71,7 +72,7 @@ let clearLag =(server, reset) => {
     lastTotalClearLagResult.clear();
 
     itemList.forEach(items => {
-        if(!blacklist.includes(items.getFullNBT().Item.id)) {
+        if (!blacklist.includes(items.getFullNBT().Item.id) && items.age > 1200) {  // Vérification de l'âge
             var key = items.name;
             lastResult.add(key, items.item.count);
             lastTotalClearLagResult.add(key, items.item.count);
@@ -93,8 +94,7 @@ let timeSchedule = (server) => {
         server.scheduleInTicks(timerCheck, server, callback => {
             let currentTime = timerCheck*++round;
             let nextItems = server.getEntities().filter(entity => entity.type.equals('minecraft:item')).length;
-            // The time left until cleaning of items
-            let minutesLeft = (cleaningTime - currentTime) / 1200
+            let minutesLeft = (cleaningTime - currentTime) / 1200;
 
             if(cleaningTime <= currentTime) {
                 clearLag(server, true);
@@ -107,14 +107,15 @@ let timeSchedule = (server) => {
                 timerCheckChange = false;
                 round = 0;
                 server.tell([Text.green('[ClearLag]'),' TimerCheck a été mis à jour a ', `${timerCheck/1200}`, '!']);
-            }else if (cleaningTimeChange) {
+            } else if (cleaningTimeChange) {
                 cleaningTimeChange = false;
                 round = 0;
                 server.tell([Text.green('[ClearLag]'),' La minuterie a été mise à jour à ', `${cleaningTime/1200}`, '!']);
-            } else if (notifications.includes(minutesLeft))
+            } else if (notifications.includes(minutesLeft)) {
                 server.tell([Text.green('[ClearLag]'), ' Suppression de ', `${nextItems}`, ' items dans ', `${minutesLeft}`, ' minutes !']);
+            }
             if(timerOn) callback.reschedule();
-        })
+        });
     }
 }
 
@@ -125,22 +126,22 @@ onEvent('server.load', event => {
 let cleaningTimeChange = false;
 let timerCheckChange = false;
 
-
-// Custom Clerlag Commands
+// Custom ClearLag Commands with Op Check
 onEvent('command.registry', event => {
     const {commands: Commands, arguments: Arguments} = event;
     event.register(
         Commands.literal('clearlag')
+        .requires(source => source.hasPermission(2))  // Vérification si le joueur est op (niveau de permission 2 et plus)
         .then(Commands.literal('clear').executes(ctx => {
-            let level = event.server
+            let level = event.server;
             clearLag(level, false);
             return 1;
         }))
         .then(Commands.literal('result').executes(ctx => {
-            let server = event.server
-            server.tell([Text.green('[ClearLag]'), ' Rapport:'])
+            let server = event.server;
+            server.tell([Text.green('[ClearLag]'), ' Rapport:']);
             lastClearLagResult.forEach(results => {
-                server.tell(['[ ', results.key, ': ', results.value, ' ]'])
+                server.tell(['[ ', results.key, ': ', results.value, ' ]']);
             });
             return 1;
         }))
@@ -148,25 +149,25 @@ onEvent('command.registry', event => {
             const time = Arguments.INTEGER.getResult(ctx, 'integer');
             timerCheckChange = true;
             timerCheck = time * 1200;
-            server.tell([Text.green('[ClearLag]'), ' Intervalle réglé sur ', time, ' minute'])
+            ctx.getSource().getServer().tell([Text.green('[ClearLag]'), ' Intervalle réglé sur ', time, ' minute']);
             return 1;
         })))
         .then(Commands.literal('timer').then(Commands.argument('integer', Arguments.INTEGER.create(event)).executes(ctx => {
             const time = Arguments.INTEGER.getResult(ctx, 'integer');
-            let server = event.server
-            cleaningTimeChange = true
+            let server = event.server;
+            cleaningTimeChange = true;
             cleaningTime = time * 1200;
-            server.tell([Text.green('[ClearLag]'), ' Minuterie réglée sur ', time, ' minute'])
+            server.tell([Text.green('[ClearLag]'), ' Minuterie réglée sur ', time, ' minute']);
             return 1;
         })))
         .then(Commands.literal('timerOn').then(Commands.argument('boolean', Arguments.BOOLEAN.create(event)).executes(ctx => {
             const timeOn = Arguments.BOOLEAN.getResult(ctx, 'boolean');
-            let server = event.server
-            server.tell([Text.green('[ClearLag]'), ' ClearLag est ', timerOn])
+            let server = event.server;
+            server.tell([Text.green('[ClearLag]'), ' ClearLag est ', timerOn]);
             if(timerOn === timeOn) return 1;
             timerOn = timeOn;
             if(timerOn) timeSchedule(server);
             return 1;
         })))
-    )
+    );
 });
