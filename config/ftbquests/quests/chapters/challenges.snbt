@@ -486,7 +486,7 @@
 				title: "{chapter.challenges.title.bis}"
 				icon: "apotheosis:boss_summoner"
 				stat: "minecraft:mob_kills"
-				value: 1000000
+				value: 100000
 			}]
 			rewards: [{
 				id: "269E2E92051499FA"
