@@ -4233,6 +4233,10 @@
   "chapter.spirit.quest.10.description.3": "Si plusieurs mobs sont tués, leurs âmes seront également stockées dans le cristal, mais il ne stockera que les âmes du même mob.",
   "chapter.spirit.quest.10.description.4": "Une fois qu'un Soul Crystal a absorbé 64 âmes, il sera amélioré au Niveau I, ce qui sera utile plus tard.",
 
+  "Jardiland":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.jardiland.quest.1.description.1": "Pour obtenir l'objet, une Crevette-Mante apprivoisée doit tenir du riz provenant du mod Farmer's Delight. La Crevette-Mante doit ensuite être hors de l'eau et réglée en mode cassage de blocs avant qu'un Fourneau ou un Fumoir soit placé à proximité. La Crevette-Mante va alors commencer à cuire le riz jusqu'à ce qu'il se transforme en Riz sauté aux crevettes.",
+
   "FtbQuests": "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "ftbquests.gui.pin": "Epingler",

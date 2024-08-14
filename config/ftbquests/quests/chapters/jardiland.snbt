@@ -10166,6 +10166,7 @@
 		{
 			x: 2.0d
 			y: -9.5d
+			description: ["chapter.jardiland.quest.1.description.1"]
 			dependencies: ["578E72BE9F1B045C"]
 			id: "05FF9D21B6230D89"
 			tasks: [{

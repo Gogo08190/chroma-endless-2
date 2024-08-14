@@ -4233,6 +4233,10 @@
   "chapter.spirit.quest.10.description.3": "If multiple mobs are killed, their souls will also be stored in the crystal, but it will only store souls of the same mob.",
   "chapter.spirit.quest.10.description.4": "Once a Soul Crystal has absorbed 64 souls it will be upgraded to Tier I, which is something that will be useful later on.",
 
+  "Jardiland":"---------------------------------------------------------------------------------------------------------------------------------------------------",
+
+  "chapter.jardiland.quest.1.description.1": "To obtain the item, a tamed Mantis Shrimp needs to be holding rice from the Farmer's Delight mod. The Mantis Shrimp then needs to be out of water and set to break block mode before either a Furnace or Smoker is placed nearby. The Mantis Shrimp will then proceed to cook the rice until it is turned into Shrimp-Fried Rice.",
+
   "FtbQuests": "---------------------------------------------------------------------------------------------------------------------------------------------------",
 
   "ftbquests.gui.pin": "Pin",
