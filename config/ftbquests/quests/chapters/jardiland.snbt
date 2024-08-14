@@ -10164,27 +10164,6 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: -9.5d
-			description: ["chapter.jardiland.quest.1.description.1"]
-			dependencies: ["578E72BE9F1B045C"]
-			id: "05FF9D21B6230D89"
-			tasks: [{
-				id: "19BF1EA95115E7FC"
-				type: "item"
-				item: "alexsmobs:shrimp_fried_rice"
-			}]
-			rewards: [{
-				id: "27B79D8E72A03C01"
-				type: "item"
-				item: {
-					id: "numismaticoverhaul:bronze_coin"
-					Count: 1
-					tag: { }
-				}
-			}]
-		}
-		{
 			x: -5.0d
 			y: -8.5d
 			dependencies: ["578E72BE9F1B045C"]
@@ -10325,7 +10304,7 @@
 			}]
 		}
 		{
-			x: -3.0d
+			x: -2.5d
 			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "669DF72959414794"
@@ -10465,7 +10444,7 @@
 			}]
 		}
 		{
-			x: -2.0d
+			x: -1.5d
 			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "631864939C5F4A4E"
@@ -10485,7 +10464,7 @@
 			}]
 		}
 		{
-			x: -1.0d
+			x: -0.5d
 			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "04A48C4CB1E8247D"
@@ -10505,8 +10484,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -6.5d
+			x: 2.0d
+			y: -9.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "23BC54BC31282210"
 			tasks: [{
@@ -10585,7 +10564,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: 0.5d
 			y: -6.5d
 			dependencies: ["578E72BE9F1B045C"]
 			id: "265335452EFB4C0E"
