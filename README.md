@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="_blank" href="https://www.curseforge.com/minecraft/modpacks/chroma-endless">
+  <a target="_blank" href="https://www.curseforge.com/minecraft/modpacks/chroma-endless-2">
     <img border="0" alt="Chroma Endless 2" src="https://chromatech.fr/img/ce2banner.jpg">
   </a>
 </p>
