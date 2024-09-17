@@ -106,7 +106,7 @@
                 "item": "powah:uraninite_ore"
               }
             },
-            "chance": 0.49
+            "chance": 0.54
           },
           {
             "content": {
@@ -306,7 +306,7 @@
                 "item": "biggerreactors:uranium_ore"
               }
             },
-            "chance": 0.54
+            "chance": 0.68
           },
           {
             "content": {
