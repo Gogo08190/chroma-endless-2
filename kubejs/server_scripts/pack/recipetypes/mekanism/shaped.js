@@ -1125,7 +1125,7 @@ onEvent('recipes', (event) => {
             output: 'solarpanels:photonic_energy_tablet',
             pattern: ['CEC', 'AFA', 'CEC'],
             key: {
-                A: 'chroma:cosmic_alloy',
+                A: 'chroma:infinite_alloy',
                 C: 'mekaevolution:infinite_control_circuit',
                 F: Item.of('solarpanels:light_absorbing_energy_tablet').weakNBT(),
                 E: 'chroma:enriched_eternal_cryostella_polaris'
