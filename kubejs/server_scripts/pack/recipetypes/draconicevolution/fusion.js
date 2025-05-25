@@ -301,7 +301,7 @@ onEvent('recipes', (event) => {
             { item: 'draconicevolution:large_chaos_frag' },
             { item: 'draconicevolution:large_chaos_frag' }
           ],
-          tier: "WYVERN",
+          tier: "DRACONIC",
           catalyst: { item: 'draconicevolution:awakened_crafting_injector', count: 1 },
           total_energy: 8000000,
           result: { item: 'draconicevolution:chaotic_crafting_injector' },

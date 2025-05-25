@@ -3413,7 +3413,7 @@
   "chapter.ae.quest.39.description.3": "Networks lacking an &bME Controller&r, termed 'ad-hoc' networks, support a maximum of just 8 channels.",
 
   "chapter.ae.quest.40.subtitle.1": "Controlling Channels",
-  "chapter.ae.quest.40.description.1": "The &bME Controller&r is the final component essential for any expansive ME network",
+  "chapter.ae.quest.40.description.1": "The &bME Controller&r is the final component essential for any expansive ME network.",
   "chapter.ae.quest.40.description.2": "A controller boosts an ME Network's capacity well beyond the standard 8 channels of ad-hoc networks, offering 32 channels from each block face, amounting to a total of 216 channels.",
   "chapter.ae.quest.40.description.3": "While that applies to a single-block controller, it's worth noting that the ME Controller is a multi-block structure. It can span up to 7x7x7 blocks and have any shape within that limit. Each block offers its unique set of channels, provided no controller block is flanked by 4 others on the same plane.",
   "chapter.ae.quest.40.description.4": "An ME Network can accommodate only one multiblock controller simultaneously. Trying to integrate multiple controllers in different sections will trigger a conflict, leading to the entire network's shutdown.",
